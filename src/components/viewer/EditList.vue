@@ -35,14 +35,14 @@ export default {
         current_hit() {
             $(`#circle-${this.current_hit}`).addClass('circle-active');
             this.process_edits_html();
-            this.draw_lines();
+            // this.draw_lines();
         },
         hits_data() {
             this.process_edits_html();
-            this.draw_lines();
+            // this.draw_lines();
         },
         edits_dict() {
-            this.draw_lines();
+            // this.draw_lines();
         },
     },
     methods: {
