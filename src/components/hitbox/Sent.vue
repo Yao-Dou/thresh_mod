@@ -280,131 +280,101 @@ export default {
                 $('span#source-sentence, span#target-sentence, .edit-text, .selected-span-text').removeClass('hide-tokenization-chars')
             }
         },
+        _buildSpanOpenTag(edit, sent_type, span_class, selected_category, includes_selection) {
+            let light = !this.hasAnnotations(edit) ? "-light" : "";
+            let composite_info = edit.hasOwnProperty('child_category') ? `data-childcategory=${edit['child_category']} data-childid=${edit['child_id']}` : "";
+
+            // Case 1: The span is the one currently being selected by the user.
+            // Render it as a simple, non-interactive highlighted area.
+            if (includes_selection && this.is_selected(edit, sent_type, selected_category)) {
+                return `<span @mouseover.stop @mouseout.stop class="bg-${edit['category']}-light span">`;
+            } 
+            
+            // Case 2: A standard, interactive annotation span.
+            else {
+                return `<span @click="click_span" @mouseover="hover_span" @mouseout="un_hover_span" class="${edit['category']} border-${edit['category']}${light} pointer span ${span_class}" data-category="${edit['category']}" data-id="${edit['category']}-${edit['id']}" ${composite_info}>`;
+            }
+        },
         render_sentence(sent, sent_type, span_class, selected_category) {
-            let prev_idx = 0
-            let sentence_html = ''
-
-            let hit_edits = _.cloneDeep(this.hits_data[this.current_hit - 1].edits)
-
-            // Add selected edits
-            const includes_selection = selected_category != null && selected_category != ''
+            let hit_edits = _.cloneDeep(this.hits_data[this.current_hit - 1].edits);
+            const includes_selection = selected_category != null && selected_category != '';
             if (includes_selection) {
-                const selected_idx = this.get_selected_index(sent_type)
+                const selected_idx = this.get_selected_index(sent_type);
                 if (this.multi_select_enabled(sent_type) && Array.isArray(selected_idx[0])) {
                     for (let i = 0; i < selected_idx.length; i++) {
                         hit_edits.push({
-                            "category": selected_category, 
+                            "category": selected_category,
                             [sent_type]: [selected_idx[i]],
-                        })
+                        });
                     }
                 } else {
                     hit_edits.push({
-                        "category": selected_category, 
+                        "category": selected_category,
                         [sent_type]: [selected_idx]
-                    })
+                    });
                 }
             }
-            
-            const edits = this.process_edit_list(hit_edits, sent_type)
-            
-            for (let i = 0; i < edits.length; i++) {
-                let edit = edits[i]
-                let next_edit = edits[i + 1]
+            const allEdits = this.process_edit_list(hit_edits, sent_type);
 
-                sentence_html += sent.substring(prev_idx, edit[sent_type][0]);
-                
-                let light = !this.hasAnnotations(edit) ? "-light" : "";
-                let outside = i < edits.length - 1 && next_edit[sent_type][0] <= edit[sent_type][1] ? "outside" : ""
-                let composite_info = edit.hasOwnProperty('child_category') ? `data-childcategory=${edit['child_category']} data-childid=${edit['child_id']}` : ""
-
-                if (includes_selection && this.is_selected(edit, sent_type, selected_category)) {
-                    sentence_html += `<span @mouseover.stop @mouseout.stop class="bg-${edit['category']}-light span ${outside}">`;
-                } else {
-                    sentence_html += `<span @click="click_span" @mouseover="hover_span" @mouseout="un_hover_span" class="${edit['category']} border-${edit['category']}${light} pointer span ${span_class} ${outside}" data-category="${edit['category']}" data-id="${edit['category']}-${edit['id']}" ${composite_info}>`;
-                }
-
-                let start_i = i
-
-                // TODO: This current code allows up to two overlapping edits, but we want to render arbitrarily
-                let whether_more_overlap = false
-                while (i < edits.length - 1 && next_edit[sent_type][0] <= edits[start_i][sent_type][1]) {
-                    if (i == start_i) {
-                        sentence_html += sent.substring(edit[sent_type][0], next_edit[sent_type][0]);
-                    } else {
-                        let j = i
-                        if (whether_more_overlap) {
-                            j -= 1
-                        }
-                        sentence_html += sent.substring(edits[j][sent_type][1], next_edit[sent_type][0]);
-                    }
-                    whether_more_overlap = false             
-                    
-                    let outside = i < edits.length - 2 && edits[i + 2][sent_type][0] <= next_edit[sent_type][1] ? "middleside" : ""
-                    
-                    let light = !this.hasAnnotations(edit) ? "-light" : "";
-                    // TODO: Add case for all split chars, in all three contexts
-                    // This looks like the only difference, there's an edge case for the || chars
-                    // if (category == "split" && (target_sentence.substring(target_spans[i][1], target_spans[i][2]) =="||")) {
-                    //     sentence_html += `<span @mousedown.stop @mouseup.stop  @click="click_span"  @mouseover="hover_span" @mouseout="un_hover_span" class="${category} pointer span target_span txt-split${light} split-sign ${outside}" data-category="${category}" data-id="${category}-` + target_spans[i][3] + `">`;
-                    // }
-                    let composite_info = edit.hasOwnProperty('child_category') ? `data-childcategory=${edit['child_category']} data-childid=${edit['child_id']}` : "" 
-
-                    if (includes_selection && this.is_selected(edit, sent_type, selected_category)) {
-                        sentence_html += `
-                            <span @mouseover.stop @mouseout.stop class="bg-${edit['category']}-light span ${outside}">`;
-                    } else {
-                        sentence_html += `
-                            <span @mouseover.stop @mouseout.stop @click.stop @click="click_span" @mouseover="hover_span" @mouseout="un_hover_span" class="${next_edit['category']} border-${next_edit['category']}${light} pointer span ${span_class} ${outside}" data-category="${next_edit['category']}" data-id="${next_edit['category']}-${next_edit['id']}" ${composite_info}>`;
-                    }
-
-                    i++;
-                    edit = edits[i]
-                    next_edit = edits[i + 1]
-
-                    if (i < edits.length - 1 && next_edit[sent_type][0] <= edit[sent_type][1]) {
-                        whether_more_overlap = true
-                        let next_next_edit = edits[i + 1]
-                        sentence_html += sent.substring(edit[sent_type][0], next_next_edit[sent_type][0]);  
-
-                        let light = !this.hasAnnotations(next_next_edit) ? "-light" : "";
-                        composite_info = next_next_edit.hasOwnProperty('child_category') ? `data-childcategory=${next_next_edit['child_category']} data-childid=${next_next_edit['child_id']}` : ""
-                        
-                        if (includes_selection && this.is_selected(edit, sent_type, selected_category)) {
-                            sentence_html += `
-                                <span @mouseover.stop @mouseout.stop class="bg-${next_category}-light span">`;
-                        } else {
-                            sentence_html += `
-                                <span @mouseover.stop @mouseout.stop @click.stop @click="click_span" @mouseover="hover_span" @mouseout="un_hover_span" class="${next_next_edit['category']} border-${next_next_edit['category']}${light} pointer span ${span_class}" data-category="${next_next_edit['category']}" data-id="${next_next_edit['category']}-${next_next_edit['id']}" ${composite_info}>`;
-                        }
-
-                        sentence_html += `
-                                ${sent.substring(next_next_edit[sent_type][0], next_next_edit[sent_type][1])}</span>
-                            ${sent.substring(next_next_edit[sent_type][1], edit[sent_type][1])}</span>`;
-
-                        i++;
-                        edit = edits[i]
-                        next_edit = edits[i + 1]
-                    } else {
-                        next_edit = edits[i + 1]
-                        sentence_html += `
-                            ${sent.substring(next_edit[sent_type][0], next_edit[sent_type][1])}</span>`;
-                    }
-                }
-
-                if (start_i != i) {
-                    let final_idx = i
-                    if (start_i != i && whether_more_overlap) {
-                        final_idx -= 1                        
-                    }
-                    sentence_html += `${sent.substring(edits[final_idx][sent_type][1], edits[start_i][sent_type][1])}</span>`;
-                    prev_idx = edits[start_i][sent_type][1];
-                } else {
-                    sentence_html += `${sent.substring(edits[start_i][sent_type][0], edits[start_i][sent_type][1])}</span>`;
-                    prev_idx = edits[start_i][sent_type][1];
-                }
+            if (allEdits.length === 0) {
+                return sent; // No edits, just return the plain sentence.
             }
 
-            sentence_html += sent.substring(prev_idx);
+            // --- STAGE 2: SEGMENTATION ALGORITHM ---
+
+            // 1. Collect all unique start and end points from all edits.
+            const points = new Set([0, sent.length]); // Start with sentence boundaries
+            allEdits.forEach(edit => {
+                points.add(edit[sent_type][0]);
+                points.add(edit[sent_type][1]);
+            });
+
+            // 2. Create a sorted list of points. These points define our atomic segments.
+            const splitPoints = Array.from(points).sort((a, b) => a - b);
+
+            let sentence_html = '';
+
+            // 3. Iterate through each atomic segment.
+            for (let i = 0; i < splitPoints.length - 1; i++) {
+                const start = splitPoints[i];
+                const end = splitPoints[i + 1];
+
+                // Skip zero-length segments which can occur if multiple spans share a boundary.
+                if (start >= end) {
+                    continue;
+                }
+
+                const segmentText = sent.substring(start, end);
+
+                // 4. Find all edits that "contain" this segment.
+                const enclosingEdits = allEdits.filter(edit =>
+                    edit[sent_type][0] <= start && edit[sent_type][1] >= end
+                );
+
+                // 5. Sort enclosing edits to ensure proper nesting (outermost first).
+                // Sort by start index (ascending), then by span length (descending).
+                // This ensures a larger span wraps a smaller one if they share a start point.
+                enclosingEdits.sort((a, b) => {
+                    const a_start = a[sent_type][0];
+                    const b_start = b[sent_type][0];
+                    if (a_start !== b_start) {
+                        return b_start - a_start; // Sort by start index DESCENDING
+                    }
+                    const a_end = a[sent_type][1];
+                    const b_end = b[sent_type][1];
+                    return a_end - b_end; // Then by end index ASCENDING (shorter span first)
+                });
+
+                // 6. Wrap the segment text in the spans of all its enclosing edits.
+                let segmentHtml = segmentText;
+                for (const edit of enclosingEdits) {
+                    const openTag = this._buildSpanOpenTag(edit, sent_type, span_class, selected_category, includes_selection);
+                    segmentHtml = `${openTag}${segmentHtml}</span>`;
+                }
+
+                sentence_html += segmentHtml;
+            }
+
             return sentence_html;
         },
     },
