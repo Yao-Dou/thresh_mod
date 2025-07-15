@@ -1,0 +1,21 @@
+[
+    {
+        "source":"While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+        "target":"Mặc dù điều này có thể được cấu trúc giống như một loại thuế bán hàng, những đề xuất thực tế về thuế tiêu dùng công nhận rằng tính lùi là một vấn đề với các loại thuế bán hàng thuần túy.",
+        "edits":
+        [
+            {"category":"span","id":1, "input_idx":[[48, 57]],"output_idx":[[71, 92]]},
+            {"category":"span","id":2, "input_idx":[[90, 152]],"output_idx":[[111, 185]]}
+        ],
+        "_thresh_id":1
+    },
+    {
+        "source":"The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target":"Các thành viên trong gia đình Coors , và gián tiếp là công ty bia Coors , đã đóng một vai trò quan trọng trong chính trị và chính sách công của Mỹ , ủng hộ nhiều nguyên nhân bảo thủ .",
+        "edits":
+        [
+            {"category":"span","id":1, "input_idx":[[27, 72]],"output_idx":[[38, 71]]}
+        ],
+        "_thresh_id":2
+    }
+]
