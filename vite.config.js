@@ -14,5 +14,4 @@ export default defineConfig({
       vue$: 'vue/dist/vue.esm-bundler.js',
     }
   },
-  base: process.env.NODE_ENV === 'production' ? baseUrl : '/',
 })
