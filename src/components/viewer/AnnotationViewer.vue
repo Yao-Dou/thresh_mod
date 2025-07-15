@@ -65,12 +65,14 @@ export default {
             <div class="fl w-80">
                 <p class="f3 annotation-label ttu">{{ config.interface_text.annotation_viewer.header }} (<span v-if="!config.disable || !Object.values(config.disable).includes('annotation')">{{ annotated_edits }}/{{ total_edits }}</span><span v-if="config.disable && Object.values(config.disable).includes('annotation')">{{ total_edits }}</span>)</p>
             </div>
+            <!--
             <div class="fl w-20 tr">
                 <p @click="add_an_edit" class="add_button pa2 br-pill-ns ba bw1 grow" :class="{'disabled': config.disable && Object.values(config.disable).includes('selection')}">
                     <i class="fa-solid fa-plus fa-1-5x icon-default pointer mr2"></i>
                     <span class="f4">{{ config.interface_text.buttons.add_edit_label }}</span>
                 </p>
             </div>
+            -->
         </div>
         <div>
             <EditList v-bind="$props" :config="config" />
