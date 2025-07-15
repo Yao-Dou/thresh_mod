@@ -10,6 +10,9 @@ interface_text:
 adjudication: 2
 highlight_first_interface: true
 
+display:
+- disable-lines  
+
 edits:
   - name: no_projection
     label: "No Projection"

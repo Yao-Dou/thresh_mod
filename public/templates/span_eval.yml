@@ -7,6 +7,9 @@ interface_text:
     source_label: "Original text"
     target_label: "Translation"
 
+display:
+- disable-lines 
+
 edits:
   - name: no_projection
     label: "No Projection"
