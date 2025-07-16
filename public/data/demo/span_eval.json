@@ -1,21 +1,12 @@
 [
     {
-        "source":"While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
-        "target":"Mặc dù điều này có thể được cấu trúc giống như một loại thuế bán hàng, những đề xuất thực tế về thuế tiêu dùng công nhận rằng tính lùi là một vấn đề với các loại thuế bán hàng thuần túy.",
-        "edits":
-        [
-            {"category":"span","id":1, "input_idx":[[48, 57]],"output_idx":[[71, 92]]},
-            {"category":"span","id":2, "input_idx":[[90, 152]],"output_idx":[[111, 185]]}
-        ],
-        "_thresh_id":1
-    },
+        "source": "Intravenous sodium valproate versus diazepam infusion for the control of refractory status epilepticus in children : a randomized controlled trial . An open-label , randomized controlled study was conducted at a tertiary care teaching hospital to compare efficacy and safety of intravenous sodium valproate versus diazepam infusion for control of refractory status epilepticus . Forty children with refractory status epilepticus were randomized to receive either intravenous sodium valproate or diazepam infusion . Refractory status epilepticus was controlled in 80 % of the valproate and 85 % of the diazepam patients . The median time to control refractory status epilepticus was less in the valproate group ( 5 minutes ) than the diazepam group ( 17 minutes ; P < .001 ) . None of the patients in the valproate group required ventilation or developed hypotension , whereas in the diazepam group 60 % required ventilation and 50 % developed hypotension after starting diazepam infusion . No adverse effects on liver functions were seen with valproate . It is concluded that intravenous sodium valproate is an effective alternative to diazepam infusion in controlling refractory status epilepticus in children and is free of respiratory depression and hypotension .",
+        "target": "Natri valproat truyền tĩnh mạch so với diazepam truyền tĩnh mạch để kiểm soát cơn động kinh trạng thái kéo dài kháng trị ở trẻ em: một thử nghiệm ngẫu nhiên có kiểm soát. Một nghiên cứu ngẫu nhiên có kiểm soát, công khai nhãn thuốc, đã được thực hiện tại một bệnh viện đa khoa điều trị chuyên sâu để so sánh hiệu quả và an toàn của natri valproat truyền tĩnh mạch so với diazepam truyền tĩnh mạch để kiểm soát cơn động kinh trạng thái kéo dài kháng trị. Bốn mươi trẻ em mắc cơn động kinh trạng thái kéo dài kháng trị được phân ngẫu nhiên để nhận hoặc natri valproat truyền tĩnh mạch hoặc truyền tĩnh mạch diazepam. Cơn động kinh trạng thái kéo dài kháng trị được kiểm soát ở 80% bệnh nhân dùng valproat và 85% bệnh nhân dùng diazepam. Thời gian trung vị để kiểm soát cơn động kinh trạng thái kéo dài kháng trị ngắn hơn ở nhóm valproat (5 phút) so với nhóm diazepam (17 phút; P < 0,001). Không có bệnh nhân nào trong nhóm valproat cần thở máy hoặc phát triển hạ huyết áp, trong khi 60% bệnh nhân trong nhóm diazepam cần thở máy và 50% phát triển hạ huyết áp sau khi bắt đầu truyền tĩnh mạch diazepam. Không có tác dụng phụ nào ảnh hưởng đến chức năng gan được ghi nhận ở valproat. Kết luận rằng, natri valproat truyền tĩnh mạch là một phương pháp thay thế hiệu quả cho truyền tĩnh mạch diazepam trong việc kiểm soát cơn động kinh trạng thái kéo dài kháng trị ở trẻ em và không gây ra ức chế hô hấp hay hạ huyết áp.",
+        "_thresh_id": 1
+    }
     {
-        "source":"The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
-        "target":"Các thành viên trong gia đình Coors , và gián tiếp là công ty bia Coors , đã đóng một vai trò quan trọng trong chính trị và chính sách công của Mỹ , ủng hộ nhiều nguyên nhân bảo thủ .",
-        "edits":
-        [
-            {"category":"span","id":1, "input_idx":[[27, 72]],"output_idx":[[38, 71]]}
-        ],
-        "_thresh_id":2
+        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group <GGL.UL>. ",
+        "target": "\"Nhu cầu dầu ... nếu bạn nhìn vào số liệu mới nhất, nó vẫn ổn. Chúng tôi dự kiến sẽ có sự phá hủy nhu cầu, nhưng điều đó không thực sự xảy ra,\" Frederic Lasserre, người đứng đầu nghiên cứu và phân tích thị trường toàn cầu tại Tập đoàn Gunvor <GGL.UL>, cho biết.",
+        "_thresh_id": 2
     }
 ]
