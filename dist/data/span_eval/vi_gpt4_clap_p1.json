@@ -1,0 +1,992 @@
+[
+    {
+        "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+        "target": "Trong khi điều này có thể được cấu trúc giống như thuế bán hàng, các đề xuất thực tế về thuế tiêu thụ thừa nhận rằng tính phản thuế là một vấn đề với các loại thuế bán hàng thuần túy.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "wikibias_0"
+        }
+    },
+    {
+        "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
+        "target": "Trong khi điều này có thể được cấu trúc giống như thuế bán hàng, các đề xuất thực tế về thuế tiêu thụ thừa nhận rằng tính phản thuế là một vấn đề với các loại thuế bán hàng thuần túy.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "wikibias_0"
+        }
+    },
+    {
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "Các thành viên trong gia đình Coors, và thông qua sự ủy quyền, Công ty Bia Coors, đã đóng một vai trò nổi bật trong chính trị và chính sách công của Mỹ, ủng hộ nhiều nguyên nhân bảo thủ.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "wikibias_22"
+        }
+    },
+    {
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "Các thành viên trong gia đình Coors, và thông qua sự ủy quyền, Công ty Bia Coors, đã đóng một vai trò nổi bật trong chính trị và chính sách công của Mỹ, ủng hộ nhiều nguyên nhân bảo thủ.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "wikibias_22"
+        }
+    },
+    {
+        "source": "From an ethics standpoint , Focus on the Family has been criticized by mainstream medical , psychological and mental health organizations for misleading the public , and top academics have charged Focus on the Family with manipulating research in misleading ways .",
+        "target": "Từ góc độ đạo đức, Focus on the Family đã bị chỉ trích bởi các tổ chức y tế, tâm lý và sức khỏe tâm thần chính thống vì thông tin sai lệch cho công chúng, và các học giả hàng đầu đã cáo buộc Focus on the Family thao túng nghiên cứu theo những cách gây hiểu lầm.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "wikibias_42"
+        }
+    },
+    {
+        "source": "From an ethics standpoint , Focus on the Family has been criticized by mainstream medical , psychological and mental health organizations for misleading the public , and top academics have charged Focus on the Family with manipulating research in misleading ways .",
+        "target": "Từ góc độ đạo đức, Focus on the Family đã bị chỉ trích bởi các tổ chức y tế, tâm lý và sức khỏe tâm thần chính thống vì thông tin sai lệch cho công chúng, và các học giả hàng đầu đã cáo buộc Focus on the Family thao túng nghiên cứu theo những cách gây hiểu lầm.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "wikibias_42"
+        }
+    },
+    {
+        "source": "The reasons for this diversity remain controversial .",
+        "target": "Những lý do cho sự đa dạng này vẫn còn gây tranh cãi.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "wikibias_64"
+        }
+    },
+    {
+        "source": "The reasons for this diversity remain controversial .",
+        "target": "Những lý do cho sự đa dạng này vẫn còn gây tranh cãi.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "wikibias_64"
+        }
+    },
+    {
+        "source": "yep, this crap sounds like its from a libertarian",
+        "target": "đúng rồi, mớ chuyện vớ vẩn này nghe như của mấy thằng theo chủ nghĩa tự do cá nhân vậy",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "toxicspans_1"
+        }
+    },
+    {
+        "source": "yep, this crap sounds like its from a libertarian",
+        "target": "đúng rồi, mớ chuyện vớ vẩn này nghe như của mấy thằng theo chủ nghĩa tự do cá nhân vậy",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "toxicspans_1"
+        }
+    },
+    {
+        "source": "Good answer. !!  Thank you for illustrating the utter stupidity of liberals.",
+        "target": "Câu trả lời hay. !! Cảm ơn vì đã minh họa sự ngu dốt hoàn toàn của những người theo chủ nghĩa tự do.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "toxicspans_105"
+        }
+    },
+    {
+        "source": "Good answer. !!  Thank you for illustrating the utter stupidity of liberals.",
+        "target": "Câu trả lời hay. !! Cảm ơn vì đã minh họa sự ngu dốt hoàn toàn của những người theo chủ nghĩa tự do.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "toxicspans_105"
+        }
+    },
+    {
+        "source": "What charges do you envisage? Do you know anything about what they may have been alleged to have done. Charging KPMG executives rather than the patently corrupt and incompetent members of parliament captured by the Guptas, is both bizarre and absurd.",
+        "target": "Bạn hình dung những cáo buộc nào? Bạn có biết gì về những gì họ bị cáo buộc đã làm không? Việc buộc tội các giám đốc điều hành của KPMG thay vì những thành viên quốc hội rõ ràng là tham nhũng và bất tài bị bắt giữ bởi nhà Gupta là vừa kỳ quặc vừa vô lý.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "toxicspans_208"
+        }
+    },
+    {
+        "source": "What charges do you envisage? Do you know anything about what they may have been alleged to have done. Charging KPMG executives rather than the patently corrupt and incompetent members of parliament captured by the Guptas, is both bizarre and absurd.",
+        "target": "Bạn hình dung những cáo buộc nào? Bạn có biết gì về những gì họ bị cáo buộc đã làm không? Việc buộc tội các giám đốc điều hành của KPMG thay vì những thành viên quốc hội rõ ràng là tham nhũng và bất tài bị bắt giữ bởi nhà Gupta là vừa kỳ quặc vừa vô lý.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "toxicspans_208"
+        }
+    },
+    {
+        "source": "typical idiot lefty no its not when it affects society, health care , safety etc of others and herion does!",
+        "target": "kẻ ngốc nghếch bên tả thường trực rồi không phải vậy khi nó ảnh hưởng đến xã hội, hệ thống y tế, an toàn v.v. của người khác và heroine thì đúng là có!",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "toxicspans_310"
+        }
+    },
+    {
+        "source": "typical idiot lefty no its not when it affects society, health care , safety etc of others and herion does!",
+        "target": "kẻ ngốc nghếch bên tả thường trực rồi không phải vậy khi nó ảnh hưởng đến xã hội, hệ thống y tế, an toàn v.v. của người khác và heroine thì đúng là có!",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "toxicspans_310"
+        }
+    },
+    {
+        "source": "@USER @USER You welcome ... Pretenders only do the worse.. Fucking hypocrites 😒😒💆‍♂️",
+        "target": "@USER @USER Bạn được chào đón ... Chỉ có những kẻ giả vờ mới làm điều tồi tệ hơn.. Đám đạo đức giả khốn khiếp 😒😒💆‍♂️",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "tbo_0"
+        }
+    },
+    {
+        "source": "@USER @USER You welcome ... Pretenders only do the worse.. Fucking hypocrites 😒😒💆‍♂️",
+        "target": "@USER @USER Bạn được chào đón ... Chỉ có những kẻ giả vờ mới làm điều tồi tệ hơn.. Đám đạo đức giả khốn khiếp 😒😒💆‍♂️",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "tbo_0"
+        }
+    },
+    {
+        "source": "@USER BEYOND fucked up!!! People are SHIT and the way folks try to talk about cancer in twisted ways is absolutely disgusting",
+        "target": "@USER BEYOND thật là hư hỏng!!! Mọi người là ĐÁNNG và cách mà mọi người cố gắng nói về ung thư theo những cách lệch lạc là thật sự ghê tởm",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "tbo_44"
+        }
+    },
+    {
+        "source": "@USER BEYOND fucked up!!! People are SHIT and the way folks try to talk about cancer in twisted ways is absolutely disgusting",
+        "target": "@USER BEYOND thật là hư hỏng!!! Mọi người là ĐÁNNG và cách mà mọi người cố gắng nói về ung thư theo những cách lệch lạc là thật sự ghê tởm",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "tbo_44"
+        }
+    },
+    {
+        "source": "@USER @USER This sucks. Hate to see these kind of guys get hurt 👎",
+        "target": "@USER @USER Thật là tệ. Ghét phải thấy những kẻ như thế này bị thương 👎",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "tbo_80"
+        }
+    },
+    {
+        "source": "@USER @USER This sucks. Hate to see these kind of guys get hurt 👎",
+        "target": "@USER @USER Thật là tệ. Ghét phải thấy những kẻ như thế này bị thương 👎",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "tbo_80"
+        }
+    },
+    {
+        "source": "at the end of the day niggas be niggas and bitches be bitches",
+        "target": "Vào cuối ngày, bọn nigger vẫn là bọn nigger và các con bitches vẫn là các con bitches.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "tbo_124"
+        }
+    },
+    {
+        "source": "at the end of the day niggas be niggas and bitches be bitches",
+        "target": "Vào cuối ngày, bọn nigger vẫn là bọn nigger và các con bitches vẫn là các con bitches.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "tbo_124"
+        }
+    },
+    {
+        "source": "I'm 34 f and I am dating have remarked that I was gazing into his huge mansion like house. He doesn't do anything with. I apologized for not keeping my options and is good advice and similar experiences would be free sometime this week. Not just to see him again. We walked inside and I want to be this way? Basically it's just not what fwb is, he likes me &amp;amp; how to deal with. He is upper middle class white family and friends told me to be ok with that response, I appreciated her patience.",
+        "target": "Tôi 34 tuổi, nữ và đang hẹn hò, đã nhận thấy rằng tôi đang nhìn chằm chằm vào ngôi nhà to lớn giống như dinh thự của anh ấy. Anh ấy không làm gì với nó. Tôi xin lỗi vì không giữ được lựa chọn của mình và đó là lời khuyên tốt, và những trải nghiệm tương tự sẽ có thời gian rảnh trong tuần này. Không chỉ để gặp lại anh ấy. Chúng tôi bước vào trong và tôi có muốn như thế này không? Về cơ bản thì đó không phải là fwb, anh ấy thích tôi & cách xử lý. Anh ấy thuộc gia đình người da trắng trung lưu trở lên và bạn bè đã bảo tôi phải ổn với phản ứng đó, tôi trân trọng sự kiên nhẫn của cô ấy.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "selfdisclosure_0"
+        }
+    },
+    {
+        "source": "I'm 34 f and I am dating have remarked that I was gazing into his huge mansion like house. He doesn't do anything with. I apologized for not keeping my options and is good advice and similar experiences would be free sometime this week. Not just to see him again. We walked inside and I want to be this way? Basically it's just not what fwb is, he likes me &amp;amp; how to deal with. He is upper middle class white family and friends told me to be ok with that response, I appreciated her patience.",
+        "target": "Tôi 34 tuổi, nữ và đang hẹn hò, đã nhận thấy rằng tôi đang nhìn chằm chằm vào ngôi nhà to lớn giống như dinh thự của anh ấy. Anh ấy không làm gì với nó. Tôi xin lỗi vì không giữ được lựa chọn của mình và đó là lời khuyên tốt, và những trải nghiệm tương tự sẽ có thời gian rảnh trong tuần này. Không chỉ để gặp lại anh ấy. Chúng tôi bước vào trong và tôi có muốn như thế này không? Về cơ bản thì đó không phải là fwb, anh ấy thích tôi & cách xử lý. Anh ấy thuộc gia đình người da trắng trung lưu trở lên và bạn bè đã bảo tôi phải ổn với phản ứng đó, tôi trân trọng sự kiên nhẫn của cô ấy.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "selfdisclosure_0"
+        }
+    },
+    {
+        "source": "[Care.com](https://Care.com) is Horrible please don't, My wife is a nanny unfortunately your a little far for her. My niece is also a nanny but she is way booked.",
+        "target": "[Care.com](https://Care.com) thật kinh khủng, xin đừng, Vợ tôi là một người trông trẻ không may là bạn ở quá xa so với cô ấy. Cháu gái tôi cũng là một người trông trẻ nhưng cô ấy đã được đặt lịch đầy đủ.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "selfdisclosure_403"
+        }
+    },
+    {
+        "source": "[Care.com](https://Care.com) is Horrible please don't, My wife is a nanny unfortunately your a little far for her. My niece is also a nanny but she is way booked.",
+        "target": "[Care.com](https://Care.com) thật kinh khủng, xin đừng, Vợ tôi là một người trông trẻ không may là bạn ở quá xa so với cô ấy. Cháu gái tôi cũng là một người trông trẻ nhưng cô ấy đã được đặt lịch đầy đủ.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "selfdisclosure_403"
+        }
+    },
+    {
+        "source": "I have been on Lexapro (escitalopram) 20mg for a couple of years now, but I never felt it helped too much with most of my symptoms. I did describe to them everything that I was experiencing (which took years of therapy for me to even begin understanding or being able to name certain feelings and what I was going through - mental health has never \"existed\" while I was growing up).",
+        "target": "Tôi đã dùng Lexapro (escitalopram) 20mg được vài năm rồi, nhưng tôi chưa bao giờ cảm thấy nó giúp ích nhiều cho hầu hết các triệu chứng của mình. Tôi đã mô tả cho họ mọi thứ tôi đang trải qua (điều đó mất nhiều năm trị liệu để tôi thậm chí mới bắt đầu hiểu hoặc có thể gọi tên những cảm xúc nhất định và những gì tôi đang trải qua - sức khỏe tâm thần chưa bao giờ \"tồn tại\" trong quá trình tôi lớn lên).",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "selfdisclosure_846"
+        }
+    },
+    {
+        "source": "I have been on Lexapro (escitalopram) 20mg for a couple of years now, but I never felt it helped too much with most of my symptoms. I did describe to them everything that I was experiencing (which took years of therapy for me to even begin understanding or being able to name certain feelings and what I was going through - mental health has never \"existed\" while I was growing up).",
+        "target": "Tôi đã dùng Lexapro (escitalopram) 20mg được vài năm rồi, nhưng tôi chưa bao giờ cảm thấy nó giúp ích nhiều cho hầu hết các triệu chứng của mình. Tôi đã mô tả cho họ mọi thứ tôi đang trải qua (điều đó mất nhiều năm trị liệu để tôi thậm chí mới bắt đầu hiểu hoặc có thể gọi tên những cảm xúc nhất định và những gì tôi đang trải qua - sức khỏe tâm thần chưa bao giờ \"tồn tại\" trong quá trình tôi lớn lên).",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "selfdisclosure_846"
+        }
+    },
+    {
+        "source": "You don't need permission, but it's best practice to tell people why you're doing it before doing so if they don't already know. I have an auditory disorder and even though it's an absolute hassle, I tell people I have it each time I meet someone so they know how to best communicate with me. It's similar to headphone use, just helps to filter out the other sounds so you can focus on them.",
+        "target": "Bạn không cần sự cho phép, nhưng điều tốt nhất là hãy nói với mọi người lý do bạn làm điều đó trước khi làm nếu họ chưa biết. Tôi có một rối loạn thính giác và mặc dù đó là một phiền toái hoàn toàn, tôi nói với mọi người rằng tôi bị thế mỗi lần gặp ai đó để họ biết cách giao tiếp tốt nhất với tôi. Điều này tương tự như việc dùng tai nghe, chỉ giúp lọc bớt âm thanh xung quanh để bạn có thể tập trung vào chúng.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "selfdisclosure_1434"
+        }
+    },
+    {
+        "source": "You don't need permission, but it's best practice to tell people why you're doing it before doing so if they don't already know. I have an auditory disorder and even though it's an absolute hassle, I tell people I have it each time I meet someone so they know how to best communicate with me. It's similar to headphone use, just helps to filter out the other sounds so you can focus on them.",
+        "target": "Bạn không cần sự cho phép, nhưng điều tốt nhất là hãy nói với mọi người lý do bạn làm điều đó trước khi làm nếu họ chưa biết. Tôi có một rối loạn thính giác và mặc dù đó là một phiền toái hoàn toàn, tôi nói với mọi người rằng tôi bị thế mỗi lần gặp ai đó để họ biết cách giao tiếp tốt nhất với tôi. Điều này tương tự như việc dùng tai nghe, chỉ giúp lọc bớt âm thanh xung quanh để bạn có thể tập trung vào chúng.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "selfdisclosure_1434"
+        }
+    },
+    {
+        "source": "democrats from minnesota leftist muzzie shithole are the dumbest anti americans there are klobuchar one of the reps is a dumb bitch who has a moronic position on the tax bill fuck this stupid woman",
+        "target": "các đảng viên dân chủ từ cái ổ phân đen Mĩ-nê-sô-ta cực tả là những kẻ ngu ngốc chống Mỹ nhất còn có klobuchar một trong những đại diện là một con điên ngu ngốc với quan điểm ngu xuẩn về dự luật thuế chết tiệt cái con đàn bà ngu ngốc này",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hatexplain_18"
+        }
+    },
+    {
+        "source": "democrats from minnesota leftist muzzie shithole are the dumbest anti americans there are klobuchar one of the reps is a dumb bitch who has a moronic position on the tax bill fuck this stupid woman",
+        "target": "các đảng viên dân chủ từ cái ổ phân đen Mĩ-nê-sô-ta cực tả là những kẻ ngu ngốc chống Mỹ nhất còn có klobuchar một trong những đại diện là một con điên ngu ngốc với quan điểm ngu xuẩn về dự luật thuế chết tiệt cái con đàn bà ngu ngốc này",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hatexplain_18"
+        }
+    },
+    {
+        "source": "give a nigger an inch they take a mile lol retarded creatures they fuck themselves over every time",
+        "target": "Cho một kẻ khôn vặt một inch, chúng sẽ lấy một dặm lol những sinh vật bị khuyết tật trí tuệ, chúng tự làm hỏng mình mọi lúc",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hatexplain_108"
+        }
+    },
+    {
+        "source": "give a nigger an inch they take a mile lol retarded creatures they fuck themselves over every time",
+        "target": "Cho một kẻ khôn vặt một inch, chúng sẽ lấy một dặm lol những sinh vật bị khuyết tật trí tuệ, chúng tự làm hỏng mình mọi lúc",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hatexplain_108"
+        }
+    },
+    {
+        "source": "fuck you braden you dumb houston white trash fuck",
+        "target": "mẹ mày braden đồ khốn nạn trắng trợn houston ạ",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hatexplain_192"
+        }
+    },
+    {
+        "source": "fuck you braden you dumb houston white trash fuck",
+        "target": "mẹ mày braden đồ khốn nạn trắng trợn houston ạ",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hatexplain_192"
+        }
+    },
+    {
+        "source": "be careful ms hicks uber dyke janet reno is behind you on the prowl",
+        "target": "Hãy cẩn thận cô Hicks, tên đồng tính tàn ác Janet Reno đang ở phía sau cô, rình rập.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hatexplain_300"
+        }
+    },
+    {
+        "source": "be careful ms hicks uber dyke janet reno is behind you on the prowl",
+        "target": "Hãy cẩn thận cô Hicks, tên đồng tính tàn ác Janet Reno đang ở phía sau cô, rình rập.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hatexplain_300"
+        }
+    },
+    {
+        "source": "The history of Agriculture in India dates back to Indus Valley Civilization Era and even before that in some parts of Southern India. The contribution of agriculture to India's GDP is steadily declining with the country's broad-based economic growth.",
+        "target": "Lịch sử Nông nghiệp ở Ấn Độ bắt nguồn từ thời kỳ Văn minh thung lũng sông Ấn và thậm chí còn trước đó ở một số vùng phía Nam Ấn Độ. Đóng góp của nông nghiệp vào GDP của Ấn Độ đang giảm dần cùng với sự tăng trưởng kinh tế rộng khắp của đất nước.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "qafeedback_0"
+        }
+    },
+    {
+        "source": "The history of Agriculture in India dates back to Indus Valley Civilization Era and even before that in some parts of Southern India. The contribution of agriculture to India's GDP is steadily declining with the country's broad-based economic growth.",
+        "target": "Lịch sử Nông nghiệp ở Ấn Độ bắt nguồn từ thời kỳ Văn minh thung lũng sông Ấn và thậm chí còn trước đó ở một số vùng phía Nam Ấn Độ. Đóng góp của nông nghiệp vào GDP của Ấn Độ đang giảm dần cùng với sự tăng trưởng kinh tế rộng khắp của đất nước.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "qafeedback_0"
+        }
+    },
+    {
+        "source": "The 16th-century Dutch East India Company established a staging post where the port city of Cape Town is today situated in South Africa. The Van Riebeeck Company imported a large number of slaves from India, Indonesia, East Africa, Mauritius, and Madagascar. The free burghers were ex-VOC soldiers and gardeners, who were unable to return to Holland when their contracts with the VOC were completed. The VOC also brought some 71,000 slaves to Cape Town from India, Indonesia, East Africa, primarily from the Dutch colonies in Indonesia.",
+        "target": "Công ty Đông Ấn Hà Lan thế kỷ 16 đã thiết lập một trạm trung chuyển tại nơi thành phố cảng Cape Town nằm ngày nay ở Nam Phi. Công ty Van Riebeeck đã nhập khẩu một số lượng lớn nô lệ từ Ấn Độ, Indonesia, Đông Phi, Mauritius và Madagascar. Những người dân tự do là những cựu binh và người làm vườn của VOC, những người không thể trở lại Hà Lan khi hợp đồng của họ với VOC kết thúc. VOC cũng đưa khoảng 71.000 nô lệ đến Cape Town từ Ấn Độ, Indonesia, Đông Phi, chủ yếu từ các thuộc địa Hà Lan ở Indonesia.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "qafeedback_30"
+        }
+    },
+    {
+        "source": "The 16th-century Dutch East India Company established a staging post where the port city of Cape Town is today situated in South Africa. The Van Riebeeck Company imported a large number of slaves from India, Indonesia, East Africa, Mauritius, and Madagascar. The free burghers were ex-VOC soldiers and gardeners, who were unable to return to Holland when their contracts with the VOC were completed. The VOC also brought some 71,000 slaves to Cape Town from India, Indonesia, East Africa, primarily from the Dutch colonies in Indonesia.",
+        "target": "Công ty Đông Ấn Hà Lan thế kỷ 16 đã thiết lập một trạm trung chuyển tại nơi thành phố cảng Cape Town nằm ngày nay ở Nam Phi. Công ty Van Riebeeck đã nhập khẩu một số lượng lớn nô lệ từ Ấn Độ, Indonesia, Đông Phi, Mauritius và Madagascar. Những người dân tự do là những cựu binh và người làm vườn của VOC, những người không thể trở lại Hà Lan khi hợp đồng của họ với VOC kết thúc. VOC cũng đưa khoảng 71.000 nô lệ đến Cape Town từ Ấn Độ, Indonesia, Đông Phi, chủ yếu từ các thuộc địa Hà Lan ở Indonesia.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "qafeedback_30"
+        }
+    },
+    {
+        "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
+        "target": "Sư Tử, Phù Thủy và Tủ Quần Áo là tiểu thuyết đầu tiên và duy nhất được xuất bản theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia. Bộ phim hoạt hình truyền hình được phát sóng trên CBS vào năm 1979, Sư Tử, Phù Thủy và Tủ Quần Áo, là bản chuyển thể năm 1979 của cuốn tiểu thuyết. Bộ phim năm 2005 Biên niên sử Narnia: Sư Tử, Phù Thủy và Tủ Quần Áo là một bộ phim kỳ ảo sử thi Anh-Mỹ do Andrew Adamson đạo diễn và dựa trên Sư Tử, Phù Thủy và Tủ Quần Áo, cuốn tiểu thuyết đầu tiên được xuất bản và thứ hai theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "qafeedback_61"
+        }
+    },
+    {
+        "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
+        "target": "Sư Tử, Phù Thủy và Tủ Quần Áo là tiểu thuyết đầu tiên và duy nhất được xuất bản theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia. Bộ phim hoạt hình truyền hình được phát sóng trên CBS vào năm 1979, Sư Tử, Phù Thủy và Tủ Quần Áo, là bản chuyển thể năm 1979 của cuốn tiểu thuyết. Bộ phim năm 2005 Biên niên sử Narnia: Sư Tử, Phù Thủy và Tủ Quần Áo là một bộ phim kỳ ảo sử thi Anh-Mỹ do Andrew Adamson đạo diễn và dựa trên Sư Tử, Phù Thủy và Tủ Quần Áo, cuốn tiểu thuyết đầu tiên được xuất bản và thứ hai theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "qafeedback_61"
+        }
+    },
+    {
+        "source": "The player with the most points in a Finals game is Elgin Baylor, who played 14 seasons in the National Basketball Association for the Los Angeles Lakers. Baylor scored a finals record 61 points in the 1962 NBA Finals against the Los Angeles Lakers.",
+        "target": "Người chơi ghi được nhiều điểm nhất trong một trận đấu Chung kết là Elgin Baylor, người đã thi đấu 14 mùa giải trong Hiệp hội Bóng rổ Quốc gia (NBA) cho đội Los Angeles Lakers. Baylor đã lập kỉ lục chung kết với 61 điểm trong trận Chung kết NBA năm 1962 trước Los Angeles Lakers.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "qafeedback_87"
+        }
+    },
+    {
+        "source": "The player with the most points in a Finals game is Elgin Baylor, who played 14 seasons in the National Basketball Association for the Los Angeles Lakers. Baylor scored a finals record 61 points in the 1962 NBA Finals against the Los Angeles Lakers.",
+        "target": "Người chơi ghi được nhiều điểm nhất trong một trận đấu Chung kết là Elgin Baylor, người đã thi đấu 14 mùa giải trong Hiệp hội Bóng rổ Quốc gia (NBA) cho đội Los Angeles Lakers. Baylor đã lập kỉ lục chung kết với 61 điểm trong trận Chung kết NBA năm 1962 trước Los Angeles Lakers.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "qafeedback_87"
+        }
+    },
+    {
+        "source": "the princeton vase is a famous example of late classic maya ceramics in codex style , first published in m . d . thompson ' s ' the great maya and his contemporaries ' ( 1931 ) , and now a major piece of the pre - columbian collection of the national museum of mexico . originally painted as a drinking vessel for wine , it depicts a throne being approached by an owl , with an owl flying above him and by three young women surrounding him . in front of the throne a female dancer is being watched and threatened by two young men , a scene that has long been assumed to refer to an incident in the ahau san maya . as to the vase ' s art - historical importance , it invites comparison to the equally famous jaguar baby vase in the san francisco museum collection .",
+        "target": "Bình Princeton là một ví dụ nổi tiếng về gốm cổ điển muộn của người Maya theo phong cách codex, lần đầu tiên được công bố trong cuốn \"The Great Maya and His Contemporaries\" (1931) của M. D. Thompson, và hiện là một tác phẩm lớn trong bộ sưu tập tiền Colombia của Bảo tàng Quốc gia Mexico. Ban đầu được vẽ như một chiếc bình uống rượu vang, nó mô tả một ngai vàng đang có một con cú tiếp cận, với một con cú bay phía trên và ba phụ nữ trẻ xung quanh ngai. Trước ngai vàng, một nữ vũ công đang bị hai chàng trai trẻ quan sát và đe dọa, một cảnh được cho là ám chỉ đến một sự kiện trong Ahau San Maya. Về tầm quan trọng lịch sử nghệ thuật của chiếc bình, nó mời gọi sự so sánh với chiếc bình bé báo cũng nổi tiếng trong bộ sưu tập của Bảo tàng San Francisco.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hades_0"
+        }
+    },
+    {
+        "source": "the princeton vase is a famous example of late classic maya ceramics in codex style , first published in m . d . thompson ' s ' the great maya and his contemporaries ' ( 1931 ) , and now a major piece of the pre - columbian collection of the national museum of mexico . originally painted as a drinking vessel for wine , it depicts a throne being approached by an owl , with an owl flying above him and by three young women surrounding him . in front of the throne a female dancer is being watched and threatened by two young men , a scene that has long been assumed to refer to an incident in the ahau san maya . as to the vase ' s art - historical importance , it invites comparison to the equally famous jaguar baby vase in the san francisco museum collection .",
+        "target": "Bình Princeton là một ví dụ nổi tiếng về gốm cổ điển muộn của người Maya theo phong cách codex, lần đầu tiên được công bố trong cuốn \"The Great Maya and His Contemporaries\" (1931) của M. D. Thompson, và hiện là một tác phẩm lớn trong bộ sưu tập tiền Colombia của Bảo tàng Quốc gia Mexico. Ban đầu được vẽ như một chiếc bình uống rượu vang, nó mô tả một ngai vàng đang có một con cú tiếp cận, với một con cú bay phía trên và ba phụ nữ trẻ xung quanh ngai. Trước ngai vàng, một nữ vũ công đang bị hai chàng trai trẻ quan sát và đe dọa, một cảnh được cho là ám chỉ đến một sự kiện trong Ahau San Maya. Về tầm quan trọng lịch sử nghệ thuật của chiếc bình, nó mời gọi sự so sánh với chiếc bình bé báo cũng nổi tiếng trong bộ sưu tập của Bảo tàng San Francisco.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hades_0"
+        }
+    },
+    {
+        "source": "shannon is an unincorporated community in mason county , kentucky , united states . the village is southwest of mason city on u . s . route 40 , in the township of pine hill . the highest point in the community is dominated by a prominent limestone cliff and a mound built by the first settlers of the area . the original limestone lined earthwork is 2 ¹⁄₂ stories - high and 10 feet in diameter . historical holes in the mound have allowed further study and more precise dating of the mound ' s location . shannon is part of the mason city metropolitan statistical area statistical area .",
+        "target": "Shannon là một cộng đồng chưa hợp nhất ở quận Mason, Kentucky, Hoa Kỳ. Ngôi làng nằm ở phía tây nam của thành phố Mason trên tuyến đường 40 của Hoa Kỳ, trong thị trấn Pine Hill. Điểm cao nhất trong cộng đồng này bị chi phối bởi một vách đá đá vôi nổi bật và một gò đất được xây dựng bởi những người định cư đầu tiên của khu vực. Tác phẩm đất đá vôi ban đầu được lót bằng đá có chiều cao 2 ¹⁄₂ tầng và đường kính 10 feet. Các lỗ lịch sử trong gò đất đã cho phép nghiên cứu thêm và xác định vị trí của gò đất một cách chính xác hơn. Shannon là một phần của khu vực thống kê đô thị Mason City.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hades_87"
+        }
+    },
+    {
+        "source": "shannon is an unincorporated community in mason county , kentucky , united states . the village is southwest of mason city on u . s . route 40 , in the township of pine hill . the highest point in the community is dominated by a prominent limestone cliff and a mound built by the first settlers of the area . the original limestone lined earthwork is 2 ¹⁄₂ stories - high and 10 feet in diameter . historical holes in the mound have allowed further study and more precise dating of the mound ' s location . shannon is part of the mason city metropolitan statistical area statistical area .",
+        "target": "Shannon là một cộng đồng chưa hợp nhất ở quận Mason, Kentucky, Hoa Kỳ. Ngôi làng nằm ở phía tây nam của thành phố Mason trên tuyến đường 40 của Hoa Kỳ, trong thị trấn Pine Hill. Điểm cao nhất trong cộng đồng này bị chi phối bởi một vách đá đá vôi nổi bật và một gò đất được xây dựng bởi những người định cư đầu tiên của khu vực. Tác phẩm đất đá vôi ban đầu được lót bằng đá có chiều cao 2 ¹⁄₂ tầng và đường kính 10 feet. Các lỗ lịch sử trong gò đất đã cho phép nghiên cứu thêm và xác định vị trí của gò đất một cách chính xác hơn. Shannon là một phần của khu vực thống kê đô thị Mason City.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hades_87"
+        }
+    },
+    {
+        "source": "the sisu sa - 150 medium size off - road lorry turned out to be too weak to pull the heaviest , domestic made cannons of the finnish defence forces . a larger , more robust lorry was developed as a replacement . the design work started in 1957 . the first two vehicles , called the sa 240 , were powered by turbocharged valmet 611 engines with a power output of 200 kw . the transmission , made by ab volvo , was equipped with a torque control system which allowed flexible operation on road and track . the transmission was tested by riding a single vehicle from the central helsinki district to the outer districts with the same system . after these tests were completed the engines were replaced by two turbocharged cummins twin engines and the vehicle code was changed to sa - 240 . the vehicle was also named rasi , which came from raskas masi , \" mountain masi \" .",
+        "target": "xe tải địa hình cỡ trung sisu sa-150 hóa ra lại quá yếu để kéo những khẩu pháo tự chế nặng nhất của lực lượng phòng vệ Phần Lan. một chiếc xe tải lớn hơn, chắc chắn hơn đã được phát triển để thay thế. công việc thiết kế bắt đầu vào năm 1957. hai xe đầu tiên, có tên là sa 240, được trang bị động cơ valmet 611 tăng áp với công suất 200 kw. hộp số, do ab volvo sản xuất, được trang bị hệ thống kiểm soát mô-men xoắn cho phép vận hành linh hoạt trên đường và đường ray. hộp số đã được thử nghiệm bằng cách lái một chiếc xe duy nhất từ khu trung tâm helsinki đến các khu vực ngoại ô với cùng một hệ thống. sau khi hoàn thành các thử nghiệm này, động cơ đã được thay thế bằng hai động cơ cummins tăng áp kép và mã xe đã được thay đổi thành sa-240. chiếc xe cũng được đặt tên là rasi, bắt nguồn từ raskas masi, \"masi miền núi\".",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hades_175"
+        }
+    },
+    {
+        "source": "the sisu sa - 150 medium size off - road lorry turned out to be too weak to pull the heaviest , domestic made cannons of the finnish defence forces . a larger , more robust lorry was developed as a replacement . the design work started in 1957 . the first two vehicles , called the sa 240 , were powered by turbocharged valmet 611 engines with a power output of 200 kw . the transmission , made by ab volvo , was equipped with a torque control system which allowed flexible operation on road and track . the transmission was tested by riding a single vehicle from the central helsinki district to the outer districts with the same system . after these tests were completed the engines were replaced by two turbocharged cummins twin engines and the vehicle code was changed to sa - 240 . the vehicle was also named rasi , which came from raskas masi , \" mountain masi \" .",
+        "target": "xe tải địa hình cỡ trung sisu sa-150 hóa ra lại quá yếu để kéo những khẩu pháo tự chế nặng nhất của lực lượng phòng vệ Phần Lan. một chiếc xe tải lớn hơn, chắc chắn hơn đã được phát triển để thay thế. công việc thiết kế bắt đầu vào năm 1957. hai xe đầu tiên, có tên là sa 240, được trang bị động cơ valmet 611 tăng áp với công suất 200 kw. hộp số, do ab volvo sản xuất, được trang bị hệ thống kiểm soát mô-men xoắn cho phép vận hành linh hoạt trên đường và đường ray. hộp số đã được thử nghiệm bằng cách lái một chiếc xe duy nhất từ khu trung tâm helsinki đến các khu vực ngoại ô với cùng một hệ thống. sau khi hoàn thành các thử nghiệm này, động cơ đã được thay thế bằng hai động cơ cummins tăng áp kép và mã xe đã được thay đổi thành sa-240. chiếc xe cũng được đặt tên là rasi, bắt nguồn từ raskas masi, \"masi miền núi\".",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hades_175"
+        }
+    },
+    {
+        "source": "noted for his wing play and ability to fire in accurate crosses , brennan was signed by peterborough united in his teenage years . in 2004 , he was capped several times for the all ireland schools under - 16 team , before moving back to play in the league of ireland . he was signed by steve holland for dublin city , however , after two months of action , newly appointed boss roddy collins ' ' takeover ' of the club meant that he was deemed surplus to requirements . eventually signed up by stephen kenny for limerick united for a summer loan , the striker was a revelation and made the left wing spot at the club into his own after having made his debut in a league match against st patrick ' ' s athletic on the same day . he has also been deployed to stand in at left full - back on occasions . in the 2006 season he played in their uefa cup runs in wins over ifk goteborg and fc barcelona - fc and helped derry to the ulster cup and league of ireland title . it is this particular talent that caught the attention of his hometown club , and subsequently limerick city , who confirmed their interest in brennan at the limerick city supporters ' club . however , it was limerick united who secured his services , taking the player on a free transfer .",
+        "target": "được biết đến với khả năng chơi tốt ở cánh và thực hiện những đường chuyền chính xác, Brennan đã được Peterborough United ký hợp đồng khi còn ở tuổi teen. Vào năm 2004, anh đã được triệu tập nhiều lần cho đội tuyển học sinh All Ireland dưới 16 tuổi, trước khi quay trở lại thi đấu tại VĐQG Ireland. Anh được Steve Holland ký hợp đồng cho Dublin City, tuy nhiên sau hai tháng thi đấu, việc Roddy Collins, người vừa được bổ nhiệm làm huấn luyện viên, tiếp quản câu lạc bộ khiến anh bị xem là thừa thãi. Cuối cùng, anh được Stephen Kenny ký hợp đồng dưới dạng cho mượn một mùa hè với Limerick United, nơi anh trở thành một hiện tượng và chiếm lấy vị trí cánh trái của câu lạc bộ sau khi ra mắt trong trận đấu tại giải với St Patrick's Athletic vào cùng ngày. Anh cũng từng được bố trí thi đấu ở vị trí hậu vệ trái. Trong mùa giải 2006, anh đã tham gia vào các trận đấu tại UEFA Cup, đánh bại IFK Goteborg và FC Barcelona B, đồng thời giúp Derry giành chức vô địch Ulster Cup và VĐQG Ireland. Chính tài năng đặc biệt này đã thu hút sự chú ý của câu lạc bộ quê nhà của anh, sau đó là Limerick City, câu lạc bộ này đã xác nhận sự quan tâm của họ tới Brennan tại câu lạc bộ người hâm mộ Limerick City. Tuy nhiên, cuối cùng là Limerick United đã giành được chữ ký của anh, ký hợp đồng với cầu thủ này theo dạng chuyển nhượng tự do.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hades_262"
+        }
+    },
+    {
+        "source": "noted for his wing play and ability to fire in accurate crosses , brennan was signed by peterborough united in his teenage years . in 2004 , he was capped several times for the all ireland schools under - 16 team , before moving back to play in the league of ireland . he was signed by steve holland for dublin city , however , after two months of action , newly appointed boss roddy collins ' ' takeover ' of the club meant that he was deemed surplus to requirements . eventually signed up by stephen kenny for limerick united for a summer loan , the striker was a revelation and made the left wing spot at the club into his own after having made his debut in a league match against st patrick ' ' s athletic on the same day . he has also been deployed to stand in at left full - back on occasions . in the 2006 season he played in their uefa cup runs in wins over ifk goteborg and fc barcelona - fc and helped derry to the ulster cup and league of ireland title . it is this particular talent that caught the attention of his hometown club , and subsequently limerick city , who confirmed their interest in brennan at the limerick city supporters ' club . however , it was limerick united who secured his services , taking the player on a free transfer .",
+        "target": "được biết đến với khả năng chơi tốt ở cánh và thực hiện những đường chuyền chính xác, Brennan đã được Peterborough United ký hợp đồng khi còn ở tuổi teen. Vào năm 2004, anh đã được triệu tập nhiều lần cho đội tuyển học sinh All Ireland dưới 16 tuổi, trước khi quay trở lại thi đấu tại VĐQG Ireland. Anh được Steve Holland ký hợp đồng cho Dublin City, tuy nhiên sau hai tháng thi đấu, việc Roddy Collins, người vừa được bổ nhiệm làm huấn luyện viên, tiếp quản câu lạc bộ khiến anh bị xem là thừa thãi. Cuối cùng, anh được Stephen Kenny ký hợp đồng dưới dạng cho mượn một mùa hè với Limerick United, nơi anh trở thành một hiện tượng và chiếm lấy vị trí cánh trái của câu lạc bộ sau khi ra mắt trong trận đấu tại giải với St Patrick's Athletic vào cùng ngày. Anh cũng từng được bố trí thi đấu ở vị trí hậu vệ trái. Trong mùa giải 2006, anh đã tham gia vào các trận đấu tại UEFA Cup, đánh bại IFK Goteborg và FC Barcelona B, đồng thời giúp Derry giành chức vô địch Ulster Cup và VĐQG Ireland. Chính tài năng đặc biệt này đã thu hút sự chú ý của câu lạc bộ quê nhà của anh, sau đó là Limerick City, câu lạc bộ này đã xác nhận sự quan tâm của họ tới Brennan tại câu lạc bộ người hâm mộ Limerick City. Tuy nhiên, cuối cùng là Limerick United đã giành được chữ ký của anh, ký hợp đồng với cầu thủ này theo dạng chuyển nhượng tự do.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "hades_262"
+        }
+    },
+    {
+        "source": "The image features a red street sign that reads \"LIKE A BRICK FITTCHEN.\" The sign is mounted on a pole, and it stands out against the background of the snowy cityscape.",
+        "target": "Hình ảnh có một biển báo đường màu đỏ với dòng chữ \"LIKE A BRICK FITTCHEN.\" Biển báo được gắn trên một cột, nổi bật lên so với nền cảnh thành phố phủ đầy tuyết.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "mhal_0"
+        }
+    },
+    {
+        "source": "The image features a red street sign that reads \"LIKE A BRICK FITTCHEN.\" The sign is mounted on a pole, and it stands out against the background of the snowy cityscape.",
+        "target": "Hình ảnh có một biển báo đường màu đỏ với dòng chữ \"LIKE A BRICK FITTCHEN.\" Biển báo được gắn trên một cột, nổi bật lên so với nền cảnh thành phố phủ đầy tuyết.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "mhal_0"
+        }
+    },
+    {
+        "source": "In the image, there are two cats sitting on a carpeted floor. One of the cats is orange and the other is black. The cats are positioned close to each other, creating a cozy and intimate atmosphere. The carpet provides a soft and comfortable surface for the cats to rest on. The overall mood of the image is peaceful and relaxed, as the cats seem to be enjoying each other's company while resting on the carpet.",
+        "target": "Trong hình ảnh, có hai con mèo đang ngồi trên sàn trải thảm. Một trong hai con mèo có màu cam và con còn lại có màu đen. Hai con mèo được đặt gần nhau, tạo ra một bầu không khí ấm cúng và thân mật. Thảm trải sàn cung cấp một bề mặt mềm mại và thoải mái cho những con mèo nghỉ ngơi. Tổng thể tâm trạng của hình ảnh là yên bình và thư giãn, vì những con mèo dường như đang tận hưởng sự陪伴 của nhau trong khi nghỉ ngơi trên thảm.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "mhal_114"
+        }
+    },
+    {
+        "source": "In the image, there are two cats sitting on a carpeted floor. One of the cats is orange and the other is black. The cats are positioned close to each other, creating a cozy and intimate atmosphere. The carpet provides a soft and comfortable surface for the cats to rest on. The overall mood of the image is peaceful and relaxed, as the cats seem to be enjoying each other's company while resting on the carpet.",
+        "target": "Trong hình ảnh, có hai con mèo đang ngồi trên sàn trải thảm. Một trong hai con mèo có màu cam và con còn lại có màu đen. Hai con mèo được đặt gần nhau, tạo ra một bầu không khí ấm cúng và thân mật. Thảm trải sàn cung cấp một bề mặt mềm mại và thoải mái cho những con mèo nghỉ ngơi. Tổng thể tâm trạng của hình ảnh là yên bình và thư giãn, vì những con mèo dường như đang tận hưởng sự陪伴 của nhau trong khi nghỉ ngơi trên thảm.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "mhal_114"
+        }
+    },
+    {
+        "source": "The image features a table with a white plate and a pizza on it. There are two slices of pizza on the plate, with one slice being larger than the other. The pizza is topped with various ingredients, including peppers, tomatoes, and cheese. A bowl is also visible on the table, possibly containing a sauce or other condiments for the pizza.",
+        "target": "Hình ảnh này có một chiếc bàn với một chiếc đĩa trắng và một chiếc pizza trên đó. Trên đĩa có hai miếng pizza, một miếng lớn hơn miếng kia. Pizza được phủ nhiều loại nguyên liệu khác nhau, bao gồm ớt chuông, cà chua và phô mai. Một bát cũng được nhìn thấy trên bàn, có thể chứa nước sốt hoặc các loại gia vị khác cho pizza.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "mhal_221"
+        }
+    },
+    {
+        "source": "The image features a table with a white plate and a pizza on it. There are two slices of pizza on the plate, with one slice being larger than the other. The pizza is topped with various ingredients, including peppers, tomatoes, and cheese. A bowl is also visible on the table, possibly containing a sauce or other condiments for the pizza.",
+        "target": "Hình ảnh này có một chiếc bàn với một chiếc đĩa trắng và một chiếc pizza trên đó. Trên đĩa có hai miếng pizza, một miếng lớn hơn miếng kia. Pizza được phủ nhiều loại nguyên liệu khác nhau, bao gồm ớt chuông, cà chua và phô mai. Một bát cũng được nhìn thấy trên bàn, có thể chứa nước sốt hoặc các loại gia vị khác cho pizza.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "mhal_221"
+        }
+    },
+    {
+        "source": "The image features a bathroom with a toilet and a man taking a selfie in the mirror. The toilet has a unique design, as it is adorned with Harry Potter-themed images on its lid. The overall mood or atmosphere of the image is lighthearted and playful, as the man appears to be enjoying himself while taking a selfie in the bathroom.",
+        "target": "Hình ảnh miêu tả một phòng tắm có bồn cầu và một người đàn ông đang chụp ảnh selfie trước gương. Bồn cầu có thiết kế độc đáo, được trang trí bằng những hình ảnh theo chủ đề Harry Potter trên nắp. Không khí tổng thể của hình ảnh mang tính hài hước và vui vẻ, bởi người đàn ông dường như đang tận hưởng khoảnh khắc chụp ảnh selfie trong phòng tắm.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "mhal_325"
+        }
+    },
+    {
+        "source": "The image features a bathroom with a toilet and a man taking a selfie in the mirror. The toilet has a unique design, as it is adorned with Harry Potter-themed images on its lid. The overall mood or atmosphere of the image is lighthearted and playful, as the man appears to be enjoying himself while taking a selfie in the bathroom.",
+        "target": "Hình ảnh miêu tả một phòng tắm có bồn cầu và một người đàn ông đang chụp ảnh selfie trước gương. Bồn cầu có thiết kế độc đáo, được trang trí bằng những hình ảnh theo chủ đề Harry Potter trên nắp. Không khí tổng thể của hình ảnh mang tính hài hước và vui vẻ, bởi người đàn ông dường như đang tận hưởng khoảnh khắc chụp ảnh selfie trong phòng tắm.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "mhal_325"
+        }
+    },
+    {
+        "source": "in this image in the foreground there is one man who is holding some vegetables it seems and walking, and on the right side there is one person who is standing and it looks like there are some vegetables. and there are some poles and plastic covers, and there is a wire. on the wire there are some clothes and some ropes, and in the background also there are poles and we could see roof at the top and there are trees and buildings on the left side and one woman and one child who is holding a cup and eating something. and there are some clothes and we could see some doors, wall and at the bottom there is floor. and in the center there are some poles, and at the top there is sky.",
+        "target": "Trong bức ảnh này, ở tiền cảnh có một người đàn ông đang cầm một số loại rau củ dường như vậy và đang đi bộ, bên phía bên phải có một người đang đứng và có vẻ như cũng có một số rau củ. Có một vài cột và các lớp phủ bằng nhựa, và có một sợi dây. Trên sợi dây có một số quần áo và một số dây thừng, và ở phía sau cũng có các cột và ta có thể thấy mái nhà ở trên cùng, bên trái có cây cối và các tòa nhà, có một người phụ nữ và một đứa trẻ đang cầm cốc và ăn thứ gì đó. Có một số quần áo và ta có thể thấy một số cánh cửa, bức tường và ở phía dưới là sàn nhà. Ở trung tâm có một vài cột, và ở trên cùng là bầu trời.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "cin_0"
+        }
+    },
+    {
+        "source": "in this image in the foreground there is one man who is holding some vegetables it seems and walking, and on the right side there is one person who is standing and it looks like there are some vegetables. and there are some poles and plastic covers, and there is a wire. on the wire there are some clothes and some ropes, and in the background also there are poles and we could see roof at the top and there are trees and buildings on the left side and one woman and one child who is holding a cup and eating something. and there are some clothes and we could see some doors, wall and at the bottom there is floor. and in the center there are some poles, and at the top there is sky.",
+        "target": "Trong bức ảnh này, ở tiền cảnh có một người đàn ông đang cầm một số loại rau củ dường như vậy và đang đi bộ, bên phía bên phải có một người đang đứng và có vẻ như cũng có một số rau củ. Có một vài cột và các lớp phủ bằng nhựa, và có một sợi dây. Trên sợi dây có một số quần áo và một số dây thừng, và ở phía sau cũng có các cột và ta có thể thấy mái nhà ở trên cùng, bên trái có cây cối và các tòa nhà, có một người phụ nữ và một đứa trẻ đang cầm cốc và ăn thứ gì đó. Có một số quần áo và ta có thể thấy một số cánh cửa, bức tường và ở phía dưới là sàn nhà. Ở trung tâm có một vài cột, và ở trên cùng là bầu trời.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "cin_0"
+        }
+    },
+    {
+        "source": "Earlier , he visited Our Lady Queen of Angels School in East Harlem .",
+        "target": "Trước đó, ông đã đến thăm Trường Our Lady Queen of Angels ở East Harlem.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "m2e2_0"
+        }
+    },
+    {
+        "source": "Earlier , he visited Our Lady Queen of Angels School in East Harlem .",
+        "target": "Trước đó, ông đã đến thăm Trường Our Lady Queen of Angels ở East Harlem.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "m2e2_0"
+        }
+    },
+    {
+        "source": "C.T. Vivian , shown at home in Atlanta in June 2015 , 50 years earlier told a hostile white sheriff in Selma , Alabama : ' You ca n't turn your back on justice . '",
+        "target": "C.T. Vivian, được chụp tại nhà ở Atlanta vào tháng 6 năm 2015, 50 năm trước đó đã nói với một ông cảnh sát trưởng da trắng thù địch ở Selma, Alabama: 'Anh không thể quay lưng lại với công lý.'",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "m2e2_60"
+        }
+    },
+    {
+        "source": "C.T. Vivian , shown at home in Atlanta in June 2015 , 50 years earlier told a hostile white sheriff in Selma , Alabama : ' You ca n't turn your back on justice . '",
+        "target": "C.T. Vivian, được chụp tại nhà ở Atlanta vào tháng 6 năm 2015, 50 năm trước đó đã nói với một ông cảnh sát trưởng da trắng thù địch ở Selma, Alabama: 'Anh không thể quay lưng lại với công lý.'",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "m2e2_60"
+        }
+    },
+    {
+        "source": "it is a metro station , there is a metro rail on the left side track , the right side track is empty the platform is also empty, there are some boards and posters to the pillars , in the left side platform some people are waiting for the train , there is a big roof above that, there are also some poles they are looking like the network poles , the train is of blue, white and yellow color .",
+        "target": "Đây là một trạm metro, có một đường ray metro ở phía bên trái, đường ray bên phải thì trống, bến cũng trống, có một số bảng hiệu và áp phích gắn trên các cột, ở phía bến bên trái có một số người đang chờ tàu, phía trên có một mái nhà lớn, cũng có một số cột điện trông giống như cột mạng, tàu có màu xanh, trắng và vàng.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "png_0"
+        }
+    },
+    {
+        "source": "it is a metro station , there is a metro rail on the left side track , the right side track is empty the platform is also empty, there are some boards and posters to the pillars , in the left side platform some people are waiting for the train , there is a big roof above that, there are also some poles they are looking like the network poles , the train is of blue, white and yellow color .",
+        "target": "Đây là một trạm metro, có một đường ray metro ở phía bên trái, đường ray bên phải thì trống, bến cũng trống, có một số bảng hiệu và áp phích gắn trên các cột, ở phía bến bên trái có một số người đang chờ tàu, phía trên có một mái nhà lớn, cũng có một số cột điện trông giống như cột mạng, tàu có màu xanh, trắng và vàng.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "png_0"
+        }
+    },
+    {
+        "source": "A man in a blue hard hat and orange safety vest stands in an intersection while holding a flag .",
+        "target": "Một người đàn ông đội mũ bảo hộ màu xanh lam và mặc áo vest an toàn màu cam đứng ở một giao lộ trong khi cầm cờ.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "flickr_0_0"
+        }
+    },
+    {
+        "source": "A man in a blue hard hat and orange safety vest stands in an intersection while holding a flag .",
+        "target": "Một người đàn ông đội mũ bảo hộ màu xanh lam và mặc áo vest an toàn màu cam đứng ở một giao lộ trong khi cầm cờ.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "flickr_0_0"
+        }
+    },
+    {
+        "source": "Chargers ’ Jamal Williams Arrested For DUI on February 4 , 2009 Chargers defensive tackle Jamal Williams was arrested early Sunday for suspicions of driving under the influence . Williams was pulled over by the California Highway Patrol for speeding in a San Diego freeway . He was given a blood alcohol test but the results have not been revealed . He was taken to the County jail where he was booked and released on bail . According to authorities , he was driving his Bentley at about 1 : 00 am Sunday on highway 94 when the cops stopped him . This is the second DUI related arrest for the team . Earlier this year , star receiver Vincent Jackson was arrested for drunk driving a few days before their play - off game .",
+        "target": "Vào ngày 4 tháng 2 năm 2009, Jamal Williams của đội Chargers bị bắt vì lái xe dưới ảnh hưởng của rượu. Jamal Williams, cầu thủ phòng thủ của đội Chargers, đã bị bắt vào sáng chủ nhật vì nghi ngờ lái xe dưới ảnh hưởng của rượu. Williams bị cảnh sát giao thông California dừng xe trên một đường cao tốc ở San Diego vì chạy quá tốc độ. Anh ta đã được làm xét nghiệm máu để kiểm tra nồng độ cồn nhưng kết quả chưa được công bố. Anh ta được đưa đến nhà tù quận nơi anh ta được đăng ký và thả ra sau khi tại ngoại. Theo cơ quan chức năng, anh ta đang lái xe Bentley của mình vào khoảng 1:00 sáng chủ nhật trên đường cao tốc 94 khi cảnh sát dừng xe. Đây là vụ bắt giữ liên quan đến lái xe dưới ảnh hưởng của rượu thứ hai của đội. Đầu năm nay, cầu thủ nhận bóng ngôi sao Vincent Jackson đã bị bắt vì lái xe say rượu chỉ vài ngày trước trận play-off.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "eventstoryline_0"
+        }
+    },
+    {
+        "source": "Chargers ’ Jamal Williams Arrested For DUI on February 4 , 2009 Chargers defensive tackle Jamal Williams was arrested early Sunday for suspicions of driving under the influence . Williams was pulled over by the California Highway Patrol for speeding in a San Diego freeway . He was given a blood alcohol test but the results have not been revealed . He was taken to the County jail where he was booked and released on bail . According to authorities , he was driving his Bentley at about 1 : 00 am Sunday on highway 94 when the cops stopped him . This is the second DUI related arrest for the team . Earlier this year , star receiver Vincent Jackson was arrested for drunk driving a few days before their play - off game .",
+        "target": "Vào ngày 4 tháng 2 năm 2009, Jamal Williams của đội Chargers bị bắt vì lái xe dưới ảnh hưởng của rượu. Jamal Williams, cầu thủ phòng thủ của đội Chargers, đã bị bắt vào sáng chủ nhật vì nghi ngờ lái xe dưới ảnh hưởng của rượu. Williams bị cảnh sát giao thông California dừng xe trên một đường cao tốc ở San Diego vì chạy quá tốc độ. Anh ta đã được làm xét nghiệm máu để kiểm tra nồng độ cồn nhưng kết quả chưa được công bố. Anh ta được đưa đến nhà tù quận nơi anh ta được đăng ký và thả ra sau khi tại ngoại. Theo cơ quan chức năng, anh ta đang lái xe Bentley của mình vào khoảng 1:00 sáng chủ nhật trên đường cao tốc 94 khi cảnh sát dừng xe. Đây là vụ bắt giữ liên quan đến lái xe dưới ảnh hưởng của rượu thứ hai của đội. Đầu năm nay, cầu thủ nhận bóng ngôi sao Vincent Jackson đã bị bắt vì lái xe say rượu chỉ vài ngày trước trận play-off.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "eventstoryline_0"
+        }
+    },
+    {
+        "source": "The January 2010 Rio de Janeiro floods and mudslides was an extreme weather event that affected the State of Rio de Janeiro in Brazil in the first days of January 2010 . at least 85 people died , with at least 29 people in the hotel sankey after it was destroyed by landslides , and many more have been injured . More than 4,000 people were forced to evacuate their homes . The worst affected municipality was Angra dos Reis , about southwest of the city of Rio de Janeiro . At least 35 people were killed at a resort on Ilha Grande : about forty people were staying in the hotel which was buried under a mudslide , and the death toll is expected to rise further . Brazil 's only functioning nuclear power plant , Central Nuclear Almirante Álvaro Alberto , is also located within the municipality : plans were made for a temporary shutdown , as blocked roads would make any evacuation difficult or impossible in the event of an incident at the plant . In Rio Grande do Sul , at least seven people died and 20 went missing after a bridge collapsed due to heavy rains .",
+        "target": "Lũ lụt và lở đất Rio de Janeiro tháng 1 năm 2010 là một sự kiện thời tiết cực đoan ảnh hưởng đến bang Rio de Janeiro ở Brazil vào những ngày đầu tháng 1 năm 2010. Ít nhất 85 người đã thiệt mạng, với ít nhất 29 người tại khách sạn Sankey thiệt mạng sau khi nó bị phá hủy bởi các vụ lở đất, và nhiều người khác bị thương. Hơn 4.000 người đã buộc phải sơ tán khỏi nhà của họ. Đô thị bị ảnh hưởng nặng nề nhất là Angra dos Reis, nằm cách thành phố Rio de Janeiro về phía tây nam. Ít nhất 35 người đã thiệt mạng tại một khu nghỉ dưỡng trên đảo Ilha Grande: khoảng bốn mươi người đang ở trong khách sạn đã bị chôn vùi dưới một vụ lở đất, và số người chết dự kiến sẽ tiếp tục tăng lên. Nhà máy điện hạt nhân duy nhất đang hoạt động của Brazil, Central Nuclear Almirante Álvaro Alberto, cũng nằm trong đô thị này: các kế hoạch đã được đưa ra để tạm dừng hoạt động, vì các con đường bị chặn sẽ khiến việc sơ tán trở nên khó khăn hoặc không thể xảy ra trong trường hợp xảy ra sự cố tại nhà máy. Tại Rio Grande do Sul, ít nhất bảy người đã thiệt mạng và 20 người mất tích sau khi một cây cầu sập do mưa lớn.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "maven_0"
+        }
+    },
+    {
+        "source": "The January 2010 Rio de Janeiro floods and mudslides was an extreme weather event that affected the State of Rio de Janeiro in Brazil in the first days of January 2010 . at least 85 people died , with at least 29 people in the hotel sankey after it was destroyed by landslides , and many more have been injured . More than 4,000 people were forced to evacuate their homes . The worst affected municipality was Angra dos Reis , about southwest of the city of Rio de Janeiro . At least 35 people were killed at a resort on Ilha Grande : about forty people were staying in the hotel which was buried under a mudslide , and the death toll is expected to rise further . Brazil 's only functioning nuclear power plant , Central Nuclear Almirante Álvaro Alberto , is also located within the municipality : plans were made for a temporary shutdown , as blocked roads would make any evacuation difficult or impossible in the event of an incident at the plant . In Rio Grande do Sul , at least seven people died and 20 went missing after a bridge collapsed due to heavy rains .",
+        "target": "Lũ lụt và lở đất Rio de Janeiro tháng 1 năm 2010 là một sự kiện thời tiết cực đoan ảnh hưởng đến bang Rio de Janeiro ở Brazil vào những ngày đầu tháng 1 năm 2010. Ít nhất 85 người đã thiệt mạng, với ít nhất 29 người tại khách sạn Sankey thiệt mạng sau khi nó bị phá hủy bởi các vụ lở đất, và nhiều người khác bị thương. Hơn 4.000 người đã buộc phải sơ tán khỏi nhà của họ. Đô thị bị ảnh hưởng nặng nề nhất là Angra dos Reis, nằm cách thành phố Rio de Janeiro về phía tây nam. Ít nhất 35 người đã thiệt mạng tại một khu nghỉ dưỡng trên đảo Ilha Grande: khoảng bốn mươi người đang ở trong khách sạn đã bị chôn vùi dưới một vụ lở đất, và số người chết dự kiến sẽ tiếp tục tăng lên. Nhà máy điện hạt nhân duy nhất đang hoạt động của Brazil, Central Nuclear Almirante Álvaro Alberto, cũng nằm trong đô thị này: các kế hoạch đã được đưa ra để tạm dừng hoạt động, vì các con đường bị chặn sẽ khiến việc sơ tán trở nên khó khăn hoặc không thể xảy ra trong trường hợp xảy ra sự cố tại nhà máy. Tại Rio Grande do Sul, ít nhất bảy người đã thiệt mạng và 20 người mất tích sau khi một cây cầu sập do mưa lớn.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "maven_0"
+        }
+    },
+    {
+        "source": "Veterans Slam Government for Shifting Goalpost",
+        "target": "Các cựu chiến binh chỉ trích chính phủ vì việc thay đổi tiêu chuẩn đánh giá",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "recess_0"
+        }
+    },
+    {
+        "source": "Veterans Slam Government for Shifting Goalpost",
+        "target": "Các cựu chiến binh chỉ trích chính phủ vì việc thay đổi tiêu chuẩn đánh giá",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "recess_0"
+        }
+    },
+    {
+        "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
+        "target": "Ngày 04 tháng 9 năm 2015, 04:21 sáng, NEW DELHI: Bế tắc về kế hoạch ‘Một cấp lương hưu cho một cấp bậc’ (OROP) vẫn tiếp tục vào thứ Năm khi các cựu chiến binh đang biểu tình cáo buộc chính phủ “liên tục thay đổi mục tiêu” và không đưa ra bất kỳ “đề xuất cụ thể” nào để giải quyết vấn đề.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "recess_2"
+        }
+    },
+    {
+        "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
+        "target": "Ngày 04 tháng 9 năm 2015, 04:21 sáng, NEW DELHI: Bế tắc về kế hoạch ‘Một cấp lương hưu cho một cấp bậc’ (OROP) vẫn tiếp tục vào thứ Năm khi các cựu chiến binh đang biểu tình cáo buộc chính phủ “liên tục thay đổi mục tiêu” và không đưa ra bất kỳ “đề xuất cụ thể” nào để giải quyết vấn đề.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "recess_2"
+        }
+    },
+    {
+        "source": "Sangram ends fast at Pyari ’ s request 17th December 2012 11:41 AM After all the talks of injustice and fabricated charges over which Sangram Mohanty took to hunger strike in R Udaygiri jail , it took a letter of five sentences from Odisha Jan Morcha ( OJM ) leader Pyarimohan Mohapatra to call off the agitation on Sunday .",
+        "target": "Sangram chấm dứt tuyệt thực theo yêu cầu của Pyari  17 tháng 12 năm 2012 11:41 sáng Sau tất cả những cuộc thảo luận về sự bất công và các cáo buộc bịa đặt mà Sangram Mohanty đã bắt đầu tuyệt thực tại nhà tù R Udaygiri, thì chỉ cần một lá thư năm câu từ lãnh đạo Odisha Jan Morcha (OJM) Pyarimohan Mohapatra để chấm dứt cuộc biểu tình vào chủ nhật.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "recess_5"
+        }
+    },
+    {
+        "source": "Sangram ends fast at Pyari ’ s request 17th December 2012 11:41 AM After all the talks of injustice and fabricated charges over which Sangram Mohanty took to hunger strike in R Udaygiri jail , it took a letter of five sentences from Odisha Jan Morcha ( OJM ) leader Pyarimohan Mohapatra to call off the agitation on Sunday .",
+        "target": "Sangram chấm dứt tuyệt thực theo yêu cầu của Pyari  17 tháng 12 năm 2012 11:41 sáng Sau tất cả những cuộc thảo luận về sự bất công và các cáo buộc bịa đặt mà Sangram Mohanty đã bắt đầu tuyệt thực tại nhà tù R Udaygiri, thì chỉ cần một lá thư năm câu từ lãnh đạo Odisha Jan Morcha (OJM) Pyarimohan Mohapatra để chấm dứt cuộc biểu tình vào chủ nhật.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "recess_5"
+        }
+    },
+    {
+        "source": "Chikkamagaluru : BJP activists take out march , demand George ’ s resignation July 17 , 2016 00:00 IST Workers of the Bharatiya Janata Party ( BJP ) took out a march in Chikkamagaluru on Saturday demanding the resignation of Bengaluru Development Minister K.J. George and a CBI probe into the death of Dy.SP M.K. Ganapathy .",
+        "target": "Chikkamagaluru: Các nhà hoạt động BJP tổ chức tuần hành, yêu cầu George từ chức 17 tháng 7 năm 2016 00:00 IST Các thành viên của Đảng Bharatiya Janata (BJP) đã tổ chức một cuộc tuần hành ở Chikkamagaluru vào thứ Bảy, yêu cầu Bộ trưởng Phát triển Bengaluru K.J. George từ chức và một cuộc điều tra của CBI về cái chết của Phó Giám đốc cảnh sát M.K. Ganapathy.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "recess_7"
+        }
+    },
+    {
+        "source": "Chikkamagaluru : BJP activists take out march , demand George ’ s resignation July 17 , 2016 00:00 IST Workers of the Bharatiya Janata Party ( BJP ) took out a march in Chikkamagaluru on Saturday demanding the resignation of Bengaluru Development Minister K.J. George and a CBI probe into the death of Dy.SP M.K. Ganapathy .",
+        "target": "Chikkamagaluru: Các nhà hoạt động BJP tổ chức tuần hành, yêu cầu George từ chức 17 tháng 7 năm 2016 00:00 IST Các thành viên của Đảng Bharatiya Janata (BJP) đã tổ chức một cuộc tuần hành ở Chikkamagaluru vào thứ Bảy, yêu cầu Bộ trưởng Phát triển Bengaluru K.J. George từ chức và một cuộc điều tra của CBI về cái chết của Phó Giám đốc cảnh sát M.K. Ganapathy.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "recess_7"
+        }
+    },
+    {
+        "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
+        "target": "Warren không nên đã làm bài kiểm tra đó; đã làm rồi thì bà ấy không nên công bố nó; đã công bố rồi thì bà ấy nên lặng lẽ sa thải bất kỳ ai đã thúc đẩy nước cờ này và tiếp tục đi tiếp.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "semeval20task5_0"
+        }
+    },
+    {
+        "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
+        "target": "Warren không nên đã làm bài kiểm tra đó; đã làm rồi thì bà ấy không nên công bố nó; đã công bố rồi thì bà ấy nên lặng lẽ sa thải bất kỳ ai đã thúc đẩy nước cờ này và tiếp tục đi tiếp.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "semeval20task5_0"
+        }
+    },
+    {
+        "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+        "target": "Ý tưởng rằng hậu quả của vụ Bear Stearns sẽ chỉ giới hạn ở một vài công ty Phố Wall là không đúng.\" Dimon nói rằng công ty của ông không đồng ý tiếp quản Bear nếu không có sự hỗ trợ tài chính của Fed, và nói rằng JPMorgan cũng đã đồng ý bảo đảm 25 tỷ đô la mà Bear đã vay từ ngân hàng trung ương.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "semeval20task5_35"
+        }
+    },
+    {
+        "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+        "target": "Ý tưởng rằng hậu quả của vụ Bear Stearns sẽ chỉ giới hạn ở một vài công ty Phố Wall là không đúng.\" Dimon nói rằng công ty của ông không đồng ý tiếp quản Bear nếu không có sự hỗ trợ tài chính của Fed, và nói rằng JPMorgan cũng đã đồng ý bảo đảm 25 tỷ đô la mà Bear đã vay từ ngân hàng trung ương.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "semeval20task5_35"
+        }
+    },
+    {
+        "source": "Dr. Durrant added that it would have been nice if the authors of the current study had included an additional measure of parental spanking practices instead of relying just on parental recall, because that may have led to the underestimating of actual rates..",
+        "target": "Tiến sĩ Durrant bổ sung rằng sẽ rất tốt nếu các tác giả của nghiên cứu hiện tại đã bao gồm một biện pháp bổ sung về các phương pháp quát mắng của cha mẹ thay vì chỉ dựa vào hồi ức của cha mẹ, vì điều đó có thể dẫn đến việc đánh giá thấp mức độ thực tế.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "semeval20task5_71"
+        }
+    },
+    {
+        "source": "Dr. Durrant added that it would have been nice if the authors of the current study had included an additional measure of parental spanking practices instead of relying just on parental recall, because that may have led to the underestimating of actual rates..",
+        "target": "Tiến sĩ Durrant bổ sung rằng sẽ rất tốt nếu các tác giả của nghiên cứu hiện tại đã bao gồm một biện pháp bổ sung về các phương pháp quát mắng của cha mẹ thay vì chỉ dựa vào hồi ức của cha mẹ, vì điều đó có thể dẫn đến việc đánh giá thấp mức độ thực tế.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "semeval20task5_71"
+        }
+    },
+    {
+        "source": "Wilmington News-Journal, \"Castle: I won't run as a write-in candidate,\" by Beth Miller: \"Mike Castle announces in written statement, 'While I would have been honored to represent Delaware in the U.S.\"",
+        "target": "Wilmington News-Journal, \"Castle: Tôi sẽ không tranh cử ứng viên tự do,\" của Beth Miller: \"Mike Castle thông báo trong tuyên bố bằng văn bản, 'Tôi sẽ rất vinh dự nếu được đại diện cho Delaware tại Hoa Kỳ.'\"",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "semeval20task5_106"
+        }
+    },
+    {
+        "source": "Wilmington News-Journal, \"Castle: I won't run as a write-in candidate,\" by Beth Miller: \"Mike Castle announces in written statement, 'While I would have been honored to represent Delaware in the U.S.\"",
+        "target": "Wilmington News-Journal, \"Castle: Tôi sẽ không tranh cử ứng viên tự do,\" của Beth Miller: \"Mike Castle thông báo trong tuyên bố bằng văn bản, 'Tôi sẽ rất vinh dự nếu được đại diện cho Delaware tại Hoa Kỳ.'\"",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "semeval20task5_106"
+        }
+    },
+    {
+        "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+        "target": "Gần đây, các mạng nơ - ron tích chập ba chiều (3D) (CNNs) đã nổi lên như các phương pháp thống trị để bắt giữ các biểu diễn không gian - thời gian trong video, bằng cách bổ sung cho các CNN hai chiều hiện có một chiều thứ ba, chiều thời gian.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "scier_0_0"
+        }
+    },
+    {
+        "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+        "target": "Gần đây, các mạng nơ - ron tích chập ba chiều (3D) (CNNs) đã nổi lên như các phương pháp thống trị để bắt giữ các biểu diễn không gian - thời gian trong video, bằng cách bổ sung cho các CNN hai chiều hiện có một chiều thứ ba, chiều thời gian.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "scier_0_0"
+        }
+    },
+    {
+        "source": "The human cell lines of breast cancer (MCF-7), colon adenocarcinoma (HT-29), and leukemia (CCRF/CEM) were obtained from American Type Culture Collection (Rockville, Maryland, USA) and maintained in the Cell Culture Collection at the Institute of Immunology and Experimental Therapy, Wroclaw, Poland.\n",
+        "target": "Các dòng tế bào người của ung thư vú (MCF-7), ung thư biểu mô tuyến đại tràng (HT-29), và bệnh bạch cầu (CCRF/CEM) được lấy từ Bộ sưu tập Văn hóa Chủng loại Mỹ (American Type Culture Collection, Rockville, Maryland, Hoa Kỳ) và được nuôi cấy trong Bộ sưu tập Nuôi cấy Tế bào tại Viện Miễn dịch học và Thử nghiệm Thực nghiệm, Wroclaw, Ba Lan.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "pubmed_0_2"
+        }
+    },
+    {
+        "source": "The human cell lines of breast cancer (MCF-7), colon adenocarcinoma (HT-29), and leukemia (CCRF/CEM) were obtained from American Type Culture Collection (Rockville, Maryland, USA) and maintained in the Cell Culture Collection at the Institute of Immunology and Experimental Therapy, Wroclaw, Poland.\n",
+        "target": "Các dòng tế bào người của ung thư vú (MCF-7), ung thư biểu mô tuyến đại tràng (HT-29), và bệnh bạch cầu (CCRF/CEM) được lấy từ Bộ sưu tập Văn hóa Chủng loại Mỹ (American Type Culture Collection, Rockville, Maryland, Hoa Kỳ) và được nuôi cấy trong Bộ sưu tập Nuôi cấy Tế bào tại Viện Miễn dịch học và Thử nghiệm Thực nghiệm, Wroclaw, Ba Lan.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "pubmed_0_2"
+        }
+    },
+    {
+        "source": "A solution of oxalyl chloride (0.97 ml) in dry dichloromethane (10 ml) was stirred at −55° C. under an atmosphere of dry nitrogen.\n",
+        "target": "Dung dịch của oxalyl clorua (0,97 ml) trong diclometan khô (10 ml) được khuấy ở nhiệt độ -55° C trong môi trường nitơ khô.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "chemsyn_0_2"
+        }
+    },
+    {
+        "source": "A solution of oxalyl chloride (0.97 ml) in dry dichloromethane (10 ml) was stirred at −55° C. under an atmosphere of dry nitrogen.\n",
+        "target": "Dung dịch của oxalyl clorua (0,97 ml) trong diclometan khô (10 ml) được khuấy ở nhiệt độ -55° C trong môi trường nitơ khô.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "chemsyn_0_2"
+        }
+    },
+    {
+        "source": "The Contribution of a Speech Perception Intervention to the Prevention of Phonological Awareness Deficits in Children With Speech Sound Disorders | Recent research reveals genetic and symptomatic overlap among children with speech sound disorders (i.e., those who (misarticulate more sounds than would be expected for their age) and children with dyslexia (i.e., those who struggle to learn to read). Children who have speech sound disorders as preschoolers are at risk for the later emergence of dyslexia, a risk that often reveals itself in the form of poor phonological awareness skills during the preschool period. Traditional speech therapy methods focus on articulation accuracy and do not focus on the child's more abstract knowledge of the sound system of the language. The ultimate objective of this research program is to prevent reading disability in children who present with speech sounds disorders. The relative effectiveness of different interventions to help these children achieve age-appropriate phonological processing skills prior to school entry will be investigated. It is expected that a combination of treatment approaches that focus on speech perception skills and vocabulary knowledge will have a superior impact on phonological awareness in comparison with a treatment approach that focuses solely on articulation accuracy.",
+        "target": "Đóng góp của Can thiệp Nhận thức Ngữ âm vào Việc Ngăn ngừa Thâm hụt Nhận thức Âm vị ở Trẻ em mắc Rối loạn Âm thanh | Nghiên cứu gần đây cho thấy sự trùng lặp về di truyền và triệu chứng ở trẻ em mắc chứng rối loạn âm thanh (tức là những trẻ phát âm sai nhiều âm hơn so với độ tuổi của chúng) và trẻ em mắc chứng khó đọc (tức là những trẻ gặp khó khăn trong việc học đọc). Trẻ em mắc chứng rối loạn âm thanh khi còn nhỏ tuổi có nguy cơ mắc chứng khó đọc sau này, một nguy cơ thường biểu hiện dưới dạng kỹ năng nhận thức âm vị kém trong giai đoạn trước khi đi học. Các phương pháp trị liệu ngôn ngữ truyền thống tập trung vào độ chính xác phát âm và không tập trung vào kiến thức trừu tượng hơn của trẻ về hệ thống âm thanh của ngôn ngữ. Mục tiêu cuối cùng của chương trình nghiên cứu này là ngăn ngừa khuyết tật đọc ở trẻ em mắc chứng rối loạn âm thanh. Hiệu quả tương đối của các can thiệp khác nhau để giúp những trẻ này đạt được các kỹ năng xử lý âm vị phù hợp với lứa tuổi trước khi vào trường sẽ được điều tra. Người ta kỳ vọng rằng sự kết hợp các phương pháp điều trị tập trung vào kỹ năng nhận thức âm thanh và kiến thức từ vựng sẽ có tác động vượt trội đến nhận thức âm vị so với phương pháp điều trị chỉ tập trung vào độ chính xác phát âm.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "neuraltrial_0"
+        }
+    },
+    {
+        "source": "The Contribution of a Speech Perception Intervention to the Prevention of Phonological Awareness Deficits in Children With Speech Sound Disorders | Recent research reveals genetic and symptomatic overlap among children with speech sound disorders (i.e., those who (misarticulate more sounds than would be expected for their age) and children with dyslexia (i.e., those who struggle to learn to read). Children who have speech sound disorders as preschoolers are at risk for the later emergence of dyslexia, a risk that often reveals itself in the form of poor phonological awareness skills during the preschool period. Traditional speech therapy methods focus on articulation accuracy and do not focus on the child's more abstract knowledge of the sound system of the language. The ultimate objective of this research program is to prevent reading disability in children who present with speech sounds disorders. The relative effectiveness of different interventions to help these children achieve age-appropriate phonological processing skills prior to school entry will be investigated. It is expected that a combination of treatment approaches that focus on speech perception skills and vocabulary knowledge will have a superior impact on phonological awareness in comparison with a treatment approach that focuses solely on articulation accuracy.",
+        "target": "Đóng góp của Can thiệp Nhận thức Ngữ âm vào Việc Ngăn ngừa Thâm hụt Nhận thức Âm vị ở Trẻ em mắc Rối loạn Âm thanh | Nghiên cứu gần đây cho thấy sự trùng lặp về di truyền và triệu chứng ở trẻ em mắc chứng rối loạn âm thanh (tức là những trẻ phát âm sai nhiều âm hơn so với độ tuổi của chúng) và trẻ em mắc chứng khó đọc (tức là những trẻ gặp khó khăn trong việc học đọc). Trẻ em mắc chứng rối loạn âm thanh khi còn nhỏ tuổi có nguy cơ mắc chứng khó đọc sau này, một nguy cơ thường biểu hiện dưới dạng kỹ năng nhận thức âm vị kém trong giai đoạn trước khi đi học. Các phương pháp trị liệu ngôn ngữ truyền thống tập trung vào độ chính xác phát âm và không tập trung vào kiến thức trừu tượng hơn của trẻ về hệ thống âm thanh của ngôn ngữ. Mục tiêu cuối cùng của chương trình nghiên cứu này là ngăn ngừa khuyết tật đọc ở trẻ em mắc chứng rối loạn âm thanh. Hiệu quả tương đối của các can thiệp khác nhau để giúp những trẻ này đạt được các kỹ năng xử lý âm vị phù hợp với lứa tuổi trước khi vào trường sẽ được điều tra. Người ta kỳ vọng rằng sự kết hợp các phương pháp điều trị tập trung vào kỹ năng nhận thức âm thanh và kiến thức từ vựng sẽ có tác động vượt trội đến nhận thức âm vị so với phương pháp điều trị chỉ tập trung vào độ chính xác phát âm.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "neuraltrial_0"
+        }
+    },
+    {
+        "source": "Intravenous sodium valproate versus diazepam infusion for the control of refractory status epilepticus in children : a randomized controlled trial . An open-label , randomized controlled study was conducted at a tertiary care teaching hospital to compare efficacy and safety of intravenous sodium valproate versus diazepam infusion for control of refractory status epilepticus . Forty children with refractory status epilepticus were randomized to receive either intravenous sodium valproate or diazepam infusion . Refractory status epilepticus was controlled in 80 % of the valproate and 85 % of the diazepam patients . The median time to control refractory status epilepticus was less in the valproate group ( 5 minutes ) than the diazepam group ( 17 minutes ; P < .001 ) . None of the patients in the valproate group required ventilation or developed hypotension , whereas in the diazepam group 60 % required ventilation and 50 % developed hypotension after starting diazepam infusion . No adverse effects on liver functions were seen with valproate . It is concluded that intravenous sodium valproate is an effective alternative to diazepam infusion in controlling refractory status epilepticus in children and is free of respiratory depression and hypotension .",
+        "target": "So sánh giữa truyền tĩnh mạch natri valproat và tiêm truyền diazepam trong việc kiểm soát tình trạng động kinh kéo dài kháng trị ở trẻ em: một nghiên cứu ngẫu nhiên có kiểm soát. Một nghiên cứu ngẫu nhiên có kiểm soát, được công bố công khai, đã được thực hiện tại một bệnh viện chuyên khoa và đào tạo y khoa để so sánh hiệu quả và độ an toàn của truyền tĩnh mạch natri valproat so với tiêm truyền diazepam trong việc kiểm soát tình trạng động kinh kéo dài kháng trị. Bốn mươi trẻ em bị tình trạng động kinh kéo dài kháng trị được phân ngẫu nhiên để nhận hoặc truyền tĩnh mạch natri valproat hoặc tiêm truyền diazepam. Tình trạng động kinh kéo dài kháng trị được kiểm soát ở 80% bệnh nhân nhận valproat và 85% bệnh nhân nhận diazepam. Thời gian trung vị để kiểm soát tình trạng động kinh kéo dài kháng trị ở nhóm valproat (5 phút) ngắn hơn so với nhóm diazepam (17 phút; P < 0,001). Không có bệnh nhân nào trong nhóm valproat cần thở máy hoặc bị hạ huyết áp, trong khi ở nhóm diazepam 60% cần thở máy và 50% bị hạ huyết áp sau khi bắt đầu tiêm truyền diazepam. Không có tác dụng phụ nào ảnh hưởng đến chức năng gan được ghi nhận ở nhóm valproat. Kết luận là truyền tĩnh mạch natri valproat là một phương pháp thay thế hiệu quả cho tiêm truyền diazepam trong việc kiểm soát tình trạng động kinh kéo dài kháng trị ở trẻ em và không gây ra tình trạng ức chế hô hấp hay hạ huyết áp.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "ebmpico_0"
+        }
+    },
+    {
+        "source": "Intravenous sodium valproate versus diazepam infusion for the control of refractory status epilepticus in children : a randomized controlled trial . An open-label , randomized controlled study was conducted at a tertiary care teaching hospital to compare efficacy and safety of intravenous sodium valproate versus diazepam infusion for control of refractory status epilepticus . Forty children with refractory status epilepticus were randomized to receive either intravenous sodium valproate or diazepam infusion . Refractory status epilepticus was controlled in 80 % of the valproate and 85 % of the diazepam patients . The median time to control refractory status epilepticus was less in the valproate group ( 5 minutes ) than the diazepam group ( 17 minutes ; P < .001 ) . None of the patients in the valproate group required ventilation or developed hypotension , whereas in the diazepam group 60 % required ventilation and 50 % developed hypotension after starting diazepam infusion . No adverse effects on liver functions were seen with valproate . It is concluded that intravenous sodium valproate is an effective alternative to diazepam infusion in controlling refractory status epilepticus in children and is free of respiratory depression and hypotension .",
+        "target": "So sánh giữa truyền tĩnh mạch natri valproat và tiêm truyền diazepam trong việc kiểm soát tình trạng động kinh kéo dài kháng trị ở trẻ em: một nghiên cứu ngẫu nhiên có kiểm soát. Một nghiên cứu ngẫu nhiên có kiểm soát, được công bố công khai, đã được thực hiện tại một bệnh viện chuyên khoa và đào tạo y khoa để so sánh hiệu quả và độ an toàn của truyền tĩnh mạch natri valproat so với tiêm truyền diazepam trong việc kiểm soát tình trạng động kinh kéo dài kháng trị. Bốn mươi trẻ em bị tình trạng động kinh kéo dài kháng trị được phân ngẫu nhiên để nhận hoặc truyền tĩnh mạch natri valproat hoặc tiêm truyền diazepam. Tình trạng động kinh kéo dài kháng trị được kiểm soát ở 80% bệnh nhân nhận valproat và 85% bệnh nhân nhận diazepam. Thời gian trung vị để kiểm soát tình trạng động kinh kéo dài kháng trị ở nhóm valproat (5 phút) ngắn hơn so với nhóm diazepam (17 phút; P < 0,001). Không có bệnh nhân nào trong nhóm valproat cần thở máy hoặc bị hạ huyết áp, trong khi ở nhóm diazepam 60% cần thở máy và 50% bị hạ huyết áp sau khi bắt đầu tiêm truyền diazepam. Không có tác dụng phụ nào ảnh hưởng đến chức năng gan được ghi nhận ở nhóm valproat. Kết luận là truyền tĩnh mạch natri valproat là một phương pháp thay thế hiệu quả cho tiêm truyền diazepam trong việc kiểm soát tình trạng động kinh kéo dài kháng trị ở trẻ em và không gây ra tình trạng ức chế hô hấp hay hạ huyết áp.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "ebmpico_0"
+        }
+    },
+    {
+        "source": "IMPRESSION: 1. Eight-month-old with initially diagnosed bronchiolitis which developed into a right middle lobe pneumonia. She will be discharged on Augmentin ES 600 mg per 5 ml, 300 mg p.o. b.i.d. x10 days. Of note, this is a change since she had been treated with Unasyn IV in the hospital.",
+        "target": "ẤN TƯỢNG: 1. Trẻ tám tháng tuổi với chẩn đoán ban đầu là viêm tiểu phế quản, sau đó phát triển thành viêm phổi thùy giữa phổi phải. Bệnh nhi sẽ được xuất viện với đơn thuốc Augmentin ES 600 mg/5 ml, 300 mg uống đường miệng hai lần mỗi ngày trong 10 ngày. Lưu ý, đây là sự thay đổi so với trước đây khi bệnh nhi được điều trị bằng thuốc Unasyn tiêm tĩnh mạch tại bệnh viện.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "clinicalie_attr_0"
+        }
+    },
+    {
+        "source": "IMPRESSION: 1. Eight-month-old with initially diagnosed bronchiolitis which developed into a right middle lobe pneumonia. She will be discharged on Augmentin ES 600 mg per 5 ml, 300 mg p.o. b.i.d. x10 days. Of note, this is a change since she had been treated with Unasyn IV in the hospital.",
+        "target": "ẤN TƯỢNG: 1. Trẻ tám tháng tuổi với chẩn đoán ban đầu là viêm tiểu phế quản, sau đó phát triển thành viêm phổi thùy giữa phổi phải. Bệnh nhi sẽ được xuất viện với đơn thuốc Augmentin ES 600 mg/5 ml, 300 mg uống đường miệng hai lần mỗi ngày trong 10 ngày. Lưu ý, đây là sự thay đổi so với trước đây khi bệnh nhi được điều trị bằng thuốc Unasyn tiêm tĩnh mạch tại bệnh viện.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "clinicalie_attr_0"
+        }
+    },
+    {
+        "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
+        "target": "6. Prilosec 10 mg GT hai lần mỗi ngày. \n7. Carnitine 500 mg GT hai lần mỗi ngày. \n8. Dầu gan cá một viên nang GT mỗi ngày. \n9. Vi đa vitamin 1 viên GT mỗi ngày. \n10. Bicitra 10 mL GT hai lần mỗi ngày. \nCHẾ ĐỘ ĂN KHI RA VIỆN: Bệnh nhân sẽ tiếp tục chế độ ăn Pediasure tại nhà.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "clinicalie_attr_1"
+        }
+    },
+    {
+        "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
+        "target": "6. Prilosec 10 mg GT hai lần mỗi ngày. \n7. Carnitine 500 mg GT hai lần mỗi ngày. \n8. Dầu gan cá một viên nang GT mỗi ngày. \n9. Vi đa vitamin 1 viên GT mỗi ngày. \n10. Bicitra 10 mL GT hai lần mỗi ngày. \nCHẾ ĐỘ ĂN KHI RA VIỆN: Bệnh nhân sẽ tiếp tục chế độ ăn Pediasure tại nhà.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "clinicalie_attr_1"
+        }
+    },
+    {
+        "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
+        "target": "Mẹ cô bị cao huyết áp. Các nữ thân thuộc khác bị lạc nội mạc tử cung. TIỀN SỬ XÃ HỘI: Bệnh nhân đã kết hôn. Cô làm việc với vai trò điều phối viên tài khoản tại Ngân hàng US Bank. Cô phủ nhận việc sử dụng thuốc lá, rượu hoặc ma túy. KHÁM THỰC THỂ KHI NHẬP VIỆN: DẤU HIỆU SINH TỒN: Huyết áp 136/80 đến 147/106.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "clinicalie_coref_0"
+        }
+    },
+    {
+        "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
+        "target": "Mẹ cô bị cao huyết áp. Các nữ thân thuộc khác bị lạc nội mạc tử cung. TIỀN SỬ XÃ HỘI: Bệnh nhân đã kết hôn. Cô làm việc với vai trò điều phối viên tài khoản tại Ngân hàng US Bank. Cô phủ nhận việc sử dụng thuốc lá, rượu hoặc ma túy. KHÁM THỰC THỂ KHI NHẬP VIỆN: DẤU HIỆU SINH TỒN: Huyết áp 136/80 đến 147/106.",
+        "metadata": {
+            "system": "GPT-4.1-mini",
+            "method": "CLaP",
+            "id": "clinicalie_coref_0"
+        }
+    }
+]
