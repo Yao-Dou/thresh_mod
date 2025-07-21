@@ -25,6 +25,14 @@
     margin: 0;
 }
 
+.non-highlightable-area {
+    color: #999; /* Fades out the non-selectable text */
+    -webkit-user-select: none; /* Prevents selection in Chrome/Safari */
+    -moz-user-select: none; /* Prevents selection in Firefox */
+    -ms-user-select: none; /* Prevents selection in IE/Edge */
+    user-select: none; /* Standard syntax */
+}
+
 .w-13 {
     width: 13%;
 }

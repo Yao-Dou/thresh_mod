@@ -295,7 +295,7 @@ export default {
                 return `<span @click="click_span" @mouseover="hover_span" @mouseout="un_hover_span" class="${edit['category']} border-${edit['category']}${light} pointer span ${span_class}" data-category="${edit['category']}" data-id="${edit['category']}-${edit['id']}" ${composite_info}>`;
             }
         },
-        render_sentence(sent, sent_type, span_class, selected_category) {
+        render_sentence(sent, sent_type, span_class, selected_category, offset = 0) {
             let hit_edits = _.cloneDeep(this.hits_data[this.current_hit - 1].edits);
             const includes_selection = selected_category != null && selected_category != '';
             if (includes_selection) {
@@ -324,9 +324,20 @@ export default {
 
             // 1. Collect all unique start and end points from all edits.
             const points = new Set([0, sent.length]); // Start with sentence boundaries
+            const chunk_abs_end = offset + sent.length;
+
             allEdits.forEach(edit => {
-                points.add(edit[sent_type][0]);
-                points.add(edit[sent_type][1]);
+                const abs_start = edit[sent_type][0];
+                const abs_end = edit[sent_type][1];
+
+                // If an edit's start point falls INSIDE our current chunk, add its relative position.
+                if (abs_start > offset && abs_start < chunk_abs_end) {
+                    points.add(abs_start - offset);
+                }
+                // If an edit's end point falls INSIDE our current chunk, add its relative position.
+                if (abs_end > offset && abs_end < chunk_abs_end) {
+                    points.add(abs_end - offset);
+                }
             });
 
             // 2. Create a sorted list of points. These points define our atomic segments.
@@ -347,8 +358,15 @@ export default {
                 const segmentText = sent.substring(start, end);
 
                 // 4. Find all edits that "contain" this segment.
+                // const enclosingEdits = allEdits.filter(edit =>
+                //     edit[sent_type][0] <= start && edit[sent_type][1] >= end
+                // );
+                
+                const segment_abs_start = start + offset;
+                const segment_abs_end = end + offset;
+
                 const enclosingEdits = allEdits.filter(edit =>
-                    edit[sent_type][0] <= start && edit[sent_type][1] >= end
+                    edit[sent_type][0] <= segment_abs_start && edit[sent_type][1] >= segment_abs_end
                 );
 
                 // 5. Sort enclosing edits to ensure proper nesting (outermost first).
