@@ -1,0 +1,64 @@
+template_name: mqm
+template_label: MQM
+template_description: A variation proposed by Freitag et al., 2021 of the Multidimensional Quality Metrics
+
+interface_text:
+  typology:
+    source_label: "Original Sentence"
+    target_label: "Translation"
+
+tokenization: char
+adjudication: 2
+highlight_first_interface: true
+
+edits:
+  - name: no_error
+    label: "No Error"
+    color: green
+    icon: fa-check
+  - name: mistranslation
+    label: "Mistranslation"
+    color: orange
+    icon: fa-person-drowning 
+    enable_output: true   
+    annotation:
+      - name: severity
+        label: "Severity"
+        question: "Rate the severity"
+        options: likert-3
+  - name: addition
+    label: "Addition"
+    color: brown
+    icon: fa-flask
+    enable_output: true   
+    annotation:
+      - name: severity
+        question: "Rate the severity"
+        options: likert-3
+  - name: omission
+    label: "Omission"
+    color: red
+    icon: fa-xmark
+    enable_input: true   
+    annotation:
+      - name: severity
+        question: "Rate the severity"
+        options: likert-3
+  - name: too_general
+    label: "Too General"
+    color: blue
+    icon: fa-arrows-left-right
+    enable_output: true   
+    annotation:
+      - name: severity
+        question: "Rate the severity"
+        options: likert-3
+  - name: unfluent_awkward
+    label: "Unfluent/Awkward"
+    color: grey
+    icon: fa-eye-slash
+    enable_output: true   
+    annotation:
+      - name: severity
+        question: "Rate the severity"
+        options: likert-3
