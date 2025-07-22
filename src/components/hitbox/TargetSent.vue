@@ -98,7 +98,7 @@ export default {
                 }
                 const highlightable_text = sentence.substring(start, end);
                 const processed_sub_html = this.render_sentence(highlightable_text, 'output_idx', 'target_span', category, start); // pass offset `start`
-                html += `<span class="selection-area">${processed_sub_html}</span>`;
+                html += `<span class="selection-area bold">${processed_sub_html}</span>`;
                 
                 lastIndex = end;
             });

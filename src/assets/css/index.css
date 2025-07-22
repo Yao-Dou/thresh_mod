@@ -26,11 +26,16 @@
 }
 
 .non-highlightable-area {
-    color: #999; /* Fades out the non-selectable text */
+    color: #333333;
     -webkit-user-select: none; /* Prevents selection in Chrome/Safari */
     -moz-user-select: none; /* Prevents selection in Firefox */
     -ms-user-select: none; /* Prevents selection in IE/Edge */
     user-select: none; /* Standard syntax */
+}
+
+.bold {
+    color: #6200ea; /* Example: A strong purple */
+    font-weight: 600; /* Semi-bold */
 }
 
 .w-13 {

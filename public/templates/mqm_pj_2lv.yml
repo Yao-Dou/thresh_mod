@@ -1,0 +1,70 @@
+template_name: mqm_pj_2lv
+template_label: MQM (2-level)
+template_description: A variation proposed by Freitag et al., 2021 of the Multidimensional Quality Metrics
+
+interface_text:
+  typology:
+    source_label: "Original Sentence"
+    target_label: "Translation"
+
+tokenization: char
+
+edits:
+  - name: target
+    label: "Target error"
+    color: brown
+    icon: fa-comment-slash
+    enable_output: true  
+    annotation:
+      - name: accuracy_type
+        question: "Select the accuracy problem."
+        options:
+          - name: addition
+            label: "Addition"
+            question: "Rate the severity"
+            options:
+              - name: minor
+                label: "Minor"
+              - name: major
+                label: "Major"
+          - name: mistranslation
+            label: "Mistranslation"
+            question: "Rate the severity"
+            options:
+              - name: minor
+                label: "Minor"
+              - name: major
+                label: "Major"
+          - name: too_general
+            label: "Too General"
+            question: "Rate the severity"
+            options:
+              - name: minor
+                label: "Minor"
+              - name: major
+                label: "Major"
+          - name: unfluent_awkward
+            label: "Unfluent/Awkward"
+            question: "Rate the severity"
+            options:
+              - name: minor
+                label: "Minor"
+              - name: major
+                label: "Major"
+  - name: source
+    label: "Omission (Source)"
+    color: red
+    icon: fa-xmark
+    enable_input: true   
+    annotation:
+      - name: severity
+        question: "Rate the severity"
+        options:
+          - name: minor
+            label: "Minor"
+          - name: major
+            label: "Major"
+  - name: no_error
+    label: "No error"
+    color: green
+    icon: fa-check

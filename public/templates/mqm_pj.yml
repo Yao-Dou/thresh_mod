@@ -1,5 +1,5 @@
-template_name: mqm
-template_label: MQM
+template_name: mqm_pj
+template_label: MQM (1-level)
 template_description: A variation proposed by Freitag et al., 2021 of the Multidimensional Quality Metrics
 
 interface_text:
@@ -8,8 +8,6 @@ interface_text:
     target_label: "Translation"
 
 tokenization: char
-adjudication: 2
-highlight_first_interface: true
 
 edits:
   - name: no_error
