@@ -1,7 +1,7 @@
 [
     {
         "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
-        "target": "Cô ấy đã giảm thêm bốn cân kể từ tuần trước. Cô ấy bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã sẵn sàng điều trị cho cô ấy làm bệnh nhân ngoại trú cho đến khi bác sĩ chẩn đoán hình ảnh của CDI gọi tôi để báo cáo rằng ông đã phát hiện ra một cục máu đông phổi bên trái trên kết quả chụp CT, bên cạnh các phát hiện nêu trên.",
+        "target": "Cô ấy đã giảm thêm bốn cân kể từ tuần trước. Cô ấy bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã chuẩn bị để điều trị ngoại trú cho cô ấy cho đến khi bác sĩ chẩn đoán hình ảnh từ CDI gọi cho tôi báo rằng ông ấy đã phát hiện ra một cục máu đông phổi bên trái trên phim CT ngoài những kết quả đã nêu trên.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -10,7 +10,7 @@
     },
     {
         "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
-        "target": "Cô ấy đã giảm thêm bốn cân kể từ tuần trước. Cô ấy bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã sẵn sàng điều trị cho cô ấy làm bệnh nhân ngoại trú cho đến khi bác sĩ chẩn đoán hình ảnh của CDI gọi tôi để báo cáo rằng ông đã phát hiện ra một cục máu đông phổi bên trái trên kết quả chụp CT, bên cạnh các phát hiện nêu trên.",
+        "target": "Cô ấy đã giảm thêm bốn cân kể từ tuần trước. Cô ấy bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã chuẩn bị để điều trị ngoại trú cho cô ấy cho đến khi bác sĩ chẩn đoán hình ảnh từ CDI gọi cho tôi báo rằng ông ấy đã phát hiện ra một cục máu đông phổi bên trái trên phim CT ngoài những kết quả đã nêu trên.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -37,7 +37,7 @@
     },
     {
         "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
-        "target": "Cô cũng không có phẫu thuật cắt bỏ rõ ràng bệnh Crohn. 4. Tăng huyết áp. 5. Giảm kích thước vú vào năm 1998. THUỐC: Vào thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc tránh thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. Dị ứng: Cô bị dị ứng với morphine, sulfa và phản ứng bất lợi với Remicade.",
+        "target": "Cô ấy cũng không có phẫu thuật cắt bỏ rõ ràng bệnh Crohn của mình. 4. Tăng huyết áp. 5. Thu nhỏ ngực vào năm 1998. THUỐC: Tại thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc ngừa thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. DỊ ỨNG: Cô ấy dị ứng với morphine, sulfa và có phản ứng phụ với Remicade.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -46,7 +46,7 @@
     },
     {
         "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
-        "target": "Cô cũng không có phẫu thuật cắt bỏ rõ ràng bệnh Crohn. 4. Tăng huyết áp. 5. Giảm kích thước vú vào năm 1998. THUỐC: Vào thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc tránh thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. Dị ứng: Cô bị dị ứng với morphine, sulfa và phản ứng bất lợi với Remicade.",
+        "target": "Cô ấy cũng không có phẫu thuật cắt bỏ rõ ràng bệnh Crohn của mình. 4. Tăng huyết áp. 5. Thu nhỏ ngực vào năm 1998. THUỐC: Tại thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc ngừa thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. DỊ ỨNG: Cô ấy dị ứng với morphine, sulfa và có phản ứng phụ với Remicade.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -55,7 +55,7 @@
     },
     {
         "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
-        "target": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác khi được pháp luật yêu cầu, nhưng chỉ cung cấp thông tin mà pháp luật yêu cầu.",
+        "target": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác theo yêu cầu của pháp luật, nhưng chỉ cung cấp những thông tin mà pháp luật yêu cầu.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -64,7 +64,7 @@
     },
     {
         "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
-        "target": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác khi được pháp luật yêu cầu, nhưng chỉ cung cấp thông tin mà pháp luật yêu cầu.",
+        "target": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác theo yêu cầu của pháp luật, nhưng chỉ cung cấp những thông tin mà pháp luật yêu cầu.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -73,7 +73,7 @@
     },
     {
         "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
-        "target": "Luật cho phép chúng tôi tự nguyện tiết lộ thông tin khách hàng, bao gồm nội dung các cuộc giao tiếp, cho lực lượng thực thi pháp luật mà không cần thông báo trước, nếu chúng tôi có lý do tin rằng một tình huống khẩn cấp liên quan đến nguy cơ tử vong hoặc chấn thương thể chất nghiêm trọng đòi hỏi phải tiết lộ thông tin mà không được chậm trễ.",
+        "target": "Pháp luật cho phép chúng tôi tiết lộ cho cơ quan thực thi pháp luật, tự nguyện và không cần thông báo trước, thông tin khách hàng, bao gồm cả nội dung của các cuộc liên lạc, nếu chúng tôi có lý do chính đáng tin rằng một tình trạng khẩn cấp liên quan đến nguy cơ tử vong hoặc thương tích nghiêm trọng ngay lập tức đòi hỏi tiết lộ như vậy mà không được trì hoãn.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -82,7 +82,7 @@
     },
     {
         "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
-        "target": "Luật cho phép chúng tôi tự nguyện tiết lộ thông tin khách hàng, bao gồm nội dung các cuộc giao tiếp, cho lực lượng thực thi pháp luật mà không cần thông báo trước, nếu chúng tôi có lý do tin rằng một tình huống khẩn cấp liên quan đến nguy cơ tử vong hoặc chấn thương thể chất nghiêm trọng đòi hỏi phải tiết lộ thông tin mà không được chậm trễ.",
+        "target": "Pháp luật cho phép chúng tôi tiết lộ cho cơ quan thực thi pháp luật, tự nguyện và không cần thông báo trước, thông tin khách hàng, bao gồm cả nội dung của các cuộc liên lạc, nếu chúng tôi có lý do chính đáng tin rằng một tình trạng khẩn cấp liên quan đến nguy cơ tử vong hoặc thương tích nghiêm trọng ngay lập tức đòi hỏi tiết lộ như vậy mà không được trì hoãn.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -109,7 +109,7 @@
     },
     {
         "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group <GGL.UL>. ",
-        "target": "\"Nhu cầu dầu ... nếu bạn nhìn vào dữ liệu mới nhất, nó vẫn ổn. Chúng tôi dự kiến sẽ có sự phá hủy nhu cầu, nhưng điều đó thực sự không xảy ra,\" Frederic Lasserre, trưởng bộ phận nghiên cứu và phân tích thị trường toàn cầu tại Gunvor Group <GGL.UL>, cho biết.",
+        "target": "Nhu cầu dầu mỏ... nếu bạn nhìn vào dữ liệu mới nhất, nó vẫn đang ổn. Chúng tôi đã dự đoán sẽ có sự suy giảm nhu cầu, nhưng điều đó thực sự đã không xảy ra,\" ông Frederic Lasserre, trưởng bộ phận nghiên cứu và phân tích thị trường toàn cầu tại Gunvor Group <GGL.UL>, cho biết.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -118,7 +118,7 @@
     },
     {
         "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group <GGL.UL>. ",
-        "target": "\"Nhu cầu dầu ... nếu bạn nhìn vào dữ liệu mới nhất, nó vẫn ổn. Chúng tôi dự kiến sẽ có sự phá hủy nhu cầu, nhưng điều đó thực sự không xảy ra,\" Frederic Lasserre, trưởng bộ phận nghiên cứu và phân tích thị trường toàn cầu tại Gunvor Group <GGL.UL>, cho biết.",
+        "target": "Nhu cầu dầu mỏ... nếu bạn nhìn vào dữ liệu mới nhất, nó vẫn đang ổn. Chúng tôi đã dự đoán sẽ có sự suy giảm nhu cầu, nhưng điều đó thực sự đã không xảy ra,\" ông Frederic Lasserre, trưởng bộ phận nghiên cứu và phân tích thị trường toàn cầu tại Gunvor Group <GGL.UL>, cho biết.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -127,7 +127,7 @@
     },
     {
         "source": "\"The partnership not only demonstrates that our platform business is highly competitive, but also that the MEB is well on track to become one of the leading open platforms for e-mobility.\"",
-        "target": "\"Quan hệ đối tác này không chỉ chứng minh rằng mô hình kinh doanh nền tảng của chúng tôi có tính cạnh tranh cao, mà còn cho thấy MEB đang đi đúng hướng để trở thành một trong những nền tảng mở hàng đầu cho lĩnh vực xe điện.\"",
+        "target": "\"Câu chuyện hợp tác này không chỉ chứng minh rằng nền tảng kinh doanh của chúng tôi có tính cạnh tranh cao, mà còn cho thấy MEB đang đi đúng hướng để trở thành một trong những nền tảng mở hàng đầu cho vận động điện.\"",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -136,7 +136,7 @@
     },
     {
         "source": "\"The partnership not only demonstrates that our platform business is highly competitive, but also that the MEB is well on track to become one of the leading open platforms for e-mobility.\"",
-        "target": "\"Quan hệ đối tác này không chỉ chứng minh rằng mô hình kinh doanh nền tảng của chúng tôi có tính cạnh tranh cao, mà còn cho thấy MEB đang đi đúng hướng để trở thành một trong những nền tảng mở hàng đầu cho lĩnh vực xe điện.\"",
+        "target": "\"Câu chuyện hợp tác này không chỉ chứng minh rằng nền tảng kinh doanh của chúng tôi có tính cạnh tranh cao, mà còn cho thấy MEB đang đi đúng hướng để trở thành một trong những nền tảng mở hàng đầu cho vận động điện.\"",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -145,7 +145,7 @@
     },
     {
         "source": "Calling the surge in defense aircraft orders \"exceptional,\" Ian Shepherdson, chief economist at Pantheon Macroeconomics, adds \"the surge in the headline does not change the bigger picture of a slowdown in spending, but it has not reached recession-type proportions.\" ",
-        "target": "Gọi làn sóng tăng mạnh các đơn đặt hàng máy bay phòng thủ là \"phi thường\", Ian Shepherdson, kinh tế trưởng của Pantheon Macroeconomics, bổ sung: \"làn sóng tăng vọt trong tiêu đề không thay đổi bức tranh tổng thể về việc chi tiêu đang chậm lại, nhưng nó chưa đạt tới mức độ kiểu suy thoái kinh tế.\"",
+        "target": "Gọi sự gia tăng đột biến trong đơn đặt hàng máy bay quốc phòng là \"đặc biệt,\" Ian Shepherdson, nhà kinh tế trưởng tại Pantheon Macroeconomics, thêm rằng \"sự gia tăng trong tiêu đề không thay đổi bức tranh lớn hơn về sự chậm lại trong chi tiêu, nhưng nó chưa đạt đến mức suy thoái kinh tế.\"",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -154,7 +154,7 @@
     },
     {
         "source": "Calling the surge in defense aircraft orders \"exceptional,\" Ian Shepherdson, chief economist at Pantheon Macroeconomics, adds \"the surge in the headline does not change the bigger picture of a slowdown in spending, but it has not reached recession-type proportions.\" ",
-        "target": "Gọi làn sóng tăng mạnh các đơn đặt hàng máy bay phòng thủ là \"phi thường\", Ian Shepherdson, kinh tế trưởng của Pantheon Macroeconomics, bổ sung: \"làn sóng tăng vọt trong tiêu đề không thay đổi bức tranh tổng thể về việc chi tiêu đang chậm lại, nhưng nó chưa đạt tới mức độ kiểu suy thoái kinh tế.\"",
+        "target": "Gọi sự gia tăng đột biến trong đơn đặt hàng máy bay quốc phòng là \"đặc biệt,\" Ian Shepherdson, nhà kinh tế trưởng tại Pantheon Macroeconomics, thêm rằng \"sự gia tăng trong tiêu đề không thay đổi bức tranh lớn hơn về sự chậm lại trong chi tiêu, nhưng nó chưa đạt đến mức suy thoái kinh tế.\"",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -181,7 +181,7 @@
     },
     {
         "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
-        "target": "Mức đề nghị 26,5 tỷ đô la bằng cổ phiếu của Prudential đã giảm xuống chỉ còn hơn 20 tỷ đô la khi cổ phiếu của Prudential giảm mạnh sau khi thông báo. Sau đó, AIG đã can thiệp và đề nghị 23 tỷ đô la, được chấp nhận bởi American General.",
+        "target": "Giá thầu 26,5 tỷ đô la bằng cổ phiếu của Prudential đã giảm xuống chỉ hơn 20 tỷ đô la khi cổ phiếu của Prudential lao dốc sau thông báo. Sau đó, AIG đã can thiệp và đề nghị 23 tỷ đô la, mức này đã được American General chấp nhận.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -190,7 +190,7 @@
     },
     {
         "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
-        "target": "Mức đề nghị 26,5 tỷ đô la bằng cổ phiếu của Prudential đã giảm xuống chỉ còn hơn 20 tỷ đô la khi cổ phiếu của Prudential giảm mạnh sau khi thông báo. Sau đó, AIG đã can thiệp và đề nghị 23 tỷ đô la, được chấp nhận bởi American General.",
+        "target": "Giá thầu 26,5 tỷ đô la bằng cổ phiếu của Prudential đã giảm xuống chỉ hơn 20 tỷ đô la khi cổ phiếu của Prudential lao dốc sau thông báo. Sau đó, AIG đã can thiệp và đề nghị 23 tỷ đô la, mức này đã được American General chấp nhận.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -199,7 +199,7 @@
     },
     {
         "source": "Tetra Technologies ( TTI ) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term .",
-        "target": "Tetra Technologies (TTI) chứng kiến cổ phiếu tăng vọt trong phiên giao dịch vừa qua với khối lượng giao dịch cao hơn mức trung bình. Xu hướng điều chỉnh ước tính thu nhập gần đây có thể không dẫn đến sự tăng giá thêm trong ngắn hạn.",
+        "target": "Cổ phiếu của Tetra Technologies (TTI) đã tăng mạnh trong phiên giao dịch cuối cùng với khối lượng giao dịch cao hơn mức trung bình. Xu hướng mới nhất trong việc điều chỉnh dự báo lợi nhuận có thể không dẫn tới tăng giá thêm trong ngắn hạn.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -208,7 +208,7 @@
     },
     {
         "source": "Tetra Technologies ( TTI ) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term .",
-        "target": "Tetra Technologies (TTI) chứng kiến cổ phiếu tăng vọt trong phiên giao dịch vừa qua với khối lượng giao dịch cao hơn mức trung bình. Xu hướng điều chỉnh ước tính thu nhập gần đây có thể không dẫn đến sự tăng giá thêm trong ngắn hạn.",
+        "target": "Cổ phiếu của Tetra Technologies (TTI) đã tăng mạnh trong phiên giao dịch cuối cùng với khối lượng giao dịch cao hơn mức trung bình. Xu hướng mới nhất trong việc điều chỉnh dự báo lợi nhuận có thể không dẫn tới tăng giá thêm trong ngắn hạn.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -217,7 +217,7 @@
     },
     {
         "source": "Customer Privacy Under Wisconsin and federal law and regulations , savings banks , such as WaterStone Bank , are required to develop and maintain privacy policies relating to information on its customers , restrict access to and establish procedures to protect customer data .",
-        "target": "Quyền riêng tư của khách hàng Theo luật và quy định của Wisconsin và liên bang, các ngân hàng tiết kiệm, như ngân hàng WaterStone, buộc phải xây dựng và duy trì các chính sách bảo mật liên quan đến thông tin khách hàng, hạn chế truy cập và thiết lập các quy trình để bảo vệ dữ liệu khách hàng.",
+        "target": "Quyền riêng tư của khách hàng theo luật và quy định của Wisconsin và liên bang, các ngân hàng tiết kiệm, như WaterStone Bank, được yêu cầu phát triển và duy trì các chính sách về quyền riêng tư liên quan đến thông tin khách hàng, hạn chế truy cập và thiết lập các thủ tục để bảo vệ dữ liệu khách hàng.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -226,7 +226,7 @@
     },
     {
         "source": "Customer Privacy Under Wisconsin and federal law and regulations , savings banks , such as WaterStone Bank , are required to develop and maintain privacy policies relating to information on its customers , restrict access to and establish procedures to protect customer data .",
-        "target": "Quyền riêng tư của khách hàng Theo luật và quy định của Wisconsin và liên bang, các ngân hàng tiết kiệm, như ngân hàng WaterStone, buộc phải xây dựng và duy trì các chính sách bảo mật liên quan đến thông tin khách hàng, hạn chế truy cập và thiết lập các quy trình để bảo vệ dữ liệu khách hàng.",
+        "target": "Quyền riêng tư của khách hàng theo luật và quy định của Wisconsin và liên bang, các ngân hàng tiết kiệm, như WaterStone Bank, được yêu cầu phát triển và duy trì các chính sách về quyền riêng tư liên quan đến thông tin khách hàng, hạn chế truy cập và thiết lập các thủ tục để bảo vệ dữ liệu khách hàng.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -253,7 +253,7 @@
     },
     {
         "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
-        "target": "Các cửa hậu Epic được điều khiển bởi một mạng lưới khổng lồ các máy chủ bị tấn công mà cung cấp chức năng điều khiển và kiểm soát .",
+        "target": "Các cửa hậu Epic được điều khiển bởi một mạng lưới lớn các máy chủ bị hack cung cấp chức năng chỉ huy và kiểm soát.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -262,7 +262,7 @@
     },
     {
         "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
-        "target": "Các cửa hậu Epic được điều khiển bởi một mạng lưới khổng lồ các máy chủ bị tấn công mà cung cấp chức năng điều khiển và kiểm soát .",
+        "target": "Các cửa hậu Epic được điều khiển bởi một mạng lưới lớn các máy chủ bị hack cung cấp chức năng chỉ huy và kiểm soát.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -271,7 +271,7 @@
     },
     {
         "source": "Here 's a look at one of the encrypted server replies : Once a victim is infected and '' checks in '' with the server , the attackers send a template of commands : Next , the attackers try to move through the victim 's network using pre-defined or collected passwords : Listing all .doc",
-        "target": "Dưới đây là một cái nhìn về một trong những phản hồi từ máy chủ được mã hóa: Khi một nạn nhân bị nhiễm và \"đăng ký\" với máy chủ, kẻ tấn công sẽ gửi một mẫu lệnh: Tiếp theo, kẻ tấn công cố gắng di chuyển qua mạng của nạn nhân bằng mật khẩu được xác định trước hoặc thu thập: Liệt kê tất cả các tệp .doc.",
+        "target": "Dưới đây là một cái nhìn về một trong những phản hồi được mã hóa từ máy chủ: Khi một nạn nhân bị nhiễm và \"đăng nhập\" với máy chủ, kẻ tấn công gửi một mẫu các lệnh: Tiếp theo, kẻ tấn công cố gắng di chuyển qua mạng của nạn nhân bằng cách sử dụng các mật khẩu được định trước hoặc thu thập được: Liệt kê tất cả các file .doc",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -280,7 +280,7 @@
     },
     {
         "source": "Here 's a look at one of the encrypted server replies : Once a victim is infected and '' checks in '' with the server , the attackers send a template of commands : Next , the attackers try to move through the victim 's network using pre-defined or collected passwords : Listing all .doc",
-        "target": "Dưới đây là một cái nhìn về một trong những phản hồi từ máy chủ được mã hóa: Khi một nạn nhân bị nhiễm và \"đăng ký\" với máy chủ, kẻ tấn công sẽ gửi một mẫu lệnh: Tiếp theo, kẻ tấn công cố gắng di chuyển qua mạng của nạn nhân bằng mật khẩu được xác định trước hoặc thu thập: Liệt kê tất cả các tệp .doc.",
+        "target": "Dưới đây là một cái nhìn về một trong những phản hồi được mã hóa từ máy chủ: Khi một nạn nhân bị nhiễm và \"đăng nhập\" với máy chủ, kẻ tấn công gửi một mẫu các lệnh: Tiếp theo, kẻ tấn công cố gắng di chuyển qua mạng của nạn nhân bằng cách sử dụng các mật khẩu được định trước hoặc thu thập được: Liệt kê tất cả các file .doc",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -289,7 +289,7 @@
     },
     {
         "source": "Deployed to the system via a compressed bundle containing the official GOM Player setup binary and a self-extracting RAR archive containing the malicious files , the malware consists of a number of individual pieces .",
-        "target": "Mã độc được triển khai vào hệ thống thông qua một gói nén chứa tập tin cài đặt chính thức của GOM Player và một tệp lưu trữ RAR tự giải nén chứa các tệp độc hại, bao gồm nhiều thành phần riêng lẻ.",
+        "target": "Được triển khai lên hệ thống thông qua một gói nén chứa tệp thiết lập chính thức của GOM Player và một tệp RAR tự giải nén chứa các tệp độc hại, phần mềm độc hại này bao gồm một số thành phần riêng lẻ.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -298,7 +298,7 @@
     },
     {
         "source": "Deployed to the system via a compressed bundle containing the official GOM Player setup binary and a self-extracting RAR archive containing the malicious files , the malware consists of a number of individual pieces .",
-        "target": "Mã độc được triển khai vào hệ thống thông qua một gói nén chứa tập tin cài đặt chính thức của GOM Player và một tệp lưu trữ RAR tự giải nén chứa các tệp độc hại, bao gồm nhiều thành phần riêng lẻ.",
+        "target": "Được triển khai lên hệ thống thông qua một gói nén chứa tệp thiết lập chính thức của GOM Player và một tệp RAR tự giải nén chứa các tệp độc hại, phần mềm độc hại này bao gồm một số thành phần riêng lẻ.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -325,7 +325,7 @@
     },
     {
         "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
-        "target": "Khi Microsoft vá lỗi, họ đã cảm ơn Hanson, một nhà nghiên cứu của FireEye và nhân viên của chính công ty.",
+        "target": "Khi Microsoft vá lỗi, họ đã cảm ơn Hanson, một nhà nghiên cứu của FireEye và nhân viên của chính họ.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -334,7 +334,7 @@
     },
     {
         "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
-        "target": "Khi Microsoft vá lỗi, họ đã cảm ơn Hanson, một nhà nghiên cứu của FireEye và nhân viên của chính công ty.",
+        "target": "Khi Microsoft vá lỗi, họ đã cảm ơn Hanson, một nhà nghiên cứu của FireEye và nhân viên của chính họ.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -343,7 +343,7 @@
     },
     {
         "source": "In the Pastebin statement, TDO says he released the ten \"Orange Is The New Black\" episodes because Netflix didn't want to pay a ransom demand.",
-        "target": "Trong tuyên bố trên Pastebin, TDO nói rằng hắn ta đã phát hành mười tập của \"Orange Is The New Black\" vì Netflix không muốn trả tiền chuộc.",
+        "target": "Trong tuyên bố trên Pastebin, TDO nói rằng anh ta đã phát tán mười tập \"Orange Is The New Black\" vì Netflix không muốn trả tiền chuộc.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -352,7 +352,7 @@
     },
     {
         "source": "In the Pastebin statement, TDO says he released the ten \"Orange Is The New Black\" episodes because Netflix didn't want to pay a ransom demand.",
-        "target": "Trong tuyên bố trên Pastebin, TDO nói rằng hắn ta đã phát hành mười tập của \"Orange Is The New Black\" vì Netflix không muốn trả tiền chuộc.",
+        "target": "Trong tuyên bố trên Pastebin, TDO nói rằng anh ta đã phát tán mười tập \"Orange Is The New Black\" vì Netflix không muốn trả tiền chuộc.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -361,7 +361,7 @@
     },
     {
         "source": "Hotel brands that have acknowledged card breaches over the last year after prompting by KrebsOnSecurity include Kimpton Hotels, Trump Hotels (twice), Hilton, Mandarin Oriental, and White Lodging (twice).",
-        "target": "Các thương hiệu khách sạn đã thừa nhận việc rò rỉ thẻ tín dụng trong năm qua sau khi được KrebsOnSecurity thúc giục bao gồm Kimpton Hotels, Trump Hotels (hai lần), Hilton, Mandarin Oriental và White Lodging (hai lần).",
+        "target": "Các thương hiệu khách sạn đã thừa nhận việc rò rỉ thẻ trong năm qua sau khi được KrebsOnSecurity cảnh báo bao gồm Kimpton Hotels, Trump Hotels (hai lần), Hilton, Mandarin Oriental và White Lodging (hai lần).",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -370,7 +370,7 @@
     },
     {
         "source": "Hotel brands that have acknowledged card breaches over the last year after prompting by KrebsOnSecurity include Kimpton Hotels, Trump Hotels (twice), Hilton, Mandarin Oriental, and White Lodging (twice).",
-        "target": "Các thương hiệu khách sạn đã thừa nhận việc rò rỉ thẻ tín dụng trong năm qua sau khi được KrebsOnSecurity thúc giục bao gồm Kimpton Hotels, Trump Hotels (hai lần), Hilton, Mandarin Oriental và White Lodging (hai lần).",
+        "target": "Các thương hiệu khách sạn đã thừa nhận việc rò rỉ thẻ trong năm qua sau khi được KrebsOnSecurity cảnh báo bao gồm Kimpton Hotels, Trump Hotels (hai lần), Hilton, Mandarin Oriental và White Lodging (hai lần).",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -397,7 +397,7 @@
     },
     {
         "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
-        "target": "Vở kịch này dự kiến sẽ trở lại Hoa Kỳ, ban đầu sẽ công diễn trên đường Broadway tại Nhà hát Nederlander vào ngày 7 tháng 3 năm 2020 trong các buổi xem trước, chính thức vào ngày 26 tháng 3.",
+        "target": "Vở kịch dự kiến sẽ trở lại Hoa Kỳ, ban đầu sẽ khai mạc tại rạp Nederlander trên Broadway vào ngày 7 tháng 3 năm 2020 trong các buổi biểu diễn thử, chính thức vào ngày 26 tháng 3.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -406,7 +406,7 @@
     },
     {
         "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
-        "target": "Vở kịch này dự kiến sẽ trở lại Hoa Kỳ, ban đầu sẽ công diễn trên đường Broadway tại Nhà hát Nederlander vào ngày 7 tháng 3 năm 2020 trong các buổi xem trước, chính thức vào ngày 26 tháng 3.",
+        "target": "Vở kịch dự kiến sẽ trở lại Hoa Kỳ, ban đầu sẽ khai mạc tại rạp Nederlander trên Broadway vào ngày 7 tháng 3 năm 2020 trong các buổi biểu diễn thử, chính thức vào ngày 26 tháng 3.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -433,7 +433,7 @@
     },
     {
         "source": "Chopawamsic was an 18th-century plantation on Chopawamsic Creek in Stafford County , Virginia .",
-        "target": "Chopawamsic là một trang trại thế kỷ 18 nằm ven dòng sông Chopawamsic ở huyện Stafford, Virginia.",
+        "target": "Chopawamsic là một đồn điền thế kỷ 18 nằm trên dòng suối Chopawamsic ở quận Stafford, Virginia.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -442,7 +442,7 @@
     },
     {
         "source": "Chopawamsic was an 18th-century plantation on Chopawamsic Creek in Stafford County , Virginia .",
-        "target": "Chopawamsic là một trang trại thế kỷ 18 nằm ven dòng sông Chopawamsic ở huyện Stafford, Virginia.",
+        "target": "Chopawamsic là một đồn điền thế kỷ 18 nằm trên dòng suối Chopawamsic ở quận Stafford, Virginia.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -469,7 +469,7 @@
     },
     {
         "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
-        "target": "Mohenjo-daro được xây dựng vào thế kỷ 26 trước Công nguyên. Đây là một trong những thành phố lớn nhất của nền văn minh thung lũng Indus cổ đại, cũng được gọi là văn minh Harappan, đã phát triển vào khoảng 3000 trước Công nguyên từ văn hóa Indus tiền sử. Tại thời điểm cực thịnh, nền văn minh Indus bao phủ phần lớn lãnh thổ Pakistan và Bắc Ấn Độ ngày nay, mở rộng về phía tây đến biên giới Iran, phía nam đến Gujarat ở Ấn Độ và phía bắc đến một tiền đồn ở Bactria, với các trung tâm đô thị lớn tại Harappa, Mohenjo-daro, Lothal, Kalibangan, Dholavira và Rakhigarhi. Mohenjo-daro là thành phố tiên tiến nhất thời bấy giờ, với kỹ thuật dân sự và quy hoạch đô thị tinh vi đáng chú ý. Khi nền văn minh Indus suy giảm đột ngột vào khoảng 1900 trước Công nguyên, Mohenjo-daro bị bỏ hoang. Tàn tích của thành phố vẫn chưa được ghi chép trong khoảng 3.700 năm cho đến khi R.D. Banerji, một sĩ quan của Cục Khảo cổ Ấn Độ, đến thăm địa điểm này vào năm 1919-20, xác định được tháp Phật giáo (150-500 sau Công nguyên) được biết đến ở đó và tìm thấy một công cụ cạo bằng đá lửa, thuyết phục ông về tính cổ xưa của địa điểm này. Điều này đã dẫn đến việc khai quật quy mô lớn Mohenjo-daro do Kashinath Narayan Dikshit lãnh đạo vào năm 1924-25 và John Marshall vào năm 1925-26. Trong những năm 1930, các cuộc khai quật lớn đã được tiến hành tại địa điểm này dưới sự lãnh đạo của Marshall, D.K. Dikshitar và Ernest Mackay. Các cuộc khai quật tiếp theo được thực hiện vào năm 1945 bởi Ahmad Hasan Dani và Mortimer Wheeler. Loạt khai quật lớn cuối cùng được thực hiện vào năm 1964 và 1965 bởi Tiến sĩ George F. Dales.",
+        "target": "Mohenjo-daro được xây dựng vào thế kỷ 26 trước Công nguyên. Đây là một trong những thành phố lớn nhất của nền văn minh Thung lũng sông Ấn cổ đại, còn được biết đến với tên gọi văn minh Harappa, phát triển khoảng năm 3.000 trước Công nguyên từ văn hóa tiền sử sông Ấn. Ở thời kỳ đỉnh cao, nền văn minh sông Ấn bao phủ phần lớn khu vực hiện nay là Pakistan và Bắc Ấn Độ, kéo dài về phía tây đến biên giới Iran, phía nam đến Gujarat ở Ấn Độ và về phía bắc tới một tiền đồn ở Bactria, với các trung tâm đô thị lớn tại Harappa, Mohenjo-daro, Lothal, Kalibangan, Dholavira và Rakhigarhi. Mohenjo-daro là thành phố tiên tiến nhất thời đó, với kỹ thuật xây dựng dân sự và quy hoạch đô thị vô cùng tinh vi. Khi nền văn minh sông Ấn suy tàn đột ngột khoảng năm 1900 trước Công nguyên, Mohenjo-daro đã bị bỏ hoang. Đống đổ nát của thành phố này không được ghi chép trong khoảng 3.700 năm cho đến khi R.D. Banerji, một viên chức của Cục Khảo cổ Ấn Độ, đến thăm địa điểm vào năm 1919-20, xác định được một bảo tháp Phật giáo (150-500 SCN) được biết đến ở đó và tìm thấy một công cụ cạo bằng đá lửa khiến ông tin vào sự cổ xưa của địa điểm này. Điều này dẫn đến các cuộc khai quật quy mô lớn tại Mohenjo-daro do Kashinath Narayan Dikshit dẫn đầu vào năm 1924-25, và John Marshall vào năm 1925-26. Vào những năm 1930, các cuộc khai quật quan trọng được tiến hành tại đây dưới sự lãnh đạo của Marshall, D.K. Dikshitar và Ernest Mackay. Các cuộc khai quật tiếp tục được thực hiện vào năm 1945 bởi Ahmad Hasan Dani và Mortimer Wheeler. Loạt khai quật lớn cuối cùng được tiến hành vào năm 1964 và 1965 bởi Tiến sĩ George F. Dales.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -478,7 +478,7 @@
     },
     {
         "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
-        "target": "Mohenjo-daro được xây dựng vào thế kỷ 26 trước Công nguyên. Đây là một trong những thành phố lớn nhất của nền văn minh thung lũng Indus cổ đại, cũng được gọi là văn minh Harappan, đã phát triển vào khoảng 3000 trước Công nguyên từ văn hóa Indus tiền sử. Tại thời điểm cực thịnh, nền văn minh Indus bao phủ phần lớn lãnh thổ Pakistan và Bắc Ấn Độ ngày nay, mở rộng về phía tây đến biên giới Iran, phía nam đến Gujarat ở Ấn Độ và phía bắc đến một tiền đồn ở Bactria, với các trung tâm đô thị lớn tại Harappa, Mohenjo-daro, Lothal, Kalibangan, Dholavira và Rakhigarhi. Mohenjo-daro là thành phố tiên tiến nhất thời bấy giờ, với kỹ thuật dân sự và quy hoạch đô thị tinh vi đáng chú ý. Khi nền văn minh Indus suy giảm đột ngột vào khoảng 1900 trước Công nguyên, Mohenjo-daro bị bỏ hoang. Tàn tích của thành phố vẫn chưa được ghi chép trong khoảng 3.700 năm cho đến khi R.D. Banerji, một sĩ quan của Cục Khảo cổ Ấn Độ, đến thăm địa điểm này vào năm 1919-20, xác định được tháp Phật giáo (150-500 sau Công nguyên) được biết đến ở đó và tìm thấy một công cụ cạo bằng đá lửa, thuyết phục ông về tính cổ xưa của địa điểm này. Điều này đã dẫn đến việc khai quật quy mô lớn Mohenjo-daro do Kashinath Narayan Dikshit lãnh đạo vào năm 1924-25 và John Marshall vào năm 1925-26. Trong những năm 1930, các cuộc khai quật lớn đã được tiến hành tại địa điểm này dưới sự lãnh đạo của Marshall, D.K. Dikshitar và Ernest Mackay. Các cuộc khai quật tiếp theo được thực hiện vào năm 1945 bởi Ahmad Hasan Dani và Mortimer Wheeler. Loạt khai quật lớn cuối cùng được thực hiện vào năm 1964 và 1965 bởi Tiến sĩ George F. Dales.",
+        "target": "Mohenjo-daro được xây dựng vào thế kỷ 26 trước Công nguyên. Đây là một trong những thành phố lớn nhất của nền văn minh Thung lũng sông Ấn cổ đại, còn được biết đến với tên gọi văn minh Harappa, phát triển khoảng năm 3.000 trước Công nguyên từ văn hóa tiền sử sông Ấn. Ở thời kỳ đỉnh cao, nền văn minh sông Ấn bao phủ phần lớn khu vực hiện nay là Pakistan và Bắc Ấn Độ, kéo dài về phía tây đến biên giới Iran, phía nam đến Gujarat ở Ấn Độ và về phía bắc tới một tiền đồn ở Bactria, với các trung tâm đô thị lớn tại Harappa, Mohenjo-daro, Lothal, Kalibangan, Dholavira và Rakhigarhi. Mohenjo-daro là thành phố tiên tiến nhất thời đó, với kỹ thuật xây dựng dân sự và quy hoạch đô thị vô cùng tinh vi. Khi nền văn minh sông Ấn suy tàn đột ngột khoảng năm 1900 trước Công nguyên, Mohenjo-daro đã bị bỏ hoang. Đống đổ nát của thành phố này không được ghi chép trong khoảng 3.700 năm cho đến khi R.D. Banerji, một viên chức của Cục Khảo cổ Ấn Độ, đến thăm địa điểm vào năm 1919-20, xác định được một bảo tháp Phật giáo (150-500 SCN) được biết đến ở đó và tìm thấy một công cụ cạo bằng đá lửa khiến ông tin vào sự cổ xưa của địa điểm này. Điều này dẫn đến các cuộc khai quật quy mô lớn tại Mohenjo-daro do Kashinath Narayan Dikshit dẫn đầu vào năm 1924-25, và John Marshall vào năm 1925-26. Vào những năm 1930, các cuộc khai quật quan trọng được tiến hành tại đây dưới sự lãnh đạo của Marshall, D.K. Dikshitar và Ernest Mackay. Các cuộc khai quật tiếp tục được thực hiện vào năm 1945 bởi Ahmad Hasan Dani và Mortimer Wheeler. Loạt khai quật lớn cuối cùng được tiến hành vào năm 1964 và 1965 bởi Tiến sĩ George F. Dales.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -487,7 +487,7 @@
     },
     {
         "source": "When he would tour , staying in hotels , `` the rooms would be remodeled in advance of his arrival , so as to make the same configurations of space as he had at home -- the Graceland mansion . His furniture would arrive , and he could unwind after his performances in surroundings which were completely familiar and comforting , '' the room in question , ' The Jungle Room ' being `` an example of particularly lurid kitsch . '' On August 16 , 1977 , Presley died in the bathroom at Graceland allegedly of a heart attack . Elvis Presley lay in state in a 900 - pound copper - lined coffin just inside the foyer while over 3,500 of Elvis ' mourning fans passed by to pay their respects . A private funeral with 200 mourners was held on August 18 , 1977 in the house , with the casket placed in front of the stained glass doorway of the music room . Graceland continued to be occupied by members of the family until the death of Elvis ' aunt Delta in 1993 , who had moved in at Elvis ' invitation after her husband 's death . Elvis ' daughter , Lisa Marie Presley , inherited the estate in 1993 when she turned 25 . Presley , his parents Gladys & Vernon Presley , and his grandmother Minnie Mae Presley are buried on the property in the Meditation Garden . A memorial gravestone for Presley 's stillborn twin brother , Jesse Garon , is also at the site . Graceland was listed in the National Register of Historic Places on November 7 , 1991 and designated a National Historic Landmark on March 27 , 2006 Graceland was the first site related to rock and roll to be entered in the National Register of Historic Places .",
-        "target": "Khi anh ấy đi lưu diễn, ở trong khách sạn, \"các phòng sẽ được cải tạo trước khi anh ấy đến, để tạo ra cùng một bố cục không gian như anh ấy có ở nhà - dinh thự Graceland. Đồ đạc của anh ấy sẽ đến, và anh ấy có thể thư giãn sau các buổi biểu diễn trong một môi trường hoàn toàn quen thuộc và thoải mái,\" căn phòng được đề cập, 'The Jungle Room' là \"một ví dụ điển hình của sự sặc sỡ lòe loẹt một cách kỳ quặc.\" Vào ngày 16 tháng 8 năm 1977, Presley qua đời trong phòng tắm tại Graceland, được cho là do lên cơn đau tim. Elvis Presley được quàn trong một quan tài bằng đồng nặng 900 pound ngay bên trong tiền sảnh trong khi hơn 3.500 người hâm mộ đang tang thương của Elvis đi qua để bày tỏ lòng tôn kính. Một đám tang riêng tư với 200 người tham dự được tổ chức vào ngày 18 tháng 8 năm 1977 trong nhà, với quan tài được đặt trước cửa kính màu của phòng nhạc. Graceland tiếp tục được các thành viên trong gia đình sinh sống cho đến khi bà dì Delta của Elvis qua đời vào năm 1993, bà đã chuyển đến theo lời mời của Elvis sau khi chồng bà qua đời. Con gái của Elvis, Lisa Marie Presley, đã thừa kế gia sản vào năm 1993 khi cô tròn 25 tuổi. Presley, cha mẹ anh ấy là Gladys & Vernon Presley, và bà nội Minnie Mae Presley được chôn cất trong khu vườn Thiền định trên khu đất. Một bia tưởng niệm cho người anh trai song sinh của Presley, Jesse Garon, cũng được đặt tại đó. Graceland đã được liệt kê vào Sổ đăng ký các Địa điểm Lịch sử Quốc gia vào ngày 7 tháng 11 năm 1991 và được chỉ định là Cột mốc Lịch sử Quốc gia vào ngày 27 tháng 3 năm 2006. Graceland là địa điểm đầu tiên liên quan đến nhạc rock and roll được đưa vào Sổ đăng ký các Địa điểm Lịch sử Quốc gia.",
+        "target": "Khi ông đi lưu diễn, ở trong các khách sạn, \"các phòng đều được sửa sang trước khi ông đến để tạo cùng một cách bố trí không gian giống như ở nhà ông - biệt thự Graceland. Đồ đạc của ông sẽ được đem đến, và ông có thể thư giãn sau các buổi biểu diễn trong không gian hoàn toàn quen thuộc và dễ chịu,\" căn phòng được nhắc đến, 'Phòng Rừng Nhiệt Đới' là \"một ví dụ điển hình của phong cách kitsch sặc sỡ đặc biệt.\" Vào ngày 16 tháng 8 năm 1977, Presley đã qua đời trong phòng tắm tại Graceland được cho là do một cơn đau tim. Elvis Presley được đặt linh cữu trong một quan tài lót đồng nặng 900 pound ngay trong tiền sảnh trong khi hơn 3.500 người hâm mộ đang thương tiếc đã đi qua để bày tỏ lòng kính trọng. Một lễ tang riêng tư với 200 người tham dự đã được tổ chức vào ngày 18 tháng 8 năm 1977 trong nhà, với quan tài đặt trước cửa kính màu của phòng âm nhạc. Graceland tiếp tục được các thành viên trong gia đình cư ngụ cho đến khi dì của Elvis, bà Delta qua đời năm 1993, người đã chuyển đến theo lời mời của Elvis sau khi chồng bà mất. Con gái của Elvis, Lisa Marie Presley, đã thừa kế tài sản vào năm 1993 khi cô tròn 25 tuổi. Presley, cha mẹ ông là Gladys & Vernon Presley, và bà ngoại Minnie Mae Presley được chôn cất trên khu đất trong Khu vườn Thiền định. Một tấm bia tưởng niệm cho người anh sinh đôi chưa kịp ra đời của Presley, Jesse Garon, cũng nằm tại đây. Graceland được liệt kê vào Danh mục Địa điểm Lịch sử Quốc gia vào ngày 7 tháng 11 năm 1991 và được chỉ định là Di tích Lịch sử Quốc gia vào ngày 27 tháng 3 năm 2006. Graceland là địa điểm đầu tiên liên quan đến rock and roll được đưa vào Danh mục Địa điểm Lịch sử Quốc gia.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -496,7 +496,7 @@
     },
     {
         "source": "When he would tour , staying in hotels , `` the rooms would be remodeled in advance of his arrival , so as to make the same configurations of space as he had at home -- the Graceland mansion . His furniture would arrive , and he could unwind after his performances in surroundings which were completely familiar and comforting , '' the room in question , ' The Jungle Room ' being `` an example of particularly lurid kitsch . '' On August 16 , 1977 , Presley died in the bathroom at Graceland allegedly of a heart attack . Elvis Presley lay in state in a 900 - pound copper - lined coffin just inside the foyer while over 3,500 of Elvis ' mourning fans passed by to pay their respects . A private funeral with 200 mourners was held on August 18 , 1977 in the house , with the casket placed in front of the stained glass doorway of the music room . Graceland continued to be occupied by members of the family until the death of Elvis ' aunt Delta in 1993 , who had moved in at Elvis ' invitation after her husband 's death . Elvis ' daughter , Lisa Marie Presley , inherited the estate in 1993 when she turned 25 . Presley , his parents Gladys & Vernon Presley , and his grandmother Minnie Mae Presley are buried on the property in the Meditation Garden . A memorial gravestone for Presley 's stillborn twin brother , Jesse Garon , is also at the site . Graceland was listed in the National Register of Historic Places on November 7 , 1991 and designated a National Historic Landmark on March 27 , 2006 Graceland was the first site related to rock and roll to be entered in the National Register of Historic Places .",
-        "target": "Khi anh ấy đi lưu diễn, ở trong khách sạn, \"các phòng sẽ được cải tạo trước khi anh ấy đến, để tạo ra cùng một bố cục không gian như anh ấy có ở nhà - dinh thự Graceland. Đồ đạc của anh ấy sẽ đến, và anh ấy có thể thư giãn sau các buổi biểu diễn trong một môi trường hoàn toàn quen thuộc và thoải mái,\" căn phòng được đề cập, 'The Jungle Room' là \"một ví dụ điển hình của sự sặc sỡ lòe loẹt một cách kỳ quặc.\" Vào ngày 16 tháng 8 năm 1977, Presley qua đời trong phòng tắm tại Graceland, được cho là do lên cơn đau tim. Elvis Presley được quàn trong một quan tài bằng đồng nặng 900 pound ngay bên trong tiền sảnh trong khi hơn 3.500 người hâm mộ đang tang thương của Elvis đi qua để bày tỏ lòng tôn kính. Một đám tang riêng tư với 200 người tham dự được tổ chức vào ngày 18 tháng 8 năm 1977 trong nhà, với quan tài được đặt trước cửa kính màu của phòng nhạc. Graceland tiếp tục được các thành viên trong gia đình sinh sống cho đến khi bà dì Delta của Elvis qua đời vào năm 1993, bà đã chuyển đến theo lời mời của Elvis sau khi chồng bà qua đời. Con gái của Elvis, Lisa Marie Presley, đã thừa kế gia sản vào năm 1993 khi cô tròn 25 tuổi. Presley, cha mẹ anh ấy là Gladys & Vernon Presley, và bà nội Minnie Mae Presley được chôn cất trong khu vườn Thiền định trên khu đất. Một bia tưởng niệm cho người anh trai song sinh của Presley, Jesse Garon, cũng được đặt tại đó. Graceland đã được liệt kê vào Sổ đăng ký các Địa điểm Lịch sử Quốc gia vào ngày 7 tháng 11 năm 1991 và được chỉ định là Cột mốc Lịch sử Quốc gia vào ngày 27 tháng 3 năm 2006. Graceland là địa điểm đầu tiên liên quan đến nhạc rock and roll được đưa vào Sổ đăng ký các Địa điểm Lịch sử Quốc gia.",
+        "target": "Khi ông đi lưu diễn, ở trong các khách sạn, \"các phòng đều được sửa sang trước khi ông đến để tạo cùng một cách bố trí không gian giống như ở nhà ông - biệt thự Graceland. Đồ đạc của ông sẽ được đem đến, và ông có thể thư giãn sau các buổi biểu diễn trong không gian hoàn toàn quen thuộc và dễ chịu,\" căn phòng được nhắc đến, 'Phòng Rừng Nhiệt Đới' là \"một ví dụ điển hình của phong cách kitsch sặc sỡ đặc biệt.\" Vào ngày 16 tháng 8 năm 1977, Presley đã qua đời trong phòng tắm tại Graceland được cho là do một cơn đau tim. Elvis Presley được đặt linh cữu trong một quan tài lót đồng nặng 900 pound ngay trong tiền sảnh trong khi hơn 3.500 người hâm mộ đang thương tiếc đã đi qua để bày tỏ lòng kính trọng. Một lễ tang riêng tư với 200 người tham dự đã được tổ chức vào ngày 18 tháng 8 năm 1977 trong nhà, với quan tài đặt trước cửa kính màu của phòng âm nhạc. Graceland tiếp tục được các thành viên trong gia đình cư ngụ cho đến khi dì của Elvis, bà Delta qua đời năm 1993, người đã chuyển đến theo lời mời của Elvis sau khi chồng bà mất. Con gái của Elvis, Lisa Marie Presley, đã thừa kế tài sản vào năm 1993 khi cô tròn 25 tuổi. Presley, cha mẹ ông là Gladys & Vernon Presley, và bà ngoại Minnie Mae Presley được chôn cất trên khu đất trong Khu vườn Thiền định. Một tấm bia tưởng niệm cho người anh sinh đôi chưa kịp ra đời của Presley, Jesse Garon, cũng nằm tại đây. Graceland được liệt kê vào Danh mục Địa điểm Lịch sử Quốc gia vào ngày 7 tháng 11 năm 1991 và được chỉ định là Di tích Lịch sử Quốc gia vào ngày 27 tháng 3 năm 2006. Graceland là địa điểm đầu tiên liên quan đến rock and roll được đưa vào Danh mục Địa điểm Lịch sử Quốc gia.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -505,7 +505,7 @@
     },
     {
         "source": "Alternating current ( AC ) is an electric current which periodically reverses direction , in contrast to direct current ( DC ) which flows only in one direction . Alternating current is the form in which electric power is delivered to businesses and residences , and it is the form of electrical energy that consumers typically use when they plug kitchen appliances , televisions and electric lamps into a wall socket . A common source of DC power is a battery cell in a flashlight . The abbreviations AC and DC are often used to mean simply alternating and direct , as when they modify current or voltage . The usual waveform of alternating current in most electric power circuits is a sine wave . In certain applications , different waveforms are used , such as triangular or square waves . Audio and radio signals carried on electrical wires are also examples of alternating current . These types of alternating current carry information encoded ( or modulated ) onto the AC signal , such as sound ( audio ) or images ( video ) . These currents typically alternate at higher frequencies than those used in power transmission .",
-        "target": "Dòng điện xoay chiều (AC) là dòng điện điện tử thay đổi định hướng theo chu kỳ, ngược lại với dòng điện một chiều (DC) chỉ chảy theo một hướng duy nhất. Dòng điện xoay chiều là hình thức mà điện năng được cung cấp cho các doanh nghiệp và hộ gia đình, và đây là hình thức năng lượng điện mà người tiêu dùng thường sử dụng khi họ cắm các thiết bị nhà bếp, tivi và bóng đèn điện vào ổ cắm tường. Một nguồn cung cấp điện một chiều phổ biến là pin trong chiếc đèn pin. Các chữ viết tắt AC và DC thường được dùng để chỉ đơn giản là dòng điện xoay chiều và dòng điện một chiều, ví dụ khi chúng được dùng để mô tả dòng điện hoặc điện áp. Hình dạng sóng điện thường gặp của dòng điện xoay chiều trong hầu hết các mạch điện là sóng hình sin. Trong một số ứng dụng nhất định, các dạng sóng khác cũng được sử dụng, như sóng tam giác hoặc sóng vuông. Các tín hiệu âm thanh và sóng vô tuyến được truyền qua dây điện cũng là ví dụ của dòng điện xoay chiều. Các loại dòng điện xoay chiều này mang theo thông tin được mã hóa (hoặc điều chế) vào tín hiệu AC, ví dụ như âm thanh (âm thanh) hoặc hình ảnh (video). Những dòng điện này thường dao động ở tần số cao hơn nhiều so với tần số được sử dụng trong truyền tải điện năng.",
+        "target": "Dòng điện xoay chiều (AC) là dòng điện có chiều hướng thay đổi định kỳ, trái ngược với dòng điện một chiều (DC) chỉ chảy theo một hướng. Dòng điện xoay chiều là hình thức điện năng được cung cấp cho các doanh nghiệp và hộ gia đình, và đó là dạng năng lượng điện mà người tiêu dùng thường sử dụng khi cắm các thiết bị nhà bếp, tivi và đèn điện vào ổ cắm tường. Một nguồn cung cấp điện DC phổ biến là pin trong đèn pin. Viết tắt AC và DC thường được dùng để chỉ đơn giản là xoay chiều và một chiều, như khi chúng được dùng để mô tả dòng điện hoặc điện áp. Biểu đồ dạng sóng phổ biến của dòng điện xoay chiều trong hầu hết các mạch điện là sóng sine. Trong một số ứng dụng nhất định, các dạng sóng khác được dùng, như sóng tam giác hoặc sóng vuông. Tín hiệu âm thanh và sóng radio được truyền qua dây điện cũng là ví dụ của dòng điện xoay chiều. Những loại dòng điện xoay chiều này mang thông tin được mã hóa (hoặc điều biến) lên tín hiệu AC, như âm thanh (âm thanh) hoặc hình ảnh (video). Những dòng điện này thường dao động với tần số cao hơn so với những tần số dùng trong truyền tải điện năng.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -514,7 +514,7 @@
     },
     {
         "source": "Alternating current ( AC ) is an electric current which periodically reverses direction , in contrast to direct current ( DC ) which flows only in one direction . Alternating current is the form in which electric power is delivered to businesses and residences , and it is the form of electrical energy that consumers typically use when they plug kitchen appliances , televisions and electric lamps into a wall socket . A common source of DC power is a battery cell in a flashlight . The abbreviations AC and DC are often used to mean simply alternating and direct , as when they modify current or voltage . The usual waveform of alternating current in most electric power circuits is a sine wave . In certain applications , different waveforms are used , such as triangular or square waves . Audio and radio signals carried on electrical wires are also examples of alternating current . These types of alternating current carry information encoded ( or modulated ) onto the AC signal , such as sound ( audio ) or images ( video ) . These currents typically alternate at higher frequencies than those used in power transmission .",
-        "target": "Dòng điện xoay chiều (AC) là dòng điện điện tử thay đổi định hướng theo chu kỳ, ngược lại với dòng điện một chiều (DC) chỉ chảy theo một hướng duy nhất. Dòng điện xoay chiều là hình thức mà điện năng được cung cấp cho các doanh nghiệp và hộ gia đình, và đây là hình thức năng lượng điện mà người tiêu dùng thường sử dụng khi họ cắm các thiết bị nhà bếp, tivi và bóng đèn điện vào ổ cắm tường. Một nguồn cung cấp điện một chiều phổ biến là pin trong chiếc đèn pin. Các chữ viết tắt AC và DC thường được dùng để chỉ đơn giản là dòng điện xoay chiều và dòng điện một chiều, ví dụ khi chúng được dùng để mô tả dòng điện hoặc điện áp. Hình dạng sóng điện thường gặp của dòng điện xoay chiều trong hầu hết các mạch điện là sóng hình sin. Trong một số ứng dụng nhất định, các dạng sóng khác cũng được sử dụng, như sóng tam giác hoặc sóng vuông. Các tín hiệu âm thanh và sóng vô tuyến được truyền qua dây điện cũng là ví dụ của dòng điện xoay chiều. Các loại dòng điện xoay chiều này mang theo thông tin được mã hóa (hoặc điều chế) vào tín hiệu AC, ví dụ như âm thanh (âm thanh) hoặc hình ảnh (video). Những dòng điện này thường dao động ở tần số cao hơn nhiều so với tần số được sử dụng trong truyền tải điện năng.",
+        "target": "Dòng điện xoay chiều (AC) là dòng điện có chiều hướng thay đổi định kỳ, trái ngược với dòng điện một chiều (DC) chỉ chảy theo một hướng. Dòng điện xoay chiều là hình thức điện năng được cung cấp cho các doanh nghiệp và hộ gia đình, và đó là dạng năng lượng điện mà người tiêu dùng thường sử dụng khi cắm các thiết bị nhà bếp, tivi và đèn điện vào ổ cắm tường. Một nguồn cung cấp điện DC phổ biến là pin trong đèn pin. Viết tắt AC và DC thường được dùng để chỉ đơn giản là xoay chiều và một chiều, như khi chúng được dùng để mô tả dòng điện hoặc điện áp. Biểu đồ dạng sóng phổ biến của dòng điện xoay chiều trong hầu hết các mạch điện là sóng sine. Trong một số ứng dụng nhất định, các dạng sóng khác được dùng, như sóng tam giác hoặc sóng vuông. Tín hiệu âm thanh và sóng radio được truyền qua dây điện cũng là ví dụ của dòng điện xoay chiều. Những loại dòng điện xoay chiều này mang thông tin được mã hóa (hoặc điều biến) lên tín hiệu AC, như âm thanh (âm thanh) hoặc hình ảnh (video). Những dòng điện này thường dao động với tần số cao hơn so với những tần số dùng trong truyền tải điện năng.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -541,7 +541,7 @@
     },
     {
         "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
-        "target": "Vào thời điểm mạnh nhất, Bão nhiệt đới Gonu, được đặt tên theo một túi lá dừa trong ngôn ngữ của Maldives, đã đạt gió duy trì với tốc độ 240 kilômét mỗi giờ (149 dặm mỗi giờ). Vào đầu ngày hôm nay, gió đã giảm xuống khoảng 83 km/h, và dự kiến sẽ tiếp tục suy yếu.",
+        "target": "Vào lúc mạnh nhất, Bão Nhiệt đới Gonu, được đặt tên theo một túi lá cọ trong ngôn ngữ của Maldives, đã đạt tốc độ gió duy trì 240 km một giờ (149 dặm một giờ). Đến đầu ngày hôm nay, gió chỉ còn khoảng 83 km/h, và dự kiến sẽ tiếp tục suy yếu.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -550,7 +550,7 @@
     },
     {
         "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
-        "target": "Vào thời điểm mạnh nhất, Bão nhiệt đới Gonu, được đặt tên theo một túi lá dừa trong ngôn ngữ của Maldives, đã đạt gió duy trì với tốc độ 240 kilômét mỗi giờ (149 dặm mỗi giờ). Vào đầu ngày hôm nay, gió đã giảm xuống khoảng 83 km/h, và dự kiến sẽ tiếp tục suy yếu.",
+        "target": "Vào lúc mạnh nhất, Bão Nhiệt đới Gonu, được đặt tên theo một túi lá cọ trong ngôn ngữ của Maldives, đã đạt tốc độ gió duy trì 240 km một giờ (149 dặm một giờ). Đến đầu ngày hôm nay, gió chỉ còn khoảng 83 km/h, và dự kiến sẽ tiếp tục suy yếu.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -559,7 +559,7 @@
     },
     {
         "source": "The aircraft had been headed to Irkutsk and was being operated by interior troops. An inquiry was established to investigate. The Il-76 has been a major component of both the Russian and Soviet military since the 1970s, and had already seen a serious accident in Russia last month. On October 7 an engine separated on takeoff, without injuries. Russia briefly grounded Il-76s after that accident.",
-        "target": "Máy bay đang trên đường tới Irkutsk và được điều khiển bởi quân đội nội vụ. Một cuộc điều tra đã được thành lập để điều tra. Il-76 là một thành phần quan trọng của cả quân đội Nga và Liên Xô kể từ những năm 1970 và đã từng gặp một tai nạn nghiêm trọng ở Nga vào tháng trước. Vào ngày 7 tháng 10, một động cơ đã bị tách ra khi cất cánh, không gây thương vong. Nga đã tạm dừng hoạt động của Il-76 sau tai nạn đó.",
+        "target": "Chiếc máy bay đã hướng tới Irkutsk và được vận hành bởi quân đội nội địa. Một cuộc điều tra đã được thiết lập để xác minh. Il-76 đã là một thành phần quan trọng của cả quân đội Nga và Liên Xô từ những năm 1970, và đã từng gặp một tai nạn nghiêm trọng ở Nga vào tháng trước. Vào ngày 7 tháng 10, một động cơ đã tách rời khi cất cánh, không gây thương tích. Nga đã tạm thời cấm bay các máy bay Il-76 sau vụ tai nạn đó.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -568,7 +568,7 @@
     },
     {
         "source": "The aircraft had been headed to Irkutsk and was being operated by interior troops. An inquiry was established to investigate. The Il-76 has been a major component of both the Russian and Soviet military since the 1970s, and had already seen a serious accident in Russia last month. On October 7 an engine separated on takeoff, without injuries. Russia briefly grounded Il-76s after that accident.",
-        "target": "Máy bay đang trên đường tới Irkutsk và được điều khiển bởi quân đội nội vụ. Một cuộc điều tra đã được thành lập để điều tra. Il-76 là một thành phần quan trọng của cả quân đội Nga và Liên Xô kể từ những năm 1970 và đã từng gặp một tai nạn nghiêm trọng ở Nga vào tháng trước. Vào ngày 7 tháng 10, một động cơ đã bị tách ra khi cất cánh, không gây thương vong. Nga đã tạm dừng hoạt động của Il-76 sau tai nạn đó.",
+        "target": "Chiếc máy bay đã hướng tới Irkutsk và được vận hành bởi quân đội nội địa. Một cuộc điều tra đã được thiết lập để xác minh. Il-76 đã là một thành phần quan trọng của cả quân đội Nga và Liên Xô từ những năm 1970, và đã từng gặp một tai nạn nghiêm trọng ở Nga vào tháng trước. Vào ngày 7 tháng 10, một động cơ đã tách rời khi cất cánh, không gây thương tích. Nga đã tạm thời cấm bay các máy bay Il-76 sau vụ tai nạn đó.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -577,7 +577,7 @@
     },
     {
         "source": "This not only confirms that at least some dinosaurs had feathers, a theory already widespread, but provides details fossils generally cannot, such as color and three-dimensional arrangement. . Scientists say this animal's plumage was chestnut-brown on top with a pale or carotenoid-colored underside. The find also grants insight into the evolution of feathers in birds. Because the dinosaur feathers do not have a well-developed shaft, called a rachis, but do have other features of feathers — barbs and barbules — the researchers inferred the rachis was likely a later evolutionary development that these other features. The feathers' structure suggests that they were not used in flight but rather for temperature regulation or display. The researchers suggested that, even though this is the tail of a young dinosaur, the sample shows adult plumage and not a chick's down. The researchers suggested that, even though this is the tail of a young dinosaur, the sample shows adult plumage and not a chick's down.",
-        "target": "Điều này không chỉ xác nhận rằng ít nhất một số loài khủng long có lông, một giả thuyết đã được công nhận rộng rãi, mà còn cung cấp những thông tin mà hóa thạch thường không thể, chẳng hạn như màu sắc và cách sắp xếp ba chiều. Các nhà khoa học nói rằng bộ lông của con vật này có màu nâu hạt dẻ ở phần trên và phần dưới có màu nhạt hoặc màu sắc lutein. Phát hiện này cũng mang lại cái nhìn sâu sắc về sự tiến hóa của lông ở chim. Vì những chiếc lông khủng long này không có trục phát triển tốt, được gọi là rachis, nhưng lại có những đặc điểm khác của lông - các sợi lông (barbs) và sợi phụ (barbules) - các nhà nghiên cứu suy luận rằng rachis có lẽ là một đặc điểm tiến hóa muộn hơn các đặc điểm khác này. Cấu trúc của các chiếc lông cho thấy chúng không được sử dụng để bay mà thay vào đó là để điều hòa nhiệt độ hoặc trưng bày. Các nhà nghiên cứu cho rằng, mặc dù đây là đuôi của một con khủng long non, mẫu vật này thể hiện bộ lông của loài trưởng thành chứ không phải lông non của con nít. Các nhà nghiên cứu cho rằng, mặc dù đây là đuôi của một con khủng long non, mẫu vật này thể hiện bộ lông của loài trưởng thành chứ không phải lông non của con nít.",
+        "target": "Điều này không chỉ xác nhận rằng ít nhất một số loài khủng long có lông vũ, một giả thuyết đã phổ biến từ trước, mà còn cung cấp chi tiết mà các hóa thạch thường không thể có được, chẳng hạn như màu sắc và cách bố trí ba chiều. Các nhà khoa học cho biết bộ lông của loài động vật này có màu nâu hạt dẻ phía trên với phần dưới màu nhạt hoặc màu carotenoid. Phát hiện này cũng cung cấp góc nhìn về sự tiến hóa của lông vũ ở chim. Bởi vì lông khủng long không có trục phát triển tốt, gọi là rachis, nhưng có các đặc điểm khác của lông — các râu và mấu nhỏ — các nhà nghiên cứu suy luận rằng rachis có thể là phát triển tiến hóa muộn hơn so với các đặc điểm khác này. Cấu trúc của lông cho thấy chúng không được sử dụng để bay mà là để điều tiết nhiệt độ hoặc trình diễn. Các nhà nghiên cứu cho rằng, mặc dù đây là cái đuôi của một con khủng long non, mẫu vật lại cho thấy bộ lông của một con trưởng thành chứ không phải bộ lông mịn của con non. Các nhà nghiên cứu cho rằng, mặc dù đây là cái đuôi của một con khủng long non, mẫu vật lại cho thấy bộ lông của một con trưởng thành chứ không phải bộ lông mịn của con non.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -586,7 +586,7 @@
     },
     {
         "source": "This not only confirms that at least some dinosaurs had feathers, a theory already widespread, but provides details fossils generally cannot, such as color and three-dimensional arrangement. . Scientists say this animal's plumage was chestnut-brown on top with a pale or carotenoid-colored underside. The find also grants insight into the evolution of feathers in birds. Because the dinosaur feathers do not have a well-developed shaft, called a rachis, but do have other features of feathers — barbs and barbules — the researchers inferred the rachis was likely a later evolutionary development that these other features. The feathers' structure suggests that they were not used in flight but rather for temperature regulation or display. The researchers suggested that, even though this is the tail of a young dinosaur, the sample shows adult plumage and not a chick's down. The researchers suggested that, even though this is the tail of a young dinosaur, the sample shows adult plumage and not a chick's down.",
-        "target": "Điều này không chỉ xác nhận rằng ít nhất một số loài khủng long có lông, một giả thuyết đã được công nhận rộng rãi, mà còn cung cấp những thông tin mà hóa thạch thường không thể, chẳng hạn như màu sắc và cách sắp xếp ba chiều. Các nhà khoa học nói rằng bộ lông của con vật này có màu nâu hạt dẻ ở phần trên và phần dưới có màu nhạt hoặc màu sắc lutein. Phát hiện này cũng mang lại cái nhìn sâu sắc về sự tiến hóa của lông ở chim. Vì những chiếc lông khủng long này không có trục phát triển tốt, được gọi là rachis, nhưng lại có những đặc điểm khác của lông - các sợi lông (barbs) và sợi phụ (barbules) - các nhà nghiên cứu suy luận rằng rachis có lẽ là một đặc điểm tiến hóa muộn hơn các đặc điểm khác này. Cấu trúc của các chiếc lông cho thấy chúng không được sử dụng để bay mà thay vào đó là để điều hòa nhiệt độ hoặc trưng bày. Các nhà nghiên cứu cho rằng, mặc dù đây là đuôi của một con khủng long non, mẫu vật này thể hiện bộ lông của loài trưởng thành chứ không phải lông non của con nít. Các nhà nghiên cứu cho rằng, mặc dù đây là đuôi của một con khủng long non, mẫu vật này thể hiện bộ lông của loài trưởng thành chứ không phải lông non của con nít.",
+        "target": "Điều này không chỉ xác nhận rằng ít nhất một số loài khủng long có lông vũ, một giả thuyết đã phổ biến từ trước, mà còn cung cấp chi tiết mà các hóa thạch thường không thể có được, chẳng hạn như màu sắc và cách bố trí ba chiều. Các nhà khoa học cho biết bộ lông của loài động vật này có màu nâu hạt dẻ phía trên với phần dưới màu nhạt hoặc màu carotenoid. Phát hiện này cũng cung cấp góc nhìn về sự tiến hóa của lông vũ ở chim. Bởi vì lông khủng long không có trục phát triển tốt, gọi là rachis, nhưng có các đặc điểm khác của lông — các râu và mấu nhỏ — các nhà nghiên cứu suy luận rằng rachis có thể là phát triển tiến hóa muộn hơn so với các đặc điểm khác này. Cấu trúc của lông cho thấy chúng không được sử dụng để bay mà là để điều tiết nhiệt độ hoặc trình diễn. Các nhà nghiên cứu cho rằng, mặc dù đây là cái đuôi của một con khủng long non, mẫu vật lại cho thấy bộ lông của một con trưởng thành chứ không phải bộ lông mịn của con non. Các nhà nghiên cứu cho rằng, mặc dù đây là cái đuôi của một con khủng long non, mẫu vật lại cho thấy bộ lông của một con trưởng thành chứ không phải bộ lông mịn của con non.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -613,7 +613,7 @@
     },
     {
         "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
-        "target": "Dan Patrick đang biến ý tưởng kịch bản khoa học viễn tưởng mà tôi đã nghĩ ra cho giải đấu của những đứa trẻ lan truyền virus mà chúng miễn nhiễm để giết cha mẹ / ông bà trở thành HIỆN THỰC",
+        "target": "Dan Patrick đang biến ý tưởng kịch bản khoa học viễn tưởng mà tôi từng có về một liên minh trẻ em lan truyền một loại virus mà chúng miễn nhiễm nhằm giết chết cha mẹ/ông bà của chúng thành HIỆN THỰC.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -622,7 +622,7 @@
     },
     {
         "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
-        "target": "Dan Patrick đang biến ý tưởng kịch bản khoa học viễn tưởng mà tôi đã nghĩ ra cho giải đấu của những đứa trẻ lan truyền virus mà chúng miễn nhiễm để giết cha mẹ / ông bà trở thành HIỆN THỰC",
+        "target": "Dan Patrick đang biến ý tưởng kịch bản khoa học viễn tưởng mà tôi từng có về một liên minh trẻ em lan truyền một loại virus mà chúng miễn nhiễm nhằm giết chết cha mẹ/ông bà của chúng thành HIỆN THỰC.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -631,7 +631,7 @@
     },
     {
         "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
-        "target": "@CindyKendrick11 Cái chuyện súp dơi chỉ là một cái cớ thôi. Cái thứ gì đó đã rò rỉ ra từ một phòng thí nghiệm vũ khí sinh học của Trung Quốc ở Vũ Hán. Chính phủ Trung Quốc phải chịu trách nhiệm về chuyện này.",
+        "target": "@CindyKendrick11 Cái chuyện súp dơi chỉ là cái cớ. Dù đó là thứ gì thì cũng đã rò rỉ ra từ một phòng thí nghiệm vũ khí sinh học của Trung Quốc ở Vũ Hán. Chính phủ Trung Quốc phải chịu trách nhiệm về việc này.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -640,7 +640,7 @@
     },
     {
         "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
-        "target": "@CindyKendrick11 Cái chuyện súp dơi chỉ là một cái cớ thôi. Cái thứ gì đó đã rò rỉ ra từ một phòng thí nghiệm vũ khí sinh học của Trung Quốc ở Vũ Hán. Chính phủ Trung Quốc phải chịu trách nhiệm về chuyện này.",
+        "target": "@CindyKendrick11 Cái chuyện súp dơi chỉ là cái cớ. Dù đó là thứ gì thì cũng đã rò rỉ ra từ một phòng thí nghiệm vũ khí sinh học của Trung Quốc ở Vũ Hán. Chính phủ Trung Quốc phải chịu trách nhiệm về việc này.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -649,7 +649,7 @@
     },
     {
         "source": "One of the better analysis of @realDonaldTrump proposal to inject disinfectant as a #COVID19 cure",
-        "target": "Một trong những phân tích tốt hơn về đề xuất của @realDonaldTrump là tiêm dung dịch khử trùng làm phương pháp điều trị #COVID19",
+        "target": "Một trong những phân tích tốt hơn về đề xuất của @realDonaldTrump về việc tiêm thuốc khử trùng như một phương pháp điều trị #COVID19",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -658,7 +658,7 @@
     },
     {
         "source": "One of the better analysis of @realDonaldTrump proposal to inject disinfectant as a #COVID19 cure",
-        "target": "Một trong những phân tích tốt hơn về đề xuất của @realDonaldTrump là tiêm dung dịch khử trùng làm phương pháp điều trị #COVID19",
+        "target": "Một trong những phân tích tốt hơn về đề xuất của @realDonaldTrump về việc tiêm thuốc khử trùng như một phương pháp điều trị #COVID19",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -685,7 +685,7 @@
     },
     {
         "source": "I don't ever want to see another generation of young Americans bleed their lives into sandy beachheads in the Pacific, or rice paddies and jungles in the in Asia or the muddy battlefields of Europe. Mr. Stone, I have submitted an economic plan that I have worked out in concert with a number of fine economists in this country, all of whom approve it, and believe that over a five year projection, this plan can permit the extra spending for needed refurbishing of our defensive posture, that it can provide for a balanced budget by 1983 if not earlier, and that we can afford - along with the cuts that I have proposed in Government. spending - we can afford the tax cuts I have proposed and probably mainly because Mr. Carter's economic policy has built into the next five years, and on beyond that, a tax increase that will be taking $86 billion more out of the people's pockets than was taken this year.",
-        "target": "Tôi không bao giờ muốn thấy một thế hệ người Mỹ trẻ khác phải đổ máu trên các bãi biển cát ở Thái Bình Dương, hoặc trên các cánh đồng lúa và rừng ở châu Á hay trên các chiến trường đầy bùn ở châu Âu. Ông Stone, tôi đã trình bày một kế hoạch kinh tế mà tôi đã làm việc cùng với một số nhà kinh tế học xuất sắc ở nước này, tất cả đều đồng ý với kế hoạch đó, và tin rằng trong dự báo 5 năm, kế hoạch này có thể cho phép chi tiêu thêm cho việc tu sửa lại tư thế phòng thủ của chúng ta, rằng nó có thể cung cấp một ngân sách cân bằng vào năm 1983 hoặc sớm hơn, và rằng chúng ta có thể chi trả - cùng với các cắt giảm mà tôi đã đề xuất trong chi tiêu của Chính phủ - chúng ta có thể chi trả cho việc cắt thuế mà tôi đã đề xuất và có lẽ chủ yếu là vì chính sách kinh tế của ông Carter đã xây dựng vào 5 năm tới, và hơn thế nữa, một mức tăng thuế sẽ lấy đi 86 tỷ đô la nhiều hơn từ túi tiền của người dân so với năm nay.",
+        "target": "Tôi không bao giờ muốn thấy một thế hệ trẻ người Mỹ nào nữa phải đổ máu vì những trận chiến trên các bãi biển đầy cát ở Thái Bình Dương, hay trên các cánh đồng lúa và trong các khu rừng ở châu Á, hoặc trên những chiến trường lầy lội ở châu Âu. Ông Stone, tôi đã trình bày một kế hoạch kinh tế mà tôi đã phối hợp cùng với một số nhà kinh tế giỏi trong nước, tất cả đều tán thành và tin rằng trong dự báo năm năm tới, kế hoạch này có thể cho phép chi tiêu bổ sung cần thiết để nâng cấp vị thế phòng thủ của chúng ta, rằng nó có thể đảm bảo ngân sách cân đối vào năm 1983 nếu không sớm hơn, và rằng chúng ta có thể chi trả - cùng với các khoản cắt giảm mà tôi đã đề xuất trong chi tiêu chính phủ - chúng ta có thể chi trả các khoản giảm thuế mà tôi đã đề xuất, và có thể chủ yếu vì chính sách kinh tế của ông Carter đã xây dựng trong năm năm tới, và kéo dài hơn nữa, một sự tăng thuế sẽ lấy đi 86 tỉ đô la nhiều hơn từ túi người dân so với năm nay.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -694,7 +694,7 @@
     },
     {
         "source": "I don't ever want to see another generation of young Americans bleed their lives into sandy beachheads in the Pacific, or rice paddies and jungles in the in Asia or the muddy battlefields of Europe. Mr. Stone, I have submitted an economic plan that I have worked out in concert with a number of fine economists in this country, all of whom approve it, and believe that over a five year projection, this plan can permit the extra spending for needed refurbishing of our defensive posture, that it can provide for a balanced budget by 1983 if not earlier, and that we can afford - along with the cuts that I have proposed in Government. spending - we can afford the tax cuts I have proposed and probably mainly because Mr. Carter's economic policy has built into the next five years, and on beyond that, a tax increase that will be taking $86 billion more out of the people's pockets than was taken this year.",
-        "target": "Tôi không bao giờ muốn thấy một thế hệ người Mỹ trẻ khác phải đổ máu trên các bãi biển cát ở Thái Bình Dương, hoặc trên các cánh đồng lúa và rừng ở châu Á hay trên các chiến trường đầy bùn ở châu Âu. Ông Stone, tôi đã trình bày một kế hoạch kinh tế mà tôi đã làm việc cùng với một số nhà kinh tế học xuất sắc ở nước này, tất cả đều đồng ý với kế hoạch đó, và tin rằng trong dự báo 5 năm, kế hoạch này có thể cho phép chi tiêu thêm cho việc tu sửa lại tư thế phòng thủ của chúng ta, rằng nó có thể cung cấp một ngân sách cân bằng vào năm 1983 hoặc sớm hơn, và rằng chúng ta có thể chi trả - cùng với các cắt giảm mà tôi đã đề xuất trong chi tiêu của Chính phủ - chúng ta có thể chi trả cho việc cắt thuế mà tôi đã đề xuất và có lẽ chủ yếu là vì chính sách kinh tế của ông Carter đã xây dựng vào 5 năm tới, và hơn thế nữa, một mức tăng thuế sẽ lấy đi 86 tỷ đô la nhiều hơn từ túi tiền của người dân so với năm nay.",
+        "target": "Tôi không bao giờ muốn thấy một thế hệ trẻ người Mỹ nào nữa phải đổ máu vì những trận chiến trên các bãi biển đầy cát ở Thái Bình Dương, hay trên các cánh đồng lúa và trong các khu rừng ở châu Á, hoặc trên những chiến trường lầy lội ở châu Âu. Ông Stone, tôi đã trình bày một kế hoạch kinh tế mà tôi đã phối hợp cùng với một số nhà kinh tế giỏi trong nước, tất cả đều tán thành và tin rằng trong dự báo năm năm tới, kế hoạch này có thể cho phép chi tiêu bổ sung cần thiết để nâng cấp vị thế phòng thủ của chúng ta, rằng nó có thể đảm bảo ngân sách cân đối vào năm 1983 nếu không sớm hơn, và rằng chúng ta có thể chi trả - cùng với các khoản cắt giảm mà tôi đã đề xuất trong chi tiêu chính phủ - chúng ta có thể chi trả các khoản giảm thuế mà tôi đã đề xuất, và có thể chủ yếu vì chính sách kinh tế của ông Carter đã xây dựng trong năm năm tới, và kéo dài hơn nữa, một sự tăng thuế sẽ lấy đi 86 tỉ đô la nhiều hơn từ túi người dân so với năm nay.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -703,7 +703,7 @@
     },
     {
         "source": "And in some cases may be still at large. But I support the death penalty in the most heinous cases. I do.",
-        "target": "Và trong một số trường hợp có thể vẫn còn nhởn nhơ ngoài vòng pháp luật. Nhưng tôi ủng hộ án tử hình trong những trường hợp tàn bạo nhất. Tôi thì có.",
+        "target": "Và trong một số trường hợp, có thể vẫn đang lẩn trốn. Nhưng tôi ủng hộ án tử hình trong những trường hợp tội ác nghiêm trọng nhất. Tôi thật sự vậy.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -712,7 +712,7 @@
     },
     {
         "source": "And in some cases may be still at large. But I support the death penalty in the most heinous cases. I do.",
-        "target": "Và trong một số trường hợp có thể vẫn còn nhởn nhơ ngoài vòng pháp luật. Nhưng tôi ủng hộ án tử hình trong những trường hợp tàn bạo nhất. Tôi thì có.",
+        "target": "Và trong một số trường hợp, có thể vẫn đang lẩn trốn. Nhưng tôi ủng hộ án tử hình trong những trường hợp tội ác nghiêm trọng nhất. Tôi thật sự vậy.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -721,7 +721,7 @@
     },
     {
         "source": "Not so. Take for example the marriage penalty. If you itemize your tax return, you get no marriage penalty relief.",
-        "target": "Không phải vậy. Hãy lấy ví dụ về khoản phạt kết hôn. Nếu bạn liệt kê các khoản khấu trừ trên tờ khai thuế của mình, bạn sẽ không nhận được bất kỳ sự miễn giảm nào đối với khoản phạt kết hôn.",
+        "target": "Không phải vậy. Lấy ví dụ về hình phạt kết hôn. Nếu bạn kê khai chi tiết trên tờ khai thuế của mình, bạn sẽ không được giảm hình phạt kết hôn.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -730,7 +730,7 @@
     },
     {
         "source": "Not so. Take for example the marriage penalty. If you itemize your tax return, you get no marriage penalty relief.",
-        "target": "Không phải vậy. Hãy lấy ví dụ về khoản phạt kết hôn. Nếu bạn liệt kê các khoản khấu trừ trên tờ khai thuế của mình, bạn sẽ không nhận được bất kỳ sự miễn giảm nào đối với khoản phạt kết hôn.",
+        "target": "Không phải vậy. Lấy ví dụ về hình phạt kết hôn. Nếu bạn kê khai chi tiết trên tờ khai thuế của mình, bạn sẽ không được giảm hình phạt kết hôn.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -757,7 +757,7 @@
     },
     {
         "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
-        "target": "Đúng, Hiến pháp của chúng ta không có điều khoản 'thủ tục đúng đắn' hay Tu chính án VIII; nhưng, trong lĩnh vực pháp luật này, sau các vụ án R.C. Cooper v. Liên minh Ấn Độ, (1970) 1 SCC 248 và Maneka Gandhi v. Liên minh Ấn Độ, (1978) 1 SCC 248, hậu quả vẫn giống nhau.",
+        "target": "Đúng vậy, Hiến pháp của chúng ta không có điều khoản 'quy trình tố tụng hợp pháp' hay Tu Chính Án VIII; nhưng, trong nhánh pháp luật này, sau các vụ R.C. Cooper kiện Liên bang Ấn Độ, (1970) 1 SCC 248 và Maneka Gandhi kiện Liên bang Ấn Độ, (1978) 1 SCC 248, hậu quả vẫn là như nhau.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -766,7 +766,7 @@
     },
     {
         "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
-        "target": "Đúng, Hiến pháp của chúng ta không có điều khoản 'thủ tục đúng đắn' hay Tu chính án VIII; nhưng, trong lĩnh vực pháp luật này, sau các vụ án R.C. Cooper v. Liên minh Ấn Độ, (1970) 1 SCC 248 và Maneka Gandhi v. Liên minh Ấn Độ, (1978) 1 SCC 248, hậu quả vẫn giống nhau.",
+        "target": "Đúng vậy, Hiến pháp của chúng ta không có điều khoản 'quy trình tố tụng hợp pháp' hay Tu Chính Án VIII; nhưng, trong nhánh pháp luật này, sau các vụ R.C. Cooper kiện Liên bang Ấn Độ, (1970) 1 SCC 248 và Maneka Gandhi kiện Liên bang Ấn Độ, (1978) 1 SCC 248, hậu quả vẫn là như nhau.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -775,7 +775,7 @@
     },
     {
         "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
-        "target": "Trong thời gian đó, anh là một thành viên của nhóm tin tức ABC News bị bắn tỉa ở Sarajevo, Bosnia vào tháng 8 năm 1992. David Kaplan, một nhà sản xuất kỳ cựu của ABC News tại Washington, đã thiệt mạng trong vụ việc. Năm 1997, Sherwood gia nhập NBC's Nightly News với Tom Brokaw với vai trò nhà sản xuất, sau đó là nhà sản xuất cấp cao, và cuối cùng là nhà sản xuất phát sóng cấp cao, nơi anh có mặt trong quá trình đưa tin về các cuộc tấn công ngày 11 tháng 9.",
+        "target": "Trong thời gian đó, ông là thành viên của nhóm ABC News đã bị bắn tỉa tại Sarajevo, Bosnia vào tháng 8 năm 1992. David Kaplan, một nhà sản xuất kỳ cựu của ABC News tại Washington, đã bị giết trong vụ việc này. Năm 1997, Sherwood gia nhập chương trình Nightly News của NBC với Tom Brokaw với vai trò nhà sản xuất, sau đó là nhà sản xuất cấp cao và cuối cùng là nhà sản xuất cao cấp phát sóng, nơi ông có mặt trong suốt thời gian đưa tin về các cuộc tấn công ngày 11 tháng 9.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -784,7 +784,7 @@
     },
     {
         "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
-        "target": "Trong thời gian đó, anh là một thành viên của nhóm tin tức ABC News bị bắn tỉa ở Sarajevo, Bosnia vào tháng 8 năm 1992. David Kaplan, một nhà sản xuất kỳ cựu của ABC News tại Washington, đã thiệt mạng trong vụ việc. Năm 1997, Sherwood gia nhập NBC's Nightly News với Tom Brokaw với vai trò nhà sản xuất, sau đó là nhà sản xuất cấp cao, và cuối cùng là nhà sản xuất phát sóng cấp cao, nơi anh có mặt trong quá trình đưa tin về các cuộc tấn công ngày 11 tháng 9.",
+        "target": "Trong thời gian đó, ông là thành viên của nhóm ABC News đã bị bắn tỉa tại Sarajevo, Bosnia vào tháng 8 năm 1992. David Kaplan, một nhà sản xuất kỳ cựu của ABC News tại Washington, đã bị giết trong vụ việc này. Năm 1997, Sherwood gia nhập chương trình Nightly News của NBC với Tom Brokaw với vai trò nhà sản xuất, sau đó là nhà sản xuất cấp cao và cuối cùng là nhà sản xuất cao cấp phát sóng, nơi ông có mặt trong suốt thời gian đưa tin về các cuộc tấn công ngày 11 tháng 9.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -793,7 +793,7 @@
     },
     {
         "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
-        "target": "Vào ngày 27 tháng 9 năm 2014, Toshney ký hợp đồng với Ross County và ra mắt cùng ngày khi họ đánh bại Dundee với tỷ số 2–1. Sau khi bị Ross County giải约, Toshney ký hợp đồng với Cowdenbeath vào ngày 3 tháng 2 năm 2015, với hợp đồng kéo dài đến hết mùa giải 2014–15. Vào ngày 11 tháng 6 năm 2015, Toshney ký hợp đồng với Raith Rovers. Sau khi anh chuyển đến Dundee United, đối thủ của Raith Rovers tại Scottish Championship, cựu huấn luyện viên của Raith Rovers là Ray McKinnon đã bày tỏ mong muốn đưa Toshney đến Tannadice.",
+        "target": "Vào ngày 27 tháng 9 năm 2014, Toshney ký hợp đồng với Ross County và ra mắt ngay trong ngày khi họ đánh bại Dundee 2-1. Sau khi bị Ross County giải phóng hợp đồng, Toshney ký hợp đồng với Cowdenbeath vào ngày 3 tháng 2 năm 2015, ký hợp đồng đến hết mùa giải 2014-15. Vào ngày 11 tháng 6 năm 2015, Toshney ký hợp đồng với Raith Rovers. Sau khi chuyển đến đối thủ trong Giải vô địch Scotland Dundee United, cựu huấn luyện viên Raith Rovers Ray McKinnon bày tỏ sự quan tâm trong việc đưa Toshney đến Tannadice.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -802,7 +802,7 @@
     },
     {
         "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
-        "target": "Vào ngày 27 tháng 9 năm 2014, Toshney ký hợp đồng với Ross County và ra mắt cùng ngày khi họ đánh bại Dundee với tỷ số 2–1. Sau khi bị Ross County giải约, Toshney ký hợp đồng với Cowdenbeath vào ngày 3 tháng 2 năm 2015, với hợp đồng kéo dài đến hết mùa giải 2014–15. Vào ngày 11 tháng 6 năm 2015, Toshney ký hợp đồng với Raith Rovers. Sau khi anh chuyển đến Dundee United, đối thủ của Raith Rovers tại Scottish Championship, cựu huấn luyện viên của Raith Rovers là Ray McKinnon đã bày tỏ mong muốn đưa Toshney đến Tannadice.",
+        "target": "Vào ngày 27 tháng 9 năm 2014, Toshney ký hợp đồng với Ross County và ra mắt ngay trong ngày khi họ đánh bại Dundee 2-1. Sau khi bị Ross County giải phóng hợp đồng, Toshney ký hợp đồng với Cowdenbeath vào ngày 3 tháng 2 năm 2015, ký hợp đồng đến hết mùa giải 2014-15. Vào ngày 11 tháng 6 năm 2015, Toshney ký hợp đồng với Raith Rovers. Sau khi chuyển đến đối thủ trong Giải vô địch Scotland Dundee United, cựu huấn luyện viên Raith Rovers Ray McKinnon bày tỏ sự quan tâm trong việc đưa Toshney đến Tannadice.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -829,7 +829,7 @@
     },
     {
         "source": "It was eventually announced that Anderson would take on Van Dam at Victory Road for a shot at the title. A feud that went into Victory Road was between A.J. Styles, Matt Hardy and Ric Flair. On the February 17 edition of TNA Impact!, Flair betrayed Styles during his one on one contest with Hardy.",
-        "target": "Cuối cùng, nó đã được công bố rằng Anderson sẽ đối đầu với Van Dam tại Victory Road để có cơ hội tranh đai. Một cuộc thù hận mà đi vào Victory Road là giữa A.J. Styles, Matt Hardy và Ric Flair. Trong phiên bản ngày 17 tháng 2 của TNA Impact!, Flair đã phản bội Styles trong cuộc thi đấu một đối một với Hardy.",
+        "target": "Cuối cùng, đã được công bố rằng Anderson sẽ đối đầu với Van Dam tại Victory Road để giành cơ hội tranh chức vô địch. Một cuộc tranh cãi kéo dài đến Victory Road diễn ra giữa A.J. Styles, Matt Hardy và Ric Flair. Trong số phát hành TNA Impact! ngày 17 tháng 2, Flair đã phản bội Styles trong trận đấu một chọi một với Hardy.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -838,7 +838,7 @@
     },
     {
         "source": "It was eventually announced that Anderson would take on Van Dam at Victory Road for a shot at the title. A feud that went into Victory Road was between A.J. Styles, Matt Hardy and Ric Flair. On the February 17 edition of TNA Impact!, Flair betrayed Styles during his one on one contest with Hardy.",
-        "target": "Cuối cùng, nó đã được công bố rằng Anderson sẽ đối đầu với Van Dam tại Victory Road để có cơ hội tranh đai. Một cuộc thù hận mà đi vào Victory Road là giữa A.J. Styles, Matt Hardy và Ric Flair. Trong phiên bản ngày 17 tháng 2 của TNA Impact!, Flair đã phản bội Styles trong cuộc thi đấu một đối một với Hardy.",
+        "target": "Cuối cùng, đã được công bố rằng Anderson sẽ đối đầu với Van Dam tại Victory Road để giành cơ hội tranh chức vô địch. Một cuộc tranh cãi kéo dài đến Victory Road diễn ra giữa A.J. Styles, Matt Hardy và Ric Flair. Trong số phát hành TNA Impact! ngày 17 tháng 2, Flair đã phản bội Styles trong trận đấu một chọi một với Hardy.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -847,7 +847,7 @@
     },
     {
         "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
-        "target": "Jim đến ngân hàng để lấy sao kê xem còn bao nhiêu tiền cho cuối tuần, nhưng sao kê cho thấy cậu ta trắng tay.",
+        "target": "Jim đã đến ngân hàng để lấy bảng sao kê xem anh ta còn bao nhiêu tiền cho cuối tuần, nhưng bảng sao kê nói rằng anh ta đã hết tiền.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -856,7 +856,7 @@
     },
     {
         "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
-        "target": "Jim đến ngân hàng để lấy sao kê xem còn bao nhiêu tiền cho cuối tuần, nhưng sao kê cho thấy cậu ta trắng tay.",
+        "target": "Jim đã đến ngân hàng để lấy bảng sao kê xem anh ta còn bao nhiêu tiền cho cuối tuần, nhưng bảng sao kê nói rằng anh ta đã hết tiền.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -865,7 +865,7 @@
     },
     {
         "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
-        "target": "Thời tiết ở miền nam nước Pháp tốt hơn nhiều so với nhiệt độ ở Nga, vì thời tiết luôn ấm áp.",
+        "target": "Thời tiết ở miền Nam nước Pháp tốt hơn nhiều so với nhiệt độ ở Nga, vì thời tiết ở đó luôn ấm áp.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -874,7 +874,7 @@
     },
     {
         "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
-        "target": "Thời tiết ở miền nam nước Pháp tốt hơn nhiều so với nhiệt độ ở Nga, vì thời tiết luôn ấm áp.",
+        "target": "Thời tiết ở miền Nam nước Pháp tốt hơn nhiều so với nhiệt độ ở Nga, vì thời tiết ở đó luôn ấm áp.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -901,7 +901,7 @@
     },
     {
         "source": "Jim was glad to replace his treadmill with a stationary bike since the stationary bike was new.",
-        "target": "Jim vui mừng khi thay thế máy chạy bộ của mình bằng xe đạp cố định vì xe đạp cố định là mới.",
+        "target": "Jim rất vui khi thay máy chạy bộ bằng xe đạp cố định vì chiếc xe đạp cố định đó là mới.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -910,7 +910,7 @@
     },
     {
         "source": "Jim was glad to replace his treadmill with a stationary bike since the stationary bike was new.",
-        "target": "Jim vui mừng khi thay thế máy chạy bộ của mình bằng xe đạp cố định vì xe đạp cố định là mới.",
+        "target": "Jim rất vui khi thay máy chạy bộ bằng xe đạp cố định vì chiếc xe đạp cố định đó là mới.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -919,7 +919,7 @@
     },
     {
         "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
-        "target": "Câu: mọi người thực sự thích bánh quy bơ nâu bourbon gia vị; chỉ một vài người thích bánh quy caramel pecan. Lần tới, chúng ta nên làm ít loại đó hơn.",
+        "target": "Câu: mọi người thực sự rất thích bánh quy bơ nâu bourbon gia vị; chỉ có một vài người thích bánh quy caramel hạt hồ đào. Lần sau, chúng ta nên làm ít hơn.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -928,7 +928,7 @@
     },
     {
         "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
-        "target": "Câu: mọi người thực sự thích bánh quy bơ nâu bourbon gia vị; chỉ một vài người thích bánh quy caramel pecan. Lần tới, chúng ta nên làm ít loại đó hơn.",
+        "target": "Câu: mọi người thực sự rất thích bánh quy bơ nâu bourbon gia vị; chỉ có một vài người thích bánh quy caramel hạt hồ đào. Lần sau, chúng ta nên làm ít hơn.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -973,7 +973,7 @@
     },
     {
         "source": "sentence: patrick tried to call jake on the phone , but he wasn't successful .",
-        "target": "Patrick đã cố gọi điện cho Jake qua điện thoại, nhưng anh không thành công.",
+        "target": "câu: Patrick cố gọi điện thoại cho Jake, nhưng anh ta không thành công.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
@@ -982,7 +982,7 @@
     },
     {
         "source": "sentence: patrick tried to call jake on the phone , but he wasn't successful .",
-        "target": "Patrick đã cố gọi điện cho Jake qua điện thoại, nhưng anh không thành công.",
+        "target": "câu: Patrick cố gọi điện thoại cho Jake, nhưng anh ta không thành công.",
         "metadata": {
             "system": "GPT-4.1-mini",
             "method": "CLaP",
