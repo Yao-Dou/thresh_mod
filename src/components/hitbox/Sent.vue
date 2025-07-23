@@ -284,20 +284,50 @@ export default {
             let light = !this.hasAnnotations(edit) ? "-light" : "";
             let composite_info = edit.hasOwnProperty('child_category') ? `data-childcategory=${edit['child_category']} data-childid=${edit['child_id']}` : "";
 
+            // --- NEW: Case 0: The span is a pre-defined focus area. ---
+            // Render it as a simple, non-interactive background highlight.
+            if (edit['category'] === 'focus-area') {
+                return `<span class="focus-area-highlight">`;
+            }
+
             // Case 1: The span is the one currently being selected by the user.
             // Render it as a simple, non-interactive highlighted area.
             if (includes_selection && this.is_selected(edit, sent_type, selected_category)) {
                 return `<span @mouseover.stop @mouseout.stop class="bg-${edit['category']}-light span">`;
-            } 
-            
+            }
+
             // Case 2: A standard, interactive annotation span.
             else {
                 return `<span @click="click_span" @mouseover="hover_span" @mouseout="un_hover_span" class="${edit['category']} border-${edit['category']}${light} pointer span ${span_class}" data-category="${edit['category']}" data-id="${edit['category']}-${edit['id']}" ${composite_info}>`;
             }
         },
-        render_sentence(sent, sent_type, span_class, selected_category, offset = 0) {
-            let hit_edits = _.cloneDeep(this.hits_data[this.current_hit - 1].edits);
+        render_sentence(sent, sent_type, span_class, selected_category) {
+            // Get the data for the current hit once to avoid repeated lookups
+            const current_hit_data = this.hits_data[this.current_hit - 1];
+            let hit_edits = _.cloneDeep(current_hit_data.edits);
             const includes_selection = selected_category != null && selected_category != '';
+
+            // --- NEW (REVISED): Add focus areas from the current hit's data ---
+            // Determine the correct key for focus areas based on the sentence type.
+            const focus_area_key = (sent_type === 'input_idx') 
+                                    ? 'source_focus_areas' 
+                                    : 'target_focus_areas';
+
+            // Get the specific focus areas array from the current hit's data.
+            const focus_areas = current_hit_data[focus_area_key];
+
+            // Check if focus areas exist for this sentence type and add them as special edits.
+            if (focus_areas && Array.isArray(focus_areas)) {
+                focus_areas.forEach((area, index) => {
+                    hit_edits.push({
+                        "category": "focus-area", // A special, non-interactive category
+                        "id": `focus-${sent_type}-${index}`, // A more specific unique ID
+                        [sent_type]: [area],        // 'area' should be [start, end]
+                    });
+                });
+            }
+            // --- END NEW (REVISED) CODE ---
+
             if (includes_selection) {
                 const selected_idx = this.get_selected_index(sent_type);
                 if (this.multi_select_enabled(sent_type) && Array.isArray(selected_idx[0])) {
@@ -321,69 +351,40 @@ export default {
             }
 
             // --- STAGE 2: SEGMENTATION ALGORITHM ---
-
-            // 1. Collect all unique start and end points from all edits.
-            const points = new Set([0, sent.length]); // Start with sentence boundaries
-            const chunk_abs_end = offset + sent.length;
-
+            // NO CHANGES ARE NEEDED HERE. It will work perfectly with the new focus areas.
+            const points = new Set([0, sent.length]);
             allEdits.forEach(edit => {
-                const abs_start = edit[sent_type][0];
-                const abs_end = edit[sent_type][1];
-
-                // If an edit's start point falls INSIDE our current chunk, add its relative position.
-                if (abs_start > offset && abs_start < chunk_abs_end) {
-                    points.add(abs_start - offset);
-                }
-                // If an edit's end point falls INSIDE our current chunk, add its relative position.
-                if (abs_end > offset && abs_end < chunk_abs_end) {
-                    points.add(abs_end - offset);
-                }
+                points.add(edit[sent_type][0]);
+                points.add(edit[sent_type][1]);
             });
-
-            // 2. Create a sorted list of points. These points define our atomic segments.
             const splitPoints = Array.from(points).sort((a, b) => a - b);
-
             let sentence_html = '';
 
-            // 3. Iterate through each atomic segment.
             for (let i = 0; i < splitPoints.length - 1; i++) {
                 const start = splitPoints[i];
                 const end = splitPoints[i + 1];
 
-                // Skip zero-length segments which can occur if multiple spans share a boundary.
                 if (start >= end) {
                     continue;
                 }
 
                 const segmentText = sent.substring(start, end);
 
-                // 4. Find all edits that "contain" this segment.
-                // const enclosingEdits = allEdits.filter(edit =>
-                //     edit[sent_type][0] <= start && edit[sent_type][1] >= end
-                // );
-                
-                const segment_abs_start = start + offset;
-                const segment_abs_end = end + offset;
-
                 const enclosingEdits = allEdits.filter(edit =>
-                    edit[sent_type][0] <= segment_abs_start && edit[sent_type][1] >= segment_abs_end
+                    edit[sent_type][0] <= start && edit[sent_type][1] >= end
                 );
 
-                // 5. Sort enclosing edits to ensure proper nesting (outermost first).
-                // Sort by start index (ascending), then by span length (descending).
-                // This ensures a larger span wraps a smaller one if they share a start point.
                 enclosingEdits.sort((a, b) => {
                     const a_start = a[sent_type][0];
                     const b_start = b[sent_type][0];
                     if (a_start !== b_start) {
-                        return b_start - a_start; // Sort by start index DESCENDING
+                        return b_start - a_start;
                     }
                     const a_end = a[sent_type][1];
                     const b_end = b[sent_type][1];
-                    return a_end - b_end; // Then by end index ASCENDING (shorter span first)
+                    return a_end - b_end;
                 });
 
-                // 6. Wrap the segment text in the spans of all its enclosing edits.
                 let segmentHtml = segmentText;
                 for (const edit of enclosingEdits) {
                     const openTag = this._buildSpanOpenTag(edit, sent_type, span_class, selected_category, includes_selection);
