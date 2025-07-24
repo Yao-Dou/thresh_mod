@@ -77,7 +77,35 @@ export default {
                 console.warn(e)
             }
         },
-        // TOOD: I removed the hover span code, but there were some edge cases in there for split edits
+        getAbsoluteOffset(parentElement, startNode, startOffset) {
+            let absoluteOffset = 0;
+
+            // Use a TreeWalker to efficiently iterate through only the text nodes
+            // within the parent element, in the correct document order.
+            const treeWalker = document.createTreeWalker(
+                parentElement,
+                NodeFilter.SHOW_TEXT, // We are only interested in text nodes
+                null,
+                false
+            );
+
+            let currentNode;
+            while ((currentNode = treeWalker.nextNode())) {
+                // If the current text node is the one where our selection starts...
+                if (currentNode === startNode) {
+                    // ...the absolute offset is the total length of all preceding
+                    // text nodes plus the offset within the current node.
+                    absoluteOffset += startOffset;
+                    return absoluteOffset;
+                } else {
+                    // Otherwise, just add the full length of this text node and continue.
+                    absoluteOffset += currentNode.textContent.length;
+                }
+            }
+
+            // Fallback in case the node isn't found (should not happen in normal use)
+            return absoluteOffset;
+        },
         select_target_html(e) {
             if (!this.hit_box_config.enable_select_target_sentence) {
                 return
@@ -86,13 +114,13 @@ export default {
             let selection = window.getSelection();
             let txt = this.hits_data[this.current_hit - 1].target
             let range = selection.getRangeAt(0);
-            let [start, end] = [range.startOffset, range.endOffset];
+            const parentElement = e.currentTarget;
+
+            let start = this.getAbsoluteOffset(parentElement, range.startContainer, range.startOffset);
+            let end = this.getAbsoluteOffset(parentElement, range.endContainer, range.endOffset);
+
             if (start == end || !txt.substring(start, end).trim()) {
                 this.process_target_html(null); // rerender if blocking 
-                return;
-            }
-            if (selection.anchorNode != selection.focusNode || selection.anchorNode == null) {
-                this.process_target_html_with_selected_span(selected_category)
                 return;
             }
 
@@ -154,8 +182,9 @@ export default {
             if (!this.hit_box_config.enable_select_target_sentence) {
                 return
             }
-            $("#target-sentence").html(this.hits_data[this.current_hit - 1].target);
-            this.target_html = this.hits_data[this.current_hit - 1].target
+            // $("#target-sentence").html(this.hits_data[this.current_hit - 1].target);
+            // this.target_html = this.hits_data[this.current_hit - 1].target
+            this.process_target_html();
         }
     },
     computed: {

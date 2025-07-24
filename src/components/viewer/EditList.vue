@@ -289,7 +289,8 @@ export default {
                 
                 // Render edit
                 const edit_config = this.getEditConfig(key)
-                const edit_label = edit_config.label ? edit_config.label : key
+                const edit_label = edit_config && edit_config.label ? edit_config.label : key
+                if (edit_config == null) { continue }
                 if (edit_config['type'] == 'composite') {
                     const composite_icon = this.getEditConfig(key)['icon']
                     new_html += `

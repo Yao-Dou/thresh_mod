@@ -28,32 +28,6 @@ edits:
             label: "Minor"
           - name: major
             label: "Major"
-  - name: addition
-    label: "Addition"
-    color: brown
-    icon: fa-flask
-    enable_output: true   
-    annotation:
-      - name: severity
-        question: "Rate the severity"
-        options:
-          - name: minor
-            label: "Minor"
-          - name: major
-            label: "Major"
-  - name: omission
-    label: "Omission"
-    color: red
-    icon: fa-xmark
-    enable_input: true   
-    annotation:
-      - name: severity
-        question: "Rate the severity"
-        options:
-          - name: minor
-            label: "Minor"
-          - name: major
-            label: "Major"
   - name: too_general
     label: "Too General"
     color: blue
@@ -72,6 +46,32 @@ edits:
     color: grey
     icon: fa-eye-slash
     enable_output: true   
+    annotation:
+      - name: severity
+        question: "Rate the severity"
+        options:
+          - name: minor
+            label: "Minor"
+          - name: major
+            label: "Major"
+  - name: addition
+    label: "Addition (translation)"
+    color: brown
+    icon: fa-flask
+    enable_output: true   
+    annotation:
+      - name: severity
+        question: "Rate the severity"
+        options:
+          - name: minor
+            label: "Minor"
+          - name: major
+            label: "Major"
+  - name: omission
+    label: "Omission (original)"
+    color: red
+    icon: fa-xmark
+    enable_input: true   
     annotation:
       - name: severity
         question: "Rate the severity"

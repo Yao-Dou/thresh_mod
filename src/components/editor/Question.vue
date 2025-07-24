@@ -2,6 +2,12 @@
   import _ from 'lodash';
 </script>
 
+<style scoped>
+    .child-question {
+        display: none;
+    }
+</style>
+
 <script>
 export default {
     props: [

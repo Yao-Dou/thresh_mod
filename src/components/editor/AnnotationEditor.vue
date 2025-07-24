@@ -6,42 +6,33 @@
 <script>
 export default {
     props: [
-        'edits_dict',
-        'hits_data',
-        'current_hit',
-        'selected_edits_html',
-        'selected_edits',
-        'selected_state',
-        'set_span_text',
-        'set_span_indices',
-        'set_hits_data',
-        'refresh_interface_edit',
-        'editor_open',
-        'set_editor_state',
-        'annotating_edit_span_category_id',
-        'set_annotating_edit_span_category_id',
-        'annotating_edit_span',
-        'set_annotating_edit_span',
-        'set_hit_box_config',
-        'config',
+        'edits_dict', 'hits_data', 'current_hit', 'selected_edits_html', 'selected_edits',
+        'selected_state', 'set_span_text', 'set_span_indices', 'set_hits_data',
+        'refresh_interface_edit', 'editor_open', 'set_editor_state',
+        'annotating_edit_span_category_id', 'set_annotating_edit_span_category_id',
+        'annotating_edit_span', 'set_annotating_edit_span', 'set_hit_box_config', 'config',
     ],
     data() {
-        let edit_state = this.initalize_edit_state()
+        let edit_state = this.initalize_edit_state();
+        let new_edit_state = this.initalize_edit_state();
 
         return {
             force_update: false,
-            edit_state: edit_state,
+            selected_category: null, // To track the selected radio button for reactive updates
+            edit_state: edit_state, // For the "Edit Existing" panel
+            new_edit_state: new_edit_state, // For the integrated "Add New" panel
             empty_edit_state: this.initalize_edit_state()
         }
     },
     watch: {
         config() {
-            this.edit_state = this.initalize_edit_state()
-            this.empty_edit_state = this.initalize_edit_state()
-            this.fix_edit_box_formatting()
+            this.edit_state = this.initalize_edit_state();
+            this.new_edit_state = this.initalize_edit_state();
+            this.empty_edit_state = this.initalize_edit_state();
+            this.fix_edit_box_formatting();
         },
         editor_open() {
-            this.fix_edit_box_formatting()
+            this.fix_edit_box_formatting();
         }
     },
     methods: {
@@ -79,27 +70,34 @@ export default {
             return edit_state
         },
         set_edit_state(edit_state) {
-            console.info(edit_state)
-            this.edit_state = edit_state
-            this.force_update = !this.force_update
+            this.edit_state = edit_state;
+            this.force_update = !this.force_update;
+        },
+        set_new_edit_state(new_state) {
+            this.new_edit_state = new_state;
+            this.force_update = !this.force_update; // Ensures child components re-render if needed
         },
         force_update_f() {
-            this.force_update = !this.force_update
+            this.force_update = !this.force_update;
         },
         cancel_click() {
-            $(".icon-default").removeClass("open")
+            $(".icon-default").removeClass("open");
+            this.set_annotating_edit_span_category_id(null);
+            this.set_annotating_edit_span(null, 'source');
+            this.set_annotating_edit_span(null, 'target');
+            this.set_annotating_edit_span(null, 'composite');
             this.refresh_edit();
         },
         save_click() {
             let new_hits_data = _.cloneDeep(this.hits_data);
 
-            $(".icon-default").removeClass("open")
-            this.set_editor_state(!this.editor_open)
+            $(".icon-default").removeClass("open");
+            this.set_editor_state(!this.editor_open);
             
-            let selected_category = $("input[name=edit_cotegory]:checked").val();
-            const edits_data = new_hits_data[this.current_hit - 1].edits
+            // let selected_category = $("input[name=edit_cotegory]:checked").val(); // Old way
+            let selected_category = this.selected_category; // New reactive way
+            const edits_data = new_hits_data[this.current_hit - 1].edits;
 
-            // Get highest key
             let max_key = 0;
             for (const edit of edits_data) {
                 if (edit['category'] == selected_category && parseInt(edit['id']) > max_key) {
@@ -107,46 +105,37 @@ export default {
                 }
             }
 
-            const config_category = this.config.edits.find((edit) => edit.name === selected_category)
+            const config_category = this.config.edits.find((edit) => edit.name === selected_category);
+
+            // Get the annotation data from the new integrated form state
+            const new_annotation_data = _.cloneDeep(this.new_edit_state[selected_category]);
 
             let new_span = {
                 'category': selected_category,
                 'id': max_key + 1,
-                'annotation': null
-            }
+                // Add the cleaned annotation data. If no questions, it will be null.
+                'annotation': this.removeNullElements(new_annotation_data)
+            };
 
             if (config_category.type == undefined || config_category.type == 'single_span' || config_category.type == 'multi_span') {
                 if (config_category['enable_input']) {
-                    let new_idx = this.selected_state.source_idx
-                    if (!(config_category['type'] == 'multi_span')) {
-                        new_idx = [new_idx]
-                    }
-                    new_span['input_idx'] = new_idx
+                    new_span['input_idx'] = (config_category['type'] !== 'multi_span') ? [this.selected_state.source_idx] : this.selected_state.source_idx;
                 }
                 if (config_category['enable_output']) {
-                    let new_idx = this.selected_state.target_idx
-                    if (!(config_category['type'] == 'multi_span')) {
-                        new_idx = [new_idx]
-                    }
-                    new_span['output_idx'] = new_idx
+                    new_span['output_idx'] = (config_category['type'] !== 'multi_span') ? [this.selected_state.target_idx] : this.selected_state.target_idx;
                 }
             }
 
             if (config_category['type'] == 'composite') {
-                // 1) Add the existing edits (only certian fields) to constituent_edis
-                let constituent_edits = []
+                let constituent_edits = [];
                 for (let edit of this.selected_edits) {
-                    let composite_span = {
-                        id: edit.id,
-                        category: edit.category
-                    }
-                    if (edit.input_idx) { composite_span['input_idx'] = edit.input_idx }
-                    if (edit.output_idx) { composite_span['output_idx'] = edit.output_idx }
-                    constituent_edits.push(composite_span)
+                    let composite_span = { id: edit.id, category: edit.category };
+                    if (edit.input_idx) { composite_span['input_idx'] = edit.input_idx; }
+                    if (edit.output_idx) { composite_span['output_idx'] = edit.output_idx; }
+                    constituent_edits.push(composite_span);
                 }
-                new_span['constituent_edits'] = constituent_edits
+                new_span['constituent_edits'] = constituent_edits;
 
-                // 2) Delete these edits
                 for (let old_edit of constituent_edits) {
                     new_hits_data[this.current_hit - 1].edits = new_hits_data[this.current_hit - 1].edits.filter(
                         o => o.category !== old_edit.category || o.id !== old_edit.id
@@ -154,140 +143,145 @@ export default {
                 }
             }
 
-            new_hits_data[this.current_hit - 1].edits.push(new_span)
+            new_hits_data[this.current_hit - 1].edits.push(new_span);
             
-            this.set_hits_data(new_hits_data)
+            this.set_hits_data(new_hits_data);
+            
+            this.set_annotating_edit_span_category_id(null);
+            this.set_annotating_edit_span(null, 'source');
+            this.set_annotating_edit_span(null, 'target');
+            this.set_annotating_edit_span(null, 'composite');
             this.refresh_edit();
         },
         cancel_annotation_click(category, e) {
-            const id = this.annotating_edit_span_category_id
-            $(".icon-default").removeClass("open")
-
-            this.reset_annotation_colors(category, id)
-            this.set_hits_data(_.cloneDeep(this.hits_data))
+            const id = this.annotating_edit_span_category_id;
+            if (id === null || id === undefined) {
+                console.warn('No annotation span ID found, cannot cancel annotation');
+                return;
+            }
+            $(".icon-default").removeClass("open");
+            this.reset_annotation_colors(category, id);
+            this.set_hits_data(_.cloneDeep(this.hits_data));
             this.refresh_edit();
         },
-        save_annotation_click(category, e) {
-            function removeNullElements(obj) {
-                if (typeof obj !== 'object' || obj === null) {
-                    return obj;
-                }
-
-                if (Array.isArray(obj)) {
-                    return obj.map((item) => removeNullElements(item)).filter((item) => item !== null);
-                }
-
-                const newObj = {};
-                let hasNonNullChild = false;
-
-                for (const key in obj) {
-                    if (obj.hasOwnProperty(key)) {
-                        const value = removeNullElements(obj[key]);
-                        if (value !== null) {
-                            newObj[key] = value;
-                            hasNonNullChild = true;
-                        }
+        removeNullElements(obj) {
+            if (typeof obj !== 'object' || obj === null) return obj;
+            if (Array.isArray(obj)) {
+                return obj.map((item) => this.removeNullElements(item)).filter((item) => item !== null);
+            }
+            const newObj = {};
+            let hasNonNullChild = false;
+            for (const key in obj) {
+                if (obj.hasOwnProperty(key)) {
+                    // Crucially, ignore the 'val' key if it's null or empty, but keep other properties
+                    if (key === 'val' && (obj[key] === null || obj[key] === '')) {
+                        continue;
+                    }
+                    const value = this.removeNullElements(obj[key]);
+                    if (value !== null) {
+                        newObj[key] = value;
+                        hasNonNullChild = true;
                     }
                 }
-                return hasNonNullChild ? newObj : null;
             }
+            // If the only thing left was a null 'val', the object might be empty.
+            // An object is "empty" if it has no 'val' and all its children are empty.
+            if (newObj.val === undefined && Object.keys(newObj).length === 0) return null;
 
-            let edit_id = this.annotating_edit_span_category_id
-            
+            return hasNonNullChild ? newObj : null;
+        },
+        save_annotation_click(category, e) {
+            let edit_id = this.annotating_edit_span_category_id;
+            if (edit_id === null || edit_id === undefined) {
+                console.error('No annotating edit span category ID found');
+                return;
+            }
             let new_hits_data = _.cloneDeep(this.hits_data);
-            let new_annotation = _.cloneDeep(this.edit_state[category])
-
-            let annotating_span = new_hits_data[this.current_hit - 1]['edits'].find(function(entry) {
-                return entry['category'] === category && entry['id'] === edit_id;
-            });
-
-            annotating_span.annotation = removeNullElements(new_annotation)
-
-            this.reset_annotation_colors(category, edit_id)
-
-            this.set_hits_data(new_hits_data)
+            let new_annotation = _.cloneDeep(this.edit_state[category]);
+            let annotating_span = new_hits_data[this.current_hit - 1]['edits'].find(entry => entry['category'] === category && entry['id'] === edit_id);
+            annotating_span.annotation = this.removeNullElements(new_annotation);
+            this.reset_annotation_colors(category, edit_id);
+            this.set_hits_data(new_hits_data);
             this.refresh_edit();
         },
         reset_annotation_colors(category, id) {
             let annotating_span = this.hits_data[this.current_hit - 1]['edits'].find(function(entry) {
                 return entry['category'] === category && entry['id'] === id;
             });
-
+            if (!annotating_span) {
+                console.warn(`Span not found for color reset: category=${category}, id=${id}`);
+                return;
+            }
             let color_class, border_class;
             if (!annotating_span.annotation || annotating_span.annotation == null) {
-                color_class = `txt-${category}-light`
-                border_class = `border-${category}-light`
+                color_class = `txt-${category}-light`; border_class = `border-${category}-light`;
             } else {
-                color_class = `txt-${category}`
-                border_class = `border-${category}`
+                color_class = `txt-${category}`; border_class = `border-${category}`;
             }
-
-            let spans = $(`.${category}[data-id=${category}-${id}]`)
-            let below_spans= $(`.${category}_below[data-id=${category}-${id}]`)
-            below_spans.addClass(color_class)
-            spans.removeClass(`white bg-${category} bg-${category}-light`)
-            spans.addClass(border_class)
-            below_spans.removeClass(`white bg-${category} bg-${category}-light`)
+            let spans = $(`.${category}[data-id=${category}-${id}]`);
+            let below_spans= $(`.${category}_below[data-id=${category}-${id}]`);
+            below_spans.addClass(color_class);
+            spans.removeClass(`white bg-${category} bg-${category}-light`).addClass(border_class);
+            below_spans.removeClass(`white bg-${category} bg-${category}-light`);
         },
         getEditConfig(category) {
-            return this.config['edits'].find(function(entry) {
-                return entry['name'] === category;
-            });
+            // ... (no changes in this method)
+            return this.config['edits'].find(entry => entry['name'] === category);
         },
+        // MODIFIED: This method now resets the new state properties as well.
         refresh_edit() {
             this.set_editor_state(false);
 
-            let classList = this.config.edits.map(function(edit) {
-                return `txt-${edit.name}`;
-            }).join(' ');
+            let classList = this.config.edits.map(edit => `txt-${edit.name}`).join(' ');
             $(".annotation-icon").removeClass(classList);
 
             for (let cat of classList) {
-                $('#source-sentence').removeClass(`select-color-${cat}`)
-                $('#target-sentence').removeClass(`select-color-${cat}`)
+                $('#source-sentence').removeClass(`select-color-${cat}`);
+                $('#target-sentence').removeClass(`select-color-${cat}`);
             }
 
             $("input[name=edit_cotegory]").prop("checked", false);
-            $(".checkbox-tools").prop("checked", false);
             $(".checkbox-tools-yes-no").prop("checked", false);
-            $('.question-textbox').val('');
-            $('.question-textarea').val('');
-            $('.quality-selection').slideUp(300);
-            $(".span-selection-div").hide(300);
+            $('.question-textbox, .question-textarea').val('');
+            $('.quality-selection, .span-selection-div, .child-question').slideUp(300);
 
-            $(".child-question").hide();
-
-            this.edit_state = this.initalize_edit_state()
-            this.refresh_interface_edit()
+            // Reset all state objects for a clean slate
+            this.edit_state = this.initalize_edit_state();
+            this.new_edit_state = this.initalize_edit_state(); // Reset the new form
+            this.selected_category = null; // Deselect the category
+            
+            this.set_annotating_edit_span_category_id(null);
+            this.set_annotating_edit_span(null, 'source');
+            this.set_annotating_edit_span(null, 'target');
+            this.set_annotating_edit_span(null, 'composite');
+            
+            this.refresh_interface_edit();
         },
+        // MODIFIED: Added logic to set the reactive selected_category property
         show_span_selection(e) {
+            this.selected_category = e.target.value; // Set reactive property
+
             $(`.span-selection-div`).hide();
             $(`.span-selection-div[data-category=${e.target.value}]`).show();
             const edit_config = this.getEditConfig(e.target.value);
 
-            this.refresh_interface_edit()
+            this.refresh_interface_edit();
 
             let new_hit_box_config = {
-                enable_select_source_sentence: false,
-                enable_select_target_sentence: false,
-                enable_multi_select_source_sentence: false,
-                enable_multi_select_target_sentence: false,
-            }
+                enable_select_source_sentence: false, enable_select_target_sentence: false,
+                enable_multi_select_source_sentence: false, enable_multi_select_target_sentence: false,
+            };
                         
             if (edit_config['enable_input']) {
                 new_hit_box_config.enable_select_source_sentence = true;
-                if (edit_config['type'] == 'multi_span') {
-                    new_hit_box_config.enable_multi_select_source_sentence = true;
-                }
+                if (edit_config['type'] == 'multi_span') new_hit_box_config.enable_multi_select_source_sentence = true;
             } 
             if (edit_config['enable_output']) {
                 new_hit_box_config.enable_select_target_sentence = true;
-                if (edit_config['type'] == 'multi_span') {
-                    new_hit_box_config.enable_multi_select_target_sentence = true;
-                }
+                if (edit_config['type'] == 'multi_span') new_hit_box_config.enable_multi_select_target_sentence = true;
             }
 
-            this.set_hit_box_config(new_hit_box_config)
+            this.set_hit_box_config(new_hit_box_config);
 
             this.set_span_text("", "source");
             this.set_span_text("", "target");
@@ -295,75 +289,180 @@ export default {
             this.set_span_indices("", "target");
         },
         annotate_edit_disabled(item) {
-            const force_update = this.force_update
-            const category = item.name
-            const edit_config = this.getEditConfig(category)
-
-            if (!this.editor_open) { return true }
-            if (!$(`.quality-selection[data-category=${category}]`).is(':visible')) { return true }
-            if (!edit_config || !edit_config.annotation) { return false }
-
-            let filled_out = true
-
+            const force_update = this.force_update;
+            const category = item.name;
+            const edit_config = this.getEditConfig(category);
+            if (!this.editor_open) return true;
+            if (!$(`.quality-selection[data-category=${category}]`).is(':visible')) return true;
+            if (!edit_config || !edit_config.annotation) return false;
+            let filled_out = true;
             for (let question of edit_config.annotation) {
-                const q_object = $(`#question_${category}_${question.name}`)
-                if (q_object == undefined || q_object == {} || q_object.length == 0) { continue }
-                const annotation = this.edit_state[category][question.name]
-
-                // TODO: Improve annotation disabling. Currently it just checks if the root questions
-                // are answered. I could implement this recursively by checking the "annotated" attribute
-                // but this creates circular updating so we need a better solution.
-                if (
-                    annotation != null && 
-                    (
-                        (annotation.val != null && annotation.val != '') ||
-                        (annotation.val == null && annotation != '' )
-                    )) { 
-                        continue 
-                }
-
+                const q_object = $(`#question_${category}_${question.name}`);
+                if (q_object == undefined || q_object.length == 0) continue;
+                const annotation = this.edit_state[category][question.name];
+                if (annotation != null && ((annotation.val != null && annotation.val != '') || (annotation.val == null && annotation != '' ))) continue;
                 if ($(q_object[0]).attr('annotated') != 'true' && (!question.hasOwnProperty('required') || question.required)) {
-                    filled_out = false
+                    filled_out = false;
                 }
             }
-            return !filled_out
-        }
+            return !filled_out;
+        },
+        // MODIFIED: A helper function to check if the new annotation form is valid.
+        // In your main component's methods: { ... }
+
+        isNewAnnotationFormValid(category, questions) {
+            // If there are no questions for this category, the form is valid by default.
+            if (!questions || questions.length === 0) {
+                return true;
+            }
+
+            /**
+             * Recursively checks if all required and visible questions are answered.
+             * @param {Array} q_config - The configuration array for the current level of questions.
+             * @param {Object} q_state - The state object containing answers for the current level.
+             */
+            const check_questions_recursively = (q_config, q_state) => {
+                // Iterate over each question configuration at the current level.
+                for (const question of q_config) {
+                    // A question is required by default unless 'required: false' is specified.
+                    const is_required = !question.hasOwnProperty('required') || question.required;
+
+                    // Find the question's element in the DOM to check its visibility.
+                    const q_element = $(`#add_an_edit #question_${category}_${question.name}`);
+
+                    // We only validate questions that are both required AND currently visible to the user.
+                    if (is_required && q_element.length > 0 && q_element.is(":visible")) {
+                        // Safely get the state for this specific question.
+                        const question_state = (q_state && q_state.hasOwnProperty(question.name)) ? q_state[question.name] : undefined;
+
+                        // FIXED: Determine if this question has sub-questions
+                        // A question has sub-questions if its 'options' property is an array of objects with 'name' properties
+                        const has_sub_questions = Array.isArray(question.options) && 
+                            question.options.length > 0 && 
+                            typeof question.options[0] === 'object' && 
+                            question.options[0].hasOwnProperty('name');
+
+                        let isAnswered = false;
+                        
+                        if (has_sub_questions) {
+                            // For a question with sub-questions, its state is an object.
+                            // The primary answer that reveals the sub-questions is in the 'val' property.
+                            isAnswered = question_state && 
+                                question_state.val !== null && 
+                                question_state.val !== undefined && 
+                                question_state.val !== '';
+                        } else {
+                            // FIXED: For simple questions (including those with string options like 'likert-3'),
+                            // the answer is stored directly in the state object's 'val' property
+                            if (question_state && typeof question_state === 'object' && question_state.hasOwnProperty('val')) {
+                                isAnswered = question_state.val !== null && 
+                                    question_state.val !== undefined && 
+                                    question_state.val !== '';
+                            } else {
+                                // Fallback: check if the state itself is the answer (for simple text inputs)
+                                isAnswered = question_state !== null && 
+                                    question_state !== undefined && 
+                                    question_state !== '';
+                            }
+                        }
+
+                        // If a required, visible question is not answered, the form is invalid.
+                        if (!isAnswered) {
+                            return false;
+                        }
+
+                        // FIXED: If the question is answered AND it has sub-questions, validate them recursively
+                        if (has_sub_questions && isAnswered) {
+                            // Find the selected option configuration
+                            const selected_option = question.options.find(opt => opt.name === question_state.val);
+                            
+                            if (selected_option) {
+                                // Check if the selected option has its own sub-questions
+                                if (selected_option.options && Array.isArray(selected_option.options)) {
+                                    // The sub-questions are in selected_option.options
+                                    if (!check_questions_recursively(selected_option.options, question_state)) {
+                                        return false;
+                                    }
+                                } else if (selected_option.options === 'likert-3' || 
+                                        selected_option.options === 'binary' || 
+                                        selected_option.options === 'textarea' || 
+                                        selected_option.options === 'textbox') {
+                                    // This is a simple question type - check if it's answered
+                                    const sub_answer = question_state[selected_option.name];
+                                    if (sub_answer === null || sub_answer === undefined || sub_answer === '') {
+                                        return false;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+
+                // If we successfully looped through all questions at this level without returning false, this level is valid.
+                return true;
+            }
+
+            // Start the recursive validation from the top-level questions.
+            return check_questions_recursively(questions, this.new_edit_state[category]);
+        },
+        areSpansSelected(item) {
+            if (!item) return false;
+
+            if (item.type === 'composite') {
+                return this.selected_edits.length > 0;
+            }
+
+            // Handles single_span, multi_span, or undefined types
+            const src = this.selected_state.source_span;
+            const tg = this.selected_state.target_span;
+
+            if (item.enable_input && item.enable_output) {
+                return !!(src && tg); // Returns true if both are non-empty
+            } else if (item.enable_input) {
+                return !!src; // Returns true if src is non-empty
+            } else if (item.enable_output) {
+                return !!tg; // Returns true if tg is non-empty
+            }
+
+            // If no spans are required at all for this edit type
+            return true; 
+        },
     },
+    // MODIFIED: The main save button now also checks if the integrated annotation form is valid.
     computed: {
         add_edit_disabled() {
-            if (!this.editor_open) { return true }
-            const selected_state = this.selected_state;
-            const selected_category = $("input[name=edit_cotegory]:checked").val();
-            const config_category = this.config.edits.find((edit) => edit.name === selected_category)
-            if (selected_category == undefined || config_category == undefined) { return true }
+            const force_update = this.force_update; // To trigger re-evaluation
+            if (!this.editor_open) return true;
+            
+            const selected_category = this.selected_category;
+            if (!selected_category) return true;
 
-            // TODO: Support multi-span edits
+            const config_category = this.getEditConfig(selected_category);
+            if (!config_category) return true;
 
-            let filled_out = false
-            if (config_category.type == undefined || config_category.type == 'single_span'  || config_category.type == 'multi_span') {
-                const src = this.selected_state.source_span, tg = this.selected_state.target_span
-                if (config_category['enable_input'] && config_category['enable_output']) {
-                    if (src != null && src != '' && tg != null && tg != '') {
-                        filled_out = true
-                    }
-                } else if (config_category['enable_input']) {
-                    if (src != null && src != '') {
-                        filled_out = true
-                    }
-                } else if (config_category['enable_output']) {
-                    if (tg != null && tg != '') {
-                        filled_out = true
-                    }
+            let spans_filled_out = false;
+            if (config_category.type === 'composite') {
+                if (this.selected_edits.length > 0) spans_filled_out = true;
+            } else { // single_span, multi_span, or undefined
+                const src = this.selected_state.source_span, tg = this.selected_state.target_span;
+                if (config_category.enable_input && config_category.enable_output) {
+                    if (src && tg) spans_filled_out = true;
+                } else if (config_category.enable_input) {
+                    if (src) spans_filled_out = true;
+                } else if (config_category.enable_output) {
+                    if (tg) spans_filled_out = true;
                 } else {
-                    filled_out = true
+                    spans_filled_out = true; // No spans required
                 }
             }
-            if (config_category['type'] == 'composite') {
-                if (this.selected_edits.length > 0) {
-                    filled_out = true
-                }
-            }
-            return !filled_out
+
+            if (!spans_filled_out) return true;
+
+            // Now, also check if the annotation questions are valid
+            const questions_valid = this.isNewAnnotationFormValid(selected_category, config_category.annotation);
+            if (!questions_valid) return true;
+
+            return false; // If we get here, everything is valid.
         }
     }
 }
@@ -376,8 +475,7 @@ export default {
                 <div class="over-hide z-bigger mt2 editor-container">
                     <p class="f3 annotation-label ttu mv1">{{ config.interface_text.annotation_editor.add_edit_header }} <i class="fa-solid fa-plus"></i></p>
                     <div class="row">
-                        <p class="mb2 b tracked-light"><i>{{ config.interface_text.annotation_editor.select_edit_header }}.</i>
-                        </p>
+                        <p class="mb2 b tracked-light"><i>{{ config.interface_text.annotation_editor.select_edit_header }}.</i></p>
                         <div class="tc mb3">
                             <div v-for="item in config.edits" :key="item.id" class="edit-box mr2 dib">
                                 <input @click="show_span_selection" class="checkbox-tools-edit-category checkbox-tools" type="radio" name="edit_cotegory"
@@ -390,21 +488,41 @@ export default {
                         </div>
 
                         <div v-for="item in config.edits" :key="item.id" class="span-selection-div" :data-category="item.name">
-                            <div v-if="item.enable_input">
-                                <p class="mt0 mb2 b tracked-light">{{ config.interface_text.annotation_editor.select_instructions }} <i>{{ config.interface_text.typology.source_label }}</i>.</p>
-                                <p class="tracked-light lh-paras-2">{{ config.interface_text.annotation_editor.selected_label }} {{ config.interface_text.typology.span_unit_name }}: <span v-html="selected_state.source_span"></span></p>
-                            </div>
-                            <div v-if="item.enable_output">
-                                <div class="span-selection-div" :data-category="item.name">
-                                    <p class="mt0 mb2 b tracked-light">{{ config.interface_text.annotation_editor.select_instructions }} <i>{{ config.interface_text.typology.target_label }}</i>.</p>
-                                    <p class="tracked-light lh-paras-2">{{ config.interface_text.annotation_editor.selected_label }} {{ config.interface_text.typology.span_unit_name }}: <span v-html="selected_state.target_span"></span></p>
+                            <div v-if="selected_category === item.name">
+                                <!-- Span Selection Instructions (as before) -->
+                                <div v-if="item.enable_input">
+                                    <p class="mt0 mb2 b tracked-light">{{ config.interface_text.annotation_editor.select_instructions }} <i>{{ config.interface_text.typology.source_label }}</i>.</p>
+                                    <p class="tracked-light lh-paras-2">{{ config.interface_text.annotation_editor.selected_label }} {{ config.interface_text.typology.span_unit_name }}: <span v-html="selected_state.source_span"></span></p>
                                 </div>
-                            </div>
-                            <div v-if="item.type == 'composite'">
-                                <div class="span-selection-div" :data-category="item.name">
-                                    <!-- <p class="mt0 mb2 b tracked-light">Click a split sign <i class="fa-solid fa-grip-lines-vertical fa-lg txt-split"></i> : <span class="txt-split">{{selected_state.split}}</span></p> -->
-                                    <p class="mt0 mb2 b tracked-light">{{ config.interface_text.annotation_editor.composite_seletion_instructions }} {{ item.name }}.</p>
-                                    <p class="tracked-light lh-paras-2">{{ config.interface_text.annotation_editor.selected_label }} {{ config.interface_text.typology.edits_unit_name }}: <span v-html="selected_edits_html"></span></p>
+                                <div v-if="item.enable_output">
+                                        <p class="mt0 mb2 b tracked-light">{{ config.interface_text.annotation_editor.select_instructions }} <i>{{ config.interface_text.typology.target_label }}</i>.</p>
+                                        <p class="tracked-light lh-paras-2">{{ config.interface_text.annotation_editor.selected_label }} {{ config.interface_text.typology.span_unit_name }}: <span v-html="selected_state.target_span"></span></p>
+                                </div>
+                                <div v-if="item.type == 'composite'">
+                                    <div class="span-selection-div" :data-category="item.name">
+                                        <p class="mt0 mb2 b tracked-light">{{ config.interface_text.annotation_editor.composite_seletion_instructions }} {{ item.name }}.</p>
+                                        <p class="tracked-light lh-paras-2">{{ config.interface_text.annotation_editor.selected_label }} {{ config.interface_text.typology.edits_unit_name }}: <span v-html="selected_edits_html"></span></p>
+                                    </div>
+                                </div>
+                                <div v-if="item.annotation && item.annotation.length > 0 && areSpansSelected(item)">
+                                    <hr class="mv3">
+                                    <div>
+                                        <p class="mb2 b tracked-light"><i>Please provide details for this edit.</i></p>
+                                        <div v-for="question in item.annotation" :key="question.id">
+                                            <Question 
+                                                :edit_state="new_edit_state"
+                                                :question_state="new_edit_state[item.name][question.name]" 
+                                                :empty_question_state="empty_edit_state[item.name][question.name]"
+                                                :set_edit_state="set_new_edit_state"
+                                                :question="question" 
+                                                :edit_type="item"
+                                                :config="config" 
+                                                :parent_show_next_question="null" 
+                                                isRoot=true 
+                                                :ref="`new_${item.name}_${question.name}`" 
+                                                :force_update="force_update_f" />
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -442,8 +560,8 @@ export default {
                         </div>
                     </div>
                     <div class="buttons tc">
-                        <button @click="cancel_annotation_click(item.name, $e)" class="cancel-button b quality_button bw0 ba mr2 br-pill-ns grow" type="button">{{ config.interface_text.buttons.cancel_label }} <i class="fa-solid fa-close"></i></button>
-                        <button @click="save_annotation_click(item.name, $e)" class="confirm-button b quality_button bw0 ba ml2 br-pill-ns"
+                        <button @click="cancel_annotation_click(item.name, $event)" class="cancel-button b quality_button bw0 ba mr2 br-pill-ns grow" type="button">{{ config.interface_text.buttons.cancel_label }} <i class="fa-solid fa-close"></i></button>
+                        <button @click="save_annotation_click(item.name, $event)" class="confirm-button b quality_button bw0 ba ml2 br-pill-ns"
                             :class="{'o-40': annotate_edit_disabled(item), 'grow': !annotate_edit_disabled(item)}" :disabled="annotate_edit_disabled(item)">{{ config.interface_text.buttons.save_label }} <i class="fa-solid fa-check"></i></button>
                     </div>
                 </div>
