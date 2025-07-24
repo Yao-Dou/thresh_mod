@@ -2,7 +2,7 @@
     {
         "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
         "target": "她自上周以来又减了四磅。她一直有持续性腹泻。然而，我们原本打算将这些症状作为门诊处理，直到CDI的放射科医生给我打电话，报告称除了上述发现外，CT扫描中还显示有左肺栓塞。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 12,
                 25
@@ -12,7 +12,7 @@
                 40
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 59,
                 78
@@ -26,7 +26,7 @@
     {
         "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
         "target": "自上周以来，她又减了四磅。她一直有持续性腹泻。然而，我们原本准备以门诊方式处理这种情况，直到CDI的放射科医生打电话告诉我，他在CT扫描中除了上述发现外，还发现了一处左肺栓塞。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 13,
                 26
@@ -36,7 +36,7 @@
                 47
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 59,
                 78
@@ -50,7 +50,7 @@
     {
         "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
         "target": "我将暂时停止使用Amaryl，以确保这不会导致他的恶心症状。我将进行Accu-Chek血糖监测和滑动比例胰岛素使用。5. 恶心。我将停止所有麻醉剂和止痛药，仅用Tylenol治疗他。继续服用他的Protonex。我将停止他的Isordil。如上所述，我们将暂时停止他的Amaryl。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 4,
                 18
@@ -64,7 +64,7 @@
                 123
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 16,
                 22
@@ -86,7 +86,7 @@
     {
         "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
         "target": "我将暂时停用阿玛利（Amaryl），以确保这不会导致他的恶心。我会进行Accu-Cheks检测和滑动比例胰岛素调整。5. 恶心。我将停用所有麻醉药和止痛药，仅用泰诺（Tylenol）治疗他。继续使用他的Protonex。停用他的异山梨酯（Isordil）。如上所述，我们将暂时停用他的阿玛利。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 2,
                 21
@@ -100,7 +100,7 @@
                 131
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 16,
                 22
@@ -122,7 +122,7 @@
     {
         "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
         "target": "她也没有对她的克罗恩病进行清晰的切除。4. 高血压。5. 1998年进行了乳房缩小手术。药物：入院时包括：1. 6 MP。2. 利辛普利。3. 避孕药。4. 氢氯噻嗪。5. 维生素B-12。6. 培高啶。7. 地拉诺定。过敏：她对吗啡、磺胺过敏，并对雷米凯德有不良反应。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 52,
                 72
@@ -132,7 +132,7 @@
                 133
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 152,
                 156
@@ -174,7 +174,7 @@
     {
         "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
         "target": "她还没有接受克罗恩病的清除手术。 4. 高血压。 5. 1998 年进行了乳房缩小手术。 用药情况：入院时包括： 1. 6-巯基嘌呤。 2. 利辛普利。 3. 避孕药。 4. 羟氯噻嗪。 5. 维生素 B-12。 6. 珍珠妥英。 7. 地尔托定。 过敏史：她对吗啡、磺胺和雷米凯德有过敏反应。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 56,
                 79
@@ -188,7 +188,7 @@
                 145
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 152,
                 156
@@ -230,7 +230,7 @@
     {
         "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
         "target": "在所有这些情况下，我们的政策是根据法律要求进行合作，但仅提供法律要求的信息。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 5,
                 15
@@ -240,7 +240,7 @@
                 38
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 20,
                 23
@@ -262,7 +262,7 @@
     {
         "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
         "target": "在所有这些情况下，我们的政策是根据法律要求进行合作，但仅提供法律要求的相关信息。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 5,
                 16
@@ -272,7 +272,7 @@
                 40
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 20,
                 23
@@ -294,13 +294,13 @@
     {
         "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
         "target": "法律确实允许我们在我们合理认为存在涉及死亡或严重身体伤害的紧急情况，需要立即披露而无需事先通知的情况下，自愿且不事先通知地向执法部门披露客户信息，包括通信内容。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 2,
                 80
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 20,
                 22
@@ -338,13 +338,13 @@
     {
         "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
         "target": "该法律确实允许我们在自愿且未事先通知的情况下，向执法部门披露客户信息，包括通信内容，如果我们合理地认为存在涉及死亡或严重身体伤害的紧急情况，需要立即披露而不能拖延。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 3,
                 82
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 20,
                 22
@@ -382,7 +382,7 @@
     {
         "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
         "target": "石油集团Equinor公布了创纪录的税前利润，并表示将提高股息和股票回购规模。在金融领域，Amundi超额完成其战略目标，ABN Amro在净利润激增后宣布进行5亿欧元的股票回购。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 15
@@ -396,7 +396,7 @@
                 73
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 10,
                 17
@@ -414,7 +414,7 @@
     {
         "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
         "target": "石油集团挪威国家石油公司（Equinor）公布了创纪录的税前利润，并表示将提高股息和股票回购。在金融业方面，安本集团（Amundi）超额完成其战略目标，荷兰合作银行（ABN Amro）在净利润大幅增长后宣布进行5亿欧元的股票回购。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 25
@@ -428,7 +428,7 @@
                 96
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 10,
                 17
@@ -446,13 +446,13 @@
     {
         "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
         "target": "\"油价需求……看看最新数据，仍然一切正常。我们曾预计会有一些需求减少，但实际上并没有发生，”Gunvor 集团的全球市场研究和分析部门负责人弗雷德里克·拉塞尔（Frederic Lasserre）说。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 42,
                 59
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 210,
                 222
@@ -462,13 +462,13 @@
     {
         "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
         "target": "“油价需求……如果你查看最新数据，仍然还可以。我们预计会有一些需求破坏，但实际上并没有发生，”Gunvor集团全球市场研究和分析总监弗雷德里克·拉塞尔（Frederic Lasserre）说。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 43,
                 59
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 210,
                 222
@@ -478,13 +478,13 @@
     {
         "source": "\"The partnership not only demonstrates that our platform business is highly competitive, but also that the MEB is well on track to become one of the leading open platforms for e-mobility.\"",
         "target": "“此次合作不仅证明了我们的平台业务具有高度竞争力，还表明MEB正稳步迈向成为电动汽车领域领先的开放平台之一。”",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 24,
                 35
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 107,
                 110
@@ -494,13 +494,13 @@
     {
         "source": "\"The partnership not only demonstrates that our platform business is highly competitive, but also that the MEB is well on track to become one of the leading open platforms for e-mobility.\"",
         "target": "“这种合作不仅证明了我们的平台业务具有高度竞争力，而且也表明MEB正稳步迈向成为电动汽车领域领先的开放平台之一。”",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 26,
                 37
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 107,
                 110
@@ -510,13 +510,13 @@
     {
         "source": "Calling the surge in defense aircraft orders \"exceptional,\" Ian Shepherdson, chief economist at Pantheon Macroeconomics, adds \"the surge in the headline does not change the bigger picture of a slowdown in spending, but it has not reached recession-type proportions.\" ",
         "target": "将国防飞机订单的激增称为“异常现象”，Pantheon Macroeconomics 的首席经济学家伊恩·谢泼德森补充道：“虽然标题中的激增并未改变支出放缓的整体趋势，但目前尚未达到经济衰退的程度。”",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 15,
                 46
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 96,
                 119
@@ -526,13 +526,13 @@
     {
         "source": "Calling the surge in defense aircraft orders \"exceptional,\" Ian Shepherdson, chief economist at Pantheon Macroeconomics, adds \"the surge in the headline does not change the bigger picture of a slowdown in spending, but it has not reached recession-type proportions.\" ",
         "target": "将国防飞机订单激增称为“非同寻常”，宏观经济学公司（Pantheon Macroeconomics）首席经济学家伊恩·谢泼德森补充道：“标题中的激增并未改变支出放缓的整体局面，但尚未达到经济衰退的程度。”",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 14,
                 54
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 96,
                 119
@@ -542,13 +542,13 @@
     {
         "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
         "target": "业务收购 于2012年4月2日，我们收购了几乎所有Green River Collieries, LLC（“Green River”）与其位于韦伯斯特和霍普金斯县，肯塔基州相关的煤矿业务和运营资产。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 99
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 11
@@ -586,13 +586,13 @@
     {
         "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
         "target": "业务收购 2012年4月2日，本公司收购了Green River Collieries, LLC（“Green River”）在肯塔基州韦伯斯特县和霍普金斯县与其煤炭采矿业务及运营相关的实质性全部资产。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 94
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 11
@@ -630,7 +630,7 @@
     {
         "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
         "target": "保诚保险 以 股票 的形式出价 268 亿美元，但是在宣布后 保诚保险 的 股票 大幅下跌，出价减少到仅略高于 200 亿美元。接着，AIG 进入并提出 230 亿美元 的出价，被 美国通用保险 接受。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 27
@@ -644,7 +644,7 @@
                 101
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 12
@@ -686,7 +686,7 @@
     {
         "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
         "target": "保诚以 265 亿美元的股票出价最初被降低到略高于 200 亿美元，当时在宣布后保诚的股价暴跌。然后，AIG介入并提供了230亿美元的出价，被美国通用保险公司接受。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 8,
                 20
@@ -696,7 +696,7 @@
                 82
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 12
@@ -738,7 +738,7 @@
     {
         "source": "Tetra Technologies ( TTI ) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term .",
         "target": "四氢科技 (TTI) 在上一交易日的股价出现飙升，交易量高于平均水平。近期盈利预测的修正趋势可能不会在短期内转化为进一步的价格上涨。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 14
@@ -752,7 +752,7 @@
                 43
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 26
@@ -774,7 +774,7 @@
     {
         "source": "Tetra Technologies ( TTI ) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term .",
         "target": "四方科技（TTI）在上一交易日股价飙升，交易量高于平均水平。最新的盈利预期修正趋势可能不会在短期内转化为进一步的价格上涨。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 27
@@ -784,7 +784,7 @@
                 41
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 26
@@ -806,7 +806,7 @@
     {
         "source": "Customer Privacy Under Wisconsin and federal law and regulations , savings banks , such as WaterStone Bank , are required to develop and maintain privacy policies relating to information on its customers , restrict access to and establish procedures to protect customer data .",
         "target": "在 威斯康星州 和联邦法律及法规的约束下，储蓄银行（如 WaterStone 银行）必须制定并维护与客户 信息 相关的隐私政策，限制对 客户 数据的访问，并建立保护数据的程序。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 11
@@ -824,7 +824,7 @@
                 74
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 23,
                 32
@@ -850,7 +850,7 @@
     {
         "source": "Customer Privacy Under Wisconsin and federal law and regulations , savings banks , such as WaterStone Bank , are required to develop and maintain privacy policies relating to information on its customers , restrict access to and establish procedures to protect customer data .",
         "target": "在威斯康星州和联邦法律及法规之下，储蓄银行，如沃特斯通银行，必须制定并维护与客户信息相关的隐私政策，限制对客户数据的访问，并建立保护客户数据的程序。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 10
@@ -868,7 +868,7 @@
                 72
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 23,
                 32
@@ -894,13 +894,13 @@
     {
         "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
         "target": "在Epic攻击中使用的主要后门也被称为“WorldCupSec”、“TadjMakhal”、“Wipbot”或“Tavdig”。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 49
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 20
@@ -922,13 +922,13 @@
     {
         "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
         "target": "史诗攻击中使用的主要后门也被称为“WorldCupSec”、“TadjMakhal”、“Wipbot”或“Tavdig”。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 16
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 20
@@ -950,7 +950,7 @@
     {
         "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
         "target": "史诗级后门 受到 一个庞大的黑客服务器网络的控制，该网络可以 提供 命令和控制功能。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 25
@@ -960,7 +960,7 @@
                 42
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 18
@@ -986,13 +986,13 @@
     {
         "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
         "target": "Epic 后门由一个巨大的被黑客入侵的服务器网络控制，该网络提供命令和控制功能。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 40
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 18
@@ -1018,13 +1018,13 @@
     {
         "source": "Here 's a look at one of the encrypted server replies : Once a victim is infected and '' checks in '' with the server , the attackers send a template of commands : Next , the attackers try to move through the victim 's network using pre-defined or collected passwords : Listing all .doc",
         "target": "以下是加密服务器回复的一个示例：一旦受害者被感染并“签到”与服务器联系，攻击者就会发送命令模板：接下来，攻击者试图移动穿过受害者的网络，使用预定义的或收集到的密码：列出所有 .doc 文件。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 14,
                 85
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 61,
                 69
@@ -1086,13 +1086,13 @@
     {
         "source": "Here 's a look at one of the encrypted server replies : Once a victim is infected and '' checks in '' with the server , the attackers send a template of commands : Next , the attackers try to move through the victim 's network using pre-defined or collected passwords : Listing all .doc",
         "target": "以下是其中一个加密服务器回复的示例：一旦受害者感染并“签到”服务器，攻击者会发送一个命令模板：接下来，攻击者会尝试使用预定义的或收集到的密码在受害者的网络中移动：列出所有 .doc 文件。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 16,
                 84
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 61,
                 69
@@ -1154,13 +1154,13 @@
     {
         "source": "Deployed to the system via a compressed bundle containing the official GOM Player setup binary and a self-extracting RAR archive containing the malicious files , the malware consists of a number of individual pieces .",
         "target": "已部署到该系统，方式是一个压缩包，其中包含官方的 GOM Player 安装程序二进制文件和一个自解压的 RAR 存档文件，后者包含恶意文件，该恶意软件由多个独立的组件组成。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 80
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 8
@@ -1190,7 +1190,7 @@
     {
         "source": "Deployed to the system via a compressed bundle containing the official GOM Player setup binary and a self-extracting RAR archive containing the malicious files , the malware consists of a number of individual pieces .",
         "target": "该恶意软件通过一个压缩包部署到系统中，压缩包包含官方 GOM Player 安装程序的二进制文件和一个自解压 RAR 存档，其中包含恶意文件。恶意软件由多个独立组件组成。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 1,
                 22
@@ -1200,7 +1200,7 @@
                 79
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 8
@@ -1230,13 +1230,13 @@
     {
         "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
         "target": "但是另一个今天被推出，所以这个问题可能终于被彻底解决了。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 28
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 4,
                 15
@@ -1262,13 +1262,13 @@
     {
         "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
         "target": "但今天又推出了另一个版本，所以问题很可能终于被彻底解决了。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 29
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 4,
                 15
@@ -1294,13 +1294,13 @@
     {
         "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
         "target": "当 微软 发布补丁 时，它感谢了 FireEye 研究员汉森和自己的员工。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 13
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 5,
                 14
@@ -1314,13 +1314,13 @@
     {
         "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
         "target": "当微软进行补丁修复时，它感谢了FireEye的研究员汉森以及自己的工作人员。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 13
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 5,
                 14
@@ -1334,7 +1334,7 @@
     {
         "source": "In the Pastebin statement, TDO says he released the ten \"Orange Is The New Black\" episodes because Netflix didn't want to pay a ransom demand.",
         "target": "在 Pastebin 的声明中，TDO 表示他发布了十集《女子监狱》，因为 Netflix 不愿支付赎金要求。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 12,
                 23
@@ -1344,7 +1344,7 @@
                 55
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 27,
                 30
@@ -1362,7 +1362,7 @@
     {
         "source": "In the Pastebin statement, TDO says he released the ten \"Orange Is The New Black\" episodes because Netflix didn't want to pay a ransom demand.",
         "target": "在Pastebin声明中，TDO表示他发布了十集《女子监狱》，是因为Netflix不愿意支付赎金要求。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 9,
                 20
@@ -1372,7 +1372,7 @@
                 51
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 27,
                 30
@@ -1390,13 +1390,13 @@
     {
         "source": "Hotel brands that have acknowledged card breaches over the last year after prompting by KrebsOnSecurity include Kimpton Hotels, Trump Hotels (twice), Hilton, Mandarin Oriental, and White Lodging (twice).",
         "target": "在过去一年中，由于 KrebsOnSecurity 的敦促，已承认发生信用卡信息泄露的酒店品牌包括：金普顿酒店、特朗普酒店（两次）、希尔顿、文华东方酒店和怀特酒店集团（两次）。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 31,
                 87
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 12
@@ -1434,7 +1434,7 @@
     {
         "source": "Hotel brands that have acknowledged card breaches over the last year after prompting by KrebsOnSecurity include Kimpton Hotels, Trump Hotels (twice), Hilton, Mandarin Oriental, and White Lodging (twice).",
         "target": "在过去一年中，在 KrebsOnSecurity 提醒后承认发生银行卡数据泄露的酒店品牌包括 Kimpton 酒店、特朗普酒店（两次）、希尔顿酒店、文华东方酒店以及 White Lodging（两次）。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 10
@@ -1444,7 +1444,7 @@
                 100
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 12
@@ -1482,13 +1482,13 @@
     {
         "source": "The final stage in the development of the Skyfox was the production of a model with tricycle landing gear to better cater for the pilot training market .",
         "target": "Skyfox 开发的最后阶段是生产配备三轮起落架的型号，以更好地满足飞行员培训市场的需求。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 10
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 42,
                 48
@@ -1498,13 +1498,13 @@
     {
         "source": "The final stage in the development of the Skyfox was the production of a model with tricycle landing gear to better cater for the pilot training market .",
         "target": "Skyfox 研发的最后阶段是生产一种配备三轮起落架的机型，以更好地满足飞行员培训市场的需求。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 10
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 42,
                 48
@@ -1514,13 +1514,13 @@
     {
         "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
         "target": "这部戏剧原本将回到 美国，最初计划于 百老汇 的 尼德兰剧院 于 2020 年 3 月 7 日开始预演，正式演出日期为 3 月 26 日。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 6,
                 34
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 33,
                 46
@@ -1538,7 +1538,7 @@
     {
         "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
         "target": "该剧原本计划于2020年3月7日在尼德兰剧院的百老汇进行预演，并于3月26日正式开幕，现计划重返美国。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 13,
                 30
@@ -1548,7 +1548,7 @@
                 51
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 33,
                 46
@@ -1566,13 +1566,13 @@
     {
         "source": "The Israeli Labor Party ( , translit .",
         "target": "以色列工党 ( , translit .",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 9
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 4,
                 23
@@ -1582,13 +1582,13 @@
     {
         "source": "The Israeli Labor Party ( , translit .",
         "target": "以色列工党（希伯来语：מִפְלָגַת הָעֲבוֹדָה‎, translit. Mifleget haAvoda） is a center-left political party in Israel. It was founded in 1968 as a merger of several socialist and labor Zionist parties. Historically, it was the dominant party in Israeli politics, controlling the government for much of the country's early history. However, in recent decades, it has declined in popularity and influence, largely due to the rise of right-wing parties and the changing demographics of Israeli society. The party advocates for a two-state solution to the Israeli-Palestinian conflict, social justice, and economic equality. It is currently led by Merav Michaeli. Despite its decline, it remains a significant force in Israeli politics and is often part of coalition governments. The party's base of support traditionally comes from secular Jews, labor unions, and kibbutzim.\n\n\n\n希伯来语：מִפְלָגַת הָעֲבוֹדָה‎, translit. Mifleget haAvoda）是以色列的一个中左翼政党。它成立于 1968 年，是几个社会主义和劳动先锋 Zionist 政党的合并体。历史上，它是以色列政治中占主导地位的政党，在以色列建国初期控制着政府很长一段时间。然而，在近几十年里，由于右翼政党的崛起和以色列社会人口结构的变化，它的受欢迎程度和影响力有所下降。该党倡导通过两国方案解决以巴冲突，追求社会公正和经济平等。目前由梅拉夫·米哈埃利领导。尽管有所衰落，它仍然是以色列政治中的一支重要力量，并且经常是联合政府的一部分。该党的支持基础传统上来自世俗犹太人、工会和集体农庄。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 9
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 4,
                 23
@@ -1598,7 +1598,7 @@
     {
         "source": "Chopawamsic was an 18th-century plantation on Chopawamsic Creek in Stafford County , Virginia .",
         "target": "Chopawamsic 是 18 世纪位于 弗吉尼亚州 Stafford County 的 Chopawamsic Creek 河畔的一座种植园。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 15
@@ -1608,7 +1608,7 @@
                 67
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 11
@@ -1630,13 +1630,13 @@
     {
         "source": "Chopawamsic was an 18th-century plantation on Chopawamsic Creek in Stafford County , Virginia .",
         "target": "Chopawamsic 是弗吉尼亚州斯塔福德县 Chopawamsic 小溪附近的一处 18 世纪种植园。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 42
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 11
@@ -1658,7 +1658,7 @@
     {
         "source": "The Letter from Birmingham Jail , also known as the Letter from Birmingham City Jail and The Negro Is Your Brother , is an open letter written on April 16 , 1963 , by Martin Luther King Jr . The letter defends the strategy of nonviolent resistance to racism . It says that people have a moral responsibility to break unjust laws and to take direct action rather than waiting potentially forever for justice to come through the courts . Responding to being referred to as an `` outsider , '' King writes , `` Injustice anywhere is a threat to justice everywhere '' . The letter , written during the 1963 Birmingham campaign , was widely published , and became an important text for the American Civil Rights Movement .",
         "target": "《伯明翰监狱来信》，也称为《伯明翰市监狱来信》和《黑人是你的兄弟》，是马丁·路德·金于1963年4月16日所写的一封公开信。该信捍卫了非暴力抵抗种族主义的策略。信中指出，人们有以道义责任去打破不公正法律并采取直接行动，而不是可能永远等待司法通过法庭伸张正义。对于被称为“局外人”的回应，金写道：“任何地方的不公正都是对所有地方正义的威胁。”这封信是在1963年伯明翰运动期间写成的，经过广泛发表，成为美国民权运动的重要文本。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 63,
                 83
@@ -1668,7 +1668,7 @@
                 132
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 210,
                 257
@@ -1682,7 +1682,7 @@
     {
         "source": "The Letter from Birmingham Jail , also known as the Letter from Birmingham City Jail and The Negro Is Your Brother , is an open letter written on April 16 , 1963 , by Martin Luther King Jr . The letter defends the strategy of nonviolent resistance to racism . It says that people have a moral responsibility to break unjust laws and to take direct action rather than waiting potentially forever for justice to come through the courts . Responding to being referred to as an `` outsider , '' King writes , `` Injustice anywhere is a threat to justice everywhere '' . The letter , written during the 1963 Birmingham campaign , was widely published , and became an important text for the American Civil Rights Movement .",
         "target": "《伯明翰监狱来信》，也被称为《伯明翰市监狱来信》和《黑人是你的兄弟》，是马丁·路德·金于1963年4月16日写的一封公开信。信中捍卫了非暴力抵抗种族主义的策略。信中指出，人们有道德责任打破不公正的法律，并采取直接行动，而不是可能永远等待法院实现正义。对于被称为“局外人”的回应，金写道：“任何地方的不公正都是对所有地方正义的威胁。”这封信写于1963年伯明翰运动期间，广为传播，成为美国民权运动的重要文本。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 63,
                 83
@@ -1692,7 +1692,7 @@
                 128
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 210,
                 257
@@ -1706,7 +1706,7 @@
     {
         "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
         "target": "莫亨佐-达罗建于公元前26世纪，是古代印度河谷文明（也称哈拉帕文明）最大的城市之一。印度河谷文明大约在公元前3000年从史前印度河文化发展而来。在其鼎盛时期，印度河谷文明覆盖了现在巴基斯坦和印度北部的大部分地区，向西延伸到伊朗边境，向南延伸到印度的古吉拉特邦，向北延伸到巴克特里亚的前哨，主要城市中心包括哈拉帕、莫亨佐-达罗、洛塔尔、卡利班甘、德霍拉维拉和拉基加尔希。莫亨佐-达罗是当时最先进的城市，具有惊人的复杂的土木工程和城市规划。公元前1900年左右，当印度河谷文明突然衰落时，莫亨佐-达罗被废弃。该城市的遗址在3700多年里一直没有被记录，直到1919年至1920年，印度考古调查局的官员R.D. Banerji访问了该遗址，确定了当地的佛塔（公元150-500年）并发现了一件石刮刀，使他相信该遗址的古老性。这导致了由卡辛纳特·纳拉扬·迪克希特在1924年至1925年和约翰·马歇尔在1925年至1926年领导的莫亨佐-达罗的大规模挖掘。在20世纪30年代，在马歇尔、D.K. 迪克希塔和欧内斯特·麦凯的领导下，在该遗址进行了大规模的挖掘。1945年，阿哈迈德·哈桑·达尼和莫蒂默·惠勒进行了进一步的挖掘。最后一系列大规模挖掘是在1964年和1965年由乔治·F·戴尔斯博士领导进行的。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 360,
                 381
@@ -1724,7 +1724,7 @@
                 502
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 1153,
                 1178
@@ -1758,7 +1758,7 @@
     {
         "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
         "target": "莫亨佐-达罗是在公元前26世纪建造的。它是古代印度河谷文明（也称哈拉帕文明）最大的城市之一，印度河谷文明大约在公元前3000年从史前印度河文化发展而来。在其鼎盛时期，印度河文明覆盖了现在巴基斯坦和北印度的大部分地区，向西延伸到伊朗边境，向南延伸到印度的古吉拉特邦，向北延伸到巴克特里亚的前哨站，主要城市中心分别是哈拉帕、莫亨佐-达罗、洛塔尔、卡利班甘、德霍拉维拉和拉基加尔希。莫亨佐-达罗是当时最先进的城市，具有非常先进的土木工程和城市规划。印度河文明在公元前1900年左右突然衰落，莫亨佐-达罗被废弃。城市的遗址在3700多年里没有被记录，直到1919-20年，印度考古调查局的官员R.D. Banerji访问了该遗址，确认了当地的佛塔（公元150-500年）并发现了一件石刮刀，这使他相信该遗址的古老性。这导致了1924-25年由Kashinath Narayan Dikshit领导和1925-26年由John Marshall领导的大规模挖掘。20世纪30年代，在Marshall、D.K. Dikshitar和Ernest Mackay的领导下，对该遗址进行了大规模的挖掘。1945年，Ahmad Hasan Dani和Mortimer Wheeler进行了进一步的挖掘。最后一次大规模挖掘是在1964年和1965年由乔治·F·戴尔斯博士进行的。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 363,
                 396
@@ -1780,7 +1780,7 @@
                 576
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 1153,
                 1178
@@ -1814,7 +1814,7 @@
     {
         "source": "When he would tour , staying in hotels , `` the rooms would be remodeled in advance of his arrival , so as to make the same configurations of space as he had at home -- the Graceland mansion . His furniture would arrive , and he could unwind after his performances in surroundings which were completely familiar and comforting , '' the room in question , ' The Jungle Room ' being `` an example of particularly lurid kitsch . '' On August 16 , 1977 , Presley died in the bathroom at Graceland allegedly of a heart attack . Elvis Presley lay in state in a 900 - pound copper - lined coffin just inside the foyer while over 3,500 of Elvis ' mourning fans passed by to pay their respects . A private funeral with 200 mourners was held on August 18 , 1977 in the house , with the casket placed in front of the stained glass doorway of the music room . Graceland continued to be occupied by members of the family until the death of Elvis ' aunt Delta in 1993 , who had moved in at Elvis ' invitation after her husband 's death . Elvis ' daughter , Lisa Marie Presley , inherited the estate in 1993 when she turned 25 . Presley , his parents Gladys & Vernon Presley , and his grandmother Minnie Mae Presley are buried on the property in the Meditation Garden . A memorial gravestone for Presley 's stillborn twin brother , Jesse Garon , is also at the site . Graceland was listed in the National Register of Historic Places on November 7 , 1991 and designated a National Historic Landmark on March 27 , 2006 Graceland was the first site related to rock and roll to be entered in the National Register of Historic Places .",
         "target": "当他巡演时，入住酒店时，“他的房间会在他到达之前进行改造，以便使其空间配置与他在家的 Graceland 豪宅相同——他的家具会运到，他可以在完全熟悉和舒适的环境中，在演出后放松身心，” 那个房间，名为“丛林房间”，就是一个“尤其艳俗的俗气典范”。1977年8月16日，普雷斯利在 Graceland 的浴室里被指控死于心脏病。埃尔维斯·普雷斯利躺在一个重达 900 磅、内衬铜的棺材里，就在门厅内，超过 3500 名哀悼的粉丝经过，前来致敬。1977年8月18日，在房子里举行了一个有200名哀悼者参加的私人葬礼，棺材被放置在音乐室的彩色玻璃门前。Graceland 一直被家人居住，直到 1993 年埃尔维斯的姑姑 Delta 去世，她在丈夫去世后应埃尔维斯的邀请搬了进去。埃尔维斯的女儿 Lisa Marie Presley 在 1993 年她 25 岁时继承了遗产。普雷斯利、他的父母 Gladys & Vernon Presley，以及他的祖母 Minnie Mae Presley 被埋葬在 Graceland 的冥想花园里。普雷斯利死产的双胞胎兄弟杰西·加隆的纪念墓碑也在该地点。Graceland 于 1991 年 11 月 7 日被列入国家历史名录，并于 2006 年 3 月 27 日被指定为国家历史地标。Graceland 是第一个与摇滚乐相关的被列入国家历史名录的地点。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 383,
                 424
@@ -1824,7 +1824,7 @@
                 450
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 1114,
                 1121
@@ -1842,13 +1842,13 @@
     {
         "source": "When he would tour , staying in hotels , `` the rooms would be remodeled in advance of his arrival , so as to make the same configurations of space as he had at home -- the Graceland mansion . His furniture would arrive , and he could unwind after his performances in surroundings which were completely familiar and comforting , '' the room in question , ' The Jungle Room ' being `` an example of particularly lurid kitsch . '' On August 16 , 1977 , Presley died in the bathroom at Graceland allegedly of a heart attack . Elvis Presley lay in state in a 900 - pound copper - lined coffin just inside the foyer while over 3,500 of Elvis ' mourning fans passed by to pay their respects . A private funeral with 200 mourners was held on August 18 , 1977 in the house , with the casket placed in front of the stained glass doorway of the music room . Graceland continued to be occupied by members of the family until the death of Elvis ' aunt Delta in 1993 , who had moved in at Elvis ' invitation after her husband 's death . Elvis ' daughter , Lisa Marie Presley , inherited the estate in 1993 when she turned 25 . Presley , his parents Gladys & Vernon Presley , and his grandmother Minnie Mae Presley are buried on the property in the Meditation Garden . A memorial gravestone for Presley 's stillborn twin brother , Jesse Garon , is also at the site . Graceland was listed in the National Register of Historic Places on November 7 , 1991 and designated a National Historic Landmark on March 27 , 2006 Graceland was the first site related to rock and roll to be entered in the National Register of Historic Places .",
         "target": "当他巡演并在酒店住宿时，“他的房间会在他到达之前提前翻新，以使其空间配置与他在家的格雷斯兰豪宅相同。他的家具会运到，他可以在完全熟悉和舒适的环境中在演出后放松，” 提到的房间，“丛林屋”就是一个“特别艳俗的俗气例子”。1977年8月16日，普雷斯利在格雷斯兰的浴室里被认为因心脏病发作而去世。埃尔维斯·普雷斯利躺在一个900磅重的铜制棺材里，就在门厅内，超过3500名哀悼的粉丝前来瞻仰遗容。一场有200名哀悼者参加的私人葬礼于1977年8月18日在房子里举行，棺材被放置在音乐室的彩色玻璃门前。格雷斯兰一直被家人居住，直到1993年埃尔维斯的阿姨戴尔塔去世，她是在她丈夫去世后应埃尔维斯的邀请搬进去的。埃尔维斯的女儿丽莎·玛丽·普雷斯利在1993年她25岁时继承了遗产。普雷斯利、他的父母格拉迪斯和弗农·普雷斯利，以及他的祖母米妮·梅·普雷斯利被埋葬在房产内的冥想花园。普雷斯利死产的双胞胎弟弟杰西·加伦的纪念墓碑也在该地点。格雷斯兰于1991年11月7日被列入国家历史名录，并于2006年3月27日被指定为国家历史地标。格雷斯兰是第一个与摇滚乐相关的被列入国家历史名录的地点。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 332,
                 377
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 1114,
                 1121
@@ -1866,13 +1866,13 @@
     {
         "source": "Alternating current ( AC ) is an electric current which periodically reverses direction , in contrast to direct current ( DC ) which flows only in one direction . Alternating current is the form in which electric power is delivered to businesses and residences , and it is the form of electrical energy that consumers typically use when they plug kitchen appliances , televisions and electric lamps into a wall socket . A common source of DC power is a battery cell in a flashlight . The abbreviations AC and DC are often used to mean simply alternating and direct , as when they modify current or voltage . The usual waveform of alternating current in most electric power circuits is a sine wave . In certain applications , different waveforms are used , such as triangular or square waves . Audio and radio signals carried on electrical wires are also examples of alternating current . These types of alternating current carry information encoded ( or modulated ) onto the AC signal , such as sound ( audio ) or images ( video ) . These currents typically alternate at higher frequencies than those used in power transmission .",
         "target": "交流电（AC）是一种周期性改变方向的电流，与直流电（DC）仅沿一个方向流动形成对比。交流电是电力输送到商业和住宅的常用形式，也是消费者将厨房电器、电视和电灯插入墙式插座时通常使用的电能形式。手电筒中的电池单元是直流电的常见来源。“AC”和“DC”的缩写经常用来简单地表示“交流”和“直流”，例如在它们修饰电流或电压时。在大多数电力电路中，交流电的典型波形是正弦波。在某些应用中，会使用不同的波形，如三角波或方波。通过电线传输的音频和无线电信号也是交流电的例子。这些类型的交流电承载了编码（或调制）在交流信号上的信息，例如声音（音频）或图像（视频）。这些电流的交变频率通常高于电力传输中使用的频率。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 41
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 87
@@ -1886,13 +1886,13 @@
     {
         "source": "Alternating current ( AC ) is an electric current which periodically reverses direction , in contrast to direct current ( DC ) which flows only in one direction . Alternating current is the form in which electric power is delivered to businesses and residences , and it is the form of electrical energy that consumers typically use when they plug kitchen appliances , televisions and electric lamps into a wall socket . A common source of DC power is a battery cell in a flashlight . The abbreviations AC and DC are often used to mean simply alternating and direct , as when they modify current or voltage . The usual waveform of alternating current in most electric power circuits is a sine wave . In certain applications , different waveforms are used , such as triangular or square waves . Audio and radio signals carried on electrical wires are also examples of alternating current . These types of alternating current carry information encoded ( or modulated ) onto the AC signal , such as sound ( audio ) or images ( video ) . These currents typically alternate at higher frequencies than those used in power transmission .",
         "target": "交流电（AC）是一种周期性改变方向的电流，与只朝一个方向流动的直流电（DC）形成对比。交流电是电力输送到企业及住宅的形式，也是消费者将厨房用具、电视机和电灯插入墙上的插座时通常使用的电能形式。一个常见的直流电源是手电筒中的电池。缩写 AC 和 DC 常常用来简单表示交流和直流，例如当它们修饰电流或电压时。在大多数电力电路中，交流电的常用波形为正弦波。在某些应用中，会使用不同的波形，例如三角波或方波。通过电线传输的音频和无线电信号也是交流电的例子。这些类型的交流电将信息编码（或调制）到交流信号中，例如声音（音频）或图像（视频）。这些电流的频率通常高于用于电力传输的频率。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 42
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 87
@@ -1906,13 +1906,13 @@
     {
         "source": "Comets may possibly have been a source of water delivery to the earth along with organic matter that can form proteins and support life. Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.",
         "target": "彗星可能是地球水源的来源之一，同时也携带有机物质，这些有机物质可以形成蛋白质并支持生命。科学家希望了解行星是如何形成的，尤其是地球是如何形成的，因为彗星很久以前就与地球发生了碰撞。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 47,
                 75
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 167,
                 216
@@ -1922,13 +1922,13 @@
     {
         "source": "Comets may possibly have been a source of water delivery to the earth along with organic matter that can form proteins and support life. Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.",
         "target": "彗星可能是向地球输送水源的来源之一，同时也携带有机物质，这些有机物质可以形成蛋白质并支持生命。科学家们希望了解行星是如何形成的，特别是地球的形成，因为彗星很久以前曾与地球相撞。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 51,
                 76
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 167,
                 216
@@ -1938,13 +1938,13 @@
     {
         "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
         "target": "在其巅峰时期，热带气旋贡努（以马尔代夫语言中一袋棕榈叶的名称命名），达到持续风速为240公里每小时（149英里每小时）。截至今日早晨，风速约为83公里每小时，预计将继续减弱。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 37,
                 63
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 127,
                 170
@@ -1954,13 +1954,13 @@
     {
         "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
         "target": "巅峰时期，命名为“冈努”的热带气旋，其名称来源于马尔代夫语中的一种棕榈叶袋，风速达到每小时240公里（149英里）。截至今日早晨，风速已降至每小时83公里，预计将继续减弱。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 38,
                 61
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 127,
                 170
@@ -1970,13 +1970,13 @@
     {
         "source": "The aircraft had been headed to Irkutsk and was being operated by interior troops. An inquiry was established to investigate. The Il-76 has been a major component of both the Russian and Soviet military since the 1970s, and had already seen a serious accident in Russia last month. On October 7 an engine separated on takeoff, without injuries. Russia briefly grounded Il-76s after that accident.",
         "target": "该飞机原定前往伊尔库茨克，由内卫部队操作。 已经成立调查组进行调查。 自 1970 年代以来，伊尔-76 一直是俄罗斯和苏联军队的重要组成部分，并且上个月俄罗斯已经发生了一起严重事故。 10 月 7 日，一架飞机在起飞时发动机分离，无人受伤。 俄罗斯在那次事故后短暂停飞了伊尔-76 型飞机。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 124,
                 134
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 387,
                 395
@@ -1986,13 +1986,13 @@
     {
         "source": "The aircraft had been headed to Irkutsk and was being operated by interior troops. An inquiry was established to investigate. The Il-76 has been a major component of both the Russian and Soviet military since the 1970s, and had already seen a serious accident in Russia last month. On October 7 an engine separated on takeoff, without injuries. Russia briefly grounded Il-76s after that accident.",
         "target": "该飞机正前往伊尔库茨克，由内卫部队操作。已成立调查组进行调查。伊尔-76自 1970 年代以来一直是俄罗斯和苏联军队的重要组成部分，上个月俄罗斯已经发生了一起严重的伊尔-76事故。10 月 7 日，一架飞机在起飞时发动机分离，无人受伤。事故发生后，俄罗斯曾短暂停飞伊尔-76飞机。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 114,
                 124
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 387,
                 395
@@ -2002,13 +2002,13 @@
     {
         "source": "This not only confirms that at least some dinosaurs had feathers, a theory already widespread, but provides details fossils generally cannot, such as color and three-dimensional arrangement. . Scientists say this animal's plumage was chestnut-brown on top with a pale or carotenoid-colored underside. The find also grants insight into the evolution of feathers in birds. Because the dinosaur feathers do not have a well-developed shaft, called a rachis, but do have other features of feathers — barbs and barbules — the researchers inferred the rachis was likely a later evolutionary development that these other features. The feathers' structure suggests that they were not used in flight but rather for temperature regulation or display. The researchers suggested that, even though this is the tail of a young dinosaur, the sample shows adult plumage and not a chick's down. The researchers suggested that, even though this is the tail of a young dinosaur, the sample shows adult plumage and not a chick's down.",
         "target": "这不仅证实了至少一些恐龙有羽毛，这一理论早已广为流传，还提供了一般化石无法提供的细节，例如颜色和三维排列。科学家表示，这种动物的羽毛顶部呈栗色，底部为浅色或类胡萝卜素色。这一发现还揭示了鸟类羽毛的进化过程。由于这种恐龙的羽毛没有发育良好的中轴，即所谓的 羽轴，但却具有其他羽毛的特征——羽枝和羽小枝——研究人员推断，羽轴可能是这些其他特征之后的进化产物。羽毛的结构表明它们并未用于飞行，而是用于体温调节或展示。研究人员指出，尽管这是幼年恐龙的尾巴，但样本显示的是成年羽毛，而非幼鸟的绒毛。研究人员指出，尽管这是幼年恐龙的尾巴，但样本显示的是成年羽毛，而非幼鸟的绒毛。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 123,
                 133
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 446,
                 452
@@ -2018,13 +2018,13 @@
     {
         "source": "This not only confirms that at least some dinosaurs had feathers, a theory already widespread, but provides details fossils generally cannot, such as color and three-dimensional arrangement. . Scientists say this animal's plumage was chestnut-brown on top with a pale or carotenoid-colored underside. The find also grants insight into the evolution of feathers in birds. Because the dinosaur feathers do not have a well-developed shaft, called a rachis, but do have other features of feathers — barbs and barbules — the researchers inferred the rachis was likely a later evolutionary development that these other features. The feathers' structure suggests that they were not used in flight but rather for temperature regulation or display. The researchers suggested that, even though this is the tail of a young dinosaur, the sample shows adult plumage and not a chick's down. The researchers suggested that, even though this is the tail of a young dinosaur, the sample shows adult plumage and not a chick's down.",
         "target": "这不仅证实了至少某些恐龙长有羽毛，这一理论早已广为流传，而且提供了化石通常无法提供的细节，例如颜色和三维排列。科学家表示，这种动物的羽毛上部呈栗色，下部为浅色或类胡萝卜素颜色。这一发现还揭示了鸟类羽毛进化的相关信息。由于这些恐龙羽毛没有发育良好的羽轴（称为羽茎），但确实具备羽毛的其他特征——羽枝和羽小枝——研究人员推断，羽茎很可能是后来才进化出的特征。羽毛的结构表明，它们并非用于飞行，而是用于体温调节或展示。研究人员指出，尽管这是幼年恐龙的尾巴，但样本显示的是成年羽毛，而不是幼鸟的绒毛。研究人员指出，尽管这是幼年恐龙的尾巴，但样本显示的是成年羽毛，而不是幼鸟的绒毛。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 124,
                 134
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 446,
                 452
@@ -2034,7 +2034,7 @@
     {
         "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
         "target": "Jens Oliver Lisberg（1896年12月24日－1920年8月31日）（现代法罗语中称为Jens Olivur Lisberg）是Merkið（法罗群岛的旗帜）的设计者之一。在哥本哈根念法律专业时，他于1919年与另外两名法罗学生Janus Øssursson（来自托尔斯港）和Paul Dahl（来自瓦古尔）共同设计了这面旗帜。Lisberg于1919年6月22日回到家乡Fámjin时，首次在法罗土地上升起了这面旗帜。然而，该旗帜直到1940年4月25日，被英国占领政府批准作为该群岛的民用旗帜时才获得官方地位。Lisberg于1920年8月31日死于肺炎，安葬于Fámjin，当地教堂现藏有这面Merkið的原件。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 88
@@ -2068,7 +2068,7 @@
                 318
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 19
@@ -2174,7 +2174,7 @@
     {
         "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
         "target": "延斯·奥利弗·利斯贝格（Jens Oliver Lisberg，1896年12月24日－1920年8月31日）（现代法罗语称Jens Olivur Lisberg）是法罗群岛旗帜“Merkið”的设计者之一。1919年，他在哥本哈根作为一名法律系学生，与另外两名法罗群岛学生——来自托尔斯港的贾纳斯·厄苏尔森（Janus Øssursson）和来自瓦乌尔的保罗·达尔（Paul Dahl）——共同设计了这面旗帜。1919年6月22日，利斯贝格首次在法罗群岛本土的法姆因镇升起了这面旗帜。然而，直到1940年4月25日，英国占领政府批准其作为法罗群岛民用旗帜使用时，该旗帜才获得官方认可。利斯贝格于1920年8月31日因肺炎去世，葬于法姆因教堂内，教堂现收藏有“Merkið”的原始版本。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 15
@@ -2216,7 +2216,7 @@
                 340
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 19
@@ -2322,13 +2322,13 @@
     {
         "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
         "target": "丹·帕特里克正在将我为这个联盟的孩子们创作的科幻剧本变成现实，这些孩子们传播一种他们自己免疫的病毒，以便杀死他们的父母/祖父母",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 63
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 152
@@ -2338,13 +2338,13 @@
     {
         "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
         "target": "丹·帕特里克正在把我为这群孩子编写的科幻剧本变成现实，这群孩子会传播一种他们自己免疫的病毒，以便杀死他们的父母/祖父母。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 60
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 0,
                 152
@@ -2354,7 +2354,7 @@
     {
         "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
         "target": "@CindyKendrick11 蝙蝠汤的事情只是一个借口。不管那是什么，是从武汉的一个中国生物武器实验室泄漏出来的。中国政府应对此负责。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 13,
                 33
@@ -2364,7 +2364,7 @@
                 69
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 17,
                 48
@@ -2378,7 +2378,7 @@
     {
         "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
         "target": "@CindyKendrick11 蝙蝠汤的事情只是借口。不管那是什么，是从武汉的一个中国生物武器实验室泄漏出来的。中国政府对此负责。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 13,
                 31
@@ -2388,7 +2388,7 @@
                 66
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 17,
                 48
@@ -2402,13 +2402,13 @@
     {
         "source": "One of the better analysis of @realDonaldTrump proposal to inject disinfectant as a #COVID19 cure",
         "target": "@realDonaldTrump 提议 将消毒剂注入体内作为 #COVID19 的治疗方法 的分析中较为出色的一项",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 16,
                 49
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 59,
                 97
@@ -2418,13 +2418,13 @@
     {
         "source": "One of the better analysis of @realDonaldTrump proposal to inject disinfectant as a #COVID19 cure",
         "target": "对@realDonaldTrump 提议将消毒剂注射入体内作为#COVID19 疗法的较好分析之一",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 0
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 59,
                 97
@@ -2434,13 +2434,13 @@
     {
         "source": "I heard that #China discovered the corona virus in 2002. And in 2020 Corona  from a laboratory located in #Wuhan city and spread (By mistake ) to the outside environment. \n@COVIDNewsByMIB\n#Corona #COVID19 Chinese Virus19 Bio Weapon Chinese Bioterrorism",
         "target": "我听说 #中国在2002年发现了冠状病毒。而且 2020年冠状病毒从位于#武汉市的一个实验室泄漏（错误地）传播到外部环境。  \n@COVIDNewsByMIB  \n#冠状病毒 #COVID19 中国病毒19 生化武器 中国生物恐怖主义",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 1,
                 64
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 14,
                 55
@@ -2454,13 +2454,13 @@
     {
         "source": "I heard that #China discovered the corona virus in 2002. And in 2020 Corona  from a laboratory located in #Wuhan city and spread (By mistake ) to the outside environment. \n@COVIDNewsByMIB\n#Corona #COVID19 Chinese Virus19 Bio Weapon Chinese Bioterrorism",
         "target": "我听说中国在2002年发现了冠状病毒。2020年，冠状病毒从位于武汉市的一个实验室泄漏（意外）到外部环境。  \n@COVIDNewsByMIB  \n#冠状病毒 #COVID19 中国病毒19 生物武器 中国生物恐怖主义",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 56
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 14,
                 55
@@ -2474,13 +2474,13 @@
     {
         "source": "I don't ever want to see another generation of young Americans bleed their lives into sandy beachheads in the Pacific, or rice paddies and jungles in the in Asia or the muddy battlefields of Europe. Mr. Stone, I have submitted an economic plan that I have worked out in concert with a number of fine economists in this country, all of whom approve it, and believe that over a five year projection, this plan can permit the extra spending for needed refurbishing of our defensive posture, that it can provide for a balanced budget by 1983 if not earlier, and that we can afford - along with the cuts that I have proposed in Government. spending - we can afford the tax cuts I have proposed and probably mainly because Mr. Carter's economic policy has built into the next five years, and on beyond that, a tax increase that will be taking $86 billion more out of the people's pockets than was taken this year.",
         "target": "我不希望看到另一代美国年轻人将生命血洒在太平洋的沙滩上，或亚洲的稻田和丛林中，或欧洲的泥泞战场上。斯通先生，我已提交了一份经济计划，该计划是我与美国许多优秀经济学家共同制定的，他们都同意这一计划，并相信在五年预测期内，该计划可以允许我们为国防态势的必要整修提供额外的开支，可以在1983年或更早实现平衡预算，我们可以承担——与我提出的政府支出削减相结合——我提出的税收削减，我们可以承担，因为卡特先生的经济政策已经为未来五年及以后制定了税收增加计划，未来五年将从人们的口袋中拿出比今年多86亿美元的税款。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 45,
                 252
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 199,
                 634
@@ -2490,13 +2490,13 @@
     {
         "source": "I don't ever want to see another generation of young Americans bleed their lives into sandy beachheads in the Pacific, or rice paddies and jungles in the in Asia or the muddy battlefields of Europe. Mr. Stone, I have submitted an economic plan that I have worked out in concert with a number of fine economists in this country, all of whom approve it, and believe that over a five year projection, this plan can permit the extra spending for needed refurbishing of our defensive posture, that it can provide for a balanced budget by 1983 if not earlier, and that we can afford - along with the cuts that I have proposed in Government. spending - we can afford the tax cuts I have proposed and probably mainly because Mr. Carter's economic policy has built into the next five years, and on beyond that, a tax increase that will be taking $86 billion more out of the people's pockets than was taken this year.",
         "target": "我不希望看到另一代年轻的美国人将他们的生命洒在太平洋的沙滩上，或是亚洲的稻田和丛林中，或是欧洲的泥泞战场上。斯通先生，我已经提交了一份经济计划，这是我与该国许多优秀的经济学家一起制定的，他们都同意这一计划，并且相信，在五年的预测中，这个计划可以允许我们为必要的国防军事态势改善提供额外的开支，它可以在1983年或更早之前实现平衡预算，我们可以承担——除了我提出的政府开支削减——我们可以承担我提出的税收削减，主要是因为卡特先生的经济政策已经为未来五年甚至更长时间内制定了税收增加的计划，这将比今年多从人民的口袋中拿出860亿美元。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 50,
                 191
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 199,
                 634
@@ -2506,13 +2506,13 @@
     {
         "source": "And in some cases may be still at large. But I support the death penalty in the most heinous cases. I do.",
         "target": "而且在某些情况下，他们可能仍然逍遥法外。但我最坚决支持对最令人发指的罪行判处死刑。 我确实支持。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 16,
                 45
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 41,
                 99
@@ -2522,13 +2522,13 @@
     {
         "source": "And in some cases may be still at large. But I support the death penalty in the most heinous cases. I do.",
         "target": "而且在某些情况下可能仍然逍遥法外。但我最坚决支持对最令人发指的案件处以死刑。我支持。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 13,
                 42
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 41,
                 99
@@ -2538,13 +2538,13 @@
     {
         "source": "Not so. Take for example the marriage penalty. If you itemize your tax return, you get no marriage penalty relief.",
         "target": "并非如此。以婚姻税收惩罚为例。如果你申报税务时采用分项扣除，你就无法享受任何婚姻税收惩罚的减免。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 2,
                 16
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 29,
                 46
@@ -2554,13 +2554,13 @@
     {
         "source": "Not so. Take for example the marriage penalty. If you itemize your tax return, you get no marriage penalty relief.",
         "target": "并非如此。以婚姻税负为例，如果你逐项申报税务，你就无法享受婚姻税负减免。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 2,
                 14
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 29,
                 46
@@ -2570,13 +2570,13 @@
     {
         "source": "And I think that we'll have good results uh - on November the second for myself and I hope for the country. I think uh - the uh - increase and the uh - prospects as far as I'm concerned and the I - less favorable prospects for Governor Carter, reflect that Governor Carter uh - is inconsistent in many of the positions that he takes. He tends to distort on a number of occasions. Uh - just a moment ago, for example, uh - he uh - was indicating that uh - uh - in the 1950s, for example, uh - unemployment was very low.",
         "target": "而且我认为我们个人在十一月二号会有好结果，我也希望国家如此。我认为，就我而言，增势和前景，还有我对卡特州长较为不利的前景，反映出卡特州长所持立场多变。他往往在多次场合歪曲事实。比如，就在刚才，呃，他就表示，呃，例如在1950年代，失业率非常低。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 92
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 4,
                 379
@@ -2586,13 +2586,13 @@
     {
         "source": "And I think that we'll have good results uh - on November the second for myself and I hope for the country. I think uh - the uh - increase and the uh - prospects as far as I'm concerned and the I - less favorable prospects for Governor Carter, reflect that Governor Carter uh - is inconsistent in many of the positions that he takes. He tends to distort on a number of occasions. Uh - just a moment ago, for example, uh - he uh - was indicating that uh - uh - in the 1950s, for example, uh - unemployment was very low.",
         "target": "我认为11月2日我个人以及国家都会取得好结果。我认为，就我而言，增长和前景都很好，而卡特州长的前景则不太乐观，这反映出卡特州长在许多立场上都很反复无常。他往往在多次场合歪曲事实。比如，就在刚才，他表示，在1950年代，失业率非常低。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 93
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 4,
                 379
@@ -2602,7 +2602,7 @@
     {
         "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
         "target": "确实，我们的宪法中没有“正当程序”的条款或第八修正案；但是在法律的这一领域，经过R.C. Cooper诉印度联盟案（1970）1 SCC 248和Maneka Gandhi诉印度联盟案（1978）1 SCC 248后，结果是相同的。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 2,
                 12
@@ -2612,7 +2612,7 @@
                 111
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 10,
                 22
@@ -2630,7 +2630,7 @@
     {
         "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
         "target": "诚然，我们的宪法中没有“正当程序”的条款或第八修正案；但是在法律的这一领域，经过R.C.库珀诉印度联盟，（1970）1 SCC 248和曼卡·甘地诉印度联盟，（1978）1 SCC 248之后，结果是相同的。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 2,
                 12
@@ -2640,7 +2640,7 @@
                 98
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 10,
                 22
@@ -2658,7 +2658,7 @@
     {
         "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
         "target": "在那段时间里，他曾是 1992 年 8 月在波斯尼亚萨拉热窝受到狙击枪射击的 ABC 新闻团队的一员。ABC 新闻华盛顿资深制片人 David Kaplan 在该事件中丧生。1997 年，Sherwood 加入 NBC 的《夜间新闻》，与 Tom Brokaw 合作，担任制片人，然后是资深制片人，最终成为资深广播制片人，他在报道 9 月 11 日袭击事件时在场。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 90,
                 106
@@ -2672,7 +2672,7 @@
                 166
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 204,
                 212
@@ -2690,7 +2690,7 @@
     {
         "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
         "target": "在那段时间里，他曾是 1992 年 8 月在波斯尼亚萨拉热窝受到狙击枪射击的 ABC 新闻团队的一员。ABC 新闻华盛顿资深制片人 David Kaplan 在该事件中丧生。1997 年，Sherwood 加入 NBC 的《夜间新闻》，与 Tom Brokaw 合作，担任制片人，然后是资深制片人，最终成为资深广播制片人，期间他参与了 9 月 11 日袭击事件的报道。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 90,
                 106
@@ -2704,7 +2704,7 @@
                 168
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 204,
                 212
@@ -2722,7 +2722,7 @@
     {
         "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
         "target": "2014年9月27日，托希尼加盟罗斯郡，并在当天球队以2比1击败邓迪的比赛中完成首秀。在被罗斯郡解约后，托希尼于2015年2月3日加盟科登比斯，签约合同至2014-15赛季结束。2015年6月11日，托希尼加盟雷思流浪者。在托希尼转会苏冠联赛竞争对手邓迪联后，雷思流浪者前主帅雷·麦克诺顿表示有兴趣将托希尼带到坦纳迪斯球场。他",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 7,
                 18
@@ -2736,7 +2736,7 @@
                 163
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 22,
                 29
@@ -2754,7 +2754,7 @@
     {
         "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
         "target": "2014年9月27日，托尼签约罗斯郡，并在当天以2-1战胜邓迪的比赛中完成首秀。在被罗斯郡解约后，托尼于2015年2月3日加盟科登比思，签订了一份持续到2014-15赛季结束的合同。2015年6月11日，托尼签约雷思流浪者队。在他转会到苏冠联赛对手邓迪联队后，雷思流浪者队前主教练雷·麦克诺顿表示有兴趣将托尼带到坦纳迪斯球场。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 7,
                 17
@@ -2764,7 +2764,7 @@
                 150
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 22,
                 29
@@ -2782,7 +2782,7 @@
     {
         "source": "Suanna Wallumr*d has cooperated with exceptional baroque harpist Giovanna Pessi, who has previously made herself known with a variety of ECM recordings. Pessi's collaboration with pianist Christian Wallumr*d brought her regularly to Oslo, where she met and became friends with Susanna, the pianist's sister. Susanna invited Pessi to play on her solo album Sonata Mix Dwarf Cosmos (2008), and four years later, the Norwegian vocalist's turn to take guest role.",
         "target": "Suanna Wallumr*d 与杰出的巴洛克竖琴演奏家 Giovanna Pessi 合作过，后者曾通过多张 ECM 录音而闻名。Pessi 与钢琴家 Christian Wallumr*d 的合作经常使她前往奥斯陆，在那里她结识并成为了这位钢琴家的妹妹Susanna的朋友。Susanna 邀请 Pessi 参与演奏了她的个人专辑《Sonata Mix Dwarf Cosmos》（2008），四年后，这位挪威歌手轮到担任嘉宾角色。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 35,
                 48
@@ -2796,7 +2796,7 @@
                 167
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 74,
                 79
@@ -2814,7 +2814,7 @@
     {
         "source": "Suanna Wallumr*d has cooperated with exceptional baroque harpist Giovanna Pessi, who has previously made herself known with a variety of ECM recordings. Pessi's collaboration with pianist Christian Wallumr*d brought her regularly to Oslo, where she met and became friends with Susanna, the pianist's sister. Susanna invited Pessi to play on her solo album Sonata Mix Dwarf Cosmos (2008), and four years later, the Norwegian vocalist's turn to take guest role.",
         "target": "Suanna Wallumr*d 与杰出的巴洛克竖琴演奏家 Giovanna Pessi 合作过，后者以前因多张 ECM 唱片而广为人知。Pessi 与钢琴家 Christian Wallumr*d 的合作使她经常来到奥斯陆，在那里她结识并成为了 Susanna（钢琴家的妹妹）的朋友。Susanna 邀请 Pessi 参与她的个人专辑《Sonata Mix Dwarf Cosmos》（2008）的演奏，四年后，这位挪威歌手也轮到客串出演客座角色。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 35,
                 48
@@ -2828,7 +2828,7 @@
                 168
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 74,
                 79
@@ -2846,7 +2846,7 @@
     {
         "source": "It was eventually announced that Anderson would take on Van Dam at Victory Road for a shot at the title. A feud that went into Victory Road was between A.J. Styles, Matt Hardy and Ric Flair. On the February 17 edition of TNA Impact!, Flair betrayed Styles during his one on one contest with Hardy.",
         "target": "最终宣布安德森将在Victory Road与范·达姆争夺冠军头衔。 一场在胜利路上的世仇是A.J. 斯泰尔斯、马特·哈迪和里克 弗莱尔 之间的。 2月17日的TNA Impact! 節目中，弗莱尔在 他 与哈迪的单打比赛中背叛了斯泰尔斯。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 46,
                 58
@@ -2860,7 +2860,7 @@
                 105
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 157,
                 163
@@ -2878,7 +2878,7 @@
     {
         "source": "It was eventually announced that Anderson would take on Van Dam at Victory Road for a shot at the title. A feud that went into Victory Road was between A.J. Styles, Matt Hardy and Ric Flair. On the February 17 edition of TNA Impact!, Flair betrayed Styles during his one on one contest with Hardy.",
         "target": "最终宣布安德森将在Victory Road与范·达姆争夺冠军头衔的机会。 一场持续到胜利路的世仇是A.J.斯泰尔斯、马特·哈迪和里克·弗莱尔之间的恩怨。 2月17日的TNA Impact!节目中，弗莱尔在斯泰尔斯与哈迪的单打比赛中背叛了斯泰尔斯。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 49,
                 61
@@ -2888,7 +2888,7 @@
                 74
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 157,
                 163
@@ -2906,7 +2906,7 @@
     {
         "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
         "target": "吉姆去银行取一份对账单，想看看自己周末有多少钱，但对账单显示他身无分文。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 4,
                 15
@@ -2916,7 +2916,7 @@
                 32
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 30,
                 39
@@ -2930,7 +2930,7 @@
     {
         "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
         "target": "吉姆去银行取对账单，想看看自己周末有多少钱，但对账单显示他身无分文。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 2,
                 13
@@ -2940,7 +2940,7 @@
                 30
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 30,
                 39
@@ -2954,7 +2954,7 @@
     {
         "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
         "target": "法国南部的天气比俄罗斯的气温好得多，因为那里的天气总是温暖的。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 1,
                 11
@@ -2964,7 +2964,7 @@
                 29
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 4,
                 11
@@ -2978,7 +2978,7 @@
     {
         "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
         "target": "法国南部的天气比俄罗斯的气温要好得多，因为那里的天气总是温暖的。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 1,
                 11
@@ -2988,7 +2988,7 @@
                 30
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 4,
                 11
@@ -3002,7 +3002,7 @@
     {
         "source": "John wanted to make his own soda with carbonated water and a flavor but the water was flat.",
         "target": "约翰想用碳酸水和一种口味自己制作汽水，但水已经变得无气了。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 2,
                 11
@@ -3012,7 +3012,7 @@
                 25
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 49,
                 54
@@ -3026,13 +3026,13 @@
     {
         "source": "John wanted to make his own soda with carbonated water and a flavor but the water was flat.",
         "target": "约翰想用碳酸水和一种口味自己制作汽水，但水是没有气泡的。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 13,
                 25
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 49,
                 54
@@ -3046,7 +3046,7 @@
     {
         "source": "Jim was glad to replace his treadmill with a stationary bike since the stationary bike was new.",
         "target": "吉姆很高兴用一辆固定式静态自行车替换他的跑步机，因为这辆固定式静态自行车是新的。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 4,
                 20
@@ -3056,7 +3056,7 @@
                 40
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 45,
                 60
@@ -3070,7 +3070,7 @@
     {
         "source": "Jim was glad to replace his treadmill with a stationary bike since the stationary bike was new.",
         "target": "吉姆很高兴用一辆静态自行车取代他的跑步机，因为这辆静态自行车是新的。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 4,
                 17
@@ -3080,7 +3080,7 @@
                 34
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 45,
                 60
@@ -3094,7 +3094,7 @@
     {
         "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
         "target": "句子：每个人都很喜欢焦糖黄油波本香料饼干；只有少数人喜欢焦糖山核桃饼干。下次，我们应该少做一些它们。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 6,
                 24
@@ -3108,7 +3108,7 @@
                 50
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 32,
                 70
@@ -3126,7 +3126,7 @@
     {
         "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
         "target": "句子：大家都非常喜欢焦糖黄油波本香料饼干；只有少数人喜欢焦糖山核桃饼干。下次，我们应该少做一些。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 6,
                 24
@@ -3140,7 +3140,7 @@
                 48
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 32,
                 70
@@ -3158,13 +3158,13 @@
     {
         "source": "sentence: Lucy comforted Emma because she was so upset .",
         "target": "sentence: 露西安慰了艾玛，因为她非常难过。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 6,
                 25
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 10,
                 14
@@ -3182,13 +3182,13 @@
     {
         "source": "sentence: Lucy comforted Emma because she was so upset .",
         "target": "Lucy 安慰 Emma，因为 Emma 非常难过。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 24
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 10,
                 14
@@ -3206,13 +3206,13 @@
     {
         "source": "sentence: the mold rolled off the rack because it wasn't anchored .",
         "target": "句子：模具从架子上滚落下来，因为它没有被固定。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 21
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 10,
                 18
@@ -3230,7 +3230,7 @@
     {
         "source": "sentence: the mold rolled off the rack because it wasn't anchored .",
         "target": "句子：模具从架子上滚落下来，因为它没有固定。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 12
@@ -3240,7 +3240,7 @@
                 21
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 10,
                 18
@@ -3258,7 +3258,7 @@
     {
         "source": "sentence: patrick tried to call jake on the phone , but he wasn't successful .",
         "target": "sentence: 帕特里克 尝试通过电话联系 杰克，但 他 没有成功。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 6,
                 18
@@ -3268,7 +3268,7 @@
                 34
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 10,
                 17
@@ -3286,7 +3286,7 @@
     {
         "source": "sentence: patrick tried to call jake on the phone , but he wasn't successful .",
         "target": "帕特里克试图通过电话联系杰克，但没有成功。",
-        "target_highlightable_areas": [
+        "target_focus_areas": [
             [
                 0,
                 8
@@ -3296,7 +3296,7 @@
                 18
             ]
         ],
-        "source_highlightable_areas": [
+        "source_focus_areas": [
             [
                 10,
                 17
