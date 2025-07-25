@@ -4,12 +4,12 @@
         "target": "Cô ấy đã giảm thêm bốn pound kể từ tuần trước. Cô ấy bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã sẵn sàng điều trị cái này như một bệnh nhân ngoại trú cho đến khi bác sĩ chẩn đoán hình ảnh của CDI gọi tôi để báo cáo rằng ông ấy phát hiện thấy một cục máu đông ở phổi trái trên kết quả chụp CT, thêm vào các phát hiện nêu trên.",
         "target_focus_areas": [
             [
-                40,
-                95
+                46,
+                73
             ],
             [
-                99,
-                142
+                85,
+                160
             ]
         ],
         "source_focus_areas": [
@@ -28,8 +28,8 @@
         "target": "Cô ấy đã giảm thêm bốn cân kể từ tuần trước. Cô ấy bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã sẵn sàng điều trị cho cô ấy làm bệnh nhân ngoại trú cho đến khi bác sĩ chẩn đoán hình ảnh của CDI gọi tôi để báo cáo rằng ông đã phát hiện ra một cục máu đông phổi bên trái trên kết quả chụp CT, bên cạnh các phát hiện nêu trên.",
         "target_focus_areas": [
             [
-                38,
-                93
+                44,
+                71
             ]
         ],
         "source_focus_areas": [
@@ -49,11 +49,19 @@
         "target_focus_areas": [
             [
                 0,
-                39
+                59
             ],
             [
-                241,
-                326
+                227,
+                264
+            ],
+            [
+                265,
+                288
+            ],
+            [
+                289,
+                321
             ]
         ],
         "source_focus_areas": [
@@ -80,12 +88,20 @@
         "target": "Tôi sẽ tạm ngưng thuốc Amaryl để đảm bảo thuốc này không góp phần gây buồn nôn cho bệnh nhân. Tôi sẽ làm xét nghiệm Accu-Cheks và theo dõi đường huyết bằng phương pháp sliding scale. 5. Buồn nôn. Tôi sẽ ngưng tất cả các loại thuốc gây nghiện và thuốc giảm đau và sẽ chỉ điều trị bằng Tylenol. Tiếp tục cho bệnh nhân dùng Protonex. Tôi sẽ ngưng thuốc Isordil. Như đã nêu ở trên, hiện tại chúng ta sẽ tạm ngưng thuốc Amaryl.",
         "target_focus_areas": [
             [
-                4,
-                46
+                0,
+                65
             ],
             [
-                266,
-                371
+                213,
+                291
+            ],
+            [
+                292,
+                329
+            ],
+            [
+                330,
+                357
             ]
         ],
         "source_focus_areas": [
@@ -112,12 +128,36 @@
         "target": "Cô ấy cũng không có cắt bỏ rõ ràng bệnh Crohn. 4. Cao huyết áp. 5. Giảm kích thước vú vào năm 1998. THUỐC: Tại thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc tránh thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. DỊ ỨNG: Cô ấy bị dị ứng với morphine, sulfa và có phản ứng bất lợi với Remicade.",
         "target_focus_areas": [
             [
-                126,
-                257
+                142,
+                147
             ],
             [
-                258,
-                324
+                151,
+                162
+            ],
+            [
+                187,
+                207
+            ],
+            [
+                211,
+                216
+            ],
+            [
+                220,
+                229
+            ],
+            [
+                233,
+                242
+            ],
+            [
+                251,
+                280
+            ],
+            [
+                281,
+                323
             ]
         ],
         "source_focus_areas": [
@@ -164,8 +204,36 @@
         "target": "Cô cũng không có phẫu thuật cắt bỏ rõ ràng bệnh Crohn. 4. Tăng huyết áp. 5. Giảm kích thước vú vào năm 1998. THUỐC: Vào thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc tránh thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. Dị ứng: Cô bị dị ứng với morphine, sulfa và phản ứng bất lợi với Remicade.",
         "target_focus_areas": [
             [
-                135,
-                327
+                151,
+                156
+            ],
+            [
+                160,
+                171
+            ],
+            [
+                196,
+                216
+            ],
+            [
+                220,
+                225
+            ],
+            [
+                229,
+                238
+            ],
+            [
+                242,
+                251
+            ],
+            [
+                260,
+                286
+            ],
+            [
+                287,
+                326
             ]
         ],
         "source_focus_areas": [
@@ -212,12 +280,12 @@
         "target": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác theo yêu cầu của pháp luật, nhưng chỉ cung cấp những thông tin mà pháp luật yêu cầu.",
         "target_focus_areas": [
             [
-                17,
-                77
+                36,
+                94
             ],
             [
-                90,
-                157
+                100,
+                156
             ]
         ],
         "source_focus_areas": [
@@ -244,12 +312,12 @@
         "target": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác khi được pháp luật yêu cầu, nhưng chỉ cung cấp thông tin mà pháp luật yêu cầu.",
         "target_focus_areas": [
             [
-                32,
-                76
+                36,
+                95
             ],
             [
-                92,
-                151
+                100,
+                150
             ]
         ],
         "source_focus_areas": [
@@ -277,7 +345,19 @@
         "target_focus_areas": [
             [
                 0,
-                359
+                62
+            ],
+            [
+                63,
+                102
+            ],
+            [
+                103,
+                158
+            ],
+            [
+                159,
+                358
             ]
         ],
         "source_focus_areas": [
@@ -321,7 +401,11 @@
         "target_focus_areas": [
             [
                 0,
-                343
+                162
+            ],
+            [
+                163,
+                342
             ]
         ],
         "source_focus_areas": [
@@ -365,15 +449,11 @@
         "target_focus_areas": [
             [
                 0,
-                42
+                60
             ],
             [
-                123,
-                165
-            ],
-            [
-                166,
-                211
+                141,
+                228
             ]
         ],
         "source_focus_areas": [
@@ -397,15 +477,11 @@
         "target_focus_areas": [
             [
                 0,
-                43
+                61
             ],
             [
-                120,
-                166
-            ],
-            [
-                167,
-                210
+                139,
+                227
             ]
         ],
         "source_focus_areas": [
@@ -428,8 +504,8 @@
         "target": "\"Nhu cầu dầu ... nếu bạn nhìn vào số liệu mới nhất, nó vẫn ổn. Chúng tôi dự kiến sẽ có sự phá hủy nhu cầu, nhưng điều đó không thực sự xảy ra,\" Frederic Lasserre, người đứng đầu nghiên cứu và phân tích thị trường toàn cầu tại Tập đoàn Gunvor $lt;GGL.UL$gt;, cho biết.",
         "target_focus_areas": [
             [
-                206,
-                267
+                162,
+                242
             ]
         ],
         "source_focus_areas": [
@@ -444,8 +520,8 @@
         "target": "\"Nhu cầu dầu ... nếu bạn nhìn vào dữ liệu mới nhất, nó vẫn ổn. Chúng tôi dự kiến sẽ có sự phá hủy nhu cầu, nhưng điều đó thực sự không xảy ra,\" Frederic Lasserre, trưởng bộ phận nghiên cứu và phân tích thị trường toàn cầu tại Gunvor Group $lt;GGL.UL$gt;, cho biết.",
         "target_focus_areas": [
             [
-                206,
-                264
+                162,
+                239
             ]
         ],
         "source_focus_areas": [
@@ -460,8 +536,8 @@
         "target": "\"Quan hệ đối tác này không chỉ chứng minh rằng nền tảng kinh doanh của chúng tôi có tính cạnh tranh cao, mà còn cho thấy MEB đang đi đúng hướng để trở thành một trong những nền tảng mở hàng đầu cho phương tiện điện.\"",
         "target_focus_areas": [
             [
-                105,
-                143
+                104,
+                160
             ]
         ],
         "source_focus_areas": [
@@ -476,8 +552,8 @@
         "target": "\"Quan hệ đối tác này không chỉ chứng minh rằng mô hình kinh doanh nền tảng của chúng tôi có tính cạnh tranh cao, mà còn cho thấy MEB đang đi đúng hướng để trở thành một trong những nền tảng mở hàng đầu cho lĩnh vực xe điện.\"",
         "target_focus_areas": [
             [
-                113,
-                151
+                112,
+                168
             ]
         ],
         "source_focus_areas": [
@@ -492,8 +568,8 @@
         "target": "Gọi làn sóng tăng vọt trong các đơn đặt hàng máy bay phòng thủ là \"phi thường\", Ian Shepherdson, nhà kinh tế trưởng tại Pantheon Macroeconomics, cho biết thêm \"sự bùng nổ trong tiêu đề không thay đổi bức tranh tổng thể về sự chậm lại trong chi tiêu, nhưng nó vẫn chưa đạt đến quy mô kiểu suy thoái.\"",
         "target_focus_areas": [
             [
-                101,
-                162
+                96,
+                143
             ]
         ],
         "source_focus_areas": [
@@ -508,8 +584,8 @@
         "target": "Gọi làn sóng tăng mạnh các đơn đặt hàng máy bay phòng thủ là \"phi thường\", Ian Shepherdson, kinh tế trưởng của Pantheon Macroeconomics, bổ sung: \"làn sóng tăng vọt trong tiêu đề không thay đổi bức tranh tổng thể về việc chi tiêu đang chậm lại, nhưng nó chưa đạt tới mức độ kiểu suy thoái kinh tế.\"",
         "target_focus_areas": [
             [
-                92,
-                154
+                91,
+                134
             ]
         ],
         "source_focus_areas": [
@@ -525,7 +601,19 @@
         "target_focus_areas": [
             [
                 0,
-                262
+                48
+            ],
+            [
+                49,
+                208
+            ],
+            [
+                209,
+                246
+            ],
+            [
+                247,
+                261
             ]
         ],
         "source_focus_areas": [
@@ -569,11 +657,15 @@
         "target_focus_areas": [
             [
                 0,
-                86
+                48
             ],
             [
-                91,
-                229
+                49,
+                213
+            ],
+            [
+                214,
+                228
             ]
         ],
         "source_focus_areas": [
@@ -617,15 +709,23 @@
         "target_focus_areas": [
             [
                 0,
-                140
+                31
             ],
             [
-                145,
-                181
+                32,
+                56
             ],
             [
-                182,
-                242
+                57,
+                152
+            ],
+            [
+                161,
+                208
+            ],
+            [
+                209,
+                241
             ]
         ],
         "source_focus_areas": [
@@ -673,11 +773,19 @@
         "target_focus_areas": [
             [
                 0,
-                138
+                14
             ],
             [
-                139,
-                235
+                15,
+                148
+            ],
+            [
+                157,
+                197
+            ],
+            [
+                198,
+                234
             ]
         ],
         "source_focus_areas": [
@@ -725,15 +833,11 @@
         "target_focus_areas": [
             [
                 0,
-                67
+                133
             ],
             [
-                73,
-                128
-            ],
-            [
-                135,
-                185
+                134,
+                202
             ]
         ],
         "source_focus_areas": [
@@ -761,15 +865,11 @@
         "target_focus_areas": [
             [
                 0,
-                65
+                131
             ],
             [
-                71,
-                126
-            ],
-            [
-                142,
-                185
+                132,
+                202
             ]
         ],
         "source_focus_areas": [
@@ -796,16 +896,16 @@
         "target": "Quyền riêng tư của khách hàng theo luật và quy định của Wisconsin và liên bang, các ngân hàng tiết kiệm như WaterStone Bank phải xây dựng và duy trì các chính sách bảo mật liên quan đến thông tin của khách hàng, hạn chế quyền truy cập và thiết lập các quy trình nhằm bảo vệ dữ liệu khách hàng.",
         "target_focus_areas": [
             [
-                40,
-                140
+                0,
+                78
             ],
             [
-                182,
-                230
+                79,
+                210
             ],
             [
-                267,
-                293
+                212,
+                292
             ]
         ],
         "source_focus_areas": [
@@ -836,16 +936,24 @@
         "target": "Quyền riêng tư của khách hàng Theo luật và quy định của Wisconsin và liên bang, các ngân hàng tiết kiệm, như ngân hàng WaterStone, buộc phải xây dựng và duy trì các chính sách bảo mật liên quan đến thông tin khách hàng, hạn chế truy cập và thiết lập các quy trình để bảo vệ dữ liệu khách hàng.",
         "target_focus_areas": [
             [
-                40,
-                149
+                0,
+                78
             ],
             [
-                189,
-                236
+                79,
+                103
             ],
             [
-                258,
-                293
+                104,
+                129
+            ],
+            [
+                136,
+                218
+            ],
+            [
+                219,
+                292
             ]
         ],
         "source_focus_areas": [
@@ -877,7 +985,7 @@
         "target_focus_areas": [
             [
                 0,
-                73
+                86
             ]
         ],
         "source_focus_areas": [
@@ -905,7 +1013,7 @@
         "target_focus_areas": [
             [
                 0,
-                74
+                90
             ]
         ],
         "source_focus_areas": [
@@ -933,7 +1041,7 @@
         "target_focus_areas": [
             [
                 0,
-                123
+                122
             ]
         ],
         "source_focus_areas": [
@@ -965,7 +1073,7 @@
         "target_focus_areas": [
             [
                 0,
-                131
+                130
             ]
         ],
         "source_focus_areas": [
@@ -996,8 +1104,16 @@
         "target": "Đây là cái nhìn về một trong những phản hồi từ máy chủ được mã hóa: Khi nạn nhân bị nhiễm và \"kiểm tra\" với máy chủ, kẻ tấn công gửi một mẫu lệnh: Tiếp theo, kẻ tấn công cố gắng di chuyển qua mạng của nạn nhân bằng cách sử dụng mật khẩu được xác định trước hoặc thu thập: Liệt kê tất cả các tệp .doc",
         "target_focus_areas": [
             [
-                55,
-                286
+                67,
+                115
+            ],
+            [
+                116,
+                145
+            ],
+            [
+                157,
+                270
             ]
         ],
         "source_focus_areas": [
@@ -1064,8 +1180,16 @@
         "target": "Dưới đây là một cái nhìn về một trong những phản hồi từ máy chủ được mã hóa: Khi một nạn nhân bị nhiễm và \"đăng ký\" với máy chủ, kẻ tấn công sẽ gửi một mẫu lệnh: Tiếp theo, kẻ tấn công cố gắng di chuyển qua mạng của nạn nhân bằng mật khẩu được xác định trước hoặc thu thập: Liệt kê tất cả các tệp .doc.",
         "target_focus_areas": [
             [
-                64,
-                288
+                76,
+                127
+            ],
+            [
+                128,
+                160
+            ],
+            [
+                172,
+                272
             ]
         ],
         "source_focus_areas": [
@@ -1133,7 +1257,11 @@
         "target_focus_areas": [
             [
                 0,
-                189
+                157
+            ],
+            [
+                158,
+                203
             ]
         ],
         "source_focus_areas": [
@@ -1169,7 +1297,7 @@
         "target_focus_areas": [
             [
                 0,
-                181
+                160
             ]
         ],
         "source_focus_areas": [
@@ -1205,7 +1333,15 @@
         "target_focus_areas": [
             [
                 0,
-                108
+                47
+            ],
+            [
+                48,
+                82
+            ],
+            [
+                83,
+                107
             ]
         ],
         "source_focus_areas": [
@@ -1237,7 +1373,11 @@
         "target_focus_areas": [
             [
                 0,
-                107
+                50
+            ],
+            [
+                51,
+                106
             ]
         ],
         "source_focus_areas": [
@@ -1269,7 +1409,7 @@
         "target_focus_areas": [
             [
                 0,
-                33
+                19
             ]
         ],
         "source_focus_areas": [
@@ -1289,7 +1429,7 @@
         "target_focus_areas": [
             [
                 0,
-                34
+                20
             ]
         ],
         "source_focus_areas": [
@@ -1308,12 +1448,12 @@
         "target": "Trong tuyên bố trên Pastebin, TDO nói rằng anh ta đã phát hành mười tập của \"Orange Is The New Black\" vì Netflix không muốn trả tiền chuộc.",
         "target_focus_areas": [
             [
-                6,
-                49
+                29,
+                67
             ],
             [
-                87,
-                139
+                101,
+                138
             ]
         ],
         "source_focus_areas": [
@@ -1336,12 +1476,12 @@
         "target": "Trong tuyên bố trên Pastebin, TDO nói rằng hắn ta đã phát hành mười tập của \"Orange Is The New Black\" vì Netflix không muốn trả tiền chuộc.",
         "target_focus_areas": [
             [
-                6,
-                49
+                29,
+                67
             ],
             [
-                87,
-                139
+                101,
+                138
             ]
         ],
         "source_focus_areas": [
@@ -1365,11 +1505,23 @@
         "target_focus_areas": [
             [
                 0,
-                95
+                143
             ],
             [
-                101,
-                223
+                144,
+                158
+            ],
+            [
+                168,
+                175
+            ],
+            [
+                176,
+                194
+            ],
+            [
+                195,
+                213
             ]
         ],
         "source_focus_areas": [
@@ -1413,11 +1565,19 @@
         "target_focus_areas": [
             [
                 0,
-                105
+                138
             ],
             [
-                106,
-                217
+                139,
+                153
+            ],
+            [
+                163,
+                170
+            ],
+            [
+                171,
+                207
             ]
         ],
         "source_focus_areas": [
@@ -1460,8 +1620,8 @@
         "target": "Giai đoạn cuối cùng trong quá trình phát triển của Skyfox là việc sản xuất một mẫu với bộ cứu trợ tiếp đất ba bánh nhằm phục vụ tốt hơn cho thị trường đào tạo phi công.",
         "target_focus_areas": [
             [
-                30,
-                74
+                0,
+                89
             ]
         ],
         "source_focus_areas": [
@@ -1476,8 +1636,8 @@
         "target": "Giai đoạn cuối cùng trong quá trình phát triển Skyfox là sản xuất một mẫu máy bay với bộ càng đáp ba bánh để phục vụ tốt hơn cho thị trường đào tạo phi công.",
         "target_focus_areas": [
             [
-                26,
-                69
+                0,
+                85
             ]
         ],
         "source_focus_areas": [
@@ -1492,8 +1652,12 @@
         "target": "Vở kịch này dự kiến sẽ trở lại Hoa Kỳ, ban đầu dự kiến công diễn trên Broadway tại Nhà hát Nederlander vào ngày 7 tháng 3 năm 2020 trong các buổi xem trước, chính thức vào ngày 26 tháng 3.",
         "target_focus_areas": [
             [
-                15,
-                119
+                0,
+                37
+            ],
+            [
+                38,
+                136
             ]
         ],
         "source_focus_areas": [
@@ -1516,8 +1680,12 @@
         "target": "Vở kịch này dự kiến sẽ trở lại Hoa Kỳ, ban đầu sẽ công diễn trên đường Broadway tại Nhà hát Nederlander vào ngày 7 tháng 3 năm 2020 trong các buổi xem trước, chính thức vào ngày 26 tháng 3.",
         "target_focus_areas": [
             [
-                15,
-                120
+                0,
+                37
+            ],
+            [
+                38,
+                137
             ]
         ],
         "source_focus_areas": [
@@ -1541,7 +1709,7 @@
         "target_focus_areas": [
             [
                 0,
-                33
+                21
             ]
         ],
         "source_focus_areas": [
@@ -1557,7 +1725,7 @@
         "target_focus_areas": [
             [
                 0,
-                33
+                21
             ]
         ],
         "source_focus_areas": [
@@ -1573,11 +1741,11 @@
         "target_focus_areas": [
             [
                 0,
-                29
+                90
             ],
             [
-                34,
-                101
+                91,
+                100
             ]
         ],
         "source_focus_areas": [
@@ -1605,11 +1773,11 @@
         "target_focus_areas": [
             [
                 0,
-                29
+                86
             ],
             [
-                34,
-                97
+                87,
+                96
             ]
         ],
         "source_focus_areas": [
@@ -1636,8 +1804,12 @@
         "target": "Bức Thư từ Nhà Tù Birmingham, còn được biết đến với tên Bức Thư từ Nhà Tù Thành Phố Birmingham và Người Da Đen Là Anh Em Của Bạn, là một bức thư mở được viết vào ngày 16 tháng 4 năm 1963 bởi Martin Luther King Jr. Bức thư bảo vệ chiến lược kháng cự phi bạo lực chống lại chủ nghĩa phân biệt chủng tộc. Nó nói rằng con người có trách nhiệm đạo đức phải phá vỡ những luật lệ bất công và thực hiện hành động trực tiếp thay vì chờ đợi có thể vô hạn định công lý được thực thi qua tòa án. Đáp lại việc bị gọi là \"kẻ ngoài cuộc,\" King viết rằng, \"Bất công ở đâu cũng là mối đe dọa đối với công lý ở khắp mọi nơi\". Bức thư, được viết trong chiến dịch Birmingham năm 1963, đã được phổ biến rộng rãi và trở thành một văn bản quan trọng của Phong trào Dân quyền Mỹ.",
         "target_focus_areas": [
             [
-                214,
-                499
+                213,
+                300
+            ],
+            [
+                301,
+                482
             ]
         ],
         "source_focus_areas": [
@@ -1656,8 +1828,12 @@
         "target": "Bức thư từ nhà tù Birmingham, còn được biết đến với tên Bức thư từ nhà tù thành phố Birmingham và Người da đen là anh em của bạn, là một bức thư mở được viết vào ngày 16 tháng 4 năm 1963 bởi Martin Luther King Jr. Bức thư bảo vệ chiến lược kháng cự bất bạo động chống lại phân biệt chủng tộc. Nó nói rằng con người có trách nhiệm đạo đức phải phá vỡ những luật lệ bất công và phải hành động trực tiếp thay vì chờ đợi công lý có thể mãi mãi không đến qua các tòa án. Đáp lại việc bị gọi là “người ngoài cuộc”, King viết, “Bất công ở đâu là mối đe dọa đối với công lý ở mọi nơi”. Bức thư, được viết trong chiến dịch Birmingham năm 1963, đã được công bố rộng rãi và trở thành một văn bản quan trọng của Phong trào Dân quyền Mỹ.",
         "target_focus_areas": [
             [
-                214,
-                481
+                213,
+                291
+            ],
+            [
+                292,
+                464
             ]
         ],
         "source_focus_areas": [
@@ -1676,24 +1852,24 @@
         "target": "Mohenjo - daro được xây dựng vào thế kỷ 26 trước Công nguyên . Đây là một trong những thành phố lớn nhất của nền văn minh thung lũng Indus cổ đại , cũng được gọi là văn minh Harappan , phát triển vào khoảng 3.000 trước Công nguyên từ văn hóa Indus tiền sử . Tại thời điểm phát triển mạnh nhất , nền văn minh Indus bao phủ phần lớn những gì bây giờ là Pakistan và Bắc Ấn Độ , mở rộng về phía tây đến biên giới Iran , phía nam đến Gujarat ở Ấn Độ và phía bắc đến một tiền đồn ở Bactria , với các trung tâm đô thị chính tại Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira và Rakhigarhi . Mohenjo - daro là thành phố tiên tiến nhất vào thời của nó , với kỹ thuật dân sự và quy hoạch đô thị tinh vi đáng chú ý . Khi nền văn minh Indus suy giảm đột ngột vào khoảng 1900 trước Công nguyên , Mohenjo - daro bị bỏ hoang . Tàn tích của thành phố vẫn chưa được ghi chép trong khoảng 3.700 năm cho đến khi R.D. Banerji , một sĩ quan của Điều tra khảo cổ học Ấn Độ , đến thăm địa điểm này vào năm 1919 - 20 , xác định được tháp stupa Phật giáo ( 150 - 500 CE ) được biết đến ở đó và tìm thấy một công cụ cạo bằng đá lửa khiến ông tin tưởng về tính cổ xưa của địa điểm . Điều này dẫn đến việc khai quật quy mô lớn Mohenjo - daro do Kashinath Narayan Dikshit dẫn đầu vào năm 1924 - 25 , và John Marshall vào năm 1925 - 26 . Trong những năm 1930 , các cuộc khai quật lớn được thực hiện tại địa điểm dưới sự lãnh đạo của Marshall , D.K. Dikshitar và Ernest Mackay . Các cuộc khai quật thêm được thực hiện vào năm 1945 bởi Ahmad Hasan Dani và Mortimer Wheeler . Loạt khai quật lớn cuối cùng được thực hiện vào năm 1964 và 1965 bởi Tiến sĩ George F. Dales .",
         "target_focus_areas": [
             [
-                1211,
-                1270
+                1220,
+                1276
             ],
             [
-                1276,
-                1314
+                1282,
+                1313
             ],
             [
-                1407,
-                1473
+                1425,
+                1458
             ],
             [
-                1499,
-                1569
+                1459,
+                1553
             ],
             [
-                1615,
-                1649
+                1560,
+                1648
             ]
         ],
         "source_focus_areas": [
@@ -1732,20 +1908,24 @@
         "target": "Mohenjo-daro được xây dựng vào thế kỷ 26 trước Công nguyên. Đây là một trong những thành phố lớn nhất của nền văn minh thung lũng Indus cổ đại, cũng được gọi là văn minh Harappan, đã phát triển vào khoảng 3000 trước Công nguyên từ văn hóa Indus tiền sử. Tại thời điểm cực thịnh, nền văn minh Indus bao phủ phần lớn lãnh thổ Pakistan và Bắc Ấn Độ ngày nay, mở rộng về phía tây đến biên giới Iran, phía nam đến Gujarat ở Ấn Độ và phía bắc đến một tiền đồn ở Bactria, với các trung tâm đô thị lớn tại Harappa, Mohenjo-daro, Lothal, Kalibangan, Dholavira và Rakhigarhi. Mohenjo-daro là thành phố tiên tiến nhất thời bấy giờ, với kỹ thuật dân sự và quy hoạch đô thị tinh vi đáng chú ý. Khi nền văn minh Indus suy giảm đột ngột vào khoảng 1900 trước Công nguyên, Mohenjo-daro bị bỏ hoang. Tàn tích của thành phố vẫn chưa được ghi chép trong khoảng 3.700 năm cho đến khi R.D. Banerji, một sĩ quan của Cục Khảo cổ Ấn Độ, đến thăm địa điểm này vào năm 1919-20, xác định được tháp Phật giáo (150-500 sau Công nguyên) được biết đến ở đó và tìm thấy một công cụ cạo bằng đá lửa, thuyết phục ông về tính cổ xưa của địa điểm này. Điều này đã dẫn đến việc khai quật quy mô lớn Mohenjo-daro do Kashinath Narayan Dikshit lãnh đạo vào năm 1924-25 và John Marshall vào năm 1925-26. Trong những năm 1930, các cuộc khai quật lớn đã được tiến hành tại địa điểm này dưới sự lãnh đạo của Marshall, D.K. Dikshitar và Ernest Mackay. Các cuộc khai quật tiếp theo được thực hiện vào năm 1945 bởi Ahmad Hasan Dani và Mortimer Wheeler. Loạt khai quật lớn cuối cùng được thực hiện vào năm 1964 và 1965 bởi Tiến sĩ George F. Dales.",
         "target_focus_areas": [
             [
-                1155,
-                1268
+                1170,
+                1225
             ],
             [
-                1351,
-                1425
+                1226,
+                1258
             ],
             [
-                1451,
-                1524
+                1373,
+                1405
             ],
             [
-                1558,
-                1599
+                1406,
+                1504
+            ],
+            [
+                1505,
+                1598
             ]
         ],
         "source_focus_areas": [
@@ -1784,8 +1964,16 @@
         "target": "Khi anh ấy đi lưu diễn, ở trong khách sạn, `` các phòng sẽ được cải tạo trước khi anh ấy đến, để tạo ra cùng một bố cục không gian như anh ấy có ở nhà -- dinh thự Graceland. Đồ đạc của anh ấy sẽ được mang đến, và anh ấy có thể thư giãn sau các buổi biểu diễn trong một môi trường hoàn toàn quen thuộc và thoải mái,'' căn phòng được đề cập, 'The Jungle Room' là ``một ví dụ điển hình của sự lòe loẹt thái quá.'' Vào ngày 16 tháng 8 năm 1977, Presley qua đời trong phòng tắm tại Graceland, được cho là do một cơn đau tim. Elvis Presley được quàn trong một cỗ quan tài bằng đồng nặng 900 pound ngay trong sảnh, trong khi hơn 3.500 người hâm mộ đang tang thương của Elvis đi qua để bày tỏ lòng tôn kính. Một đám tang riêng tư với 200 người dự tang lễ đã được tổ chức vào ngày 18 tháng 8 năm 1977 trong nhà, với quan tài được đặt trước cửa sổ kính màu của phòng nhạc. Graceland tiếp tục được các thành viên trong gia đình chiếm đóng cho đến khi bà dì Delta của Elvis qua đời vào năm 1993, người đã chuyển đến theo lời mời của Elvis sau khi chồng bà qua đời. Con gái của Elvis, Lisa Marie Presley, đã thừa kế trang viên vào năm 1993 khi cô tròn 25 tuổi. Presley, cha mẹ anh Gladys & Vernon Presley, và bà nội anh Minnie Mae Presley được chôn cất trong khu vườn Thiền định trên khu đất. Một bia mộ tưởng niệm cho người anh song sinh chết non của Presley, Jesse Garon, cũng nằm tại đây. Graceland đã được liệt kê vào Sổ đăng ký các Địa điểm Lịch sử Quốc gia vào ngày 7 tháng 11 năm 1991 và được chỉ định là Cột mốc Lịch sử Quốc gia vào ngày 27 tháng 3 năm 2006. Graceland là địa điểm đầu tiên liên quan đến nhạc rock and roll được đưa vào Sổ đăng ký các Địa điểm Lịch sử Quốc gia.",
         "target_focus_areas": [
             [
-                1131,
-                1245
+                1147,
+                1155
+            ],
+            [
+                1156,
+                1191
+            ],
+            [
+                1192,
+                1265
             ]
         ],
         "source_focus_areas": [
@@ -1808,8 +1996,16 @@
         "target": "Khi anh ấy đi lưu diễn, ở trong khách sạn, \"các phòng sẽ được cải tạo trước khi anh ấy đến, để tạo ra cùng một bố cục không gian như anh ấy có ở nhà - dinh thự Graceland. Đồ đạc của anh ấy sẽ đến, và anh ấy có thể thư giãn sau các buổi biểu diễn trong một môi trường hoàn toàn quen thuộc và thoải mái,\" căn phòng được đề cập, 'The Jungle Room' là \"một ví dụ điển hình của sự sặc sỡ lòe loẹt một cách kỳ quặc.\" Vào ngày 16 tháng 8 năm 1977, Presley qua đời trong phòng tắm tại Graceland, được cho là do lên cơn đau tim. Elvis Presley được quàn trong một quan tài bằng đồng nặng 900 pound ngay bên trong tiền sảnh trong khi hơn 3.500 người hâm mộ đang tang thương của Elvis đi qua để bày tỏ lòng tôn kính. Một đám tang riêng tư với 200 người tham dự được tổ chức vào ngày 18 tháng 8 năm 1977 trong nhà, với quan tài được đặt trước cửa kính màu của phòng nhạc. Graceland tiếp tục được các thành viên trong gia đình sinh sống cho đến khi bà dì Delta của Elvis qua đời vào năm 1993, bà đã chuyển đến theo lời mời của Elvis sau khi chồng bà qua đời. Con gái của Elvis, Lisa Marie Presley, đã thừa kế gia sản vào năm 1993 khi cô tròn 25 tuổi. Presley, cha mẹ anh ấy là Gladys & Vernon Presley, và bà nội Minnie Mae Presley được chôn cất trong khu vườn Thiền định trên khu đất. Một bia tưởng niệm cho người anh trai song sinh của Presley, Jesse Garon, cũng được đặt tại đó. Graceland đã được liệt kê vào Sổ đăng ký các Địa điểm Lịch sử Quốc gia vào ngày 7 tháng 11 năm 1991 và được chỉ định là Cột mốc Lịch sử Quốc gia vào ngày 27 tháng 3 năm 2006. Graceland là địa điểm đầu tiên liên quan đến nhạc rock and roll được đưa vào Sổ đăng ký các Địa điểm Lịch sử Quốc gia.",
         "target_focus_areas": [
             [
-                1119,
-                1235
+                1135,
+                1143
+            ],
+            [
+                1144,
+                1185
+            ],
+            [
+                1186,
+                1255
             ]
         ],
         "source_focus_areas": [
@@ -1833,7 +2029,11 @@
         "target_focus_areas": [
             [
                 0,
-                162
+                65
+            ],
+            [
+                66,
+                140
             ]
         ],
         "source_focus_areas": [
@@ -1853,7 +2053,11 @@
         "target_focus_areas": [
             [
                 0,
-                173
+                78
+            ],
+            [
+                79,
+                151
             ]
         ],
         "source_focus_areas": [
@@ -1872,8 +2076,8 @@
         "target": "Các sao chổi có thể đã từng là nguồn cung cấp nước cho Trái đất cùng với các chất hữu cơ có thể hình thành protein và hỗ trợ sự sống. Các nhà khoa học hy vọng sẽ hiểu được cách các hành tinh hình thành, đặc biệt là cách Trái đất hình thành, vì các sao chổi đã va chạm với Trái đất từ rất lâu rồi.",
         "target_focus_areas": [
             [
-                154,
-                256
+                133,
+                239
             ]
         ],
         "source_focus_areas": [
@@ -1888,8 +2092,8 @@
         "target": "Các sao chổi có thể đã là nguồn cung cấp nước cho Trái đất cùng với các vật chất hữu cơ có thể hình thành protein và hỗ trợ sự sống. Các nhà khoa học hy vọng hiểu được cách các hành tinh hình thành, đặc biệt là cách Trái đất hình thành, vì các sao chổi đã va chạm với Trái đất từ rất lâu.",
         "target_focus_areas": [
             [
-                150,
-                252
+                132,
+                235
             ]
         ],
         "source_focus_areas": [
@@ -1904,8 +2108,8 @@
         "target": "Vào thời điểm mạnh nhất, Bão nhiệt đới Gonu, được đặt tên theo một túi lá dừa trong tiếng của Maldives, đã đạt gió duy trì với tốc độ 240 kilômét mỗi giờ (149 dặm mỗi giờ). Vào đầu ngày hôm nay, gió đã giảm xuống khoảng 83 km/h, và dự kiến sẽ tiếp tục yếu đi.",
         "target_focus_areas": [
             [
-                119,
-                189
+                103,
+                171
             ]
         ],
         "source_focus_areas": [
@@ -1920,8 +2124,8 @@
         "target": "Vào thời điểm mạnh nhất, Bão nhiệt đới Gonu, được đặt tên theo một túi lá dừa trong ngôn ngữ của Maldives, đã đạt gió duy trì với tốc độ 240 kilômét mỗi giờ (149 dặm mỗi giờ). Vào đầu ngày hôm nay, gió đã giảm xuống khoảng 83 km/h, và dự kiến sẽ tiếp tục suy yếu.",
         "target_focus_areas": [
             [
-                122,
-                192
+                106,
+                174
             ]
         ],
         "source_focus_areas": [
@@ -1936,8 +2140,8 @@
         "target": "Máy bay đang trên đường tới Irkutsk và được vận hành bởi quân đội nội vụ. Một cuộc điều tra đã được mở để điều tra vụ việc. Il-76 đã là một thành phần quan trọng của cả quân đội Nga và Liên Xô kể từ những năm 1970 và đã gặp một tai nạn nghiêm trọng ở Nga vào tháng trước. Vào ngày 7 tháng 10, một động cơ đã bị tách ra khi cất cánh, không gây thương tích. Nga đã tạm dừng hoạt động của máy bay Il-76 sau tai nạn đó.",
         "target_focus_areas": [
             [
-                386,
-                415
+                397,
+                414
             ]
         ],
         "source_focus_areas": [
@@ -1952,8 +2156,8 @@
         "target": "Máy bay đang trên đường tới Irkutsk và được điều khiển bởi quân đội nội vụ. Một cuộc điều tra đã được thành lập để điều tra. Il-76 là một thành phần quan trọng của cả quân đội Nga và Liên Xô kể từ những năm 1970 và đã từng gặp một tai nạn nghiêm trọng ở Nga vào tháng trước. Vào ngày 7 tháng 10, một động cơ đã bị tách ra khi cất cánh, không gây thương vong. Nga đã tạm dừng hoạt động của Il-76 sau tai nạn đó.",
         "target_focus_areas": [
             [
-                380,
-                410
+                392,
+                409
             ]
         ],
         "source_focus_areas": [
@@ -1968,8 +2172,8 @@
         "target": "Điều này không chỉ xác nhận rằng ít nhất một số loài khủng long có lông vũ, một giả thuyết vốn đã phổ biến, mà còn cung cấp những thông tin mà hóa thạch nói chung không thể, như màu sắc và sự sắp xếp ba chiều. Các nhà khoa học nói rằng bộ lông vũ của loài động vật này có màu nâu sẫm ở trên và phần dưới có màu nhạt hoặc màu sắc của carotenoid. Phát hiện này cũng mang lại cái nhìn sâu sắc về sự tiến hóa của lông vũ ở chim. Vì những chiếc lông khủng long này không có cuống lông phát triển đầy đủ, được gọi là rachis, nhưng lại có những đặc điểm khác của lông — sợi lông và lông nhánh — các nhà nghiên cứu suy luận rằng rachis có thể là một bước phát triển tiến hóa muộn hơn các đặc điểm khác này. Cấu trúc của những chiếc lông này cho thấy chúng không được sử dụng để bay mà thay vào đó là để điều hòa nhiệt độ hoặc trưng diện. Các nhà nghiên cứu cho rằng, dù đây là đuôi của một con khủng long nhỏ, mẫu này lại thể hiện bộ lông vũ trưởng thành chứ không phải lớp lông tơ của một con non. Các nhà nghiên cứu cho rằng, dù đây là đuôi của một con khủng long nhỏ, mẫu này lại thể hiện bộ lông vũ trưởng thành chứ không phải lớp lông tơ của một con non.",
         "target_focus_areas": [
             [
-                495,
-                537
+                498,
+                517
             ]
         ],
         "source_focus_areas": [
@@ -1984,8 +2188,8 @@
         "target": "Điều này không chỉ xác nhận rằng ít nhất một số loài khủng long có lông, một giả thuyết đã được công nhận rộng rãi, mà còn cung cấp những thông tin mà hóa thạch thường không thể, chẳng hạn như màu sắc và cách sắp xếp ba chiều. Các nhà khoa học nói rằng bộ lông của con vật này có màu nâu hạt dẻ ở phần trên và phần dưới có màu nhạt hoặc màu sắc lutein. Phát hiện này cũng mang lại cái nhìn sâu sắc về sự tiến hóa của lông ở chim. Vì những chiếc lông khủng long này không có trục phát triển tốt, được gọi là rachis, nhưng lại có những đặc điểm khác của lông - các sợi lông (barbs) và sợi phụ (barbules) - các nhà nghiên cứu suy luận rằng rachis có lẽ là một đặc điểm tiến hóa muộn hơn các đặc điểm khác này. Cấu trúc của các chiếc lông cho thấy chúng không được sử dụng để bay mà thay vào đó là để điều hòa nhiệt độ hoặc trưng bày. Các nhà nghiên cứu cho rằng, mặc dù đây là đuôi của một con khủng long non, mẫu vật này thể hiện bộ lông của loài trưởng thành chứ không phải lông non của con nít. Các nhà nghiên cứu cho rằng, mặc dù đây là đuôi của một con khủng long non, mẫu vật này thể hiện bộ lông của loài trưởng thành chứ không phải lông non của con nít.",
         "target_focus_areas": [
             [
-                490,
-                533
+                494,
+                513
             ]
         ],
         "source_focus_areas": [
@@ -2001,31 +2205,55 @@
         "target_focus_areas": [
             [
                 0,
-                122
+                20
             ],
             [
-                133,
-                245
+                21,
+                65
             ],
             [
-                249,
-                377
+                68,
+                118
             ],
             [
-                382,
-                481
+                119,
+                160
             ],
             [
-                495,
-                589
+                161,
+                186
             ],
             [
-                601,
-                723
+                187,
+                228
             ],
             [
-                729,
-                752
+                229,
+                303
+            ],
+            [
+                304,
+                354
+            ],
+            [
+                355,
+                462
+            ],
+            [
+                474,
+                603
+            ],
+            [
+                617,
+                675
+            ],
+            [
+                676,
+                705
+            ],
+            [
+                706,
+                751
             ]
         ],
         "source_focus_areas": [
@@ -2137,31 +2365,55 @@
         "target_focus_areas": [
             [
                 0,
-                122
+                20
             ],
             [
-                135,
-                372
+                21,
+                63
             ],
             [
-                380,
-                477
+                66,
+                114
             ],
             [
-                499,
-                579
+                115,
+                158
             ],
             [
-                612,
-                651
+                159,
+                184
             ],
             [
-                652,
-                738
+                185,
+                224
             ],
             [
-                744,
-                767
+                225,
+                296
+            ],
+            [
+                297,
+                347
+            ],
+            [
+                348,
+                459
+            ],
+            [
+                471,
+                595
+            ],
+            [
+                627,
+                690
+            ],
+            [
+                691,
+                720
+            ],
+            [
+                721,
+                766
             ]
         ],
         "source_focus_areas": [
@@ -2273,7 +2525,7 @@
         "target_focus_areas": [
             [
                 0,
-                173
+                153
             ]
         ],
         "source_focus_areas": [
@@ -2289,7 +2541,7 @@
         "target_focus_areas": [
             [
                 0,
-                172
+                160
             ]
         ],
         "source_focus_areas": [
@@ -2304,12 +2556,12 @@
         "target": "@CindyKendrick11 Chuyện súp dơi chỉ là một cái cớ. Dù thứ gì đó đã rò rỉ ra từ một phòng thí nghiệm vũ khí sinh học của Trung Quốc ở Vũ Hán. Chính phủ Trung Quốc phải chịu trách nhiệm về điều này.",
         "target_focus_areas": [
             [
-                0,
-                63
+                1,
+                49
             ],
             [
-                126,
-                196
+                140,
+                195
             ]
         ],
         "source_focus_areas": [
@@ -2328,11 +2580,11 @@
         "target": "@CindyKendrick11 Cái chuyện súp dơi chỉ là một cái cớ thôi. Cái thứ gì đó đã rò rỉ ra từ một phòng thí nghiệm vũ khí sinh học của Trung Quốc ở Vũ Hán. Chính phủ Trung Quốc phải chịu trách nhiệm về chuyện này.",
         "target_focus_areas": [
             [
-                0,
-                73
+                1,
+                58
             ],
             [
-                136,
+                150,
                 208
             ]
         ],
@@ -2352,7 +2604,7 @@
         "target": "Một trong những phân tích tốt hơn về đề xuất của @realDonaldTrump là tiêm dung dịch khử trùng làm phương pháp điều trị #COVID19",
         "target_focus_areas": [
             [
-                40,
+                50,
                 127
             ]
         ],
@@ -2368,7 +2620,7 @@
         "target": "Một trong những phân tích tốt hơn về đề xuất của @realDonaldTrump là tiêm dung dịch khử trùng làm phương pháp điều trị #COVID19",
         "target_focus_areas": [
             [
-                40,
+                50,
                 127
             ]
         ],
@@ -2384,8 +2636,12 @@
         "target": "Tôi nghe nói rằng #Trung Quốc đã phát hiện virus corona vào năm 2002. Và vào năm 2020 Corona từ một phòng thí nghiệm nằm ở #thành phố Vũ Hán đã lan ra (do nhầm lẫn) ra môi trường bên ngoài.  \n@COVIDNewsByMIB  \n#Corona #COVID19 Virus Trung Quốc19 Vũ khí Sinh học Khủng bố Sinh học Trung Quốc",
         "target_focus_areas": [
             [
-                0,
-                217
+                19,
+                68
+            ],
+            [
+                69,
+                188
             ]
         ],
         "source_focus_areas": [
@@ -2404,8 +2660,12 @@
         "target": "Tôi nghe nói rằng #TrungQuốc đã phát hiện ra virus corona vào năm 2002. Và vào năm 2020, Corona từ một phòng thí nghiệm nằm ở thành phố #VũHán đã lan ra (do sơ suất) ra môi trường bên ngoài.  \n@COVIDNewsByMIB  \n#Corona #COVID19 Virus Trung Quốc19 Vũ khí sinh học Khủng bố sinh học Trung Quốc",
         "target_focus_areas": [
             [
-                0,
-                218
+                19,
+                70
+            ],
+            [
+                71,
+                189
             ]
         ],
         "source_focus_areas": [
@@ -2424,7 +2684,7 @@
         "target": "Tôi không bao giờ muốn thấy một thế hệ người Mỹ trẻ khác phải đổ máu trên các bãi biển cát ở Thái Bình Dương, hoặc trên các cánh đồng lúa và rừng ở châu Á hay trên các chiến trường bùn đất ở châu Âu. Ông Stone, tôi đã đệ trình một kế hoạch kinh tế mà tôi đã làm việc cùng với một số nhà kinh tế học xuất sắc trong nước này, tất cả đều chấp thuận nó, và tin rằng trong một dự đoán năm năm, kế hoạch này có thể cho phép chi tiêu thêm cho việc tu sửa lại tư thế phòng thủ của chúng ta, rằng nó có thể cung cấp một ngân sách cân bằng vào năm 1983 hoặc sớm hơn, và rằng chúng ta có thể chi trả - cùng với những cắt giảm mà tôi đã đề xuất trong chi tiêu của Chính phủ - chúng ta có thể chi trả cho việc cắt thuế mà tôi đã đề xuất và có lẽ chủ yếu là vì chính sách kinh tế của ông Carter đã xây dựng vào năm năm tới, và hơn thế nữa, một mức tăng thuế sẽ lấy đi 86 tỷ đô la nhiều hơn từ túi tiền của người dân so với năm nay.",
         "target_focus_areas": [
             [
-                185,
+                199,
                 917
             ]
         ],
@@ -2440,8 +2700,8 @@
         "target": "Tôi không bao giờ muốn thấy một thế hệ người Mỹ trẻ khác phải đổ máu trên các bãi biển cát ở Thái Bình Dương, hoặc trên các cánh đồng lúa và rừng ở châu Á hay trên các chiến trường đầy bùn ở châu Âu. Ông Stone, tôi đã trình bày một kế hoạch kinh tế mà tôi đã làm việc cùng với một số nhà kinh tế học xuất sắc ở nước này, tất cả đều đồng ý với kế hoạch đó, và tin rằng trong dự báo 5 năm, kế hoạch này có thể cho phép chi tiêu thêm cho việc tu sửa lại tư thế phòng thủ của chúng ta, rằng nó có thể cung cấp một ngân sách cân bằng vào năm 1983 hoặc sớm hơn, và rằng chúng ta có thể chi trả - cùng với các cắt giảm mà tôi đã đề xuất trong chi tiêu của Chính phủ - chúng ta có thể chi trả cho việc cắt thuế mà tôi đã đề xuất và có lẽ chủ yếu là vì chính sách kinh tế của ông Carter đã xây dựng vào 5 năm tới, và hơn thế nữa, một mức tăng thuế sẽ lấy đi 86 tỷ đô la nhiều hơn từ túi tiền của người dân so với năm nay.",
         "target_focus_areas": [
             [
-                185,
-                672
+                199,
+                659
             ]
         ],
         "source_focus_areas": [
@@ -2456,8 +2716,8 @@
         "target": "Và trong một số trường hợp có thể vẫn còn tại ngoại. Nhưng tôi ủng hộ án tử hình trong những trường hợp tàn bạo nhất. Tôi đồng ý.",
         "target_focus_areas": [
             [
-                34,
-                129
+                52,
+                128
             ]
         ],
         "source_focus_areas": [
@@ -2472,8 +2732,8 @@
         "target": "Và trong một số trường hợp có thể vẫn còn nhởn nhơ ngoài vòng pháp luật. Nhưng tôi ủng hộ án tử hình trong những trường hợp tàn bạo nhất. Tôi thì có.",
         "target_focus_areas": [
             [
-                51,
-                149
+                72,
+                148
             ]
         ],
         "source_focus_areas": [
@@ -2488,8 +2748,8 @@
         "target": "Không hẳn vậy. Lấy ví dụ về phần phạt kết hôn. Nếu bạn liệt kê các khoản khấu trừ trên tờ khai thuế của mình, bạn sẽ không nhận được bất kỳ sự giảm nhẹ nào cho phần phạt kết hôn.",
         "target_focus_areas": [
             [
-                15,
-                62
+                14,
+                81
             ]
         ],
         "source_focus_areas": [
@@ -2504,8 +2764,8 @@
         "target": "Không phải vậy. Hãy lấy ví dụ về khoản phạt kết hôn. Nếu bạn liệt kê các khoản khấu trừ trên tờ khai thuế của mình, bạn sẽ không nhận được bất kỳ sự miễn giảm nào đối với khoản phạt kết hôn.",
         "target_focus_areas": [
             [
-                20,
-                68
+                15,
+                87
             ]
         ],
         "source_focus_areas": [
@@ -2521,7 +2781,7 @@
         "target_focus_areas": [
             [
                 0,
-                409
+                400
             ]
         ],
         "source_focus_areas": [
@@ -2537,7 +2797,7 @@
         "target_focus_areas": [
             [
                 0,
-                395
+                386
             ]
         ],
         "source_focus_areas": [
@@ -2552,12 +2812,12 @@
         "target": "Đúng vậy, Hiến pháp của chúng ta không có điều khoản 'thủ tục hợp pháp' hoặc Tu chính án VIII; nhưng, trong lĩnh vực pháp luật này, sau R.C. Cooper v. Liên minh Ấn Độ, (1970) 1 SCC 248 và Maneka Gandhi v. Liên minh Ấn Độ, (1978) 1 SCC 248, kết quả vẫn giống nhau.",
         "target_focus_areas": [
             [
-                0,
-                38
+                9,
+                53
             ],
             [
-                117,
-                257
+                131,
+                238
             ]
         ],
         "source_focus_areas": [
@@ -2580,12 +2840,12 @@
         "target": "Đúng, Hiến pháp của chúng ta không có điều khoản 'thủ tục đúng đắn' hay Tu chính án VIII; nhưng, trong lĩnh vực pháp luật này, sau các vụ án R.C. Cooper v. Liên minh Ấn Độ, (1970) 1 SCC 248 và Maneka Gandhi v. Liên minh Ấn Độ, (1978) 1 SCC 248, hậu quả vẫn giống nhau.",
         "target_focus_areas": [
             [
-                0,
-                34
+                5,
+                49
             ],
             [
-                112,
-                262
+                126,
+                243
             ]
         ],
         "source_focus_areas": [
@@ -2608,12 +2868,12 @@
         "target": "Trong thời gian đó, anh là một thành viên của đội ngũ tin tức ABC bị bắn tỉa ở Sarajevo, Bosnia vào tháng 8 năm 1992. David Kaplan, một nhà sản xuất kỳ cựu của ABC News tại Washington, đã thiệt mạng trong vụ việc. Năm 1997, Sherwood gia nhập Nightly News của NBC với Tom Brokaw với vai trò nhà sản xuất, sau đó là nhà sản xuất cấp cao và cuối cùng là nhà sản xuất chương trình cấp cao, nơi anh có mặt trong quá trình đưa tin về vụ tấn công ngày 11 tháng 9.",
         "target_focus_areas": [
             [
-                205,
-                293
+                223,
+                302
             ],
             [
-                371,
-                410
+                385,
+                427
             ]
         ],
         "source_focus_areas": [
@@ -2636,12 +2896,16 @@
         "target": "Trong thời gian đó, anh là một thành viên của nhóm tin tức ABC News bị bắn tỉa ở Sarajevo, Bosnia vào tháng 8 năm 1992. David Kaplan, một nhà sản xuất kỳ cựu của ABC News tại Washington, đã thiệt mạng trong vụ việc. Năm 1997, Sherwood gia nhập NBC's Nightly News với Tom Brokaw với vai trò nhà sản xuất, sau đó là nhà sản xuất cấp cao, và cuối cùng là nhà sản xuất phát sóng cấp cao, nơi anh có mặt trong quá trình đưa tin về các cuộc tấn công ngày 11 tháng 9.",
         "target_focus_areas": [
             [
-                207,
-                293
+                225,
+                247
             ],
             [
-                370,
-                408
+                248,
+                302
+            ],
+            [
+                383,
+                425
             ]
         ],
         "source_focus_areas": [
@@ -2664,16 +2928,16 @@
         "target": "Vào ngày 27 tháng 9 năm 2014, Toshney ký hợp đồng với Ross County và có trận ra mắt vào cùng ngày khi đội bóng đánh bại Dundee với tỷ số 2--1. Sau khi chia tay Ross County, Toshney đã ký hợp đồng với Cowdenbeath vào ngày 3 tháng 2 năm 2015, với hợp đồng kéo dài đến hết mùa giải 2014--15. Vào ngày 11 tháng 6 năm 2015, Toshney ký hợp đồng với Raith Rovers. Sau khi ông chuyển đến đối thủ tại Scottish Championship là Dundee United, cựu huấn luyện viên của Raith Rovers, Ray McKinnon, đã bày tỏ mong muốn đưa Toshney đến Tannadice.",
         "target_focus_areas": [
             [
-                12,
-                53
+                29,
+                71
             ],
             [
-                343,
-                387
+                356,
+                416
             ],
             [
-                447,
-                498
+                469,
+                482
             ]
         ],
         "source_focus_areas": [
@@ -2696,16 +2960,16 @@
         "target": "Vào ngày 27 tháng 9 năm 2014, Toshney ký hợp đồng với Ross County và ra mắt cùng ngày khi họ đánh bại Dundee với tỷ số 2–1. Sau khi bị Ross County giải约, Toshney ký hợp đồng với Cowdenbeath vào ngày 3 tháng 2 năm 2015, với hợp đồng kéo dài đến hết mùa giải 2014–15. Vào ngày 11 tháng 6 năm 2015, Toshney ký hợp đồng với Raith Rovers. Sau khi anh chuyển đến Dundee United, đối thủ của Raith Rovers tại Scottish Championship, cựu huấn luyện viên của Raith Rovers là Ray McKinnon đã bày tỏ mong muốn đưa Toshney đến Tannadice.",
         "target_focus_areas": [
             [
-                12,
-                53
+                29,
+                71
             ],
             [
-                320,
-                371
+                333,
+                370
             ],
             [
-                444,
-                491
+                423,
+                512
             ]
         ],
         "source_focus_areas": [
@@ -2728,16 +2992,16 @@
         "target": "Suanna Wallumr*d đã hợp tác với harpista baroque xuất sắc Giovanna Pessi, người trước đây đã tạo được tiếng vang với nhiều bản thu âm trên ECM. Sự hợp tác của Pessi với nghệ sĩ piano Christian Wallumr*d đã đưa cô thường xuyên đến Oslo, nơi cô gặp gỡ và trở thành bạn với Susanna, em gái của nghệ sĩ piano. Susanna đã mời Pessi tham gia chơi trong album solo của cô ấy mang tên Sonata Mix Dwarf Cosmos (2008), và bốn năm sau, đến lượt nữ ca sĩ người Na Uy đảm nhận vai trò khách mời.",
         "target_focus_areas": [
             [
-                41,
-                92
+                15,
+                72
             ],
             [
-                253,
-                295
+                235,
+                278
             ],
             [
-                341,
-                387
+                305,
+                401
             ]
         ],
         "source_focus_areas": [
@@ -2760,16 +3024,16 @@
         "target": "Suanna Wallumr*d đã hợp tác với nghệ sĩ harp baroque xuất sắc Giovanna Pessi, người trước đó đã nổi tiếng với nhiều bản ghi âm của ECM. Sự hợp tác của Pessi với nghệ sĩ piano Christian Wallumr*d đã đưa cô thường xuyên đến Oslo, nơi cô gặp gỡ và kết bạn với Susanna, em gái của nghệ sĩ piano. Susanna đã mời Pessi chơi trên album solo của mình Sonata Mix Dwarf Cosmos (2008), và bốn năm sau, đến lượt nữ ca sĩ Na Uy đóng vai khách mời.",
         "target_focus_areas": [
             [
-                45,
-                95
+                15,
+                76
             ],
             [
-                242,
-                281
+                227,
+                264
             ],
             [
-                313,
-                366
+                291,
+                367
             ]
         ],
         "source_focus_areas": [
@@ -2792,12 +3056,16 @@
         "target": "Đó cuối cùng đã được công bố rằng Anderson sẽ đối đầu với Van Dam tại Victory Road để có cơ hội tranh đai. Một cuộc thù hằn mà đi vào Victory Road là giữa A.J. Styles, Matt Hardy và Ric Flair. Trong phiên bản ngày 17 tháng 2 của TNA Impact!, Flair đã phản bội Styles trong trận đấu đơn của anh với Hardy.",
         "target_focus_areas": [
             [
-                142,
-                213
+                159,
+                166
             ],
             [
-                251,
-                304
+                167,
+                191
+            ],
+            [
+                241,
+                303
             ]
         ],
         "source_focus_areas": [
@@ -2820,8 +3088,12 @@
         "target": "Cuối cùng, nó đã được công bố rằng Anderson sẽ đối đầu với Van Dam tại Victory Road để có cơ hội tranh đai. Một cuộc thù hận mà đi vào Victory Road là giữa A.J. Styles, Matt Hardy và Ric Flair. Trong phiên bản ngày 17 tháng 2 của TNA Impact!, Flair đã phản bội Styles trong cuộc thi đấu một đối một với Hardy.",
         "target_focus_areas": [
             [
-                143,
-                214
+                160,
+                167
+            ],
+            [
+                168,
+                192
             ]
         ],
         "source_focus_areas": [
@@ -2844,12 +3116,12 @@
         "target": "Jim đến ngân hàng để lấy sao kê để xem mình còn bao nhiêu tiền cho cuối tuần, nhưng sao kê cho thấy cậu ta không còn đồng nào.",
         "target_focus_areas": [
             [
-                8,
-                47
+                0,
+                66
             ],
             [
-                63,
-                106
+                77,
+                125
             ]
         ],
         "source_focus_areas": [
@@ -2868,12 +3140,12 @@
         "target": "Jim đến ngân hàng để lấy sao kê xem còn bao nhiêu tiền cho cuối tuần, nhưng sao kê cho thấy cậu ta trắng tay.",
         "target_focus_areas": [
             [
-                8,
-                49
+                0,
+                68
             ],
             [
-                55,
-                98
+                69,
+                108
             ]
         ],
         "source_focus_areas": [
@@ -2912,8 +3184,8 @@
         "target": "Thời tiết ở miền nam nước Pháp tốt hơn nhiều so với nhiệt độ ở Nga, vì thời tiết luôn ấm áp.",
         "target_focus_areas": [
             [
-                58,
-                92
+                67,
+                91
             ]
         ],
         "source_focus_areas": [
@@ -2932,8 +3204,8 @@
         "target": "John muốn tự làm nước soda với nước có ga và một hương vị nhưng nước thì không có gas.",
         "target_focus_areas": [
             [
-                13,
-                86
+                0,
+                85
             ]
         ],
         "source_focus_areas": [
@@ -2952,8 +3224,8 @@
         "target": "John muốn tự làm soda của mình với nước có ga và hương vị nhưng nước lại bị mất ga.",
         "target_focus_areas": [
             [
-                17,
-                83
+                0,
+                82
             ]
         ],
         "source_focus_areas": [
@@ -2972,8 +3244,8 @@
         "target": "Jim rất vui khi thay thế máy chạy bộ của mình bằng một xe đạp tập thể dục cố định vì xe đạp tập thể dục cố định đó mới.",
         "target_focus_areas": [
             [
-                37,
-                119
+                0,
+                118
             ]
         ],
         "source_focus_areas": [
@@ -2992,8 +3264,8 @@
         "target": "Jim vui mừng khi thay thế máy chạy bộ của mình bằng xe đạp cố định vì xe đạp cố định là mới.",
         "target_focus_areas": [
             [
-                35,
-                92
+                0,
+                91
             ]
         ],
         "source_focus_areas": [
@@ -3012,12 +3284,16 @@
         "target": "câu: mọi người thực sự thích bánh quy bơ nâu rượu bourbon gia vị; chỉ có một vài người thích bánh quy caramel hạt hồ đào. lần tới, chúng ta nên làm ít hơn chúng.",
         "target_focus_areas": [
             [
-                9,
-                139
+                4,
+                64
             ],
             [
-                140,
-                161
+                65,
+                120
+            ],
+            [
+                130,
+                160
             ]
         ],
         "source_focus_areas": [
@@ -3040,8 +3316,16 @@
         "target": "Câu: mọi người thực sự thích bánh quy bơ nâu bourbon gia vị; chỉ một vài người thích bánh quy caramel pecan. Lần tới, chúng ta nên làm ít loại đó hơn.",
         "target_focus_areas": [
             [
-                9,
-                150
+                4,
+                59
+            ],
+            [
+                60,
+                107
+            ],
+            [
+                117,
+                149
             ]
         ],
         "source_focus_areas": [
@@ -3064,8 +3348,8 @@
         "target": "sentence: Lucy an ủi Emma vì cô ấy quá buồn.",
         "target_focus_areas": [
             [
-                0,
-                44
+                9,
+                43
             ]
         ],
         "source_focus_areas": [
@@ -3089,7 +3373,7 @@
         "target_focus_areas": [
             [
                 0,
-                34
+                33
             ]
         ],
         "source_focus_areas": [
@@ -3112,8 +3396,8 @@
         "target": "câu: khuôn lăn ra khỏi giá đỡ vì nó không được cố định.",
         "target_focus_areas": [
             [
-                0,
-                55
+                4,
+                54
             ]
         ],
         "source_focus_areas": [
@@ -3136,8 +3420,8 @@
         "target": "Câu: khuôn đã lật khỏi giá vì nó không được cố định.",
         "target_focus_areas": [
             [
-                0,
-                52
+                4,
+                51
             ]
         ],
         "source_focus_areas": [
@@ -3160,8 +3444,12 @@
         "target": "Câu: Patrick đã cố gọi cho Jake qua điện thoại , nhưng anh ấy không thành công .",
         "target_focus_areas": [
             [
-                0,
-                80
+                4,
+                47
+            ],
+            [
+                48,
+                79
             ]
         ],
         "source_focus_areas": [
@@ -3185,7 +3473,11 @@
         "target_focus_areas": [
             [
                 0,
-                75
+                46
+            ],
+            [
+                47,
+                74
             ]
         ],
         "source_focus_areas": [
