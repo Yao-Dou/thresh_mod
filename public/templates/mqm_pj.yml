@@ -28,10 +28,10 @@ edits:
             label: "Minor"
           - name: major
             label: "Major"
-  - name: too_general
-    label: "Too General"
-    color: blue
-    icon: fa-arrows-left-right
+  - name: unfluent_awkward
+    label: "Unfluent/Awkward"
+    color: grey
+    icon: fa-eye-slash
     enable_output: true   
     annotation:
       - name: severity
@@ -41,10 +41,23 @@ edits:
             label: "Minor"
           - name: major
             label: "Major"
-  - name: unfluent_awkward
-    label: "Unfluent/Awkward"
-    color: grey
-    icon: fa-eye-slash
+  - name: connotative
+    label: "Connotative mismatch"
+    color: teal
+    icon: fa-language
+    enable_output: true
+    annotation:
+      - name: severity
+        question: "Rate the severity"
+        options:
+          - name: minor
+            label: "Minor"
+          - name: major
+            label: "Major"
+  - name: untranslated
+    label: "Should not be left in English"
+    color: blue
+    icon: fa-arrows-left-right
     enable_output: true   
     annotation:
       - name: severity
@@ -72,6 +85,19 @@ edits:
     color: red
     icon: fa-xmark
     enable_input: true   
+    annotation:
+      - name: severity
+        question: "Rate the severity"
+        options:
+          - name: minor
+            label: "Minor"
+          - name: major
+            label: "Major"
+  - name: other
+    label: "Other"
+    color: grey
+    icon: fa-question
+    enable_output: true   
     annotation:
       - name: severity
         question: "Rate the severity"
