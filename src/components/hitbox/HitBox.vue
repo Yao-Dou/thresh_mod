@@ -36,7 +36,8 @@ export default {
     ],
     data() {
         return {
-            showContext: false
+            showContext: false,
+            showReference: true
         }
     },
     watch: {
@@ -61,6 +62,9 @@ export default {
                 this.showContext = false;
             } else {
                 $('.context-container').show(0);
+            }
+            if (this.reference_exists()) {
+                this.showReference = true;
             }
         },
         get_circle_class(n) {
@@ -118,6 +122,9 @@ export default {
                 $('.context-container').show(0);
                 $('.context-container').hide(300);
             }
+        },
+        toggle_reference() {
+            this.showReference = !this.showReference;
         },
         restart_hit() {
             let new_hits_data = _.cloneDeep(this.hits_data);
@@ -203,6 +210,9 @@ export default {
         },
         source_exists() {
             return this.hits_data && this.hits_data[this.current_hit - 1] && this.hits_data[this.current_hit - 1].source
+        },
+        reference_exists() {
+            return this.hits_data && this.hits_data[this.current_hit - 1] && this.hits_data[this.current_hit - 1].reference
         },
         context_exists() {
             return this.hits_data && this.hits_data[this.current_hit - 1] && this.hits_data[this.current_hit - 1].context
@@ -321,6 +331,17 @@ export default {
                     </div>
                 </p>
 
+                <p v-if="reference_exists()" @click="toggle_reference" class="context_button pa2 br-pill-ns ba bw1 grow" :class="{'disabled': config.disable && Object.values(config.disable).includes('selection')}">
+                    <div v-if="showReference">
+                        <i class="fa-solid fa-eye-slash fa-1-5x icon-default pointer mr2"></i>
+                        <span class="f5">{{ config.interface_text.buttons.hide_reference_label || "Hide Reference" }}</span>
+                    </div>
+                    <div v-else>
+                        <i class="fa-solid fa-eye fa-1-5x icon-default pointer mr2"></i>
+                        <span class="f5">{{ config.interface_text.buttons.show_reference_label || "Show Reference" }}</span>
+                    </div>
+                </p>
+
                 <div class="context-container">
                     <div class="mb2" v-if="hits_data && hits_data[current_hit - 1] && hits_data[current_hit - 1].context">
                         <div class="cf" v-if="config.interface_text.typology.context_label != ''">
@@ -328,7 +349,6 @@ export default {
                                 <span class="f5">{{ config.interface_text.typology.context_label }}:</span>
                             </p>
                         </div>
-                        <!-- <div class="f4 lh-paras">{{ hits_data[current_hit - 1].context }}</div> -->
                         <vue-markdown :source="hits_data[current_hit - 1].context" class="mt0 mb0" />
                     </div>
                 </div>
@@ -346,7 +366,14 @@ export default {
                     </div>
 
                     <div class="grid-child">
-                        <p class="f3 mb1" v-if="target_exists()" :class="{'mt0': !source_exists() || showAdjacent() }">
+                        <div v-if="showReference && reference_exists()">
+                            <p class="f3 mb1" :class="{'mt0': !source_exists() || showAdjacent() }">
+                                <span class="f5">{{ config.interface_text.typology.reference_label || "Reference" }}:</span>
+                            </p>
+                            <vue-markdown :source="hits_data[current_hit - 1].reference" class="f4 lh-paras mt0 mb0" />
+                        </div>
+
+                        <p class="f3 mb1" v-if="target_exists()" :class="{'mt0': !source_exists() || showAdjacent() || (showReference && reference_exists()) }">
                             <span class="f5">{{ config.interface_text.typology.target_label }}:</span>
                         </p>
                         <Sent sent_type="target" v-bind="$props" :remove_selected="remove_selected" />

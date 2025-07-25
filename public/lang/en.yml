@@ -15,6 +15,7 @@ typology:
   source_label: "Source"
   target_label: "Target"
   context_label: "Context"
+  reference_label: "Reference"
   edit_unit_name: "edit"
   edits_unit_name: "edits"
   span_unit_name: "span"
