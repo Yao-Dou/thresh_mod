@@ -29,6 +29,53 @@
     font-weight: 600;
 }
 
+.boundary-editing-active {
+    border: 2px dashed #007bff !important;
+    background-color: rgba(0, 123, 255, 0.1) !important;
+}
+
+.boundary-editing-highlight {
+    background-color: #fff3cd !important;
+    /* border-bottom: #fff3cd; */
+    border: 2px solid #856404 !important;
+}
+
+.boundary-edit-selection {
+    border: 2px solid #28a745 !important;
+    background-color: rgba(40, 167, 69, 0.2) !important;
+}
+
+.boundary-editing-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.boundary-editing-panel {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.boundary-editing-buttons {
+    margin-top: 15px;
+    display: flex;
+    gap: 10px;
+}
+
+.boundary-selected-source,
+.boundary-selected-target {
+    box-shadow: 0 0 10px rgba(40, 167, 69, 0.5);
+}
+
 .w-13 {
     width: 13%;
 }

@@ -11,6 +11,8 @@ export default {
         'refresh_interface_edit', 'editor_open', 'set_editor_state',
         'annotating_edit_span_category_id', 'set_annotating_edit_span_category_id',
         'annotating_edit_span', 'set_annotating_edit_span', 'set_hit_box_config', 'config',
+        'boundary_editing_mode', 'boundary_editing_edit', 'original_boundary',
+        'set_boundary_editing_mode', 'set_boundary_editing_edit', 'set_original_boundary'
     ],
     data() {
         let edit_state = this.initalize_edit_state();
@@ -203,6 +205,58 @@ export default {
             this.reset_annotation_colors(category, edit_id);
             this.set_hits_data(new_hits_data);
             this.refresh_edit();
+        },
+        cancel_boundary_edit() {
+            // Clear visual indicators
+            const { category, type } = this.boundary_editing_edit;
+            const sentence_element = type === 'source' ? '#source-sentence' : '#target-sentence';
+            $(sentence_element).removeClass(`boundary-editing-${category} boundary-editing-active`);
+            $(sentence_element).removeAttr('data-boundary-editing');
+            
+            // Remove boundary editing highlights
+            $(`.boundary-editing-highlight`).removeClass('boundary-editing-highlight');
+            
+            // Clear selection state
+            this.set_span_text('', type === 'source' ? 'source' : 'target');
+            this.set_span_indices('', type === 'source' ? 'source' : 'target');
+            
+            // Reset boundary editing state via parent
+            this.set_boundary_editing_mode(false);
+            this.set_boundary_editing_edit(null);
+            this.set_original_boundary(null);
+            
+            this.refresh_interface_edit();
+        },
+
+        save_boundary_edit() {
+            if (!this.boundary_editing_mode || !this.boundary_editing_edit) return;
+            
+            const { category, id, type } = this.boundary_editing_edit;
+            
+            // Get the new boundary from selected state
+            const new_boundary = type === 'source' 
+                ? this.selected_state.source_idx 
+                : this.selected_state.target_idx;
+                
+            if (!new_boundary || (Array.isArray(new_boundary) && new_boundary.length === 0)) {
+                alert('Please select a new boundary before saving.');
+                return;
+            }
+
+            // Update the edit with new boundary
+            let new_hits_data = _.cloneDeep(this.hits_data);
+            const edit_to_update = new_hits_data[this.current_hit - 1].edits.find(
+                edit => edit.category === category && edit.id === id
+            );
+            
+            if (edit_to_update) {
+                const boundary_key = type === 'source' ? 'input_idx' : 'output_idx';
+                edit_to_update[boundary_key] = Array.isArray(new_boundary[0]) ? new_boundary : [new_boundary];
+                
+                this.set_hits_data(new_hits_data);
+            }
+            
+            this.cancel_boundary_edit(); // Cleanup
         },
         reset_annotation_colors(category, id) {
             let annotating_span = this.hits_data[this.current_hit - 1]['edits'].find(function(entry) {
@@ -536,6 +590,27 @@ export default {
             </div>
         </div>
 
+        <div v-if="boundary_editing_mode && config.enable && Object.values(config.enable).includes('edit_boundary')" id="boundary_edit_panel">
+            <div class="over-hide z-bigger mt3 editor-container">
+                <p class="f3 annotation-label ttu mv1">Edit Boundary <i class="fa-solid fa-expand-arrows-alt"></i></p>
+                <div class="tc mb3">
+                <p class="mb2 b tracked-light">
+                    <i>Select new boundary for {{ boundary_editing_edit?.category }} annotation.</i>
+                </p>
+                <p class="tracked-light lh-paras-2">
+                    New selection: <span v-html="selected_state.target_span || selected_state.source_span"></span>
+                </p>
+            </div>
+            </div>
+            <div class="buttons tc mt2">
+                <button @click="cancel_boundary_edit" class="cancel-button b quality_button bw0 ba mr2 br-pill-ns grow">
+                Cancel <i class="fa-solid fa-close"></i>
+                </button>
+                <button @click="save_boundary_edit" class="confirm-button b quality_button bw0 ba ml2 br-pill-ns grow">
+                Save Boundary <i class="fa-solid fa-check"></i>
+                </button>
+            </div>
+        </div>
         <div v-for="item in config.edits" :key="item.id">
             <div class="quality-selection w-100" :id="`${item.name}_edit_annotation`" :data-category="item.name">
                 <div id="dropdown-button-container">

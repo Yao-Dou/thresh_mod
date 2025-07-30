@@ -36,7 +36,9 @@ export default {
         'un_hover_span',
 
         'hit_box_config',
-        'config'
+        'config',
+        'boundary_editing_mode',
+        'boundary_editing_edit'
     ],
     watch: {
         current_hit() {
@@ -106,7 +108,51 @@ export default {
             // Fallback in case the node isn't found (should not happen in normal use)
             return absoluteOffset;
         },
+        handle_boundary_selection(e) {
+            let selection = window.getSelection();
+            let txt = this.hits_data[this.current_hit - 1].target;
+            let range = selection.getRangeAt(0);
+            const parentElement = e.currentTarget;
+
+            let start = this.getAbsoluteOffset(parentElement, range.startContainer, range.startOffset);
+            let end = this.getAbsoluteOffset(parentElement, range.endContainer, range.endOffset);
+
+            if (start == end || !txt.substring(start, end).trim()) {
+                return;
+            }
+
+            // Process the boundary similar to normal selection but for boundary editing
+            const { category } = this.boundary_editing_edit;
+            
+            // Word boundary adjustment (same logic as existing)
+            let split_chars = [' ', '\n'];
+            if (this.config.tokenization && this.config.tokenization == 'tokenized') {
+                split_chars = ['Ġ', ' ', '\n'];
+            }
+            
+            if (!this.config.tokenization || this.config.tokenization != 'char') {
+                end -= 1; 
+                while (split_chars.includes(txt.charAt(start))) start += 1; 
+                while (start - 1 >= 0 && !split_chars.includes(txt.charAt(start - 1))) start -= 1; 
+                while (split_chars.includes(txt.charAt(end))) end -= 1; 
+                while (end + 1 <= txt.length - 1 && !split_chars.includes(txt.charAt(end + 1))) end += 1; 
+                end += 1;
+            }
+
+            if (start >= end) return;
+            // Set the new boundary in the selection state
+            this.set_span_indices([start, end], 'target');
+            
+            let new_span_text = `<span class="selected-span-text bg-${category}-light boundary-edit-selection">\xa0${txt.substring(start, end)}\xa0</span>`;
+            this.set_span_text(new_span_text, 'target');
+            
+            // Visual feedback that boundary has been selected
+            $('#target-sentence').addClass(`boundary-selected-${category}`);
+        },
         select_target_html(e) {
+            if (this.boundary_editing_mode) {
+                return this.handle_boundary_selection(e);
+            }
             if (!this.hit_box_config.enable_select_target_sentence) {
                 return
             }

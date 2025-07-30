@@ -48,6 +48,13 @@
 
         instructions_open: false,
         toggle_instructions: this.toggle_instructions,
+        
+        boundary_editing_mode: false,
+        boundary_editing_edit: null, // stores {category, id, type: 'source'|'target'}
+        original_boundary: null,
+        set_boundary_editing_mode: this.set_boundary_editing_mode,
+        set_boundary_editing_edit: this.set_boundary_editing_edit,
+        set_original_boundary: this.set_original_boundary,
       }
     },
     props: [
@@ -177,6 +184,15 @@
         },
         set_lines(lines) {
           this.lines = lines;
+        },
+        set_boundary_editing_mode(mode) {
+          this.boundary_editing_mode = mode;
+        },
+        set_boundary_editing_edit(edit) {
+          this.boundary_editing_edit = edit;
+        },
+        set_original_boundary(boundary) {
+          this.original_boundary = boundary;
         },
         toggle_instructions() {
           this.instructions_open = !this.instructions_open;

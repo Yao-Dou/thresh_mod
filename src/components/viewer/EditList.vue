@@ -23,7 +23,11 @@ export default {
         'set_annotating_edit_span',
         'lines',
         'set_lines',
-        'config'
+        'config',
+        'set_boundary_editing_mode',
+        'set_boundary_editing_edit',
+        'set_original_boundary',
+        'boundary_editing_mode'
     ],
     data() {
         return {
@@ -47,6 +51,9 @@ export default {
     },
     methods: {
         annotate_edit(e) {
+            if (this.boundary_editing_mode) {
+                return;
+            }
             const source_sentence = this.hits_data[this.current_hit - 1].source
             const target_sentence = this.hits_data[this.current_hit - 1].target
             const edit_dict = this.edits_dict
@@ -337,13 +344,27 @@ export default {
                 if (this.config.disable && Object.values(this.config.disable).includes('annotation')) {
                     disabled = 'disabled'
                 }
-
+                let disable_delete = ''
+                if (this.config.disable && Object.values(this.config.disable).includes('delete')) {
+                    disable_delete = 'disabled'
+                }
+                let disable_boundary_edit = 'disabled'
+                if (this.config.enable && Object.values(this.config.enable).includes('edit_boundary')) {
+                    disable_boundary_edit = ''
+                }
                 new_html += `
                         </span>
                     </div>
                     <div class="fl w-20 mb4 operation tr">
                         <i @click="annotate_edit" class="annotation-icon fa-solid fa-pencil mr3 pointer dim ${disabled}" data-id="${key}-${i}" data-category="${key}"></i>
-                        <i @click="trash_edit" class="fa-solid fa-trash-can ml4 pointer dim" data-id="${key}-${i}" data-category="${key}"></i>
+                        <i 
+                            @click="edit_boundary" 
+                            class="boundary-edit-icon fa-solid fa-pen-to-square mr2 pointer dim ${disable_boundary_edit}" 
+                            data-id="${key}-${i}" 
+                            data-category="${key}"
+                            title="Edit boundary"></i>
+                        <i 
+                            @click="trash_edit" class="fa-solid fa-trash-can ml4 pointer dim ${disable_delete}" data-id="${key}-${i}" data-category="${key}"></i>
                     </div>
                 </div>`;
             }
@@ -515,6 +536,77 @@ export default {
                 }
             }
         },
+        edit_boundary(e) {
+            const real_id = parseInt(e.target.dataset.id.split("-")[1]);
+            const category = e.target.dataset.category;
+            
+            // Find the edit and store original boundary
+            const edit_to_modify = this.hits_data[this.current_hit - 1].edits.find(
+                edit => edit.category === category && edit.id === real_id
+            );
+            
+            if (!edit_to_modify) return;
+
+            const edit_config = this.getEditConfig(category);
+            let boundary_type = null;
+            
+            if (edit_config.enable_input && edit_config.enable_output) {
+                boundary_type = 'target'; // Default to target, could be made configurable
+            } else if (edit_config.enable_input) {
+                boundary_type = 'source';
+            } else if (edit_config.enable_output) {
+                boundary_type = 'target';
+            }
+            
+            if (!boundary_type) return;
+
+            // Store original boundary and set editing mode
+            const boundary_key = boundary_type === 'source' ? 'input_idx' : 'output_idx';
+            this.set_original_boundary(_.cloneDeep(edit_to_modify[boundary_key]));
+            
+            this.set_boundary_editing_edit({
+                category: category,
+                id: real_id,
+                type: boundary_type
+            });
+            this.set_boundary_editing_mode(true);
+            // Visual setup
+            this.enable_boundary_selection(boundary_type, category);
+            this.highlight_current_boundary(edit_to_modify, boundary_type, category);
+        },
+
+        enable_boundary_selection(boundary_type, category) {
+            // Enable selection on the target sentence
+            const sentence_element = boundary_type === 'source' ? '#source-sentence' : '#target-sentence';
+            $(sentence_element).addClass(`boundary-editing-${category}`);
+            
+            // Add visual indicator
+            $(sentence_element).attr('data-boundary-editing', 'true');
+            
+            // You might want to add some CSS to show this is in editing mode
+            $(sentence_element).addClass('boundary-editing-active');
+        },
+
+        highlight_current_boundary(edit, boundary_type, category) {
+            const boundary_key = boundary_type === 'source' ? 'input_idx' : 'output_idx';
+            const spans = edit[boundary_key];
+            
+            if (!spans || spans.length === 0) return;
+            
+            // Add special styling to show which boundary is being edited
+            spans.forEach(span => {
+                $(`.${category}[data-id="${category}-${edit.id}"]`).addClass('boundary-editing-highlight');
+            });
+        },
+        is_boundary_editable(edit) {
+            const edit_config = this.getEditConfig(edit.category);
+            console.log(edit_config)
+            // Only allow boundary editing for single_span and multi_span types
+            // Composite edits are more complex and would need special handling
+            return edit_config && 
+                edit_config.type !== 'composite' && 
+                (edit_config.enable_input || edit_config.enable_output);
+        },
         // TODO: Implement these via referencing using jquery
         hover_span() {},
         un_hover_span() {}
@@ -528,6 +620,7 @@ export default {
                     trash_edit: this.trash_edit,
                     hover_span: this.hover_span,
                     un_hover_span: this.un_hover_span,
+                    edit_boundary: this.edit_boundary
                 }
             }
         }

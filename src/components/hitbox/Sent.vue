@@ -31,6 +31,8 @@ export default {
         'sent_type',
 
         'selected_state',
+        'boundary_editing_mode',
+        'boundary_editing_edit'
     ],
     methods: {
         process_edit_list(edits, sent_type) {
@@ -108,6 +110,9 @@ export default {
             return undefined
         },
         hover_span(e) {
+            if (this.boundary_editing_mode) {
+                return;
+            }
             if ($(".quality-selection").is(":visible")) {
                 return
             }
@@ -138,6 +143,9 @@ export default {
             } catch (e) { console.log(e) }
         },
         un_hover_span(e) {
+            if (this.boundary_editing_mode) {
+                return;
+            }
             if ($(".quality-selection").is(":visible")) {
                 return
             }

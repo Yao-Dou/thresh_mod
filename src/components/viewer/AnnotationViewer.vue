@@ -19,7 +19,11 @@ export default {
         'set_annotating_edit_span',
         'lines',
         'set_lines',
-        'config'
+        'config',
+        'set_original_boundary',
+        'set_boundary_editing_mode',
+        'set_boundary_editing_edit',
+        'boundary_editing_mode'
     ],
     data() {
         return {}

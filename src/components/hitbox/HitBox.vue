@@ -32,7 +32,9 @@ export default {
         'set_lines',
         'config',
         'hit_box_config',
-        'toggle_instructions'
+        'toggle_instructions',
+        'boundary_editing_mode',
+        'boundary_editing_edit'
     ],
     data() {
         return {
