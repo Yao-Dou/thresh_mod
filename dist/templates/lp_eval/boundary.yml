@@ -15,7 +15,7 @@ edits:
     label: "Span"
     enable_input: true          
     enable_output: true         
-    color: red                  
+    color: blue                  
     icon: fa-magnifying-glass   
     
     # Specify annotations for the edit
