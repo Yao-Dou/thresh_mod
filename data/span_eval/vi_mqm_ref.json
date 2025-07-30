@@ -1,12 +1,12 @@
 [
   {
     "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
-    "target": "虽然这可以被结构化为一种销售税，现实的消费税提案认识到累退性是纯销售税的一个问题。",
+    "target": "Mặc dù điều này có thể được cấu trúc giống như một loại thuế bán hàng, những đề xuất thực tế về thuế tiêu dùng công nhận rằng tính lùi là một vấn đề với các loại thuế bán hàng thuần túy.",
     "id": "wikibias_0_gpt4_ez",
     "target_focus_areas": [
       [
-        16,
-        40
+        70,
+        185
       ]
     ],
     "source_focus_areas": [
@@ -23,12 +23,12 @@
   },
   {
     "source": "While this can be structured like a sales tax , realistic proposals for a consumption tax recognize that regressivity is a problem with pure sales taxes .",
-    "target": "虽然这可以像销售税一样构建，但对消费税的现实提议认识到，纯销售税存在累退性问题。",
+    "target": "Trong khi điều này có thể được cấu trúc giống như thuế bán hàng, các đề xuất thực tế về thuế tiêu thụ thừa nhận rằng tính phản thuế là một vấn đề với các loại thuế bán hàng thuần túy.",
     "id": "wikibias_0_gpt4_clap",
     "target_focus_areas": [
       [
-        14,
-        39
+        64,
+        182
       ]
     ],
     "source_focus_areas": [
@@ -45,12 +45,12 @@
   },
   {
     "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
-    "target": "库尔斯家族成员，以及通过他们库尔斯酿酒公司本身，在美国政治和公共政策中发挥了重要作用，支持了许多保守事业。",
+    "target": "Các thành viên gia đình Coors, và gián tiếp là chính Công ty Bia Coors, đã đóng một vai trò nổi bật trong chính trị và chính sách công của Mỹ, ủng hộ nhiều mục tiêu bảo thủ.",
     "id": "wikibias_22_gemma3_27b_ez",
     "target_focus_areas": [
       [
-        8,
-        23
+        30,
+        70
       ]
     ],
     "source_focus_areas": [
@@ -63,12 +63,12 @@
   },
   {
     "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
-    "target": "库尔斯家族成员，以及以此为代表的库尔斯酿酒公司，在美国政治和公共政策中发挥了重要作用，支持了许多保守主义事业。",
+    "target": "Các thành viên gia đình Coors, và thông qua đó là chính Công ty Bia Coors, đã đóng một vai trò nổi bật trong chính trị và chính sách công của Mỹ, ủng hộ nhiều mục tiêu bảo thủ.",
     "id": "wikibias_22_gemma3_27b_clap",
     "target_focus_areas": [
       [
-        8,
-        23
+        30,
+        73
       ]
     ],
     "source_focus_areas": [
@@ -81,12 +81,12 @@
   },
   {
     "source": "yep, this crap sounds like its from a libertarian",
-    "target": "对，这垃圾听起来像是一个自由意志主义者说的",
+    "target": "đúng rồi, thứ vớ vẩn này nghe như thể đến từ một người theo chủ nghĩa tự do",
     "id": "toxicspans_1_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        4,
-        21
+        9,
+        75
       ]
     ],
     "source_focus_areas": [
@@ -99,12 +99,12 @@
   },
   {
     "source": "yep, this crap sounds like its from a libertarian",
-    "target": "对，这狗屎听起来像是自由主义者说的",
+    "target": "đúng vậy, thứ rác rưởi này nghe như là từ một người theo chủ nghĩa tự do ngôn luận",
     "id": "toxicspans_1_qwen3_32b_clap",
     "target_focus_areas": [
       [
-        2,
-        17
+        9,
+        82
       ]
     ],
     "source_focus_areas": [
@@ -117,12 +117,12 @@
   },
   {
     "source": "Good answer. !!  Thank you for illustrating the utter stupidity of liberals.",
-    "target": "好答案。！！谢谢你生动地展示了自由主义者的彻底愚蠢。",
+    "target": "Câu trả lời hay. !! Cảm ơn bạn đã minh họa cho sự ngu ngốc tuyệt đối của những người tự do.",
     "id": "toxicspans_105_gpt4_ez",
     "target_focus_areas": [
       [
-        15,
-        25
+        19,
+        90
       ]
     ],
     "source_focus_areas": [
@@ -135,12 +135,12 @@
   },
   {
     "source": "Good answer. !!  Thank you for illustrating the utter stupidity of liberals.",
-    "target": "好答案！！感谢你展示了自由派的彻底愚蠢。",
+    "target": "Câu trả lời hay. !! Cảm ơn bạn đã minh họa cho sự ngu ngốc tuyệt đối của những người theo chủ nghĩa tự do.",
     "id": "toxicspans_105_gpt4_clap",
     "target_focus_areas": [
       [
-        9,
-        19
+        19,
+        99
       ]
     ],
     "source_focus_areas": [
@@ -153,12 +153,12 @@
   },
   {
     "source": "@USER @USER You welcome ... Pretenders only do the worse.. Fucking hypocrites 😒😒💆‍♂️",
-    "target": "@USER @USER 欢迎… 伪君子只会更糟..他妈的伪虚伪者 😒😒💆‍♂️",
+    "target": "@USER @USER Chào mừng... Kẻ giả tạo chỉ làm điều tồi tệ hơn thôi.. Địt con những kẻ đạo đức giả 😒😒💆‍♂️",
     "id": "tbo_0_gemma3_27b_ez",
     "target_focus_areas": [
       [
-        25,
-        39
+        66,
+        102
       ]
     ],
     "source_focus_areas": [
@@ -175,12 +175,12 @@
   },
   {
     "source": "@USER @USER You welcome ... Pretenders only do the worse.. Fucking hypocrites 😒😒💆‍♂️",
-    "target": "@USER @USER 欢迎… 伪君子只会搞砸一切.. 操他妈的虚伪人士 😒😒💆‍♂️",
+    "target": "@USER @USER Chào mừng... Giả tạo thì chỉ làm điều tồi tệ thôi.. Đồ khốn giả hình 😒😒💆‍♂️",
     "id": "tbo_0_gemma3_27b_clap",
     "target_focus_areas": [
       [
-        27,
-        43
+        63,
+        87
       ]
     ],
     "source_focus_areas": [
@@ -197,12 +197,12 @@
   },
   {
     "source": "@USER BEYOND fucked up!!! People are SHIT and the way folks try to talk about cancer in twisted ways is absolutely disgusting",
-    "target": "@USER BEYOND 真是太糟糕了！！！人们就是狗屎，而有些人试图以扭曲的方式谈论癌症，这种行为简直令人作呕",
+    "target": "@USER BEYOND làm hỏng hết rồi!!! Con người là PHÂN và cách mà mọi người cố gắng nói về ung thư theo những cách quái gở thật sự kinh tởm.",
     "id": "tbo_44_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        22,
-        28
+        32,
+        83
       ]
     ],
     "source_focus_areas": [
@@ -219,12 +219,12 @@
   },
   {
     "source": "@USER BEYOND fucked up!!! People are SHIT and the way folks try to talk about cancer in twisted ways is absolutely disgusting",
-    "target": "@USER BEYOND 搞砸了！！！人们就是一堆屎，而有些人试图以扭曲的方式谈论癌症，这简直令人作呕",
+    "target": "@USER BEYOND đã làm hỏng mọi thứ!!! Con người là phân và cách mà mọi người cố gắng nói về bệnh ung thư theo những cách méo mó là hoàn toàn phản cảm.",
     "id": "tbo_44_qwen3_32b_clap",
     "target_focus_areas": [
       [
-        19,
-        26
+        35,
+        86
       ]
     ],
     "source_focus_areas": [
@@ -241,12 +241,12 @@
   },
   {
     "source": "I'm 34 f and I am dating have remarked that I was gazing into his huge mansion like house. He doesn't do anything with. I apologized for not keeping my options and is good advice and similar experiences would be free sometime this week. Not just to see him again. We walked inside and I want to be this way? Basically it's just not what fwb is, he likes me &amp;amp; how to deal with. He is upper middle class white family and friends told me to be ok with that response, I appreciated her patience.",
-    "target": "我34岁，女，正在约会时有人注意到我一直凝视着他那座巨大的豪宅般的房子。他对此无动于衷。我为没有保留选择而道歉，这是个很好的建议，类似的经历这周某个时候也会有空。不是仅仅想再见到他。我们走进屋内，我想知道自己是不是要这样做？基本上，这并不是朋友加性伴侣的模式，他喜欢我&amp;amp;如何应对。他来自中上阶层的白人家庭，朋友们告诉我要接受这个回应，我很感激她的耐心。",
+    "target": "Tôi 34 tuổi, nữ và tôi đang hẹn hò, đã nhận xét rằng tôi đang nhìn chằm chằm vào căn biệt thự lớn như lâu đài của anh ấy. Anh ấy không làm gì với nó. Tôi xin lỗi vì đã không giữ các lựa chọn của mình và đó là lời khuyên tốt cùng những trải nghiệm tương tự sẽ có thời gian rảnh trong tuần này. Không chỉ để gặp lại anh ấy. Chúng tôi đã đi vào bên trong và tôi muốn như thế này sao? Về cơ bản thì đó không phải là điều mà fwb muốn, anh ấy thích tôi &amp;amp; cách để xử lý. Anh ấy thuộc tầng lớp trung lưu cao cấp trong gia đình người da trắng và bạn bè nói với tôi rằng hãy ổn với phản ứng đó, tôi trân trọng sự kiên nhẫn của cô ấy.",
     "id": "selfdisclosure_0_gpt4_ez",
     "target_focus_areas": [
       [
         0,
-        6
+        34
       ]
     ],
     "source_focus_areas": [
@@ -259,12 +259,12 @@
   },
   {
     "source": "I'm 34 f and I am dating have remarked that I was gazing into his huge mansion like house. He doesn't do anything with. I apologized for not keeping my options and is good advice and similar experiences would be free sometime this week. Not just to see him again. We walked inside and I want to be this way? Basically it's just not what fwb is, he likes me &amp;amp; how to deal with. He is upper middle class white family and friends told me to be ok with that response, I appreciated her patience.",
-    "target": "我34岁，女性，正在约会。有人评论说我一直盯着他那座巨大豪宅般的房子看。他对此毫不理会。我为没有保留我的选择道歉，这是个好建议，我还有类似的经历，这周某个时候能抽空聊天。不只是为了再见他。我们走了进去，我想知道我是否该这样做？基本上，这并不是朋友伴侣关系的模式，他喜欢我，也不知道该怎么处理。他是中上阶层的白人，家人和朋友告诉我对那种反应要接受，我很感激她的耐心。",
+    "target": "Tôi 34 tuổi, nữ và đang hẹn hò, đã nhận thấy rằng tôi đang nhìn chằm chằm vào ngôi nhà to lớn giống như dinh thự của anh ấy. Anh ấy không làm gì với nó. Tôi xin lỗi vì không giữ được lựa chọn của mình và đó là lời khuyên tốt, và những trải nghiệm tương tự sẽ có thời gian rảnh trong tuần này. Không chỉ để gặp lại anh ấy. Chúng tôi bước vào trong và tôi có muốn như thế này không? Về cơ bản thì đó không phải là fwb, anh ấy thích tôi & cách xử lý. Anh ấy thuộc gia đình người da trắng trung lưu trở lên và bạn bè đã bảo tôi phải ổn với phản ứng đó, tôi trân trọng sự kiên nhẫn của cô ấy.",
     "id": "selfdisclosure_0_gpt4_clap",
     "target_focus_areas": [
       [
         0,
-        7
+        30
       ]
     ],
     "source_focus_areas": [
@@ -277,16 +277,16 @@
   },
   {
     "source": "[Care.com](https://Care.com) is Horrible please don't, My wife is a nanny unfortunately your a little far for her. My niece is also a nanny but she is way booked.",
-    "target": "[Care.com](https://Care.com) 非常糟糕，请不要使用，我的妻子是一名保姆，但不幸的是你们离她有点远。我的侄女也是一名保姆，但她已经排满了日程。",
+    "target": "[Care.com](https://Care.com) thật tệ, làm ơn đừng sử dụng, vợ tôi là một người trông trẻ nhưng rất tiếc là các bạn hơi xa cô ấy. Cháu gái tôi cũng là một người trông trẻ nhưng cô bé đã kín lịch rồi.",
     "id": "selfdisclosure_403_gemma3_27b_ez",
     "target_focus_areas": [
       [
-        40,
-        49
+        58,
+        121
       ],
       [
-        63,
-        73
+        128,
+        197
       ]
     ],
     "source_focus_areas": [
@@ -303,16 +303,16 @@
   },
   {
     "source": "[Care.com](https://Care.com) is Horrible please don't, My wife is a nanny unfortunately your a little far for her. My niece is also a nanny but she is way booked.",
-    "target": "[Care.com](https://Care.com) 非常糟糕，请不要使用。我的妻子是一名保姆，但不幸的是你们离她太远了。我的侄女也是一名保姆，但她已经排满了日程。",
+    "target": "Care.com thật tệ, làm ơn đừng nhé. Vợ tôi là bảo mẫu nhưng rất tiếc là các bạn hơi xa cô ấy. Cháu gái tôi cũng là bảo mẫu nhưng cô bé bận rộn lắm rồi.",
     "id": "selfdisclosure_403_gemma3_27b_clap",
     "target_focus_areas": [
       [
-        40,
-        49
+        34,
+        85
       ],
       [
-        63,
-        73
+        92,
+        149
       ]
     ],
     "source_focus_areas": [
@@ -329,16 +329,12 @@
   },
   {
     "source": "if a bitch start scratching amp pulling my hair during a fight omm imma stomp on a hoe head dumb ass bitch",
-    "target": "如果一个贱人开始在打斗中抓我头发扯我头发，哦，我会踩在妓女的头愚蠢的贱人上",
+    "target": "nếu một con tiện bắt đầu gãi và giật tóc tôi trong lúc giao đấu thì ồ tôi sẽ đá vỡ đầu con hoa hoa con đĩ ngốc",
     "id": "hatexplain_751_qwen3_32b_ez",
     "target_focus_areas": [
       [
         0,
-        16
-      ],
-      [
-        23,
-        37
+        110
       ]
     ],
     "source_focus_areas": [
@@ -355,16 +351,16 @@
   },
   {
     "source": "if a bitch start scratching amp pulling my hair during a fight omm imma stomp on a hoe head dumb ass bitch",
-    "target": "如果一个贱人开始在打架时抓我头发，我他妈就要踩她的贱货头，愚蠢的臭婊子",
+    "target": "Nếu một con chó cái bắt đầu cào và kéo tóc mình trong lúc ẩu đả, mẹ mày sẽ đá vỡ đầu con hoa hậu ngốc nghếch ấy.",
     "id": "hatexplain_751_qwen3_32b_clap",
     "target_focus_areas": [
       [
         0,
-        16
+        60
       ],
       [
-        17,
-        35
+        64,
+        112
       ]
     ],
     "source_focus_areas": [
@@ -381,12 +377,12 @@
   },
   {
     "source": "me girl otherwise you just a sad ass bitch 😇",
-    "target": "我女儿，否则你不过是个可怜兮兮的婊子😇",
+    "target": "tôi là con gái, nếu không thì bạn chỉ là một con đồ khốn buồn thôi 😇",
     "id": "hatexplain_940_gpt4_ez",
     "target_focus_areas": [
       [
-        4,
-        19
+        15,
+        68
       ]
     ],
     "source_focus_areas": [
@@ -399,12 +395,12 @@
   },
   {
     "source": "me girl otherwise you just a sad ass bitch 😇",
-    "target": "跟我走女孩，否则你只是个可怜的贱人😇",
+    "target": "Tao là con gái, nếu không thì mày chỉ là một con đĩ buồn thảm thôi 😇",
     "id": "hatexplain_940_gpt4_clap",
     "target_focus_areas": [
       [
-        6,
-        18
+        15,
+        68
       ]
     ],
     "source_focus_areas": [
@@ -417,24 +413,20 @@
   },
   {
     "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
-    "target": "《狮子、女巫和魔衣橱》是C.S.刘易斯儿童史诗奇幻系列《纳尼亚传奇》中的第一部，也是唯一已出版且按时间顺序排列的小说。1979年在哥伦比亚广播公司（CBS）播放的动画电视电影《狮子、女巫和魔衣橱》是对该小说的1979年改编版本。2005年的电影《纳尼亚传奇：狮子、女巫和魔衣橱》是一部由安德鲁·亚当森执导的英美合拍的高奇幻电影，改编自《狮子、女巫和魔衣橱》，这是C.S.刘易斯儿童史诗奇幻系列《纳尼亚传奇》中的第一部已出版作品，也是第二部按时间顺序排列的小说。",
+    "target": "Sư tử, Phù thủy và Tủ quần áo là cuốn tiểu thuyết đầu tiên và duy nhất được xuất bản, đồng thời là cuốn tiểu thuyết đầu tiên theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia. Bộ phim truyền hình hoạt hình được phát sóng trên CBS vào năm 1979, Sư tử, Phù thủy và Tủ quần áo, là bản chuyển thể năm 1979 của cuốn tiểu thuyết. Bộ phim năm 2005 Biên niên sử Narnia: Sư tử, Phù thủy và Tủ quần áo là một bộ phim kỳ ảo Anh-Mỹ do Andrew Adamson đạo diễn và dựa trên Sư tử, Phù thủy và Tủ quần áo, Tủ quần áo, cuốn tiểu thuyết đầu tiên được xuất bản và thứ hai theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia.",
     "id": "qafeedback_61_gemma3_27b_ez",
     "target_focus_areas": [
       [
-        40,
-        55
+        6,
+        84
       ],
       [
-        98,
-        113
+        301,
+        380
       ],
       [
-        147,
-        163
-      ],
-      [
-        164,
-        230
+        426,
+        719
       ]
     ],
     "source_focus_areas": [
@@ -463,24 +455,24 @@
   },
   {
     "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
-    "target": "《狮子、女巫和魔衣橱》是C.S.刘易斯儿童史诗奇幻系列《纳尼亚传奇》中第一部也是唯一一部已出版的按时间顺序排列的小说。1979年在哥伦比亚广播公司 (CBS) 播放的动画电视电影《狮子、女巫和魔衣橱》是这部小说的1979年改编作品。2005年的电影《纳尼亚传奇：狮子、女巫和魔衣橱》是一部由安德鲁·亚当森执导的英美史诗奇幻电影，改编自《狮子、女巫和魔衣橱》，它是C.S.刘易斯儿童史诗奇幻系列《纳尼亚传奇》中第一部出版的、第二部按时间顺序排列的小说。",
+    "target": "Sư Tử, Phù Thủy và Tủ Quần Áo là tiểu thuyết đầu tiên và duy nhất được xuất bản theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia. Bộ phim hoạt hình truyền hình được phát sóng trên CBS vào năm 1979, Sư Tử, Phù Thủy và Tủ Quần Áo, là bản chuyển thể năm 1979 của cuốn tiểu thuyết. Bộ phim năm 2005 Biên niên sử Narnia: Sư Tử, Phù Thủy và Tủ Quần Áo là một bộ phim kỳ ảo sử thi Anh-Mỹ do Andrew Adamson đạo diễn và dựa trên Sư Tử, Phù Thủy và Tủ Quần Áo, cuốn tiểu thuyết đầu tiên được xuất bản và thứ hai theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia.",
     "id": "qafeedback_61_gemma3_27b_clap",
     "target_focus_areas": [
       [
-        34,
-        56
+        6,
+        121
       ],
       [
-        81,
-        115
+        256,
+        286
       ],
       [
-        149,
-        163
+        287,
+        335
       ],
       [
-        164,
-        225
+        381,
+        669
       ]
     ],
     "source_focus_areas": [
@@ -509,12 +501,12 @@
   },
   {
     "source": "The player with the most points in a Finals game is Elgin Baylor, who played 14 seasons in the National Basketball Association for the Los Angeles Lakers. Baylor scored a finals record 61 points in the 1962 NBA Finals against the Los Angeles Lakers.",
-    "target": "在总决赛单场比赛中得分最高的是埃尔金·贝勒，他曾为洛杉矶湖人队在国家篮球协会效力了14个赛季。贝勒在1962年NBA总决赛中对阵洛杉矶湖人队时，创下了总决赛61分的纪录。",
+    "target": "Người chơi ghi được nhiều điểm nhất trong một trận đấu Chung kết là Elgin Baylor, người đã chơi 14 mùa giải trong Hiệp hội Bóng rổ Quốc gia (NBA) cho đội Los Angeles Lakers. Baylor đã lập kỷ lục chung kết với 61 điểm trong trận chung kết NBA năm 1962 trước đội Los Angeles Lakers.",
     "id": "qafeedback_87_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        56,
-        71
+        184,
+        280
       ]
     ],
     "source_focus_areas": [
@@ -527,12 +519,12 @@
   },
   {
     "source": "The player with the most points in a Finals game is Elgin Baylor, who played 14 seasons in the National Basketball Association for the Los Angeles Lakers. Baylor scored a finals record 61 points in the 1962 NBA Finals against the Los Angeles Lakers.",
-    "target": "在总决赛单场比赛中得分最高的球员是埃尔金·贝勒，他曾为洛杉矶湖人队效力了14个赛季。1962年NBA总决赛期间，贝勒在对阵洛杉矶湖人队的比赛中创下单场总决赛得分纪录61分。",
+    "target": "Người chơi ghi được nhiều điểm nhất trong một trận đấu Chung kết là Elgin Baylor, người đã thi đấu 14 mùa giải trong Hiệp hội Bóng rổ Quốc gia (NBA) cho đội Los Angeles Lakers. Baylor đã lập kỉ lục chung kết với 61 điểm trong trận Chung kết NBA năm 1962 trước Los Angeles Lakers.",
     "id": "qafeedback_87_qwen3_32b_clap",
     "target_focus_areas": [
       [
-        56,
-        75
+        187,
+        279
       ]
     ],
     "source_focus_areas": [
@@ -545,12 +537,12 @@
   },
   {
     "source": "the princeton vase is a famous example of late classic maya ceramics in codex style , first published in m . d . thompson ' s ' the great maya and his contemporaries ' ( 1931 ) , and now a major piece of the pre - columbian collection of the national museum of mexico . originally painted as a drinking vessel for wine , it depicts a throne being approached by an owl , with an owl flying above him and by three young women surrounding him . in front of the throne a female dancer is being watched and threatened by two young men , a scene that has long been assumed to refer to an incident in the ahau san maya . as to the vase ' s art - historical importance , it invites comparison to the equally famous jaguar baby vase in the san francisco museum collection .",
-    "target": "普林斯顿花瓶是晚期经典期玛雅陶瓷以典册风格制作的著名范例，首次发表于 M. D. Thompson 的《伟大的玛雅人及其当代人》（1931 年），现为墨西哥国家博物馆前哥伦布时期收藏的重要藏品。该花瓶最初绘制为饮酒用的容器，描绘了一个宝座，有一只猫头鹰正向其靠近，另一只猫头鹰在他上方飞翔，三名年轻女子环绕其旁。宝座前，一名女性舞者正被两名年轻男子注视并威胁，这一场景长期被认为是指向阿豪三玛雅中的一宗事件。至于该花瓶的艺术史重要性，它引发人们将其与旧金山博物馆收藏的同样著名的美洲豹婴儿花瓶进行比较。",
+    "target": "bình princeton là một ví dụ nổi tiếng về đồ gốm maya cổ điển muộn theo phong cách codex, lần đầu được xuất bản trong cuốn \"the great maya and his contemporaries\" của m. d. thompson (1931), và hiện là một tác phẩm lớn trong bộ sưu tập trước columbus của bảo tàng quốc gia mexico. ban đầu được vẽ như một đồ uống rượu vang, nó miêu tả một ngai vàng đang được tiếp cận bởi một con cú, với một con cú bay phía trên và ba người phụ nữ trẻ bao quanh. trước ngai vàng một vũ công nữ đang bị hai người đàn ông trẻ theo dõi và đe dọa, một cảnh lâu nay được cho là ám chỉ một sự kiện trong ahau san maya. về tầm quan trọng trong lịch sử nghệ thuật của bình, nó mời gọi sự so sánh với chiếc bình em bé báo nổi tiếng không kém trong bộ sưu tập bảo tàng san francisco.",
     "id": "hades_0_gpt4_ez",
     "target_focus_areas": [
       [
-        217,
-        228
+        647,
+        690
       ]
     ],
     "source_focus_areas": [
@@ -563,12 +555,12 @@
   },
   {
     "source": "the princeton vase is a famous example of late classic maya ceramics in codex style , first published in m . d . thompson ' s ' the great maya and his contemporaries ' ( 1931 ) , and now a major piece of the pre - columbian collection of the national museum of mexico . originally painted as a drinking vessel for wine , it depicts a throne being approached by an owl , with an owl flying above him and by three young women surrounding him . in front of the throne a female dancer is being watched and threatened by two young men , a scene that has long been assumed to refer to an incident in the ahau san maya . as to the vase ' s art - historical importance , it invites comparison to the equally famous jaguar baby vase in the san francisco museum collection .",
-    "target": "普林斯顿瓶是晚期经典玛雅陶瓷中著名的编年体风格代表作，最早发表于M.D.汤普森的《伟大的玛雅及其同时代人》(1931年)，现为墨西哥国家博物馆前哥伦布时期收藏的重要展品。该瓶最初作为饮酒器具绘制，描绘了一位君主被一只猫头鹰接近的场景，君主头顶上方有一只飞翔的猫头鹰，身旁围绕着三位年轻女子。在王座前，一位女性舞者正被两位年轻男子注视并威胁，这一场景长期被认为指的是阿哈乌·桑玛雅的一个事件。关于该瓶的艺术史重要性，它常被拿来与旧金山博物馆收藏的同样著名的美洲豹幼崽瓶相提并论。",
+    "target": "Bình Princeton là một ví dụ nổi tiếng về gốm cổ điển muộn của người Maya theo phong cách codex, lần đầu tiên được công bố trong cuốn \"The Great Maya and His Contemporaries\" (1931) của M. D. Thompson, và hiện là một tác phẩm lớn trong bộ sưu tập tiền Colombia của Bảo tàng Quốc gia Mexico. Ban đầu được vẽ như một chiếc bình uống rượu vang, nó mô tả một ngai vàng đang có một con cú tiếp cận, với một con cú bay phía trên và ba phụ nữ trẻ xung quanh ngai. Trước ngai vàng, một nữ vũ công đang bị hai chàng trai trẻ quan sát và đe dọa, một cảnh được cho là ám chỉ đến một sự kiện trong Ahau San Maya. Về tầm quan trọng lịch sử nghệ thuật của chiếc bình, nó mời gọi sự so sánh với chiếc bình bé báo cũng nổi tiếng trong bộ sưu tập của Bảo tàng San Francisco.",
     "id": "hades_0_gpt4_clap",
     "target_focus_areas": [
       [
-        207,
-        220
+        651,
+        695
       ]
     ],
     "source_focus_areas": [
@@ -581,12 +573,12 @@
   },
   {
     "source": "shannon is an unincorporated community in mason county , kentucky , united states . the village is southwest of mason city on u . s . route 40 , in the township of pine hill . the highest point in the community is dominated by a prominent limestone cliff and a mound built by the first settlers of the area . the original limestone lined earthwork is 2 ¹⁄₂ stories - high and 10 feet in diameter . historical holes in the mound have allowed further study and more precise dating of the mound ' s location . shannon is part of the mason city metropolitan statistical area statistical area .",
-    "target": "香农是美国肯塔基州梅森县的一个非建制社区。该村庄位于梅森市的西南方向，靠近美国40号公路，在松山乡。该社区的最高点由一个突出的石灰岩悬崖和一个由该地区最早的定居者建造的土墩组成。最初的石灰岩衬里的土方工程高约2¹⁄₂层，直径10英尺。土墩中的历史洞穴允许进一步研究和对土墩位置的更精确测定。香农是梅森城市区统计区的一部分。",
+    "target": "shannon là một cộng đồng chưa hợp nhất ở quận mason, kentucky, hoa kỳ. ngôi làng nằm ở phía tây nam của mason city trên tuyến đường u.s. route 40, thuộc khu dân cư pine hill. điểm cao nhất trong cộng đồng này được thống trị bởi một vách đá vôi nổi bật và một gò đất do những người định cư đầu tiên của khu vực xây dựng. công trình đất được lót bằng đá vôi ban đầu cao 2 ¹⁄₂ tầng và có đường kính 10 feet. các lỗ lịch sử trên gò đất đã cho phép nghiên cứu sâu hơn và xác định niên đại chính xác hơn về vị trí của gò đất. shannon là một phần của khu thống kê đô thị mason city.",
     "id": "hades_87_gemma3_27b_ez",
     "target_focus_areas": [
       [
-        128,
-        144
+        432,
+        518
       ]
     ],
     "source_focus_areas": [
@@ -599,12 +591,12 @@
   },
   {
     "source": "shannon is an unincorporated community in mason county , kentucky , united states . the village is southwest of mason city on u . s . route 40 , in the township of pine hill . the highest point in the community is dominated by a prominent limestone cliff and a mound built by the first settlers of the area . the original limestone lined earthwork is 2 ¹⁄₂ stories - high and 10 feet in diameter . historical holes in the mound have allowed further study and more precise dating of the mound ' s location . shannon is part of the mason city metropolitan statistical area statistical area .",
-    "target": "香农是美国肯塔基州梅森县的一个非建制社区。该村庄位于美国40号公路的梅森市西南方，在松丘乡。该社区的最高点由一座突出的石灰岩悬崖和早期定居者建造的土堆所占据。最初的石灰岩衬砌土丘高约2¹⁄₂层，直径10英尺。土丘上的历史性洞穴允许进一步研究并更精确地确定土丘的位置。香农是梅森城市统计区的一部分。",
+    "target": "Shannon là một cộng đồng chưa hợp nhất ở quận Mason, Kentucky, Hoa Kỳ. Ngôi làng nằm ở phía tây nam của Mason City trên tuyến đường U.S. 40, trong thị trấn Pine Hill. Điểm cao nhất trong cộng đồng được thống trị bởi một vách đá vôi nổi bật và một gò đất do những người định cư đầu tiên của khu vực xây dựng. Công trình đất có lớp đá vôi ban đầu cao 2¹⁄₂ tầng và đường kính 10 feet. Các lỗ lịch sử trong gò đất đã cho phép nghiên cứu sâu hơn và xác định niên đại chính xác hơn về vị trí của gò đất. Shannon là một phần của khu vực thống kê đô thị Mason City.",
     "id": "hades_87_gemma3_27b_clap",
     "target_focus_areas": [
       [
-        122,
-        132
+        410,
+        496
       ]
     ],
     "source_focus_areas": [
@@ -617,12 +609,12 @@
   },
   {
     "source": "The image features a red street sign that reads \"LIKE A BRICK FITTCHEN.\" The sign is mounted on a pole, and it stands out against the background of the snowy cityscape.",
-    "target": "图片中显示的是一块红色街牌，上面写着“LIKE A BRICK FITTCHEN”。街牌安装在一根杆子上，与白雪覆盖的城市背景形成鲜明对比。",
+    "target": "Hình ảnh này có một biển báo đường phố màu đỏ ghi dòng chữ \"LIKE A BRICK FITTCHEN.\" Biển báo được gắn trên một cột, nổi bật trên nền cảnh quan thành phố tuyết rơi.",
     "id": "mhal_0_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        53,
-        70
+        115,
+        163
       ]
     ],
     "source_focus_areas": [
@@ -635,12 +627,12 @@
   },
   {
     "source": "The image features a red street sign that reads \"LIKE A BRICK FITTCHEN.\" The sign is mounted on a pole, and it stands out against the background of the snowy cityscape.",
-    "target": "图片中有一块红色的街道标志，上面写着“LIKE A BRICK FITTCHEN”。该标志安装在一根杆子上，在雪景城市背景中格外显眼。",
+    "target": "Hình ảnh có một biển hiệu đường phố màu đỏ ghi dòng chữ \"LIKE A BRICK FITTCHEN\". Biển hiệu được gắn trên một cột, nổi bật trước nền cảnh thành phố tuyết rơi.",
     "id": "mhal_0_qwen3_32b_clap",
     "target_focus_areas": [
       [
-        54,
-        66
+        113,
+        157
       ]
     ],
     "source_focus_areas": [
@@ -653,12 +645,12 @@
   },
   {
     "source": "In the image, there are two cats sitting on a carpeted floor. One of the cats is orange and the other is black. The cats are positioned close to each other, creating a cozy and intimate atmosphere. The carpet provides a soft and comfortable surface for the cats to rest on. The overall mood of the image is peaceful and relaxed, as the cats seem to be enjoying each other's company while resting on the carpet.",
-    "target": "图片中有两只猫坐在铺有地毯的地板上。其中一只猫是橙色的，另一只是黑色的。猫咪们靠得很近，营造出一种温馨亲密的氛围。地毯为猫咪们提供了一个柔软舒适的休息表面。整体画面氛围宁静而放松，猫咪们似乎在享受彼此的陪伴，安静地休息在地毯上。",
+    "target": "Trong bức ảnh, có hai con mèo đang ngồi trên sàn trải thảm. Một con mèo màu cam và con còn lại màu đen. Những con mèo được đặt gần nhau, tạo nên một không gian ấm cúng và thân mật. Tấm thảm cung cấp một bề mặt mềm mại và thoải mái để mèo nghỉ ngơi. Tâm trạng chung của bức ảnh rất yên bình và thư giãn, khi những con mèo dường như đang tận hưởng sự hiện diện của nhau trong khi nghỉ ngơi trên tấm thảm.",
     "id": "mhal_114_gpt4_ez",
     "target_focus_areas": [
       [
-        44,
-        114
+        136,
+        401
       ]
     ],
     "source_focus_areas": [
@@ -679,12 +671,20 @@
   },
   {
     "source": "In the image, there are two cats sitting on a carpeted floor. One of the cats is orange and the other is black. The cats are positioned close to each other, creating a cozy and intimate atmosphere. The carpet provides a soft and comfortable surface for the cats to rest on. The overall mood of the image is peaceful and relaxed, as the cats seem to be enjoying each other's company while resting on the carpet.",
-    "target": "图片中有两只猫坐在铺有地毯的地板上。其中一只猫是橘色的，另一只是黑色的。两只猫靠得很近，营造出一种温馨亲密的氛围。地毯为猫咪提供了一个柔软舒适的休息表面。整张图片的氛围宁静而放松，猫咪们似乎在享受彼此的陪伴，安然地躺在地毯上。",
+    "target": "Trong hình, có hai con mèo đang ngồi trên một sàn trải thảm. Một con mèo màu cam và con kia màu đen. Hai con mèo được đặt gần nhau, tạo nên một không gian ấm cúng và thân mật. Tấm thảm cung cấp một bề mặt mềm mại và thoải mái để mèo nghỉ ngơi. Tổng thể bức ảnh mang lại cảm giác yên bình và thư giãn, khi hai con mèo dường như đang tận hưởng sự đồng hành của nhau trong lúc nghỉ ngơi trên tấm thảm.",
     "id": "mhal_114_gpt4_clap",
     "target_focus_areas": [
       [
-        44,
-        113
+        131,
+        174
+      ],
+      [
+        175,
+        242
+      ],
+      [
+        243,
+        397
       ]
     ],
     "source_focus_areas": [
@@ -705,88 +705,48 @@
   },
   {
     "source": "in this image in the foreground there is one man who is holding some vegetables it seems and walking, and on the right side there is one person who is standing and it looks like there are some vegetables. and there are some poles and plastic covers, and there is a wire. on the wire there are some clothes and some ropes, and in the background also there are poles and we could see roof at the top and there are trees and buildings on the left side and one woman and one child who is holding a cup and eating something. and there are some clothes and we could see some doors, wall and at the bottom there is floor. and in the center there are some poles, and at the top there is sky.",
-    "target": "在这张图片的前景中，有一个男人，他正在拿着一些蔬菜，并走着。在右边，有一个人正在站着，看起来那里也有一些蔬菜。还有一些杆子和塑料布，以及一根电线。在电线上，有一些衣服和一些绳子。在背景中，也有杆子，我们可以看到顶部的屋顶，左边有树木和建筑物，还有一个女人和一个孩子，他/她正在拿着一个杯子，吃着东西。还有一些衣服，我们可以看到一些门、墙，在底部有地板。在中心有一些杆子，在顶部是天空。",
+    "target": "Trong hình ảnh này, ở tiền cảnh có một người đàn ông người đang cầm một số loại rau có vẻ như vậy và đang đi bộ, và ở phía bên phải có một người người đang đứng và có vẻ như có một số loại rau. và có một số cột và tấm phủ nhựa, và có một sợi dây. trên sợi dây có một số quần áo và một số sợi dây thừng, và ở hậu cảnh cũng có cột và chúng ta có thể thấy mái nhà ở trên cùng và có cây cối và tòa nhà ở phía bên trái và một người phụ nữ và một đứa trẻ đang cầm một chiếc cốc và ăn thứ gì đó. và có một số quần áo và chúng ta có thể thấy một số cánh cửa, tường và ở phía dưới có sàn nhà. và ở trung tâm có một số cột, và ở trên cùng có bầu trời.",
     "id": "cin_0_gemma3_27b_ez",
     "target_focus_areas": [
       [
-        10,
-        15
+        19,
+        111
       ],
       [
-        16,
-        25
+        112,
+        192
       ],
       [
-        34,
-        42
+        193,
+        226
       ],
       [
-        43,
-        54
+        227,
+        245
       ],
       [
-        55,
-        65
+        246,
+        301
       ],
       [
-        66,
-        72
+        302,
+        487
       ],
       [
-        73,
-        77
+        488,
+        549
       ],
       [
-        78,
-        88
+        550,
+        582
       ],
       [
-        94,
-        98
+        583,
+        612
       ],
       [
-        100,
-        110
-      ],
-      [
-        111,
-        120
-      ],
-      [
-        121,
-        132
-      ],
-      [
-        135,
-        144
-      ],
-      [
-        145,
-        149
-      ],
-      [
-        150,
-        156
-      ],
-      [
-        157,
-        166
-      ],
-      [
-        167,
-        168
-      ],
-      [
-        169,
-        175
-      ],
-      [
-        176,
-        184
-      ],
-      [
-        185,
-        191
+        613,
+        640
       ]
     ],
     "source_focus_areas": [
@@ -899,76 +859,52 @@
   },
   {
     "source": "in this image in the foreground there is one man who is holding some vegetables it seems and walking, and on the right side there is one person who is standing and it looks like there are some vegetables. and there are some poles and plastic covers, and there is a wire. on the wire there are some clothes and some ropes, and in the background also there are poles and we could see roof at the top and there are trees and buildings on the left side and one woman and one child who is holding a cup and eating something. and there are some clothes and we could see some doors, wall and at the bottom there is floor. and in the center there are some poles, and at the top there is sky.",
-    "target": "在这张图片的前景，有一个男人似乎拿着一些蔬菜在走路，右边有一个人站着，看起来那里有一些蔬菜。还有一些杆子和塑料布，还有一根电线。电线上挂着一些衣服和绳子，背景中也有杆子，我们可以看到顶部的屋顶，左边有树木和建筑物，还有一个女人和一个孩子，孩子手里拿着杯子在吃东西。还有一些衣服，我们可以看到一些门、墙，底部是地板。在中心有一些杆子，顶部是天空。",
+    "target": "Trong hình ảnh này, ở phía trước có một người đàn ông đang cầm một số loại rau có vẻ như vậy và đang đi bộ, và ở phía bên phải có một người đang đứng và có vẻ như có một số loại rau. Và có một số cột và tấm nhựa, và có một sợi dây. Trên sợi dây có một số quần áo và dây thừng, và ở phía sau cũng có các cột và chúng ta có thể thấy mái nhà ở trên cùng, và có cây cối và các tòa nhà ở phía bên trái và một người phụ nữ và một đứa trẻ đang cầm cốc và ăn gì đó. Và có một số quần áo và chúng ta có thể thấy một số cửa, tường và ở phía dưới có sàn nhà. Và ở trung tâm có một số cột, và ở trên cùng là bầu trời.",
     "id": "cin_0_gemma3_27b_clap",
     "target_focus_areas": [
       [
-        9,
-        25
-      ],
-      [
-        26,
-        34
-      ],
-      [
-        35,
-        45
-      ],
-      [
-        46,
-        56
-      ],
-      [
-        57,
-        63
-      ],
-      [
-        64,
-        76
-      ],
-      [
-        77,
-        84
-      ],
-      [
-        86,
-        96
-      ],
-      [
-        97,
+        19,
         106
       ],
       [
         107,
-        118
+        181
       ],
       [
-        119,
-        131
+        182,
+        211
       ],
       [
-        132,
-        138
+        212,
+        230
       ],
       [
-        139,
-        148
+        231,
+        275
       ],
       [
-        149,
-        150
+        276,
+        350
       ],
       [
-        151,
-        156
+        351,
+        456
       ],
       [
-        157,
-        165
+        457,
+        513
       ],
       [
-        166,
-        171
+        514,
+        546
+      ],
+      [
+        547,
+        576
+      ],
+      [
+        577,
+        604
       ]
     ],
     "source_focus_areas": [
@@ -1081,16 +1017,12 @@
   },
   {
     "source": "Earlier , he visited Our Lady Queen of Angels School in East Harlem .",
-    "target": "此前，他曾参观位于东哈莱姆的 Our Lady Queen of Angels School。",
+    "target": "Trước đó, ông đã thăm Trường Our Lady Queen of Angels ở East Harlem.",
     "id": "m2e2_0_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        3,
-        21
-      ],
-      [
-        25,
-        46
+        9,
+        67
       ]
     ],
     "source_focus_areas": [
@@ -1115,12 +1047,12 @@
   },
   {
     "source": "Earlier , he visited Our Lady Queen of Angels School in East Harlem .",
-    "target": "早些时候，他参观了位于东哈莱姆的圣母天使女王学校。",
+    "target": "Trước đó, ông đã đến thăm Trường Our Lady Queen of Angels ở khu East Harlem.",
     "id": "m2e2_0_qwen3_32b_clap",
     "target_focus_areas": [
       [
-        5,
-        24
+        9,
+        75
       ]
     ],
     "source_focus_areas": [
@@ -1145,20 +1077,24 @@
   },
   {
     "source": "C.T. Vivian , shown at home in Atlanta in June 2015 , 50 years earlier told a hostile white sheriff in Selma , Alabama : ' You ca n't turn your back on justice . '",
-    "target": "C.T. 维维安，如图所示于2015年6月在亚特兰大的家中，50年前曾对阿拉巴马州塞尔玛市一位敌视的白人警长说：“你不能背弃正义。”",
+    "target": "C.T. Vivian, được chụp tại nhà ở Atlanta vào tháng 6 năm 2015, 50 năm trước đã nói với một cảnh sát trưởng da trắng thù địch ở Selma, Alabama: 'Anh không thể quay lưng lại với công lý.'",
     "id": "m2e2_60_gpt4_ez",
     "target_focus_areas": [
       [
         0,
-        8
+        11
       ],
       [
-        14,
-        29
+        12,
+        61
       ],
       [
-        33,
-        55
+        62,
+        132
+      ],
+      [
+        133,
+        141
       ]
     ],
     "source_focus_areas": [
@@ -1187,20 +1123,24 @@
   },
   {
     "source": "C.T. Vivian , shown at home in Atlanta in June 2015 , 50 years earlier told a hostile white sheriff in Selma , Alabama : ' You ca n't turn your back on justice . '",
-    "target": "C.T.维维安，2015年6月在亚特兰大家中所拍摄的照片，50年前曾对亚拉巴马州塞尔玛一位敌对的白人警长说：“你不能背弃正义。”",
+    "target": "C.T. Vivian, được chụp tại nhà ở Atlanta vào tháng 6 năm 2015, 50 năm trước đã nói với một cảnh sát trưởng da trắng thù địch ở Selma, Alabama: 'Anh không thể quay lưng lại với công lý.'",
     "id": "m2e2_60_gpt4_clap",
     "target_focus_areas": [
       [
         0,
-        7
+        11
       ],
       [
-        8,
-        28
+        12,
+        61
       ],
       [
-        29,
-        53
+        62,
+        132
+      ],
+      [
+        133,
+        141
       ]
     ],
     "source_focus_areas": [
@@ -1229,36 +1169,36 @@
   },
   {
     "source": "it is a metro station , there is a metro rail on the left side track , the right side track is empty the platform is also empty, there are some boards and posters to the pillars , in the left side platform some people are waiting for the train , there is a big roof above that, there are also some poles they are looking like the network poles , the train is of blue, white and yellow color .",
-    "target": "这是一个地铁站，左侧轨道上有一辆地铁列车，右侧轨道是空的。站台也是空的，柱子上贴着一些板子和海报，在左侧站台上，一些人正在等待火车。上方有一个大屋顶，还有一些柱子，看起来像网络柱。这辆火车是蓝、白、黄三色的。",
+    "target": "đây là một nhà ga tàu điện ngầm, có một đường ray tàu điện ngầm ở đường ray bên trái, đường ray bên phải trống không, sân ga cũng trống, có một vài bảng hiệu và áp phích dán trên các cột trụ, ở sân ga bên trái có một vài người đang chờ tàu, phía trên có một mái nhà lớn, cũng có một vài cột trông giống như cột mạng lưới, tàu có màu xanh lam, trắng và vàng.",
     "id": "png_0_gemma3_27b_ez",
     "target_focus_areas": [
       [
-        8,
-        20
+        32,
+        84
       ],
       [
-        21,
-        28
+        85,
+        116
       ],
       [
-        29,
-        35
+        117,
+        135
       ],
       [
-        38,
-        48
+        136,
+        190
       ],
       [
-        56,
-        65
+        191,
+        239
       ],
       [
-        66,
-        74
+        240,
+        269
       ],
       [
-        90,
-        96
+        321,
+        341
       ]
     ],
     "source_focus_areas": [
@@ -1303,36 +1243,36 @@
   },
   {
     "source": "it is a metro station , there is a metro rail on the left side track , the right side track is empty the platform is also empty, there are some boards and posters to the pillars , in the left side platform some people are waiting for the train , there is a big roof above that, there are also some poles they are looking like the network poles , the train is of blue, white and yellow color .",
-    "target": "这是一个地铁站，左侧轨道上有一辆地铁列车，右侧轨道是空的，站台也是空的。柱子上贴着一些告示牌和海报，左侧站台上有一些人正在等待火车，上方有一个大屋顶，还有一些看起来像网络柱子的柱子。火车是蓝、白、黄三色的。",
+    "target": "đó là một nhà ga tàu điện ngầm, có một đường ray tàu điện ngầm ở phía bên trái, đường ray phía bên phải trống không, sân ga cũng trống không, có một số bảng và áp phích dán trên các cột, ở sân ga bên trái có một số người đang đợi tàu, phía trên có một mái nhà lớn, cũng có một số cột trông giống như cột mạng lưới, tàu có màu xanh lam, trắng và vàng.",
     "id": "png_0_gemma3_27b_clap",
     "target_focus_areas": [
       [
-        8,
-        20
+        31,
+        78
       ],
       [
-        21,
-        28
+        79,
+        115
       ],
       [
-        29,
-        35
+        116,
+        140
       ],
       [
-        39,
-        49
+        141,
+        185
       ],
       [
-        50,
-        65
+        186,
+        233
       ],
       [
-        66,
-        74
+        234,
+        263
       ],
       [
-        91,
-        95
+        314,
+        334
       ]
     ],
     "source_focus_areas": [
@@ -1377,24 +1317,12 @@
   },
   {
     "source": "A man in a blue hard hat and orange safety vest stands in an intersection while holding a flag .",
-    "target": "一名男子戴着蓝色安全帽，穿着橙色反光背心，站在一个十字路口，手中举着一面旗帜。",
+    "target": "Một người đàn ông đội một chiếc mũ bảo hộ màu xanh và mặc áo phản quang màu cam đứng ở một giao lộ trong khi đang cầm một lá cờ .",
     "id": "flickr_0_0_qwen3_32b_ez",
     "target_focus_areas": [
       [
         0,
-        11
-      ],
-      [
-        12,
-        20
-      ],
-      [
-        21,
-        29
-      ],
-      [
-        30,
-        38
+        128
       ]
     ],
     "source_focus_areas": [
@@ -1423,20 +1351,12 @@
   },
   {
     "source": "A man in a blue hard hat and orange safety vest stands in an intersection while holding a flag .",
-    "target": "一名戴着蓝色安全帽、穿着橙色安全背心的男子站在一个十字路口，手里拿着一面旗帜。",
+    "target": "Một người đàn ông đội nón bảo hộ màu xanh và mặc áo bảo hộ màu cam đang đứng ở một giao lộ trong khi cầm cờ.",
     "id": "flickr_0_0_qwen3_32b_clap",
     "target_focus_areas": [
       [
         0,
-        9
-      ],
-      [
-        10,
-        29
-      ],
-      [
-        30,
-        38
+        107
       ]
     ],
     "source_focus_areas": [
@@ -1465,44 +1385,44 @@
   },
   {
     "source": "Chargers ’ Jamal Williams Arrested For DUI on February 4 , 2009 Chargers defensive tackle Jamal Williams was arrested early Sunday for suspicions of driving under the influence . Williams was pulled over by the California Highway Patrol for speeding in a San Diego freeway . He was given a blood alcohol test but the results have not been revealed . He was taken to the County jail where he was booked and released on bail . According to authorities , he was driving his Bentley at about 1 : 00 am Sunday on highway 94 when the cops stopped him . This is the second DUI related arrest for the team . Earlier this year , star receiver Vincent Jackson was arrested for drunk driving a few days before their play - off game .",
-    "target": "充电器队的贾马尔·威廉姆斯 因酒驾被逮捕 于2009年2月4日，充电器队防守截锋贾马尔·威廉姆斯因 涉嫌酒后驾车 于周日凌晨被 逮捕。威廉姆斯在圣地亚哥的一条高速公路上因 超速 被加州公路巡警 拦下。他接受了血液酒精测试，但结果尚未 公布。他被 带到县监狱，在那里完成了 登记手续并以 保释身份 获释。据当局称，他于周日凌晨约1点在94号高速公路上驾驶他的宾利时被警察 拦下。这是球队第二次因 酒驾相关原因被 逮捕。今年早些时候，明星接球手文森特·杰克逊在他们的 季后赛比赛前几天也因 酒驾被 逮捕。",
+    "target": "Jamal Williams của Chargers bị bắt giữ vì lái xe khi say rượu vào ngày 4 tháng 2 năm 2009. Hậu vệ tấn công của Chargers, Jamal Williams, đã bị bắt vào sáng Chủ nhật với nghi ngờ về việc lái xe dưới ảnh hưởng của chất kích thích. Williams đã bị dừng xe bởi Cảnh sát Đường cao tốc California vì lái xe quá tốc độ trên một xa lộ ở San Diego. Anh ta đã làm xét nghiệm nồng độ cồn trong máu nhưng kết quả chưa được công bố. Anh ta đã bị đưa đến nhà tù Quận, nơi anh ta đã làm thủ tục và được thả bảo lãnh. Theo cơ quan chức năng, anh ta đang lái chiếc Bentley của mình khoảng 1 giờ sáng Chủ nhật trên xa lộ 94 khi cảnh sát dừng xe anh. Đây là lần thứ hai anh ta bị bắt giữ liên quan đến DUI trong đội. Đầu năm nay, cầu thủ nhận bóng xuất sắc Vincent Jackson đã bị bắt vì lái xe khi say rượu chỉ vài ngày trước trận đấu play-off của họ.",
     "id": "eventstoryline_0_gpt4_ez",
     "target_focus_areas": [
       [
-        9,
-        28
+        0,
+        89
       ],
       [
-        44,
-        66
+        136,
+        227
       ],
       [
-        78,
-        99
+        228,
+        337
       ],
       [
-        111,
-        119
+        338,
+        417
       ],
       [
-        120,
-        128
+        418,
+        451
       ],
       [
-        129,
-        150
+        452,
+        499
       ],
       [
-        177,
-        187
+        524,
+        629
       ],
       [
-        189,
-        207
+        630,
+        695
       ],
       [
-        224,
-        249
+        709,
+        829
       ]
     ],
     "source_focus_areas": [
@@ -1595,48 +1515,44 @@
   },
   {
     "source": "Chargers ’ Jamal Williams Arrested For DUI on February 4 , 2009 Chargers defensive tackle Jamal Williams was arrested early Sunday for suspicions of driving under the influence . Williams was pulled over by the California Highway Patrol for speeding in a San Diego freeway . He was given a blood alcohol test but the results have not been revealed . He was taken to the County jail where he was booked and released on bail . According to authorities , he was driving his Bentley at about 1 : 00 am Sunday on highway 94 when the cops stopped him . This is the second DUI related arrest for the team . Earlier this year , star receiver Vincent Jackson was arrested for drunk driving a few days before their play - off game .",
-    "target": "电光队的贾马尔·威廉姆斯于2009年2月4日因酒驾被捕。电光队防守截锋贾马尔·威廉姆斯于周日凌晨因涉嫌酒后驾驶被逮捕。威廉姆斯因在圣地亚哥高速公路超速被加州公路巡警拦下。他接受了血液酒精测试，但结果尚未公布。他被带到县监狱登记后以保释金获释。根据当局说法，他于周日凌晨1点左右驾驶他的宾利行驶在94号公路上时被警察拦下。这是该队第二次因酒驾被捕。今年早些时候，明星接球手文森特·杰克逊就在季后赛前几天因酒驾被捕。",
+    "target": "Jamal Williams của Chargers bị bắt vì lái xe khi say rượu vào ngày 4 tháng 2 năm 2009. Hậu vệ tấn công của Chargers, Jamal Williams, đã bị bắt vào sáng Chủ nhật do nghi ngờ lái xe dưới ảnh hưởng của rượu. Williams bị Cảnh sát đường cao tốc California dừng xe vì chạy quá tốc độ trên một đường cao tốc ở San Diego. Anh ta đã được làm xét nghiệm nồng độ cồn trong máu nhưng kết quả chưa được công bố. Anh ta bị đưa đến nhà tù quận, nơi anh ta bị ghi danh và được tại ngoại bằng tiền bảo lãnh. Theo cơ quan chức năng, anh ta đang lái chiếc Bentley của mình vào khoảng 1 giờ sáng Chủ nhật trên đường cao tốc 94 khi cảnh sát dừng xe. Đây là vụ bắt giữ thứ hai liên quan đến lái xe khi say rượu của đội. Đầu năm nay, ngôi sao nhận bóng Vincent Jackson cũng đã bị bắt vì lái xe khi say rượu vài ngày trước trận đấu play-off của họ.",
     "id": "eventstoryline_0_gpt4_clap",
     "target_focus_areas": [
       [
-        15,
-        27
+        0,
+        85
       ],
       [
-        41,
-        58
+        132,
+        203
       ],
       [
-        65,
-        84
+        204,
+        312
       ],
       [
-        85,
-        95
+        313,
+        397
       ],
       [
-        96,
-        103
+        398,
+        428
       ],
       [
-        104,
-        120
+        429,
+        489
       ],
       [
-        130,
-        148
+        514,
+        627
       ],
       [
-        149,
-        159
+        628,
+        696
       ],
       [
-        160,
-        172
-      ],
-      [
-        189,
-        205
+        710,
+        823
       ]
     ],
     "source_focus_areas": [
@@ -1729,72 +1645,60 @@
   },
   {
     "source": "The January 2010 Rio de Janeiro floods and mudslides was an extreme weather event that affected the State of Rio de Janeiro in Brazil in the first days of January 2010 . at least 85 people died , with at least 29 people in the hotel sankey after it was destroyed by landslides , and many more have been injured . More than 4,000 people were forced to evacuate their homes . The worst affected municipality was Angra dos Reis , about southwest of the city of Rio de Janeiro . At least 35 people were killed at a resort on Ilha Grande : about forty people were staying in the hotel which was buried under a mudslide , and the death toll is expected to rise further . Brazil 's only functioning nuclear power plant , Central Nuclear Almirante Álvaro Alberto , is also located within the municipality : plans were made for a temporary shutdown , as blocked roads would make any evacuation difficult or impossible in the event of an incident at the plant . In Rio Grande do Sul , at least seven people died and 20 went missing after a bridge collapsed due to heavy rains .",
-    "target": "2010年1月，里约热内卢的洪水和泥石流是一场极端天气事件，发生在2010年1月初的巴西里约热内卢州。至少有85人死亡，其中至少29人在桑凯酒店被摧毁后遇难，还有更多人受伤。超过4000人被迫使撤离他们的家园。受灾最严重的市镇是安格拉多斯雷斯，位于里约热内卢市的西南方向。在伊尔哈格兰德岛的一个度假村，至少有35人丧生：约四十人在酒店入住，该酒店被泥石流掩埋，预计死亡人数还会进一步上升。巴西唯一的核电站，阿尔米兰特阿尔瓦罗·阿尔贝托核电站，也位于该市镇内：计划进行临时关闭，因为道路受阻将使任何疏散在电站发生事故时变得困难或不可能。在南里奥格兰德州，至少有七人死亡，20人失踪，原因是由于大雨导致一座桥梁坍塌。",
+    "target": "Trận lũ lụt và lở đất tháng 1 năm 2010 ở Rio de Janeiro là một sự kiện thời tiết cực đoan ảnh hưởng đến bang Rio de Janeiro ở Brazil trong những ngày đầu của tháng 1 năm 2010. Ít nhất 85 người thiệt mạng, trong đó có ít nhất 29 người tại khách sạn Sankey sau khi nó bị phá hủy bởi các vụ lở đất, và nhiều người khác bị bị thương. Hơn 4.000 người đã bị buộc phải sơ tán khỏi nhà của họ. Đô thị bị ảnh hưởng nặng nề nhất là Angra dos Reis, nằm cách thành phố Rio de Janeiro về phía tây nam. Ít nhất 35 người bị giết tại một khu nghỉ dưỡng trên đảo Ilha Grande: khoảng bốn mươi người đang ở lại trong khách sạn, nơi đã bị chôn vùi dưới một trận lở đất, và số người tử vong dự kiến sẽ tăng thêm. Nhà máy điện hạt nhân duy nhất đang hoạt động của Brazil, Central Nuclear Almirante Álvaro Alberto, cũng nằm trong đô thị này: các kế hoạch đã được lên kế hoạch để tạm dừng hoạt động, vì đường xá bị chặn sẽ khiến việc sơ tán trở nên khó khăn hoặc không thể trong trường hợp xảy ra sự cố tại nhà máy. Tại Rio Grande do Sul, ít nhất bảy người thiệt mạng và 20 người mất tích sau khi một cây cầu sập do mưa lớn.",
     "id": "maven_0_gemma3_27b_ez",
     "target_focus_areas": [
       [
         0,
-        7
+        174
       ],
       [
-        8,
-        24
+        175,
+        203
       ],
       [
-        30,
-        48
-      ],
-      [
-        51,
-        59
-      ],
-      [
-        65,
-        78
-      ],
-      [
-        79,
-        86
-      ],
-      [
-        87,
-        104
-      ],
-      [
-        151,
-        159
-      ],
-      [
-        160,
-        169
-      ],
-      [
-        170,
-        179
-      ],
-      [
-        180,
-        193
-      ],
-      [
-        229,
-        237
-      ],
-      [
-        238,
-        258
-      ],
-      [
-        276,
-        283
-      ],
-      [
-        284,
-        289
+        204,
+        294
       ],
       [
         295,
-        305
+        328
+      ],
+      [
+        336,
+        384
+      ],
+      [
+        385,
+        436
+      ],
+      [
+        488,
+        550
+      ],
+      [
+        558,
+        607
+      ],
+      [
+        608,
+        648
+      ],
+      [
+        649,
+        690
+      ],
+      [
+        818,
+        874
+      ],
+      [
+        875,
+        954
+      ],
+      [
+        1014,
+        1099
       ]
     ],
     "source_focus_areas": [
@@ -1891,72 +1795,56 @@
   },
   {
     "source": "The January 2010 Rio de Janeiro floods and mudslides was an extreme weather event that affected the State of Rio de Janeiro in Brazil in the first days of January 2010 . at least 85 people died , with at least 29 people in the hotel sankey after it was destroyed by landslides , and many more have been injured . More than 4,000 people were forced to evacuate their homes . The worst affected municipality was Angra dos Reis , about southwest of the city of Rio de Janeiro . At least 35 people were killed at a resort on Ilha Grande : about forty people were staying in the hotel which was buried under a mudslide , and the death toll is expected to rise further . Brazil 's only functioning nuclear power plant , Central Nuclear Almirante Álvaro Alberto , is also located within the municipality : plans were made for a temporary shutdown , as blocked roads would make any evacuation difficult or impossible in the event of an incident at the plant . In Rio Grande do Sul , at least seven people died and 20 went missing after a bridge collapsed due to heavy rains .",
-    "target": "2010年1月，里约热内卢发生了一场极端天气事件，影响了巴西里约热内卢州。至少有85人死亡，其中至少29人在山体滑坡摧毁酒店桑基后丧生，还有更多人受伤。超过4000人被迫撤离家园。受灾最严重的市镇是安格拉多斯雷斯，位于里约热内卢市的西南方向。在伊尔哈格兰德岛上的一个度假胜地，至少有35人丧生：当时有大约四十人在酒店内，酒店被泥石流掩埋，预计死亡人数还会进一步上升。巴西唯一的核电站——阿尔米兰特阿尔瓦罗·阿尔贝托核电站也位于该市镇内：由于道路被阻，如果电站发生事故，任何疏散都将变得困难或不可能，因此制定了临时关闭计划。在南里奥格兰德州，由于强降雨导致一座桥梁坍塌，至少有七人死亡，20人失踪。",
+    "target": "Lũ lụt và lở đất Rio de Janeiro tháng 1 năm 2010 là một sự kiện thời tiết cực đoan ảnh hưởng đến bang Rio de Janeiro ở Brazil vào những ngày đầu tháng 1 năm 2010. Ít nhất 85 người đã thiệt mạng, với ít nhất 29 người tại khách sạn Sankey thiệt mạng sau khi nó bị phá hủy bởi các vụ lở đất, và nhiều người khác bị thương. Hơn 4.000 người đã buộc phải sơ tán khỏi nhà của họ. Đô thị bị ảnh hưởng nặng nề nhất là Angra dos Reis, nằm cách thành phố Rio de Janeiro về phía tây nam. Ít nhất 35 người đã thiệt mạng tại một khu nghỉ dưỡng trên đảo Ilha Grande: khoảng bốn mươi người đang ở trong khách sạn đã bị chôn vùi dưới một vụ lở đất, và số người chết dự kiến sẽ tiếp tục tăng lên. Nhà máy điện hạt nhân duy nhất đang hoạt động của Brazil, Central Nuclear Almirante Álvaro Alberto, cũng nằm trong đô thị này: các kế hoạch đã được đưa ra để tạm dừng hoạt động, vì các con đường bị chặn sẽ khiến việc sơ tán trở nên khó khăn hoặc không thể xảy ra trong trường hợp xảy ra sự cố tại nhà máy. Tại Rio Grande do Sul, ít nhất bảy người đã thiệt mạng và 20 người mất tích sau khi một cây cầu sập do mưa lớn.",
     "id": "maven_0_gemma3_27b_clap",
     "target_focus_areas": [
       [
         0,
-        7
+        161
       ],
       [
-        25,
-        36
+        162,
+        193
       ],
       [
-        37,
-        45
+        194,
+        287
       ],
       [
-        50,
-        67
+        288,
+        318
       ],
       [
-        68,
-        75
+        326,
+        371
       ],
       [
-        76,
-        89
+        372,
+        423
       ],
       [
-        90,
-        104
+        475,
+        543
       ],
       [
-        138,
-        146
+        551,
+        630
       ],
       [
-        147,
-        159
+        631,
+        677
       ],
       [
-        160,
-        168
+        805,
+        855
       ],
       [
-        169,
-        182
+        856,
+        938
       ],
       [
-        234,
-        246
-      ],
-      [
-        249,
-        260
-      ],
-      [
-        273,
-        283
-      ],
-      [
-        284,
-        291
-      ],
-      [
-        292,
-        297
+        1007,
+        1095
       ]
     ],
     "source_focus_areas": [
@@ -2053,12 +1941,12 @@
   },
   {
     "source": "Veterans Slam Government for Shifting Goalpost",
-    "target": "退伍军人抨击政府因为不断更改目标标准",
+    "target": "Cựu chiến binh chỉ trích chính phủ vì thay đổi tiêu chuẩn",
     "id": "recess_0_qwen3_32b_ez",
     "target_focus_areas": [
       [
         0,
-        18
+        57
       ]
     ],
     "source_focus_areas": [
@@ -2079,12 +1967,12 @@
   },
   {
     "source": "Veterans Slam Government for Shifting Goalpost",
-    "target": "退伍军人抨击政府不断改变目标",
+    "target": "Các cựu chiến binh chỉ trích chính phủ vì việc thay đổi tiêu chuẩn đánh giá",
     "id": "recess_0_qwen3_32b_clap",
     "target_focus_areas": [
       [
         0,
-        14
+        75
       ]
     ],
     "source_focus_areas": [
@@ -2105,12 +1993,12 @@
   },
   {
     "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
-    "target": "2015年9月4日凌晨4:21 新德里：“同一等级同等待遇”（OROP）方案的僵局在周四持续，抗议的退役军人指责政府“不断改变规则”，且未提出任何“具体方案”来解决该问题。",
+    "target": "04 tháng 9 năm 2015 04:21 SA NEW DELHI : Bế tắc về chính sách ‘ Một cấp lương Một hưu bổng ’ (OROP) tiếp tục kéo dài vào thứ Năm khi các cựu binh căng thẳng cáo buộc chính phủ “ liên tục thay đổi mục tiêu ” và không đưa ra bất kỳ “ đề xuất cụ thể ” nào để giải quyết vấn đề.",
     "id": "recess_2_gpt4_ez",
     "target_focus_areas": [
       [
-        20,
-        46
+        40,
+        132
       ]
     ],
     "source_focus_areas": [
@@ -2131,12 +2019,12 @@
   },
   {
     "source": "04th September 2015 04:21 AM NEW DELHI : Deadlock over the ‘ One rank One Pension ’ ( OROP ) scheme persisted on Thursday with agitating ex-servicemen accusing the government of “ constantly shifting the goalpost ” and not coming out with any “ concrete proposal ” to resolve the issue .",
-    "target": "2015年9月4日凌晨4:21 新德里：关于“同级同酬养老金”（OROP）计划的僵局周四依旧存在，抗议的退伍军人指责政府“不断改变目标”，没有拿出任何“切实的提案”来解决这一问题。",
+    "target": "Ngày 04 tháng 9 năm 2015, 04:21 sáng, NEW DELHI: Bế tắc về kế hoạch ‘Một cấp lương hưu cho một cấp bậc’ (OROP) vẫn tiếp tục vào thứ Năm khi các cựu chiến binh đang biểu tình cáo buộc chính phủ “liên tục thay đổi mục tiêu” và không đưa ra bất kỳ “đề xuất cụ thể” nào để giải quyết vấn đề.",
     "id": "recess_2_gpt4_clap",
     "target_focus_areas": [
       [
-        20,
-        48
+        48,
+        143
       ]
     ],
     "source_focus_areas": [
@@ -2157,12 +2045,12 @@
   },
   {
     "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
-    "target": "沃伦不应该参加那个测试；既然参加了，她就不应该公开它；既然公开了，她应该悄悄解雇任何怂恿这一冒险行为的人，然后继续前进。",
+    "target": "Warren không nên làm bài kiểm tra đó; đã làm bài kiểm tra, cô ấy không nên công khai nó; đã công khai nó, cô ấy nên lặng lẽ sa thải bất kỳ ai đã thúc giục mưu đồ này và tiếp tục bước đi.",
     "id": "semeval20task5_0_gemma3_27b_ez",
     "target_focus_areas": [
       [
         0,
-        11
+        36
       ]
     ],
     "source_focus_areas": [
@@ -2175,12 +2063,12 @@
   },
   {
     "source": "Warren should not have taken the test; having taken it, she should not have publicized it; having publicized it, she should quietly fire anyone who urged this gambit and move on.",
-    "target": "沃伦不应该参加那个测试；参加了之后，她不应该公开它；公开了之后，她应该悄悄地解雇任何怂恿这一冒险行为的人，然后继续前进。",
+    "target": "Warren không nên làm bài kiểm tra đó; đã làm bài kiểm tra rồi thì không nên công bố nó; đã công bố nó rồi thì nên âm thầm sa thải bất cứ ai đã thúc đẩy mưu mẹo này và tiếp tục.",
     "id": "semeval20task5_0_gemma3_27b_clap",
     "target_focus_areas": [
       [
         0,
-        11
+        36
       ]
     ],
     "source_focus_areas": [
@@ -2193,16 +2081,12 @@
   },
   {
     "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
-    "target": "“雷曼兄弟事件的影响仅限于几家华尔街金融机构这一想法根本站不住脚。”迪蒙表示，如果没有美联储的财政支持，他的公司不会同意收购雷曼兄弟，并表示摩根大通还同意担保雷曼兄弟从央行借入的250亿美元。",
+    "target": "\"Ý tưởng cho rằng hệ quả từ sự sụp đổ của Bear Stearns chỉ giới hạn ở một vài công ty phố Wall\" đơn giản là không đúng. Dimon nói rằng công ty của ông sẽ không đồng ý mua lại Bear nếu không có sự hỗ trợ tài chính của Cục Dự trữ Liên bang, và nói thêm rằng JPMorgan cũng đã đồng ý bảo lãnh 25 tỷ USD mà Bear đã vay từ ngân hàng trung ương.",
     "id": "semeval20task5_35_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        0,
-        30
-      ],
-      [
-        39,
-        66
+        119,
+        212
       ]
     ],
     "source_focus_areas": [
@@ -2219,16 +2103,16 @@
   },
   {
     "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
-    "target": "“高盛公司的影响仅限于几家华尔街公司的想法根本站不住脚。”迪蒙表示，如果没有美联储的财政支持，他的公司不会同意收购高盛，并表示摩根大通还同意担保高盛从央行借款的250亿美元。",
+    "target": "“Ý tưởng cho rằng hậu quả từ Bear Stearns sẽ chỉ giới hạn ở vài công ty phố Wall là không đúng như vậy.” Dimon nói rằng công ty của ông sẽ không đồng ý tiếp quản Bear nếu không có sự hỗ trợ tài chính từ Cục Dự trữ Liên bang, và nói rằng JPMorgan cũng đã đồng ý đảm bảo 25 tỷ USD mà Bear đã vay từ ngân hàng trung ương.",
     "id": "semeval20task5_35_qwen3_32b_clap",
     "target_focus_areas": [
       [
         0,
-        27
+        102
       ],
       [
-        47,
-        59
+        103,
+        199
       ]
     ],
     "source_focus_areas": [
@@ -2245,20 +2129,20 @@
   },
   {
     "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
-    "target": "最近，三维（3D）卷积神经网络（CNNs）作为捕捉视频时空表示的主流方法出现，通过为已有的二维 CNNs增加第三个时间维度。",
+    "target": "Gần đây, mạng thần kinh tích chập ba chiều (3D) convolutional neural networks ( CNNs ) đã trở thành phương pháp chủ đạo để nắm bắt các biểu diễn không gian - thời gian trong video, bằng cách thêm vào 2D CNNs tồn tại trước đó một chiều thứ ba, chiều thời gian.",
     "id": "scier_0_0_gpt4_ez",
     "target_focus_areas": [
       [
-        9,
-        15
+        47,
+        78
       ],
       [
-        16,
-        20
+        79,
+        85
       ],
       [
-        39,
-        60
+        180,
+        241
       ]
     ],
     "source_focus_areas": [
@@ -2279,20 +2163,20 @@
   },
   {
     "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
-    "target": "最近，三维（3D）卷积神经网络（CNN）作为捕捉视频时空特征的主流方法出现，通过在现有的二维CNN基础上增加第三个时间维度。",
+    "target": "Gần đây, mạng nơ-ron tích chập ba chiều (3D CNN) đã trở thành phương pháp chủ đạo để nắm bắt các biểu diễn không gian-thời gian trong video, bằng cách thêm một chiều thứ ba là chiều thời gian vào các mạng CNN hai chiều (2D CNN) đã có trước đó.",
     "id": "scier_0_0_gpt4_clap",
     "target_focus_areas": [
       [
-        9,
-        15
+        8,
+        40
       ],
       [
-        16,
-        19
+        41,
+        47
       ],
       [
-        38,
-        57
+        140,
+        242
       ]
     ],
     "source_focus_areas": [
@@ -2313,48 +2197,40 @@
   },
   {
     "source": "The human cell lines of breast cancer (MCF-7), colon adenocarcinoma (HT-29), and leukemia (CCRF/CEM) were obtained from American Type Culture Collection (Rockville, Maryland, USA) and maintained in the Cell Culture Collection at the Institute of Immunology and Experimental Therapy, Wroclaw, Poland.\n",
-    "target": "人乳腺癌细胞系（MCF-7）、结肠腺癌细胞系（HT-29）和白血病细胞系（CCRF/CEM）由美国典型培养物保藏中心（美国马里兰州罗克维尔）获得，并在免疫学与实验治疗研究所（波兰弗罗茨瓦夫）的细胞培养物保藏库中维持。",
+    "target": "Các dòng tế bào người của ung thư vú (MCF-7), ung thư biểu mô đại tràng (HT-29) và bệnh bạch cầu (CCRF/CEM) đã được thu thập từ Bộ sưu tập Loại Văn hóa Mỹ (Rockville, Maryland, Hoa Kỳ) và duy trì trong Bộ sưu tập Nuôi cấy Tế bào tại Viện Miễn dịch học và Liệu pháp Thử nghiệm, Wroclaw, Ba Lan.",
     "id": "pubmed_0_2_gemma3_27b_ez",
     "target_focus_areas": [
       [
         0,
-        7
+        37
       ],
       [
-        8,
-        13
+        38,
+        43
       ],
       [
-        15,
-        22
-      ],
-      [
-        23,
-        28
-      ],
-      [
-        29,
-        36
-      ],
-      [
-        37,
-        45
-      ],
-      [
-        46,
-        58
-      ],
-      [
-        70,
+        45,
         72
       ],
       [
         73,
-        86
+        78
       ],
       [
-        95,
-        107
+        79,
+        97
+      ],
+      [
+        98,
+        106
+      ],
+      [
+        107,
+        155
+      ],
+      [
+        184,
+        275
       ]
     ],
     "source_focus_areas": [
@@ -2411,40 +2287,40 @@
   },
   {
     "source": "The human cell lines of breast cancer (MCF-7), colon adenocarcinoma (HT-29), and leukemia (CCRF/CEM) were obtained from American Type Culture Collection (Rockville, Maryland, USA) and maintained in the Cell Culture Collection at the Institute of Immunology and Experimental Therapy, Wroclaw, Poland.\n",
-    "target": "乳腺癌 (MCF-7)、结肠腺癌 (HT-29) 和白血病 (CCRF/CEM) 的人细胞系购自美国典型培养物保藏中心 (ATCC，马里兰州罗克维尔，美国)，并在波兰弗罗茨瓦夫免疫学与实验治疗研究所的细胞培养物保藏处进行维护。",
+    "target": "Các dòng tế bào người ung thư vú (MCF-7), ung thư biểu mô đại tràng (HT-29) và bạch cầu (CCRF/CEM) được lấy từ Bộ sưu tập Loại Văn hóa Mỹ (Rockville, Maryland, Hoa Kỳ) và được duy trì trong Bộ sưu tập Văn hóa Tế bào tại Viện Miễn dịch học và Liệu pháp Thử nghiệm, Wroclaw, Ba Lan.",
     "id": "pubmed_0_2_gemma3_27b_clap",
     "target_focus_areas": [
       [
         0,
-        4
+        33
       ],
       [
-        5,
-        10
-      ],
-      [
-        12,
-        17
-      ],
-      [
-        18,
-        23
-      ],
-      [
-        24,
-        30
-      ],
-      [
-        31,
+        34,
         39
       ],
       [
-        40,
-        78
+        41,
+        68
       ],
       [
-        80,
-        112
+        69,
+        74
+      ],
+      [
+        75,
+        88
+      ],
+      [
+        89,
+        97
+      ],
+      [
+        98,
+        138
+      ],
+      [
+        167,
+        262
       ]
     ],
     "source_focus_areas": [
@@ -2501,28 +2377,28 @@
   },
   {
     "source": "A solution of oxalyl chloride (0.97 ml) in dry dichloromethane (10 ml) was stirred at −55° C. under an atmosphere of dry nitrogen.\n",
-    "target": "干燥的二氯甲烷（10 毫升）中的溶液含有草酰氯（0.97 毫升），在−55° C.下于气氛为干燥的氮气中搅拌。",
+    "target": "Một dung dịch clorua oxalyl (0,97 ml) trong khô điclôrometan (10 ml) được khuấy ở −55° C. dưới khí quyển khô nitơ.",
     "id": "chemsyn_0_2_qwen3_32b_ez",
     "target_focus_areas": [
       [
         0,
-        7
+        28
       ],
       [
-        8,
-        13
+        29,
+        36
       ],
       [
-        14,
-        23
+        37,
+        61
       ],
       [
-        24,
-        31
+        62,
+        67
       ],
       [
-        33,
-        54
+        68,
+        113
       ]
     ],
     "source_focus_areas": [
@@ -2575,32 +2451,28 @@
   },
   {
     "source": "A solution of oxalyl chloride (0.97 ml) in dry dichloromethane (10 ml) was stirred at −55° C. under an atmosphere of dry nitrogen.\n",
-    "target": "在干燥氮气气氛下，将草酰氯（0.97 ml）溶于干燥二氯甲烷（10 ml）中，并在-55°C下搅拌。",
+    "target": "Một dung dịch clorua oxalyl (0,97 ml) trong dichlorometan khô (10 ml) được khuấy ở −55° C dưới khí quyển nitơ khô.",
     "id": "chemsyn_0_2_qwen3_32b_clap",
     "target_focus_areas": [
       [
         0,
-        8
+        28
       ],
       [
-        9,
-        13
-      ],
-      [
-        14,
-        21
-      ],
-      [
-        22,
-        30
-      ],
-      [
-        31,
+        29,
         36
       ],
       [
-        39,
-        49
+        37,
+        62
+      ],
+      [
+        63,
+        68
+      ],
+      [
+        69,
+        113
       ]
     ],
     "source_focus_areas": [
@@ -2653,28 +2525,28 @@
   },
   {
     "source": "The Contribution of a Speech Perception Intervention to the Prevention of Phonological Awareness Deficits in Children With Speech Sound Disorders | Recent research reveals genetic and symptomatic overlap among children with speech sound disorders (i.e., those who (misarticulate more sounds than would be expected for their age) and children with dyslexia (i.e., those who struggle to learn to read). Children who have speech sound disorders as preschoolers are at risk for the later emergence of dyslexia, a risk that often reveals itself in the form of poor phonological awareness skills during the preschool period. Traditional speech therapy methods focus on articulation accuracy and do not focus on the child's more abstract knowledge of the sound system of the language. The ultimate objective of this research program is to prevent reading disability in children who present with speech sounds disorders. The relative effectiveness of different interventions to help these children achieve age-appropriate phonological processing skills prior to school entry will be investigated. It is expected that a combination of treatment approaches that focus on speech perception skills and vocabulary knowledge will have a superior impact on phonological awareness in comparison with a treatment approach that focuses solely on articulation accuracy.",
-    "target": "语音感知干预对预防患有语音障碍儿童语音意识缺陷的贡献 | 最新研究显示，患有语音障碍（即发音错误超过其年龄预期的儿童）与患有阅读障碍（即学习阅读困难的儿童）之间存在遗传和症状上的重叠。作为学龄前儿童，患有语音障碍的儿童存在之后出现阅读障碍的风险，这种风险通常表现为学龄前三期语音意识技能较差。传统的言语治疗方法侧重于发音准确性，而不关注儿童对语言声音系统更抽象的认知。该研究项目的最终目标是预防患有语音障碍儿童的阅读障碍。本研究将调查不同干预措施在帮助这些儿童在入学前实现与年龄相符的语音处理技能方面的相对效果。预计聚焦语音感知技能和词汇知识的组合治疗方法相比于仅侧重发音准确性的治疗方法，在提升语音意识方面具有更优越的效果。",
+    "target": "Sự đóng góp của can thiệp nhận thức âm thanh nói trong việc phòng ngừa các khiếm khuyết về nhận thức ngữ âm ở trẻ em mắc rối loạn âm thanh lời nói | Nghiên cứu gần đây tiết lộ sự chồng chéo về mặt di truyền và triệu chứng giữa trẻ em mắc rối loạn âm thanh lời nói (tức là những trẻ (phát âm sai nhiều âm hơn so với độ tuổi của chúng) và trẻ em mắc chứng khó đọc (tức là những trẻ gặp khó khăn trong việc học đọc). Trẻ em mắc rối loạn âm thanh lời nói khi còn trong độ tuổi mẫu giáo có nguy cơ phát triển chứng khó đọc sau này, một nguy cơ thường biểu hiện dưới dạng kỹ năng nhận thức ngữ âm kém trong giai đoạn mẫu giáo. Các phương pháp trị liệu lời nói truyền thống tập trung vào độ chính xác trong phát âm và không chú trọng đến kiến thức trừu tượng hơn của trẻ về hệ thống âm thanh của ngôn ngữ. Mục tiêu cuối cùng của chương trình nghiên cứu này là ngăn ngừa khuyết tật đọc ở trẻ em có biểu hiện rối loạn âm thanh lời nói. Hiệu quả tương đối của các phương pháp can thiệp khác nhau nhằm giúp những trẻ này đạt được kỹ năng xử lý ngữ âm phù hợp với độ tuổi trước khi vào trường sẽ được nghiên cứu. Dự kiến rằng sự kết hợp các phương pháp điều trị tập trung vào kỹ năng nhận thức âm thanh và kiến thức từ vựng sẽ có tác động vượt trội đến nhận thức ngữ âm so với phương pháp điều trị chỉ tập trung vào độ chính xác của phát âm.",
     "id": "neuraltrial_0_gpt4_ez",
     "target_focus_areas": [
       [
         0,
-        23
+        147
       ],
       [
-        36,
-        42
+        168,
+        264
       ],
       [
-        100,
-        114
+        413,
+        484
       ],
       [
-        191,
-        210
+        829,
+        925
       ],
       [
-        256,
-        294
+        1100,
+        1328
       ]
     ],
     "source_focus_areas": [
@@ -2711,32 +2583,28 @@
   },
   {
     "source": "The Contribution of a Speech Perception Intervention to the Prevention of Phonological Awareness Deficits in Children With Speech Sound Disorders | Recent research reveals genetic and symptomatic overlap among children with speech sound disorders (i.e., those who (misarticulate more sounds than would be expected for their age) and children with dyslexia (i.e., those who struggle to learn to read). Children who have speech sound disorders as preschoolers are at risk for the later emergence of dyslexia, a risk that often reveals itself in the form of poor phonological awareness skills during the preschool period. Traditional speech therapy methods focus on articulation accuracy and do not focus on the child's more abstract knowledge of the sound system of the language. The ultimate objective of this research program is to prevent reading disability in children who present with speech sounds disorders. The relative effectiveness of different interventions to help these children achieve age-appropriate phonological processing skills prior to school entry will be investigated. It is expected that a combination of treatment approaches that focus on speech perception skills and vocabulary knowledge will have a superior impact on phonological awareness in comparison with a treatment approach that focuses solely on articulation accuracy.",
-    "target": "言语感知干预对预防言语障碍儿童语音意识缺陷的贡献 | 最新研究表明，言语障碍儿童（即其发音错误超过其年龄预期水平的儿童）与阅读障碍儿童（即学习阅读困难的儿童）之间存在遗传和症状上的重叠。学龄前患有言语障碍的儿童存在随后出现阅读障碍的风险，这种风险通常在学前阶段表现为语音意识能力较差。传统的言语治疗方法侧重于发音准确性，而不关注儿童对语言声音系统更抽象的认知。这项研究计划的最终目标是预防患有言语障碍的儿童出现阅读障碍。研究将探讨不同干预方法帮助这些儿童在入学前达到符合年龄的语音加工技能的相对有效性。预计结合关注言语感知技能和词汇知识的治疗方法，在提升语音意识方面将优于仅关注发音准确性的治疗方法。",
+    "target": "Đóng góp của can thiệp nhận thức ngôn ngữ nói vào việc phòng ngừa thiếu hụt nhận thức ngữ âm ở trẻ em mắc rối loạn âm thanh nói | Nghiên cứu gần đây cho thấy sự chồng chéo về di truyền và triệu chứng giữa trẻ em mắc rối loạn âm thanh nói (tức là những trẻ phát âm sai nhiều âm hơn mức dự kiến so với độ tuổi) và trẻ em mắc chứng khó đọc (tức là những trẻ gặp khó khăn trong việc học đọc). Trẻ em có rối loạn âm thanh nói khi còn ở độ tuổi nhà trẻ có nguy cơ mắc chứng khó đọc sau này, một nguy cơ thường biểu hiện qua kỹ năng nhận thức ngữ âm kém trong giai đoạn nhà trẻ. Các phương pháp trị liệu ngôn ngữ truyền thống tập trung vào độ chính xác phát âm và không chú trọng đến kiến thức trừu tượng hơn của trẻ về hệ thống âm thanh của ngôn ngữ. Mục tiêu cuối cùng của chương trình nghiên cứu này là ngăn ngừa khuyết tật đọc ở những trẻ gặp rối loạn âm thanh nói. Hiệu quả tương đối của các phương pháp can thiệp khác nhau để giúp những trẻ này đạt được kỹ năng xử lý ngữ âm phù hợp với độ tuổi trước khi vào trường sẽ được điều tra. Dự kiến rằng sự kết hợp các phương pháp điều trị tập trung vào kỹ năng nhận thức ngôn ngữ nói và kiến thức từ vựng sẽ có tác động vượt trội đến nhận thức ngữ âm so với phương pháp điều trị chỉ tập trung vào độ chính xác phát âm.",
     "id": "neuraltrial_0_gpt4_clap",
     "target_focus_areas": [
       [
         0,
-        14
+        128
       ],
       [
-        34,
-        40
+        145,
+        238
       ],
       [
-        93,
-        110
+        388,
+        449
       ],
       [
-        188,
-        208
+        764,
+        861
       ],
       [
-        251,
-        273
-      ],
-      [
-        278,
-        299
+        1032,
+        1260
       ]
     ],
     "source_focus_areas": [
@@ -2773,24 +2641,24 @@
   },
   {
     "source": "Intravenous sodium valproate versus diazepam infusion for the control of refractory status epilepticus in children : a randomized controlled trial . An open-label , randomized controlled study was conducted at a tertiary care teaching hospital to compare efficacy and safety of intravenous sodium valproate versus diazepam infusion for control of refractory status epilepticus . Forty children with refractory status epilepticus were randomized to receive either intravenous sodium valproate or diazepam infusion . Refractory status epilepticus was controlled in 80 % of the valproate and 85 % of the diazepam patients . The median time to control refractory status epilepticus was less in the valproate group ( 5 minutes ) than the diazepam group ( 17 minutes ; P $lt; .001 ) . None of the patients in the valproate group required ventilation or developed hypotension , whereas in the diazepam group 60 % required ventilation and 50 % developed hypotension after starting diazepam infusion . No adverse effects on liver functions were seen with valproate . It is concluded that intravenous sodium valproate is an effective alternative to diazepam infusion in controlling refractory status epilepticus in children and is free of respiratory depression and hypotension .",
-    "target": "静脉输注丙戊酸钠与地西泮输注用于控制儿童的难治性持续状态癫痫：一项随机对照试验。为了比较静脉输注丙戊酸钠与地西泮输注控制难治性持续状态癫痫的疗效和安全性，在一所三级教学医院进行了一项开放标签、随机对照研究。四十名患有难治性持续状态癫痫的儿童被随机分配接受静脉输注丙戊酸钠或地西泮输注。丙戊酸钠组和地西泮组分别在 80% 和 85% 的患者中控制了难治性持续状态癫痫。丙戊酸钠组控制难治性持续状态癫痫的中位时间（5 分钟）短于地西泮组（17 分钟；P $lt; .001）。丙戊酸钠组的患者均未需要呼吸机支持或出现低血压，而地西泮组有 60% 的患者在开始地西泮输注后需要呼吸机支持，50% 的患者出现低血压。丙戊酸钠未见对肝功能产生不良影响。结论认为，静脉输注丙戊酸钠是控制儿童难治性持续状态癫痫的有效替代方案，且无呼吸抑制和低血压的风险。",
+    "target": "Natri valproat đường tĩnh mạch so với truyền diazepam trong điều trị tình trạng động kinh kéo dài kháng trị ở trẻ em: một thử nghiệm đối chứng ngẫu nhiên. Một nghiên cứu đối chứng ngẫu nhiên, mở nhãn đã được tiến hành tại một bệnh viện đa khoa để so sánh hiệu quả và độ an toàn của natri valproat đường tĩnh mạch so với truyền diazepam trong điều trị tình trạng động kinh kéo dài kháng trị. Bốn mươi trẻ em mắc tình trạng động kinh kéo dài kháng trị đã được ngẫu nhiên để nhận natri valproat đường tĩnh mạch hoặc truyền diazepam. Tình trạng động kinh kéo dài kháng trị được kiểm soát ở 80% bệnh nhân dùng valproat và 85% bệnh nhân dùng diazepam. Thời gian trung bình để kiểm soát tình trạng động kinh kéo dài kháng trị ngắn hơn ở nhóm valproat (5 phút) so với nhóm diazepam (17 phút; P $lt; .001). Không bệnh nhân nào trong nhóm valproat cần thở máy hoặc phát triển hạ huyết áp, trong khi ở nhóm diazepam, 60% cần thở máy và 50% phát triển hạ huyết áp sau khi bắt đầu truyền diazepam. Không có tác dụng phụ nào lên chức năng gan được quan sát thấy với valproat. Kết luận, natri valproat đường tĩnh mạch là một lựa chọn thay thế hiệu quả cho truyền diazepam trong điều trị tình trạng động kinh kéo dài kháng trị ở trẻ em và không gây suy hô hấp hoặc hạ huyết áp.",
     "id": "ebmpico_0_gemma3_27b_ez",
     "target_focus_areas": [
       [
         0,
-        30
+        116
       ],
       [
-        40,
-        66
+        218,
+        375
       ],
       [
-        103,
-        141
+        390,
+        528
       ],
       [
-        329,
-        347
+        1133,
+        1251
       ]
     ],
     "source_focus_areas": [
@@ -2839,24 +2707,24 @@
   },
   {
     "source": "Intravenous sodium valproate versus diazepam infusion for the control of refractory status epilepticus in children : a randomized controlled trial . An open-label , randomized controlled study was conducted at a tertiary care teaching hospital to compare efficacy and safety of intravenous sodium valproate versus diazepam infusion for control of refractory status epilepticus . Forty children with refractory status epilepticus were randomized to receive either intravenous sodium valproate or diazepam infusion . Refractory status epilepticus was controlled in 80 % of the valproate and 85 % of the diazepam patients . The median time to control refractory status epilepticus was less in the valproate group ( 5 minutes ) than the diazepam group ( 17 minutes ; P $lt; .001 ) . None of the patients in the valproate group required ventilation or developed hypotension , whereas in the diazepam group 60 % required ventilation and 50 % developed hypotension after starting diazepam infusion . No adverse effects on liver functions were seen with valproate . It is concluded that intravenous sodium valproate is an effective alternative to diazepam infusion in controlling refractory status epilepticus in children and is free of respiratory depression and hypotension .",
-    "target": "静脉注射苯妥英钠与地西泮输注治疗儿童难治性持续状态癫痫的对比：一项随机对照试验。在一所三级教学医院进行了一项开放标签、随机对照研究，以比较静脉注射苯妥英钠与地西泮输注治疗难治性持续状态癫痫的疗效和安全性。四十名患有难治性持续状态癫痫的儿童被随机分配接受静脉注射苯妥英钠或地西泮输注。苯妥英钠组和地西泮组分别控制了80%和85%的难治性持续状态癫痫患者。苯妥英钠组控制难治性持续状态癫痫的中位时间（5分钟）短于地西泮组（17分钟；P $lt; .001）。苯妥英钠组的患者均未需要呼吸机通气或出现低血压，而地西泮组有60%的患者需要呼吸机通气，50%的患者在地西泮输注开始后出现低血压。苯妥英钠未见对肝功能产生不良影响。结论：静脉注射苯妥英钠是控制儿童难治性持续状态癫痫的有效替代方案，且无呼吸抑制和低血压风险。",
+    "target": "Truyền tĩnh mạch natri valproate so với truyền diazepam để kiểm soát tình trạng động kinh kéo dài kháng trị ở trẻ em: một thử nghiệm kiểm soát ngẫu nhiên. Một nghiên cứu kiểm soát ngẫu nhiên, không che giấu đã được thực hiện tại một bệnh viện giảng dạy chuyên khoa để so sánh hiệu quả và độ an toàn của truyền tĩnh mạch natri valproate so với truyền diazepam để kiểm soát tình trạng động kinh kéo dài kháng trị. Bốn mươi trẻ em mắc chứng động kinh kéo dài kháng trị đã được phân ngẫu nhiên để nhận truyền tĩnh mạch natri valproate hoặc diazepam. Tình trạng động kinh kéo dài kháng trị được kiểm soát ở 80% bệnh nhân valproate và 85% bệnh nhân diazepam. Thời gian trung bình để kiểm soát tình trạng động kinh kéo dài kháng trị ngắn hơn ở nhóm valproate (5 phút) so với nhóm diazepam (17 phút; P $lt; .001). Không bệnh nhân nào trong nhóm valproate cần thở máy hoặc phát triển hạ huyết áp, trong khi ở nhóm diazepam, 60% cần thở máy và 50% phát triển hạ huyết áp sau khi bắt đầu truyền diazepam. Không có tác dụng bất lợi nào đối với chức năng gan được quan sát thấy với valproate. Kết luận, truyền tĩnh mạch natri valproate là một lựa chọn thay thế hiệu quả cho truyền diazepam trong việc kiểm soát tình trạng động kinh kéo dài kháng trị ở trẻ em và không gây suy hô hấp hoặc hạ huyết áp.",
     "id": "ebmpico_0_gemma3_27b_clap",
     "target_focus_areas": [
       [
         0,
-        30
+        116
       ],
       [
-        66,
-        91
+        233,
+        410
       ],
       [
-        102,
-        140
+        411,
+        544
       ],
       [
-        315,
-        333
+        1157,
+        1277
       ]
     ],
     "source_focus_areas": [
@@ -2905,20 +2773,20 @@
   },
   {
     "source": "IMPRESSION: 1. Eight-month-old with initially diagnosed bronchiolitis which developed into a right middle lobe pneumonia. She will be discharged on Augmentin ES 600 mg per 5 ml, 300 mg p.o. b.i.d. x10 days. Of note, this is a change since she had been treated with Unasyn IV in the hospital.",
-    "target": "IMPRESSION：1. 八个月大的婴儿最初被诊断为细支气管炎，后发展为右中叶肺炎。她将使用Augmentin ES 5毫升含600毫克，300毫克 口服 每日两次 连续10天进行治疗。需要注意的是，这与她在医院接受的Unasyn 静脉注射治疗有所不同。",
+    "target": "IMPRESSION: 1. Trẻ 8 tháng tuổi ban đầu được chẩn đoán viêm phế quản phế nang, sau đó tiến triển thành viêm phổi thùy giữa bên phải. Bé sẽ được ra viện và điều trị bằng Augmentin ES 600 mg mỗi 5 ml, 300 mg đường uống 2 lần mỗi ngày trong 10 ngày. Cần lưu ý rằng đây là một sự thay đổi so với việc bé đã được điều trị bằng Unasyn tiêm truyền tĩnh mạch trong bệnh viện.",
     "id": "clinicalie_attr_0_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        33,
-        42
+        78,
+        131
       ],
       [
-        43,
-        93
+        132,
+        245
       ],
       [
-        102,
-        127
+        257,
+        366
       ]
     ],
     "source_focus_areas": [
@@ -2959,28 +2827,20 @@
   },
   {
     "source": "IMPRESSION: 1. Eight-month-old with initially diagnosed bronchiolitis which developed into a right middle lobe pneumonia. She will be discharged on Augmentin ES 600 mg per 5 ml, 300 mg p.o. b.i.d. x10 days. Of note, this is a change since she had been treated with Unasyn IV in the hospital.",
-    "target": "印象：1. 八个月大的婴儿，最初诊断为细支气管炎，后发展为右中叶肺炎。她将使用 Augmentin ES 600 毫克/5 毫升，300 毫克口服，每日两次，持续 10 天进行治疗。值得注意的是，这与她在住院期间接受 Unasyn 静脉注射治疗的情况有所不同。",
+    "target": "INHỎI BÁC SĨ: 1. Trẻ 8 tháng tuổi ban đầu được chẩn đoán viêm phế quản phổi, sau đó tiến triển thành viêm phổi thùy giữa bên phải. Bệnh nhân sẽ được xuất viện và uống thuốc Augmentin ES 600 mg/5 ml, liều 300 mg uống 2 lần mỗi ngày trong 10 ngày. Cần lưu ý rằng đây là sự thay đổi so với việc bệnh nhân từng được điều trị bằng Unasyn truyền tĩnh mạch khi còn nằm viện.",
     "id": "clinicalie_attr_0_qwen3_32b_clap",
     "target_focus_areas": [
       [
-        25,
-        34
+        76,
+        129
       ],
       [
-        35,
-        73
+        130,
+        244
       ],
       [
-        74,
-        78
-      ],
-      [
-        79,
-        90
-      ],
-      [
-        101,
-        128
+        256,
+        366
       ]
     ],
     "source_focus_areas": [
@@ -3021,28 +2881,28 @@
   },
   {
     "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
-    "target": "6. 普瑞莱塞克 10毫克 口服液 每日两次 7. 肉碱 500毫克 口服液 每日两次 8. 鱼肝油 一粒胶囊 口服液 每日一次 9. 多种维生素 1片 口服液 每日一次 10. 碳酸氢钠钾 10毫升 口服液 每日两次 出院饮食：患者需恢复其在家中的Pediasure方案。",
+    "target": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Dầu gan cá một viên nang GT q. day. 9. Multivitamin 1 viên GT q. day. 10. Bicitra 10 mL GT b.i.d. CHẾ ĐỘ ĂN KHI XUẤT VIỆN: Bệnh nhân tiếp tục chế độ Pediasure tại nhà.",
     "id": "clinicalie_attr_1_gpt4_ez",
     "target_focus_areas": [
       [
         2,
-        24
+        29
       ],
       [
-        25,
-        45
+        30,
+        59
       ],
       [
-        46,
-        66
+        60,
+        95
       ],
       [
-        67,
-        88
+        99,
+        129
       ],
       [
-        89,
-        114
+        134,
+        182
       ]
     ],
     "source_focus_areas": [
@@ -3131,64 +2991,28 @@
   },
   {
     "source": "6. Prilosec 10 mg GT b.i.d. 7. Carnitine 500 mg GT b.i.d. 8. Cod liver oil one capsule GT q. day. 9. Multivitamin 1 tablet GT q. day. 10. Bicitra 10 mL GT b.i.d. DISCHARGE DIET: The patient is to resume his Pediasure home regimen.",
-    "target": "6. 帕洛塞克（Prilosec）10 毫克，口服，一日两次。7. 左旋肉碱 500 毫克，口服，一日两次。8. 鳕鱼肝油胶囊，每日口服一粒。9. 多种维生素，口服，每日一片。10. 比西特拉（Bicitra）10 毫升，口服，一日两次。出院饮食：患者恢复其家用佩迪舒尔（Pediasure）饮食方案。",
+    "target": "6. Prilosec 10 mg GT ngày hai lần. 7. Carnitine 500 mg GT ngày hai lần. 8. Dầu gan cá cod một viên GT mỗi ngày. 9. Multivitamin 1 viên GT mỗi ngày. 10. Bicitra 10 mL GT ngày hai lần. CHẾ ĐỘ ĂN XUẤT VIỆN: Bệnh nhân sẽ trở lại chế độ dinh dưỡng Pediasure tại nhà.",
     "id": "clinicalie_attr_1_gpt4_clap",
     "target_focus_areas": [
       [
         2,
-        22
+        33
       ],
       [
-        23,
-        25
-      ],
-      [
-        26,
-        30
-      ],
-      [
-        33,
-        45
-      ],
-      [
-        46,
-        48
-      ],
-      [
-        49,
-        53
-      ],
-      [
-        56,
-        63
-      ],
-      [
-        64,
+        37,
         70
       ],
       [
-        73,
-        79
-      ],
-      [
-        80,
-        82
-      ],
-      [
-        83,
-        87
-      ],
-      [
-        91,
+        74,
         110
       ],
       [
-        111,
-        113
+        114,
+        146
       ],
       [
-        114,
-        118
+        151,
+        181
       ]
     ],
     "source_focus_areas": [
@@ -3277,16 +3101,16 @@
   },
   {
     "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
-    "target": "她的母亲患有高血压。其他女性亲属患有子宫内膜异位症。社会史：患者已婚。她在US Bank担任账户协调员。她否认吸烟、饮酒或吸毒。入院体格检查：生命体征：血压 136/80 至 147/106。",
+    "target": "Mẹ cô bị cao huyết áp. Các thân nhân nữ khác bị lạc nội mạc tử cung. TIỀN SỬ XÃ HỘI: Bệnh nhân đã kết hôn. Cô làm việc với vai trò điều phối viên tài khoản tại Ngân hàng US Bank. Cô phủ nhận việc sử dụng thuốc lá, rượu hoặc ma túy. KHÁM THỰC THỂ KHI NHẬP VIỆN: DẤU HIỆU SINH TỒN: Huyết áp 136/80 đến 147/106.",
     "id": "clinicalie_coref_0_gemma3_27b_ez",
     "target_focus_areas": [
       [
-        30,
-        34
+        84,
+        105
       ],
       [
-        35,
-        44
+        106,
+        145
       ]
     ],
     "source_focus_areas": [
@@ -3303,16 +3127,16 @@
   },
   {
     "source": "Her mother suffers from hypertension. Other female relatives suffer from endometriosis. SOCIAL HISTORY: The patient is married. She works as an account coordinator at US Bank. She denies use of tobacco, alcohol, or drugs. ADMISSION PHYSICAL EXAMINATION: VITAL SIGNS: Blood pressure 136/80 to 147/106.",
-    "target": "她的母亲患有高血压。其他女性亲属患有子宫内膜异位症。社会史：患者已婚。她在美国银行担任账户协调员。她否认吸烟、饮酒或吸毒。入院体格检查：生命体征：血压 136/80 至 147/106。",
+    "target": "Mẹ cô bị cao huyết áp. Các nữ thân thuộc khác bị lạc nội mạc tử cung. TIỀN SỬ XÃ HỘI: Bệnh nhân đã kết hôn. Cô làm việc với vai trò điều phối viên tài khoản tại Ngân hàng US Bank. Cô phủ nhận việc sử dụng thuốc lá, rượu hoặc ma túy. KHÁM THỰC THỂ KHI NHẬP VIỆN: DẤU HIỆU SINH TỒN: Huyết áp 136/80 đến 147/106.",
     "id": "clinicalie_coref_0_gemma3_27b_clap",
     "target_focus_areas": [
       [
-        30,
-        34
+        85,
+        106
       ],
       [
-        35,
-        44
+        107,
+        146
       ]
     ],
     "source_focus_areas": [
@@ -3329,16 +3153,16 @@
   },
   {
     "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
-    "target": "她自上周以来又减了四磅。她一直有持续性腹泻。然而，我们原本打算将这些症状作为门诊处理，直到CDI的放射科医生给我打电话，报告称除了上述发现外，CT扫描中还显示有左肺栓塞。",
+    "target": "Cô ấy đã giảm thêm bốn pound kể từ tuần trước. Cô ấy bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã sẵn sàng điều trị cái này như một bệnh nhân ngoại trú cho đến khi bác sĩ chẩn đoán hình ảnh của CDI gọi tôi để báo cáo rằng ông ấy phát hiện thấy một cục máu đông ở phổi trái trên kết quả chụp CT, thêm vào các phát hiện nêu trên.",
     "id": "clinicalie_coref_1_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        12,
-        21
+        46,
+        73
       ],
       [
-        25,
-        42
+        85,
+        160
       ]
     ],
     "source_focus_areas": [
@@ -3355,16 +3179,12 @@
   },
   {
     "source": "She has lost four more pounds since last week. She has had persistent diarrhea. We were, however, prepared to manage that as an outpatient until the radiologist from CDI called me to report that he had seen a left pulmonary embolism on the CT scan in addition to the above findings.",
-    "target": "自上周以来，她又减了四磅。她一直有持续性腹泻。然而，我们原本准备以门诊方式处理这种情况，直到CDI的放射科医生打电话告诉我，他在CT扫描中除了上述发现外，还发现了一处左肺栓塞。",
+    "target": "Cô ấy đã giảm thêm bốn cân kể từ tuần trước. Cô ấy bị tiêu chảy kéo dài. Tuy nhiên, chúng tôi đã sẵn sàng điều trị cho cô ấy làm bệnh nhân ngoại trú cho đến khi bác sĩ chẩn đoán hình ảnh của CDI gọi tôi để báo cáo rằng ông đã phát hiện ra một cục máu đông phổi bên trái trên kết quả chụp CT, bên cạnh các phát hiện nêu trên.",
     "id": "clinicalie_coref_1_qwen3_32b_clap",
     "target_focus_areas": [
       [
-        13,
-        22
-      ],
-      [
-        31,
-        43
+        44,
+        71
       ]
     ],
     "source_focus_areas": [
@@ -3381,24 +3201,24 @@
   },
   {
     "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
-    "target": "我将暂时停止使用Amaryl，以确保这不会导致他的恶心症状。我将进行Accu-Chek血糖监测和滑动比例胰岛素使用。5. 恶心。我将停止所有麻醉剂和止痛药，仅用Tylenol治疗他。继续服用他的Protonex。我将停止他的Isordil。如上所述，我们将暂时停止他的Amaryl。",
+    "target": "Tôi sẽ tạm ngưng Amaryl để đảm bảo rằng thuốc này không gây buồn nôn cho anh ấy. Tôi sẽ thực hiện xét nghiệm Accu-Cheks và cân bằng liều theo thang trượt. 5. Buồn nôn. Tôi sẽ ngưng tất cả các thuốc gây nghiện và thuốc giảm đau, chỉ điều trị cho anh ấy bằng Tylenol. Tiếp tục dùng Protonex. Tôi sẽ ngưng Isordil của anh ấy. Như đã nêu ở trên, chúng tôi sẽ tạm ngưng Amaryl của anh ấy.",
     "id": "clinicalie_mse_0_gpt4_ez",
     "target_focus_areas": [
       [
         0,
-        14
+        59
       ],
       [
-        78,
-        90
+        227,
+        264
       ],
       [
-        91,
-        105
+        265,
+        288
       ],
       [
-        106,
-        119
+        289,
+        321
       ]
     ],
     "source_focus_areas": [
@@ -3423,24 +3243,24 @@
   },
   {
     "source": "I will hold the Amaryl for now to make sure this may not be contributing to his nausea. I will perform Accu-Cheks and sliding scale. 5. Nausea. I will DC all narcotics and pain pills and will treat him only with Tylenol. Continue his Protonex. I will DC his Isordil. As stated above, we will hold his Amaryl for now.",
-    "target": "我将暂时停用阿玛利（Amaryl），以确保这不会导致他的恶心。我会进行Accu-Cheks检测和滑动比例胰岛素调整。5. 恶心。我将停用所有麻醉药和止痛药，仅用泰诺（Tylenol）治疗他。继续使用他的Protonex。停用他的异山梨酯（Isordil）。如上所述，我们将暂时停用他的阿玛利。",
+    "target": "Tôi sẽ tạm ngưng thuốc Amaryl để đảm bảo thuốc này không góp phần gây buồn nôn cho bệnh nhân. Tôi sẽ làm xét nghiệm Accu-Cheks và theo dõi đường huyết bằng phương pháp sliding scale. 5. Buồn nôn. Tôi sẽ ngưng tất cả các loại thuốc gây nghiện và thuốc giảm đau và sẽ chỉ điều trị bằng Tylenol. Tiếp tục cho bệnh nhân dùng Protonex. Tôi sẽ ngưng thuốc Isordil. Như đã nêu ở trên, hiện tại chúng ta sẽ tạm ngưng thuốc Amaryl.",
     "id": "clinicalie_mse_0_gpt4_clap",
     "target_focus_areas": [
       [
         0,
-        17
+        65
       ],
       [
-        78,
-        94
+        213,
+        291
       ],
       [
-        95,
-        109
+        292,
+        329
       ],
       [
-        110,
-        127
+        330,
+        357
       ]
     ],
     "source_focus_areas": [
@@ -3465,44 +3285,40 @@
   },
   {
     "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
-    "target": "她也没有明确的克罗恩病切除术史。4. 高血压。5. 1998年进行了胸部减容术。用药情况：入院时包括：1. 6-巯基嘌呤。2. 赖诺普利。3. 避孕药。4. 氢氯噻嗪。5. 维生素B12。6. 保泰适。7. 达劳迪。过敏史：她对吗啡、磺胺类药物过敏，并且对英夫利昔单抗有不良反应。",
+    "target": "Cô ấy cũng không được cắt bỏ rõ ràng phần bệnh Crohn của mình. 4. Tăng huyết áp. 5. Giảm kích thước vòng một vào năm 1998. THUỐC: Tại thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc tránh thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. DỊ ỨNG: Cô ấy bị dị ứng với morphine, sulfa và phản ứng bất lợi với Remicade.",
     "id": "clinicalie_mse_1_gemma3_27b_ez",
     "target_focus_areas": [
       [
-        53,
-        60
+        165,
+        170
       ],
       [
-        63,
-        68
+        174,
+        185
       ],
       [
-        78,
-        83
+        210,
+        230
       ],
       [
-        86,
-        93
+        234,
+        239
       ],
       [
-        96,
-        100
+        243,
+        252
       ],
       [
-        103,
-        107
+        256,
+        265
       ],
       [
-        112,
-        116
+        274,
+        303
       ],
       [
-        117,
-        124
-      ],
-      [
-        125,
-        139
+        304,
+        343
       ]
     ],
     "source_focus_areas": [
@@ -3547,44 +3363,40 @@
   },
   {
     "source": "She also had no clear resection of her Crohn's disease. 4. Hypertension. 5. Breast reduction in 1998. MEDICATIONS: At the time of admission include: 1. 6 MP. 2. Lisinopril. 3. Birth control pill. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. ALLERGIES: She has an allergy to morphine, sulfa and an adverse reaction to Remicade.",
-    "target": "她也没有明确的克罗恩病切除术。4. 高血压。5. 1998年进行了胸部缩减术。用药：入院时包括：1. 6-MP。2. 赖诺普利。3. 避孕药。4. 氢氯噻嗪。5. B-12。6. 哌西酮。7. 达劳迪。过敏史：她对吗啡、磺胺类药物过敏，并且对Remicade有不良反应。",
+    "target": "Cô ấy cũng không được cắt bỏ rõ ràng phần bệnh Crohn của mình. 4. Tăng huyết áp. 5. Phẫu thuật giảm kích thước ngực năm 1998. THUỐC: Tại thời điểm nhập viện bao gồm: 1. 6 MP. 2. Lisinopril. 3. Thuốc tránh thai. 4. Hydrochlorothiazide. 5. B-12. 6. Percocet. 7. Dilaudid. DỊ ỨNG: Cô ấy bị dị ứng với morphine, sulfa và phản ứng bất lợi với Remicade.",
     "id": "clinicalie_mse_1_gemma3_27b_clap",
     "target_focus_areas": [
       [
-        50,
-        55
+        168,
+        173
       ],
       [
-        58,
-        63
+        177,
+        188
       ],
       [
-        73,
-        78
+        213,
+        233
       ],
       [
-        81,
-        86
+        237,
+        242
       ],
       [
-        89,
-        93
+        246,
+        255
       ],
       [
-        96,
-        100
+        259,
+        268
       ],
       [
-        105,
-        109
+        277,
+        306
       ],
       [
-        110,
-        117
-      ],
-      [
-        118,
-        134
+        307,
+        346
       ]
     ],
     "source_focus_areas": [
@@ -3629,12 +3441,16 @@
   },
   {
     "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
-    "target": "在所有此类情况下，我们的政策是按照法律要求进行合作，但仅提供法律所要求的信息。",
+    "target": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác theo yêu cầu của pháp luật, nhưng chỉ cung cấp những thông tin mà pháp luật yêu cầu.",
     "id": "policyie_12_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        0,
-        0
+        36,
+        94
+      ],
+      [
+        100,
+        156
       ]
     ],
     "source_focus_areas": [
@@ -3659,16 +3475,16 @@
   },
   {
     "source": "In all such cases , our policy is to cooperate as required by law , but to provide only such information as the law requires .",
-    "target": "在所有此类情况下，我们的政策是按照法律要求进行合作，但仅提供法律所要求的信息。",
+    "target": "Trong tất cả các trường hợp như vậy, chính sách của chúng tôi là hợp tác như yêu cầu của pháp luật, nhưng chỉ cung cấp những thông tin mà pháp luật yêu cầu mà thôi.",
     "id": "policyie_12_qwen3_32b_clap",
     "target_focus_areas": [
       [
-        9,
-        20
+        36,
+        93
       ],
       [
-        26,
-        38
+        99,
+        163
       ]
     ],
     "source_focus_areas": [
@@ -3693,20 +3509,28 @@
   },
   {
     "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
-    "target": "法律确实允许我们向执法部门 自愿且无需事先通知地披露 客户信息，包括通信内容，如果我们合理认为涉及立即死亡或严重身体伤害的紧急情况需要立即披露。",
+    "target": "Luật pháp cho phép chúng tôi tiết lộ cho cơ quan thực thi pháp luật, tự nguyện và không báo trước, thông tin khách hàng, bao gồm nội dung các cuộc liên lạc, nếu chúng tôi có cơ sở hợp lý để tin rằng một trường hợp khẩn cấp liên quan đến nguy hiểm ngay lập tức về cái chết hoặc thương tích nghiêm trọng đòi hỏi phải tiết lộ mà không chậm trễ.",
     "id": "policyie_13_gpt4_ez",
     "target_focus_areas": [
       [
         0,
-        31
+        67
       ],
       [
-        32,
-        38
+        68,
+        97
       ],
       [
-        39,
-        71
+        98,
+        119
+      ],
+      [
+        120,
+        155
+      ],
+      [
+        156,
+        340
       ]
     ],
     "source_focus_areas": [
@@ -3747,20 +3571,28 @@
   },
   {
     "source": "The law does permit us to disclose to law enforcement , voluntarily and without prior notice , customer information , including the contents of communications , if we reasonably believe that an emergency involving immediate danger of death or serious physical injury requires such disclosure without delay .",
-    "target": "法律允许我们在合理相信涉及即刻死亡或严重人身伤害危险的紧急情况需要立即披露的情况下，自愿且无需事先通知地向执法部门披露客户信息，包括通信内容。",
+    "target": "Pháp luật cho phép chúng tôi tiết lộ cho cơ quan thực thi pháp luật, tự nguyện và không cần thông báo trước, thông tin khách hàng, bao gồm cả nội dung của các cuộc liên lạc, nếu chúng tôi có lý do chính đáng tin rằng một tình trạng khẩn cấp liên quan đến nguy cơ tử vong hoặc thương tích nghiêm trọng ngay lập tức đòi hỏi tiết lộ như vậy mà không được trì hoãn.",
     "id": "policyie_13_gpt4_clap",
     "target_focus_areas": [
       [
         0,
-        41
+        67
       ],
       [
-        42,
-        63
+        68,
+        107
       ],
       [
-        64,
-        70
+        108,
+        129
+      ],
+      [
+        130,
+        172
+      ],
+      [
+        173,
+        360
       ]
     ],
     "source_focus_areas": [
@@ -3801,20 +3633,16 @@
   },
   {
     "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
-    "target": "石油集团Equinor发布了创纪录的税前利润，并表示将提高股息和股票回购，而在金融领域，Amundi超额完成了其战略目标，ABN Amro宣布在净利润大幅增长后将进行 5 亿欧元的股票回购。",
+    "target": "Tập đoàn dầu khí Equinor đã công bố lợi nhuận trước thuế kỷ lục và cho biết sẽ tăng cổ tức và mua lại cổ phiếu, còn trong lĩnh vực tài chính, Amundi đã vượt qua các mục tiêu chiến lược và ABN Amro thông báo về việc mua lại cổ phiếu trị giá 500 triệu euro sau khi lợi nhuận ròng tăng vọt.",
     "id": "finentity_0_gemma3_27b_ez",
     "target_focus_areas": [
       [
         0,
-        19
+        59
       ],
       [
-        44,
-        58
-      ],
-      [
-        61,
-        77
+        141,
+        231
       ]
     ],
     "source_focus_areas": [
@@ -3835,20 +3663,16 @@
   },
   {
     "source": "Oil group Equinor posted record  pretax profit and said it would raise dividend and share buybacks, and among financials, Amundi beats its strategic targets and ABN Amro announced a 500 million euro share buyback after a jump in net profit.",
-    "target": "石油集团 Equinor 发布了创纪录的税前利润，并表示将提高股息和股票回购，而在金融领域，Amundi 超越了其战略目标，而 ABN Amro 在净利润大幅增长后宣布了 5 亿欧元的股票回购。",
+    "target": "Tập đoàn dầu khí Equinor công bố lợi nhuận trước thuế kỷ lục và cho biết sẽ tăng cổ tức và mua lại cổ phiếu, còn trong lĩnh vực tài chính, Amundi vượt mục tiêu chiến lược và ABN Amro thông báo chương trình mua lại cổ phiếu 500 triệu euro sau khi lợi nhuận ròng tăng vọt.",
     "id": "finentity_0_gemma3_27b_clap",
     "target_focus_areas": [
       [
         0,
-        20
-      ],
-      [
-        46,
         60
       ],
       [
-        62,
-        80
+        138,
+        222
       ]
     ],
     "source_focus_areas": [
@@ -3869,12 +3693,12 @@
   },
   {
     "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
-    "target": "“石油需求……如果你看看最新数据，目前表现还不错。我们原本预计会出现一些需求下降，但实际情况并没有发生，”Gunvor Group $lt;GGL.UL$gt;全球市场研究与分析主管弗雷德里克·拉塞雷表示。",
+    "target": "\"Những nhu cầu về dầu mỏ... nếu bạn xem xét dữ liệu mới nhất, thì nó vẫn ổn. Chúng tôi đã kỳ vọng sẽ có sự suy giảm nhu cầu, nhưng điều đó thực tế không xảy ra,\" Frederic Lasserre, giám đốc điều hành toàn cầu về nghiên cứu và phân tích thị trường tại Gunvor Group $lt;GGL.UL$gt; nói.",
     "id": "finentity_9_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        52,
-        66
+        180,
+        264
       ]
     ],
     "source_focus_areas": [
@@ -3887,12 +3711,12 @@
   },
   {
     "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group $lt;GGL.UL$gt;. ",
-    "target": "Gunvor Group $lt;GGL.UL$gt; 全球市场研究与分析主管弗雷德里克·拉塞勒（Frederic Lasserre）表示：“石油需求……如果你看看最新数据，目前表现还算不错。我们原本预计会出现一些需求下降，但并没有真正发生。”",
+    "target": "“Nhu cầu về dầu mỏ... nếu bạn nhìn vào dữ liệu mới nhất, thì hiện vẫn đang ổn. Chúng tôi đã dự kiến sẽ có sự sụt giảm nhu cầu, nhưng điều đó thực tế không xảy ra,” Frederic Lasserre, giám đốc cấp cao phụ trách nghiên cứu và phân tích thị trường toàn cầu của Gunvor Group $lt;GGL.UL$gt; nói.",
     "id": "finentity_9_qwen3_32b_clap",
     "target_focus_areas": [
       [
-        0,
-        13
+        183,
+        271
       ]
     ],
     "source_focus_areas": [
@@ -3905,20 +3729,24 @@
   },
   {
     "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
-    "target": "业务收购 于2012年4月2日，我们收购了几乎所有Green River Collieries, LLC（“Green River”）与其位于韦伯斯特和霍普金斯县，肯塔基州相关的煤矿业务和运营资产。",
+    "target": "MUA LẠI DOANH NGHIỆP Vào ngày 2 tháng 4 năm 2012, chúng tôi đã mua lại gần như toàn bộ tài sản của Green River Collieries, LLC (\"Green River\") liên quan đến ngành kinh doanh và hoạt động khai thác than của họ, nằm ở huyện Webster và huyện Hopkins, bang Kentucky.",
     "id": "fire_0_gpt4_ez",
     "target_focus_areas": [
       [
         0,
-        15
+        48
       ],
       [
-        16,
-        81
+        49,
+        208
       ],
       [
-        82,
-        98
+        209,
+        246
+      ],
+      [
+        247,
+        261
       ]
     ],
     "source_focus_areas": [
@@ -3959,16 +3787,20 @@
   },
   {
     "source": "ACQUISITION OF BUSINESS On April 2 , 2012 , we acquired substantially all of Green River Collieries , LLC 's ( \" Green River \" ) assets related to its coal mining business and operations located in Webster and Hopkins Counties , Kentucky .",
-    "target": "业务收购 2012年4月2日，本公司收购了Green River Collieries, LLC（“Green River”）在肯塔基州韦伯斯特县和霍普金斯县与其煤炭采矿业务及运营相关的实质性全部资产。",
+    "target": "MUA LẠI DOANH NGHIỆP Vào ngày 2 tháng 4 năm 2012, chúng tôi đã mua lại gần như toàn bộ tài sản liên quan đến hoạt động khai thác than của Green River Collieries, LLC (\"Green River\") tại các quận Webster và Hopkins, bang Kentucky.",
     "id": "fire_0_gpt4_clap",
     "target_focus_areas": [
       [
         0,
-        14
+        48
       ],
       [
-        15,
-        98
+        49,
+        213
+      ],
+      [
+        214,
+        228
       ]
     ],
     "source_focus_areas": [
@@ -4009,28 +3841,24 @@
   },
   {
     "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
-    "target": "保诚提出的股票要约价值为 265 亿美元，但在保诚股价在公告后暴跌后，该要约价值降至略高于200 亿美元。美国国际集团 (AIG) 随后介入并提出了230 亿美元的报价，美国通用已接受该报价。",
+    "target": "Đề nghị của Prudential trị giá 26,5 tỷ đô la bằng cổ phiếu đã giảm xuống còn hơn 20 tỷ đô la khi cổ phiếu của Prudential giảm mạnh sau thông báo. AIG sau đó đã bước vào và đề nghị 23 tỷ đô la, mức giá đã được American General chấp nhận.",
     "id": "fire_22_gemma3_27b_ez",
     "target_focus_areas": [
       [
         0,
-        15
+        33
       ],
       [
-        21,
-        34
+        34,
+        144
       ],
       [
-        37,
-        52
+        145,
+        191
       ],
       [
-        53,
-        84
-      ],
-      [
-        85,
-        95
+        192,
+        235
       ]
     ],
     "source_focus_areas": [
@@ -4075,28 +3903,24 @@
   },
   {
     "source": "Prudential's bid of $26.5 billion in stock was reduced to just over $20 billion when Prudential's shares plummeted after the announcement. AIG then stepped in and offered $23 billion which was accepted by American General .",
-    "target": "保诚公司提出的265亿美元股票报价，在公告发布后保诚股价暴跌，已降至略高于200亿美元。随后，美国国际集团（AIG）提出230亿美元的报价，并被美国通用公司（American General）接受。",
+    "target": "Đề nghị của Prudential với giá 26,5 tỷ đô la cổ phiếu đã giảm xuống còn hơn 20 tỷ đô la khi cổ phiếu của Prudential giảm mạnh sau thông báo. Sau đó, AIG đã can thiệp và đưa ra mức giá 23 tỷ đô la, đã được American General chấp nhận.",
     "id": "fire_22_gemma3_27b_clap",
     "target_focus_areas": [
       [
         0,
-        17
+        33
       ],
       [
-        18,
-        30
+        34,
+        139
       ],
       [
-        31,
-        43
+        148,
+        195
       ],
       [
-        47,
-        69
-      ],
-      [
-        70,
-        98
+        196,
+        231
       ]
     ],
     "source_focus_areas": [
@@ -4141,12 +3965,12 @@
   },
   {
     "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
-    "target": "主要的后门在Epic 攻击中被使用，也被称为 “WorldCupSec”、“TadjMakhal”、“Wipbot” 或 “Tavdig”。",
+    "target": "Lối vào ngầm chính được sử dụng trong các cuộc tấn công của Epic cũng được gọi là '' WorldCupSec '', '' TadjMakhal '', '' Wipbot '' hoặc '' Tavdig ''.",
     "id": "malwaretextdb_0_qwen3_32b_ez",
     "target_focus_areas": [
       [
         0,
-        17
+        82
       ]
     ],
     "source_focus_areas": [
@@ -4171,12 +3995,12 @@
   },
   {
     "source": "The primary backdoor used in the Epic attacks is also known as '' WorldCupSec '' , '' TadjMakhal '' , '' Wipbot '' or '' Tavdig '' .",
-    "target": "Epic攻击中使用的主要后门也被称为“WorldCupSec”、“TadjMakhal”、“Wipbot”或“Tavdig”。",
+    "target": "Backdoor chính được sử dụng trong các cuộc tấn công của Epic còn được biết đến với các tên gọi là \"WorldCupSec\", \"TadjMakhal\", \"Wipbot\" hoặc \"Tavdig\".",
     "id": "malwaretextdb_0_qwen3_32b_clap",
     "target_focus_areas": [
       [
         0,
-        22
+        94
       ]
     ],
     "source_focus_areas": [
@@ -4201,12 +4025,12 @@
   },
   {
     "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
-    "target": "Epic 后门由庞大的被黑服务器网络控制，提供指挥和控制功能。",
+    "target": "Cửa hậu Epic được điều khiển bởi một mạng lưới rộng lớn các máy chủ bị hack mà cung cấp chức năng chỉ huy và kiểm soát .",
     "id": "malwaretextdb_21_gpt4_ez",
     "target_focus_areas": [
       [
         0,
-        30
+        119
       ]
     ],
     "source_focus_areas": [
@@ -4235,16 +4059,12 @@
   },
   {
     "source": "The Epic backdoors are commanded by a huge network of hacked servers that deliver command and control functionality .",
-    "target": "Epic后门由一个庞大的被黑服务器网络控制，这些服务器提供指挥和控制功能。",
+    "target": "Các cửa hậu Epic được điều khiển bởi một mạng lưới lớn các máy chủ bị hack cung cấp chức năng chỉ huy và kiểm soát.",
     "id": "malwaretextdb_21_gpt4_clap",
     "target_focus_areas": [
       [
         0,
-        21
-      ],
-      [
-        22,
-        36
+        114
       ]
     ],
     "source_focus_areas": [
@@ -4273,24 +4093,20 @@
   },
   {
     "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
-    "target": "但是又有一个被推送出来了，今天，所以有可能这个问题终于，彻底解决了。",
+    "target": "Nhưng một bản vá lỗi khác đã được phát hành hôm nay, vì vậy có khả năng vấn đề đã được, chắc chắn khắc phục.",
     "id": "casie_0_0_gemma3_27b_ez",
     "target_focus_areas": [
       [
         0,
-        12
+        51
       ],
       [
-        13,
-        15
+        52,
+        86
       ],
       [
-        16,
-        27
-      ],
-      [
-        28,
-        33
+        87,
+        107
       ]
     ],
     "source_focus_areas": [
@@ -4319,20 +4135,16 @@
   },
   {
     "source": "But another one was pushed out today, so it’s possible that the issue was finally, definitely fixed.",
-    "target": "但今天又发布了一个版本，所以可能这个问题终于、彻底地修复了。",
+    "target": "Nhưng một bản vá lỗi khác đã được phát hành hôm nay, vì vậy có khả năng vấn đề cuối cùng cũng đã được khắc phục dứt điểm.",
     "id": "casie_0_0_gemma3_27b_clap",
     "target_focus_areas": [
       [
         0,
-        11
+        51
       ],
       [
-        12,
-        22
-      ],
-      [
-        23,
-        29
+        52,
+        120
       ]
     ],
     "source_focus_areas": [
@@ -4361,12 +4173,12 @@
   },
   {
     "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
-    "target": "当 微软 发布补丁 时，它感谢了 FireEye 的研究人员 Hanson 以及其自己的员工。",
+    "target": "Khi Microsoft phát hành bản vá, công ty đã cảm ơn Hanson, một nhà nghiên cứu của FireEye và nhân viên của mình.",
     "id": "casie_9_6_qwen3_32b_ez",
     "target_focus_areas": [
       [
         0,
-        11
+        30
       ]
     ],
     "source_focus_areas": [
@@ -4383,12 +4195,12 @@
   },
   {
     "source": "When Microsoft patched, it thanked Hanson, a FireEye researcher and its own staff.   ",
-    "target": "微软在修补漏洞时，感谢了 FireEye 的研究人员汉森（Hanson）及其自己的员工。",
+    "target": "Khi Microsoft vá lỗ hổng, họ đã cảm ơn Hanson, một nhà nghiên cứu của FireEye và nhân viên của chính họ.",
     "id": "casie_9_6_qwen3_32b_clap",
     "target_focus_areas": [
       [
         0,
-        8
+        24
       ]
     ],
     "source_focus_areas": [
@@ -4405,12 +4217,12 @@
   },
   {
     "source": "The final stage in the development of the Skyfox was the production of a model with tricycle landing gear to better cater for the pilot training market .",
-    "target": "Skyfox 开发的最后阶段是生产配备三轮起落架的型号，以更好地满足飞行员培训市场的需求。",
+    "target": "Giai đoạn cuối cùng trong quá trình phát triển của Skyfox là việc sản xuất một mẫu với bộ cứu trợ tiếp đất ba bánh nhằm phục vụ tốt hơn cho thị trường đào tạo phi công.",
     "id": "fewnerd_0_gpt4_ez",
     "target_focus_areas": [
       [
         0,
-        14
+        89
       ]
     ],
     "source_focus_areas": [
@@ -4423,12 +4235,12 @@
   },
   {
     "source": "The final stage in the development of the Skyfox was the production of a model with tricycle landing gear to better cater for the pilot training market .",
-    "target": "Skyfox 研发的最后阶段是生产一种配备三轮起落架的机型，以更好地满足飞行员培训市场的需求。",
+    "target": "Giai đoạn cuối cùng trong quá trình phát triển Skyfox là sản xuất một mẫu máy bay với bộ càng đáp ba bánh để phục vụ tốt hơn cho thị trường đào tạo phi công.",
     "id": "fewnerd_0_gpt4_clap",
     "target_focus_areas": [
       [
         0,
-        14
+        85
       ]
     ],
     "source_focus_areas": [
@@ -4441,16 +4253,16 @@
   },
   {
     "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
-    "target": "该剧计划重返美国，原定于 2020 年 3 月 7 日在百老汇的尼德兰剧院开始试演，并于 3 月 26 日正式首演。",
+    "target": "Vở kịch dự kiến sẽ trở lại Hoa Kỳ, ban đầu dự kiến ra mắt tại Broadway ở Nhà hát Nederlander vào ngày 7 tháng 3 năm 2020 trong các buổi diễn thử, chính thức vào ngày 26 tháng 3.",
     "id": "fewnerd_938_gemma3_27b_ez",
     "target_focus_areas": [
       [
         0,
-        8
+        33
       ],
       [
-        20,
-        41
+        34,
+        126
       ]
     ],
     "source_focus_areas": [
@@ -4471,16 +4283,16 @@
   },
   {
     "source": "The play is set to return to the United States , originally to open on Broadway at the Nederlander Theatre on 7 March 2020 in previews , officially on 26 March .",
-    "target": "该剧计划重返美国，原定于2020年3月7日在尼德兰剧院开始百老汇试演，并于3月26日正式首演。",
+    "target": "Vở kịch dự kiến sẽ trở lại Hoa Kỳ, ban đầu dự kiến ra mắt tại Broadway ở Nhà hát Nederlander vào ngày 7 tháng 3 năm 2020 trong các buổi diễn thử, chính thức vào ngày 26 tháng 3.",
     "id": "fewnerd_938_gemma3_27b_clap",
     "target_focus_areas": [
       [
         0,
-        8
+        33
       ],
       [
-        14,
-        34
+        34,
+        126
       ]
     ],
     "source_focus_areas": [
@@ -4501,16 +4313,16 @@
   },
   {
     "source": "The Letter from Birmingham Jail , also known as the Letter from Birmingham City Jail and The Negro Is Your Brother , is an open letter written on April 16 , 1963 , by Martin Luther King Jr . The letter defends the strategy of nonviolent resistance to racism . It says that people have a moral responsibility to break unjust laws and to take direct action rather than waiting potentially forever for justice to come through the courts . Responding to being referred to as an `` outsider , '' King writes , `` Injustice anywhere is a threat to justice everywhere '' . The letter , written during the 1963 Birmingham campaign , was widely published , and became an important text for the American Civil Rights Movement .",
-    "target": "《伯明翰监狱来信》（又称《伯明翰市监狱来信》和《黑人兄弟》）是马丁·路德·金于 1963 年 4 月 16 日撰写的一封公开信。信中为以非暴力方式抵制种族主义的策略进行了辩护。信中指出，人们有道德责任打破不公正的法律，并采取直接行动，而不是可能永远等待司法部门带来正义。针对被称作“外来者”，金写道：“任何地方的不公正都是对任何地方公正的威胁。”这封信是在 1963 年伯明翰运动期间写成的，被广泛发表，成为美国民权运动的重要文献。",
+    "target": "Thư từ nhà tù Birmingham, còn được gọi là Thư từ nhà tù thành phố Birmingham và Anh em da đen là anh em của các bạn, là một lá thư công khai được viết ngày 16 tháng 4 năm 1963 bởi Martin Luther King Jr. Lá thư này bảo vệ chiến lược chống lại chủ nghĩa phân biệt chủng tộc bằng sự phản kháng phi bạo lực. Nó nêu quan điểm rằng con người có nghĩa vụ đạo đức phải vi phạm những luật bất công và hành động trực tiếp thay vì chờ đợi mãi mãi cho công lý được thực hiện qua tòa án. Trả lời việc bị gọi là \"người ngoài cuộc\", King viết: \"Chỗ nào có bất công thì đó là mối đe dọa cho công lý ở mọi nơi\". Lá thư được viết trong chiến dịch Birmingham năm 1963, sau đó được phổ biến rộng rãi và trở thành một văn bản quan trọng cho phong trào Nhân quyền Hoa Kỳ.",
     "id": "multispanqa_0_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        64,
-        87
+        202,
+        302
       ],
       [
-        93,
-        134
+        303,
+        473
       ]
     ],
     "source_focus_areas": [
@@ -4527,16 +4339,16 @@
   },
   {
     "source": "The Letter from Birmingham Jail , also known as the Letter from Birmingham City Jail and The Negro Is Your Brother , is an open letter written on April 16 , 1963 , by Martin Luther King Jr . The letter defends the strategy of nonviolent resistance to racism . It says that people have a moral responsibility to break unjust laws and to take direct action rather than waiting potentially forever for justice to come through the courts . Responding to being referred to as an `` outsider , '' King writes , `` Injustice anywhere is a threat to justice everywhere '' . The letter , written during the 1963 Birmingham campaign , was widely published , and became an important text for the American Civil Rights Movement .",
-    "target": "《伯明翰监狱的信》（又称《伯明翰市监狱的信》和《黑人是你的兄弟》）是马丁·路德·金于1963年4月16日撰写的一封公开信。该信为以非暴力抵抗种族主义的策略进行了辩护。信中指出，人们有道德责任打破不公正的法律，并采取直接行动，而不是可能永远等待司法系统带来正义。针对被称作“外人”的说法，金写道：“任何地方的不公正都是对任何地方正义的威胁。”这封信是在1963年伯明翰运动期间撰写的，被广泛刊登，成为美国民权运动的重要文献。",
+    "target": "Bức thư Từ Tuabin Tù nhân ở Birmingham, còn được biết đến với tên gọi Bức thư Từ Tuabin Tù nhân ở Thành phố Birmingham và Người Da Đen Là Anh Em Của Anh, là một lá thư công khai được viết ngày 16 tháng 4 năm 1963 bởi Martin Luther King Jr. Bức thư này bảo vệ chiến lược chống chủ nghĩa phân biệt chủng tộc bằng sự kháng cự phi bạo lực. Nó cho rằng con người có trách nhiệm đạo đức phải vi phạm những luật bất công và hành động trực tiếp, thay vì chờ đợi mãi mãi cho đến khi công lý đến qua tòa án. Trả lời lại việc bị gọi là \"người ngoài\", King viết: \"Bất công ở bất kỳ đâu cũng là mối đe dọa cho công lý ở mọi nơi\". Bức thư được viết trong chiến dịch Birmingham năm 1963 đã được xuất bản rộng rãi và trở thành một văn bản quan trọng cho phong trào Nhân quyền của người Mỹ.",
     "id": "multispanqa_0_qwen3_32b_clap",
     "target_focus_areas": [
       [
-        61,
-        82
+        239,
+        334
       ],
       [
-        88,
-        138
+        335,
+        525
       ]
     ],
     "source_focus_areas": [
@@ -4553,28 +4365,28 @@
   },
   {
     "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
-    "target": "摩亨佐-达罗建于公元前26世纪。它是古代印度河流域文明中最大的城市之一，该文明也被称为哈拉帕文明，起源于公元前3000年左右的史前印度河文化。在其鼎盛时期，印度河文明覆盖了现今巴基斯坦和印度北部的大部分地区，向西延伸至伊朗边境，向南延伸至印度的古吉拉特邦，向北延伸至巴克特里亚的一个前哨，主要城市包括哈拉帕、摩亨佐-达罗、洛塔尔、卡利班甘、多拉维拉和拉基加尔希。摩亨佐-达罗是当时最先进的城市，拥有极其复杂的土木工程和城市规划。当印度河文明在公元前1900年左右突然衰落时，摩亨佐-达罗被废弃。该城废墟在未经记录的状态下保持了约3700年，直到印度考古局官员R.D. Banerji于1919年至1920年访问该遗址，他确认了已知存在的佛教佛塔（公元150至500年）并发现了一块燧石刮刀，确信该遗址的古老性。这促使Kashinath Narayan Dikshit于1924至1925年领导了摩亨佐-达罗的大规模发掘工作，随后John Marshall于1925至1926年继续发掘。1930年代，Marshall、D.K. Dikshitar和Ernest Mackay领导下在该遗址进行了重大发掘。1945年，Ahmad Hasan Dani和Mortimer Wheeler进行了进一步的发掘。而1964年和1965年，Dr. George F. Dales主持了最后一轮重要发掘。",
+    "target": "Mohenjo - daro được xây dựng vào thế kỷ 26 trước Công nguyên. Đây là một trong những thành phố lớn nhất của nền Văn minh Thung lũng sông Ấn cổ đại, còn được biết đến với tên gọi Văn minh Harappan, phát triển vào khoảng năm 3000 trước Công nguyên từ văn hóa tiền sử sông Ấn. Đỉnh cao của nền Văn minh sông Ấn trải rộng trên phần lớn khu vực hiện nay là Pakistan và Bắc Ấn Độ, mở rộng về phía tây đến biên giới Iran, về phía nam tới Gujarat ở Ấn Độ và về phía bắc tới một tiền đồn ở Bactria, với các trung tâm đô thị chính tại Harappa, Mohenjo - daro, Lothal, Kalibangan, Dholavira và Rakhigarhi. Mohenjo - daro là thành phố tiên tiến nhất của thời đại đó, với kỹ thuật công trình dân dụng và quy hoạch đô thị cực kỳ tinh vi. Khi nền văn minh sông Ấn suy thoái đột ngột vào khoảng năm 1900 trước Công nguyên, Mohenjo - daro bị bỏ hoang. Tàn tích của thành phố không được ghi chép trong khoảng 3.700 năm cho đến khi R.D. Banerji, một viên chức của Khảo cổ Ấn Độ, đến thăm địa điểm này vào năm 1919 - 20, nhận diện được tháp Phật giáo (150 - 500 Công nguyên) từng tồn tại ở đó và tìm thấy một dụng cụ cạo đá lửa, điều này thuyết phục ông về độ cổ xưa của địa điểm. Điều này dẫn đến các cuộc khai quật quy mô lớn tại Mohenjo - daro do Kashinath Narayan Dikshit lãnh đạo vào năm 1924 - 25, và John Marshall vào năm 1925 - 26. Vào thập niên 1930, các cuộc khai quật chính được tiến hành tại địa điểm dưới sự chỉ đạo của Marshall, D.K. Dikshitar và Ernest Mackay. Các cuộc khai quật tiếp theo được thực hiện vào năm 1945 bởi Ahmad Hasan Dani và Mortimer Wheeler. Loạt khai quật quan trọng cuối cùng diễn ra vào năm 1964 và 1965 do Tiến sĩ George F. Dales tiến hành.",
     "id": "multispanqa_52_gpt4_ez",
     "target_focus_areas": [
       [
-        355,
-        391
+        1221,
+        1278
       ],
       [
-        412,
-        435
+        1283,
+        1314
       ],
       [
-        459,
-        495
+        1422,
+        1454
       ],
       [
-        508,
-        549
+        1455,
+        1553
       ],
       [
-        567,
-        591
+        1560,
+        1656
       ]
     ],
     "source_focus_areas": [
@@ -4611,24 +4423,28 @@
   },
   {
     "source": "Mohenjo - daro was built in the 26th century BCE . It was one of the largest cities of the ancient Indus Valley Civilization , also known as the Harappan Civilization , which developed around 3,000 BCE from the prehistoric Indus culture . At its height , the Indus Civilization spanned much of what is now Pakistan and North India , extending westwards to the Iranian border , south to Gujarat in India and northwards to an outpost in Bactria , with major urban centers at Harappa , Mohenjo - daro , Lothal , Kalibangan , Dholavira and Rakhigarhi . Mohenjo - daro was the most advanced city of its time , with remarkably sophisticated civil engineering and urban planning . When the Indus civilization went into sudden decline around 1900 BCE , Mohenjo - daro was abandoned . The ruins of the city remained undocumented for around 3,700 years until R.D. Banerji , an officer of the Archaeological Survey of India , visited the site in 1919 -- 20 , identifying the Buddhist stupa ( 150 -- 500 CE ) known to be there and finding a flint scraper which convinced him of the site 's antiquity . This led to large - scale excavations of Mohenjo - daro led by Kashinath Narayan Dikshit in 1924 -- 25 , and John Marshall in 1925 -- 26 . In the 1930s , major excavations were conducted at the site under the leadership of Marshall , D.K. Dikshitar and Ernest Mackay . Further excavations were carried out in 1945 by Ahmad Hasan Dani and Mortimer Wheeler . The last major series of excavations were conducted in 1964 and 1965 by Dr. George F. Dales .",
-    "target": "摩亨佐-达罗建于公元前26世纪。它是古代印度河流域文明中最大的城市之一，该文明也被称为哈拉帕文明，起源于公元前3000年左右的史前印度河文化。在其鼎盛时期，印度河文明覆盖了现今巴基斯坦和北印度的大部分地区，向西延伸至伊朗边界，向南延伸至印度古吉拉特邦，向北延伸至巴克特里亚的前哨站，主要城市中心有哈拉帕、摩亨佐-达罗、罗塔尔、卡利班根、多拉维拉和拉基加尔希。摩亨佐-达罗是当时最先进的城市，拥有极为精密的土木工程和城市规划。约公元前1900年印度河文明突然衰落，摩亨佐-达罗被废弃。该城市遗址在未被记录的状态下保存了约3700年，直到1919年至1920年间，印度考古调查局官员R.D.巴内尔吉拜访该遗址，确定了那里存在的佛教佛塔（公元150至500年），并发现了一把燧石刮刀，使他确信该遗址的古老性。此后，卡西纳斯·纳拉扬·迪克希特于1924至1925年和约翰·马歇尔于1925至1926年领导了对摩亨佐-达罗的大规模发掘。1930年代，马歇尔、D.K.迪克希塔和欧内斯特·麦凯领导了该遗址的主要发掘。1945年，艾哈迈德·哈桑·达尼和莫提默·惠勒进行了进一步发掘。1964年和1965年，乔治·F·戴尔斯博士进行了最后一轮大型发掘。",
+    "target": "Mohenjo-daro được xây dựng vào thế kỷ 26 trước Công nguyên. Đây là một trong những thành phố lớn nhất của nền văn minh Thung lũng sông Ấn cổ đại, còn được biết đến với tên gọi văn minh Harappa, phát triển khoảng năm 3.000 trước Công nguyên từ văn hóa tiền sử sông Ấn. Ở thời kỳ đỉnh cao, nền văn minh sông Ấn bao phủ phần lớn khu vực hiện nay là Pakistan và Bắc Ấn Độ, kéo dài về phía tây đến biên giới Iran, phía nam đến Gujarat ở Ấn Độ và về phía bắc tới một tiền đồn ở Bactria, với các trung tâm đô thị lớn tại Harappa, Mohenjo-daro, Lothal, Kalibangan, Dholavira và Rakhigarhi. Mohenjo-daro là thành phố tiên tiến nhất thời đó, với kỹ thuật xây dựng dân sự và quy hoạch đô thị vô cùng tinh vi. Khi nền văn minh sông Ấn suy tàn đột ngột khoảng năm 1900 trước Công nguyên, Mohenjo-daro đã bị bỏ hoang. Đống đổ nát của thành phố này không được ghi chép trong khoảng 3.700 năm cho đến khi R.D. Banerji, một viên chức của Cục Khảo cổ Ấn Độ, đến thăm địa điểm vào năm 1919-20, xác định được một bảo tháp Phật giáo (150-500 SCN) được biết đến ở đó và tìm thấy một công cụ cạo bằng đá lửa khiến ông tin vào sự cổ xưa của địa điểm này. Điều này dẫn đến các cuộc khai quật quy mô lớn tại Mohenjo-daro do Kashinath Narayan Dikshit dẫn đầu vào năm 1924-25, và John Marshall vào năm 1925-26. Vào những năm 1930, các cuộc khai quật quan trọng được tiến hành tại đây dưới sự lãnh đạo của Marshall, D.K. Dikshitar và Ernest Mackay. Các cuộc khai quật tiếp tục được thực hiện vào năm 1945 bởi Ahmad Hasan Dani và Mortimer Wheeler. Loạt khai quật lớn cuối cùng được tiến hành vào năm 1964 và 1965 bởi Tiến sĩ George F. Dales.",
     "id": "multispanqa_52_gpt4_clap",
     "target_focus_areas": [
       [
-        354,
-        393
+        1190,
+        1244
       ],
       [
-        424,
-        448
+        1248,
+        1278
       ],
       [
-        458,
-        483
+        1386,
+        1418
       ],
       [
-        496,
-        512
+        1419,
+        1516
+      ],
+      [
+        1523,
+        1610
       ]
     ],
     "source_focus_areas": [
@@ -4665,12 +4481,12 @@
   },
   {
     "source": "Comets may possibly have been a source of water delivery to the earth along with organic matter that can form proteins and support life. Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.",
-    "target": "彗星可能一直是向地球输送水分的来源，同时也带来了可以形成蛋白质和支持生命的有机物。科学家们希望了解行星的形成方式，特别是地球是如何形成的，因为彗星很久以前就与地球发生了碰撞。",
+    "target": "Sao chổi có thể là nguồn cung cấp nước cho Trái Đất, cùng với các chất hữu cơ có thể tạo thành protein và duy trì sự sống. Các nhà khoa học hy vọng sẽ hiểu cách các hành tinh hình thành, đặc biệt là cách Trái Đất hình thành, vì sao chổi đã va chạm với Trái Đất từ lâu.",
     "id": "belebeleqa_0_gemma3_27b_ez",
     "target_focus_areas": [
       [
-        41,
-        68
+        122,
+        223
       ]
     ],
     "source_focus_areas": [
@@ -4683,12 +4499,12 @@
   },
   {
     "source": "Comets may possibly have been a source of water delivery to the earth along with organic matter that can form proteins and support life. Scientists hope to understand how planets form, especially how the Earth formed, since comets collided with the Earth long ago.",
-    "target": "彗星可能一直是向地球输送水以及能够形成蛋白质和支持生命有机物质的来源。科学家们希望了解行星是如何形成的，特别是地球是如何形成的，因为彗星很久以前就与地球相撞过。",
+    "target": "Sao chổi có thể là nguồn cung cấp nước cho Trái Đất cùng với các chất hữu cơ có thể tạo thành protein và hỗ trợ sự sống. Các nhà khoa học hy vọng sẽ hiểu được cách các hành tinh hình thành, đặc biệt là cách Trái Đất hình thành, vì sao chổi đã va chạm với Trái Đất từ lâu.",
     "id": "belebeleqa_0_gemma3_27b_clap",
     "target_focus_areas": [
       [
-        35,
-        63
+        120,
+        226
       ]
     ],
     "source_focus_areas": [
@@ -4701,12 +4517,12 @@
   },
   {
     "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
-    "target": "在巅峰时期，这个热带气旋“贡努”（Gonu）的名字在马尔代夫语中意为“一袋棕榈叶”，其持续风速达到每小时240公里（每小时149英里）。截至今天早些时候，风速已降至约83公里/小时，并预计会继续减弱。",
+    "target": "Tại đỉnh điểm, cơn bão nhiệt đới Gonu, được đặt tên theo một túi lá dừa trong ngôn ngữ của Maldives, đã đạt đến sức gió duy trì là 240 km một giờ (149 dặm mỗi giờ). Đến sáng nay, sức gió chỉ còn khoảng 83 km/h và được dự báo sẽ tiếp tục suy yếu.",
     "id": "belebeleqa_4_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        42,
-        67
+        100,
+        163
       ]
     ],
     "source_focus_areas": [
@@ -4719,12 +4535,12 @@
   },
   {
     "source": "At its peak, Tropical Cyclone Gonu, named for a bag of palm leaves in the language of the Maldives, reached sustained winds of 240 kilometers an hour (149 miles per hour) . By early today, winds were around 83 km/h, and it was expect to keep weakening.",
-    "target": "在巅峰时期，这个以马尔代夫语中“一袋棕榈叶”命名的热带气旋“贡努”，持续风速达到每小时240公里（149英里每小时）。截至今天早些时候，风速已降至约每小时83公里，并预计会继续减弱。",
+    "target": "Tại thời điểm mạnh nhất, Cơn bão nhiệt đới Gonu, được đặt tên theo một túi lá dừa trong tiếng của người Maldives, đã đạt đến vận tốc gió liên tục là 240 kilômét mỗi giờ (149 dặm mỗi giờ). Đến đầu ngày hôm nay, gió chỉ quanh mức 83 km/h, và nó được dự kiến sẽ tiếp tục suy yếu.",
     "id": "belebeleqa_4_qwen3_32b_clap",
     "target_focus_areas": [
       [
-        34,
-        58
+        113,
+        186
       ]
     ],
     "source_focus_areas": [
@@ -4737,76 +4553,60 @@
   },
   {
     "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
-    "target": "Jens Oliver Lisberg（1896年12月24日－1920年8月31日）（现代法罗语中称为Jens Olivur Lisberg）是Merkið（法罗群岛的旗帜）的设计者之一。在哥本哈根念法律专业时，他于1919年与另外两名法罗学生Janus Øssursson（来自托尔斯港）和Paul Dahl（来自瓦古尔）共同设计了这面旗帜。Lisberg于1919年6月22日回到家乡Fámjin时，首次在法罗土地上升起了这面旗帜。然而，该旗帜直到1940年4月25日，被英国占领政府批准作为该群岛的民用旗帜时才获得官方地位。Lisberg于1920年8月31日死于肺炎，安葬于Fámjin，当地教堂现藏有这面Merkið的原件。",
+    "target": "Jens Oliver Lisberg ( 24 tháng 12 năm 1896 – 31 tháng 8 năm 1920 ) ( Jens Olivur Lisberg trong tiếng Faroese hiện đại ) là một trong những người thiết kế Merkið, lá cờ của Quần đảo Faroe. Khi còn là sinh viên luật tại Copenhagen, ông đã sáng tạo ra lá cờ vào năm 1919 cùng với hai sinh viên Faroese khác, Janus Øssursson từ Tórshavn và Paul Dahl từ Vágur. Lisberg đã treo lá cờ lần đầu tiên trên đất Faroese vào ngày 22 tháng 6 năm 1919 khi trở về quê nhà Fámjin. Tuy nhiên, nó chỉ nhận được tư cách chính thức vào ngày 25 tháng 4 năm 1940 khi chính quyền chiếm đóng Anh chấp thuận sử dụng làm cờ dân sự của quần đảo. Lisberg qua đời vì viêm phổi vào ngày 31 tháng 8 năm 1920. Ông được chôn cất tại Fámjin, nơi nhà thờ hiện đang giữ bản gốc của Merkið.",
     "id": "docred_0_gpt4_ez",
     "target_focus_areas": [
       [
         0,
-        19
+        20
       ],
       [
-        20,
-        42
+        21,
+        65
       ],
       [
-        44,
-        71
+        68,
+        118
       ],
       [
-        72,
-        79
+        119,
+        160
       ],
       [
-        80,
-        87
+        161,
+        186
       ],
       [
-        95,
-        106
+        187,
+        228
       ],
       [
-        107,
-        138
+        229,
+        303
       ],
       [
-        139,
-        145
+        304,
+        354
       ],
       [
-        146,
-        156
+        355,
+        462
       ],
       [
-        157,
-        162
+        474,
+        603
       ],
       [
-        173,
-        202
+        617,
+        675
       ],
       [
-        203,
-        216
+        676,
+        705
       ],
       [
-        222,
-        237
-      ],
-      [
-        238,
-        249
-      ],
-      [
-        266,
-        288
-      ],
-      [
-        289,
-        298
-      ],
-      [
-        300,
-        317
+        706,
+        751
       ]
     ],
     "source_focus_areas": [
@@ -4915,72 +4715,60 @@
   },
   {
     "source": "Jens Oliver Lisberg ( 24 December 1896 – 31 August 1920 ) ( Jens Olivur Lisberg in modern Faroese ) is one of the designers of the Merkið , the flag of the Faroe Islands . While a law student in Copenhagen , he devised the flag in 1919 with two other Faroese students , Janus Øssursson from Tórshavn and Paul Dahl from Vágur . Lisberg raised the flag for the first time on Faroese soil on 22 June 1919 on returning to his home town of Fámjin . It would not however receive official status until 25 April 1940 when the British occupation government approved its use as the civil ensign of the islands . Lisberg died of pneumonia on 31 August 1920 . He is buried in Fámjin , where the church now holds the original copy of the Merkið .",
-    "target": "延斯·奥利弗·利斯贝格（Jens Oliver Lisberg，1896年12月24日－1920年8月31日）（现代法罗语称Jens Olivur Lisberg）是法罗群岛旗帜“Merkið”的设计者之一。1919年，他在哥本哈根作为一名法律系学生，与另外两名法罗群岛学生——来自托尔斯港的贾纳斯·厄苏尔森（Janus Øssursson）和来自瓦乌尔的保罗·达尔（Paul Dahl）——共同设计了这面旗帜。1919年6月22日，利斯贝格首次在法罗群岛本土的法姆因镇升起了这面旗帜。然而，直到1940年4月25日，英国占领政府批准其作为法罗群岛民用旗帜使用时，该旗帜才获得官方认可。利斯贝格于1920年8月31日因肺炎去世，葬于法姆因教堂内，教堂现收藏有“Merkið”的原始版本。",
+    "target": "Jens Oliver Lisberg (24 tháng 12 năm 1896 – 31 tháng 8 năm 1920) (Jens Olivur Lisberg trong tiếng Faroese hiện đại) là một trong những nhà thiết kế của Merkið, lá cờ của quần đảo Faroe. Khi còn là sinh viên luật ở Copenhagen, ông đã thiết kế lá cờ vào năm 1919 cùng với hai sinh viên Faroese khác, Janus Øssursson từ Tórshavn và Paul Dahl từ Vágur. Lisberg đã lần đầu tiên giương lá cờ trên đất Faroese vào ngày 22 tháng 6 năm 1919 khi trở về quê hương Fámjin. Tuy nhiên, lá cờ chỉ nhận được vị thế chính thức vào ngày 25 tháng 4 năm 1940 khi chính quyền Anh chiếm đóng phê duyệt việc sử dụng nó làm quốc kỳ dân sự của các đảo. Lisberg qua đời vì bệnh viêm phổi vào ngày 31 tháng 8 năm 1920. Ông được chôn cất tại Fámjin, nơi nhà thờ hiện đang giữ bản gốc của Merkið.",
     "id": "docred_0_gpt4_clap",
     "target_focus_areas": [
       [
         0,
-        11
+        20
       ],
       [
-        32,
-        54
+        21,
+        63
       ],
       [
-        56,
-        81
+        66,
+        114
       ],
       [
-        82,
-        103
+        115,
+        158
       ],
       [
-        104,
-        109
+        159,
+        184
       ],
       [
-        110,
-        124
+        185,
+        224
       ],
       [
-        126,
-        137
+        225,
+        296
       ],
       [
-        139,
-        154
+        297,
+        347
       ],
       [
-        171,
-        183
+        348,
+        459
       ],
       [
-        206,
-        216
+        471,
+        595
       ],
       [
-        217,
-        242
+        627,
+        690
       ],
       [
-        246,
-        258
+        691,
+        720
       ],
       [
-        259,
-        269
-      ],
-      [
-        293,
-        313
-      ],
-      [
-        314,
-        322
-      ],
-      [
-        323,
-        342
+        721,
+        766
       ]
     ],
     "source_focus_areas": [
@@ -5089,12 +4877,12 @@
   },
   {
     "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
-    "target": "丹·帕特里克正在将我之前想到的那个科幻剧本变成现实，剧本讲述的是一群孩子传播一种他们自身免疫的病毒，目的是杀死他们的父母/祖父母。",
+    "target": "Dan Patrick đang biến ý tưởng kịch bản khoa học viễn tưởng của tôi về một nhóm trẻ em lây lan một loại virus mà chúng miễn nhiễm để tiêu diệt cha mẹ/ông bà của chúng thành hiện thực.",
     "id": "curt_0_gemma3_27b_ez",
     "target_focus_areas": [
       [
         0,
-        60
+        148
       ]
     ],
     "source_focus_areas": [
@@ -5107,12 +4895,12 @@
   },
   {
     "source": "Dan Patrick is making that sci-fi script idea I had for this league of children who spread a virus they are immune to in order to kill off their parents/grandparents come to LIFE",
-    "target": "丹·帕特里克正在将我之前构思的一个科幻剧本变成现实：一群孩子传播他们自身免疫的病毒，以此来杀死他们的父母/祖父母。",
+    "target": "Dan Patrick đang biến ý tưởng kịch bản khoa học viễn tưởng của tôi về một nhóm trẻ em lây lan một loại virus mà chúng miễn nhiễm để tiêu diệt cha mẹ/ông bà của chúng thành HIỆN THỰC.",
     "id": "curt_0_gemma3_27b_clap",
     "target_focus_areas": [
       [
         0,
-        52
+        181
       ]
     ],
     "source_focus_areas": [
@@ -5125,16 +4913,16 @@
   },
   {
     "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
-    "target": "@CindyKendrick11 蝙蝠汤的事只是一个借口。无论那是什么东西，都是从武汉的一家中国生物武器实验室泄露出来的。中国政府对此负有责任",
+    "target": "@CindyKendrick11 Việc nấu súp dơi chỉ là lý do thuận tiện. Dù bất cứ thứ gì đã rò rỉ ra từ một phòng thí nghiệm vũ khí sinh học Trung Quốc tại Vũ Hán. Chính phủ Trung Quốc phải chịu trách nhiệm về điều này",
     "id": "curt_61_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        9,
-        28
+        1,
+        57
       ],
       [
-        61,
-        71
+        150,
+        205
       ]
     ],
     "source_focus_areas": [
@@ -5151,16 +4939,16 @@
   },
   {
     "source": "@CindyKendrick11 The bat soup thing is an excuse. Whatever that thing is leaked out of a Chinese bio-weapon lab in Wuhan. The Chinese government is responsible for this",
-    "target": "@CindyKendrick11 蝙蝠汤只是一个借口。无论那是什么，都是从武汉的一家中国生物武器实验室泄露出来的。中国政府对此负责",
+    "target": "@CindyKendrick11 Việc canh súp dơi là một cái cớ. Dù thứ gì đó đã bị rò rỉ ra từ một phòng thí nghiệm vũ khí sinh học Trung Quốc tại Vũ Hán. Chính phủ Trung Quốc phải chịu trách nhiệm về chuyện này",
     "id": "curt_61_qwen3_32b_clap",
     "target_focus_areas": [
       [
-        9,
-        26
+        1,
+        48
       ],
       [
-        57,
-        65
+        140,
+        197
       ]
     ],
     "source_focus_areas": [
@@ -5177,12 +4965,12 @@
   },
   {
     "source": "Well, Mr. Ford is - is uh changing uh considerably his previous philosophy. The present tax structure is a disgrace to this country; it's just a welfare program for the rich. As a matter of fact, uh - 25 percent of the total tax deductions, go for only 1 percent of the richest people in this country, and over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country.",
-    "target": "那么，福特先生正在——呃——大幅改变他之前的理念。目前的税收结构对于这个国家来说是一种耻辱；它简直就是富人的福利计划。事实上，呃——总税收减免的 25% 仅流向该国最富有的 1% 人群，而超过 50% 的税收抵免则流向该国最富有的 14% 人群。",
+    "target": "Chà, ông Ford đang - đang uh thay đổi uh đáng kể triết lý trước đây của mình. Cấu trúc thuế hiện tại là một sự xấu hổ đối với đất nước này; nó chỉ là một chương trình phúc lợi dành cho người giàu. Thực tế, uh - 25 phần trăm tổng số khoản khấu trừ thuế, chỉ dành cho 1 phần trăm người giàu nhất trong đất nước này, và hơn 50 phần trăm tín dụng thuế uh dành cho 14 phần trăm người giàu nhất trong đất nước này.",
     "id": "elecdeb_161_gpt4_ez",
     "target_focus_areas": [
       [
-        25,
-        54
+        77,
+        175
       ]
     ],
     "source_focus_areas": [
@@ -5195,12 +4983,12 @@
   },
   {
     "source": "Well, Mr. Ford is - is uh changing uh considerably his previous philosophy. The present tax structure is a disgrace to this country; it's just a welfare program for the rich. As a matter of fact, uh - 25 percent of the total tax deductions, go for only 1 percent of the richest people in this country, and over 50 percent of the tax uh credits go for the 14 percent of the richest people in this country.",
-    "target": "好吧，福特先生正在——呃——大幅改变他之前的理念。现行的税收体系是对这个国家的耻辱；它简直就是富人的福利计划。事实上，呃，全国所有税收减免中的25%只流向美国最富有的1%的人群，而超过50%的税收抵免则流向最富有的14%的人群。",
+    "target": "Ông Ford đang - đang ờ đang thay đổi đáng kể triết lý trước đây của mình. Cơ cấu thuế hiện tại là một sự ô nhục đối với đất nước này; nó chỉ là một chương trình an sinh xã hội cho người giàu. Thực tế là, ờ - 25 phần trăm tổng số khấu trừ thuế được dành cho chỉ 1 phần trăm người giàu nhất ở đất nước này, và hơn 50 phần trăm các khoản tín dụng thuế được dành cho 14 phần trăm người giàu nhất ở đất nước này.",
     "id": "elecdeb_161_gpt4_clap",
     "target_focus_areas": [
       [
-        25,
-        50
+        73,
+        168
       ]
     ],
     "source_focus_areas": [
@@ -5213,12 +5001,12 @@
   },
   {
     "source": "I’ve given big incentives for electric cars but what they’ve done in California is just crazy. He’s absolutely wrong, number one. Number two, if in fact, when, during our Administration in the Recovery Act, I was able, was in charge, able to bring down the cost of renewable energy to cheaper than or as cheap as coal and gas and oil.",
-    "target": "我为电动汽车提供了很大的激励，但他们在加利福尼亚所做的事情简直是疯狂。他绝对是错的，第一点。第二点是，事实上，在我们政府的复苏法案期间，我能够、我负责、能够将可再生能源的成本降低到比煤炭、天然气和石油更便宜或同样便宜的水平。",
+    "target": "Tôi đã đưa ra những ưu đãi lớn cho xe điện, nhưng những gì họ đã làm ở California thật điên rồ. Anh ta hoàn toàn sai lầm, thứ nhất. Thứ hai, nếu thực tế, khi, trong thời gian chính quyền của tôi trong Đạo luật Phục hồi, tôi đã có thể, chịu trách nhiệm, giảm chi phí năng lượng tái tạo xuống rẻ hơn hoặc tương đương than, khí đốt và dầu mỏ.",
     "id": "elecdeb_232_gemma3_27b_ez",
     "target_focus_areas": [
       [
-        35,
-        45
+        95,
+        130
       ]
     ],
     "source_focus_areas": [
@@ -5231,12 +5019,12 @@
   },
   {
     "source": "I’ve given big incentives for electric cars but what they’ve done in California is just crazy. He’s absolutely wrong, number one. Number two, if in fact, when, during our Administration in the Recovery Act, I was able, was in charge, able to bring down the cost of renewable energy to cheaper than or as cheap as coal and gas and oil.",
-    "target": "我为电动汽车提供了很大的激励，但他们在加利福尼亚所做的事情简直是疯狂。他绝对是错的，第一点。第二点是，事实上，在我们政府的复苏法案期间，我能够、我负责、能够将可再生能源的成本降低到比煤炭、天然气和石油更便宜或同样便宜的水平。",
+    "target": "Tôi đã đưa ra những ưu đãi lớn cho xe điện, nhưng những gì họ đã làm ở California thật điên rồ. Anh ta hoàn toàn sai, thứ nhất. Thứ hai, nếu thực tế, khi, trong thời gian chính quyền của tôi trong Đạo luật Phục hồi, tôi có thể, chịu trách nhiệm, làm giảm chi phí năng lượng tái tạo xuống rẻ hơn hoặc tương đương than, khí đốt và dầu mỏ.",
     "id": "elecdeb_232_gemma3_27b_clap",
     "target_focus_areas": [
       [
-        35,
-        41
+        95,
+        116
       ]
     ],
     "source_focus_areas": [
@@ -5249,16 +5037,12 @@
   },
   {
     "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
-    "target": "事实的确如此，我们的宪法中没有“正当程序”条款或第八修正案；但是，在R.C. Cooper v. Union of India, (1970) 1 SCC 248和Maneka Gandhi v. Union of India, (1978) 1 SCC 248之后，这一法律领域产生的后果是一样的。",
+    "target": "Đúng vậy, Hiến pháp của chúng ta không có điều khoản \"thủ tục công bằng\" hay Tu chính án VIII; nhưng trong lĩnh vực luật này, sau R.C. Cooper v. Union of India, (1970) 1 SCC 248 và Maneka Gandhi v. Union of India, (1978) 1 SCC 248, hậu quả là như nhau.",
     "id": "legalner_0_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        7,
-        20
-      ],
-      [
-        33,
-        133
+        125,
+        230
       ]
     ],
     "source_focus_areas": [
@@ -5279,16 +5063,16 @@
   },
   {
     "source": "True, our Constitution has no 'due process' clause or the VIII Amendment; but, in this branch of law, after R.C. Cooper v. Union of India, (1970) 1 SCC 248 and Maneka Gandhi v. Union of India, (1978) 1 SCC 248, the consequence is the same.",
-    "target": "确实，我们的宪法中没有“正当程序”条款或第八修正案；但在这一法律领域，自 R.C. Cooper 诉 印度联邦案（1970）1 SCC 248 和 Maneka Gandhi 诉 印度联邦案（1978）1 SCC 248 之后，产生的后果是一样的。",
+    "target": "Thực vậy, hiến pháp của chúng ta không có điều khoản \"xử lý đúng pháp luật\" hay Điều VIII; nhưng trong lĩnh vực luật này, sau các vụ án R.C. Cooper kiện Liên bang Ấn Độ, (1970) 1 SCC 248 và Maneka Gandhi kiện Liên bang Ấn Độ, (1978) 1 SCC 248, hậu quả là như nhau.",
     "id": "legalner_0_qwen3_32b_clap",
     "target_focus_areas": [
       [
-        3,
-        16
+        9,
+        53
       ],
       [
-        35,
-        113
+        121,
+        242
       ]
     ],
     "source_focus_areas": [
@@ -5309,20 +5093,16 @@
   },
   {
     "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
-    "target": "在那段时间里，他是ABC新闻团队的一员，该团队于1992年8月在波斯尼亚萨拉热窝遭到狙击手射击。ABC新闻资深华盛顿制片人大卫·卡普兰在事件中遇难。1997年，Sherwood加入NBC《夜间新闻》，与Tom Brokaw一同担任制片人，随后晋升为高级制片人，最终成为高级广播制片人，他在报道9·11袭击事件时在场。",
+    "target": "Trong khoảng thời gian đó, ông là một phần của nhóm ABC News bị bắn tỉa ở Sarajevo, Bosnia vào tháng Tám năm 1992. David Kaplan, một nhà sản xuất kỳ cựu của ABC News tại Washington, đã thiệt mạng trong sự kiện này. Năm 1997, Sherwood đã gia nhập chương trình Nightly News của NBC với Tom Brokaw trong vai trò nhà sản xuất, sau đó là nhà sản xuất cao cấp, và cuối cùng là nhà sản xuất phát sóng cao cấp, nơi ông có mặt trong suốt quá trình đưa tin về các vụ tấn công ngày 11 tháng 9.",
     "id": "natural_instruct_task329_0_gpt4_ez",
     "target_focus_areas": [
       [
-        80,
-        93
+        224,
+        321
       ],
       [
-        100,
-        118
-      ],
-      [
-        142,
-        147
+        402,
+        446
       ]
     ],
     "source_focus_areas": [
@@ -5343,16 +5123,16 @@
   },
   {
     "source": "During that time he was part of an ABC News team that came under sniper fire in Sarajevo, Bosnia in August 1992. David Kaplan, a veteran ABC News Washington producer, was killed in the incident. In 1997, Sherwood joined NBC 's Nightly News with Tom Brokaw as a producer, then senior producer, and ultimately senior broadcast producer, where hewas present during coverage of the September 11th attacks.",
-    "target": "在那段时间里，他是 ABC 新闻团队的一员，该团队在 1992 年 8 月在波斯尼亚萨拉热窝遭到狙击手射击。ABC 新闻华盛顿资深制片人大卫·卡普兰在事件中丧生。1997 年，舍伍德加入 NBC 的《夜间新闻》担任制片人，随后升任高级制片人，最终成为高级广播制片人，他在报道 9·11 事件时参与其中。",
+    "target": "Trong thời gian đó, ông là thành viên của nhóm ABC News đã bị bắn tỉa tại Sarajevo, Bosnia vào tháng 8 năm 1992. David Kaplan, một nhà sản xuất kỳ cựu của ABC News tại Washington, đã bị giết trong vụ việc này. Năm 1997, Sherwood gia nhập chương trình Nightly News của NBC với Tom Brokaw với vai trò nhà sản xuất, sau đó là nhà sản xuất cấp cao và cuối cùng là nhà sản xuất cao cấp phát sóng, nơi ông có mặt trong suốt thời gian đưa tin về các cuộc tấn công ngày 11 tháng 9.",
     "id": "natural_instruct_task329_0_gpt4_clap",
     "target_focus_areas": [
       [
-        88,
-        99
+        219,
+        311
       ],
       [
-        133,
-        139
+        391,
+        435
       ]
     ],
     "source_focus_areas": [
@@ -5373,20 +5153,20 @@
   },
   {
     "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
-    "target": "2014年9月27日，托什尼加盟罗斯郡，并在当天罗斯郡2比1击败邓迪的比赛中首次亮相。在被罗斯郡解约后，托什尼于2015年2月3日加盟考登比斯，签订一份合同至2014-15赛季结束。2015年6月11日，托什尼加盟雷斯罗弗斯。在他转会到苏格兰锦标赛竞争对手邓迪联队后，前雷斯罗弗斯主教练雷·麦金农表示有兴趣将托什尼带到坦纳迪斯球场。",
+    "target": "Vào ngày 27 tháng 9 năm 2014, Toshney đã ký hợp đồng với Ross County và có trận ra mắt ngay trong ngày hôm đó khi họ đánh bại Dundee 2--1. Sau khi được Ross County giải phóng hợp đồng, Toshney đã ký hợp đồng với Cowdenbeath vào ngày 3 tháng 2 năm 2015, với hợp đồng có hiệu lực đến hết mùa giải 2014--15. Vào ngày 11 tháng 6 năm 2015, Toshney ký hợp đồng với Raith Rovers. Sau lời chuyển đến đối thủ cạnh tranh Scottish Championship Dundee United, cựu huấn luyện viên Raith Rovers Ray McKinnon đã bày tỏ sự quan tâm đến việc đưa Toshney đến Tannadice.",
     "id": "natural_instruct_task329_44_gemma3_27b_ez",
     "target_focus_areas": [
       [
-        11,
-        19
+        29,
+        71
       ],
       [
-        113,
-        123
+        372,
+        432
       ],
       [
-        135,
-        156
+        447,
+        524
       ]
     ],
     "source_focus_areas": [
@@ -5407,16 +5187,16 @@
   },
   {
     "source": "On 27 September 2014, Toshney signed for Ross County and made his debut the same day as they beat Dundee 2--1. Having been released by Ross County, Toshney signed for Cowdenbeath on 3 February 2015, signing a contract until the end of the 2014--15 season. On 11 June 2015, Toshney signed for Raith Rovers. Following his move to Scottish Championship rivals Dundee United, former Raith Rovers manager Ray McKinnon expressed an interest in bringing Toshney to Tannadice.",
-    "target": "2014年9月27日，托什尼加盟罗斯郡队并于当天首次亮相，当时他们以2比1战胜丹迪队。在被罗斯郡队解约后，托什尼于2015年2月3日加盟考登比斯队，签订合同至2014-15赛季结束。2015年6月11日，托什尼加盟雷斯罗弗斯队。在转会到苏格兰锦标赛的竞争对手丹迪联队后，前雷斯罗弗斯队主教练雷·麦金农表示有兴趣将托什尼带到坦纳代斯球场。",
+    "target": "Vào ngày 27 tháng 9 năm 2014, Toshney ký hợp đồng với Ross County và ra mắt trong trận đấu họ đánh bại Dundee 2-1 cùng ngày. Sau khi được Ross County giải phóng hợp đồng, Toshney ký hợp đồng với Cowdenbeath vào ngày 3 tháng 2 năm 2015, với hợp đồng có hiệu lực đến hết mùa giải 2014-15. Vào ngày 11 tháng 6 năm 2015, Toshney ký hợp đồng với Raith Rovers. Sau khi chuyển đến đối thủ cạnh tranh Scottish Championship là Dundee United, cựu huấn luyện viên Raith Rovers Ray McKinnon đã bày tỏ sự quan tâm đến việc đưa Toshney đến Tannadice.",
     "id": "natural_instruct_task329_44_gemma3_27b_clap",
     "target_focus_areas": [
       [
-        11,
-        22
+        29,
+        71
       ],
       [
-        137,
-        158
+        432,
+        509
       ]
     ],
     "source_focus_areas": [
@@ -5437,16 +5217,16 @@
   },
   {
     "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
-    "target": "吉姆去银行取了一份对账单，想看看他周末有多少钱，但对账单显示他已经没钱了。",
+    "target": "Jim đã đến ngân hàng để lấy một bản sao kê xem anh ấy có bao nhiêu tiền cho cuối tuần, nhưng bản sao kê nói rằng anh đã hết tiền.",
     "id": "natural_instruct_task033_0_qwen3_32b_ez",
     "target_focus_areas": [
       [
-        1,
-        12
+        0,
+        75
       ],
       [
-        24,
-        36
+        86,
+        128
       ]
     ],
     "source_focus_areas": [
@@ -5463,16 +5243,16 @@
   },
   {
     "source": "Jim went to the bank to get a statement to see how much money he had for the weekend, but the statement said the was broke.",
-    "target": "吉姆去银行取对账单，想看看自己周末有多少钱，但对账单显示他已经破产了。",
+    "target": "Jim đã đến ngân hàng để lấy biên lai xem anh ta còn bao nhiêu tiền cho cuối tuần, nhưng biên lai nói rằng anh đã hết tiền.",
     "id": "natural_instruct_task033_0_qwen3_32b_clap",
     "target_focus_areas": [
       [
         0,
-        9
+        70
       ],
       [
-        22,
-        34
+        81,
+        121
       ]
     ],
     "source_focus_areas": [
@@ -5489,16 +5269,16 @@
   },
   {
     "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
-    "target": "法国南部的天气比俄罗斯的气温好多了，因为天气总是很温暖。",
+    "target": "Thời tiết ở miền nam nước Pháp tốt hơn nhiều so với nhiệt độ ở Nga, vì thời tiết luôn ấm áp.",
     "id": "natural_instruct_task033_64_gpt4_ez",
     "target_focus_areas": [
       [
         0,
-        15
+        44
       ],
       [
-        18,
-        27
+        67,
+        91
       ]
     ],
     "source_focus_areas": [
@@ -5515,12 +5295,16 @@
   },
   {
     "source": "The weather in southern France is a lot better than the temperature in Russia, because the weather is always warm.",
-    "target": "法国南部的天气比俄罗斯的气温好得多，因为那里总是温暖。",
+    "target": "Thời tiết ở miền Nam nước Pháp tốt hơn nhiều so với nhiệt độ ở Nga, vì thời tiết ở đó luôn ấm áp.",
     "id": "natural_instruct_task033_64_gpt4_clap",
     "target_focus_areas": [
       [
         0,
-        15
+        44
+      ],
+      [
+        67,
+        96
       ]
     ],
     "source_focus_areas": [
@@ -5537,20 +5321,20 @@
   },
   {
     "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
-    "target": "句子：每个人都很喜欢焦糖黄油波本香料饼干；只有少数人喜欢焦糖山核桃饼干。下次，我们应该少做一些它们。",
+    "target": "câu: mọi người thực sự thích bánh quy bơ nâu rượu bourbon gia vị; chỉ có một vài người thích bánh quy caramel hạt hồ đào. lần tới, chúng ta nên làm ít hơn chúng.",
     "id": "natural_instruct_task249_3_gemma3_27b_ez",
     "target_focus_areas": [
       [
-        3,
-        20
+        4,
+        64
       ],
       [
-        21,
-        35
+        65,
+        120
       ],
       [
-        39,
-        49
+        130,
+        160
       ]
     ],
     "source_focus_areas": [
@@ -5571,20 +5355,20 @@
   },
   {
     "source": "sentence: everyone really loved the brown butter bourbon spice cookies ; only a few people liked the caramel pecan cookies . next time , we should make fewer of them .",
-    "target": "句子：大家都非常喜欢焦糖黄油波本香料饼干；只有少数人喜欢焦糖山核桃饼干。下次，我们应该少做一些。",
+    "target": "Câu: mọi người thực sự thích bánh quy bơ nâu bourbon gia vị; chỉ một vài người thích bánh quy caramel pecan. Lần tới, chúng ta nên làm ít loại đó hơn.",
     "id": "natural_instruct_task249_3_gemma3_27b_clap",
     "target_focus_areas": [
       [
-        3,
-        20
+        4,
+        59
       ],
       [
-        21,
-        35
+        60,
+        107
       ],
       [
-        39,
-        47
+        117,
+        149
       ]
     ],
     "source_focus_areas": [
@@ -5605,16 +5389,12 @@
   },
   {
     "source": "sentence: Lucy comforted Emma because she was so upset .",
-    "target": "sentence: 露西安慰了艾玛，因为她非常难过。",
+    "target": "sentence: Lucy an ủi Emma vì cô ấy quá buồn.",
     "id": "natural_instruct_task249_12_qwen3_32b_ez",
     "target_focus_areas": [
       [
         9,
-        17
-      ],
-      [
-        18,
-        25
+        43
       ]
     ],
     "source_focus_areas": [
@@ -5635,16 +5415,12 @@
   },
   {
     "source": "sentence: Lucy comforted Emma because she was so upset .",
-    "target": "Lucy 安慰 Emma，因为 Emma 非常难过。",
+    "target": "Lucy an ủi Emma vì cô ấy rất buồn.",
     "id": "natural_instruct_task249_12_qwen3_32b_clap",
     "target_focus_areas": [
       [
         0,
-        12
-      ],
-      [
-        13,
-        25
+        33
       ]
     ],
     "source_focus_areas": [
