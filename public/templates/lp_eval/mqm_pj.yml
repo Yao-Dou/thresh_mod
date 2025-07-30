@@ -41,19 +41,6 @@ edits:
             label: "Minor"
           - name: major
             label: "Major"
-  - name: connotative
-    label: "Connotative mismatch"
-    color: teal
-    icon: fa-language
-    enable_output: true
-    annotation:
-      - name: severity
-        question: "Rate the severity"
-        options:
-          - name: minor
-            label: "Minor"
-          - name: major
-            label: "Major"
   - name: untranslated
     label: "Should not be left in English"
     color: blue
