@@ -294,9 +294,13 @@ export default {
                 $('#target-sentence').removeClass(`select-color-${cat}`);
             }
 
-            $("input[name=edit_cotegory]").prop("checked", false);
-            $(".checkbox-tools-yes-no").prop("checked", false);
-            $('.question-textbox, .question-textarea').val('');
+            $("input[type=radio]").prop("checked", false);           // Clear all radio buttons
+            $("input[type=checkbox]").prop("checked", false);        // Clear checkboxes if any
+            $('.question-textbox, .question-textarea').val('');      // Clear text inputs
+            
+            // Force remove any visual selection states
+            $("label").removeClass("selected active checked");       // Remove common selection classes
+            $(".checkbox-tools").removeClass("selected");
             $('.quality-selection, .span-selection-div, .child-question').slideUp(300);
 
             // Reset all state objects for a clean slate
