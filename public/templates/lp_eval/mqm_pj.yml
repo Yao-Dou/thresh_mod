@@ -98,3 +98,11 @@ edits:
     color: grey
     icon: fa-question
     enable_output: true
+    annotation:
+      - name: severity
+        question: "Rate the severity"
+        options:
+          - name: minor
+            label: "Minor"
+          - name: major
+            label: "Major"
