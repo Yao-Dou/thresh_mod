@@ -1,12 +1,510 @@
 [
     {
-        "source": "Intravenous sodium valproate versus diazepam infusion for the control of refractory status epilepticus in children : a randomized controlled trial . An open-label , randomized controlled study was conducted at a tertiary care teaching hospital to compare efficacy and safety of intravenous sodium valproate versus diazepam infusion for control of refractory status epilepticus . Forty children with refractory status epilepticus were randomized to receive either intravenous sodium valproate or diazepam infusion . Refractory status epilepticus was controlled in 80 % of the valproate and 85 % of the diazepam patients . The median time to control refractory status epilepticus was less in the valproate group ( 5 minutes ) than the diazepam group ( 17 minutes ; P < .001 ) . None of the patients in the valproate group required ventilation or developed hypotension , whereas in the diazepam group 60 % required ventilation and 50 % developed hypotension after starting diazepam infusion . No adverse effects on liver functions were seen with valproate . It is concluded that intravenous sodium valproate is an effective alternative to diazepam infusion in controlling refractory status epilepticus in children and is free of respiratory depression and hypotension .",
-        "target": "Natri valproat truyền tĩnh mạch so với diazepam truyền tĩnh mạch để kiểm soát cơn động kinh trạng thái kéo dài kháng trị ở trẻ em: một thử nghiệm ngẫu nhiên có kiểm soát. Một nghiên cứu ngẫu nhiên có kiểm soát, công khai nhãn thuốc, đã được thực hiện tại một bệnh viện đa khoa điều trị chuyên sâu để so sánh hiệu quả và an toàn của natri valproat truyền tĩnh mạch so với diazepam truyền tĩnh mạch để kiểm soát cơn động kinh trạng thái kéo dài kháng trị. Bốn mươi trẻ em mắc cơn động kinh trạng thái kéo dài kháng trị được phân ngẫu nhiên để nhận hoặc natri valproat truyền tĩnh mạch hoặc truyền tĩnh mạch diazepam. Cơn động kinh trạng thái kéo dài kháng trị được kiểm soát ở 80% bệnh nhân dùng valproat và 85% bệnh nhân dùng diazepam. Thời gian trung vị để kiểm soát cơn động kinh trạng thái kéo dài kháng trị ngắn hơn ở nhóm valproat (5 phút) so với nhóm diazepam (17 phút; P < 0,001). Không có bệnh nhân nào trong nhóm valproat cần thở máy hoặc phát triển hạ huyết áp, trong khi 60% bệnh nhân trong nhóm diazepam cần thở máy và 50% phát triển hạ huyết áp sau khi bắt đầu truyền tĩnh mạch diazepam. Không có tác dụng phụ nào ảnh hưởng đến chức năng gan được ghi nhận ở valproat. Kết luận rằng, natri valproat truyền tĩnh mạch là một phương pháp thay thế hiệu quả cho truyền tĩnh mạch diazepam trong việc kiểm soát cơn động kinh trạng thái kéo dài kháng trị ở trẻ em và không gây ra ức chế hô hấp hay hạ huyết áp.",
-        "_thresh_id": 1
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "Các thành viên trong gia đình Coors , và gián tiếp là công ty bia Coors , đã đóng một vai trò quan trọng trong chính trị và chính sách công của Mỹ , ủng hộ nhiều nguyên nhân bảo thủ .",
+        "target_focus_areas": [
+            [
+                37,
+                72
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                27,
+                72
+            ]
+        ]
     },
     {
-        "source": "\"Oil demand ... if you look at the latest data, it's still doing OK. We were expecting some demand destruction, it did not really happen,\" said Frederic Lasserre, global head of market research and analysis at Gunvor Group <GGL.UL>. ",
-        "target": "\"Nhu cầu dầu ... nếu bạn nhìn vào số liệu mới nhất, nó vẫn ổn. Chúng tôi dự kiến sẽ có sự phá hủy nhu cầu, nhưng điều đó không thực sự xảy ra,\" Frederic Lasserre, người đứng đầu nghiên cứu và phân tích thị trường toàn cầu tại Tập đoàn Gunvor <GGL.UL>, cho biết.",
-        "_thresh_id": 2
+        "source": "The Coors family members , and by proxy the Coors Brewing Company itself , have played a prominent role in American politics and public policy , supporting many conservative causes .",
+        "target": "Các thành viên trong gia đình Coors, và thông qua sự ủy quyền, Công ty Bia Coors, đã đóng một vai trò nổi bật trong chính trị và chính sách công của Mỹ, ủng hộ nhiều nguyên nhân bảo thủ.",
+        "target_focus_areas": [
+            [
+                36,
+                80
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                27,
+                72
+            ]
+        ]
+    },
+    {
+        "source": "From an ethics standpoint , Focus on the Family has been criticized by mainstream medical , psychological and mental health organizations for misleading the public , and top academics have charged Focus on the Family with manipulating research in misleading ways .",
+        "target": "Từ góc độ đạo đức, Focus on the Family đã bị chỉ trích bởi các tổ chức y tế, tâm lý và sức khỏe tâm thần chính thống vì đã đánh lừa công chúng, và các học giả hàng đầu đã cáo buộc Focus on the Family thao túng nghiên cứu theo những cách gây hiểu lầm.",
+        "target_focus_areas": [
+            [
+                76,
+                142
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                138,
+                163
+            ]
+        ]
+    },
+    {
+        "source": "From an ethics standpoint , Focus on the Family has been criticized by mainstream medical , psychological and mental health organizations for misleading the public , and top academics have charged Focus on the Family with manipulating research in misleading ways .",
+        "target": "Từ góc độ đạo đức, Focus on the Family đã bị chỉ trích bởi các tổ chức y tế, tâm lý và sức khỏe tâm thần chính thống vì thông tin sai lệch cho công chúng, và các học giả hàng đầu đã cáo buộc Focus on the Family thao túng nghiên cứu theo những cách gây hiểu lầm.",
+        "target_focus_areas": [
+            [
+                76,
+                153
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                138,
+                163
+            ]
+        ]
+    },
+    {
+        "source": "What charges do you envisage? Do you know anything about what they may have been alleged to have done. Charging KPMG executives rather than the patently corrupt and incompetent members of parliament captured by the Guptas, is both bizarre and absurd.",
+        "target": "Bạn hình dung những cáo buộc nào? Bạn có biết gì về những gì họ bị cáo buộc đã làm không? Việc buộc tội các giám đốc điều hành của KPMG thay vì những thành viên quốc hội rõ ràng là tham nhũng và bất tài bị những người Gupta thao túng, là cả một điều kỳ quặc và vô lý.",
+        "target_focus_areas": [
+            [
+                108,
+                228
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                153,
+                160
+            ]
+        ]
+    },
+    {
+        "source": "What charges do you envisage? Do you know anything about what they may have been alleged to have done. Charging KPMG executives rather than the patently corrupt and incompetent members of parliament captured by the Guptas, is both bizarre and absurd.",
+        "target": "Bạn hình dung những cáo buộc nào? Bạn có biết gì về những gì họ bị cáo buộc đã làm không? Việc buộc tội các giám đốc điều hành của KPMG thay vì những thành viên quốc hội rõ ràng là tham nhũng và bất tài bị bắt giữ bởi nhà Gupta là vừa kỳ quặc vừa vô lý.",
+        "target_focus_areas": [
+            [
+                108,
+                221
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                153,
+                160
+            ]
+        ]
+    },
+    {
+        "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
+        "target": "Sư tử, Phù thủy và Tủ quần áo là cuốn tiểu thuyết đầu tiên và duy nhất được xuất bản, đồng thời là cuốn tiểu thuyết đầu tiên theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia. Bộ phim truyền hình hoạt hình được phát sóng trên CBS vào năm 1979, Sư tử, Phù thủy và Tủ quần áo, là bản chuyển thể năm 1979 của cuốn tiểu thuyết. Bộ phim năm 2005 Biên niên sử Narnia: Sư tử, Phù thủy và Tủ quần áo là một bộ phim kỳ ảo Anh-Mỹ do Andrew Adamson đạo diễn và dựa trên Sư tử, Phù thủy và Tủ quần áo, Tủ quần áo, cuốn tiểu thuyết đầu tiên được xuất bản và thứ hai theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia.",
+        "target_focus_areas": [
+            [
+                6,
+                84
+            ],
+            [
+                301,
+                380
+            ],
+            [
+                426,
+                719
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                54,
+                68
+            ],
+            [
+                232,
+                269
+            ],
+            [
+                275,
+                279
+            ],
+            [
+                387,
+                408
+            ],
+            [
+                449,
+                640
+            ]
+        ]
+    },
+    {
+        "source": "The Lion, the Witch and the Wardrobe is the first and only published and chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia. The animated television film that was broadcast on CBS in 1979, The Lion, the Witch and the Wardrobe, is a 1979 adaptation of the novel. The 2005 film The Chronicles of Narnia: The Lion, the Witch and the Wardrobe is a British-American high fantasy film directed by Andrew Adamson and based on The Lion, the Witch and the Wardrobe, the Wardrobe, the first published and second chronological novel in C. S. Lewis's children's epic fantasy series, The Chronicles of Narnia.\n",
+        "target": "Sư Tử, Phù Thủy và Tủ Quần Áo là tiểu thuyết đầu tiên và duy nhất được xuất bản theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia. Bộ phim hoạt hình truyền hình được phát sóng trên CBS vào năm 1979, Sư Tử, Phù Thủy và Tủ Quần Áo, là bản chuyển thể năm 1979 của cuốn tiểu thuyết. Bộ phim năm 2005 Biên niên sử Narnia: Sư Tử, Phù Thủy và Tủ Quần Áo là một bộ phim kỳ ảo sử thi Anh-Mỹ do Andrew Adamson đạo diễn và dựa trên Sư Tử, Phù Thủy và Tủ Quần Áo, cuốn tiểu thuyết đầu tiên được xuất bản và thứ hai theo trình tự thời gian trong loạt truyện kỳ ảo sử thi dành cho trẻ em của C. S. Lewis, Biên niên sử Narnia.",
+        "target_focus_areas": [
+            [
+                6,
+                121
+            ],
+            [
+                256,
+                286
+            ],
+            [
+                287,
+                335
+            ],
+            [
+                381,
+                669
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                54,
+                68
+            ],
+            [
+                232,
+                269
+            ],
+            [
+                275,
+                279
+            ],
+            [
+                387,
+                408
+            ],
+            [
+                449,
+                640
+            ]
+        ]
+    },
+    {
+        "source": "noted for his wing play and ability to fire in accurate crosses , brennan was signed by peterborough united in his teenage years . in 2004 , he was capped several times for the all ireland schools under - 16 team , before moving back to play in the league of ireland . he was signed by steve holland for dublin city , however , after two months of action , newly appointed boss roddy collins ' ' takeover ' of the club meant that he was deemed surplus to requirements . eventually signed up by stephen kenny for limerick united for a summer loan , the striker was a revelation and made the left wing spot at the club into his own after having made his debut in a league match against st patrick ' ' s athletic on the same day . he has also been deployed to stand in at left full - back on occasions . in the 2006 season he played in their uefa cup runs in wins over ifk goteborg and fc barcelona - fc and helped derry to the ulster cup and league of ireland title . it is this particular talent that caught the attention of his hometown club , and subsequently limerick city , who confirmed their interest in brennan at the limerick city supporters ' club . however , it was limerick united who secured his services , taking the player on a free transfer .",
+        "target": "được biết đến với lối chơi ở hai cánh và khả năng thực hiện những đường chuyền chính xác, Brennan đã được Peterborough United ký hợp đồng trong những năm thiếu niên của mình. Năm 2004, anh đã được triệu tập nhiều lần cho đội tuyển All Ireland Schools dưới 16 tuổi, trước khi quay trở lại thi đấu tại Giải Vô địch Ireland. Anh được Steve Holland ký hợp đồng với Dublin City, tuy nhiên, sau hai tháng thi đấu, việc Roddy Collins, người vừa được bổ nhiệm, tiếp quản câu lạc bộ khiến anh bị đánh giá là thừa số lượng. Cuối cùng, anh được Stephen Kenny ký hợp đồng với Limerick United theo dạng cho mượn trong mùa hè, và cầu thủ này đã tỏa sáng, biến vị trí chạy cánh trái của câu lạc bộ thành nơi anh chiếm lĩnh sau khi ra mắt trong trận đấu tại giải với St Patrick's Athletic vào cùng ngày. Anh cũng từng được xếp vào vị trí hậu vệ trái trong một số tình huống. Trong mùa giải năm 2006, anh đã tham gia vào các chiến dịch UEFA Cup của đội bóng, chiến thắng trước IFK Gothenburg và FC Barcelona, và đã góp phần đưa Derry giành Cúp Ulster và chức vô địch Giải Vô địch Ireland. Chính tài năng đặc biệt này là điều mà đã thu hút sự chú ý của câu lạc bộ quê hương anh, và sau đó là Limerick City, những người đã xác nhận mối quan tâm của họ đối với Brennan tại câu lạc bộ người hâm mộ Limerick City. Tuy nhiên, chính Limerick United là câu lạc bộ đã có được chữ ký của anh, đưa cầu thủ này về với hợp đồng chuyển nhượng miễn phí.",
+        "target_focus_areas": [
+            [
+                1071,
+                1149
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                1000,
+                1006
+            ]
+        ]
+    },
+    {
+        "source": "noted for his wing play and ability to fire in accurate crosses , brennan was signed by peterborough united in his teenage years . in 2004 , he was capped several times for the all ireland schools under - 16 team , before moving back to play in the league of ireland . he was signed by steve holland for dublin city , however , after two months of action , newly appointed boss roddy collins ' ' takeover ' of the club meant that he was deemed surplus to requirements . eventually signed up by stephen kenny for limerick united for a summer loan , the striker was a revelation and made the left wing spot at the club into his own after having made his debut in a league match against st patrick ' ' s athletic on the same day . he has also been deployed to stand in at left full - back on occasions . in the 2006 season he played in their uefa cup runs in wins over ifk goteborg and fc barcelona - fc and helped derry to the ulster cup and league of ireland title . it is this particular talent that caught the attention of his hometown club , and subsequently limerick city , who confirmed their interest in brennan at the limerick city supporters ' club . however , it was limerick united who secured his services , taking the player on a free transfer .",
+        "target": "được biết đến với khả năng chơi tốt ở cánh và thực hiện những đường chuyền chính xác, Brennan đã được Peterborough United ký hợp đồng khi còn ở tuổi teen. Vào năm 2004, anh đã được triệu tập nhiều lần cho đội tuyển học sinh All Ireland dưới 16 tuổi, trước khi quay trở lại thi đấu tại VĐQG Ireland. Anh được Steve Holland ký hợp đồng cho Dublin City, tuy nhiên sau hai tháng thi đấu, việc Roddy Collins, người vừa được bổ nhiệm làm huấn luyện viên, tiếp quản câu lạc bộ khiến anh bị xem là thừa thãi. Cuối cùng, anh được Stephen Kenny ký hợp đồng dưới dạng cho mượn một mùa hè với Limerick United, nơi anh trở thành một hiện tượng và chiếm lấy vị trí cánh trái của câu lạc bộ sau khi ra mắt trong trận đấu tại giải với St Patrick's Athletic vào cùng ngày. Anh cũng từng được bố trí thi đấu ở vị trí hậu vệ trái. Trong mùa giải 2006, anh đã tham gia vào các trận đấu tại UEFA Cup, đánh bại IFK Goteborg và FC Barcelona B, đồng thời giúp Derry giành chức vô địch Ulster Cup và VĐQG Ireland. Chính tài năng đặc biệt này đã thu hút sự chú ý của câu lạc bộ quê nhà của anh, sau đó là Limerick City, câu lạc bộ này đã xác nhận sự quan tâm của họ tới Brennan tại câu lạc bộ người hâm mộ Limerick City. Tuy nhiên, cuối cùng là Limerick United đã giành được chữ ký của anh, ký hợp đồng với cầu thủ này theo dạng chuyển nhượng tự do.",
+        "target_focus_areas": [
+            [
+                988,
+                1067
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                1000,
+                1006
+            ]
+        ]
+    },
+    {
+        "source": "C.T. Vivian , shown at home in Atlanta in June 2015 , 50 years earlier told a hostile white sheriff in Selma , Alabama : ' You ca n't turn your back on justice . '",
+        "target": "C.T. Vivian, được chụp tại nhà ở Atlanta vào tháng 6 năm 2015, 50 năm trước đó đã nói với một ông quản ngục da trắng thù địch ở Selma, Alabama: “Anh không thể quay lưng lại với công lý.”",
+        "target_focus_areas": [
+            [
+                0,
+                11
+            ],
+            [
+                12,
+                61
+            ],
+            [
+                62,
+                133
+            ],
+            [
+                134,
+                142
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                11
+            ],
+            [
+                31,
+                38
+            ],
+            [
+                92,
+                99
+            ],
+            [
+                103,
+                108
+            ],
+            [
+                111,
+                118
+            ]
+        ]
+    },
+    {
+        "source": "C.T. Vivian , shown at home in Atlanta in June 2015 , 50 years earlier told a hostile white sheriff in Selma , Alabama : ' You ca n't turn your back on justice . '",
+        "target": "C.T. Vivian, được chụp tại nhà ở Atlanta vào tháng 6 năm 2015, 50 năm trước đó đã nói với một ông cảnh sát trưởng da trắng thù địch ở Selma, Alabama: 'Anh không thể quay lưng lại với công lý.'",
+        "target_focus_areas": [
+            [
+                0,
+                11
+            ],
+            [
+                12,
+                61
+            ],
+            [
+                62,
+                139
+            ],
+            [
+                140,
+                148
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                0,
+                11
+            ],
+            [
+                31,
+                38
+            ],
+            [
+                92,
+                99
+            ],
+            [
+                103,
+                108
+            ],
+            [
+                111,
+                118
+            ]
+        ]
+    },
+    {
+        "source": "Sangram ends fast at Pyari ’ s request 17th December 2012 11:41 AM After all the talks of injustice and fabricated charges over which Sangram Mohanty took to hunger strike in R Udaygiri jail , it took a letter of five sentences from Odisha Jan Morcha ( OJM ) leader Pyarimohan Mohapatra to call off the agitation on Sunday .",
+        "target": "Sangram chấm dứt tuyệt thực theo yêu cầu của Pyari \n17 tháng 12 năm 2012 11:41 sáng \nSau tất cả những lời nói về sự bất công và các cáo buộc bịa đặt về vấn đề Sangram Mohanty đã bắt đầu tuyệt thực trong nhà tù R Udaygiri, thì chỉ cần một lá thư năm câu từ lãnh đạo Odisha Jan Morcha (OJM) Pyarimohan Mohapatra để chấm dứt biểu tình vào Chủ nhật.",
+        "target_focus_areas": [
+            [
+                76,
+                220
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                73,
+                122
+            ],
+            [
+                123,
+                133
+            ],
+            [
+                134,
+                190
+            ]
+        ]
+    },
+    {
+        "source": "Sangram ends fast at Pyari ’ s request 17th December 2012 11:41 AM After all the talks of injustice and fabricated charges over which Sangram Mohanty took to hunger strike in R Udaygiri jail , it took a letter of five sentences from Odisha Jan Morcha ( OJM ) leader Pyarimohan Mohapatra to call off the agitation on Sunday .",
+        "target": "Sangram chấm dứt tuyệt thực theo yêu cầu của Pyari  17 tháng 12 năm 2012 11:41 sáng Sau tất cả những cuộc thảo luận về sự bất công và các cáo buộc bịa đặt mà Sangram Mohanty đã bắt đầu tuyệt thực tại nhà tù R Udaygiri, thì chỉ cần một lá thư năm câu từ lãnh đạo Odisha Jan Morcha (OJM) Pyarimohan Mohapatra để chấm dứt cuộc biểu tình vào chủ nhật.",
+        "target_focus_areas": [
+            [
+                76,
+                217
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                73,
+                122
+            ],
+            [
+                123,
+                133
+            ],
+            [
+                134,
+                190
+            ]
+        ]
+    },
+    {
+        "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+        "target": "Ý tưởng rằng hệ quả từ vụ sụp đổ của Bear Stearns chỉ giới hạn ở một vài công ty trên Phố Wall thì không đúng.\" Dimon nói rằng công ty của ông sẽ không đồng ý tiếp quản Bear nếu không có sự hỗ trợ tài chính của Fed, và ông cũng nói rằng JPMorgan đã đồng ý bảo đảm khoản vay 25 tỷ đô la mà Bear đã vay từ ngân hàng trung ương.",
+        "target_focus_areas": [
+            [
+                0,
+                109
+            ],
+            [
+                111,
+                206
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                1,
+                90
+            ],
+            [
+                118,
+                166
+            ]
+        ]
+    },
+    {
+        "source": "\"The idea that the Bear Stearns fallout would have been limited to a few Wall Street firms just isn't so.\" Dimon said his firm would not have agreed to take over Bear without the Fed's financial backing, and said that JPMorgan had also agreed to guarantee $25 billion that Bear had borrowed from the central bank.",
+        "target": "Ý tưởng rằng hậu quả của vụ Bear Stearns sẽ chỉ giới hạn ở một vài công ty Phố Wall là không đúng.\" Dimon nói rằng công ty của ông không đồng ý tiếp quản Bear nếu không có sự hỗ trợ tài chính của Fed, và nói rằng JPMorgan cũng đã đồng ý bảo đảm 25 tỷ đô la mà Bear đã vay từ ngân hàng trung ương.",
+        "target_focus_areas": [
+            [
+                0,
+                97
+            ],
+            [
+                99,
+                191
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                1,
+                90
+            ],
+            [
+                118,
+                166
+            ]
+        ]
+    },
+    {
+        "source": "Wilmington News-Journal, \"Castle: I won't run as a write-in candidate,\" by Beth Miller: \"Mike Castle announces in written statement, 'While I would have been honored to represent Delaware in the U.S.\"",
+        "target": "Wilmington News-Journal, \"Castle: Tôi sẽ không tranh cử ứng viên độc lập\", của Beth Miller: \"Mike Castle thông báo trong tuyên bố bằng văn bản, 'Tôi sẽ rất vinh dự nếu được đại diện cho Delaware tại Quốc hội Hoa Kỳ.\"",
+        "target_focus_areas": [
+            [
+                33,
+                72
+            ],
+            [
+                145,
+                214
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                34,
+                69
+            ],
+            [
+                134,
+                198
+            ]
+        ]
+    },
+    {
+        "source": "Wilmington News-Journal, \"Castle: I won't run as a write-in candidate,\" by Beth Miller: \"Mike Castle announces in written statement, 'While I would have been honored to represent Delaware in the U.S.\"",
+        "target": "Wilmington News-Journal, \"Castle: Tôi sẽ không tranh cử ứng viên tự do,\" của Beth Miller: \"Mike Castle thông báo trong tuyên bố bằng văn bản, 'Tôi sẽ rất vinh dự nếu được đại diện cho Delaware tại Hoa Kỳ.'\"",
+        "target_focus_areas": [
+            [
+                33,
+                70
+            ],
+            [
+                143,
+                204
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                34,
+                69
+            ],
+            [
+                134,
+                198
+            ]
+        ]
+    },
+    {
+        "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+        "target": "Gần đây, các mạng nơ-ron tích chập ba chiều ( CNN ) đã nổi lên như những phương pháp thống trị để nắm bắt các đặc trưng không gian - thời gian trong video, bằng cách bổ sung cho các CNN 2D hiện có một chiều thứ ba là chiều thời gian.",
+        "target_focus_areas": [
+            [
+                8,
+                44
+            ],
+            [
+                45,
+                50
+            ],
+            [
+                155,
+                222
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                36,
+                65
+            ],
+            [
+                68,
+                72
+            ],
+            [
+                190,
+                197
+            ]
+        ]
+    },
+    {
+        "source": "Recently , three dimensional ( 3D ) convolutional neural networks ( CNNs ) have emerged as dominant methods to capture spatiotemporal representations in videos , by adding to pre - existing 2D CNNs a third , temporal dimension .",
+        "target": "Gần đây, các mạng nơ - ron tích chập ba chiều (3D) (CNNs) đã nổi lên như các phương pháp thống trị để bắt giữ các biểu diễn không gian - thời gian trong video, bằng cách bổ sung cho các CNN hai chiều hiện có một chiều thứ ba, chiều thời gian.",
+        "target_focus_areas": [
+            [
+                8,
+                46
+            ],
+            [
+                52,
+                56
+            ],
+            [
+                159,
+                224
+            ]
+        ],
+        "source_focus_areas": [
+            [
+                36,
+                65
+            ],
+            [
+                68,
+                72
+            ],
+            [
+                190,
+                197
+            ]
+        ]
     }
 ]
