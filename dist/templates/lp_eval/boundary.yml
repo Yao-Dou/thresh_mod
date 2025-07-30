@@ -1,0 +1,34 @@
+template_name: Boundary Evaluation
+template_label: Boundary Evaluation
+tokenization: char
+
+disable:
+  - selection
+  - delete
+
+enable:
+  - edit_boundary
+
+# "Edits" are our units of annotations. First, edits are selected, then annotated.
+edits:
+  - name: span
+    label: "Span"
+    enable_input: true          
+    enable_output: true         
+    color: red                  
+    icon: fa-magnifying-glass   
+    
+    # Specify annotations for the edit
+    annotation:
+      - name: edit_quality
+        label: "Edit Quality"
+        question: "Do these highlights perfectly match?"
+        options:
+          - name: yes
+            label: "yes"
+          - name: no
+            label: "no"
+            question: "Can you highlight the correct match (without changing the translation)?"
+            options: binary
+
+        
