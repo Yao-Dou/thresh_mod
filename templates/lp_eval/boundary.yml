@@ -29,6 +29,10 @@ edits:
           - name: no
             label: "no"
             question: "Can you highlight the correct match (without changing the translation)?"
-            options: binary
+            options:
+              - name: yes
+                label: "yes"
+              - name: no
+                label: "no"
 
         
