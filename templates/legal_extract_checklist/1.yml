@@ -48,7 +48,7 @@ edits:
     annotation:
       - name: explanation
         label: "Extracted Value"
-        question: "What is the extracted value for this checklist item?"
+        question: "What is the new extracted value for this checklist item?"
         options: textarea
         prefilled: true  # This will be pre-filled with model extraction
 
