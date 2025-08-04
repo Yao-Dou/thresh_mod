@@ -1,0 +1,91 @@
+template_name: legal_checklist_extraction
+template_label: Legal Checklist Extraction
+template_description: "Extract and verify checklist items from legal case summaries"
+
+# ========================================================================================
+#
+# Template for extracting checklist items from legal case summaries
+# Each instance represents one checklist item from a case
+#
+# ========================================================================================
+
+interface_text:
+  typology:
+    source_label: "Checklist Item"
+    target_label: "Case Summary"
+
+tutorial_link: # Add your tutorial link here if available
+
+font_size:
+  target: 16
+
+edits:
+  - name: checklist_extraction
+    label: "Checklist Item Extraction"
+    color: "#2563eb"
+    icon: fa-clipboard-check
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What is the extracted value for this checklist item?"
+        options: textarea
+        prefilled: true  # This will be pre-filled with model extraction
+      - name: checklist_item
+        label: "Checklist Item Name"
+        question: "Which checklist item is this?"
+        options: text
+        prefilled: true  # This will be pre-filled from metadata
+        readonly: true   # Users shouldn't change this
+      - name: verification
+        label: "Verification Status"
+        question: "Is the extracted value correct?"
+        options:
+          - label: "Correct"
+            value: "correct"
+          - label: "Partially Correct"
+            value: "partial"
+          - label: "Incorrect"
+            value: "incorrect"
+          - label: "Missing Evidence"
+            value: "missing"
+      - name: corrected_value
+        label: "Corrected Value (if needed)"
+        question: "If the extraction is incorrect or partial, provide the correct value:"
+        options: textarea
+        required: false
+      - name: notes
+        label: "Additional Notes"
+        question: "Any additional notes or clarifications?"
+        options: textarea
+        required: false
+
+# Additional metadata for the task
+task_info:
+  checklist_items:
+    - "Filing Date"
+    - "Cause of Action"
+    - "Statutory or Constitutional Basis for the Case"
+    - "Remedy Sought"
+    - "Type of Counsel"
+    - "First and Last name of Judge"
+    - "All Reported Opinions Cited with Shortened Bluebook Citation"
+    - "Class Action or Individual Plaintiffs"
+    - "Related Cases Listed by Their Case Code Number"
+    - "How Long Decrees will Last"
+    - "Date of Settlement"
+    - "How Long Settlement will Last"
+    - "Whether the Settlement is Court-enforced or Not"
+    - "Name of the Monitor"
+    - "Appeal"
+    - "Who are the Parties"
+    - "Consolidated Cases Noted"
+    - "Dates of All Decrees"
+    - "Factual Basis of Case"
+    - "Note Important Filings"
+    - "Significant Terms of Decrees"
+    - "Significant Terms of Settlement"
+    - "Monitor Reports"
+    - "Trials"
+    - "Court Rulings"
+    - "Disputes Over Settlement Enforcement"

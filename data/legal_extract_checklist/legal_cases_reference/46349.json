@@ -1,0 +1,901 @@
+[
+  {
+    "id": 0,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Filing Date",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            196,
+            348
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 7, 2025",
+          "checklist_item": "Filing Date"
+        }
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Cause of Action",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            613,
+            752
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) violation",
+          "checklist_item": "Cause of Action"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Statutory or Constitutional Basis for the Case",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            613,
+            752
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Remedy Sought",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            753,
+            825
+          ]
+        ],
+        "annotation": {
+          "explanation": "Vacatur and setting aside of the funding freeze",
+          "checklist_item": "Remedy Sought"
+        }
+      },
+      {
+        "id": 1,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            830,
+            848
+          ],
+          [
+            863,
+            873
+          ],
+          [
+            890,
+            896
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunctive relief",
+          "checklist_item": "Remedy Sought"
+        }
+      },
+      {
+        "id": 2,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            830,
+            836
+          ],
+          [
+            853,
+            873
+          ],
+          [
+            890,
+            896
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunctive relief",
+          "checklist_item": "Remedy Sought"
+        }
+      },
+      {
+        "id": 3,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            830,
+            836
+          ],
+          [
+            878,
+            896
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief",
+          "checklist_item": "Remedy Sought"
+        }
+      },
+      {
+        "id": 4,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            957,
+            1058
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order (TRO)",
+          "checklist_item": "Remedy Sought"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Type of Counsel",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            613,
+            752
+          ]
+        ],
+        "annotation": {
+          "explanation": "State Attorney General (government counsel)",
+          "checklist_item": "Type of Counsel"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "First and Last name of Judge",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            898,
+            955
+          ]
+        ],
+        "annotation": {
+          "explanation": "John A. Woodcock",
+          "checklist_item": "First and Last name of Judge"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": []
+  },
+  {
+    "id": 7,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Class Action or Individual Plaintiffs",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            196,
+            294
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as the State of Maine",
+          "checklist_item": "Class Action or Individual Plaintiffs"
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Related Cases Listed by Their Case Code Number",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1468,
+            1747
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case code: 46201 (recent Supreme Court opinion cited by the court).",
+          "checklist_item": "Related Cases Listed by Their Case Code Number"
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "How Long Decrees will Last",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2000,
+            2130
+          ],
+          [
+            2131,
+            2303
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary Restraining Order: April 11, 2025 \u2013 May 9, 2025",
+          "checklist_item": "How Long Decrees will Last"
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Date of Settlement",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2422,
+            2471
+          ],
+          [
+            2662,
+            2698
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 2, 2025",
+          "checklist_item": "Date of Settlement"
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "How Long Settlement will Last",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": []
+  },
+  {
+    "id": 12,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Whether the Settlement is Court-enforced or Not",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2422,
+            2471
+          ],
+          [
+            2607,
+            2698
+          ]
+        ],
+        "annotation": {
+          "explanation": "[No]",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not"
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Name of the Monitor",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": []
+  },
+  {
+    "id": 14,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Appeal",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": []
+  },
+  {
+    "id": 15,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Who are the Parties",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            196,
+            348
+          ],
+          [
+            613,
+            752
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: The State of Maine, represented by the Maine Attorney General",
+          "checklist_item": "Who are the Parties"
+        }
+      },
+      {
+        "id": 1,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            196,
+            348
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: United States Department of Agriculture (federal executive agency)",
+          "checklist_item": "Who are the Parties"
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Consolidated Cases Noted",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": []
+  },
+  {
+    "id": 17,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Dates of All Decrees",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1355,
+            1467
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 9, 2025: Order directing parties to submit jurisdictional briefings.",
+          "checklist_item": "Dates of All Decrees"
+        }
+      },
+      {
+        "id": 1,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2000,
+            2130
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 11, 2025: Temporary Restraining Order requiring USDA to unfreeze and release the funds.",
+          "checklist_item": "Dates of All Decrees"
+        }
+      },
+      {
+        "id": 2,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2232,
+            2420
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 15, 2025: Order extending the TRO to May 9, 2025, and directing parties to propose a PI hearing date.",
+          "checklist_item": "Dates of All Decrees"
+        }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Factual Basis of Case",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            349,
+            612
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 2, 2025 \u2013 USDA froze funds earmarked for feeding Maine schoolchildren after finding Maine in violation of Title IX for allowing transgender girls to compete in girls\u2019 sports.",
+          "checklist_item": "Factual Basis of Case"
+        }
+      },
+      {
+        "id": 1,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            196,
+            348
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 7, 2025 \u2013 State of Maine filed suit against the USDA in the U.S. District Court for the District of Maine challenging the funding freeze.",
+          "checklist_item": "Factual Basis of Case"
+        }
+      },
+      {
+        "id": 2,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            957,
+            1058
+          ],
+          [
+            1059,
+            1170
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff immediately sought a Temporary Restraining Order; hearing held April 8, 2025, with briefing scheduled to finish by April 10.",
+          "checklist_item": "Factual Basis of Case"
+        }
+      },
+      {
+        "id": 3,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2000,
+            2130
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 11, 2025 \u2013 Court granted TRO compelling USDA to release the frozen funds while the order remained in effect.",
+          "checklist_item": "Factual Basis of Case"
+        }
+      },
+      {
+        "id": 4,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2131,
+            2231
+          ],
+          [
+            2232,
+            2420
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 15, 2025 \u2013 Parties jointly moved, and the court agreed, to extend the TRO to May 9 and to schedule a future preliminary-injunction hearing.",
+          "checklist_item": "Factual Basis of Case"
+        }
+      },
+      {
+        "id": 5,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2422,
+            2698
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement reached: USDA restored the funding and Maine voluntarily dismissed the lawsuit on May 2, 2025.",
+          "checklist_item": "Factual Basis of Case"
+        }
+      },
+      {
+        "id": 6,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            0,
+            195
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background context \u2013 Dispute centered on whether the federal government could withhold school nutrition funds from states that allow transgender girls/women to compete in female school sports.",
+          "checklist_item": "Factual Basis of Case"
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Note Important Filings",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            957,
+            1058
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff\u2019s motion for temporary restraining order filed April 7, 2025",
+          "checklist_item": "Note Important Filings"
+        }
+      },
+      {
+        "id": 1,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1171,
+            1353
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff\u2019s amended complaint filed April 8, 2025",
+          "checklist_item": "Note Important Filings"
+        }
+      },
+      {
+        "id": 2,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2131,
+            2231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint motion to extend the TRO filed April 15, 2025",
+          "checklist_item": "Note Important Filings"
+        }
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Significant Terms of Decrees",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2000,
+            2130
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 11, 2025 TRO: USDA must immediately unfreeze and release the previously frozen school-meal funds for the duration of the TRO.",
+          "checklist_item": "Significant Terms of Decrees"
+        }
+      },
+      {
+        "id": 1,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2131,
+            2231
+          ],
+          [
+            2232,
+            2420
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 15, 2025 Order: (a) TRO extended through May 9, 2025, keeping the funds unfrozen; (b) parties must file a proposed date for a preliminary-injunction hearing by May 2, 2025.",
+          "checklist_item": "Significant Terms of Decrees"
+        }
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Significant Terms of Settlement",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2000,
+            2130
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 11, 2025 TRO: USDA must immediately unfreeze and release the previously frozen school-meal funds for Maine for the duration of the TRO.",
+          "checklist_item": "Significant Terms of Settlement"
+        }
+      },
+      {
+        "id": 1,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2232,
+            2420
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 15, 2025 order: (a) TRO extended through May 9, 2025; (b) both sides must submit a proposed preliminary-injunction hearing date by May 2, 2025.",
+          "checklist_item": "Significant Terms of Settlement"
+        }
+      },
+      {
+        "id": 2,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2607,
+            2698
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement (announced May 2, 2025): USDA restores the withheld federal meal-program funding to Maine; Maine dismisses/withdraws its lawsuit.",
+          "checklist_item": "Significant Terms of Settlement"
+        }
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Monitor Reports",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": []
+  },
+  {
+    "id": 23,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Trials",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1059,
+            1117
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO motion hearing \u2013 April 8, 2025, before Judge John A. Woodcock (U.S. District Court for the District of Maine)",
+          "checklist_item": "Trials"
+        }
+      },
+      {
+        "id": 1,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2232,
+            2303
+          ]
+        ],
+        "annotation": {
+          "explanation": "Hearing on joint motion to extend TRO \u2013 April 15, 2025, before Judge John A. Woodcock (U.S. District Court for the District of Maine)",
+          "checklist_item": "Trials"
+        }
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Court Rulings",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": [
+      {
+        "id": 0,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2000,
+            2130
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 11, 2025 \u2013 Court granted plaintiff\u2019s motion for a temporary restraining order (TRO), directing USDA to unfreeze and release the withheld funds.",
+          "checklist_item": "Court Rulings"
+        }
+      },
+      {
+        "id": 1,
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2131,
+            2420
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 15, 2025 \u2013 Court granted the parties\u2019 joint motion to extend the TRO through May 9, 2025.",
+          "checklist_item": "Court Rulings"
+        }
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "metadata": {
+      "model": "o3-2025-04-16",
+      "checklist_item": "Disputes Over Settlement Enforcement",
+      "case_id": "46349"
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "edits": []
+  }
+]
