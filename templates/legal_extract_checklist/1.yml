@@ -56,16 +56,6 @@ edits:
             value: "incorrect"
           - label: "Missing Evidence"
             value: "missing"
-      - name: corrected_value
-        label: "Corrected Value (if needed)"
-        question: "If the extraction is incorrect or partial, provide the correct value:"
-        options: textarea
-        required: false
-      - name: notes
-        label: "Additional Notes"
-        question: "Any additional notes or clarifications?"
-        options: textarea
-        required: false
 
 # Additional metadata for the task
 task_info:
