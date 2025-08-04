@@ -9,6 +9,10 @@ template_description: "Extract and verify checklist items from legal case summar
 #
 # ========================================================================================
 
+enable:
+  - edit_boundary
+  - edit_boundary_multi
+
 interface_text:
   typology:
     source_label: "Checklist Item"
