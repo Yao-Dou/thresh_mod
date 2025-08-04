@@ -50,7 +50,8 @@ const routes = [
     { path: joinPaths(basePath, '/'), component: (iParam || ghParam || hfParam) ? () => import("./components/pages/Viewer.vue") : () => import("./components/pages/Builder.vue") },
     { path: joinPaths(basePath, '/demo'), component: () => import("./components/pages/Builder.vue") },
     { path: joinPaths(basePath, '/custom'), props: () => ({ injection: true }), component: () => import("./components/pages/Viewer.vue") },
-    { path: joinPaths(basePath, '/annotate'), props: () => ({ serverless: true }), component: () => import("./components/pages/Viewer.vue") }
+    { path: joinPaths(basePath, '/annotate'), props: () => ({ serverless: true }), component: () => import("./components/pages/Viewer.vue") },
+    { path: joinPaths(basePath, '/legal'), component: () => import("./components/pages/Viewer.vue") }
 ]
 
 for (const template of templates) {

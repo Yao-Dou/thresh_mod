@@ -1,5 +1,6 @@
 <script setup>
   import Sent from "./Sent.vue";
+  import ChecklistDefinition from "../common/ChecklistDefinition.vue";
   import _ from 'lodash';
   import { handle_file_download, handle_file_upload } from "../../assets/js/file-util.js";
   import VueMarkdown from 'vue-markdown-render'
@@ -10,7 +11,8 @@
 <script>
 export default {
     components: {
-        VueMarkdown
+        VueMarkdown,
+        ChecklistDefinition
     },
     props: [
         'hits_data',
@@ -145,11 +147,26 @@ export default {
             this.setup_hit_box();
         },
         remove_selected(category, start, end) {
+            console.log('HitBox remove_selected called:', { category, start, end });
             // Essentially this just removes the span from the selected_state
             // span list and re-renders. I can use the re-rendering code already
             // written
 
-            if (this.span_type == 'source') {
+            // Determine span type based on which indices contain the span to remove
+            let isSourceSpan = false;
+            let isTargetSpan = false;
+            
+            if (this.selected_state.source_idx && Array.isArray(this.selected_state.source_idx)) {
+                isSourceSpan = this.selected_state.source_idx.some(span => span[0] === start && span[1] === end);
+            }
+            
+            if (this.selected_state.target_idx && Array.isArray(this.selected_state.target_idx)) {
+                isTargetSpan = this.selected_state.target_idx.some(span => span[0] === start && span[1] === end);
+            }
+            
+            console.log('Span type detection:', { isSourceSpan, isTargetSpan });
+
+            if (isSourceSpan) {
                 let txt = this.hits_data[this.current_hit - 1].source
                 // remove [start,end] from selected_span_in_source_indexs
 
@@ -170,14 +187,15 @@ export default {
                     let [start, end] = new_span_indices[i];
                     // let selected_span = new_span_text.substring(start, end);
                     new_span_text += `<span class="bg-${category}-light">\xa0`;
-                    new_span_text += `<span @click="remove_selected('${category}',${start},${end})" class="hover-white black br-pill mr1 pointer">✘</span>`
+                    new_span_text += `<span onclick="removeSelected('${category}',${start},${end})" class="hover-white black br-pill mr1 pointer">✘</span>`
                     new_span_text += txt.substring(start, end) + '\xa0';
                     new_span_text += `</span>`;
                     new_span_text += "&nbsp&nbsp";
                 }
                 this.set_span_text(new_span_text, 'source');
-                // this.process_source_html_with_selected_span(category);
-            } else if (this.span_type == 'target')  {
+                // Trigger SourceSent watcher to re-render highlighting  
+                this.set_span_category(category, 'source');
+            } else if (isTargetSpan) {
                 let txt = this.hits_data[this.current_hit - 1].target
                 // remove [start,end] from selected_span_in_target_indexs
 
@@ -198,13 +216,17 @@ export default {
                     let [start, end] = new_span_indices[i];
                     let selected_span = new_span_text.substring(start, end);
                     new_span_text += `<span class="bg-${category}-light">\xa0`;
-                    new_span_text += `<span @click="remove_selected('${category}',${start},${end})" class="hover-white black br-pill mr1 pointer">✘</span>`
+                    new_span_text += `<span onclick="removeSelected('${category}',${start},${end})" class="hover-white black br-pill mr1 pointer">✘</span>`
                     new_span_text += txt.substring(start, end) + '\xa0';
                     new_span_text += `</span>`;
                     new_span_text += "&nbsp&nbsp";
                 }
                 this.set_span_text(new_span_text, 'target');
-                // this.process_target_html_with_selected_span(category);
+                // Force the selected_state watcher to fire by updating indices again
+                this.$nextTick(() => {
+                    // Re-trigger the selected_state watcher with the updated indices
+                    this.set_span_indices(new_span_indices, 'target');
+                });
             }
         },
         target_exists() {
@@ -315,6 +337,10 @@ export default {
                 </div>
             </div>            
         </div>
+        
+        <!-- Checklist Item Definition -->
+        <ChecklistDefinition :hits_data="hits_data" :current_hit="current_hit" :config="config" />
+        
         <div>
             <div class="ba b--black-80 br2 pa2">
                 <div class="fr">

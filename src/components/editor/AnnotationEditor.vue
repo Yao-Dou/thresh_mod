@@ -12,7 +12,8 @@ export default {
         'annotating_edit_span_category_id', 'set_annotating_edit_span_category_id',
         'annotating_edit_span', 'set_annotating_edit_span', 'set_hit_box_config', 'config',
         'boundary_editing_mode', 'boundary_editing_edit', 'original_boundary',
-        'set_boundary_editing_mode', 'set_boundary_editing_edit', 'set_original_boundary'
+        'set_boundary_editing_mode', 'set_boundary_editing_edit', 'set_original_boundary',
+        'remove_selected'
     ],
     data() {
         let edit_state = this.initalize_edit_state();
@@ -81,6 +82,29 @@ export default {
         },
         force_update_f() {
             this.force_update = !this.force_update;
+        },
+        getCurrentExtractedValue(itemName, questionName) {
+            // First check if there's a form response
+            if (this.edit_state[itemName] && this.edit_state[itemName][questionName] && 
+                (this.edit_state[itemName][questionName].response || this.edit_state[itemName][questionName].prefilled_response)) {
+                return this.edit_state[itemName][questionName].response || this.edit_state[itemName][questionName].prefilled_response;
+            }
+            
+            // Then check the annotation data from the current annotation being edited
+            if (this.annotating_edit_span_category_id) {
+                const annotatingId = parseInt(this.annotating_edit_span_category_id.split("-")[1]);
+                const category = this.annotating_edit_span_category_id.split("-")[0];
+                const currentHit = this.hits_data[this.current_hit - 1];
+                
+                if (currentHit && currentHit.edits) {
+                    const edit = currentHit.edits.find(e => e.category === category && e.id === annotatingId);
+                    if (edit && edit.annotation && edit.annotation[questionName]) {
+                        return edit.annotation[questionName];
+                    }
+                }
+            }
+            
+            return 'No value extracted yet';
         },
         cancel_click() {
             $(".icon-default").removeClass("open");
@@ -216,9 +240,20 @@ export default {
             // Remove boundary editing highlights
             $(`.boundary-editing-highlight`).removeClass('boundary-editing-highlight');
             
-            // Clear selection state
+            // Clear green boundary selection highlighting
+            $('#target-sentence, #source-sentence').find('.boundary-selected-span').contents().unwrap();
+            
+            // Clear selection state (both single and multi)
             this.set_span_text('', type === 'source' ? 'source' : 'target');
-            this.set_span_indices('', type === 'source' ? 'source' : 'target');
+            this.set_span_indices([], type === 'source' ? 'source' : 'target');
+            
+            // Reset hit box config to default
+            this.set_hit_box_config({
+                enable_select_source_sentence: false,
+                enable_select_target_sentence: false,
+                enable_multi_select_source_sentence: false,
+                enable_multi_select_target_sentence: false,
+            });
             
             // Reset boundary editing state via parent
             this.set_boundary_editing_mode(false);
@@ -231,12 +266,19 @@ export default {
         save_boundary_edit() {
             if (!this.boundary_editing_mode || !this.boundary_editing_edit) return;
             
-            const { category, id, type } = this.boundary_editing_edit;
+            const { category, id, type, multi } = this.boundary_editing_edit;
             
             // Get the new boundary from selected state
             const new_boundary = type === 'source' 
                 ? this.selected_state.source_idx 
                 : this.selected_state.target_idx;
+                
+            // Debug: Log boundary save details
+            console.log('Saving boundary edit:', {
+                category, id, type, multi,
+                new_boundary,
+                selected_state: this.selected_state
+            });
                 
             if (!new_boundary || (Array.isArray(new_boundary) && new_boundary.length === 0)) {
                 alert('Please select a new boundary before saving.');
@@ -251,12 +293,158 @@ export default {
             
             if (edit_to_update) {
                 const boundary_key = type === 'source' ? 'input_idx' : 'output_idx';
-                edit_to_update[boundary_key] = Array.isArray(new_boundary[0]) ? new_boundary : [new_boundary];
+                
+                if (multi) {
+                    // For multi-boundary editing, new_boundary should already be an array of [start, end] pairs
+                    // from the multi-selection UI
+                    edit_to_update[boundary_key] = new_boundary;
+                } else {
+                    // For single boundary editing, new_boundary is a single [start, end] pair
+                    // Need to wrap it in an array since output_idx/input_idx expect array of spans
+                    edit_to_update[boundary_key] = [new_boundary];
+                }
                 
                 this.set_hits_data(new_hits_data);
             }
             
             this.cancel_boundary_edit(); // Cleanup
+        },
+        remove_selected_boundary(category, start, end) {
+            // Custom remove function for boundary editing - called from editor HTML
+            console.log('Removing boundary selection:', { category, start, end });
+            
+            // Determine which type we're working with
+            const type = this.boundary_editing_edit?.type || 'target';
+            const current_indices = type === 'source' 
+                ? this.selected_state.source_idx || []
+                : this.selected_state.target_idx || [];
+            
+            // Remove the span from the indices array
+            const new_indices = current_indices.filter(span => !(span[0] === start && span[1] === end));
+            
+            console.log('Updated indices after removal:', { 
+                before: current_indices.length, 
+                after: new_indices.length,
+                removed_span: [start, end]
+            });
+            
+            // Update the state
+            this.set_span_indices(new_indices, type);
+            
+            // Update the selection bubbles HTML
+            const txt = type === 'source' 
+                ? this.hits_data[this.current_hit - 1].source
+                : this.hits_data[this.current_hit - 1].target;
+            
+            let new_span_text = "";
+            for (let i = 0; i < new_indices.length; i++) {
+                let [span_start, span_end] = new_indices[i];
+                new_span_text += `<span class="selected-span-text" style="background-color: rgb(144, 238, 144); padding: 4px; border-radius: 3px;">\xa0
+                    <span onclick="removeBoundarySpan('${category}',${span_start},${span_end})" class="hover-white black br-pill mr1 pointer">✘</span>
+                        ${txt.substring(span_start, span_end)}\xa0</span>&nbsp&nbsp`;
+            }
+            this.set_span_text(new_span_text, type);
+            
+            // Update green highlighting in the document (call the target sentence method)
+            // We need to trigger an update to the green highlighting
+            this.$nextTick(() => {
+                // Trigger highlighting update by simulating a small change
+                if (document.getElementById('target-sentence')) {
+                    this.updateBoundaryHighlightingFromEditor(category, new_indices);
+                }
+            });
+        },
+        updateBoundaryHighlightingFromEditor(category, selected_indices) {
+            // Apply green highlighting while preserving original evidence spans
+            // Clear existing green boundary highlighting only
+            $('#target-sentence').find('.boundary-selected-span').contents().unwrap();
+            
+            if (selected_indices.length === 0) return;
+            
+            // Wait for DOM to be ready, then apply green highlighting
+            this.$nextTick(() => {
+                let targetElement = document.getElementById('target-sentence');
+                if (!targetElement) return;
+                
+                // Sort indices by start position to avoid overlap issues
+                const sorted_indices = [...selected_indices].sort((a, b) => a[0] - b[0]);
+                
+                // Apply green highlighting using the same method as TargetSent
+                this.applyGreenHighlightingFromEditor(targetElement, sorted_indices);
+            });
+        },
+        applyGreenHighlightingFromEditor(targetElement, sorted_indices) {
+            // Apply highlighting from end to beginning to maintain text indices
+            for (let i = sorted_indices.length - 1; i >= 0; i--) {
+                const [start, end] = sorted_indices[i];
+                this.wrapTextRangeFromEditor(targetElement, start, end);
+            }
+        },
+        wrapTextRangeFromEditor(container, start, end) {
+            // Walk through text nodes and wrap the specified range with green highlighting
+            let textOffset = 0;
+            let startNode = null, endNode = null;
+            let startOffset = 0, endOffset = 0;
+            
+            // Create a TreeWalker to iterate through text nodes
+            const walker = document.createTreeWalker(
+                container,
+                NodeFilter.SHOW_TEXT,
+                null,
+                false
+            );
+            
+            let currentNode;
+            while (currentNode = walker.nextNode()) {
+                const nodeLength = currentNode.textContent.length;
+                const nodeStart = textOffset;
+                const nodeEnd = textOffset + nodeLength;
+                
+                // Find start position
+                if (!startNode && start >= nodeStart && start < nodeEnd) {
+                    startNode = currentNode;
+                    startOffset = start - nodeStart;
+                }
+                
+                // Find end position
+                if (!endNode && end > nodeStart && end <= nodeEnd) {
+                    endNode = currentNode;
+                    endOffset = end - nodeStart;
+                }
+                
+                textOffset += nodeLength;
+                
+                // If we found both positions, break
+                if (startNode && endNode) break;
+            }
+            
+            if (!startNode || !endNode) return;
+            
+            try {
+                // Create a Range and wrap it with green highlighting
+                const range = document.createRange();
+                range.setStart(startNode, startOffset);
+                range.setEnd(endNode, endOffset);
+                
+                // Create wrapper element
+                const wrapper = document.createElement('span');
+                wrapper.className = 'boundary-selected-span';
+                wrapper.style.backgroundColor = '#90EE90';
+                wrapper.style.padding = '2px';
+                wrapper.style.borderRadius = '3px';
+                
+                // Wrap the range content
+                try {
+                    range.surroundContents(wrapper);
+                } catch (e) {
+                    // If range spans multiple elements, extract and wrap
+                    const contents = range.extractContents();
+                    wrapper.appendChild(contents);
+                    range.insertNode(wrapper);
+                }
+            } catch (e) {
+                console.warn('Could not apply green highlighting from editor:', e);
+            }
         },
         reset_annotation_colors(category, id) {
             let annotating_span = this.hits_data[this.current_hit - 1]['edits'].find(function(entry) {
@@ -282,6 +470,17 @@ export default {
             // ... (no changes in this method)
             return this.config['edits'].find(entry => entry['name'] === category);
         },
+        getDisplayLabel(item) {
+            // For checklist extraction, use the actual checklist item name from metadata
+            if (item.name === 'checklist_extraction') {
+                const currentHit = this.hits_data[this.current_hit - 1];
+                if (currentHit && currentHit.metadata && currentHit.metadata.checklist_item) {
+                    return currentHit.metadata.checklist_item;
+                }
+            }
+            // For other edit types, use the original label
+            return item.label;
+        },
         // MODIFIED: This method now resets the new state properties as well.
         refresh_edit() {
             this.set_editor_state(false);
@@ -289,10 +488,14 @@ export default {
             let classList = this.config.edits.map(edit => `txt-${edit.name}`).join(' ');
             $(".annotation-icon").removeClass(classList);
 
-            for (let cat of classList) {
-                $('#source-sentence').removeClass(`select-color-${cat}`);
-                $('#target-sentence').removeClass(`select-color-${cat}`);
+            // Fix: iterate over the actual class names, not characters
+            for (let edit of this.config.edits) {
+                $('#source-sentence').removeClass(`select-color-${edit.name}`);
+                $('#target-sentence').removeClass(`select-color-${edit.name}`);
             }
+
+            // Preserve boundary editing state - don't clear boundary editing classes
+            // The boundary editing classes should only be cleared by cancel_boundary_edit()
 
             $("input[type=radio]").prop("checked", false);           // Clear all radio buttons
             $("input[type=checkbox]").prop("checked", false);        // Clear checkboxes if any
@@ -486,6 +689,33 @@ export default {
             return true; 
         },
     },
+    mounted() {
+        // Set up global functions for remove button functionality in v-html
+        window.removeBoundarySpan = (category, start, end) => {
+            this.remove_selected_boundary(category, start, end);
+        };
+        
+        // Set up global function for regular multi-span remove buttons
+        window.removeSelected = (category, start, end) => {
+            console.log('Global removeSelected called:', { category, start, end });
+            // Call the remove_selected method through the prop functions passed to this component
+            if (this.remove_selected) {
+                console.log('Calling this.remove_selected');
+                this.remove_selected(category, start, end);
+            } else {
+                console.error('this.remove_selected is not available');
+            }
+        };
+    },
+    beforeUnmount() {
+        // Clean up global functions
+        if (window.removeBoundarySpan) {
+            delete window.removeBoundarySpan;
+        }
+        if (window.removeSelected) {
+            delete window.removeSelected;
+        }
+    },
     // MODIFIED: The main save button now also checks if the integrated annotation form is valid.
     computed: {
         add_edit_disabled() {
@@ -533,14 +763,14 @@ export default {
                 <div class="over-hide z-bigger mt2 editor-container">
                     <p class="f3 annotation-label ttu mv1">{{ config.interface_text.annotation_editor.add_edit_header }} <i class="fa-solid fa-plus"></i></p>
                     <div class="row">
-                        <p class="mb2 b tracked-light"><i>{{ config.interface_text.annotation_editor.select_edit_header }}.</i></p>
+                        <p class="mb2 b tracked-light"><i>{{ config.interface_text.annotation_editor.select_edit_header }}</i></p>
                         <div class="tc mb3">
                             <div v-for="item in config.edits" :key="item.id" class="edit-box mr2 dib">
                                 <input @click="show_span_selection" class="checkbox-tools-edit-category checkbox-tools" type="radio" name="edit_cotegory"
                                     :id="`edit_cotegory-${item.name}`" :value="item.name">
                                 <label :class="`txt-${item.name}`" :for="`edit_cotegory-${item.name}`">
                                     <i :class="`fa-solid ${item.icon} fa-1-5x mb1`"></i>
-                                    {{ item.label }}
+                                    {{ getDisplayLabel(item) }}
                                 </label>
                             </div>
                         </div>
@@ -594,14 +824,26 @@ export default {
             </div>
         </div>
 
-        <div v-if="boundary_editing_mode && config.enable && Object.values(config.enable).includes('edit_boundary')" id="boundary_edit_panel">
+        <div v-if="boundary_editing_mode && config.enable && (Object.values(config.enable).includes('edit_boundary') || Object.values(config.enable).includes('edit_boundary_multi'))" id="boundary_edit_panel">
             <div class="over-hide z-bigger mt3 editor-container">
-                <p class="f3 annotation-label ttu mv1">Edit Boundary <i class="fa-solid fa-expand-arrows-alt"></i></p>
+                <p class="f3 annotation-label ttu mv1">
+                    {{ boundary_editing_edit?.multi ? 'Edit Evidences of the extracted checklist item' : 'Edit Boundary' }} 
+                    <i class="fa-solid fa-expand-arrows-alt"></i>
+                </p>
                 <div class="tc mb3">
                 <p class="mb2 b tracked-light">
-                    <i>Select new boundary for {{ boundary_editing_edit?.category }} annotation.</i>
+                    <i>{{ boundary_editing_edit?.multi ? 'Select the evidences for this extracted value' : 'Select new boundary for ' + boundary_editing_edit?.category + ' annotation' }}.</i>
                 </p>
-                <p class="tracked-light lh-paras-2">
+                <div v-if="boundary_editing_edit?.multi">
+                    <p class="tracked-light lh-paras-2 mb2">
+                        <strong>Selected evidences:</strong>
+                    </p>
+                    <div class="tracked-light lh-paras-2" v-html="selected_state.target_span || selected_state.source_span"></div>
+                    <p class="f6 gray mt2" v-if="!(selected_state.target_span || selected_state.source_span)">
+                        <i>Click on text to add spans. Each span will appear with an ✘ to remove it.</i>
+                    </p>
+                </div>
+                <p v-else class="tracked-light lh-paras-2">
                     New selection: <span v-html="selected_state.target_span || selected_state.source_span"></span>
                 </p>
             </div>
@@ -611,7 +853,7 @@ export default {
                 Cancel <i class="fa-solid fa-close"></i>
                 </button>
                 <button @click="save_boundary_edit" class="confirm-button b quality_button bw0 ba ml2 br-pill-ns grow">
-                Save Boundary <i class="fa-solid fa-check"></i>
+                {{ boundary_editing_edit?.multi ? 'Save Boundaries' : 'Save Boundary' }} <i class="fa-solid fa-check"></i>
                 </button>
             </div>
         </div>
@@ -619,10 +861,10 @@ export default {
             <div class="quality-selection w-100" :id="`${item.name}_edit_annotation`" :data-category="item.name">
                 <div id="dropdown-button-container">
                     <div class="over-hide z-bigger mt3 editor-container">
-                        <p class="f3 annotation-label ttu mv1">{{ config.interface_text.annotation_editor.add_edit_header }} <i class="fa-solid fa-pencil"></i></p>
+                        <p class="f3 annotation-label ttu mv1">{{ config.interface_text.annotation_editor.annotating_edit_header }} <i class="fa-solid fa-pencil"></i></p>
                         <div class='single_part' />
-                        <div class="f4 mt0 mb2 tc">
-                            <span :class="`edit-type txt-${item.name} f3`">{{ item.label }}:  </span>
+                        <div class="f4 mt0 mb2 tl">
+                            <span :class="`edit-type txt-${item.name} f4`">{{ getDisplayLabel(item) }} </span>
 
                             <span v-if="item.enable_input" v-html="annotating_edit_span.source"></span>
                             <span v-if="item.enable_input && item.enable_output" :class="`edit-type txt-${item.name} f3`">&nbsp;{{ config.interface_text.annotation_editor.composite_span_unification }}&nbsp;</span>

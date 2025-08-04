@@ -114,6 +114,7 @@
           }
         },
         set_span_indices(indices, type) {
+          console.log('set_span_indices called:', { indices, type, current_state: this.selected_state });
           if (type == "source") {
             this.selected_state.source_idx = indices;
           } else if (type == "target") {
@@ -197,6 +198,17 @@
         toggle_instructions() {
           this.instructions_open = !this.instructions_open;
         },
+        remove_selected(category, start, end) {
+          console.log('Interface.vue remove_selected called:', { category, start, end });
+          // This method will be called by the global removeSelected function
+          // Call the HitBox component's remove_selected method directly
+          if (this.$refs.hitBox && this.$refs.hitBox.remove_selected) {
+            console.log('Calling HitBox remove_selected');
+            this.$refs.hitBox.remove_selected(category, start, end);
+          } else {
+            console.error('HitBox ref or remove_selected method not found');
+          }
+        },
         compile_style() {
           if (!this.config.hasOwnProperty('edits')) { return }
 
@@ -272,10 +284,10 @@
       <div v-bind:class="{ 'selection-adjacent': isAdjacent() }">
         <Instructions v-bind="$data" :config="config" />
         <!-- <CommentBox v-bind="$data" :config="config" /> -->
-        <HitBox v-bind="$data" :config="config" />
+        <HitBox ref="hitBox" v-bind="$data" :config="config" />
       </div>
       <div v-bind:class="{ 'annotation-adjacent': isAdjacent() }">
-        <AnnotationEditor v-bind="$data" :config="config" />
+        <AnnotationEditor v-bind="$data" :config="config" :remove_selected="remove_selected" />
         <AnnotationViewer v-bind="$data" :config="config" />
       </div>
     </main>

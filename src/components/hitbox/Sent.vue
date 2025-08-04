@@ -132,8 +132,12 @@ export default {
 
             let spans = $(`.${category}[data-id=${id}]`)
             let below_spans= $(`.${category}_below[data-id=${id}]`)
-            spans.addClass(`white ${color_code}`)
-            below_spans.addClass(`white ${color_code}`)
+            
+            // Don't add background colors in boundary editing mode - preserve the highlight class
+            if (!this.boundary_editing_mode) {
+                spans.addClass(`white ${color_code}`)
+                below_spans.addClass(`white ${color_code}`)
+            }
             below_spans.removeClass(`txt-${category} txt-${category}-light`)
 
             try {
@@ -166,8 +170,12 @@ export default {
             let spans = $(`.${category}[data-id=${id}]`)
             let below_spans= $(`.${category}_below[data-id=${id}]`)
             below_spans.addClass(color_class)
-            spans.removeClass(`white bg-${category} bg-${category}-light`)
-            below_spans.removeClass(`white bg-${category} bg-${category}-light`)
+            
+            // Don't remove background colors in boundary editing mode - preserve the highlight class
+            if (!this.boundary_editing_mode) {
+                spans.removeClass(`white bg-${category} bg-${category}-light`)
+                below_spans.removeClass(`white bg-${category} bg-${category}-light`)
+            }
 
             try {
                 if (category == 'substitution') {
@@ -306,7 +314,15 @@ export default {
 
             // Case 2: A standard, interactive annotation span.
             else {
-                return `<span @click="click_span" @mouseover="hover_span" @mouseout="un_hover_span" class="${edit['category']} border-${edit['category']}${light} pointer span ${span_class}" data-category="${edit['category']}" data-id="${edit['category']}-${edit['id']}" ${composite_info}>`;
+                // Check if we're in boundary editing mode and this is the span being edited
+                let boundaryClass = '';
+                if (this.boundary_editing_mode && 
+                    this.boundary_editing_edit && 
+                    this.boundary_editing_edit.category === edit['category'] &&
+                    this.boundary_editing_edit.id === edit['id']) {
+                    boundaryClass = ' boundary-editing-highlight';
+                }
+                return `<span @click="click_span" @mouseover="hover_span" @mouseout="un_hover_span" class="${edit['category']} border-${edit['category']}${light} pointer span ${span_class}${boundaryClass}" data-category="${edit['category']}" data-id="${edit['category']}-${edit['id']}" ${composite_info}>`;
             }
         },
         render_sentence(sent, sent_type, span_class, selected_category) {

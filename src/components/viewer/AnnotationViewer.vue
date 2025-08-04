@@ -23,7 +23,10 @@ export default {
         'set_original_boundary',
         'set_boundary_editing_mode',
         'set_boundary_editing_edit',
-        'boundary_editing_mode'
+        'boundary_editing_mode',
+        'set_hit_box_config',
+        'set_span_text',
+        'set_span_indices'
     ],
     data() {
         return {}

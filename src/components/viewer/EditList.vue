@@ -27,7 +27,10 @@ export default {
         'set_boundary_editing_mode',
         'set_boundary_editing_edit',
         'set_original_boundary',
-        'boundary_editing_mode'
+        'boundary_editing_mode',
+        'set_hit_box_config',
+        'set_span_text',
+        'set_span_indices'
     ],
     data() {
         return {
@@ -65,7 +68,14 @@ export default {
             $(".child-question").hide();
             if (this.editor_open) {
                 $(`.quality-selection[data-category=${category}]`).hide(300);
+                $(".icon-default").removeClass("open");
+                $(e.target).removeClass(`txt-${category}`);
+                this.set_annotating_edit_span_category_id(null);
+                this.set_annotating_edit_span(null, 'source');
+                this.set_annotating_edit_span(null, 'target');
+                this.set_annotating_edit_span(null, 'composite');
                 this.refresh_interface_edit();
+                this.set_editor_state(false);
                 return;
             } else {
                 $(`.quality-selection`).hide(300)
@@ -73,7 +83,10 @@ export default {
                 $(e.target).addClass(`txt-${category}`)
                 this.set_editor_state(!this.editor_open)
             }
-            $(`.${category}[data-id=${id}]`).removeClass(`border-${category}-light`).addClass(`white border-${category} bg-${category}`)
+            // Don't add background color if in boundary editing mode
+            if (!this.boundary_editing_mode) {
+                $(`.${category}[data-id=${id}]`).removeClass(`border-${category}-light`).addClass(`white border-${category} bg-${category}`)
+            }
 
             let annotating_span = edit_dict.find(function(entry) {
                 return entry['category'] === category && entry['id'] === real_id;
@@ -128,10 +141,53 @@ export default {
                 } 
 
                 if (annotating_span.hasOwnProperty('output_idx')) {
-                    let span_idx = annotating_span['output_idx'][0]
                     let new_edit_span = ""
-                    new_edit_span += `<span class="pa1 edit-text br-pill-ns txt-${category} border-${category}-all ${category}_below">
-                        &nbsp${target_sentence.substring(span_idx[0], span_idx[1])}&nbsp</span>`
+                    const isChecklistExtraction = category === 'checklist_extraction';
+                    
+                    // Helper function for annotating box - show full text for checklist extraction
+                    const truncateText = (text) => {
+                        // In the annotating box, show full text for better readability
+                        return text;
+                    };
+                    
+                    // Handle checklist extraction with compact evidence display
+                    if (isChecklistExtraction) {
+                        // Show evidences first, then extracted value
+                        new_edit_span += `<div class="mt3 mb3 pa2 tl" style="background-color: #f0f8ff; border-left: 4px solid #87CEEB; border-radius: 4px;">`;
+                        new_edit_span += `<p class="mt0 mb2 f5 b tracked-light">Evidences:</p>`;
+                        new_edit_span += `<div class="f5 lh-copy" style="color: #1e3a8a;">`;
+                        
+                        const spans = annotating_span['output_idx'];
+                        for (let j = 0; j < spans.length; j++) {
+                            let span_idx = spans[j];
+                            const spanText = target_sentence.substring(span_idx[0], span_idx[1]);
+                            const displayText = truncateText(spanText);
+                            
+                            if (j > 0) {
+                                new_edit_span += `, `;
+                            }
+                            new_edit_span += `"${displayText}"`;
+                        }
+                        new_edit_span += `</div></div>`;
+                        
+                        // Add current extracted value below evidences (in light green)
+                        let currentValue = 'No value extracted yet';
+                        if (annotating_span.annotation && annotating_span.annotation.explanation) {
+                            currentValue = annotating_span.annotation.explanation;
+                        }
+                        
+                        new_edit_span += `<div class="mb3 pa2 tl" style="background-color: #f0f8f0; border-left: 4px solid #90EE90; border-radius: 4px;">`;
+                        new_edit_span += `<p class="mt0 mb2 f5 b tracked-light">Current Extracted Value:</p>`;
+                        new_edit_span += `<p class="ma0 f5" style="color: #2d5016;">${currentValue}</p>`;
+                        new_edit_span += `</div>`;
+                    } else {
+                        // Non-checklist extraction - keep original bubble style
+                        let span_idx = annotating_span['output_idx'][0]
+                        const spanText = target_sentence.substring(span_idx[0], span_idx[1]);
+                        const displayText = truncateText(spanText);
+                        new_edit_span += `<span class="pa1 edit-text br-pill-ns txt-${category} border-${category}-all ${category}_below">
+                            &nbsp${displayText}&nbsp</span>`
+                    }
                     this.set_annotating_edit_span(new_edit_span, 'target')
                 }
             }
@@ -220,7 +276,11 @@ export default {
         },
         render_edit_text(edit, i, key, light) {
             const edit_config = this.getEditConfig(key)
-            const edit_label = edit_config.label ? edit_config.label : key
+            // For checklist extraction, use the metadata's checklist_item if available
+            let edit_label = edit_config.label ? edit_config.label : key
+            if (key === 'checklist_extraction' && this.hits_data[this.current_hit - 1]?.metadata?.checklist_item) {
+                edit_label = this.hits_data[this.current_hit - 1].metadata.checklist_item
+            }
 
             let new_html = ''
             new_html += `
@@ -229,17 +289,34 @@ export default {
 
             if (!edit.hasOwnProperty('input_idx') && !edit.hasOwnProperty('output_idx')) { return new_html }
 
+            // Helper function to truncate text for checklist extraction
+            const truncateText = (text, isChecklistExtraction) => {
+                if (isChecklistExtraction && text.length > 20) {
+                    return text.substring(0, 20) + '...';
+                }
+                return text;
+            };
+
+            const isChecklistExtraction = key === 'checklist_extraction';
+
             if (edit_config['type'] == 'multi_span') {
                 if (edit.hasOwnProperty('input_idx')) {
                     let source_spans_for_subs = edit['input_idx']
                     for (let j = 0; j < source_spans_for_subs.length; j++) {
                         let source_span = source_spans_for_subs[j];
                         if (j != 0) {
-                            new_html += `<span class="edit-type txt-${key}${light} f3"> and </span>`;
+                            // For checklist extraction, use comma separator between bubbles
+                            if (isChecklistExtraction) {
+                                new_html += `, `;
+                            } else {
+                                new_html += `<span class="edit-type txt-${key}${light} f3"> and </span>`;
+                            }
                         }
+                        const spanText = this.hits_data[this.current_hit - 1].source.substring(source_span[0], source_span[1]);
+                        const displayText = truncateText(spanText, isChecklistExtraction);
                         new_html += `
                             <span class="pa1 edit-text br-pill-ns txt-${key}${light} border-${key}${light}-all ${key}_below" data-id="${key}-${i}" data-category="${key}">
-                                &nbsp${this.hits_data[this.current_hit - 1].source.substring(source_span[0], source_span[1])}&nbsp</span>`;
+                                &nbsp${displayText}&nbsp</span>`;
                     }
                 }
                 if (edit.hasOwnProperty('input_idx') && edit.hasOwnProperty('output_idx')) {
@@ -250,24 +327,52 @@ export default {
                     for (let j = 0; j < target_spans_for_subs.length; j++) {
                         let target_span = target_spans_for_subs[j];
                         if (j != 0) {
-                            new_html += `<span class="edit-type txt-${key}${light} f3"> and </span>`;
+                            // For checklist extraction, use comma separator between bubbles
+                            if (isChecklistExtraction) {
+                                new_html += `, `;
+                            } else {
+                                new_html += `<span class="edit-type txt-${key}${light} f3"> and </span>`;
+                            }
                         }
+                        const spanText = this.hits_data[this.current_hit - 1].target.substring(target_span[0], target_span[1]);
+                        const displayText = truncateText(spanText, isChecklistExtraction);
                         new_html += `
                             <span class="pa1 edit-text br-pill-ns txt-${key}${light} border-${key}${light}-all ${key}_below" data-id="${key}-${i}" data-category="${key}">
-                                &nbsp${this.hits_data[this.current_hit - 1].target.substring(target_span[0], target_span[1])}&nbsp</span>`;
+                                &nbsp${displayText}&nbsp</span>`;
                     }
                 }
             } else {
-                new_html += `
-                <span class="pa1 edit-text br-pill-ns txt-${key}${light} border-${key}${light}-all ${key}_below" data-id="${key}-${i}" data-category="${key}">`;
                 if (edit.hasOwnProperty('input_idx')) {
                     let in_span = edit['input_idx'][0]
+                    const spanText = this.hits_data[this.current_hit - 1].source.substring(in_span[0], in_span[1]);
+                    const displayText = truncateText(spanText, isChecklistExtraction);
                     new_html += `
-                        &nbsp${this.hits_data[this.current_hit - 1].source.substring(in_span[0], in_span[1])}&nbsp</span>`;
+                    <span class="pa1 edit-text br-pill-ns txt-${key}${light} border-${key}${light}-all ${key}_below" data-id="${key}-${i}" data-category="${key}">
+                        &nbsp${displayText}&nbsp</span>`;
                 } else if (edit.hasOwnProperty('output_idx')) {
-                    let out_span = edit['output_idx'][0]
-                    new_html += `
-                        &nbsp${this.hits_data[this.current_hit - 1].target.substring(out_span[0], out_span[1])}&nbsp</span>`;
+                    // Handle multiple output spans for checklist extraction
+                    if (isChecklistExtraction && edit.hasOwnProperty('output_idx') && edit['output_idx'].length > 1) {
+                        // Multiple spans - each gets its own bubble
+                        for (let j = 0; j < edit['output_idx'].length; j++) {
+                            let spanIdx = edit['output_idx'][j];
+                            const spanText = this.hits_data[this.current_hit - 1].target.substring(spanIdx[0], spanIdx[1]);
+                            const displayText = truncateText(spanText, true);
+                            
+                            if (j > 0) {
+                                new_html += `, `;
+                            }
+                            new_html += `<span class="pa1 edit-text br-pill-ns txt-${key}${light} border-${key}${light}-all ${key}_below" data-id="${key}-${i}" data-category="${key}">
+                                &nbsp${displayText}&nbsp</span>`;
+                        }
+                    } else {
+                        // Single span or non-checklist extraction
+                        let out_span = edit['output_idx'][0]
+                        const spanText = this.hits_data[this.current_hit - 1].target.substring(out_span[0], out_span[1]);
+                        const displayText = truncateText(spanText, isChecklistExtraction);
+                        new_html += `
+                        <span class="pa1 edit-text br-pill-ns txt-${key}${light} border-${key}${light}-all ${key}_below" data-id="${key}-${i}" data-category="${key}">
+                            &nbsp${displayText}&nbsp</span>`;
+                    }
                 }
             }
 
@@ -296,7 +401,11 @@ export default {
                 
                 // Render edit
                 const edit_config = this.getEditConfig(key)
-                const edit_label = edit_config && edit_config.label ? edit_config.label : key
+                // For checklist extraction, use the metadata's checklist_item if available
+                let edit_label = edit_config && edit_config.label ? edit_config.label : key
+                if (key === 'checklist_extraction' && this.hits_data[this.current_hit - 1]?.metadata?.checklist_item) {
+                    edit_label = this.hits_data[this.current_hit - 1].metadata.checklist_item
+                }
                 if (edit_config == null) { continue }
                 if (edit_config['type'] == 'composite') {
                     const composite_icon = this.getEditConfig(key)['icon']
@@ -349,7 +458,7 @@ export default {
                     disable_delete = 'disabled'
                 }
                 let disable_boundary_edit = 'disabled'
-                if (this.config.enable && Object.values(this.config.enable).includes('edit_boundary')) {
+                if (this.config.enable && (Object.values(this.config.enable).includes('edit_boundary') || Object.values(this.config.enable).includes('edit_boundary_multi'))) {
                     disable_boundary_edit = ''
                 }
                 new_html += `
@@ -564,15 +673,52 @@ export default {
             const boundary_key = boundary_type === 'source' ? 'input_idx' : 'output_idx';
             this.set_original_boundary(_.cloneDeep(edit_to_modify[boundary_key]));
             
+            // Check if multi-boundary editing is enabled
+            const is_multi_boundary = this.config.enable && 
+                Object.values(this.config.enable).includes('edit_boundary_multi');
+            
             this.set_boundary_editing_edit({
                 category: category,
                 id: real_id,
-                type: boundary_type
+                type: boundary_type,
+                multi: is_multi_boundary
             });
             this.set_boundary_editing_mode(true);
+            
+            // Clear selection state for clean start in boundary editing
+            console.log('Initializing boundary editing, clearing state for:', boundary_type);
+            this.set_span_text('', boundary_type === 'source' ? 'source' : 'target');
+            this.set_span_indices([], boundary_type === 'source' ? 'source' : 'target');
+            
+            // Set up hit box config for boundary editing
+            this.setup_boundary_hit_box_config(boundary_type, is_multi_boundary);
+            
             // Visual setup
             this.enable_boundary_selection(boundary_type, category);
             this.highlight_current_boundary(edit_to_modify, boundary_type, category);
+        },
+
+        setup_boundary_hit_box_config(boundary_type, is_multi) {
+            let new_hit_box_config = {
+                enable_select_source_sentence: false,
+                enable_select_target_sentence: false,
+                enable_multi_select_source_sentence: false,
+                enable_multi_select_target_sentence: false,
+            };
+
+            if (boundary_type === 'source') {
+                new_hit_box_config.enable_select_source_sentence = true;
+                if (is_multi) {
+                    new_hit_box_config.enable_multi_select_source_sentence = true;
+                }
+            } else if (boundary_type === 'target') {
+                new_hit_box_config.enable_select_target_sentence = true;
+                if (is_multi) {
+                    new_hit_box_config.enable_multi_select_target_sentence = true;
+                }
+            }
+
+            this.set_hit_box_config(new_hit_box_config);
         },
 
         enable_boundary_selection(boundary_type, category) {
@@ -588,15 +734,9 @@ export default {
         },
 
         highlight_current_boundary(edit, boundary_type, category) {
-            const boundary_key = boundary_type === 'source' ? 'input_idx' : 'output_idx';
-            const spans = edit[boundary_key];
-            
-            if (!spans || spans.length === 0) return;
-            
-            // Add special styling to show which boundary is being edited
-            spans.forEach(span => {
-                $(`.${category}[data-id="${category}-${edit.id}"]`).addClass('boundary-editing-highlight');
-            });
+            // The boundary highlighting is now handled by Vue watchers
+            // in TargetSent.vue and SourceSent.vue that trigger HTML regeneration
+            // when boundary_editing_mode or boundary_editing_edit changes
         },
         is_boundary_editable(edit) {
             const edit_config = this.getEditConfig(edit.category);

@@ -49,6 +49,17 @@ export default {
         },
         selected_state() {
             this.process_source_html_with_selected_span(this.selected_state.source_category);
+        },
+        boundary_editing_mode() {
+            // Re-render HTML when entering/exiting boundary editing mode
+            this.process_source_html();
+        },
+        boundary_editing_edit: {
+            handler() {
+                // Re-render HTML when the boundary editing target changes
+                this.process_source_html();
+            },
+            deep: true
         }
     },
     methods: {
@@ -170,7 +181,7 @@ export default {
                     let [start, end] = new_indices[i]
                     new_span_text += `
                     <span class="selected-span-text bg-${selected_category}-light">\xa0
-                        <span @click="remove_selected('${selected_category}', ${start}, ${end})" class="hover-white black br-pill mr1 pointer">✘</span>
+                        <span onclick="removeSelected('${selected_category}', ${start}, ${end})" class="hover-white black br-pill mr1 pointer">✘</span>
                             ${txt.substring(start, end)}\xa0</span>&nbsp&nbsp`
                 }
                 this.set_span_text(new_span_text, 'source')
