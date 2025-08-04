@@ -16,6 +16,9 @@ enable:
   # - edit_boundary
   - edit_boundary_multi
 
+# Box positioning: "fixed" (top of column) or "float" (draggable floating box)
+box_position: float
+
 interface_text:
   typology:
     source_label: "Checklist Item"
