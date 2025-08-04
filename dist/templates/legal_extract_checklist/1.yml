@@ -9,6 +9,9 @@ template_description: "Extract and verify checklist items from legal case summar
 #
 # ========================================================================================
 
+# display:
+#   - side-by-side
+
 enable:
   - edit_boundary
   - edit_boundary_multi
