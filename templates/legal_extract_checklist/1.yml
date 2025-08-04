@@ -31,6 +31,7 @@ edits:
     label: "Checklist Item Extraction"
     color: "#2563eb"
     icon: fa-clipboard-check
+    type: multi_span
     enable_output: true
     annotation:
       - name: explanation
@@ -38,24 +39,6 @@ edits:
         question: "What is the extracted value for this checklist item?"
         options: textarea
         prefilled: true  # This will be pre-filled with model extraction
-      - name: checklist_item
-        label: "Checklist Item Name"
-        question: "Which checklist item is this?"
-        options: text
-        prefilled: true  # This will be pre-filled from metadata
-        readonly: true   # Users shouldn't change this
-      - name: verification
-        label: "Verification Status"
-        question: "Is the extracted value correct?"
-        options:
-          - label: "Correct"
-            value: "correct"
-          - label: "Partially Correct"
-            value: "partial"
-          - label: "Incorrect"
-            value: "incorrect"
-          - label: "Missing Evidence"
-            value: "missing"
 
 # Additional metadata for the task
 task_info:
