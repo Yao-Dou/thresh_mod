@@ -20,6 +20,18 @@ interface_text:
   typology:
     source_label: "Checklist Item"
     target_label: "Case Summary"
+    edit_unit_name: "value"
+    edits_unit_name: "values"
+    span_unit_name: "span"
+    spans_unit_name: "spans"
+  annotation_editor:
+    add_edit_header: "Adding a Value"
+    select_edit_header: "Select the checklist item to extract."
+    select_instructions: "Select the evidence spans from the"
+    selected_label: "Selected"
+    annotating_edit_header: "Annotating a Value"
+  annotation_viewer:
+    header: "Annotated Values"
 
 tutorial_link: # Add your tutorial link here if available
 
