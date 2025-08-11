@@ -1,13 +1,18 @@
 template_name: legal_checklist_extraction
-template_label: Legal Checklist Extraction
-template_description: "Extract and verify checklist items from legal case summaries"
+template_label: Legal Checklist Extraction (Paragraph Level)
+template_description: "Extract and verify checklist items from legal case summaries at paragraph level"
 
 # ========================================================================================
 #
 # Template for extracting checklist items from legal case summaries
-# Each instance represents one checklist item from a case
+# Each instance represents one paragraph from a case with all relevant checklist items
 #
 # ========================================================================================
+
+# Data format configuration: "paragraph" or "item"
+# - "item": Each instance is one checklist item (original format)
+# - "paragraph": Each instance is one paragraph containing multiple checklist items
+data_format: paragraph
 
 display:
   - side-by-side
@@ -35,6 +40,8 @@ interface_text:
     annotating_edit_header: "Annotating a Value"
   annotation_viewer:
     header: "Annotated Values"
+  hit_box:
+    hit_label: "Paragraph"
 
 tutorial_link: # Add your tutorial link here if available
 
