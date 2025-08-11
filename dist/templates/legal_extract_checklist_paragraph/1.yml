@@ -49,11 +49,26 @@ font_size:
   target: 16
 
 edits:
-  # Basic Case Information (Blue)
+  # Main checklist extraction type that matches the data's category
+  - name: checklist_extraction
+    label: "Checklist Item Extraction"
+    color: blue
+    icon: fa-clipboard-check
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What is the extracted value for this checklist item?"
+        options: textarea
+        prefilled: true
+
+  # Individual checklist items for the "Add Value" interface
+  # Basic Case Information (Blue with folder icon)
   - name: filing_date
     label: "Filing Date"
     color: blue
-    icon: fa-calendar
+    icon: fa-folder
     type: multi_span
     enable_output: true
     annotation:
@@ -66,7 +81,7 @@ edits:
   - name: parties
     label: "Parties (describe, no names)"
     color: blue
-    icon: fa-users
+    icon: fa-folder
     type: multi_span
     enable_output: true
     annotation:
@@ -79,7 +94,7 @@ edits:
   - name: class_action
     label: "Class Action or Individual Plaintiffs"
     color: blue
-    icon: fa-people-group
+    icon: fa-folder
     type: multi_span
     enable_output: true
     annotation:
@@ -92,7 +107,7 @@ edits:
   - name: type_of_counsel
     label: "Type of Counsel"
     color: blue
-    icon: fa-briefcase
+    icon: fa-folder
     type: multi_span
     enable_output: true
     annotation:
@@ -102,7 +117,7 @@ edits:
         options: textarea
         prefilled: true
 
-  # Legal Foundation (Green)
+  # Legal Foundation (Green with gavel icon)
   - name: cause_of_action
     label: "Cause of Action"
     color: green
@@ -119,7 +134,7 @@ edits:
   - name: statutory_basis
     label: "Statutory/Constitutional Basis"
     color: green
-    icon: fa-balance-scale
+    icon: fa-gavel
     type: multi_span
     enable_output: true
     annotation:
@@ -132,7 +147,7 @@ edits:
   - name: remedy_sought
     label: "Remedy Sought"
     color: green
-    icon: fa-hand-holding-dollar
+    icon: fa-gavel
     type: multi_span
     enable_output: true
     annotation:
@@ -142,7 +157,7 @@ edits:
         options: textarea
         prefilled: true
 
-  # Judge Information (Purple - using teal as closest)
+  # Judge Information (Teal with user-tie icon)
   - name: judge_name
     label: "First and Last Name of Judge"
     color: teal
@@ -156,11 +171,11 @@ edits:
         options: textarea
         prefilled: true
 
-  # Related Cases (Orange)
+  # Related Cases (Orange with link icon)
   - name: consolidated_cases
     label: "Consolidated Cases"
     color: orange
-    icon: fa-folder-tree
+    icon: fa-link
     type: multi_span
     enable_output: true
     annotation:
@@ -183,7 +198,7 @@ edits:
         options: textarea
         prefilled: true
 
-  # Filings and Proceedings (Red)
+  # Filings and Proceedings (Red with file-lines icon)
   - name: important_filings
     label: "Important Filings"
     color: red
@@ -200,7 +215,7 @@ edits:
   - name: court_rulings
     label: "Court Rulings on Important Filings"
     color: red
-    icon: fa-hammer
+    icon: fa-file-lines
     type: multi_span
     enable_output: true
     annotation:
@@ -213,7 +228,7 @@ edits:
   - name: reported_opinions
     label: "All Reported Opinions"
     color: red
-    icon: fa-book
+    icon: fa-file-lines
     type: multi_span
     enable_output: true
     annotation:
@@ -226,7 +241,7 @@ edits:
   - name: trials
     label: "Trials"
     color: red
-    icon: fa-scale-balanced
+    icon: fa-file-lines
     type: multi_span
     enable_output: true
     annotation:
@@ -239,7 +254,7 @@ edits:
   - name: appeals
     label: "Appeals"
     color: red
-    icon: fa-arrow-up
+    icon: fa-file-lines
     type: multi_span
     enable_output: true
     annotation:
