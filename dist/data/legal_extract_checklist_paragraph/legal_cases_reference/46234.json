@@ -17,7 +17,7 @@
     ],
     "edits": [
       {
-        "category": "checklist_extraction",
+        "category": "filing_date",
         "output_idx": [
           [
             137,
@@ -32,7 +32,7 @@
         "id": 0
       },
       {
-        "category": "checklist_extraction",
+        "category": "cause_of_action",
         "output_idx": [
           [
             268,
@@ -47,7 +47,7 @@
         "id": 1
       },
       {
-        "category": "checklist_extraction",
+        "category": "cause_of_action",
         "output_idx": [
           [
             268,
@@ -62,7 +62,7 @@
         "id": 2
       },
       {
-        "category": "checklist_extraction",
+        "category": "statutory_basis",
         "output_idx": [
           [
             268,
@@ -77,7 +77,7 @@
         "id": 3
       },
       {
-        "category": "checklist_extraction",
+        "category": "statutory_basis",
         "output_idx": [
           [
             268,
@@ -92,7 +92,7 @@
         "id": 4
       },
       {
-        "category": "checklist_extraction",
+        "category": "remedy_sought",
         "output_idx": [
           [
             578,
@@ -107,7 +107,7 @@
         "id": 5
       },
       {
-        "category": "checklist_extraction",
+        "category": "remedy_sought",
         "output_idx": [
           [
             578,
@@ -122,7 +122,7 @@
         "id": 6
       },
       {
-        "category": "checklist_extraction",
+        "category": "remedy_sought",
         "output_idx": [
           [
             578,
@@ -137,7 +137,7 @@
         "id": 7
       },
       {
-        "category": "checklist_extraction",
+        "category": "type_of_counsel",
         "output_idx": [
           [
             419,
@@ -152,7 +152,7 @@
         "id": 8
       },
       {
-        "category": "checklist_extraction",
+        "category": "type_of_counsel",
         "output_idx": [
           [
             459,
@@ -167,7 +167,7 @@
         "id": 9
       },
       {
-        "category": "checklist_extraction",
+        "category": "type_of_counsel",
         "output_idx": [
           [
             511,
@@ -182,7 +182,7 @@
         "id": 10
       },
       {
-        "category": "checklist_extraction",
+        "category": "type_of_counsel",
         "output_idx": [
           [
             564,
@@ -197,7 +197,7 @@
         "id": 11
       },
       {
-        "category": "checklist_extraction",
+        "category": "class_action",
         "output_idx": [
           [
             137,
@@ -219,7 +219,7 @@
         "id": 12
       },
       {
-        "category": "checklist_extraction",
+        "category": "parties",
         "output_idx": [
           [
             137,
@@ -245,7 +245,7 @@
         "id": 13
       },
       {
-        "category": "checklist_extraction",
+        "category": "factual_basis",
         "output_idx": [
           [
             137,
@@ -264,7 +264,7 @@
         "id": 14
       },
       {
-        "category": "checklist_extraction",
+        "category": "factual_basis",
         "output_idx": [
           [
             663,
@@ -283,7 +283,7 @@
         "id": 15
       },
       {
-        "category": "checklist_extraction",
+        "category": "trials",
         "output_idx": [
           [
             137,
@@ -317,7 +317,7 @@
     ],
     "edits": [
       {
-        "category": "checklist_extraction",
+        "category": "remedy_sought",
         "output_idx": [
           [
             1176,
@@ -332,7 +332,7 @@
         "id": 0
       },
       {
-        "category": "checklist_extraction",
+        "category": "decree_dates",
         "output_idx": [
           [
             1376,
@@ -347,7 +347,7 @@
         "id": 1
       },
       {
-        "category": "checklist_extraction",
+        "category": "factual_basis",
         "output_idx": [
           [
             1131,
@@ -377,7 +377,7 @@
         "id": 2
       },
       {
-        "category": "checklist_extraction",
+        "category": "important_filings",
         "output_idx": [
           [
             1131,
@@ -392,7 +392,7 @@
         "id": 3
       },
       {
-        "category": "checklist_extraction",
+        "category": "important_filings",
         "output_idx": [
           [
             1299,
@@ -407,7 +407,7 @@
         "id": 4
       },
       {
-        "category": "checklist_extraction",
+        "category": "trials",
         "output_idx": [
           [
             1131,
@@ -422,7 +422,7 @@
         "id": 5
       },
       {
-        "category": "checklist_extraction",
+        "category": "trials",
         "output_idx": [
           [
             1299,
@@ -437,7 +437,7 @@
         "id": 6
       },
       {
-        "category": "checklist_extraction",
+        "category": "trials",
         "output_idx": [
           [
             1376,
@@ -452,7 +452,7 @@
         "id": 7
       },
       {
-        "category": "checklist_extraction",
+        "category": "trials",
         "output_idx": [
           [
             1559,
@@ -467,7 +467,7 @@
         "id": 8
       },
       {
-        "category": "checklist_extraction",
+        "category": "court_rulings",
         "output_idx": [
           [
             1376,
@@ -501,7 +501,7 @@
     ],
     "edits": [
       {
-        "category": "checklist_extraction",
+        "category": "decree_dates",
         "output_idx": [
           [
             1619,
@@ -516,7 +516,7 @@
         "id": 0
       },
       {
-        "category": "checklist_extraction",
+        "category": "factual_basis",
         "output_idx": [
           [
             1858,
@@ -531,7 +531,7 @@
         "id": 1
       },
       {
-        "category": "checklist_extraction",
+        "category": "trials",
         "output_idx": [
           [
             1619,
@@ -546,7 +546,7 @@
         "id": 2
       },
       {
-        "category": "checklist_extraction",
+        "category": "trials",
         "output_idx": [
           [
             1668,
@@ -561,7 +561,7 @@
         "id": 3
       },
       {
-        "category": "checklist_extraction",
+        "category": "court_rulings",
         "output_idx": [
           [
             1619,
@@ -595,7 +595,7 @@
     ],
     "edits": [
       {
-        "category": "checklist_extraction",
+        "category": "factual_basis",
         "output_idx": [
           [
             2558,
@@ -614,7 +614,7 @@
         "id": 0
       },
       {
-        "category": "checklist_extraction",
+        "category": "important_filings",
         "output_idx": [
           [
             2195,
@@ -629,7 +629,7 @@
         "id": 1
       },
       {
-        "category": "checklist_extraction",
+        "category": "important_filings",
         "output_idx": [
           [
             2391,
@@ -644,7 +644,7 @@
         "id": 2
       },
       {
-        "category": "checklist_extraction",
+        "category": "trials",
         "output_idx": [
           [
             2195,
@@ -659,7 +659,7 @@
         "id": 3
       },
       {
-        "category": "checklist_extraction",
+        "category": "trials",
         "output_idx": [
           [
             2391,
@@ -693,7 +693,7 @@
     ],
     "edits": [
       {
-        "category": "checklist_extraction",
+        "category": "court_enforced",
         "output_idx": [
           [
             2876,
@@ -712,7 +712,7 @@
         "id": 0
       },
       {
-        "category": "checklist_extraction",
+        "category": "decree_dates",
         "output_idx": [
           [
             2971,
@@ -727,7 +727,7 @@
         "id": 1
       },
       {
-        "category": "checklist_extraction",
+        "category": "factual_basis",
         "output_idx": [
           [
             2876,
@@ -746,7 +746,7 @@
         "id": 2
       },
       {
-        "category": "checklist_extraction",
+        "category": "important_filings",
         "output_idx": [
           [
             2876,
@@ -761,7 +761,7 @@
         "id": 3
       },
       {
-        "category": "checklist_extraction",
+        "category": "trials",
         "output_idx": [
           [
             2876,
@@ -776,7 +776,7 @@
         "id": 4
       },
       {
-        "category": "checklist_extraction",
+        "category": "trials",
         "output_idx": [
           [
             2967,
