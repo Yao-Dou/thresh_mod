@@ -1,5 +1,5 @@
 template_name: legal_checklist_extraction
-template_label: Legal Checklist Extraction
+template_label: Legal Checklist Extraction (Item Level)
 template_description: "Extract and verify checklist items from legal case summaries"
 
 # ========================================================================================
@@ -8,6 +8,11 @@ template_description: "Extract and verify checklist items from legal case summar
 # Each instance represents one checklist item from a case
 #
 # ========================================================================================
+
+# Data format configuration: "paragraph" or "item"
+# - "item": Each instance is one checklist item (original format)
+# - "paragraph": Each instance is one paragraph containing multiple checklist items
+data_format: item
 
 display:
   - side-by-side
