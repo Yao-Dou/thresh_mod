@@ -60,7 +60,7 @@ export default {
             Current Checklist Item: <span class="dark-blue">{{ currentChecklistItem }}</span>
         </div>
         <div class="f5 lh-copy">
-            <strong>Definition:</strong> {{ currentDefinition }}
+            <strong>Definition:</strong> {{ currentDefinition || 'Definition not available' }}
         </div>
     </div>
 </template>

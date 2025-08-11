@@ -114,7 +114,6 @@
           }
         },
         set_span_indices(indices, type) {
-          console.log('set_span_indices called:', { indices, type, current_state: this.selected_state });
           if (type == "source") {
             this.selected_state.source_idx = indices;
           } else if (type == "target") {
@@ -199,11 +198,9 @@
           this.instructions_open = !this.instructions_open;
         },
         remove_selected(category, start, end) {
-          console.log('Interface.vue remove_selected called:', { category, start, end });
           // This method will be called by the global removeSelected function
           // Call the HitBox component's remove_selected method directly
           if (this.$refs.hitBox && this.$refs.hitBox.remove_selected) {
-            console.log('Calling HitBox remove_selected');
             this.$refs.hitBox.remove_selected(category, start, end);
           } else {
             console.error('HitBox ref or remove_selected method not found');
@@ -256,6 +253,63 @@
         },
         isAdjacent() {
           return this.config.hasOwnProperty('display') && Object.values(this.config.display).includes('side-by-side')
+        },
+        getCircleClass(n) {
+          let classes = [`circle-${n}`];
+          if (n === this.current_hit) {
+            classes.push('circle-active');
+          }
+          return classes.join(' ');
+        },
+        getChecklistDefinition(item) {
+          // Complete definitions for all checklist items
+          const definitions = {
+            "Filing Date": "The date the case was initially filed with the court",
+            "Cause of Action": "e.g., a statute (e.g., 42 USC 1983) or a case (e.g., Ex Parte Young)",
+            "Statutory or Constitutional Basis for the Case": "A case can either be based on a statute or a provision of the Constitution. For constitutional cases, refer to the specific clause and amendment (e.g., 'the plaintiffs alleged violations of the Fourteenth Amendment's Equal Protection Clause')",
+            "Remedy Sought": "e.g., declaratory judgment, injunctive relief, monetary damages",
+            "Type of Counsel": "Private, legal services, ACLU, etc.",
+            "First and Last name of Judge": "e.g., Judge John Smith",
+            "All Reported Opinions Cited with Shortened Bluebook Citation": "Use shortened Bluebook citation format (e.g., '2020 WL 4218003'). No need to include case name, court, or date unless helpful",
+            "Class Action or Individual Plaintiffs": "If there are class action plaintiffs the summary should say it's a class action; if there are individual plaintiffs it can just describe the plaintiffs",
+            "Related Cases Listed by Their Case Code Number": "Other cases referenced or connected to this case",
+            "How Long Decrees will Last": "Duration or expiration date of court orders",
+            "Date of Settlement": "When the settlement agreement was reached",
+            "How Long Settlement will Last": "Duration or expiration date of settlement terms",
+            "Whether the Settlement is Court-enforced or Not": "If the court retains jurisdiction to enforce the settlement",
+            "Name of the Monitor": "Court-appointed monitor or special master overseeing compliance",
+            "Appeal": "Whether the case was appealed, to which court, and the result",
+            "Who are the Parties": "Use specific terms like 'The city' or 'The parents' rather than general terms like 'The defendant' or 'The plaintiffs'",
+            "Consolidated Cases Noted": "Cases that were combined with this case for joint proceedings",
+            "Dates of All Decrees": "When court orders or decrees were issued",
+            "Factual Basis of Case": "The underlying facts and evidence supporting the legal claims",
+            "Note Important Filings": "Note motions for temporary restraining orders or preliminary injunctions, motions to dismiss, motions for summary judgment, etc.",
+            "Significant Terms of Decrees": "The substance of what the judge orders the defendants to do",
+            "Significant Terms of Settlement": "The substance of what the defendants agree to do",
+            "Monitor Reports": "Summary of monitor's findings on compliance with court orders, including which terms are being complied with",
+            "Trials": "Note if the case went to trial, including trial dates and outcomes",
+            "Court Rulings": "Rulings on motions to dismiss, summary judgment, preliminary injunctions, class certification, and other significant filings",
+            "Disputes Over Settlement Enforcement": "Any subsequent disputes about compliance with settlement terms"
+          };
+          return definitions[item] || 'Definition not available';
+        },
+        downloadFile() {
+          // Implement download functionality
+          if (this.$refs.hitBox && this.$refs.hitBox.file_download) {
+            this.$refs.hitBox.file_download();
+          }
+        },
+        uploadFile(event) {
+          // Implement upload functionality
+          if (this.$refs.hitBox && this.$refs.hitBox.file_upload) {
+            this.$refs.hitBox.file_upload(event);
+          }
+        },
+        submit_crowsource() {
+          // Implement crowdsource submission
+          if (this.$refs.hitBox && this.$refs.hitBox.submit_crowsource) {
+            this.$refs.hitBox.submit_crowsource();
+          }
         }
     },
     updated() {
@@ -280,13 +334,77 @@
     <div v-if="highlight" class="tc f3 b mb3 mt3 adjudication-highlight">
       {{ config.interface_text.adjudication.highlight_label }}
     </div>
-    <main v-bind:class="{ 'adjacent': isAdjacent() }">
-      <div v-bind:class="{ 'selection-adjacent': isAdjacent() }">
+    <main v-if="isAdjacent()" class="side-by-side-layout">
+      <!-- Fixed top section spanning both columns -->
+      <div class="top-section-fixed">
         <Instructions v-bind="$data" :config="config" />
-        <!-- <CommentBox v-bind="$data" :config="config" /> -->
+        
+        <!-- Navigation header from HitBox -->
+        <div class="cf mt1 hit-header">
+          <div class="tc f3 mt1 hit-selector">
+            <button @click="set_hit(Math.max(1, current_hit - 1))" :disabled="current_hit <= 1" class="mid-gray br-100 pa1 bw0 bg-near-white pointer prev-next-btns" :class="{'o-50': current_hit <= 1}">&nbsp;&lt;&nbsp;</button>
+            {{ config.interface_text.hit_box.hit_label }} <span>{{ current_hit }}</span> / <span>{{ total_hits }}&nbsp;</span>
+            <button v-if="!(config.crowdsource && current_hit == total_hits)" @click="set_hit(Math.min(total_hits, current_hit + 1))" :disabled="current_hit >= total_hits" class="mid-gray br-100 pa1 bw0 bg-near-white pointer prev-next-btns" :class="{'o-50': current_hit >= total_hits}">&nbsp;&gt;&nbsp;</button>
+            <button v-else @click="submit_crowsource()" class="ml2 pa1 ph3 br-pill-ns ba bw1 grow pointer crowdsource-submit">Submit</button>
+          </div>
+
+          <div class="hit-instructions">
+            <button v-if="config.instructions && !config.prepend_instructions" @click="toggle_instructions()" class="pa2 ph3 br-pill-ns ba bw1 grow pointer hit-instructions-btn">
+              <span class="f4">{{ config.interface_text.buttons.instructions_label }}</span>
+            </button>
+          </div>
+
+          <div class="mr3 hit-browser">
+            <div class="hit-browser-inner">
+              <span v-for="n in total_hits" v-bind:key="'circle-' + n" v-bind:id="'circle-' + n" v-bind:class="getCircleClass(n)" @click="set_hit(n)" class="circle pointer"><span class="tooltiptext">{{n}}</span></span>
+            </div>
+          </div>
+
+          <div class="fr hit-file-buttons">
+            <div class="mt1 mr1 fr">
+              <input type="button" id="download-btn" @click="downloadFile"/>
+              <label class="file-upload file-download br-100 w2-5 h2-5 pointer" for="download-btn" :class="{'disabled': config.disable && Object.values(config.disable).includes('download')}"><i class="fa fa-arrow-down"></i></label>
+            </div>
+
+            <div class="mt1 mr2 ml2 fr">
+              <input type="file" id="upload-btn" @change="uploadFile"/>
+              <label class="file-upload br-100 w2-5 h2-5 pointer" for="upload-btn" :class="{'disabled': config.disable && Object.values(config.disable).includes('upload')}"><i class="fa fa-arrow-up"></i></label>
+            </div>
+          </div>            
+        </div>
+        
+        <!-- Checklist Item Definition -->
+        <div v-if="hits_data && hits_data[current_hit - 1] && hits_data[current_hit - 1].metadata" class="checklist-definition ba b--black-20 br2 pa3 bg-light-gray">
+          <div class="f4 b mb2">
+            <i class="fa fa-clipboard-check mr2" aria-hidden="true"></i>
+            Current Checklist Item: 
+            <span class="dark-blue">{{ hits_data[current_hit - 1].metadata.checklist_item }}</span>
+          </div>
+          <div class="f5 lh-copy">
+            <strong>Definition:</strong> {{ getChecklistDefinition(hits_data[current_hit - 1].metadata.checklist_item) }}
+          </div>
+        </div>
+      </div>
+      
+      <!-- Two column content below -->
+      <div class="content-columns">
+        <div class="left-column">
+          <HitBox ref="hitBox" v-bind="$data" :config="config" :hide-header="true" />
+        </div>
+        <div class="right-column">
+          <AnnotationEditor v-bind="$data" :config="config" :remove_selected="remove_selected" />
+          <AnnotationViewer v-bind="$data" :config="config" />
+        </div>
+      </div>
+    </main>
+    
+    <!-- Fallback for non-side-by-side layout -->
+    <main v-else class="adjacent">
+      <div class="selection-adjacent">
+        <Instructions v-bind="$data" :config="config" />
         <HitBox ref="hitBox" v-bind="$data" :config="config" />
       </div>
-      <div v-bind:class="{ 'annotation-adjacent': isAdjacent() }">
+      <div class="annotation-adjacent">
         <AnnotationEditor v-bind="$data" :config="config" :remove_selected="remove_selected" />
         <AnnotationViewer v-bind="$data" :config="config" />
       </div>
@@ -303,4 +421,54 @@
   @import 'https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css';
   @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css';
   @import 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css';
+
+  /* Side-by-side layout styles */
+  .side-by-side-layout {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+
+  .top-section-fixed {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: white;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 16px 0;
+    margin-bottom: 16px;
+  }
+
+  .checklist-definition {
+    margin-top: 12px;
+  }
+
+  .content-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 32px;
+    flex: 1;
+    overflow: hidden;
+  }
+
+  .left-column {
+    overflow-y: auto;
+    padding-right: 16px;
+  }
+
+  .right-column {
+    overflow-y: auto;
+    padding-left: 16px;
+  }
+
+  /* Hide scrollbars in columns */
+  .left-column::-webkit-scrollbar, 
+  .right-column::-webkit-scrollbar {
+    display: none;
+  }
+
+  .left-column, .right-column {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+  }
 </style>

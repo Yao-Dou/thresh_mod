@@ -36,7 +36,8 @@ export default {
         'hit_box_config',
         'toggle_instructions',
         'boundary_editing_mode',
-        'boundary_editing_edit'
+        'boundary_editing_edit',
+        'hideHeader'
     ],
     data() {
         return {
@@ -147,7 +148,6 @@ export default {
             this.setup_hit_box();
         },
         remove_selected(category, start, end) {
-            console.log('HitBox remove_selected called:', { category, start, end });
             // Essentially this just removes the span from the selected_state
             // span list and re-renders. I can use the re-rendering code already
             // written
@@ -164,7 +164,6 @@ export default {
                 isTargetSpan = this.selected_state.target_idx.some(span => span[0] === start && span[1] === end);
             }
             
-            console.log('Span type detection:', { isSourceSpan, isTargetSpan });
 
             if (isSourceSpan) {
                 let txt = this.hits_data[this.current_hit - 1].source
@@ -305,7 +304,8 @@ export default {
 
 <template>
     <section id="hit">
-        <div class="cf mt1 hit-header">
+        <!-- Only show header and checklist definition if not hidden -->
+        <div v-if="!hideHeader" class="cf mt1 hit-header">
             <div class="tc f3 mt1 hit-selector">
                 <button @click="go_to_hit(current_hit - 1)" class="mid-gray br-100 pa1 bw0 bg-near-white pointer prev-next-btns">&nbsp;&lt;&nbsp;</button>
                 {{ config.interface_text.hit_box.hit_label }} <span>{{ current_hit }}</span> / <span>{{ total_hits }}&nbsp;</span>
@@ -338,11 +338,11 @@ export default {
             </div>            
         </div>
         
-        <!-- Checklist Item Definition -->
-        <ChecklistDefinition :hits_data="hits_data" :current_hit="current_hit" :config="config" />
+        <!-- Checklist Item Definition - only show if not hidden -->
+        <ChecklistDefinition v-if="!hideHeader" :hits_data="hits_data" :current_hit="current_hit" :config="config" />
         
         <div>
-            <div class="ba b--black-80 br2 pa2">
+            <div class="ba b--black-80 br2 pa2 mb4">
                 <div class="fr">
                     <i @click="restart_hit" class="fa-solid fa-arrows-rotate fa-lg pointer mr2"></i>
                     <i @click="bookmark_hit" class="bookmark fa-regular fa-bookmark fa-lg pointer ml1" :class="get_bookmark_class()"></i>

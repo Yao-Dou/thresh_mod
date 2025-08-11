@@ -9,12 +9,15 @@ template_description: "Extract and verify checklist items from legal case summar
 #
 # ========================================================================================
 
-# display:
-#   - side-by-side
+display:
+  - side-by-side
 
 enable:
   # - edit_boundary
   - edit_boundary_multi
+
+# Box positioning: "fixed" (top of column) or "float" (draggable floating box)
+box_position: float
 
 interface_text:
   typology:

@@ -67,9 +67,32 @@ export default {
 
             $(".child-question").hide();
             if (this.editor_open) {
+                // Get the edit to check annotation status
+                const edit = edit_dict.find(function(entry) {
+                    return entry['category'] === category && entry['id'] === real_id;
+                });
+                
                 $(`.quality-selection[data-category=${category}]`).hide(300);
                 $(".icon-default").removeClass("open");
                 $(e.target).removeClass(`txt-${category}`);
+                
+                // Reset background colors when closing
+                $(`.${category}[data-id=${id}]`).removeClass(`white bg-${category} bg-${category}-light`);
+                $(`.${category}_below[data-id=${id}]`).removeClass(`white bg-${category} bg-${category}-light`);
+                
+                // Remove highlight from annotation container
+                $(`.edit-container[data-edit-id='${id}']`).css('background-color', '');
+                
+                // Re-add proper border and text color based on annotation status
+                const hasAnnotation = edit && edit.annotation && edit.annotation != null;
+                if (hasAnnotation) {
+                    $(`.${category}[data-id=${id}]`).addClass(`border-${category}`);
+                    $(`.${category}_below[data-id=${id}]`).addClass(`txt-${category}`);
+                } else {
+                    $(`.${category}[data-id=${id}]`).addClass(`border-${category}-light`);
+                    $(`.${category}_below[data-id=${id}]`).addClass(`txt-${category}-light`);
+                }
+                
                 this.set_annotating_edit_span_category_id(null);
                 this.set_annotating_edit_span(null, 'source');
                 this.set_annotating_edit_span(null, 'target');
@@ -79,7 +102,26 @@ export default {
                 return;
             } else {
                 $(`.quality-selection`).hide(300)
-                $(`.quality-selection[data-category=${category}]`).slideDown(300);
+                
+                const qualitySelection = $(`.quality-selection[data-category=${category}]`);
+                
+                // Check box_position configuration
+                if (this.config.box_position === 'float') {
+                    // Float mode - position at top right with draggable
+                    this.positionFloatingBox(qualitySelection);
+                    this.makeBoxDraggable(qualitySelection);
+                } else {
+                    // Fixed mode - original behavior at top of column
+                    qualitySelection.css({
+                        'position': 'relative',
+                        'top': 'auto',
+                        'right': 'auto',
+                        'left': 'auto',
+                        'width': '100%'
+                    });
+                }
+                
+                qualitySelection.slideDown(300);
                 $(e.target).addClass(`txt-${category}`)
                 this.set_editor_state(!this.editor_open)
             }
@@ -252,8 +294,11 @@ export default {
                     }
                 } else if (edit_ann_type['options'] == 'textarea' || edit_ann_type['options'] == 'textbox') {
                     if (ann[ann_type_name] != null) {
-                        let ann_color = 'green'
-                        ann_html += `<span class="${ann_color} br-pills ba bw1 pa1 mr2">${ann_type_label}: ${ann[ann_type_name]}</span>`;
+                        // Style similar to evidences but with green colors
+                        ann_html += `<div class="mt2 mb2">`;
+                        ann_html += `<div class="f6 b mb1" style="color: #166534;">Extracted Value:</div>`;
+                        ann_html += `<div class="f5 lh-copy pl2" style="color: #166534; border-left: 3px solid #22c55e;">${ann[ann_type_name]}</div>`;
+                        ann_html += `</div>`;
                     }
                 } else {
                     // custom edit types
@@ -285,60 +330,66 @@ export default {
             let new_html = ''
             new_html += `
                 <span data-id="${key}-${i}" data-category="${key}" class="default_cursor" @mouseover="hover_span" @mouseout="un_hover_span">
-                    <span class="edit-type txt-${key}${light} f3">${edit_label} </span>`;
+                    <span class="edit-type txt-${key}${light} f5">${edit_label}</span>`;
 
             if (!edit.hasOwnProperty('input_idx') && !edit.hasOwnProperty('output_idx')) { return new_html }
 
-            // Helper function to truncate text for checklist extraction
+            // Helper function - no truncation for better readability
             const truncateText = (text, isChecklistExtraction) => {
-                if (isChecklistExtraction && text.length > 20) {
-                    return text.substring(0, 20) + '...';
-                }
+                // Show full text for all cases
                 return text;
             };
 
             const isChecklistExtraction = key === 'checklist_extraction';
 
             if (edit_config['type'] == 'multi_span') {
-                if (edit.hasOwnProperty('input_idx')) {
-                    let source_spans_for_subs = edit['input_idx']
-                    for (let j = 0; j < source_spans_for_subs.length; j++) {
-                        let source_span = source_spans_for_subs[j];
-                        if (j != 0) {
-                            // For checklist extraction, use comma separator between bubbles
-                            if (isChecklistExtraction) {
-                                new_html += `, `;
-                            } else {
-                                new_html += `<span class="edit-type txt-${key}${light} f3"> and </span>`;
-                            }
-                        }
-                        const spanText = this.hits_data[this.current_hit - 1].source.substring(source_span[0], source_span[1]);
-                        const displayText = truncateText(spanText, isChecklistExtraction);
-                        new_html += `
-                            <span class="pa1 edit-text br-pill-ns txt-${key}${light} border-${key}${light}-all ${key}_below" data-id="${key}-${i}" data-category="${key}">
-                                &nbsp${displayText}&nbsp</span>`;
-                    }
-                }
-                if (edit.hasOwnProperty('input_idx') && edit.hasOwnProperty('output_idx')) {
-                    new_html += `<span class="edit-type txt-${key}${light} f3"> with </span>`;
-                }
-                if (edit.hasOwnProperty('output_idx')) {
+                // Handle checklist extraction with clean design
+                if (isChecklistExtraction && edit.hasOwnProperty('output_idx')) {
+                    new_html += `<div class="mt2 mb2">`;
+                    new_html += `<div class="f6 b mb1" style="color: #1e3a8a;">Evidences:</div>`;
+                    
+                    // Show all evidence spans without bubbles
                     let target_spans_for_subs = edit['output_idx']
                     for (let j = 0; j < target_spans_for_subs.length; j++) {
                         let target_span = target_spans_for_subs[j];
-                        if (j != 0) {
-                            // For checklist extraction, use comma separator between bubbles
-                            if (isChecklistExtraction) {
-                                new_html += `, `;
-                            } else {
+                        const spanText = this.hits_data[this.current_hit - 1].target.substring(target_span[0], target_span[1]);
+                        const displayText = truncateText(spanText, true);
+                        
+                        new_html += `<div class="f5 lh-copy mb1 pl2" style="color: #374151; border-left: 3px solid #1e3a8a;">${displayText}</div>`;
+                    }
+                    new_html += `</div>`;
+                } else {
+                    // Non-checklist extraction - keep original bubble style
+                    if (edit.hasOwnProperty('input_idx')) {
+                        let source_spans_for_subs = edit['input_idx']
+                        for (let j = 0; j < source_spans_for_subs.length; j++) {
+                            let source_span = source_spans_for_subs[j];
+                            if (j != 0) {
                                 new_html += `<span class="edit-type txt-${key}${light} f3"> and </span>`;
                             }
+                            const spanText = this.hits_data[this.current_hit - 1].source.substring(source_span[0], source_span[1]);
+                            const displayText = truncateText(spanText, isChecklistExtraction);
+                            new_html += `
+                                <span class="pa1 edit-text br-pill-ns txt-${key}${light} border-${key}${light}-all ${key}_below" data-id="${key}-${i}" data-category="${key}">
+                                    &nbsp${displayText}&nbsp</span>`;
                         }
-                        const spanText = this.hits_data[this.current_hit - 1].target.substring(target_span[0], target_span[1]);
-                        const displayText = truncateText(spanText, isChecklistExtraction);
-                        new_html += `
-                            <span class="pa1 edit-text br-pill-ns txt-${key}${light} border-${key}${light}-all ${key}_below" data-id="${key}-${i}" data-category="${key}">
-                                &nbsp${displayText}&nbsp</span>`;
+                    }
+                    if (edit.hasOwnProperty('input_idx') && edit.hasOwnProperty('output_idx')) {
+                        new_html += `<span class="edit-type txt-${key}${light} f3"> with </span>`;
+                    }
+                    if (edit.hasOwnProperty('output_idx')) {
+                        let target_spans_for_subs = edit['output_idx']
+                        for (let j = 0; j < target_spans_for_subs.length; j++) {
+                            let target_span = target_spans_for_subs[j];
+                            if (j != 0) {
+                                new_html += `<span class="edit-type txt-${key}${light} f3"> and </span>`;
+                            }
+                            const spanText = this.hits_data[this.current_hit - 1].target.substring(target_span[0], target_span[1]);
+                            const displayText = truncateText(spanText, isChecklistExtraction);
+                            new_html += `
+                                <span class="pa1 edit-text br-pill-ns txt-${key}${light} border-${key}${light}-all ${key}_below" data-id="${key}-${i}" data-category="${key}">
+                                    &nbsp${displayText}&nbsp</span>`;
+                        }
                     }
                 }
             } else {
@@ -350,22 +401,22 @@ export default {
                     <span class="pa1 edit-text br-pill-ns txt-${key}${light} border-${key}${light}-all ${key}_below" data-id="${key}-${i}" data-category="${key}">
                         &nbsp${displayText}&nbsp</span>`;
                 } else if (edit.hasOwnProperty('output_idx')) {
-                    // Handle multiple output spans for checklist extraction
-                    if (isChecklistExtraction && edit.hasOwnProperty('output_idx') && edit['output_idx'].length > 1) {
-                        // Multiple spans - each gets its own bubble
+                    // Handle checklist extraction with clean design
+                    if (isChecklistExtraction) {
+                        new_html += `<div class="mt2 mb2">`;
+                        new_html += `<div class="f6 b mb1" style="color: #1e3a8a;">Evidences:</div>`;
+                        
+                        // Show all evidence spans without bubbles
                         for (let j = 0; j < edit['output_idx'].length; j++) {
                             let spanIdx = edit['output_idx'][j];
                             const spanText = this.hits_data[this.current_hit - 1].target.substring(spanIdx[0], spanIdx[1]);
                             const displayText = truncateText(spanText, true);
                             
-                            if (j > 0) {
-                                new_html += `, `;
-                            }
-                            new_html += `<span class="pa1 edit-text br-pill-ns txt-${key}${light} border-${key}${light}-all ${key}_below" data-id="${key}-${i}" data-category="${key}">
-                                &nbsp${displayText}&nbsp</span>`;
+                            new_html += `<div class="f5 lh-copy mb1 pl2" style="color: #374151; border-left: 3px solid #1e3a8a;">${displayText}</div>`;
                         }
+                        new_html += `</div>`;
                     } else {
-                        // Single span or non-checklist extraction
+                        // Non-checklist extraction - keep original bubble style
                         let out_span = edit['output_idx'][0]
                         const spanText = this.hits_data[this.current_hit - 1].target.substring(out_span[0], out_span[1]);
                         const displayText = truncateText(spanText, isChecklistExtraction);
@@ -396,8 +447,8 @@ export default {
                 let key = edit['category'];
                 let light = !this.hasAnnotation(edit) ? "-light" : ""
                 new_html += `
-                    <div class='cf'>
-                        <div class="fl w-80 edit">`;
+                    <div class='cf ba b--black-10 br2 pa3 mb3 edit-container' data-edit-id='${key}-${i}'>
+                        <div class="fl w-80 edit" style="margin-bottom: 0 !important;">`;
                 
                 // Render edit
                 const edit_config = this.getEditConfig(key)
@@ -411,7 +462,7 @@ export default {
                     const composite_icon = this.getEditConfig(key)['icon']
                     new_html += `
                         <span data-id="${key}-${i}" data-category="${key}" class="default_cursor" @mouseover="hover_span" @mouseout="un_hover_span">
-                            <span class="edit-type txt-${key}${light} f3">${edit_label} </span>
+                            <span class="edit-type txt-${key}${light} f5">${edit_label}</span>
                             <span class="pa1 edit-text br-pill-ns txt-${key}${light} border-${key}${light}-all ${key}_below" data-id="${key}-${i}" data-category="${key}">
                                 &nbsp<i class="fa-solid ${composite_icon}"></i>&nbsp</span>
                                 <span class="edit-type txt-${key}${light} f3"> (</span>`;
@@ -431,10 +482,6 @@ export default {
                 } else {
                     new_html += this.render_edit_text(edit, i, key, light)
                 }
-                
-                if (!this.config.disable || !Object.values(this.config.disable).includes('annotation')) { 
-                    new_html += ` : `; 
-                }
 
                 // Render annotation
                 if (!this.hasAnnotation(edit)) {
@@ -446,7 +493,7 @@ export default {
                 } else {
                     const edit_config = this.getEditConfig(key)
                     let ann_html = this.getAnnotationHtml(edit_config['annotation'], edit['annotation'])
-                    new_html += `<span class="f4 i">${ann_html}</span>`;
+                    new_html += `<span class="f5">${ann_html}</span>`;
                 }
 
                 let disabled = ''
@@ -648,6 +695,7 @@ export default {
         edit_boundary(e) {
             const real_id = parseInt(e.target.dataset.id.split("-")[1]);
             const category = e.target.dataset.category;
+            const id = e.target.dataset.id;
             
             // Find the edit and store original boundary
             const edit_to_modify = this.hits_data[this.current_hit - 1].edits.find(
@@ -686,7 +734,6 @@ export default {
             this.set_boundary_editing_mode(true);
             
             // Clear selection state for clean start in boundary editing
-            console.log('Initializing boundary editing, clearing state for:', boundary_type);
             this.set_span_text('', boundary_type === 'source' ? 'source' : 'target');
             this.set_span_indices([], boundary_type === 'source' ? 'source' : 'target');
             
@@ -696,6 +743,29 @@ export default {
             // Visual setup
             this.enable_boundary_selection(boundary_type, category);
             this.highlight_current_boundary(edit_to_modify, boundary_type, category);
+            
+            // Position the boundary edit panel based on configuration
+            this.$nextTick(() => {
+                const boundaryPanel = $('#boundary_edit_panel');
+                
+                // Check box_position configuration
+                if (this.config.box_position === 'float') {
+                    // Float mode - position at top right with draggable
+                    this.positionFloatingBox(boundaryPanel);
+                    this.makeBoxDraggable(boundaryPanel);
+                } else {
+                    // Fixed mode - original behavior at top of column
+                    boundaryPanel.css({
+                        'position': 'relative',
+                        'top': 'auto',
+                        'right': 'auto',
+                        'left': 'auto',
+                        'width': '100%'
+                    });
+                }
+                
+                boundaryPanel.slideDown(300);
+            });
         },
 
         setup_boundary_hit_box_config(boundary_type, is_multi) {
@@ -740,16 +810,216 @@ export default {
         },
         is_boundary_editable(edit) {
             const edit_config = this.getEditConfig(edit.category);
-            console.log(edit_config)
             // Only allow boundary editing for single_span and multi_span types
             // Composite edits are more complex and would need special handling
             return edit_config && 
                 edit_config.type !== 'composite' && 
                 (edit_config.enable_input || edit_config.enable_output);
         },
-        // TODO: Implement these via referencing using jquery
-        hover_span() {},
-        un_hover_span() {}
+        positionEditBox(editBox, editContainer) {
+            // Make the edit box absolutely positioned
+            editBox.css({
+                'position': 'absolute',
+                'width': editContainer.outerWidth() + 'px',
+                'z-index': '1000'
+            });
+            
+            // Get the position of the edit container
+            const containerOffset = editContainer.offset();
+            const containerTop = containerOffset.top;
+            
+            // Position the edit box above the container
+            const editBoxHeight = editBox.outerHeight() || 300; // Estimate height if not visible
+            const spacing = 10; // Space between edit box and container
+            
+            // Calculate position relative to document
+            const newTop = containerTop - editBoxHeight - spacing;
+            
+            // Check if it would go above viewport
+            const scrollTop = $(window).scrollTop();
+            if (newTop < scrollTop + 50) { // 50px buffer from top
+                // If it would go above viewport, position it below instead
+                editBox.css({
+                    'top': (containerTop + editContainer.outerHeight() + spacing) + 'px',
+                    'left': containerOffset.left + 'px'
+                });
+            } else {
+                // Position above
+                editBox.css({
+                    'top': newTop + 'px',
+                    'left': containerOffset.left + 'px'
+                });
+            }
+        },
+        positionFloatingBox(box) {
+            // Calculate responsive width based on viewport
+            const viewportWidth = $(window).width();
+            let boxWidth;
+            
+            if (viewportWidth < 768) {
+                // Mobile: 90% of viewport
+                boxWidth = '90vw';
+            } else if (viewportWidth < 1024) {
+                // Tablet: 60% of viewport
+                boxWidth = '60vw';
+            } else if (viewportWidth < 1440) {
+                // Small laptop: 50% of viewport
+                boxWidth = '50vw';
+            } else {
+                // Large laptop/desktop: 40% of viewport with min-width
+                boxWidth = '40vw';
+            }
+            
+            // Position the box at top right corner
+            box.css({
+                'position': 'fixed',
+                'top': '80px', // Not too corner
+                'right': '20px',
+                'width': boxWidth,
+                'min-width': '400px',
+                'max-width': '800px',
+                'z-index': '1000',
+                'cursor': 'move'
+            });
+        },
+        makeBoxDraggable(box) {
+            let isDragging = false;
+            let startX, startY, initialX, initialY;
+            
+            // Add drag handle if not exists
+            if (!box.find('.drag-handle').length) {
+                box.prepend('<div class="drag-handle" style="height: 30px; background: #e5e7eb; margin: -10px -10px 10px -10px; border-radius: 4px 4px 0 0; cursor: move; display: flex; align-items: center; padding: 0 10px;"><span style="font-size: 12px; color: #6b7280;">Drag to move</span></div>');
+            }
+            
+            const dragHandle = box.find('.drag-handle');
+            
+            dragHandle.on('mousedown', function(e) {
+                isDragging = true;
+                startX = e.clientX;
+                startY = e.clientY;
+                
+                const boxPosition = box.position();
+                initialX = boxPosition.left;
+                initialY = boxPosition.top;
+                
+                // Prevent text selection while dragging
+                e.preventDefault();
+                
+                $(document).on('mousemove.drag', function(e) {
+                    if (!isDragging) return;
+                    
+                    const deltaX = e.clientX - startX;
+                    const deltaY = e.clientY - startY;
+                    
+                    const newLeft = initialX + deltaX;
+                    const newTop = initialY + deltaY;
+                    
+                    // Keep box within viewport
+                    const maxLeft = $(window).width() - box.outerWidth();
+                    const maxTop = $(window).height() - box.outerHeight();
+                    
+                    box.css({
+                        'left': Math.max(0, Math.min(newLeft, maxLeft)) + 'px',
+                        'top': Math.max(0, Math.min(newTop, maxTop)) + 'px',
+                        'right': 'auto'
+                    });
+                });
+                
+                $(document).on('mouseup.drag', function() {
+                    isDragging = false;
+                    $(document).off('mousemove.drag');
+                    $(document).off('mouseup.drag');
+                });
+            });
+        },
+        hover_span(e) {
+            // Handle bidirectional hover - highlight document spans when hovering annotation list
+            if (this.boundary_editing_mode) {
+                return;
+            }
+            
+            // Handle both Vue events and jQuery delegated events
+            const target = e.currentTarget || e.target;
+            const category = target.dataset ? target.dataset.category : $(target).data('category');
+            const id = target.dataset ? target.dataset.id : $(target).data('id');
+            
+            if (!category || !id) return;
+            
+            // Find all matching spans in the document
+            let spans = $(`.${category}[data-id='${id}']`);
+            let below_spans = $(`.${category}_below[data-id='${id}']`);
+            
+            // Determine color based on whether it has annotations
+            let color_code, color_class;
+            const real_id = id.split("-")[1];
+            const edit = this.hits_data[this.current_hit - 1].edits.find(
+                e => e.category === category && e.id === parseInt(real_id)
+            );
+            
+            if (edit && !this.hasAnnotation(edit)) {
+                color_code = `bg-${category}-light`;
+                color_class = "rgba(173, 197, 250, 1.0)";
+            } else {
+                color_code = `bg-${category}`;
+                color_class = "rgba(33, 134, 235, 1.0)";
+            }
+            
+            // Add highlight to document spans
+            spans.addClass(`white ${color_code}`);
+            below_spans.addClass(`white ${color_code}`);
+            below_spans.removeClass(`txt-${category} txt-${category}-light`);
+            
+            // Update lines color if applicable
+            try {
+                if (category === 'substitution' && this.lines[category] && this.lines[category][real_id]) {
+                    this.lines[category][real_id].color = color_class;
+                }
+            } catch (e) { /* Handle error silently */ }
+        },
+        un_hover_span(e) {
+            // Handle bidirectional hover - remove highlight from document spans
+            if (this.boundary_editing_mode) {
+                return;
+            }
+            
+            // Handle both Vue events and jQuery delegated events
+            const target = e.currentTarget || e.target;
+            const category = target.dataset ? target.dataset.category : $(target).data('category');
+            const id = target.dataset ? target.dataset.id : $(target).data('id');
+            
+            if (!category || !id) return;
+            
+            // Find all matching spans in the document
+            let spans = $(`.${category}[data-id='${id}']`);
+            let below_spans = $(`.${category}_below[data-id='${id}']`);
+            
+            // Determine color based on whether it has annotations
+            let color_code, color_class;
+            const real_id = id.split("-")[1];
+            const edit = this.hits_data[this.current_hit - 1].edits.find(
+                e => e.category === category && e.id === parseInt(real_id)
+            );
+            
+            if (edit && !this.hasAnnotation(edit)) {
+                color_code = "rgba(173, 197, 250, 0.4)";
+                color_class = `txt-${category}-light`;
+            } else {
+                color_code = "rgba(33, 134, 235, 0.46)";
+                color_class = `txt-${category}`;
+            }
+            
+            // Remove highlight from document spans
+            below_spans.addClass(color_class);
+            spans.removeClass(`white bg-${category} bg-${category}-light`);
+            below_spans.removeClass(`white bg-${category} bg-${category}-light`);
+            
+            // Update lines color if applicable
+            try {
+                if (category === 'substitution' && this.lines[category] && this.lines[category][real_id]) {
+                    this.lines[category][real_id].color = color_code;
+                }
+            } catch (e) { /* Handle error silently */ }
+        }
     },
     computed: {
         get_edits_html() {
@@ -764,6 +1034,23 @@ export default {
                 }
             }
         }
+    },
+    mounted() {
+        // Set up event delegation for hover events on dynamically created elements
+        const self = this;
+        
+        // Use event delegation on parent element that persists
+        $(document).on('mouseenter', '#edits_html [data-category][data-id]', function(e) {
+            // Stop event propagation to prevent multiple triggers
+            e.stopPropagation();
+            self.hover_span(e);
+        });
+        
+        $(document).on('mouseleave', '#edits_html [data-category][data-id]', function(e) {
+            // Stop event propagation to prevent multiple triggers
+            e.stopPropagation();
+            self.un_hover_span(e);
+        });
     },
     created() {
         $(window).on("resize", this.reposition_lines);

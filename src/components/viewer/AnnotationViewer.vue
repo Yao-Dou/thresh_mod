@@ -37,10 +37,112 @@ export default {
                 $('#add_an_edit').slideUp(300);
                 $(".add_button .icon-default").removeClass("open")
             } else {
-                $('#add_an_edit').slideDown(300);
+                const addEditBox = $('#add_an_edit');
+                
+                // Check box_position configuration
+                if (this.config.box_position === 'float') {
+                    // Float mode - position at top right with draggable
+                    this.positionFloatingBox(addEditBox);
+                    this.makeBoxDraggable(addEditBox);
+                } else {
+                    // Fixed mode - original behavior at top of column
+                    addEditBox.css({
+                        'position': 'relative',
+                        'top': 'auto',
+                        'right': 'auto',
+                        'left': 'auto',
+                        'width': '100%'
+                    });
+                }
+                
+                addEditBox.slideDown(300);
                 $(".add_button .icon-default").addClass("open")
             }
             this.set_editor_state(!this.editor_open)
+        },
+        positionFloatingBox(box) {
+            // Calculate responsive width based on viewport
+            const viewportWidth = $(window).width();
+            let boxWidth;
+            
+            if (viewportWidth < 768) {
+                // Mobile: 90% of viewport
+                boxWidth = '90vw';
+            } else if (viewportWidth < 1024) {
+                // Tablet: 60% of viewport
+                boxWidth = '60vw';
+            } else if (viewportWidth < 1440) {
+                // Small laptop: 50% of viewport
+                boxWidth = '50vw';
+            } else {
+                // Large laptop/desktop: 40% of viewport with min-width
+                boxWidth = '40vw';
+            }
+            
+            // Position the box at top right corner
+            box.css({
+                'position': 'fixed',
+                'top': '80px', // Not too corner
+                'right': '20px',
+                'width': boxWidth,
+                'min-width': '400px',
+                'max-width': '800px',
+                'z-index': '1000',
+                'cursor': 'move'
+            });
+        },
+        makeBoxDraggable(box) {
+            let isDragging = false;
+            let startX, startY, initialX, initialY;
+            
+            // Add drag handle if not exists
+            if (!box.find('.drag-handle').length) {
+                box.prepend('<div class="drag-handle" style="height: 30px; background: #e5e7eb; margin: -10px -10px 10px -10px; border-radius: 4px 4px 0 0; cursor: move; display: flex; align-items: center; padding: 0 10px;"><span style="font-size: 12px; color: #6b7280;">Drag to move</span></div>');
+            }
+            
+            const dragHandle = box.find('.drag-handle');
+            
+            // Remove previous event handlers to avoid duplicates
+            dragHandle.off('mousedown');
+            
+            dragHandle.on('mousedown', function(e) {
+                isDragging = true;
+                startX = e.clientX;
+                startY = e.clientY;
+                
+                const boxPosition = box.position();
+                initialX = boxPosition.left;
+                initialY = boxPosition.top;
+                
+                // Prevent text selection while dragging
+                e.preventDefault();
+                
+                $(document).on('mousemove.drag', function(e) {
+                    if (!isDragging) return;
+                    
+                    const deltaX = e.clientX - startX;
+                    const deltaY = e.clientY - startY;
+                    
+                    const newLeft = initialX + deltaX;
+                    const newTop = initialY + deltaY;
+                    
+                    // Keep box within viewport
+                    const maxLeft = $(window).width() - box.outerWidth();
+                    const maxTop = $(window).height() - box.outerHeight();
+                    
+                    box.css({
+                        'left': Math.max(0, Math.min(newLeft, maxLeft)) + 'px',
+                        'top': Math.max(0, Math.min(newTop, maxTop)) + 'px',
+                        'right': 'auto'
+                    });
+                });
+                
+                $(document).on('mouseup.drag', function() {
+                    isDragging = false;
+                    $(document).off('mousemove.drag');
+                    $(document).off('mouseup.drag');
+                });
+            });
         },
     },
     computed: {

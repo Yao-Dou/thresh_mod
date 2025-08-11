@@ -139,12 +139,15 @@ export default {
                 below_spans.addClass(`white ${color_code}`)
             }
             below_spans.removeClass(`txt-${category} txt-${category}-light`)
+            
+            // Also highlight the annotation container
+            $(`.edit-container[data-edit-id='${id}']`).css('background-color', '#e0f2fe')
 
             try {
                 if (category == 'substitution') {
                     this.lines[category][real_id].color = color_class
                 }
-            } catch (e) { console.log(e) }
+            } catch (e) { /* Handle error silently */ }
         },
         un_hover_span(e) {
             if (this.boundary_editing_mode) {
@@ -176,12 +179,15 @@ export default {
                 spans.removeClass(`white bg-${category} bg-${category}-light`)
                 below_spans.removeClass(`white bg-${category} bg-${category}-light`)
             }
+            
+            // Remove highlight from annotation container
+            $(`.edit-container[data-edit-id='${id}']`).css('background-color', '')
 
             try {
                 if (category == 'substitution') {
                     this.lines[category][real_id].color = color_code
                 }
-            } catch (e) { console.log(e) }
+            } catch (e) { /* Handle error silently */ }
         },
         getEditConfig(category) {
             return this.config['edits'].find(function(entry) {
@@ -241,7 +247,8 @@ export default {
                 this.set_selected_edits(new_selected_edits)
                 this.set_edit_html(new_edit_html)
             } else {
-                // This provides the default behavior: simply triggering another action
+                // This provides the default behavior: simply triggering the annotation icon click
+                // The positioning will be handled by the EditList component
                 $(`.annotation-icon[data-id=${id}]`).click()
             }
         },

@@ -161,23 +161,12 @@ export default {
 
             if (start >= end) return;
 
-            // Debug boundary selection
-            console.log('Boundary selection:', {
-                category, multi,
-                selected_text: txt.substring(start, end),
-                total_selections: (this.selected_state.target_idx || []).length + 1
-            });
 
             // Handle multi-selection for boundary editing
             if (multi && this.hit_box_config.enable_multi_select_target_sentence) {
                 // Create a new array to avoid reference issues
                 let current_indices = this.selected_state.target_idx || [];
                 let new_indices = [...current_indices, [start, end]];
-                console.log('Multi-selection update:', {
-                    previous_count: current_indices.length,
-                    new_count: new_indices.length,
-                    added_text: txt.substring(start, end)
-                });
                 this.set_span_indices(new_indices, 'target');
                 
                 let new_span_text = "";
@@ -188,7 +177,6 @@ export default {
                         <span onclick="removeBoundarySpan('${category}',${span_start},${span_end})" class="hover-white black br-pill mr1 pointer">✘</span>
                             ${txt.substring(span_start, span_end)}\xa0</span>&nbsp&nbsp`;
                 }
-                // Debug: console.log('Generated boundary HTML:', new_span_text);
                 this.set_span_text(new_span_text, 'target');
             } else {
                 // Single boundary selection (original behavior)

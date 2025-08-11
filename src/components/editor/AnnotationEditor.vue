@@ -108,6 +108,25 @@ export default {
         },
         cancel_click() {
             $(".icon-default").removeClass("open");
+            
+            // Reset colors for all edit categories that might have been highlighted
+            if (this.selected_category) {
+                // Remove highlight colors from document spans
+                const category = this.selected_category;
+                $(`.${category}`).removeClass(`white bg-${category} bg-${category}-light`);
+                $(`.${category}_below`).removeClass(`white bg-${category} bg-${category}-light`);
+                
+                // Re-add the appropriate text color based on annotation status
+                this.hits_data[this.current_hit - 1].edits.forEach(edit => {
+                    if (edit.category === category) {
+                        const id = `${category}-${edit.id}`;
+                        const hasAnnotation = edit.annotation && edit.annotation != null;
+                        const textColorClass = hasAnnotation ? `txt-${category}` : `txt-${category}-light`;
+                        $(`.${category}_below[data-id='${id}']`).addClass(textColorClass);
+                    }
+                });
+            }
+            
             this.set_annotating_edit_span_category_id(null);
             this.set_annotating_edit_span(null, 'source');
             this.set_annotating_edit_span(null, 'target');
@@ -187,6 +206,10 @@ export default {
             }
             $(".icon-default").removeClass("open");
             this.reset_annotation_colors(category, id);
+            
+            // Remove highlight from annotation container
+            $(`.edit-container[data-edit-id='${category}-${id}']`).css('background-color', '');
+            
             this.set_hits_data(_.cloneDeep(this.hits_data));
             this.refresh_edit();
         },
@@ -227,6 +250,10 @@ export default {
             let annotating_span = new_hits_data[this.current_hit - 1]['edits'].find(entry => entry['category'] === category && entry['id'] === edit_id);
             annotating_span.annotation = this.removeNullElements(new_annotation);
             this.reset_annotation_colors(category, edit_id);
+            
+            // Remove highlight from annotation container
+            $(`.edit-container[data-edit-id='${category}-${edit_id}']`).css('background-color', '');
+            
             this.set_hits_data(new_hits_data);
             this.refresh_edit();
         },
@@ -273,12 +300,6 @@ export default {
                 ? this.selected_state.source_idx 
                 : this.selected_state.target_idx;
                 
-            // Debug: Log boundary save details
-            console.log('Saving boundary edit:', {
-                category, id, type, multi,
-                new_boundary,
-                selected_state: this.selected_state
-            });
                 
             if (!new_boundary || (Array.isArray(new_boundary) && new_boundary.length === 0)) {
                 alert('Please select a new boundary before saving.');
@@ -311,7 +332,6 @@ export default {
         },
         remove_selected_boundary(category, start, end) {
             // Custom remove function for boundary editing - called from editor HTML
-            console.log('Removing boundary selection:', { category, start, end });
             
             // Determine which type we're working with
             const type = this.boundary_editing_edit?.type || 'target';
@@ -322,11 +342,6 @@ export default {
             // Remove the span from the indices array
             const new_indices = current_indices.filter(span => !(span[0] === start && span[1] === end));
             
-            console.log('Updated indices after removal:', { 
-                before: current_indices.length, 
-                after: new_indices.length,
-                removed_span: [start, end]
-            });
             
             // Update the state
             this.set_span_indices(new_indices, type);
@@ -697,10 +712,8 @@ export default {
         
         // Set up global function for regular multi-span remove buttons
         window.removeSelected = (category, start, end) => {
-            console.log('Global removeSelected called:', { category, start, end });
             // Call the remove_selected method through the prop functions passed to this component
             if (this.remove_selected) {
-                console.log('Calling this.remove_selected');
                 this.remove_selected(category, start, end);
             } else {
                 console.error('this.remove_selected is not available');
@@ -824,7 +837,7 @@ export default {
             </div>
         </div>
 
-        <div v-if="boundary_editing_mode && config.enable && (Object.values(config.enable).includes('edit_boundary') || Object.values(config.enable).includes('edit_boundary_multi'))" id="boundary_edit_panel">
+        <div v-if="boundary_editing_mode && config.enable && (Object.values(config.enable).includes('edit_boundary') || Object.values(config.enable).includes('edit_boundary_multi'))" id="boundary_edit_panel" style="display: none;">
             <div class="over-hide z-bigger mt3 editor-container">
                 <p class="f3 annotation-label ttu mv1">
                     {{ boundary_editing_edit?.multi ? 'Edit Evidences of the extracted checklist item' : 'Edit Boundary' }} 
