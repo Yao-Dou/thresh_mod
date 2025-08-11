@@ -1,0 +1,795 @@
+[
+  {
+    "id": "46234_p0",
+    "metadata": {
+      "case_id": "46234",
+      "paragraph_num": 0,
+      "total_paragraphs": 5,
+      "model": "o3-2025-04-16",
+      "paragraph_text_preview": "This is a case about alleged retaliation and censorship arising from immigration enforcement linked ..."
+    },
+    "source": "",
+    "target": "This is a case about alleged retaliation and censorship arising from immigration enforcement linked to political advocacy for Palestine. On March 15, 2025, three individuals filed this lawsuit in the United States District Court for the Northern District of New York. They sued President Donald Trump, the U.S. Department of Homeland Security, and other federal officials under the First Amendment and Fifth Amendment. Represented by individual attorneys and attorneys from Davis, Ndanusa, Ikhlas & Saleem LLP, the American-Arab Anti-Discrimination Committee, and Project TAHA, the plaintiffs sought declaratory and injunctive relief, along with attorneys\u2019 fees. They claimed that two executive orders\u2014Executive Order 14161 and Executive Order 14188\u2014unconstitutionally chilled protected speech by threatening criminal prosecution or deportation for individuals who expressed viewpoints critical of the U.S. or Israeli governments. The plaintiffs alleged that these executive orders were being used to surveil, silence, and threaten activists with detention or deportation solely based on their political beliefs and associations.\n\nOn the same day the complaint was filed, the plaintiffs submitted a motion for a temporary restraining order to prevent enforcement of the challenged executive orders. On March 19, 2025, the Court received an ex parte version of the TRO motion. On March 20, 2025, the Court denied the ex parte request and ordered the plaintiffs to show cause by 5:00 p.m. that same day why the motion should not be placed on the public docket. The plaintiffs did not respond to the order to show cause.\n\nA hearing on the TRO was held on March 25, 2025, and on March 27, 2025, the Court again denied the TRO. The Court concluded that the plaintiffs had failed to establish a likelihood of success on the merits or demonstrate irreparable harm. It also noted that plaintiff Momodou Taal\u2019s visa had already been revoked, which, in the Court\u2019s view, undermined the urgency and necessity of immediate relief. The Court's opinion emphasized that while the plaintiffs raised serious constitutional concerns, they had not met the high threshold required for emergency injunctive relief.\n\nAlso on March 27, 2025, the plaintiffs filed an amended complaint, adding as defendants the acting directors of U.S. Immigration and Customs Enforcement (ICE) and the Buffalo Field Office of ICE. They filed a renewed TRO motion, this time seeking to enjoin federal officials from detaining or removing Taal from the Court\u2019s jurisdiction while the case proceeded. The plaintiffs alleged that Taal had significantly curtailed his speech and public advocacy out of fear of government reprisal under the executive orders. They also cited heightened enforcement activity, including surveillance outside Taal\u2019s residence and direct instructions from ICE agents to report for detention.\n\nOn March 31, 2025, the plaintiffs filed a notice of voluntary dismissal without prejudice, and on April 2, 2025, the Court formally closed the case. According to the plaintiffs, they withdrew the lawsuit in light of escalating enforcement threats, including revocation of immigration status, visible surveillance, and the threat of imminent detention. No injunctive relief was granted, and the case was dismissed without any ruling on the merits.",
+    "target_paragraph": "This is a case about alleged retaliation and censorship arising from immigration enforcement linked to political advocacy for Palestine. On March 15, 2025, three individuals filed this lawsuit in the United States District Court for the Northern District of New York. They sued President Donald Trump, the U.S. Department of Homeland Security, and other federal officials under the First Amendment and Fifth Amendment. Represented by individual attorneys and attorneys from Davis, Ndanusa, Ikhlas & Saleem LLP, the American-Arab Anti-Discrimination Committee, and Project TAHA, the plaintiffs sought declaratory and injunctive relief, along with attorneys\u2019 fees. They claimed that two executive orders\u2014Executive Order 14161 and Executive Order 14188\u2014unconstitutionally chilled protected speech by threatening criminal prosecution or deportation for individuals who expressed viewpoints critical of the U.S. or Israeli governments. The plaintiffs alleged that these executive orders were being used to surveil, silence, and threaten activists with detention or deportation solely based on their political beliefs and associations.",
+    "target_paragraph_indices": [
+      0,
+      1129
+    ],
+    "edits": [
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            137,
+            267
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 15, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            268,
+            418
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment constitutional claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            268,
+            418
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment constitutional claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            268,
+            418
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            268,
+            418
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            578,
+            662
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            578,
+            662
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            578,
+            662
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys\u2019 fees",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            419,
+            454
+          ]
+        ],
+        "annotation": {
+          "explanation": "Private / individual attorneys",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            459,
+            509
+          ]
+        ],
+        "annotation": {
+          "explanation": "Private law firm (Davis, Ndanusa, Ikhlas & Saleem LLP)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            511,
+            558
+          ]
+        ],
+        "annotation": {
+          "explanation": "Civil-rights advocacy organization (American-Arab Anti-Discrimination Committee)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            564,
+            576
+          ]
+        ],
+        "annotation": {
+          "explanation": "Advocacy organization (Project TAHA)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            137,
+            267
+          ],
+          [
+            1858,
+            1931
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as three individuals (including Momodou Taal)",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 12
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            137,
+            267
+          ],
+          [
+            268,
+            418
+          ],
+          [
+            1858,
+            1931
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Three individual activists advocating for Palestine, including Momodou Taal; Defendants: President Donald Trump (President of the United States), the U.S. Department of Homeland Security, the acting Directors of U.S. Immigration and Customs Enforcement (ICE) and ICE\u2019s Buffalo Field Office, and other unnamed federal officials.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 13
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            137,
+            267
+          ],
+          [
+            268,
+            418
+          ]
+        ],
+        "annotation": {
+          "explanation": "Three plaintiffs filed a First and Fifth Amendment lawsuit on March 15, 2025, in the U.S. District Court for the Northern District of New York against President Donald Trump, DHS, and other federal officials.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            663,
+            930
+          ],
+          [
+            931,
+            1129
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs alleged Executive Orders 14161 and 14188 were used to surveil, silence, and threaten critics of U.S. or Israeli policy with prosecution, detention, or deportation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            137,
+            267
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed \u2013 March 15, 2025 (U.S. District Court, N.D.N.Y.)",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      }
+    ]
+  },
+  {
+    "id": "46234_p1",
+    "metadata": {
+      "case_id": "46234",
+      "paragraph_num": 1,
+      "total_paragraphs": 5,
+      "model": "o3-2025-04-16",
+      "paragraph_text_preview": "On the same day the complaint was filed, the plaintiffs submitted a motion for a temporary restraini..."
+    },
+    "source": "",
+    "target": "This is a case about alleged retaliation and censorship arising from immigration enforcement linked to political advocacy for Palestine. On March 15, 2025, three individuals filed this lawsuit in the United States District Court for the Northern District of New York. They sued President Donald Trump, the U.S. Department of Homeland Security, and other federal officials under the First Amendment and Fifth Amendment. Represented by individual attorneys and attorneys from Davis, Ndanusa, Ikhlas & Saleem LLP, the American-Arab Anti-Discrimination Committee, and Project TAHA, the plaintiffs sought declaratory and injunctive relief, along with attorneys\u2019 fees. They claimed that two executive orders\u2014Executive Order 14161 and Executive Order 14188\u2014unconstitutionally chilled protected speech by threatening criminal prosecution or deportation for individuals who expressed viewpoints critical of the U.S. or Israeli governments. The plaintiffs alleged that these executive orders were being used to surveil, silence, and threaten activists with detention or deportation solely based on their political beliefs and associations.\n\nOn the same day the complaint was filed, the plaintiffs submitted a motion for a temporary restraining order to prevent enforcement of the challenged executive orders. On March 19, 2025, the Court received an ex parte version of the TRO motion. On March 20, 2025, the Court denied the ex parte request and ordered the plaintiffs to show cause by 5:00 p.m. that same day why the motion should not be placed on the public docket. The plaintiffs did not respond to the order to show cause.\n\nA hearing on the TRO was held on March 25, 2025, and on March 27, 2025, the Court again denied the TRO. The Court concluded that the plaintiffs had failed to establish a likelihood of success on the merits or demonstrate irreparable harm. It also noted that plaintiff Momodou Taal\u2019s visa had already been revoked, which, in the Court\u2019s view, undermined the urgency and necessity of immediate relief. The Court's opinion emphasized that while the plaintiffs raised serious constitutional concerns, they had not met the high threshold required for emergency injunctive relief.\n\nAlso on March 27, 2025, the plaintiffs filed an amended complaint, adding as defendants the acting directors of U.S. Immigration and Customs Enforcement (ICE) and the Buffalo Field Office of ICE. They filed a renewed TRO motion, this time seeking to enjoin federal officials from detaining or removing Taal from the Court\u2019s jurisdiction while the case proceeded. The plaintiffs alleged that Taal had significantly curtailed his speech and public advocacy out of fear of government reprisal under the executive orders. They also cited heightened enforcement activity, including surveillance outside Taal\u2019s residence and direct instructions from ICE agents to report for detention.\n\nOn March 31, 2025, the plaintiffs filed a notice of voluntary dismissal without prejudice, and on April 2, 2025, the Court formally closed the case. According to the plaintiffs, they withdrew the lawsuit in light of escalating enforcement threats, including revocation of immigration status, visible surveillance, and the threat of imminent detention. No injunctive relief was granted, and the case was dismissed without any ruling on the merits.",
+    "target_paragraph": "On the same day the complaint was filed, the plaintiffs submitted a motion for a temporary restraining order to prevent enforcement of the challenged executive orders. On March 19, 2025, the Court received an ex parte version of the TRO motion. On March 20, 2025, the Court denied the ex parte request and ordered the plaintiffs to show cause by 5:00 p.m. that same day why the motion should not be placed on the public docket. The plaintiffs did not respond to the order to show cause.",
+    "target_paragraph_indices": [
+      1131,
+      1617
+    ],
+    "edits": [
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1176,
+            1298
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order (TRO) (a form of injunctive relief)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1376,
+            1558
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 20, 2025: Court denied the ex parte TRO request and ordered plaintiffs to show cause regarding public filing.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1131,
+            1298
+          ],
+          [
+            1376,
+            1473
+          ],
+          [
+            1619,
+            1722
+          ],
+          [
+            1723,
+            1857
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs twice sought a TRO against enforcement of the executive orders, but the Court denied both requests, finding no likelihood of success or irreparable harm.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1131,
+            1298
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for a temporary restraining order filed March 15, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1299,
+            1375
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ex parte version of the TRO motion submitted March 19, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1131,
+            1298
+          ]
+        ],
+        "annotation": {
+          "explanation": "Initial TRO motion filed \u2013 March 15, 2025",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1299,
+            1375
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ex parte TRO submission received \u2013 March 19, 2025",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1376,
+            1558
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court denies ex parte TRO request and issues show-cause order \u2013 March 20, 2025",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1559,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "No response to March 20, 2025 show-cause order (date implied same day)",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1376,
+            1558
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 20, 2025 \u2013 Court denied plaintiffs\u2019 ex parte motion for a temporary restraining order (preliminary injunctive relief).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46234_p2",
+    "metadata": {
+      "case_id": "46234",
+      "paragraph_num": 2,
+      "total_paragraphs": 5,
+      "model": "o3-2025-04-16",
+      "paragraph_text_preview": "A hearing on the TRO was held on March 25, 2025, and on March 27, 2025, the Court again denied the T..."
+    },
+    "source": "",
+    "target": "This is a case about alleged retaliation and censorship arising from immigration enforcement linked to political advocacy for Palestine. On March 15, 2025, three individuals filed this lawsuit in the United States District Court for the Northern District of New York. They sued President Donald Trump, the U.S. Department of Homeland Security, and other federal officials under the First Amendment and Fifth Amendment. Represented by individual attorneys and attorneys from Davis, Ndanusa, Ikhlas & Saleem LLP, the American-Arab Anti-Discrimination Committee, and Project TAHA, the plaintiffs sought declaratory and injunctive relief, along with attorneys\u2019 fees. They claimed that two executive orders\u2014Executive Order 14161 and Executive Order 14188\u2014unconstitutionally chilled protected speech by threatening criminal prosecution or deportation for individuals who expressed viewpoints critical of the U.S. or Israeli governments. The plaintiffs alleged that these executive orders were being used to surveil, silence, and threaten activists with detention or deportation solely based on their political beliefs and associations.\n\nOn the same day the complaint was filed, the plaintiffs submitted a motion for a temporary restraining order to prevent enforcement of the challenged executive orders. On March 19, 2025, the Court received an ex parte version of the TRO motion. On March 20, 2025, the Court denied the ex parte request and ordered the plaintiffs to show cause by 5:00 p.m. that same day why the motion should not be placed on the public docket. The plaintiffs did not respond to the order to show cause.\n\nA hearing on the TRO was held on March 25, 2025, and on March 27, 2025, the Court again denied the TRO. The Court concluded that the plaintiffs had failed to establish a likelihood of success on the merits or demonstrate irreparable harm. It also noted that plaintiff Momodou Taal\u2019s visa had already been revoked, which, in the Court\u2019s view, undermined the urgency and necessity of immediate relief. The Court's opinion emphasized that while the plaintiffs raised serious constitutional concerns, they had not met the high threshold required for emergency injunctive relief.\n\nAlso on March 27, 2025, the plaintiffs filed an amended complaint, adding as defendants the acting directors of U.S. Immigration and Customs Enforcement (ICE) and the Buffalo Field Office of ICE. They filed a renewed TRO motion, this time seeking to enjoin federal officials from detaining or removing Taal from the Court\u2019s jurisdiction while the case proceeded. The plaintiffs alleged that Taal had significantly curtailed his speech and public advocacy out of fear of government reprisal under the executive orders. They also cited heightened enforcement activity, including surveillance outside Taal\u2019s residence and direct instructions from ICE agents to report for detention.\n\nOn March 31, 2025, the plaintiffs filed a notice of voluntary dismissal without prejudice, and on April 2, 2025, the Court formally closed the case. According to the plaintiffs, they withdrew the lawsuit in light of escalating enforcement threats, including revocation of immigration status, visible surveillance, and the threat of imminent detention. No injunctive relief was granted, and the case was dismissed without any ruling on the merits.",
+    "target_paragraph": "A hearing on the TRO was held on March 25, 2025, and on March 27, 2025, the Court again denied the TRO. The Court concluded that the plaintiffs had failed to establish a likelihood of success on the merits or demonstrate irreparable harm. It also noted that plaintiff Momodou Taal\u2019s visa had already been revoked, which, in the Court\u2019s view, undermined the urgency and necessity of immediate relief. The Court's opinion emphasized that while the plaintiffs raised serious constitutional concerns, they had not met the high threshold required for emergency injunctive relief.",
+    "target_paragraph_indices": [
+      1619,
+      2193
+    ],
+    "edits": [
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1619,
+            1722
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 27, 2025: Court denied the TRO.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1858,
+            2018
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff Momodou Taal\u2019s visa had been revoked before the TRO ruling.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1619,
+            1666
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO hearing \u2013 March 25, 2025",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1668,
+            1722
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO denied (written decision) \u2013 March 27, 2025",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1619,
+            1722
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 27, 2025 \u2013 Court denied plaintiffs\u2019 motion for a temporary restraining order after a hearing.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46234_p3",
+    "metadata": {
+      "case_id": "46234",
+      "paragraph_num": 3,
+      "total_paragraphs": 5,
+      "model": "o3-2025-04-16",
+      "paragraph_text_preview": "Also on March 27, 2025, the plaintiffs filed an amended complaint, adding as defendants the acting d..."
+    },
+    "source": "",
+    "target": "This is a case about alleged retaliation and censorship arising from immigration enforcement linked to political advocacy for Palestine. On March 15, 2025, three individuals filed this lawsuit in the United States District Court for the Northern District of New York. They sued President Donald Trump, the U.S. Department of Homeland Security, and other federal officials under the First Amendment and Fifth Amendment. Represented by individual attorneys and attorneys from Davis, Ndanusa, Ikhlas & Saleem LLP, the American-Arab Anti-Discrimination Committee, and Project TAHA, the plaintiffs sought declaratory and injunctive relief, along with attorneys\u2019 fees. They claimed that two executive orders\u2014Executive Order 14161 and Executive Order 14188\u2014unconstitutionally chilled protected speech by threatening criminal prosecution or deportation for individuals who expressed viewpoints critical of the U.S. or Israeli governments. The plaintiffs alleged that these executive orders were being used to surveil, silence, and threaten activists with detention or deportation solely based on their political beliefs and associations.\n\nOn the same day the complaint was filed, the plaintiffs submitted a motion for a temporary restraining order to prevent enforcement of the challenged executive orders. On March 19, 2025, the Court received an ex parte version of the TRO motion. On March 20, 2025, the Court denied the ex parte request and ordered the plaintiffs to show cause by 5:00 p.m. that same day why the motion should not be placed on the public docket. The plaintiffs did not respond to the order to show cause.\n\nA hearing on the TRO was held on March 25, 2025, and on March 27, 2025, the Court again denied the TRO. The Court concluded that the plaintiffs had failed to establish a likelihood of success on the merits or demonstrate irreparable harm. It also noted that plaintiff Momodou Taal\u2019s visa had already been revoked, which, in the Court\u2019s view, undermined the urgency and necessity of immediate relief. The Court's opinion emphasized that while the plaintiffs raised serious constitutional concerns, they had not met the high threshold required for emergency injunctive relief.\n\nAlso on March 27, 2025, the plaintiffs filed an amended complaint, adding as defendants the acting directors of U.S. Immigration and Customs Enforcement (ICE) and the Buffalo Field Office of ICE. They filed a renewed TRO motion, this time seeking to enjoin federal officials from detaining or removing Taal from the Court\u2019s jurisdiction while the case proceeded. The plaintiffs alleged that Taal had significantly curtailed his speech and public advocacy out of fear of government reprisal under the executive orders. They also cited heightened enforcement activity, including surveillance outside Taal\u2019s residence and direct instructions from ICE agents to report for detention.\n\nOn March 31, 2025, the plaintiffs filed a notice of voluntary dismissal without prejudice, and on April 2, 2025, the Court formally closed the case. According to the plaintiffs, they withdrew the lawsuit in light of escalating enforcement threats, including revocation of immigration status, visible surveillance, and the threat of imminent detention. No injunctive relief was granted, and the case was dismissed without any ruling on the merits.",
+    "target_paragraph": "Also on March 27, 2025, the plaintiffs filed an amended complaint, adding as defendants the acting directors of U.S. Immigration and Customs Enforcement (ICE) and the Buffalo Field Office of ICE. They filed a renewed TRO motion, this time seeking to enjoin federal officials from detaining or removing Taal from the Court\u2019s jurisdiction while the case proceeded. The plaintiffs alleged that Taal had significantly curtailed his speech and public advocacy out of fear of government reprisal under the executive orders. They also cited heightened enforcement activity, including surveillance outside Taal\u2019s residence and direct instructions from ICE agents to report for detention.",
+    "target_paragraph_indices": [
+      2195,
+      2874
+    ],
+    "edits": [
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2558,
+            2712
+          ],
+          [
+            2713,
+            2874
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs asserted Taal curtailed his speech due to fear of reprisal and was subject to surveillance outside his home and instructions from ICE to report for detention.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2195,
+            2390
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint filed March 27, 2025 (adding additional ICE defendants).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2391,
+            2557
+          ]
+        ],
+        "annotation": {
+          "explanation": "Renewed motion for temporary restraining order filed March 27, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2195,
+            2390
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint filed \u2013 March 27, 2025",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2391,
+            2557
+          ]
+        ],
+        "annotation": {
+          "explanation": "Renewed TRO motion filed \u2013 March 27, 2025",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46234_p4",
+    "metadata": {
+      "case_id": "46234",
+      "paragraph_num": 4,
+      "total_paragraphs": 5,
+      "model": "o3-2025-04-16",
+      "paragraph_text_preview": "On March 31, 2025, the plaintiffs filed a notice of voluntary dismissal without prejudice, and on Ap..."
+    },
+    "source": "",
+    "target": "This is a case about alleged retaliation and censorship arising from immigration enforcement linked to political advocacy for Palestine. On March 15, 2025, three individuals filed this lawsuit in the United States District Court for the Northern District of New York. They sued President Donald Trump, the U.S. Department of Homeland Security, and other federal officials under the First Amendment and Fifth Amendment. Represented by individual attorneys and attorneys from Davis, Ndanusa, Ikhlas & Saleem LLP, the American-Arab Anti-Discrimination Committee, and Project TAHA, the plaintiffs sought declaratory and injunctive relief, along with attorneys\u2019 fees. They claimed that two executive orders\u2014Executive Order 14161 and Executive Order 14188\u2014unconstitutionally chilled protected speech by threatening criminal prosecution or deportation for individuals who expressed viewpoints critical of the U.S. or Israeli governments. The plaintiffs alleged that these executive orders were being used to surveil, silence, and threaten activists with detention or deportation solely based on their political beliefs and associations.\n\nOn the same day the complaint was filed, the plaintiffs submitted a motion for a temporary restraining order to prevent enforcement of the challenged executive orders. On March 19, 2025, the Court received an ex parte version of the TRO motion. On March 20, 2025, the Court denied the ex parte request and ordered the plaintiffs to show cause by 5:00 p.m. that same day why the motion should not be placed on the public docket. The plaintiffs did not respond to the order to show cause.\n\nA hearing on the TRO was held on March 25, 2025, and on March 27, 2025, the Court again denied the TRO. The Court concluded that the plaintiffs had failed to establish a likelihood of success on the merits or demonstrate irreparable harm. It also noted that plaintiff Momodou Taal\u2019s visa had already been revoked, which, in the Court\u2019s view, undermined the urgency and necessity of immediate relief. The Court's opinion emphasized that while the plaintiffs raised serious constitutional concerns, they had not met the high threshold required for emergency injunctive relief.\n\nAlso on March 27, 2025, the plaintiffs filed an amended complaint, adding as defendants the acting directors of U.S. Immigration and Customs Enforcement (ICE) and the Buffalo Field Office of ICE. They filed a renewed TRO motion, this time seeking to enjoin federal officials from detaining or removing Taal from the Court\u2019s jurisdiction while the case proceeded. The plaintiffs alleged that Taal had significantly curtailed his speech and public advocacy out of fear of government reprisal under the executive orders. They also cited heightened enforcement activity, including surveillance outside Taal\u2019s residence and direct instructions from ICE agents to report for detention.\n\nOn March 31, 2025, the plaintiffs filed a notice of voluntary dismissal without prejudice, and on April 2, 2025, the Court formally closed the case. According to the plaintiffs, they withdrew the lawsuit in light of escalating enforcement threats, including revocation of immigration status, visible surveillance, and the threat of imminent detention. No injunctive relief was granted, and the case was dismissed without any ruling on the merits.",
+    "target_paragraph": "On March 31, 2025, the plaintiffs filed a notice of voluntary dismissal without prejudice, and on April 2, 2025, the Court formally closed the case. According to the plaintiffs, they withdrew the lawsuit in light of escalating enforcement threats, including revocation of immigration status, visible surveillance, and the threat of imminent detention. No injunctive relief was granted, and the case was dismissed without any ruling on the merits.",
+    "target_paragraph_indices": [
+      2876,
+      3322
+    ],
+    "edits": [
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2876,
+            3024
+          ],
+          [
+            3228,
+            3322
+          ]
+        ],
+        "annotation": {
+          "explanation": "No.",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2971,
+            3024
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 2, 2025: Court formally closed the case.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2876,
+            3024
+          ],
+          [
+            3025,
+            3227
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs voluntarily dismissed the case (March 31, 2025), citing escalating enforcement threats; the Court closed the case on April 2, 2025, with no ruling on the merits.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2876,
+            3024
+          ]
+        ],
+        "annotation": {
+          "explanation": "Notice of voluntary dismissal without prejudice filed March 31, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2876,
+            2965
+          ]
+        ],
+        "annotation": {
+          "explanation": "Notice of voluntary dismissal (without prejudice) filed \u2013 March 31, 2025",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2967,
+            3024
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case closed by court \u2013 April 2, 2025",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  }
+]

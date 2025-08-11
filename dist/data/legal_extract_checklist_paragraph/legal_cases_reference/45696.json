@@ -1,0 +1,771 @@
+[
+  {
+    "id": "45696_p0",
+    "metadata": {
+      "case_id": "45696",
+      "paragraph_num": 0,
+      "total_paragraphs": 6,
+      "model": "o3-2025-04-16",
+      "paragraph_text_preview": "This case is a follow-up to a case brought by Texas against the EEOC about its similar 2022 workplac..."
+    },
+    "source": "",
+    "target": "This case is a follow-up to a case brought by Texas against the EEOC about its similar 2022 workplace harassment guidance regarding transgender employees; in that case, District Judge Matthew J. Kacsmaryk ruled that the EEOC exceeded its statutory rulemaking by \u201c...conflat[ing] protected class status with all correlated conduct.\u201d Texas v. EEOC, 2022 WL 4835346 at *13 (N.D. Tex. 2022).\n\nThis case challenges the EEOC\u2019s April 2024 guidance under Title VII of the 1964 Civil Rights Act about workplace harassment of transgender employees. Represented by the Heritage Foundation, Texas contested the EEOC\u2019s interpretation of Title VII; in particular, Texas alleged, the parts of the Guidance about pronouns, bathrooms, and dress codes conflicted with the U.S. Supreme Court's carefully limited holding in Bostock v. Clayton County, 590 U.S. 644 (2020), and with Title VII, which (Texas argued) does not require employers to accommodate sex, but merely requires non-discrimination.\n\nTexas filed the case on August 15, 2024, in the U.S. District Court for the Northern District of Texas, seeking an injunction to stop implementation and enforcement of the 2024 Guidance, because it was not (as it should have been) published in the Federal Register, was contrary to law, arbitrary and capricious, and exceeded EEOC's statutory rulemaking authority under the Administrative Procedure Act.\n\nIn October and November 2024, both parties moved for summary judgment. In January 2025, the newly inaugurated President Trump issued several Executive Orders stating there is no federal obligation to avoid discrimination against transgender people. On January 27, 2025, Judge Kacsmaryk ordered the parties to submit a joint brief detailing how new Executive Orders bear on the disposition of the litigation. Pursuant to the court's order, parties submitted the joint brief on February 10, 2025. In this brief, the parties agreed that plaintiffs retained standing and that, even in light of prior Executive Orders, the case was not moot.\n\nOn May 25 2025, Judge Kacsmaryk granted plaintiff's motion for summary judgment, holding that denial of accommodations for gender non-conforming employees did not constitute actionable discrimination by an employer under Loper Bright. Judge Kacsmaryk further stated that Congress reserved the exclusive authority to define its definition of \"sex\" under Title VII, holding that the EEOC had overstepped its authority. The decision effectively vacated relevant portions of the updated EEOC guidelines.\n\nThis outcome was precisely the one desired by the Trump Administration.",
+    "target_paragraph": "This case is a follow-up to a case brought by Texas against the EEOC about its similar 2022 workplace harassment guidance regarding transgender employees; in that case, District Judge Matthew J. Kacsmaryk ruled that the EEOC exceeded its statutory rulemaking by \u201c...conflat[ing] protected class status with all correlated conduct.\u201d Texas v. EEOC, 2022 WL 4835346 at *13 (N.D. Tex. 2022).",
+    "target_paragraph_indices": [
+      0,
+      387
+    ],
+    "edits": [
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            169,
+            258
+          ],
+          [
+            2024,
+            2103
+          ]
+        ],
+        "annotation": {
+          "explanation": "Matthew J. Kacsmaryk",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            0,
+            4
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            332,
+            386
+          ]
+        ],
+        "annotation": {
+          "explanation": "2022 WL 4835346 (N.D. Tex. 2022)",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            332,
+            386
+          ]
+        ],
+        "annotation": {
+          "explanation": "Texas v. EEOC, 2022 WL 4835346 (N.D. Tex. 2022) \u2013 Judge Matthew J. Kacsmaryk ruled the EEOC exceeded its statutory authority when issuing its 2022 transgender-related workplace harassment guidance.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            155,
+            263
+          ],
+          [
+            266,
+            387
+          ]
+        ],
+        "annotation": {
+          "explanation": "2022: Judge Kacsmaryk ruled that the EEOC exceeded its statutory rulemaking authority in Texas v. EEOC.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "45696_p1",
+    "metadata": {
+      "case_id": "45696",
+      "paragraph_num": 1,
+      "total_paragraphs": 6,
+      "model": "o3-2025-04-16",
+      "paragraph_text_preview": "This case challenges the EEOC\u2019s April 2024 guidance under Title VII of the 1964 Civil Rights Act abo..."
+    },
+    "source": "",
+    "target": "This case is a follow-up to a case brought by Texas against the EEOC about its similar 2022 workplace harassment guidance regarding transgender employees; in that case, District Judge Matthew J. Kacsmaryk ruled that the EEOC exceeded its statutory rulemaking by \u201c...conflat[ing] protected class status with all correlated conduct.\u201d Texas v. EEOC, 2022 WL 4835346 at *13 (N.D. Tex. 2022).\n\nThis case challenges the EEOC\u2019s April 2024 guidance under Title VII of the 1964 Civil Rights Act about workplace harassment of transgender employees. Represented by the Heritage Foundation, Texas contested the EEOC\u2019s interpretation of Title VII; in particular, Texas alleged, the parts of the Guidance about pronouns, bathrooms, and dress codes conflicted with the U.S. Supreme Court's carefully limited holding in Bostock v. Clayton County, 590 U.S. 644 (2020), and with Title VII, which (Texas argued) does not require employers to accommodate sex, but merely requires non-discrimination.\n\nTexas filed the case on August 15, 2024, in the U.S. District Court for the Northern District of Texas, seeking an injunction to stop implementation and enforcement of the 2024 Guidance, because it was not (as it should have been) published in the Federal Register, was contrary to law, arbitrary and capricious, and exceeded EEOC's statutory rulemaking authority under the Administrative Procedure Act.\n\nIn October and November 2024, both parties moved for summary judgment. In January 2025, the newly inaugurated President Trump issued several Executive Orders stating there is no federal obligation to avoid discrimination against transgender people. On January 27, 2025, Judge Kacsmaryk ordered the parties to submit a joint brief detailing how new Executive Orders bear on the disposition of the litigation. Pursuant to the court's order, parties submitted the joint brief on February 10, 2025. In this brief, the parties agreed that plaintiffs retained standing and that, even in light of prior Executive Orders, the case was not moot.\n\nOn May 25 2025, Judge Kacsmaryk granted plaintiff's motion for summary judgment, holding that denial of accommodations for gender non-conforming employees did not constitute actionable discrimination by an employer under Loper Bright. Judge Kacsmaryk further stated that Congress reserved the exclusive authority to define its definition of \"sex\" under Title VII, holding that the EEOC had overstepped its authority. The decision effectively vacated relevant portions of the updated EEOC guidelines.\n\nThis outcome was precisely the one desired by the Trump Administration.",
+    "target_paragraph": "This case challenges the EEOC\u2019s April 2024 guidance under Title VII of the 1964 Civil Rights Act about workplace harassment of transgender employees. Represented by the Heritage Foundation, Texas contested the EEOC\u2019s interpretation of Title VII; in particular, Texas alleged, the parts of the Guidance about pronouns, bathrooms, and dress codes conflicted with the U.S. Supreme Court's carefully limited holding in Bostock v. Clayton County, 590 U.S. 644 (2020), and with Title VII, which (Texas argued) does not require employers to accommodate sex, but merely requires non-discrimination.",
+    "target_paragraph_indices": [
+      389,
+      979
+    ],
+    "edits": [
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            389,
+            538
+          ]
+        ],
+        "annotation": {
+          "explanation": "Title VII of the Civil Rights Act of 1964 (42 U.S.C. \u00a7 2000e et seq.)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            389,
+            538
+          ],
+          [
+            2259,
+            2440
+          ]
+        ],
+        "annotation": {
+          "explanation": "Title VII of the Civil Rights Act of 1964",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            4
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            539,
+            634
+          ]
+        ],
+        "annotation": {
+          "explanation": "Heritage Foundation (advocacy organization/private counsel)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            804,
+            850
+          ]
+        ],
+        "annotation": {
+          "explanation": "590 U.S. 644 (2020)",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            539,
+            634
+          ],
+          [
+            981,
+            1083
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as the State of Texas",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            804,
+            850
+          ]
+        ],
+        "annotation": {
+          "explanation": "Bostock v. Clayton County, 590 U.S. 644 (2020) \u2013 Supreme Court ruling on Title VII\u2019s application to LGBT discrimination; cited by Texas to argue the EEOC\u2019s 2024 Guidance went beyond the Court\u2019s limited holding.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            389,
+            538
+          ],
+          [
+            539,
+            634
+          ],
+          [
+            981,
+            1166
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: State of Texas (represented by the Heritage Foundation); Defendants: U.S. Equal Employment Opportunity Commission (EEOC)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            389,
+            538
+          ],
+          [
+            539,
+            633
+          ]
+        ],
+        "annotation": {
+          "explanation": "Texas brought suit challenging the EEOC\u2019s April 2024 workplace-harassment guidance concerning transgender employees under Title VII.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            650,
+            979
+          ]
+        ],
+        "annotation": {
+          "explanation": "Substantively, Texas objected to pronoun, bathroom, and dress-code provisions as exceeding Bostock and Title VII\u2019s non-discrimination requirement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "45696_p2",
+    "metadata": {
+      "case_id": "45696",
+      "paragraph_num": 2,
+      "total_paragraphs": 6,
+      "model": "o3-2025-04-16",
+      "paragraph_text_preview": "Texas filed the case on August 15, 2024, in the U.S. District Court for the Northern District of Tex..."
+    },
+    "source": "",
+    "target": "This case is a follow-up to a case brought by Texas against the EEOC about its similar 2022 workplace harassment guidance regarding transgender employees; in that case, District Judge Matthew J. Kacsmaryk ruled that the EEOC exceeded its statutory rulemaking by \u201c...conflat[ing] protected class status with all correlated conduct.\u201d Texas v. EEOC, 2022 WL 4835346 at *13 (N.D. Tex. 2022).\n\nThis case challenges the EEOC\u2019s April 2024 guidance under Title VII of the 1964 Civil Rights Act about workplace harassment of transgender employees. Represented by the Heritage Foundation, Texas contested the EEOC\u2019s interpretation of Title VII; in particular, Texas alleged, the parts of the Guidance about pronouns, bathrooms, and dress codes conflicted with the U.S. Supreme Court's carefully limited holding in Bostock v. Clayton County, 590 U.S. 644 (2020), and with Title VII, which (Texas argued) does not require employers to accommodate sex, but merely requires non-discrimination.\n\nTexas filed the case on August 15, 2024, in the U.S. District Court for the Northern District of Texas, seeking an injunction to stop implementation and enforcement of the 2024 Guidance, because it was not (as it should have been) published in the Federal Register, was contrary to law, arbitrary and capricious, and exceeded EEOC's statutory rulemaking authority under the Administrative Procedure Act.\n\nIn October and November 2024, both parties moved for summary judgment. In January 2025, the newly inaugurated President Trump issued several Executive Orders stating there is no federal obligation to avoid discrimination against transgender people. On January 27, 2025, Judge Kacsmaryk ordered the parties to submit a joint brief detailing how new Executive Orders bear on the disposition of the litigation. Pursuant to the court's order, parties submitted the joint brief on February 10, 2025. In this brief, the parties agreed that plaintiffs retained standing and that, even in light of prior Executive Orders, the case was not moot.\n\nOn May 25 2025, Judge Kacsmaryk granted plaintiff's motion for summary judgment, holding that denial of accommodations for gender non-conforming employees did not constitute actionable discrimination by an employer under Loper Bright. Judge Kacsmaryk further stated that Congress reserved the exclusive authority to define its definition of \"sex\" under Title VII, holding that the EEOC had overstepped its authority. The decision effectively vacated relevant portions of the updated EEOC guidelines.\n\nThis outcome was precisely the one desired by the Trump Administration.",
+    "target_paragraph": "Texas filed the case on August 15, 2024, in the U.S. District Court for the Northern District of Texas, seeking an injunction to stop implementation and enforcement of the 2024 Guidance, because it was not (as it should have been) published in the Federal Register, was contrary to law, arbitrary and capricious, and exceeded EEOC's statutory rulemaking authority under the Administrative Procedure Act.",
+    "target_paragraph_indices": [
+      981,
+      1384
+    ],
+    "edits": [
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            981,
+            1083
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 15, 2024",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1085,
+            1384
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (5 U.S.C. \u00a7\u00a7 551\u2013706), alleging the Guidance is contrary to law, arbitrary and capricious, and exceeds statutory authority",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            981,
+            1001
+          ],
+          [
+            1168,
+            1384
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            981,
+            1166
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunction to stop implementation and enforcement of the 2024 EEOC Guidance",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            981,
+            1166
+          ]
+        ],
+        "annotation": {
+          "explanation": "The lawsuit was filed on 15 Aug 2024 in the Northern District of Texas, requesting an injunction against enforcement of the guidance.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1168,
+            1384
+          ]
+        ],
+        "annotation": {
+          "explanation": "Texas alleged the guidance violated the Administrative Procedure Act: it was not published in the Federal Register, was contrary to law, arbitrary and capricious, and beyond EEOC\u2019s statutory rule-making power.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            981,
+            1166
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed by Texas on August 15, 2024, including a request for an injunction against enforcement of the April 2024 EEOC Guidance.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            981,
+            1083
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed on August 15, 2024, in the U.S. District Court for the Northern District of Texas",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "45696_p3",
+    "metadata": {
+      "case_id": "45696",
+      "paragraph_num": 3,
+      "total_paragraphs": 6,
+      "model": "o3-2025-04-16",
+      "paragraph_text_preview": "In October and November 2024, both parties moved for summary judgment. In January 2025, the newly in..."
+    },
+    "source": "",
+    "target": "This case is a follow-up to a case brought by Texas against the EEOC about its similar 2022 workplace harassment guidance regarding transgender employees; in that case, District Judge Matthew J. Kacsmaryk ruled that the EEOC exceeded its statutory rulemaking by \u201c...conflat[ing] protected class status with all correlated conduct.\u201d Texas v. EEOC, 2022 WL 4835346 at *13 (N.D. Tex. 2022).\n\nThis case challenges the EEOC\u2019s April 2024 guidance under Title VII of the 1964 Civil Rights Act about workplace harassment of transgender employees. Represented by the Heritage Foundation, Texas contested the EEOC\u2019s interpretation of Title VII; in particular, Texas alleged, the parts of the Guidance about pronouns, bathrooms, and dress codes conflicted with the U.S. Supreme Court's carefully limited holding in Bostock v. Clayton County, 590 U.S. 644 (2020), and with Title VII, which (Texas argued) does not require employers to accommodate sex, but merely requires non-discrimination.\n\nTexas filed the case on August 15, 2024, in the U.S. District Court for the Northern District of Texas, seeking an injunction to stop implementation and enforcement of the 2024 Guidance, because it was not (as it should have been) published in the Federal Register, was contrary to law, arbitrary and capricious, and exceeded EEOC's statutory rulemaking authority under the Administrative Procedure Act.\n\nIn October and November 2024, both parties moved for summary judgment. In January 2025, the newly inaugurated President Trump issued several Executive Orders stating there is no federal obligation to avoid discrimination against transgender people. On January 27, 2025, Judge Kacsmaryk ordered the parties to submit a joint brief detailing how new Executive Orders bear on the disposition of the litigation. Pursuant to the court's order, parties submitted the joint brief on February 10, 2025. In this brief, the parties agreed that plaintiffs retained standing and that, even in light of prior Executive Orders, the case was not moot.\n\nOn May 25 2025, Judge Kacsmaryk granted plaintiff's motion for summary judgment, holding that denial of accommodations for gender non-conforming employees did not constitute actionable discrimination by an employer under Loper Bright. Judge Kacsmaryk further stated that Congress reserved the exclusive authority to define its definition of \"sex\" under Title VII, holding that the EEOC had overstepped its authority. The decision effectively vacated relevant portions of the updated EEOC guidelines.\n\nThis outcome was precisely the one desired by the Trump Administration.",
+    "target_paragraph": "In October and November 2024, both parties moved for summary judgment. In January 2025, the newly inaugurated President Trump issued several Executive Orders stating there is no federal obligation to avoid discrimination against transgender people. On January 27, 2025, Judge Kacsmaryk ordered the parties to submit a joint brief detailing how new Executive Orders bear on the disposition of the litigation. Pursuant to the court's order, parties submitted the joint brief on February 10, 2025. In this brief, the parties agreed that plaintiffs retained standing and that, even in light of prior Executive Orders, the case was not moot.",
+    "target_paragraph_indices": [
+      1386,
+      2022
+    ],
+    "edits": [
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1635,
+            1793
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 27, 2025: Judge Kacsmaryk ordered the parties to submit a joint brief regarding the impact of new Executive Orders.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1457,
+            1634
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 2025: President Trump issued several Executive Orders stating there is no federal obligation to avoid discrimination against transgender people.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1386,
+            1456
+          ]
+        ],
+        "annotation": {
+          "explanation": "Both sides filed cross-motions for summary judgment in Oct\u2013Nov 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1457,
+            1634
+          ],
+          [
+            1635,
+            1793
+          ],
+          [
+            1794,
+            2022
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 2025 Trump Executive Orders rejecting federal transgender-discrimination obligations prompted the court to request a joint brief; on 10 Feb 2025 both sides confirmed Texas still had standing and the case remained live.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1386,
+            1456
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff\u2019s motion for summary judgment filed October 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1386,
+            1456
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant\u2019s motion for summary judgment filed November 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1794,
+            1880
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint brief filed by all parties on February 10, 2025, addressing the impact of January 2025 Executive Orders on the case.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1386,
+            1456
+          ]
+        ],
+        "annotation": {
+          "explanation": "Both parties filed motions for summary judgment in October\u2013November 2024",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1635,
+            1793
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 27, 2025: court order directing parties to file a joint brief on effect of new Executive Orders",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1794,
+            1880
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint brief submitted February 10, 2025",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            1386,
+            1456
+          ],
+          [
+            2024,
+            2258
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 25 2025, Judge Kacsmaryk granted the plaintiff\u2019s motion for summary judgment (and, by implication, denied the EEOC\u2019s competing motion), vacating the relevant portions of the 2024 EEOC workplace-harassment guidance.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            3,
+            4
+          ]
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "45696_p4",
+    "metadata": {
+      "case_id": "45696",
+      "paragraph_num": 4,
+      "total_paragraphs": 6,
+      "model": "o3-2025-04-16",
+      "paragraph_text_preview": "On May 25 2025, Judge Kacsmaryk granted plaintiff's motion for summary judgment, holding that denial..."
+    },
+    "source": "",
+    "target": "This case is a follow-up to a case brought by Texas against the EEOC about its similar 2022 workplace harassment guidance regarding transgender employees; in that case, District Judge Matthew J. Kacsmaryk ruled that the EEOC exceeded its statutory rulemaking by \u201c...conflat[ing] protected class status with all correlated conduct.\u201d Texas v. EEOC, 2022 WL 4835346 at *13 (N.D. Tex. 2022).\n\nThis case challenges the EEOC\u2019s April 2024 guidance under Title VII of the 1964 Civil Rights Act about workplace harassment of transgender employees. Represented by the Heritage Foundation, Texas contested the EEOC\u2019s interpretation of Title VII; in particular, Texas alleged, the parts of the Guidance about pronouns, bathrooms, and dress codes conflicted with the U.S. Supreme Court's carefully limited holding in Bostock v. Clayton County, 590 U.S. 644 (2020), and with Title VII, which (Texas argued) does not require employers to accommodate sex, but merely requires non-discrimination.\n\nTexas filed the case on August 15, 2024, in the U.S. District Court for the Northern District of Texas, seeking an injunction to stop implementation and enforcement of the 2024 Guidance, because it was not (as it should have been) published in the Federal Register, was contrary to law, arbitrary and capricious, and exceeded EEOC's statutory rulemaking authority under the Administrative Procedure Act.\n\nIn October and November 2024, both parties moved for summary judgment. In January 2025, the newly inaugurated President Trump issued several Executive Orders stating there is no federal obligation to avoid discrimination against transgender people. On January 27, 2025, Judge Kacsmaryk ordered the parties to submit a joint brief detailing how new Executive Orders bear on the disposition of the litigation. Pursuant to the court's order, parties submitted the joint brief on February 10, 2025. In this brief, the parties agreed that plaintiffs retained standing and that, even in light of prior Executive Orders, the case was not moot.\n\nOn May 25 2025, Judge Kacsmaryk granted plaintiff's motion for summary judgment, holding that denial of accommodations for gender non-conforming employees did not constitute actionable discrimination by an employer under Loper Bright. Judge Kacsmaryk further stated that Congress reserved the exclusive authority to define its definition of \"sex\" under Title VII, holding that the EEOC had overstepped its authority. The decision effectively vacated relevant portions of the updated EEOC guidelines.\n\nThis outcome was precisely the one desired by the Trump Administration.",
+    "target_paragraph": "On May 25 2025, Judge Kacsmaryk granted plaintiff's motion for summary judgment, holding that denial of accommodations for gender non-conforming employees did not constitute actionable discrimination by an employer under Loper Bright. Judge Kacsmaryk further stated that Congress reserved the exclusive authority to define its definition of \"sex\" under Title VII, holding that the EEOC had overstepped its authority. The decision effectively vacated relevant portions of the updated EEOC guidelines.",
+    "target_paragraph_indices": [
+      2024,
+      2523
+    ],
+    "edits": [
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2024,
+            2223
+          ]
+        ],
+        "annotation": {
+          "explanation": "No",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2024,
+            2258
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 25, 2025: Judge Kacsmaryk granted plaintiff's motion for summary judgment and vacated relevant portions of the EEOC guidelines.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2024,
+            2258
+          ],
+          [
+            2259,
+            2523
+          ]
+        ],
+        "annotation": {
+          "explanation": "On 25 May 2025 the court granted Texas summary judgment, ruled the EEOC exceeded its authority, denied that lack of accommodations constitutes discrimination, and vacated the challenged portions of the guidance.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2024,
+            2103
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court order dated May 25, 2025, granting plaintiff\u2019s motion for summary judgment and vacating relevant portions of the EEOC guidance.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2024,
+            2104
+          ],
+          [
+            2441,
+            2523
+          ]
+        ],
+        "annotation": {
+          "explanation": "EEOC is ordered/prevented from implementing or enforcing the vacated portions of its April 2024 workplace-harassment guidance; those portions are vacated and have no legal force.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2024,
+            2258
+          ],
+          [
+            2441,
+            2523
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court granted summary judgment for Texas and vacated the relevant portions of the EEOC\u2019s 2024 workplace-harassment guidance, thereby preventing the EEOC from implementing or enforcing those vacated sections.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "checklist_extraction",
+        "output_idx": [
+          [
+            2024,
+            2258
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 25, 2025: Judge Kacsmaryk granted plaintiff\u2019s motion for summary judgment and vacated relevant parts of EEOC guidance",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "45696_p5",
+    "metadata": {
+      "case_id": "45696",
+      "paragraph_num": 5,
+      "total_paragraphs": 6,
+      "model": "o3-2025-04-16",
+      "paragraph_text_preview": "This outcome was precisely the one desired by the Trump Administration."
+    },
+    "source": "",
+    "target": "This case is a follow-up to a case brought by Texas against the EEOC about its similar 2022 workplace harassment guidance regarding transgender employees; in that case, District Judge Matthew J. Kacsmaryk ruled that the EEOC exceeded its statutory rulemaking by \u201c...conflat[ing] protected class status with all correlated conduct.\u201d Texas v. EEOC, 2022 WL 4835346 at *13 (N.D. Tex. 2022).\n\nThis case challenges the EEOC\u2019s April 2024 guidance under Title VII of the 1964 Civil Rights Act about workplace harassment of transgender employees. Represented by the Heritage Foundation, Texas contested the EEOC\u2019s interpretation of Title VII; in particular, Texas alleged, the parts of the Guidance about pronouns, bathrooms, and dress codes conflicted with the U.S. Supreme Court's carefully limited holding in Bostock v. Clayton County, 590 U.S. 644 (2020), and with Title VII, which (Texas argued) does not require employers to accommodate sex, but merely requires non-discrimination.\n\nTexas filed the case on August 15, 2024, in the U.S. District Court for the Northern District of Texas, seeking an injunction to stop implementation and enforcement of the 2024 Guidance, because it was not (as it should have been) published in the Federal Register, was contrary to law, arbitrary and capricious, and exceeded EEOC's statutory rulemaking authority under the Administrative Procedure Act.\n\nIn October and November 2024, both parties moved for summary judgment. In January 2025, the newly inaugurated President Trump issued several Executive Orders stating there is no federal obligation to avoid discrimination against transgender people. On January 27, 2025, Judge Kacsmaryk ordered the parties to submit a joint brief detailing how new Executive Orders bear on the disposition of the litigation. Pursuant to the court's order, parties submitted the joint brief on February 10, 2025. In this brief, the parties agreed that plaintiffs retained standing and that, even in light of prior Executive Orders, the case was not moot.\n\nOn May 25 2025, Judge Kacsmaryk granted plaintiff's motion for summary judgment, holding that denial of accommodations for gender non-conforming employees did not constitute actionable discrimination by an employer under Loper Bright. Judge Kacsmaryk further stated that Congress reserved the exclusive authority to define its definition of \"sex\" under Title VII, holding that the EEOC had overstepped its authority. The decision effectively vacated relevant portions of the updated EEOC guidelines.\n\nThis outcome was precisely the one desired by the Trump Administration.",
+    "target_paragraph": "This outcome was precisely the one desired by the Trump Administration.",
+    "target_paragraph_indices": [
+      2525,
+      2596
+    ],
+    "edits": []
+  }
+]
