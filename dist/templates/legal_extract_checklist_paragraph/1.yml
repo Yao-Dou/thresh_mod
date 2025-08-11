@@ -49,20 +49,6 @@ font_size:
   target: 16
 
 edits:
-  # Main checklist extraction type that matches the data's category
-  - name: checklist_extraction
-    label: "Checklist Item Extraction"
-    color: blue
-    icon: fa-clipboard-check
-    type: multi_span
-    enable_output: true
-    annotation:
-      - name: explanation
-        label: "Extracted Value"
-        question: "What is the extracted value for this checklist item?"
-        options: textarea
-        prefilled: true
-
   # Individual checklist items for the "Add Value" interface
   # Basic Case Information (Blue with folder icon)
   - name: filing_date
