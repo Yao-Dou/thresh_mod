@@ -312,6 +312,14 @@ export default {
             if (edit['category'] === 'focus-area') {
                 return `<span class="focus-area-highlight">`;
             }
+            
+            // --- Handle paragraph highlighting for paragraph-level data ---
+            if (edit['category'] === 'current-paragraph') {
+                return `<span class="current-paragraph">`;
+            }
+            if (edit['category'] === 'other-paragraph') {
+                return `<span class="other-paragraph">`;
+            }
 
             // Case 1: The span is the one currently being selected by the user.
             // Render it as a simple, non-interactive highlighted area.
@@ -357,6 +365,37 @@ export default {
                     });
                 });
             }
+            
+            // --- ADD PARAGRAPH HIGHLIGHTING FOR PARAGRAPH-LEVEL DATA ---
+            // Check if this is paragraph-level data and we're rendering the target
+            if (this.config.data_format === 'paragraph' && sent_type === 'output_idx' && current_hit_data.target_paragraph_indices) {
+                const [para_start, para_end] = current_hit_data.target_paragraph_indices;
+                
+                // Add current paragraph as a special edit
+                hit_edits.push({
+                    "category": "current-paragraph",
+                    "id": "current-para",
+                    [sent_type]: [[para_start, para_end]]
+                });
+                
+                // Add other paragraphs (before and after) as special edits
+                if (para_start > 0) {
+                    hit_edits.push({
+                        "category": "other-paragraph",
+                        "id": "before-para",
+                        [sent_type]: [[0, para_start]]
+                    });
+                }
+                
+                if (para_end < sent.length) {
+                    hit_edits.push({
+                        "category": "other-paragraph",
+                        "id": "after-para",
+                        [sent_type]: [[para_end, sent.length]]
+                    });
+                }
+            }
+            // --- END PARAGRAPH HIGHLIGHTING CODE ---
             // --- END NEW (REVISED) CODE ---
 
             if (includes_selection) {

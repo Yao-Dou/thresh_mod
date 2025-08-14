@@ -29,6 +29,17 @@
     font-weight: 600;
 }
 
+/* Styles for paragraph-level highlighting */
+.current-paragraph {
+    color: #000000;  /* Black for current paragraph */
+    background-color: rgba(255, 255, 255, 0);  /* Transparent background */
+}
+
+.other-paragraph {
+    color: #4a4a4a;  /* Dark grey for other paragraphs */
+    background-color: rgba(0, 0, 0, 0.02);  /* Very light grey background */
+}
+
 .boundary-editing-active {
     border: 2px dashed #007bff !important;
     background-color: rgba(0, 123, 255, 0.1) !important;
@@ -197,6 +208,81 @@
 
 .edit-box {
     width: 200px;
+}
+
+/* Container for the entire Adding a Value box */
+#add_an_edit #dropdown-button-container {
+    max-height: calc(100vh - 200px);
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 10px;
+}
+
+/* Container for Annotating a Value boxes */
+.quality-selection[id$="_edit_annotation"] #dropdown-button-container {
+    max-height: calc(100vh - 200px);
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 10px;
+}
+
+/* Container for Edit Evidences box */
+#boundary_edit_panel {
+    max-height: calc(100vh - 200px);
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 10px;
+}
+
+/* Responsive adjustments for small screens */
+@media (max-height: 768px) {
+    #add_an_edit #dropdown-button-container,
+    .quality-selection[id$="_edit_annotation"] #dropdown-button-container,
+    #boundary_edit_panel {
+        max-height: calc(100vh - 150px);
+    }
+}
+
+@media (max-height: 600px) {
+    #add_an_edit #dropdown-button-container,
+    .quality-selection[id$="_edit_annotation"] #dropdown-button-container,
+    #boundary_edit_panel {
+        max-height: calc(100vh - 120px);
+    }
+}
+
+/* Remove overflow from the checklist items container since parent now handles it */
+#dropdown-button-container .tc.mb3,
+.editor-container .row .tc.mb3 {
+    /* max-height and overflow removed - now handled by parent container */
+    padding-right: 10px;
+}
+
+/* Custom scrollbar for all annotation containers */
+#add_an_edit #dropdown-button-container::-webkit-scrollbar,
+.quality-selection[id$="_edit_annotation"] #dropdown-button-container::-webkit-scrollbar,
+#boundary_edit_panel::-webkit-scrollbar {
+    width: 8px;
+}
+
+#add_an_edit #dropdown-button-container::-webkit-scrollbar-track,
+.quality-selection[id$="_edit_annotation"] #dropdown-button-container::-webkit-scrollbar-track,
+#boundary_edit_panel::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+#add_an_edit #dropdown-button-container::-webkit-scrollbar-thumb,
+.quality-selection[id$="_edit_annotation"] #dropdown-button-container::-webkit-scrollbar-thumb,
+#boundary_edit_panel::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+#add_an_edit #dropdown-button-container::-webkit-scrollbar-thumb:hover,
+.quality-selection[id$="_edit_annotation"] #dropdown-button-container::-webkit-scrollbar-thumb:hover,
+#boundary_edit_panel::-webkit-scrollbar-thumb:hover {
+    background: #555;
 }
 
 

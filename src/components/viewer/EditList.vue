@@ -53,6 +53,53 @@ export default {
         },
     },
     methods: {
+        getCategoryLabel(category) {
+            // Map category names to display labels
+            const categoryLabels = {
+                'filing_date': 'Filing Date',
+                'parties': 'Who are the Parties',
+                'class_action': 'Class Action or Individual Plaintiffs',
+                'type_of_counsel': 'Type of Counsel',
+                'cause_of_action': 'Cause of Action',
+                'statutory_basis': 'Statutory or Constitutional Basis for the Case',
+                'remedy_sought': 'Remedy Sought',
+                'judge_name': 'First and Last Name of Judge',
+                'consolidated_cases': 'Consolidated Cases Noted',
+                'related_cases': 'Related Cases Listed by Their Case Code Number',
+                'important_filings': 'Note Important Filings',
+                'court_rulings': 'Court Rulings',
+                'reported_opinions': 'All Reported Opinions Cited with Shortened Bluebook Citation',
+                'trials': 'Trials',
+                'appeals': 'Appeals',
+                'decree_terms': 'Significant Terms of Decrees',
+                'decree_dates': 'Dates of All Decrees',
+                'decree_duration': 'How Long Decrees will Last',
+                'settlement_terms': 'Significant Terms of Settlement',
+                'settlement_date': 'Date of Settlement',
+                'settlement_duration': 'How Long Settlement will Last',
+                'court_enforced': 'Whether the Settlement is Court-enforced or Not',
+                'settlement_disputes': 'Disputes Over Settlement Enforcement',
+                'monitor_name': 'Name of the Monitor',
+                'monitor_reports': 'Monitor Reports',
+                'factual_basis': 'Factual Basis of Case'
+            };
+            
+            return categoryLabels[category] || category;
+        },
+        isChecklistCategory(category) {
+            // Check if a category is one of the checklist item categories
+            const checklistCategories = [
+                'filing_date', 'parties', 'class_action', 'type_of_counsel',
+                'cause_of_action', 'statutory_basis', 'remedy_sought', 'judge_name',
+                'consolidated_cases', 'related_cases', 'important_filings', 'court_rulings',
+                'reported_opinions', 'trials', 'appeals', 'decree_terms', 'decree_dates',
+                'decree_duration', 'settlement_terms', 'settlement_date', 'settlement_duration',
+                'court_enforced', 'settlement_disputes', 'monitor_name', 'monitor_reports',
+                'factual_basis', 'checklist_extraction'  // Include the generic one too
+            ];
+            
+            return checklistCategories.includes(category);
+        },
         annotate_edit(e) {
             if (this.boundary_editing_mode) {
                 return;
@@ -184,7 +231,7 @@ export default {
 
                 if (annotating_span.hasOwnProperty('output_idx')) {
                     let new_edit_span = ""
-                    const isChecklistExtraction = category === 'checklist_extraction';
+                    const isChecklistExtraction = this.isChecklistCategory(category);
                     
                     // Helper function for annotating box - show full text for checklist extraction
                     const truncateText = (text) => {
@@ -234,7 +281,7 @@ export default {
                 }
             }
 
-            this.set_annotating_edit_span_category_id(real_id)
+            this.set_annotating_edit_span_category_id(id)
         },
         trash_edit(e) {
             const real_id = parseInt(e.target.dataset.id.split("-")[1])
@@ -321,9 +368,14 @@ export default {
         },
         render_edit_text(edit, i, key, light) {
             const edit_config = this.getEditConfig(key)
-            // For checklist extraction, use the metadata's checklist_item if available
             let edit_label = edit_config.label ? edit_config.label : key
-            if (key === 'checklist_extraction' && this.hits_data[this.current_hit - 1]?.metadata?.checklist_item) {
+            
+            // For paragraph-level data, use the category to get the proper label
+            if (this.config.data_format === 'paragraph') {
+                // Use the category mapping for paragraph-level data
+                edit_label = this.getCategoryLabel(key)
+            } else if (key === 'checklist_extraction' && this.hits_data[this.current_hit - 1]?.metadata?.checklist_item) {
+                // Use metadata checklist_item for item-level data with generic category
                 edit_label = this.hits_data[this.current_hit - 1].metadata.checklist_item
             }
 
@@ -340,7 +392,7 @@ export default {
                 return text;
             };
 
-            const isChecklistExtraction = key === 'checklist_extraction';
+            const isChecklistExtraction = this.isChecklistCategory(key);
 
             if (edit_config['type'] == 'multi_span') {
                 // Handle checklist extraction with clean design
@@ -452,9 +504,14 @@ export default {
                 
                 // Render edit
                 const edit_config = this.getEditConfig(key)
-                // For checklist extraction, use the metadata's checklist_item if available
                 let edit_label = edit_config && edit_config.label ? edit_config.label : key
-                if (key === 'checklist_extraction' && this.hits_data[this.current_hit - 1]?.metadata?.checklist_item) {
+                
+                // For paragraph-level data, use the category to get the proper label
+                if (this.config.data_format === 'paragraph') {
+                    // Use the category mapping for paragraph-level data
+                    edit_label = this.getCategoryLabel(key)
+                } else if (key === 'checklist_extraction' && this.hits_data[this.current_hit - 1]?.metadata?.checklist_item) {
+                    // Use metadata checklist_item for item-level data with generic category
                     edit_label = this.hits_data[this.current_hit - 1].metadata.checklist_item
                 }
                 if (edit_config == null) { continue }

@@ -39,6 +39,53 @@ export default {
         }
     },
     methods: {
+        isChecklistCategory(category) {
+            // Check if a category is one of the checklist item categories
+            const checklistCategories = [
+                'filing_date', 'parties', 'class_action', 'type_of_counsel',
+                'cause_of_action', 'statutory_basis', 'remedy_sought', 'judge_name',
+                'consolidated_cases', 'related_cases', 'important_filings', 'court_rulings',
+                'reported_opinions', 'trials', 'appeals', 'decree_terms', 'decree_dates',
+                'decree_duration', 'settlement_terms', 'settlement_date', 'settlement_duration',
+                'court_enforced', 'settlement_disputes', 'monitor_name', 'monitor_reports',
+                'factual_basis', 'checklist_extraction'
+            ];
+            
+            return checklistCategories.includes(category);
+        },
+        getCategoryLabel(category) {
+            // Map category names to display labels
+            const categoryLabels = {
+                'filing_date': 'Filing Date',
+                'parties': 'Who are the Parties',
+                'class_action': 'Class Action or Individual Plaintiffs',
+                'type_of_counsel': 'Type of Counsel',
+                'cause_of_action': 'Cause of Action',
+                'statutory_basis': 'Statutory or Constitutional Basis for the Case',
+                'remedy_sought': 'Remedy Sought',
+                'judge_name': 'First and Last Name of Judge',
+                'consolidated_cases': 'Consolidated Cases Noted',
+                'related_cases': 'Related Cases Listed by Their Case Code Number',
+                'important_filings': 'Note Important Filings',
+                'court_rulings': 'Court Rulings',
+                'reported_opinions': 'All Reported Opinions Cited with Shortened Bluebook Citation',
+                'trials': 'Trials',
+                'appeals': 'Appeals',
+                'decree_terms': 'Significant Terms of Decrees',
+                'decree_dates': 'Dates of All Decrees',
+                'decree_duration': 'How Long Decrees will Last',
+                'settlement_terms': 'Significant Terms of Settlement',
+                'settlement_date': 'Date of Settlement',
+                'settlement_duration': 'How Long Settlement will Last',
+                'court_enforced': 'Whether the Settlement is Court-enforced or Not',
+                'settlement_disputes': 'Disputes Over Settlement Enforcement',
+                'monitor_name': 'Name of the Monitor',
+                'monitor_reports': 'Monitor Reports',
+                'factual_basis': 'Factual Basis of Case'
+            };
+            
+            return categoryLabels[category] || category;
+        },
         fix_edit_box_formatting() {
             // Fix edit box formatting
             let editBoxes = $(".edit-box label");
@@ -199,16 +246,20 @@ export default {
             this.refresh_edit();
         },
         cancel_annotation_click(category, e) {
-            const id = this.annotating_edit_span_category_id;
-            if (id === null || id === undefined) {
+            const id_str = this.annotating_edit_span_category_id;
+            if (id_str === null || id_str === undefined) {
                 console.warn('No annotation span ID found, cannot cancel annotation');
                 return;
             }
+            // Parse the numeric ID from the category-id string format
+            const id = parseInt(id_str.split("-")[1]);
+            const span_category = id_str.split("-")[0];
+            
             $(".icon-default").removeClass("open");
-            this.reset_annotation_colors(category, id);
+            this.reset_annotation_colors(span_category, id);
             
             // Remove highlight from annotation container
-            $(`.edit-container[data-edit-id='${category}-${id}']`).css('background-color', '');
+            $(`.edit-container[data-edit-id='${span_category}-${id}']`).css('background-color', '');
             
             this.set_hits_data(_.cloneDeep(this.hits_data));
             this.refresh_edit();
@@ -240,19 +291,29 @@ export default {
             return hasNonNullChild ? newObj : null;
         },
         save_annotation_click(category, e) {
-            let edit_id = this.annotating_edit_span_category_id;
-            if (edit_id === null || edit_id === undefined) {
+            let edit_id_str = this.annotating_edit_span_category_id;
+            if (edit_id_str === null || edit_id_str === undefined) {
                 console.error('No annotating edit span category ID found');
                 return;
             }
+            // Parse the numeric ID from the category-id string format
+            const edit_id = parseInt(edit_id_str.split("-")[1]);
+            const span_category = edit_id_str.split("-")[0];
+            
             let new_hits_data = _.cloneDeep(this.hits_data);
             let new_annotation = _.cloneDeep(this.edit_state[category]);
-            let annotating_span = new_hits_data[this.current_hit - 1]['edits'].find(entry => entry['category'] === category && entry['id'] === edit_id);
+            let annotating_span = new_hits_data[this.current_hit - 1]['edits'].find(entry => entry['category'] === span_category && entry['id'] === edit_id);
+            
+            if (!annotating_span) {
+                console.error(`Could not find span with category=${span_category} and id=${edit_id}`);
+                return;
+            }
+            
             annotating_span.annotation = this.removeNullElements(new_annotation);
-            this.reset_annotation_colors(category, edit_id);
+            this.reset_annotation_colors(span_category, edit_id);
             
             // Remove highlight from annotation container
-            $(`.edit-container[data-edit-id='${category}-${edit_id}']`).css('background-color', '');
+            $(`.edit-container[data-edit-id='${span_category}-${edit_id}']`).css('background-color', '');
             
             this.set_hits_data(new_hits_data);
             this.refresh_edit();
@@ -485,16 +546,60 @@ export default {
             // ... (no changes in this method)
             return this.config['edits'].find(entry => entry['name'] === category);
         },
-        getDisplayLabel(item) {
-            // For checklist extraction, use the actual checklist item name from metadata
-            if (item.name === 'checklist_extraction') {
+        getAnnotatingEditLabel() {
+            // Get the label for the edit currently being annotated
+            if (this.annotating_edit_span_category_id) {
+                const annotatingId = parseInt(this.annotating_edit_span_category_id.split("-")[1]);
+                const category = this.annotating_edit_span_category_id.split("-")[0];
+                const currentHit = this.hits_data[this.current_hit - 1];
+                
+                // For paragraph-level data, use the category to get the proper label
+                if (this.config.data_format === 'paragraph') {
+                    return this.getCategoryLabel(category);
+                }
+                
+                // For item-level data, use metadata
+                if (this.config.data_format === 'item' && currentHit && currentHit.metadata && currentHit.metadata.checklist_item) {
+                    return currentHit.metadata.checklist_item;
+                }
+            }
+            
+            return "Checklist Item Extraction";
+        },
+        getDisplayLabel(item, isAnnotating = false) {
+            // For paragraph-level data, use the category to get the proper label
+            if (this.config.data_format === 'paragraph' && item && item.name) {
+                return this.getCategoryLabel(item.name);
+            }
+            
+            // For item-level data with checklist_extraction
+            if (item && item.name === 'checklist_extraction' && this.config.data_format === 'item') {
                 const currentHit = this.hits_data[this.current_hit - 1];
                 if (currentHit && currentHit.metadata && currentHit.metadata.checklist_item) {
                     return currentHit.metadata.checklist_item;
                 }
             }
-            // For other edit types, use the original label
-            return item.label;
+            
+            // Default: use the original label if item exists
+            return item ? item.label : "Checklist Item Extraction";
+        },
+        getBoundaryEditTitle() {
+            // For paragraph-level data, use the category to get the proper label
+            if (this.config.data_format === 'paragraph' && this.boundary_editing_edit) {
+                const categoryLabel = this.getCategoryLabel(this.boundary_editing_edit.category);
+                return `Edit Evidences of ${categoryLabel}`;
+            }
+            
+            // For item-level data with checklist_extraction
+            if (this.config.data_format === 'item') {
+                const currentHit = this.hits_data[this.current_hit - 1];
+                if (currentHit && currentHit.metadata && currentHit.metadata.checklist_item) {
+                    return `Edit Evidences of ${currentHit.metadata.checklist_item}`;
+                }
+            }
+            
+            // Default fallback
+            return 'Edit Evidences of the extracted checklist item';
         },
         // MODIFIED: This method now resets the new state properties as well.
         refresh_edit() {
@@ -604,7 +709,7 @@ export default {
                     const is_required = !question.hasOwnProperty('required') || question.required;
 
                     // Find the question's element in the DOM to check its visibility.
-                    const q_element = $(`#add_an_edit #question_${category}_${question.name}`);
+                    const q_element = $(`#add_an_edit #question-${category}-${question.name}`);
 
                     // We only validate questions that are both required AND currently visible to the user.
                     if (is_required && q_element.length > 0 && q_element.is(":visible")) {
@@ -628,17 +733,32 @@ export default {
                                 question_state.val !== undefined && 
                                 question_state.val !== '';
                         } else {
-                            // FIXED: For simple questions (including those with string options like 'likert-3'),
-                            // the answer is stored directly in the state object's 'val' property
-                            if (question_state && typeof question_state === 'object' && question_state.hasOwnProperty('val')) {
-                                isAnswered = question_state.val !== null && 
-                                    question_state.val !== undefined && 
-                                    question_state.val !== '';
+                            // Special handling for textarea questions - ensure actual content exists
+                            if (question.options === 'textarea') {
+                                // For textarea, check the direct value or val property
+                                if (question_state && typeof question_state === 'object' && question_state.hasOwnProperty('val')) {
+                                    isAnswered = question_state.val !== null && 
+                                        question_state.val !== undefined && 
+                                        question_state.val !== '' &&
+                                        question_state.val.toString().trim() !== '';  // Must have non-whitespace content
+                                } else if (typeof question_state === 'string') {
+                                    isAnswered = question_state.trim() !== '';  // Must have non-whitespace content
+                                } else {
+                                    isAnswered = false;
+                                }
                             } else {
-                                // Fallback: check if the state itself is the answer (for simple text inputs)
-                                isAnswered = question_state !== null && 
-                                    question_state !== undefined && 
-                                    question_state !== '';
+                                // For other simple questions (including those with string options like 'likert-3'),
+                                // the answer is stored directly in the state object's 'val' property
+                                if (question_state && typeof question_state === 'object' && question_state.hasOwnProperty('val')) {
+                                    isAnswered = question_state.val !== null && 
+                                        question_state.val !== undefined && 
+                                        question_state.val !== '';
+                                } else {
+                                    // Fallback: check if the state itself is the answer (for simple text inputs)
+                                    isAnswered = question_state !== null && 
+                                        question_state !== undefined && 
+                                        question_state !== '';
+                                }
                             }
                         }
 
@@ -665,7 +785,8 @@ export default {
                                         selected_option.options === 'textbox') {
                                     // This is a simple question type - check if it's answered
                                     const sub_answer = question_state[selected_option.name];
-                                    if (sub_answer === null || sub_answer === undefined || sub_answer === '') {
+                                    if (sub_answer === null || sub_answer === undefined || sub_answer === '' ||
+                                        (typeof sub_answer === 'string' && sub_answer.trim() === '')) {
                                         return false;
                                     }
                                 }
@@ -759,6 +880,22 @@ export default {
 
             if (!spans_filled_out) return true;
 
+            // For checklist categories, always check if explanation is filled
+            if (this.config.data_format === 'paragraph' && this.isChecklistCategory && this.isChecklistCategory(selected_category)) {
+                const categoryState = this.new_edit_state[selected_category];
+                if (!categoryState || !categoryState.explanation) {
+                    return true; // Disabled - no explanation yet
+                }
+                
+                const explanationValue = typeof categoryState.explanation === 'string' 
+                    ? categoryState.explanation 
+                    : (categoryState.explanation?.val || '');
+                    
+                if (!explanationValue || explanationValue.trim() === '') {
+                    return true; // Disabled - explanation is empty
+                }
+            }
+
             // Now, also check if the annotation questions are valid
             const questions_valid = this.isNewAnnotationFormValid(selected_category, config_category.annotation);
             if (!questions_valid) return true;
@@ -808,7 +945,7 @@ export default {
                                 <div v-if="item.annotation && item.annotation.length > 0 && areSpansSelected(item)">
                                     <hr class="mv3">
                                     <div>
-                                        <p class="mb2 b tracked-light"><i>Please provide details for this edit.</i></p>
+                                        <p class="mb2 b tracked-light"><i>Please write down the value for this item.</i></p>
                                         <div v-for="question in item.annotation" :key="question.id">
                                             <Question 
                                                 :edit_state="new_edit_state"
@@ -840,7 +977,7 @@ export default {
         <div v-if="boundary_editing_mode && config.enable && (Object.values(config.enable).includes('edit_boundary') || Object.values(config.enable).includes('edit_boundary_multi'))" id="boundary_edit_panel" style="display: none;">
             <div class="over-hide z-bigger mt3 editor-container">
                 <p class="f3 annotation-label ttu mv1">
-                    {{ boundary_editing_edit?.multi ? 'Edit Evidences of the extracted checklist item' : 'Edit Boundary' }} 
+                    {{ boundary_editing_edit?.multi ? getBoundaryEditTitle() : 'Edit Boundary' }} 
                     <i class="fa-solid fa-expand-arrows-alt"></i>
                 </p>
                 <div class="tc mb3">
@@ -877,7 +1014,7 @@ export default {
                         <p class="f3 annotation-label ttu mv1">{{ config.interface_text.annotation_editor.annotating_edit_header }} <i class="fa-solid fa-pencil"></i></p>
                         <div class='single_part' />
                         <div class="f4 mt0 mb2 tl">
-                            <span :class="`edit-type txt-${item.name} f4`">{{ getDisplayLabel(item) }} </span>
+                            <span :class="`edit-type txt-${item ? item.name : 'checklist_extraction'} f4`">{{ getAnnotatingEditLabel() }} </span>
 
                             <span v-if="item.enable_input" v-html="annotating_edit_span.source"></span>
                             <span v-if="item.enable_input && item.enable_output" :class="`edit-type txt-${item.name} f3`">&nbsp;{{ config.interface_text.annotation_editor.composite_span_unification }}&nbsp;</span>

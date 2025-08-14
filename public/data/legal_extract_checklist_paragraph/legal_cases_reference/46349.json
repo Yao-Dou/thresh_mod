@@ -1,0 +1,1099 @@
+[
+  {
+    "id": "46349_p0",
+    "metadata": {
+      "case_id": "46349",
+      "paragraph_num": 0,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged the Trump Administration's authority to suspend federal funding to states becau..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "target_paragraph": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.",
+    "target_paragraph_indices": [
+      0,
+      955
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            196,
+            348
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 7, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            613,
+            752
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            613,
+            752
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            753,
+            825
+          ]
+        ],
+        "annotation": {
+          "explanation": "Vacatur and set-aside of the funding freeze",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            826,
+            897
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunctive relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            826,
+            897
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunctive relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            826,
+            897
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            613,
+            752
+          ],
+          [
+            1282,
+            1353
+          ]
+        ],
+        "annotation": {
+          "explanation": "State Attorney General (government counsel)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            898,
+            955
+          ],
+          [
+            1059,
+            1170
+          ]
+        ],
+        "annotation": {
+          "explanation": "John A. Woodcock",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 8
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            196,
+            348
+          ],
+          [
+            613,
+            752
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as the state of Maine",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            196,
+            348
+          ],
+          [
+            613,
+            752
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: State of Maine, represented by the Maine Attorney General",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            196,
+            348
+          ],
+          [
+            2607,
+            2698
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Agriculture (USDA)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            4
+          ]
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            349,
+            612
+          ]
+        ],
+        "annotation": {
+          "explanation": "USDA froze Maine\u2019s schoolchildren feeding funds on April 2, 2025, based on a federal determination that Maine violated Title IX by allowing transgender girls to participate in girls\u2019 school sports.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            196,
+            348
+          ]
+        ],
+        "annotation": {
+          "explanation": "The State of Maine filed suit against the U.S. Department of Agriculture on April 7, 2025, in the U.S. District Court for the District of Maine.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            613,
+            752
+          ]
+        ],
+        "annotation": {
+          "explanation": "Maine, represented by the Maine Attorney General, alleged the funding freeze violated the Administrative Procedure Act.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            753,
+            897
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff sought to vacate and set aside the funding freeze, and requested preliminary and permanent injunctive and declaratory relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            898,
+            955
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case was assigned to District Judge John A. Woodcock.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            195
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: The dispute centered on the Trump Administration\u2019s authority to suspend federal funding to states permitting transgender girls and women to compete in women\u2019s school sports.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            349,
+            450
+          ]
+        ],
+        "annotation": {
+          "explanation": "Nature of funds at issue: federal funds allocated to Maine to feed schoolchildren.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            196,
+            348
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties: Plaintiff is the State of Maine; Defendant is the U.S. Department of Agriculture; Forum: U.S. District Court for the District of Maine.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            196,
+            348
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed in the U.S. District Court for the District of Maine on April 7, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            196,
+            348
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed on April 7, 2025, in the U.S. District Court for the District of Maine.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            898,
+            955
+          ]
+        ],
+        "annotation": {
+          "explanation": "Assigned to District Judge John A. Woodcock.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 22
+      }
+    ]
+  },
+  {
+    "id": "46349_p1",
+    "metadata": {
+      "case_id": "46349",
+      "paragraph_num": 1,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "target_paragraph": "The plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.",
+    "target_paragraph_indices": [
+      957,
+      1353
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            957,
+            1058
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order (TRO)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1059,
+            1170
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 8: set a briefing schedule to conclude by April 10.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            957,
+            1058
+          ],
+          [
+            1059,
+            1170
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff filed a TRO motion with the complaint; the court held a TRO hearing on April 8 and set briefing to conclude by April 10.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1171,
+            1353
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 8, plaintiffs filed an amended complaint with additional factual detail and a verification statement by Maine\u2019s Assistant Attorney General.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            957,
+            1058
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for temporary restraining order (TRO) filed concurrently with the complaint.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1171,
+            1353
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint filed on April 8, 2025 (with additional factual allegations and verification).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            957,
+            1170
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO motion filed with complaint; TRO hearing held April 8, 2025; briefing schedule set to conclude by April 10, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1171,
+            1353
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint filed on April 8, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46349_p2",
+    "metadata": {
+      "case_id": "46349",
+      "paragraph_num": 2,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 9, the court issued an order asking the parties to submit briefings regarding the court's j..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "target_paragraph": "On April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.",
+    "target_paragraph_indices": [
+      1355,
+      1998
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1576,
+            1747
+          ],
+          [
+            1748,
+            1998
+          ]
+        ],
+        "annotation": {
+          "explanation": "Tucker Act, 28 U.S.C. \u00a7 1491 (jurisdictional statute discussed)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            1468,
+            1747
+          ],
+          [
+            1748,
+            1998
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: [../../../../case/46201/] \u2014 a recent Supreme Court opinion cited for Tucker Act jurisdiction (28 U.S.C. \u00a7 1491) suggesting that contract-based suits lie in the U.S. Court of Federal Claims; invoked to assess whether the District of Maine had jurisdiction and whether the Supreme Court ruling is distinguishable.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1355,
+            1467
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 9: issued an order asking the parties to submit briefings regarding the court's jurisdiction.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1355,
+            1467
+          ],
+          [
+            1468,
+            1747
+          ],
+          [
+            1748,
+            1998
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 9, the court requested jurisdictional briefing referencing a recent Supreme Court opinion and the Tucker Act, asking whether the District of Maine had jurisdiction or if exclusive jurisdiction lay in the Court of Federal Claims, and whether the Supreme Court\u2019s holding was distinguishable.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1355,
+            1467
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court order (April 9, 2025) directing jurisdictional briefing.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1355,
+            1467
+          ],
+          [
+            1748,
+            1998
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 9, 2025, the court ordered jurisdictional briefing addressing District of Maine jurisdiction, potential exclusive Tucker Act jurisdiction in the Court of Federal Claims, and whether the cited Supreme Court decision is distinguishable.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46349_p3",
+    "metadata": {
+      "case_id": "46349",
+      "paragraph_num": 3,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds d..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "target_paragraph": "The Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.",
+    "target_paragraph_indices": [
+      2000,
+      2420
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2131,
+            2231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order (TRO): 14 days.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2131,
+            2231
+          ],
+          [
+            2232,
+            2303
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO extension: through May 9, 2025.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2000,
+            2130
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 11: issued a TRO ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2232,
+            2420
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 15: granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction motion by May 2.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2000,
+            2130
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 11, the court issued a TRO directing USDA to unfreeze and release the funds during the TRO\u2019s pendency.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2131,
+            2231
+          ],
+          [
+            2232,
+            2420
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 15, the parties jointly moved to extend the TRO to May 9, 2025; the court granted the extension and ordered the parties to propose a preliminary injunction hearing date by May 2.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2000,
+            2130
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO granted and issued on April 11, 2025, ordering release of frozen funds.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2131,
+            2231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint motion filed on April 15, 2025 to extend the TRO to May 9, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2232,
+            2420
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court order (April 15, 2025) granting the TRO extension motion and directing parties to propose a PI hearing date by May 2.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2000,
+            2130
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant ordered to unfreeze and release the frozen funds during the pendency of the TRO (issued April 11, 2025).",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2131,
+            2231
+          ],
+          [
+            2232,
+            2420
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO extended to May 9, 2025, keeping the order to unfreeze and release funds in effect through that date.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2000,
+            2130
+          ],
+          [
+            2131,
+            2231
+          ],
+          [
+            2232,
+            2303
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order requiring USDA to unfreeze and release the frozen funds; TRO extended through May 9, 2025.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2000,
+            2130
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO issued April 11, 2025, ordering USDA to unfreeze and release funds during the TRO.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2131,
+            2420
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 15, 2025, the parties jointly moved to extend the TRO to May 9, 2025; after an April 15 hearing, the court granted the extension and ordered the parties to propose a PI hearing date by May 2, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2000,
+            2130
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary Restraining Order granted on April 11, 2025, ordering USDA to unfreeze and release the frozen funds during the pendency of the TRO.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2131,
+            2231
+          ],
+          [
+            2232,
+            2420
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint motion to extend the TRO granted on April 15, 2025; TRO extended to May 9, 2025, and parties ordered to propose a PI hearing date by May 2.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": "46349_p4",
+    "metadata": {
+      "case_id": "46349",
+      "paragraph_num": 4,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "target_paragraph": "The case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.",
+    "target_paragraph_indices": [
+      2422,
+      2698
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            2422,
+            2698
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 2",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            2422,
+            2698
+          ]
+        ],
+        "annotation": {
+          "explanation": "No.",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2422,
+            2698
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case settled when USDA restored the funding; Maine withdrew the lawsuit on May 2, per press reports.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2422,
+            2698
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff withdrew the lawsuit on May 2, 2025 (case settled after funding was restored).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2422,
+            2698
+          ]
+        ],
+        "annotation": {
+          "explanation": "As part of settlement, USDA restored the challenged funding.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2422,
+            2698
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement: USDA restored the challenged funding; in exchange, Maine withdrew the lawsuit on May 2, 2025.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2422,
+            2698
+          ],
+          [
+            2700,
+            2720
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case settled; USDA restored funding; Maine withdrew the lawsuit on May 2, 2025; case closed.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46349_p5",
+    "metadata": {
+      "case_id": "46349",
+      "paragraph_num": 5,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is closed."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration's authority to suspend federal funding to states because they continue to permit transgender girls and women to participate in women's school sports. On April 7, 2025, the state of Maine filed this lawsuit against the U.S. Department of Agriculture in the U.S. District Court for the District of Maine. On April 2, 2025, the Department of Agriculture froze funds allocated to Maine to feed schoolchildren because the federal government had determined that Maine was violating Title IX by continuing to permit transgender girls to participate in girls' school sports. Represented by the Maine Attorney General, the plaintiff alleged that the funding freeze violated the Administrative Procedure Act (\"APA\"). The plaintiff asked the court to vacate and set aside the funding freeze and sought preliminary and permanent injunctive and declaratory relief. The case was assigned to District Judge John A. Woodcock.\n\nThe plaintiff filed a motion for a temporary restraining order (TRO) concurrently with the complaint. Judge Woodcock held a hearing on the TRO motion on April 8 and set a briefing schedule to conclude by April 10. Also on April 8, the plaintiffs filed an amended complaint with slightly more detailed factual allegations and a statement of verification by the Assistant Attorney General of Maine.\n\nOn April 9, the court issued an order asking the parties to submit briefings regarding the court's jurisdiction. The court cited a recent Supreme Court opinion in a similar case, [../../../../case/46201/] suggesting that under the Tucker Act (28 U.S.C. \u00a7 1491), jurisdiction for suits based on \"any express or implied contract with the United States\" lies in the U.S. Court of Federal Claims. Judge Woodcock asked the parties to address whether the District of Maine had jurisdiction, whether the Tucker Act provided exclusive jurisdiction in the Claims Court, and whether the Supreme Court's recent holding was distinguishable from this case.\n\nThe Court issued a TRO on April 11 ordering the defendant to unfreeze and release the frozen funds during the pendency of the TRO. On April 15, the parties filed a joint motion to extend the TRO past its 14 day term to May 9, 2025. Following a hearing on April 15, the court granted the extension motion and ordered the parties to propose a hearing date for the forthcoming preliminary injunction (\"PI\") motion by May 2.\n\nThe case then settled; according to press reports [https://www.foxnews.com/sports/maine-drops-trans-athlete-lawsuit-against-trump-administration-after-states-federal-funding-restored], USDA restored the challenged funding, and in exchange, Maine withdrew the lawsuit on May 2.\n\nThis case is closed.",
+    "target_paragraph": "This case is closed.",
+    "target_paragraph_indices": [
+      2700,
+      2720
+    ],
+    "edits": []
+  }
+]

@@ -1,0 +1,428 @@
+template_name: legal_checklist_extraction
+template_label: Legal Checklist Extraction (Paragraph Level)
+template_description: "Extract and verify checklist items from legal case summaries at paragraph level"
+
+# ========================================================================================
+#
+# Template for extracting checklist items from legal case summaries
+# Each instance represents one paragraph from a case with all relevant checklist items
+#
+# ========================================================================================
+
+# Data format configuration: "paragraph" or "item"
+# - "item": Each instance is one checklist item (original format)
+# - "paragraph": Each instance is one paragraph containing multiple checklist items
+data_format: paragraph
+
+display:
+  - side-by-side
+
+enable:
+  # - edit_boundary
+  - edit_boundary_multi
+
+# Box positioning: "fixed" (top of column) or "float" (draggable floating box)
+box_position: float
+
+interface_text:
+  typology:
+    source_label: "Checklist Item"
+    target_label: "Case Summary"
+    edit_unit_name: "value"
+    edits_unit_name: "values"
+    span_unit_name: "span"
+    spans_unit_name: "spans"
+  annotation_editor:
+    add_edit_header: "Adding a Value"
+    select_edit_header: "Select the checklist item to extract."
+    select_instructions: "Select the evidence spans from the"
+    selected_label: "Selected"
+    annotating_edit_header: "Annotating a Value"
+  annotation_viewer:
+    header: "Annotated Values"
+  hit_box:
+    hit_label: "Paragraph"
+
+tutorial_link: # Add your tutorial link here if available
+
+font_size:
+  target: 16
+
+edits:
+  # Individual checklist items for the "Add Value" interface
+  # Basic Case Information (Blue with folder icon)
+  - name: filing_date
+    label: "Filing Date"
+    color: blue
+    icon: fa-folder
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What is the filing date?"
+        options: textarea
+        prefilled: true
+  
+  - name: parties
+    label: "Parties (describe, no names)"
+    color: blue
+    icon: fa-folder
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "Who are the parties?"
+        options: textarea
+        prefilled: true
+  
+  - name: class_action
+    label: "Class Action or Individual Plaintiffs"
+    color: blue
+    icon: fa-folder
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "Is this a class action or individual plaintiffs?"
+        options: textarea
+        prefilled: true
+  
+  - name: type_of_counsel
+    label: "Type of Counsel"
+    color: blue
+    icon: fa-folder
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What type of counsel?"
+        options: textarea
+        prefilled: true
+
+  # Legal Foundation (Green with gavel icon)
+  - name: cause_of_action
+    label: "Cause of Action"
+    color: green
+    icon: fa-gavel
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What is the cause of action?"
+        options: textarea
+        prefilled: true
+  
+  - name: statutory_basis
+    label: "Statutory/Constitutional Basis"
+    color: green
+    icon: fa-gavel
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What is the statutory or constitutional basis?"
+        options: textarea
+        prefilled: true
+  
+  - name: remedy_sought
+    label: "Remedy Sought"
+    color: green
+    icon: fa-gavel
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What remedy is sought?"
+        options: textarea
+        prefilled: true
+
+  # Judge Information (Teal with user-tie icon)
+  - name: judge_name
+    label: "First and Last Name of Judge"
+    color: teal
+    icon: fa-user-tie
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "Who is the judge?"
+        options: textarea
+        prefilled: true
+
+  # Related Cases (Orange with link icon)
+  - name: consolidated_cases
+    label: "Consolidated Cases"
+    color: orange
+    icon: fa-link
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What cases were consolidated?"
+        options: textarea
+        prefilled: true
+  
+  - name: related_cases
+    label: "Related Cases"
+    color: orange
+    icon: fa-link
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What are the related cases?"
+        options: textarea
+        prefilled: true
+
+  # Filings and Proceedings (Red with file-lines icon)
+  - name: important_filings
+    label: "Important Filings"
+    color: red
+    icon: fa-file-lines
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What are the important filings?"
+        options: textarea
+        prefilled: true
+  
+  - name: court_rulings
+    label: "Court Rulings on Important Filings"
+    color: red
+    icon: fa-file-lines
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What were the court rulings?"
+        options: textarea
+        prefilled: true
+  
+  - name: reported_opinions
+    label: "All Reported Opinions"
+    color: red
+    icon: fa-file-lines
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What are the reported opinions?"
+        options: textarea
+        prefilled: true
+  
+  - name: trials
+    label: "Trials"
+    color: red
+    icon: fa-file-lines
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "Were there any trials?"
+        options: textarea
+        prefilled: true
+  
+  - name: appeals
+    label: "Appeals"
+    color: red
+    icon: fa-file-lines
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "Were there any appeals?"
+        options: textarea
+        prefilled: true
+
+  # Decrees (Yellow)
+  - name: decree_terms
+    label: "Significant Terms of Decrees"
+    color: yellow
+    icon: fa-scroll
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What are the significant terms of decrees?"
+        options: textarea
+        prefilled: true
+  
+  - name: decree_dates
+    label: "Dates of All Decrees"
+    color: yellow
+    icon: fa-calendar-check
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What are the decree dates?"
+        options: textarea
+        prefilled: true
+  
+  - name: decree_duration
+    label: "Duration of Decrees"
+    color: yellow
+    icon: fa-clock
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "How long will the decrees last?"
+        options: textarea
+        prefilled: true
+
+  # Settlements (Teal)
+  - name: settlement_terms
+    label: "Significant Terms of Settlement"
+    color: teal
+    icon: fa-handshake
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What are the settlement terms?"
+        options: textarea
+        prefilled: true
+  
+  - name: settlement_date
+    label: "Date of Settlement"
+    color: teal
+    icon: fa-calendar-days
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "When was the settlement?"
+        options: textarea
+        prefilled: true
+  
+  - name: settlement_duration
+    label: "Duration of Settlement"
+    color: teal
+    icon: fa-hourglass
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "How long will the settlement last?"
+        options: textarea
+        prefilled: true
+  
+  - name: court_enforced
+    label: "Whether Settlement is Court-enforced"
+    color: teal
+    icon: fa-shield-halved
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "Is the settlement court-enforced?"
+        options: textarea
+        prefilled: true
+  
+  - name: settlement_disputes
+    label: "Disputes Over Settlement Enforcement"
+    color: teal
+    icon: fa-triangle-exclamation
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "Are there disputes over settlement enforcement?"
+        options: textarea
+        prefilled: true
+
+  # Monitoring (Orange)
+  - name: monitor_name
+    label: "Monitor Name"
+    color: orange
+    icon: fa-user-shield
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "Who is the monitor?"
+        options: textarea
+        prefilled: true
+  
+  - name: monitor_reports
+    label: "Monitor's Reports"
+    color: orange
+    icon: fa-clipboard-list
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What do the monitor reports say?"
+        options: textarea
+        prefilled: true
+
+  # Context (Blue)
+  - name: factual_basis
+    label: "Factual Basis of Case"
+    color: blue
+    icon: fa-file-text
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What is the factual basis of the case?"
+        options: textarea
+        prefilled: true
+
+# Additional metadata for the task
+task_info:
+  checklist_items:
+    - "Filing Date"
+    - "Cause of Action"
+    - "Statutory or Constitutional Basis for the Case"
+    - "Remedy Sought"
+    - "Type of Counsel"
+    - "First and Last name of Judge"
+    - "All Reported Opinions Cited with Shortened Bluebook Citation"
+    - "Class Action or Individual Plaintiffs"
+    - "Related Cases Listed by Their Case Code Number"
+    - "How Long Decrees will Last"
+    - "Date of Settlement"
+    - "How Long Settlement will Last"
+    - "Whether the Settlement is Court-enforced or Not"
+    - "Name of the Monitor"
+    - "Appeal"
+    - "Who are the Parties"
+    - "Consolidated Cases Noted"
+    - "Dates of All Decrees"
+    - "Factual Basis of Case"
+    - "Note Important Filings"
+    - "Significant Terms of Decrees"
+    - "Significant Terms of Settlement"
+    - "Monitor Reports"
+    - "Trials"
+    - "Court Rulings"
+    - "Disputes Over Settlement Enforcement"

@@ -87,6 +87,11 @@
           }
           this.config = new_config
           
+          // Set default data_format if not specified
+          if (!this.config.data_format) {
+            this.config.data_format = 'item';  // Default to item level for backward compatibility
+          }
+          
           if (this.config.template_label) {
             $('title').text(this.config.template_label);
           }
@@ -373,8 +378,8 @@
           </div>            
         </div>
         
-        <!-- Checklist Item Definition -->
-        <div v-if="hits_data && hits_data[current_hit - 1] && hits_data[current_hit - 1].metadata" class="checklist-definition ba b--black-20 br2 pa3 bg-light-gray">
+        <!-- Checklist Item Definition (only for item-level data) -->
+        <div v-if="config.data_format === 'item' && hits_data && hits_data[current_hit - 1] && hits_data[current_hit - 1].metadata" class="checklist-definition ba b--black-20 br2 pa3 bg-light-gray">
           <div class="f4 b mb2">
             <i class="fa fa-clipboard-check mr2" aria-hidden="true"></i>
             Current Checklist Item: 

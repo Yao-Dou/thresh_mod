@@ -67,11 +67,23 @@ export default {
             var dParam = params.get("d");
             var ghParam = params.get("gh");
             var hfParam = params.get("hf");
+            var cidParam = params.get("cid");
             
             // Check if this is the /legal route and set default data
             const isLegalRoute = window.location.pathname.endsWith('/legal') || window.location.pathname.endsWith('/legal/');
             if (isLegalRoute && !dParam) {
-                dParam = 'data/legal_extract_checklist/legal_cases_reference/45696.json';
+                // Use cid parameter if provided, otherwise default to 46210
+                // Valid case IDs
+                const validCaseIds = ['45696', '46094', '46210', '46234', '46349'];
+                let caseId = cidParam || '46210';
+                
+                // Validate the case ID
+                if (cidParam && !validCaseIds.includes(cidParam)) {
+                    console.warn(`Invalid case ID: ${cidParam}. Using default case 46210.`);
+                    caseId = '46210';
+                }
+                
+                dParam = `data/legal_extract_checklist_paragraph/legal_cases_reference/${caseId}.json`;
             }
             
             var prolificPID = params.get("PROLIFIC_PID");
@@ -143,8 +155,8 @@ export default {
             this.customize_template_link = template_name
         } else if (isLegalRoute) {
             // Default template for legal route
-            template_name = `templates/legal_extract_checklist/1.yml`
-            this.customize_template_link = 'legal_extract_checklist/1'
+            template_name = `templates/legal_extract_checklist_paragraph/1.yml`
+            this.customize_template_link = 'legal_extract_checklist_paragraph/1'
         } else {
             template_name = `templates/${this.template_path}.yml`
             this.customize_template_link = this.template_path
