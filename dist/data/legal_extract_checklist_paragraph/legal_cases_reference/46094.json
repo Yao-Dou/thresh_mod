@@ -5,7 +5,7 @@
       "case_id": "46094",
       "paragraph_num": 0,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "This is a challenge to the second Trump administration's purported firing of Hampton Dellinger, the ..."
     },
     "source": "",
@@ -17,26 +17,78 @@
     ],
     "edits": [
       {
-        "category": "parties",
+        "category": "class_action",
         "output_idx": [
           [
             0,
-            149
+            262
           ],
           [
             559,
             930
+          ],
+          [
+            931,
+            976
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiff: Hampton Dellinger, head of the U.S. Office of Special Counsel (OSC), appointed by President Joe Biden to a five-year term confirmed in March 2024; Defendants: President Donald J. Trump; the Secretary of the Treasury; the Director of the White House Presidential Personnel Office; the Acting Special Counsel of the OSC; the Chief Operating Officer of the OSC; and the Director of the Office of Management and Budget.",
-          "checklist_item": "Who are the Parties",
+          "explanation": "Plaintiffs: Individual, described as Hampton Dellinger, the head of the U.S. Office of Special Counsel (OSC)",
+          "checklist_item": "Class Action or Individual Plaintiffs",
           "spans_paragraphs": [
             0,
             1
           ]
         },
         "id": 0
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            148
+          ],
+          [
+            559,
+            665
+          ],
+          [
+            977,
+            1095
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Hampton Dellinger, head of the U.S. Office of Special Counsel (OSC); appointed by President Joe Biden to a five-year term and confirmed by the Senate in March 2024.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            262
+          ],
+          [
+            1222,
+            1407
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants attempted to remove Hampton Dellinger on February 7, 2025 via a one-sentence email that did not comply with the statutory for-cause removal requirement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 2
       }
     ]
   },
@@ -46,7 +98,7 @@
       "case_id": "46094",
       "paragraph_num": 1,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On February 10, 2025, Dellinger filed this lawsuit in the U.S. District Court for the District of Co..."
     },
     "source": "",
@@ -62,7 +114,7 @@
         "output_idx": [
           [
             559,
-            665
+            930
           ]
         ],
         "annotation": {
@@ -77,7 +129,7 @@
         "output_idx": [
           [
             1408,
-            1479
+            1548
           ]
         ],
         "annotation": {
@@ -92,15 +144,11 @@
         "output_idx": [
           [
             1408,
-            1454
-          ],
-          [
-            1481,
-            1513
+            1548
           ]
         ],
         "annotation": {
-          "explanation": "Administrative Procedure Act (APA)",
+          "explanation": "Administrative Procedure Act",
           "checklist_item": "Cause of Action",
           "spans_paragraphs": null
         },
@@ -111,11 +159,7 @@
         "output_idx": [
           [
             1408,
-            1454
-          ],
-          [
-            1519,
-            1547
+            1548
           ]
         ],
         "annotation": {
@@ -129,12 +173,12 @@
         "category": "statutory_basis",
         "output_idx": [
           [
-            1096,
-            1221
+            1408,
+            1548
           ]
         ],
         "annotation": {
-          "explanation": "Federal statute imposing a for-cause removal restriction on the Special Counsel (statutory removal protection).",
+          "explanation": "Separation of Powers (U.S. Constitution)",
           "checklist_item": "Statutory or Constitutional Basis for the Case",
           "spans_paragraphs": null
         },
@@ -144,12 +188,12 @@
         "category": "statutory_basis",
         "output_idx": [
           [
-            1408,
-            1479
+            1096,
+            1221
           ]
         ],
         "annotation": {
-          "explanation": "U.S. Constitution \u2013 Separation of Powers / Article II executive-power principles.",
+          "explanation": "Federal statute providing for-cause removal protection for the OSC head (removal only for inefficiency, neglect of duty, or malfeasance)",
           "checklist_item": "Statutory or Constitutional Basis for the Case",
           "spans_paragraphs": null
         },
@@ -160,11 +204,7 @@
         "output_idx": [
           [
             1408,
-            1454
-          ],
-          [
-            1481,
-            1513
+            1548
           ]
         ],
         "annotation": {
@@ -179,11 +219,7 @@
         "output_idx": [
           [
             1408,
-            1454
-          ],
-          [
-            1519,
-            1547
+            1548
           ]
         ],
         "annotation": {
@@ -197,16 +233,46 @@
         "category": "remedy_sought",
         "output_idx": [
           [
-            1408,
+            1549,
             1650
           ]
         ],
         "annotation": {
-          "explanation": "Declaratory judgments, injunctive relief, and all wages and benefits owed to him",
+          "explanation": "Declaratory judgments",
           "checklist_item": "Remedy Sought",
           "spans_paragraphs": null
         },
         "id": 8
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1549,
+            1650
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1549,
+            1650
+          ]
+        ],
+        "annotation": {
+          "explanation": "All wages and benefits owed to him",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 10
       },
       {
         "category": "type_of_counsel",
@@ -221,66 +287,92 @@
           "checklist_item": "Type of Counsel",
           "spans_paragraphs": null
         },
-        "id": 9
-      },
-      {
-        "category": "class_action",
-        "output_idx": [
-          [
-            559,
-            665
-          ],
-          [
-            931,
-            976
-          ],
-          [
-            3668,
-            3831
-          ]
-        ],
-        "annotation": {
-          "explanation": "Plaintiffs: Individual, described as Hampton Dellinger, head of the U.S. Office of Special Counsel",
-          "checklist_item": "Class Action or Individual Plaintiffs",
-          "spans_paragraphs": [
-            1,
-            4
-          ]
-        },
-        "id": 10
-      },
-      {
-        "category": "factual_basis",
-        "output_idx": [
-          [
-            977,
-            1221
-          ]
-        ],
-        "annotation": {
-          "explanation": "Hampton Dellinger held a statutorily protected five-year term as head of the U.S. Office of Special Counsel, removable only for cause (inefficiency, neglect of duty, or malfeasance).",
-          "checklist_item": "Factual Basis of Case",
-          "spans_paragraphs": null
-        },
         "id": 11
       },
       {
-        "category": "factual_basis",
+        "category": "parties",
         "output_idx": [
           [
-            1222,
-            1407
+            559,
+            699
           ]
         ],
         "annotation": {
-          "explanation": "On Feb. 7, 2025, the Trump administration attempted to fire Dellinger via a single-sentence email that did not cite any statutory cause.",
-          "checklist_item": "Factual Basis of Case",
+          "explanation": "Defendant: President Donald J. Trump, President of the United States.",
+          "checklist_item": "Who are the Parties",
           "spans_paragraphs": null
         },
         "id": 12
       },
       {
-        "category": "factual_basis",
+        "category": "parties",
+        "output_idx": [
+          [
+            559,
+            730
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of the Treasury.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            559,
+            793
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Director of the White House Presidential Personnel Office.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            559,
+            832
+          ],
+          [
+            2130,
+            2309
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Special Counsel of the Office of Special Counsel (OSC); the government stated the President named Doug Collins, the Secretary of Veterans Affairs, as Acting Special Counsel on February 10, 2025.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 15
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            559,
+            872
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Chief Operating Officer of the Office of Special Counsel (OSC).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "parties",
         "output_idx": [
           [
             559,
@@ -288,41 +380,90 @@
           ]
         ],
         "annotation": {
-          "explanation": "Dellinger sued the President and several executive officials in the U.S. District Court for the District of Columbia on Feb. 10, 2025.",
+          "explanation": "Defendant: Director of the Office of Management and Budget.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1096,
+            1221
+          ]
+        ],
+        "annotation": {
+          "explanation": "Dellinger\u2019s position as Special Counsel was protected by a federal statute allowing removal only for inefficiency, neglect of duty, or malfeasance in office.",
           "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
-        "id": 13
+        "id": 18
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            977,
+            1095
+          ]
+        ],
+        "annotation": {
+          "explanation": "Dellinger was appointed by President Joe Biden to a five-year term as head of the OSC and confirmed by the Senate in March 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            559,
+            976
+          ]
+        ],
+        "annotation": {
+          "explanation": "Dellinger filed suit on February 10, 2025 in the U.S. District Court for the District of Columbia against President Trump and several federal officials, represented by Hecker Fink LLP.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 20
       },
       {
         "category": "factual_basis",
         "output_idx": [
           [
             1408,
-            1548
+            1650
           ]
         ],
         "annotation": {
-          "explanation": "Claims asserted: violations of the Separation of Powers, the Administrative Procedure Act, and the Declaratory Judgment Act.",
+          "explanation": "Claims alleged violations of the Separation of Powers, the APA, and the Declaratory Judgment Act; relief sought included declaratory and injunctive relief and back pay/benefits.",
           "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
-        "id": 14
+        "id": 21
       },
       {
-        "category": "factual_basis",
+        "category": "important_filings",
         "output_idx": [
+          [
+            559,
+            665
+          ],
           [
             1549,
             1650
           ]
         ],
         "annotation": {
-          "explanation": "Relief sought: declaratory and injunctive relief plus back pay/benefits.",
-          "checklist_item": "Factual Basis of Case",
+          "explanation": "Complaint filed in D.D.C. (Feb 10, 2025), seeking declaratory and injunctive relief and wages/benefits.",
+          "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
-        "id": 15
+        "id": 22
       }
     ]
   },
@@ -332,7 +473,7 @@
       "case_id": "46094",
       "paragraph_num": 2,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "The case was assigned to Judge Amy Berman Jackson, who held a hearing on February 10, 2025. After th..."
     },
     "source": "",
@@ -371,11 +512,26 @@
           ]
         ],
         "annotation": {
-          "explanation": "U.S. Court of Appeals for the D.C. Circuit, docket 25-5025 \u2013 Government\u2019s appeal from the district court\u2019s administrative stay/TRO; stay denied and appeal dismissed for want of jurisdiction on Feb. 12, 2025.",
+          "explanation": "U.S. Court of Appeals case No. 25-5025 (emergency appeal of the district court\u2019s administrative stay): stay denied; appeal dismissed for want of jurisdiction on February 12, 2025.",
           "checklist_item": "Related Cases Listed by Their Case Code Number",
           "spans_paragraphs": null
         },
         "id": 1
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            1811,
+            1999
+          ]
+        ],
+        "annotation": {
+          "explanation": "district court administrative stay: through midnight on February 13, 2025.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 2
       },
       {
         "category": "appeals",
@@ -390,29 +546,44 @@
           ]
         ],
         "annotation": {
-          "explanation": "Appeal: the government (defendants) appealed to the U.S. Court of Appeals for the D.C. Circuit.",
+          "explanation": "Appeal: The government appealed to the Court of Appeals.",
           "checklist_item": "Appeal",
-          "spans_paragraphs": null
-        },
-        "id": 2
-      },
-      {
-        "category": "decree_dates",
-        "output_idx": [
-          [
-            1677,
-            1999
-          ]
-        ],
-        "annotation": {
-          "explanation": "February 10, 2025: District court issued an administrative stay keeping Dellinger in office through February 13, 2025.",
-          "checklist_item": "Dates of All Decrees",
           "spans_paragraphs": null
         },
         "id": 3
       },
       {
-        "category": "decree_dates",
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1744,
+            1999
+          ]
+        ],
+        "annotation": {
+          "explanation": "The district court issued an administrative stay requiring Dellinger to continue as Special Counsel through February 13, 2025, with access to OSC resources/materials.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2130,
+            2309
+          ]
+        ],
+        "annotation": {
+          "explanation": "On February 10, 2025, the President named Doug Collins, Secretary of Veterans Affairs, as Acting Special Counsel.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
         "output_idx": [
           [
             2534,
@@ -420,11 +591,11 @@
           ]
         ],
         "annotation": {
-          "explanation": "February 12, 2025: Court of Appeals denied the stay and dismissed the appeal for want of jurisdiction.",
-          "checklist_item": "Dates of All Decrees",
+          "explanation": "On February 12, 2025, the D.C. Circuit denied the government\u2019s stay request and dismissed its appeal for lack of jurisdiction.",
+          "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
-        "id": 4
+        "id": 6
       },
       {
         "category": "important_filings",
@@ -432,14 +603,18 @@
           [
             2000,
             2129
+          ],
+          [
+            2534,
+            2643
           ]
         ],
         "annotation": {
-          "explanation": "Government\u2019s emergency stay motion in the Court of Appeals (docket 25-5025) filed Feb. 10 2025.",
+          "explanation": "Emergency stay motion in D.C. Circuit (No. 25-5025) following administrative stay; stay denied and appeal dismissed for lack of jurisdiction (Feb 12, 2025).",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
-        "id": 5
+        "id": 7
       },
       {
         "category": "decree_terms",
@@ -450,11 +625,11 @@
           ]
         ],
         "annotation": {
-          "explanation": "Feb. 10 2025 administrative stay: Defendants must keep Hampton Dellinger in the position of Special Counsel and give him full access to OSC resources until 11:59 p.m. on Feb 13 2025.",
+          "explanation": "Administrative stay requiring that Dellinger remain Special Counsel through midnight February 13, 2025, with access to the office's resources and materials.",
           "checklist_item": "Significant Terms of Decrees",
           "spans_paragraphs": null
         },
-        "id": 6
+        "id": 8
       },
       {
         "category": "settlement_terms",
@@ -465,11 +640,75 @@
           ]
         ],
         "annotation": {
-          "explanation": "Defendants ordered to keep Hampton Dellinger in the position of Special Counsel and give him access to all OSC resources/materials through February 13, 2025.",
+          "explanation": "Order requiring that Dellinger continue serving as Special Counsel through February 13, 2025, with access to OSC resources/materials.",
           "checklist_item": "Significant Terms of Settlement",
           "spans_paragraphs": null
         },
-        "id": 7
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1652,
+            1999
+          ]
+        ],
+        "annotation": {
+          "explanation": "D.D.C. hearing (Feb 10, 2025, Judge Amy Berman Jackson): briefing due next day; administrative stay keeping Dellinger as Special Counsel through Feb 13 with office access.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2000,
+            2129
+          ],
+          [
+            2534,
+            2643
+          ]
+        ],
+        "annotation": {
+          "explanation": "D.C. Circuit emergency appeal (No. 25-5025): stay denied; appeal dismissed for lack of jurisdiction on Feb 12, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1744,
+            1999
+          ]
+        ],
+        "annotation": {
+          "explanation": "Feb 10, 2025 (D.D.C.): Administrative stay issued requiring Dellinger remain Special Counsel through Feb 13, with access to office resources.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2534,
+            2643
+          ]
+        ],
+        "annotation": {
+          "explanation": "Feb 12, 2025 (D.C. Cir.): Denied emergency stay and dismissed the appeal for lack of jurisdiction.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 13
       }
     ]
   },
@@ -479,7 +718,7 @@
       "case_id": "46094",
       "paragraph_num": 3,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "Meanwhile, in the district court, Judge Jackson issued a temporary restraining order (TRO) on Februa..."
     },
     "source": "",
@@ -491,41 +730,23 @@
     ],
     "edits": [
       {
-        "category": "judge_name",
-        "output_idx": [
-          [
-            3367,
-            3453
-          ]
-        ],
-        "annotation": {
-          "explanation": "Katsas",
-          "checklist_item": "First and Last name of Judge",
-          "spans_paragraphs": null
-        },
-        "id": 0
-      },
-      {
         "category": "decree_duration",
         "output_idx": [
           [
-            2645,
+            2679,
             2757
           ],
           [
-            4408,
-            4516
+            2758,
+            2977
           ]
         ],
         "annotation": {
-          "explanation": "[Temporary Restraining Order (TRO)]: February 12, 2025 \u2013 March 1, 2025",
+          "explanation": "temporary restraining order (TRO): until the court ruled on the request for a preliminary injunction.",
           "checklist_item": "How Long Decrees will Last",
-          "spans_paragraphs": [
-            3,
-            6
-          ]
+          "spans_paragraphs": null
         },
-        "id": 1
+        "id": 0
       },
       {
         "category": "appeals",
@@ -540,53 +761,72 @@
           ]
         ],
         "annotation": {
-          "explanation": "Appeal: the defendants appealed to the U.S. Court of Appeals for the D.C. Circuit regarding the temporary restraining order.",
+          "explanation": "Appeal: Defendants appealed to the Court of Appeals.",
           "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2645,
+            2977
+          ]
+        ],
+        "annotation": {
+          "explanation": "On February 12, 2025, the district court issued a TRO restoring Dellinger to the Special Counsel role pending a preliminary injunction ruling.",
+          "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
         "id": 2
       },
       {
-        "category": "decree_dates",
+        "category": "factual_basis",
         "output_idx": [
           [
-            2645,
-            2757
+            3192,
+            3453
           ]
         ],
         "annotation": {
-          "explanation": "February 12, 2025: District court issued a temporary restraining order (TRO).",
-          "checklist_item": "Dates of All Decrees",
+          "explanation": "On February 15, 2025, the D.C. Circuit denied a stay, held the TRO non-appealable, and issued an opinion; Judge Katsas dissented.",
+          "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
         "id": 3
       },
       {
-        "category": "decree_dates",
+        "category": "important_filings",
         "output_idx": [
           [
-            3019,
-            3191
+            2911,
+            3018
           ]
         ],
         "annotation": {
-          "explanation": "February 13, 2025: District court rejected defendants' motion for a stay.",
-          "checklist_item": "Dates of All Decrees",
+          "explanation": "Plaintiff\u2019s request/motion for a preliminary injunction; hearing set for Feb 26, 2025.",
+          "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
         "id": 4
       },
       {
-        "category": "decree_dates",
+        "category": "important_filings",
         "output_idx": [
           [
+            3019,
+            3140
+          ],
+          [
             3192,
-            3366
+            3326
           ]
         ],
         "annotation": {
-          "explanation": "February 15, 2025: Court of Appeals denied a stay and issued an opinion holding the TRO non-appealable.",
-          "checklist_item": "Dates of All Decrees",
+          "explanation": "Defendants\u2019 motions for stay pending appeal (post-TRO); denied in D.D.C. (Feb 13, 2025) and denied in D.C. Circuit (Feb 15, 2025).",
+          "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
         "id": 5
@@ -595,19 +835,80 @@
         "category": "important_filings",
         "output_idx": [
           [
-            2645,
-            2757
+            3454,
+            3666
           ]
         ],
         "annotation": {
-          "explanation": "Temporary Restraining Order issued by Judge Jackson on Feb. 12 2025 restoring Dellinger to his position until the court ruled on a preliminary-injunction request.",
+          "explanation": "Government request to expedite in the D.C. Circuit.",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
         "id": 6
       },
       {
-        "category": "important_filings",
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2679,
+            2757
+          ],
+          [
+            2838,
+            2977
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO renewing the order that Dellinger be restored to his Special Counsel role until the court ruled on the preliminary injunction.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2679,
+            2757
+          ],
+          [
+            2758,
+            2977
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO requiring that Dellinger be restored to the Special Counsel role until the court rules on the preliminary injunction.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2645,
+            2757
+          ],
+          [
+            2758,
+            2977
+          ],
+          [
+            2978,
+            3018
+          ]
+        ],
+        "annotation": {
+          "explanation": "D.D.C. TRO (Feb 12, 2025): government noncompliance noted; Dellinger restored pending PI ruling; preliminary injunction hearing set for Feb 26, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
         "output_idx": [
           [
             3019,
@@ -615,41 +916,30 @@
           ]
         ],
         "annotation": {
-          "explanation": "Defendants\u2019 motion for a stay pending appeal (district court) filed before Feb. 13 2025 and denied Feb. 13 2025.",
-          "checklist_item": "Note Important Filings",
+          "explanation": "D.D.C. (Feb 13, 2025): defendants\u2019 motion for stay pending appeal denied; court viewed order as non-appealable.",
+          "checklist_item": "Trials",
           "spans_paragraphs": null
         },
-        "id": 7
+        "id": 10
       },
       {
-        "category": "decree_terms",
+        "category": "trials",
         "output_idx": [
           [
-            2679,
-            2977
+            3192,
+            3453
+          ],
+          [
+            3454,
+            3666
           ]
         ],
         "annotation": {
-          "explanation": "Feb. 12 2025 TRO: Defendants are ordered to restore and maintain Dellinger as Special Counsel (with the attendant duties and powers) until the court decides the preliminary-injunction motion.",
-          "checklist_item": "Significant Terms of Decrees",
+          "explanation": "D.C. Circuit (Feb 15, 2025): stay denied; TRO held non-appealable; full opinion issued; Judge Katsas dissented; expedited ruling sought to enable potential Supreme Court review.",
+          "checklist_item": "Trials",
           "spans_paragraphs": null
         },
-        "id": 8
-      },
-      {
-        "category": "settlement_terms",
-        "output_idx": [
-          [
-            2679,
-            2977
-          ]
-        ],
-        "annotation": {
-          "explanation": "Defendants ordered (again) to restore and maintain Hampton Dellinger as Special Counsel, with the order to remain in force until the court decided the preliminary-injunction motion.",
-          "checklist_item": "Significant Terms of Settlement",
-          "spans_paragraphs": null
-        },
-        "id": 9
+        "id": 11
       },
       {
         "category": "court_rulings",
@@ -657,14 +947,48 @@
           [
             2645,
             2757
+          ],
+          [
+            2758,
+            2977
           ]
         ],
         "annotation": {
-          "explanation": "District Court granted a temporary restraining order (TRO) on February 12, 2025, restoring Dellinger to his role pending preliminary-injunction proceedings.",
+          "explanation": "Feb 12, 2025 (D.D.C.): TRO issued restoring Dellinger as Special Counsel until ruling on the preliminary injunction.",
           "checklist_item": "Court Rulings",
           "spans_paragraphs": null
         },
-        "id": 10
+        "id": 12
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3019,
+            3191
+          ]
+        ],
+        "annotation": {
+          "explanation": "Feb 13, 2025 (D.D.C.): Denied defendants' motion for a stay pending appeal.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3192,
+            3453
+          ]
+        ],
+        "annotation": {
+          "explanation": "Feb 15, 2025 (D.C. Cir.): Denied stay; held TRO non-appealable; full opinion issued; Judge Katsas dissented.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 14
       }
     ]
   },
@@ -674,7 +998,7 @@
       "case_id": "46094",
       "paragraph_num": 4,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "The next day, February 16, 2025, the government asked the Supreme Court of the United States to vaca..."
     },
     "source": "",
@@ -686,66 +1010,6 @@
     ],
     "edits": [
       {
-        "category": "judge_name",
-        "output_idx": [
-          [
-            3977,
-            4056
-          ]
-        ],
-        "annotation": {
-          "explanation": "Sotomayor",
-          "checklist_item": "First and Last name of Judge",
-          "spans_paragraphs": null
-        },
-        "id": 0
-      },
-      {
-        "category": "judge_name",
-        "output_idx": [
-          [
-            3977,
-            4056
-          ]
-        ],
-        "annotation": {
-          "explanation": "Jackson",
-          "checklist_item": "First and Last name of Judge",
-          "spans_paragraphs": null
-        },
-        "id": 1
-      },
-      {
-        "category": "judge_name",
-        "output_idx": [
-          [
-            4057,
-            4223
-          ]
-        ],
-        "annotation": {
-          "explanation": "Gorsuch",
-          "checklist_item": "First and Last name of Judge",
-          "spans_paragraphs": null
-        },
-        "id": 2
-      },
-      {
-        "category": "judge_name",
-        "output_idx": [
-          [
-            4057,
-            4223
-          ]
-        ],
-        "annotation": {
-          "explanation": "Alito",
-          "checklist_item": "First and Last name of Judge",
-          "spans_paragraphs": null
-        },
-        "id": 3
-      },
-      {
         "category": "decree_duration",
         "output_idx": [
           [
@@ -754,41 +1018,26 @@
           ]
         ],
         "annotation": {
-          "explanation": "[Supreme Court abeyance order]: February 21, 2025 \u2013 February 26, 2025",
+          "explanation": "Supreme Court abeyance order: until February 26.",
           "checklist_item": "How Long Decrees will Last",
           "spans_paragraphs": null
         },
-        "id": 4
+        "id": 0
       },
       {
-        "category": "appeals",
+        "category": "factual_basis",
         "output_idx": [
           [
             3668,
-            3831
+            4223
           ]
         ],
         "annotation": {
-          "explanation": "Appeal: the government petitioned the Supreme Court of the United States.",
-          "checklist_item": "Appeal",
+          "explanation": "The government sought Supreme Court relief on February 16, 2025; on February 21, the Court held the application in abeyance, with noted positions by Justices Sotomayor, Jackson, Gorsuch, and Alito.",
+          "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
-        "id": 5
-      },
-      {
-        "category": "decree_dates",
-        "output_idx": [
-          [
-            3832,
-            3976
-          ]
-        ],
-        "annotation": {
-          "explanation": "February 21, 2025: Supreme Court declined to vacate the district-court order or issue a stay, holding the application in abeyance until February 26.",
-          "checklist_item": "Dates of All Decrees",
-          "spans_paragraphs": null
-        },
-        "id": 6
+        "id": 1
       },
       {
         "category": "important_filings",
@@ -796,14 +1045,60 @@
           [
             3668,
             3831
+          ],
+          [
+            3832,
+            3941
           ]
         ],
         "annotation": {
-          "explanation": "Government application to the Supreme Court on Feb. 16 2025 to vacate the TRO or issue an administrative stay.",
+          "explanation": "Emergency application to the Supreme Court to vacate or administratively stay the district court order (filed Feb 16, 2025); held in abeyance on Feb 21, 2025.",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
-        "id": 7
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3668,
+            3831
+          ],
+          [
+            3832,
+            3976
+          ],
+          [
+            3977,
+            4223
+          ]
+        ],
+        "annotation": {
+          "explanation": "Supreme Court (application filed Feb 16, 2025): on Feb 21, Court held application in abeyance until Feb 26; Sotomayor and Jackson would deny a stay; Gorsuch (joined by Alito) dissented.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3668,
+            3831
+          ],
+          [
+            3832,
+            4223
+          ]
+        ],
+        "annotation": {
+          "explanation": "Feb 21, 2025 (U.S. Supreme Court): Declined to vacate or issue an administrative stay; held the application in abeyance until Feb 26; noted votes and dissent.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
       }
     ]
   },
@@ -813,7 +1108,7 @@
       "case_id": "46094",
       "paragraph_num": 5,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "During this time, on February 21, 2025, the government filed a motion for summary judgment in the di..."
     },
     "source": "",
@@ -833,7 +1128,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Government\u2019s motion for summary judgment filed Feb. 21 2025.",
+          "explanation": "Government motion for summary judgment filed in D.D.C. on Feb 21, 2025.",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
@@ -848,11 +1143,26 @@
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiff\u2019s cross-motion for summary judgment filed Feb. 24 2025.",
+          "explanation": "Plaintiff cross-motion for summary judgment filed on Feb 24, 2025.",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
         "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4225,
+            4406
+          ]
+        ],
+        "annotation": {
+          "explanation": "D.D.C. summary judgment motions: government MSJ filed Feb 21, 2025; Dellinger cross-MSJ filed Feb 24, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
       }
     ]
   },
@@ -862,7 +1172,7 @@
       "case_id": "46094",
       "paragraph_num": 6,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On February 26, 2025, in the district court, Judge Jackson extended the TRO through Saturday, March ..."
     },
     "source": "",
@@ -874,7 +1184,7 @@
     ],
     "edits": [
       {
-        "category": "decree_dates",
+        "category": "decree_duration",
         "output_idx": [
           [
             4408,
@@ -882,14 +1192,14 @@
           ]
         ],
         "annotation": {
-          "explanation": "February 26, 2025: District court extended the TRO through March 1, 2025.",
-          "checklist_item": "Dates of All Decrees",
+          "explanation": "temporary restraining order (TRO) extension: through Saturday, March 1, 2025.",
+          "checklist_item": "How Long Decrees will Last",
           "spans_paragraphs": null
         },
         "id": 0
       },
       {
-        "category": "decree_dates",
+        "category": "decree_duration",
         "output_idx": [
           [
             4517,
@@ -897,26 +1207,11 @@
           ]
         ],
         "annotation": {
-          "explanation": "March 1, 2025: District court granted summary judgment for Dellinger and entered a permanent injunction.",
-          "checklist_item": "Dates of All Decrees",
+          "explanation": "permanent injunction: permanent.",
+          "checklist_item": "How Long Decrees will Last",
           "spans_paragraphs": null
         },
         "id": 1
-      },
-      {
-        "category": "factual_basis",
-        "output_idx": [
-          [
-            4517,
-            4645
-          ]
-        ],
-        "annotation": {
-          "explanation": "On Mar. 1, 2025, the district court granted summary judgment for Dellinger and issued a permanent injunction restoring him.",
-          "checklist_item": "Factual Basis of Case",
-          "spans_paragraphs": null
-        },
-        "id": 2
       },
       {
         "category": "decree_terms",
@@ -927,14 +1222,44 @@
           ]
         ],
         "annotation": {
-          "explanation": "Mar. 1 2025 permanent injunction: Court grants summary judgment for Dellinger and permanently enjoins defendants from removing him except in accordance with the statutory for-cause requirement (effectively requiring that he remain Special Counsel).",
+          "explanation": "Permanent injunction entered in Dellinger\u2019s favor (specific terms not detailed in the summary).",
           "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4535,
+            4645
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunction entered in Dellinger\u2019s favor (specific operative terms not detailed in the summary).",
+          "checklist_item": "Significant Terms of Settlement",
           "spans_paragraphs": null
         },
         "id": 3
       },
       {
-        "category": "settlement_terms",
+        "category": "trials",
+        "output_idx": [
+          [
+            4408,
+            4516
+          ]
+        ],
+        "annotation": {
+          "explanation": "D.D.C. (Feb 26, 2025): TRO extended through March 1, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
         "output_idx": [
           [
             4517,
@@ -942,11 +1267,11 @@
           ]
         ],
         "annotation": {
-          "explanation": "Permanent injunction entered: Defendants permanently enjoined from removing Hampton Dellinger except pursuant to the statutory for-cause standard and required to recognize him as Special Counsel (order later vacated on appeal).",
-          "checklist_item": "Significant Terms of Settlement",
+          "explanation": "D.D.C. final merits ruling (Mar 1, 2025): summary judgment granted to Dellinger; permanent injunction entered.",
+          "checklist_item": "Trials",
           "spans_paragraphs": null
         },
-        "id": 4
+        "id": 5
       },
       {
         "category": "court_rulings",
@@ -957,11 +1282,11 @@
           ]
         ],
         "annotation": {
-          "explanation": "District Court extended the TRO on February 26, 2025, continuing its effect through March 1, 2025.",
+          "explanation": "Feb 26, 2025 (D.D.C.): TRO extended through March 1, 2025.",
           "checklist_item": "Court Rulings",
           "spans_paragraphs": null
         },
-        "id": 5
+        "id": 6
       },
       {
         "category": "court_rulings",
@@ -972,11 +1297,11 @@
           ]
         ],
         "annotation": {
-          "explanation": "District Court granted Plaintiff\u2019s motion for summary judgment (and denied the Government\u2019s competing motion) on March 1, 2025, and entered a permanent injunction.",
+          "explanation": "Mar 1, 2025 (D.D.C.): Granted plaintiff\u2019s summary judgment motion and entered a permanent injunction.",
           "checklist_item": "Court Rulings",
           "spans_paragraphs": null
         },
-        "id": 6
+        "id": 7
       }
     ]
   },
@@ -986,7 +1311,7 @@
       "case_id": "46094",
       "paragraph_num": 7,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "In short, the question presented in this case is whether it is an unconstitutional intrusion on the ..."
     },
     "source": "",
@@ -996,7 +1321,23 @@
       4658,
       5200
     ],
-    "edits": []
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            4658,
+            4930
+          ]
+        ],
+        "annotation": {
+          "explanation": "Article II of the U.S. Constitution (presidential powers related to removal)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
   },
   {
     "id": "46094_p8",
@@ -1004,7 +1345,7 @@
       "case_id": "46094",
       "paragraph_num": 8,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "The Court finds that the statute is not unconstitutional. \u00a0And it finds that the elimination of the ..."
     },
     "source": "",
@@ -1022,7 +1363,7 @@
       "case_id": "46094",
       "paragraph_num": 9,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "The government immediately filed an appeal and sought a stay pending appeal on March 1, 2025. Distri..."
     },
     "source": "",
@@ -1034,6 +1375,21 @@
     ],
     "edits": [
       {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            5722,
+            5820
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court of Appeals stay pending full briefing: pending full briefing (to be completed mid-April).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
         "category": "appeals",
         "output_idx": [
           [
@@ -1041,76 +1397,38 @@
             5650
           ],
           [
-            5718,
+            5722,
             5820
-          ]
-        ],
-        "annotation": {
-          "explanation": "Appeal: the government appealed to the U.S. Court of Appeals for the D.C. Circuit from the district court\u2019s March 1, 2025 permanent injunction.",
-          "checklist_item": "Appeal",
-          "spans_paragraphs": null
-        },
-        "id": 0
-      },
-      {
-        "category": "decree_dates",
-        "output_idx": [
+          ],
           [
-            5651,
-            5716
+            6662,
+            7125
           ]
         ],
         "annotation": {
-          "explanation": "March 3, 2025: District court denied the government's motion to stay the judgment.",
-          "checklist_item": "Dates of All Decrees",
-          "spans_paragraphs": null
+          "explanation": "Appeal: The government appealed to the Court of Appeals.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": [
+            9,
+            11
+          ]
         },
         "id": 1
       },
       {
-        "category": "decree_dates",
+        "category": "factual_basis",
         "output_idx": [
           [
-            5718,
-            5820
-          ]
-        ],
-        "annotation": {
-          "explanation": "March 5, 2025: Court of Appeals granted a stay pending full briefing.",
-          "checklist_item": "Dates of All Decrees",
-          "spans_paragraphs": null
-        },
-        "id": 2
-      },
-      {
-        "category": "decree_dates",
-        "output_idx": [
-          [
-            5821,
-            5857
-          ]
-        ],
-        "annotation": {
-          "explanation": "March 10, 2025: Court of Appeals filed its opinion accompanying the stay.",
-          "checklist_item": "Dates of All Decrees",
-          "spans_paragraphs": null
-        },
-        "id": 3
-      },
-      {
-        "category": "decree_dates",
-        "output_idx": [
-          [
-            5858,
+            5557,
             5948
           ]
         ],
         "annotation": {
-          "explanation": "March 12, 2025: Court of Appeals suspended the briefing schedule.",
-          "checklist_item": "Dates of All Decrees",
+          "explanation": "After summary judgment, the government appealed; the D.C. Circuit granted a stay pending appeal on March 5, 2025, issued an opinion on March 10, and suspended briefing on March 12.",
+          "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
-        "id": 4
+        "id": 2
       },
       {
         "category": "important_filings",
@@ -1118,14 +1436,101 @@
           [
             5557,
             5650
+          ],
+          [
+            5651,
+            5820
           ]
         ],
         "annotation": {
-          "explanation": "Government motion for stay pending appeal filed Mar. 1 2025 (after entry of permanent injunction).",
+          "explanation": "Government motion to stay pending appeal (filed Mar 1, 2025); denied in D.D.C. (Mar 3) and granted by D.C. Circuit (Mar 5).",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            5722,
+            5791
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court of Appeals stayed the district court\u2019s order (including the permanent injunction) pending appeal.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            5722,
+            5820
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appellate stay granted pending full briefing on the appeal.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
         "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5557,
+            5650
+          ],
+          [
+            5651,
+            5948
+          ]
+        ],
+        "annotation": {
+          "explanation": "Post-judgment: appeal filed Mar 1, 2025; D.D.C. denied stay Mar 3; D.C. Circuit granted stay pending appeal Mar 5 (opinion filed Mar 10); briefing later suspended Mar 12.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            5557,
+            5857
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mar 3, 2025 (D.D.C.): Denied government\u2019s motion to stay pending appeal.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            5718,
+            5820
+          ],
+          [
+            5821,
+            5857
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mar 5, 2025 (D.C. Cir.): Granted stay pending appeal; opinion filed Mar 10, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
       }
     ]
   },
@@ -1135,7 +1540,7 @@
       "case_id": "46094",
       "paragraph_num": 10,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "According to press reports [https://www.nytimes.com/2025/03/06/us/politics/hampton-dellinger-firing...."
     },
     "source": "",
@@ -1150,14 +1555,30 @@
         "category": "court_enforced",
         "output_idx": [
           [
+            6102,
+            6180
+          ],
+          [
             6401,
             6660
+          ],
+          [
+            6662,
+            7125
+          ],
+          [
+            7127,
+            7211
           ]
         ],
         "annotation": {
-          "explanation": "No.",
+          "explanation": "[No].",
           "checklist_item": "Whether the Settlement is Court-enforced or Not",
-          "spans_paragraphs": null
+          "spans_paragraphs": [
+            10,
+            11,
+            12
+          ]
         },
         "id": 0
       },
@@ -1167,10 +1588,14 @@
           [
             5950,
             6180
+          ],
+          [
+            6401,
+            6660
           ]
         ],
         "annotation": {
-          "explanation": "Dellinger abandoned the lawsuit on Mar. 6, 2025.",
+          "explanation": "Dellinger abandoned the lawsuit on March 6, 2025, and moved to dismiss as moot on March 7; defendants opposed dismissal.",
           "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
@@ -1182,14 +1607,44 @@
           [
             6401,
             6510
+          ],
+          [
+            6662,
+            6796
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiff\u2019s motion to dismiss the appeal/case as moot filed Mar. 7 2025.",
+          "explanation": "Motion to dismiss as moot filed Mar 7, 2025; D.C. Circuit granted dismissal of the appeal as moot on Mar 27, 2025.",
           "checklist_item": "Note Important Filings",
-          "spans_paragraphs": null
+          "spans_paragraphs": [
+            10,
+            11
+          ]
         },
         "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5950,
+            6180
+          ],
+          [
+            6181,
+            6400
+          ],
+          [
+            6401,
+            6660
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mootness developments: Dellinger indicated he would drop the case (Mar 6, 2025); defendants argued appeal not yet moot; Dellinger moved to dismiss as moot on Mar 7 with each side bearing own costs; defendants opposed.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
       }
     ]
   },
@@ -1199,7 +1654,7 @@
       "case_id": "46094",
       "paragraph_num": 11,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On March 27, 2025, the Court of Appeals responded with an order (1) granting Dellinger's March 7 mot..."
     },
     "source": "",
@@ -1211,39 +1666,36 @@
     ],
     "edits": [
       {
-        "category": "decree_dates",
-        "output_idx": [
-          [
-            6662,
-            7125
-          ]
-        ],
-        "annotation": {
-          "explanation": "March 27, 2025: Court of Appeals dismissed the appeal as moot, vacated the district court\u2019s March 1 order, remanded with instructions to dismiss the case with prejudice, and declined to vacate its own March 5 and March 10 rulings.",
-          "checklist_item": "Dates of All Decrees",
-          "spans_paragraphs": null
-        },
-        "id": 0
-      },
-      {
         "category": "factual_basis",
         "output_idx": [
           [
             6662,
             7125
-          ],
-          [
-            7127,
-            7211
           ]
         ],
         "annotation": {
-          "explanation": "The Court of Appeals dismissed the appeal as moot, vacated the district court\u2019s merits order, remanded with instructions to dismiss, and the district court dismissed the case with prejudice on Mar. 31, 2025, closing the matter.",
+          "explanation": "On March 27, 2025, the D.C. Circuit dismissed the appeal as moot, vacated the district court\u2019s March 1 opinion and order, remanded with instructions to dismiss with prejudice, and declined to vacate its own March 5 order and March 10 opinion.",
           "checklist_item": "Factual Basis of Case",
-          "spans_paragraphs": [
-            11,
-            12
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            6662,
+            6896
+          ],
+          [
+            6996,
+            7125
           ]
+        ],
+        "annotation": {
+          "explanation": "Requests to vacate: district court\u2019s Mar 1, 2025 opinion/order vacated; requests to vacate the D.C. Circuit\u2019s Mar 5 order and Mar 10 opinion denied (Mar 27, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
         },
         "id": 1
       },
@@ -1256,11 +1708,41 @@
           ]
         ],
         "annotation": {
-          "explanation": "Mar. 27 2025 appellate order: Vacates the Mar 1 2025 permanent injunction and instructs the district court to dismiss Dellinger\u2019s case with prejudice, thereby relieving defendants of the earlier injunction.",
+          "explanation": "Appellate order: dismissed the appeal as moot; vacated the district court\u2019s March 1, 2025 opinion and order; remanded with instructions to dismiss the case with prejudice; denied request to vacate the appellate court\u2019s March 5 and March 10 orders/opinion.",
           "checklist_item": "Significant Terms of Decrees",
           "spans_paragraphs": null
         },
         "id": 2
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            6662,
+            7125
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appellate decree vacated the district court\u2019s March 1, 2025 opinion and order, and remanded with instructions to dismiss the case with prejudice.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            6662,
+            7125
+          ]
+        ],
+        "annotation": {
+          "explanation": "D.C. Circuit order (Mar 27, 2025): appeal dismissed as moot; district court\u2019s Mar 1 opinion and order vacated; remand with instructions to dismiss with prejudice; request to vacate Mar 5 order and Mar 10 opinion denied.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
       },
       {
         "category": "court_rulings",
@@ -1271,11 +1753,11 @@
           ]
         ],
         "annotation": {
-          "explanation": "Court of Appeals granted Dellinger\u2019s motion to dismiss the appeal as moot on March 27, 2025, vacated the district-court judgment, and remanded with instructions to dismiss the case with prejudice.",
+          "explanation": "Mar 27, 2025 (D.C. Cir.): Granted motion to dismiss the appeal as moot; vacated the district court\u2019s Mar 1, 2025 opinion and order; remanded with instructions to dismiss with prejudice; denied request to vacate the D.C. Circuit\u2019s Mar 5 order and Mar 10 opinion.",
           "checklist_item": "Court Rulings",
           "spans_paragraphs": null
         },
-        "id": 3
+        "id": 5
       }
     ]
   },
@@ -1285,7 +1767,7 @@
       "case_id": "46094",
       "paragraph_num": 12,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "A few days later, on March 31, the district court dismissed the case with prejudice."
     },
     "source": "",
@@ -1297,7 +1779,29 @@
     ],
     "edits": [
       {
-        "category": "decree_dates",
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            7127,
+            7211
+          ],
+          [
+            7213,
+            7232
+          ]
+        ],
+        "annotation": {
+          "explanation": "On March 31, 2025, the district court dismissed the case with prejudice; the case is closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            12,
+            13
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "settlement_terms",
         "output_idx": [
           [
             7127,
@@ -1305,11 +1809,48 @@
           ]
         ],
         "annotation": {
-          "explanation": "March 31, 2025: District court dismissed the case with prejudice.",
-          "checklist_item": "Dates of All Decrees",
+          "explanation": "District court dismissed the case with prejudice on remand.",
+          "checklist_item": "Significant Terms of Settlement",
           "spans_paragraphs": null
         },
-        "id": 0
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            7127,
+            7211
+          ],
+          [
+            7213,
+            7232
+          ]
+        ],
+        "annotation": {
+          "explanation": "D.D.C. (Mar 31, 2025): case dismissed with prejudice; case closed.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            12,
+            13
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            7127,
+            7211
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mar 31, 2025 (D.D.C.): Dismissed the case with prejudice.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
       }
     ]
   },
@@ -1319,7 +1860,7 @@
       "case_id": "46094",
       "paragraph_num": 13,
       "total_paragraphs": 14,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "The case is closed."
     },
     "source": "",

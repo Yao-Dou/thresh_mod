@@ -5,7 +5,7 @@
       "case_id": "46234",
       "paragraph_num": 0,
       "total_paragraphs": 5,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "This is a case about alleged retaliation and censorship arising from immigration enforcement linked ..."
     },
     "source": "",
@@ -37,29 +37,18 @@
           [
             268,
             418
+          ],
+          [
+            663,
+            930
           ]
         ],
         "annotation": {
-          "explanation": "First Amendment constitutional claim",
+          "explanation": "Constitutional causes of action under the First and Fifth Amendments challenging Executive Orders 14161 and 14188; no specific statute or case is cited as the cause of action.",
           "checklist_item": "Cause of Action",
           "spans_paragraphs": null
         },
         "id": 1
-      },
-      {
-        "category": "cause_of_action",
-        "output_idx": [
-          [
-            268,
-            418
-          ]
-        ],
-        "annotation": {
-          "explanation": "Fifth Amendment constitutional claim",
-          "checklist_item": "Cause of Action",
-          "spans_paragraphs": null
-        },
-        "id": 2
       },
       {
         "category": "statutory_basis",
@@ -67,6 +56,14 @@
           [
             268,
             418
+          ],
+          [
+            663,
+            793
+          ],
+          [
+            993,
+            1129
           ]
         ],
         "annotation": {
@@ -74,7 +71,7 @@
           "checklist_item": "Statutory or Constitutional Basis for the Case",
           "spans_paragraphs": null
         },
-        "id": 3
+        "id": 2
       },
       {
         "category": "statutory_basis",
@@ -89,7 +86,7 @@
           "checklist_item": "Statutory or Constitutional Basis for the Case",
           "spans_paragraphs": null
         },
-        "id": 4
+        "id": 3
       },
       {
         "category": "remedy_sought",
@@ -100,71 +97,41 @@
           ]
         ],
         "annotation": {
-          "explanation": "Declaratory relief",
+          "explanation": "Declaratory relief; injunctive relief; attorneys\u2019 fees.",
           "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            434,
+            454
+          ]
+        ],
+        "annotation": {
+          "explanation": "Individual attorneys (private counsel)",
+          "checklist_item": "Type of Counsel",
           "spans_paragraphs": null
         },
         "id": 5
       },
       {
-        "category": "remedy_sought",
-        "output_idx": [
-          [
-            578,
-            662
-          ]
-        ],
-        "annotation": {
-          "explanation": "Injunctive relief",
-          "checklist_item": "Remedy Sought",
-          "spans_paragraphs": null
-        },
-        "id": 6
-      },
-      {
-        "category": "remedy_sought",
-        "output_idx": [
-          [
-            578,
-            662
-          ]
-        ],
-        "annotation": {
-          "explanation": "Attorneys\u2019 fees",
-          "checklist_item": "Remedy Sought",
-          "spans_paragraphs": null
-        },
-        "id": 7
-      },
-      {
         "category": "type_of_counsel",
         "output_idx": [
           [
-            419,
-            454
-          ]
-        ],
-        "annotation": {
-          "explanation": "Private / individual attorneys",
-          "checklist_item": "Type of Counsel",
-          "spans_paragraphs": null
-        },
-        "id": 8
-      },
-      {
-        "category": "type_of_counsel",
-        "output_idx": [
-          [
-            459,
+            474,
             509
           ]
         ],
         "annotation": {
-          "explanation": "Private law firm (Davis, Ndanusa, Ikhlas & Saleem LLP)",
+          "explanation": "Law firm counsel (Davis, Ndanusa, Ikhlas & Saleem LLP)",
           "checklist_item": "Type of Counsel",
           "spans_paragraphs": null
         },
-        "id": 9
+        "id": 6
       },
       {
         "category": "type_of_counsel",
@@ -175,11 +142,11 @@
           ]
         ],
         "annotation": {
-          "explanation": "Civil-rights advocacy organization (American-Arab Anti-Discrimination Committee)",
+          "explanation": "Organization counsel (American-Arab Anti-Discrimination Committee)",
           "checklist_item": "Type of Counsel",
           "spans_paragraphs": null
         },
-        "id": 10
+        "id": 7
       },
       {
         "category": "type_of_counsel",
@@ -190,11 +157,11 @@
           ]
         ],
         "annotation": {
-          "explanation": "Advocacy organization (Project TAHA)",
+          "explanation": "Organization counsel (Project TAHA)",
           "checklist_item": "Type of Counsel",
           "spans_paragraphs": null
         },
-        "id": 11
+        "id": 8
       },
       {
         "category": "class_action",
@@ -205,18 +172,18 @@
           ],
           [
             1858,
-            1931
+            2018
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiffs: Individual, described as three individuals (including Momodou Taal)",
+          "explanation": "Plaintiffs: Individual, described as three individuals",
           "checklist_item": "Class Action or Individual Plaintiffs",
           "spans_paragraphs": [
             0,
             2
           ]
         },
-        "id": 12
+        "id": 9
       },
       {
         "category": "parties",
@@ -224,25 +191,74 @@
           [
             137,
             267
-          ],
-          [
-            268,
-            418
-          ],
-          [
-            1858,
-            1931
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiff: Three individual activists advocating for Palestine, including Momodou Taal; Defendants: President Donald Trump (President of the United States), the U.S. Department of Homeland Security, the acting Directors of U.S. Immigration and Customs Enforcement (ICE) and ICE\u2019s Buffalo Field Office, and other unnamed federal officials.",
+          "explanation": "Plaintiff: Unnamed individual plaintiff (one of three individuals who filed this lawsuit; name not provided in summary)",
           "checklist_item": "Who are the Parties",
-          "spans_paragraphs": [
-            0,
-            2
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            137,
+            267
           ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Unnamed individual plaintiff (one of three individuals who filed this lawsuit; name not provided in summary)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            268,
+            418
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: President Donald Trump",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            268,
+            418
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Homeland Security",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
         },
         "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            268,
+            418
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Other federal officials",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
       },
       {
         "category": "factual_basis",
@@ -254,14 +270,18 @@
           [
             268,
             418
+          ],
+          [
+            419,
+            662
           ]
         ],
         "annotation": {
-          "explanation": "Three plaintiffs filed a First and Fifth Amendment lawsuit on March 15, 2025, in the U.S. District Court for the Northern District of New York against President Donald Trump, DHS, and other federal officials.",
+          "explanation": "Plaintiffs: three individuals; Filed March 15, 2025 in the U.S. District Court for the Northern District of New York; Defendants include President Donald Trump, DHS, and other federal officials; Claims under the First and Fifth Amendments; Relief sought: declaratory and injunctive relief and attorneys\u2019 fees; Representation by individual attorneys, Davis, Ndanusa, Ikhlas & Saleem LLP, the American-Arab Anti-Discrimination Committee, and Project TAHA.",
           "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
-        "id": 14
+        "id": 15
       },
       {
         "category": "factual_basis",
@@ -276,11 +296,71 @@
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiffs alleged Executive Orders 14161 and 14188 were used to surveil, silence, and threaten critics of U.S. or Israeli policy with prosecution, detention, or deportation.",
+          "explanation": "Allegations: Executive Orders 14161 and 14188 unconstitutionally chill protected speech by threatening criminal prosecution or deportation for criticisms of the U.S. or Israeli governments, and are being used to surveil, silence, and threaten activists based on political beliefs and associations.",
           "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
-        "id": 15
+        "id": 16
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            136
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: The dispute centers on alleged retaliation and censorship tied to immigration enforcement targeting political advocacy for Palestine.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            137,
+            267
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed (Mar. 15, 2025) in N.D.N.Y.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            268,
+            418
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants named in the complaint include President Donald Trump, DHS, and other federal officials; claims under the First and Fifth Amendments.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            419,
+            662
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought in complaint: declaratory and injunctive relief and attorneys\u2019 fees.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 20
       },
       {
         "category": "trials",
@@ -291,11 +371,11 @@
           ]
         ],
         "annotation": {
-          "explanation": "Complaint filed \u2013 March 15, 2025 (U.S. District Court, N.D.N.Y.)",
+          "explanation": "Case initiated on March 15, 2025, in the U.S. District Court for the Northern District of New York.",
           "checklist_item": "Trials",
           "spans_paragraphs": null
         },
-        "id": 16
+        "id": 21
       }
     ]
   },
@@ -305,7 +385,7 @@
       "case_id": "46234",
       "paragraph_num": 1,
       "total_paragraphs": 5,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On the same day the complaint was filed, the plaintiffs submitted a motion for a temporary restraini..."
     },
     "source": "",
@@ -320,31 +400,16 @@
         "category": "remedy_sought",
         "output_idx": [
           [
-            1176,
+            1131,
             1298
           ]
         ],
         "annotation": {
-          "explanation": "Temporary restraining order (TRO) (a form of injunctive relief)",
+          "explanation": "Temporary restraining order to prevent enforcement of the challenged executive orders.",
           "checklist_item": "Remedy Sought",
           "spans_paragraphs": null
         },
         "id": 0
-      },
-      {
-        "category": "decree_dates",
-        "output_idx": [
-          [
-            1376,
-            1558
-          ]
-        ],
-        "annotation": {
-          "explanation": "March 20, 2025: Court denied the ex parte TRO request and ordered plaintiffs to show cause regarding public filing.",
-          "checklist_item": "Dates of All Decrees",
-          "spans_paragraphs": null
-        },
-        "id": 1
       },
       {
         "category": "factual_basis",
@@ -354,27 +419,24 @@
             1298
           ],
           [
+            1299,
+            1375
+          ],
+          [
             1376,
-            1473
+            1558
           ],
           [
-            1619,
-            1722
-          ],
-          [
-            1723,
-            1857
+            1559,
+            1617
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiffs twice sought a TRO against enforcement of the executive orders, but the Court denied both requests, finding no likelihood of success or irreparable harm.",
+          "explanation": "Procedural event: Plaintiffs filed a TRO the same day as the complaint; an ex parte TRO was received March 19, 2025; the Court denied the ex parte request on March 20, 2025 and issued a same-day order to show cause regarding public docketing; plaintiffs did not respond.",
           "checklist_item": "Factual Basis of Case",
-          "spans_paragraphs": [
-            1,
-            2
-          ]
+          "spans_paragraphs": null
         },
-        "id": 2
+        "id": 1
       },
       {
         "category": "important_filings",
@@ -385,11 +447,11 @@
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiffs\u2019 motion for a temporary restraining order filed March 15, 2025.",
+          "explanation": "Motion for temporary restraining order filed (Mar. 15, 2025) to prevent enforcement of the executive orders.",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
-        "id": 3
+        "id": 2
       },
       {
         "category": "important_filings",
@@ -400,7 +462,26 @@
           ]
         ],
         "annotation": {
-          "explanation": "Ex parte version of the TRO motion submitted March 19, 2025.",
+          "explanation": "Ex parte version of TRO motion submitted/received (Mar. 19, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1376,
+            1558
+          ],
+          [
+            1559,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court denied ex parte TRO request and issued order to show cause re public docketing (Mar. 20, 2025); plaintiffs did not respond.",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
@@ -415,7 +496,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Initial TRO motion filed \u2013 March 15, 2025",
+          "explanation": "Initial TRO motion filed March 15, 2025, seeking to prevent enforcement of Executive Orders 14161 and 14188.",
           "checklist_item": "Trials",
           "spans_paragraphs": null
         },
@@ -430,7 +511,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Ex parte TRO submission received \u2013 March 19, 2025",
+          "explanation": "Court received an ex parte version of the TRO motion on March 19, 2025.",
           "checklist_item": "Trials",
           "spans_paragraphs": null
         },
@@ -442,44 +523,33 @@
           [
             1376,
             1558
-          ]
-        ],
-        "annotation": {
-          "explanation": "Court denies ex parte TRO request and issues show-cause order \u2013 March 20, 2025",
-          "checklist_item": "Trials",
-          "spans_paragraphs": null
-        },
-        "id": 7
-      },
-      {
-        "category": "trials",
-        "output_idx": [
+          ],
           [
             1559,
             1617
           ]
         ],
         "annotation": {
-          "explanation": "No response to March 20, 2025 show-cause order (date implied same day)",
+          "explanation": "On March 20, 2025, the Court denied the ex parte TRO request and issued an order to show cause with a 5:00 p.m. same-day deadline to explain why the motion should not be publicly docketed; plaintiffs did not respond.",
           "checklist_item": "Trials",
           "spans_paragraphs": null
         },
-        "id": 8
+        "id": 7
       },
       {
         "category": "court_rulings",
         "output_idx": [
           [
-            1376,
-            1558
+            1299,
+            1617
           ]
         ],
         "annotation": {
-          "explanation": "March 20, 2025 \u2013 Court denied plaintiffs\u2019 ex parte motion for a temporary restraining order (preliminary injunctive relief).",
+          "explanation": "March 20, 2025: Court denied the ex parte request related to the TRO and ordered plaintiffs to show cause regarding public docketing; plaintiffs did not respond.",
           "checklist_item": "Court Rulings",
           "spans_paragraphs": null
         },
-        "id": 9
+        "id": 8
       }
     ]
   },
@@ -489,7 +559,7 @@
       "case_id": "46234",
       "paragraph_num": 2,
       "total_paragraphs": 5,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "A hearing on the TRO was held on March 25, 2025, and on March 27, 2025, the Court again denied the T..."
     },
     "source": "",
@@ -501,16 +571,16 @@
     ],
     "edits": [
       {
-        "category": "decree_dates",
+        "category": "parties",
         "output_idx": [
           [
-            1619,
-            1722
+            1858,
+            2018
           ]
         ],
         "annotation": {
-          "explanation": "March 27, 2025: Court denied the TRO.",
-          "checklist_item": "Dates of All Decrees",
+          "explanation": "Plaintiff: Momodou Taal",
+          "checklist_item": "Who are the Parties",
           "spans_paragraphs": null
         },
         "id": 0
@@ -519,28 +589,44 @@
         "category": "factual_basis",
         "output_idx": [
           [
+            1619,
+            1722
+          ],
+          [
+            1723,
+            1857
+          ],
+          [
             1858,
             2018
+          ],
+          [
+            2019,
+            2193
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiff Momodou Taal\u2019s visa had been revoked before the TRO ruling.",
+          "explanation": "TRO hearing and ruling: Hearing held March 25, 2025; TRO denied March 27, 2025 for failure to show likelihood of success or irreparable harm; Court noted Momodou Taal\u2019s visa had already been revoked, undermining urgency; Court acknowledged serious concerns but found the emergency standard unmet.",
           "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
         "id": 1
       },
       {
-        "category": "trials",
+        "category": "important_filings",
         "output_idx": [
           [
             1619,
-            1666
+            1722
+          ],
+          [
+            1723,
+            1857
           ]
         ],
         "annotation": {
-          "explanation": "TRO hearing \u2013 March 25, 2025",
-          "checklist_item": "Trials",
+          "explanation": "TRO hearing (Mar. 25, 2025) followed by order denying TRO (Mar. 27, 2025) for lack of likelihood of success and irreparable harm.",
+          "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
         "id": 2
@@ -549,16 +635,43 @@
         "category": "trials",
         "output_idx": [
           [
-            1668,
-            1722
+            1619,
+            1667
           ]
         ],
         "annotation": {
-          "explanation": "TRO denied (written decision) \u2013 March 27, 2025",
+          "explanation": "TRO hearing held on March 25, 2025.",
           "checklist_item": "Trials",
           "spans_paragraphs": null
         },
         "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1668,
+            1722
+          ],
+          [
+            1723,
+            1857
+          ],
+          [
+            1858,
+            2018
+          ],
+          [
+            2019,
+            2193
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO denied on March 27, 2025 (following the March 25 hearing). Reasons: no likelihood of success on the merits, no irreparable harm, and Taal\u2019s prior visa revocation undermined urgency; court noted plaintiffs did not meet the high threshold for emergency relief.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
       },
       {
         "category": "court_rulings",
@@ -566,14 +679,26 @@
           [
             1619,
             1722
+          ],
+          [
+            1723,
+            1857
+          ],
+          [
+            1858,
+            2018
+          ],
+          [
+            2019,
+            2193
           ]
         ],
         "annotation": {
-          "explanation": "March 27, 2025 \u2013 Court denied plaintiffs\u2019 motion for a temporary restraining order after a hearing.",
+          "explanation": "March 27, 2025: After a March 25 hearing, the Court denied the TRO, finding no likelihood of success on the merits and no irreparable harm, and noting Taal\u2019s visa revocation undermined urgency.",
           "checklist_item": "Court Rulings",
           "spans_paragraphs": null
         },
-        "id": 4
+        "id": 5
       }
     ]
   },
@@ -583,7 +708,7 @@
       "case_id": "46234",
       "paragraph_num": 3,
       "total_paragraphs": 5,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "Also on March 27, 2025, the plaintiffs filed an amended complaint, adding as defendants the acting d..."
     },
     "source": "",
@@ -595,8 +720,61 @@
     ],
     "edits": [
       {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2391,
+            2557
+          ]
+        ],
+        "annotation": {
+          "explanation": "Renewed temporary restraining order to enjoin federal officials from detaining or removing Momodou Taal from the Court\u2019s jurisdiction while the case proceeded.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            2195,
+            2390
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Director of U.S. Immigration and Customs Enforcement (ICE)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            2195,
+            2390
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Director of the Buffalo Field Office of ICE",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
         "category": "factual_basis",
         "output_idx": [
+          [
+            2195,
+            2390
+          ],
+          [
+            2391,
+            2557
+          ],
           [
             2558,
             2712
@@ -607,59 +785,29 @@
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiffs asserted Taal curtailed his speech due to fear of reprisal and was subject to surveillance outside his home and instructions from ICE to report for detention.",
+          "explanation": "Amended pleading and renewed TRO: On March 27, 2025 plaintiffs added ICE acting directors (national and Buffalo Field Office) as defendants and sought to enjoin detention or removal of Momodou Taal; plaintiffs alleged Taal curtailed his speech due to fear under the EOs and cited enforcement actions including surveillance at his residence and instructions from ICE to report for detention.",
           "checklist_item": "Factual Basis of Case",
-          "spans_paragraphs": null
-        },
-        "id": 0
-      },
-      {
-        "category": "important_filings",
-        "output_idx": [
-          [
-            2195,
-            2390
-          ]
-        ],
-        "annotation": {
-          "explanation": "Amended complaint filed March 27, 2025 (adding additional ICE defendants).",
-          "checklist_item": "Note Important Filings",
-          "spans_paragraphs": null
-        },
-        "id": 1
-      },
-      {
-        "category": "important_filings",
-        "output_idx": [
-          [
-            2391,
-            2557
-          ]
-        ],
-        "annotation": {
-          "explanation": "Renewed motion for temporary restraining order filed March 27, 2025.",
-          "checklist_item": "Note Important Filings",
-          "spans_paragraphs": null
-        },
-        "id": 2
-      },
-      {
-        "category": "trials",
-        "output_idx": [
-          [
-            2195,
-            2390
-          ]
-        ],
-        "annotation": {
-          "explanation": "Amended complaint filed \u2013 March 27, 2025",
-          "checklist_item": "Trials",
           "spans_paragraphs": null
         },
         "id": 3
       },
       {
-        "category": "trials",
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2195,
+            2390
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint filed (Mar. 27, 2025) adding ICE Acting Directors and Buffalo Field Office director as defendants.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
         "output_idx": [
           [
             2391,
@@ -667,11 +815,30 @@
           ]
         ],
         "annotation": {
-          "explanation": "Renewed TRO motion filed \u2013 March 27, 2025",
+          "explanation": "Renewed TRO motion filed (Mar. 27, 2025) seeking to enjoin detention or removal of plaintiff Taal.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2195,
+            2390
+          ],
+          [
+            2391,
+            2557
+          ]
+        ],
+        "annotation": {
+          "explanation": "On March 27, 2025, plaintiffs filed an amended complaint and a renewed TRO seeking to enjoin detention or removal of plaintiff Taal during the litigation.",
           "checklist_item": "Trials",
           "spans_paragraphs": null
         },
-        "id": 4
+        "id": 6
       }
     ]
   },
@@ -681,7 +848,7 @@
       "case_id": "46234",
       "paragraph_num": 4,
       "total_paragraphs": 5,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On March 31, 2025, the plaintiffs filed a notice of voluntary dismissal without prejudice, and on Ap..."
     },
     "source": "",
@@ -712,21 +879,6 @@
         "id": 0
       },
       {
-        "category": "decree_dates",
-        "output_idx": [
-          [
-            2971,
-            3024
-          ]
-        ],
-        "annotation": {
-          "explanation": "April 2, 2025: Court formally closed the case.",
-          "checklist_item": "Dates of All Decrees",
-          "spans_paragraphs": null
-        },
-        "id": 1
-      },
-      {
         "category": "factual_basis",
         "output_idx": [
           [
@@ -736,11 +888,30 @@
           [
             3025,
             3227
+          ],
+          [
+            3228,
+            3322
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiffs voluntarily dismissed the case (March 31, 2025), citing escalating enforcement threats; the Court closed the case on April 2, 2025, with no ruling on the merits.",
+          "explanation": "Disposition: Plaintiffs voluntarily dismissed without prejudice on March 31, 2025; case closed April 2, 2025; plaintiffs cite escalating enforcement threats (revocation of immigration status, visible surveillance, imminent detention) as reason; no injunctive relief granted and no ruling on the merits.",
           "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2876,
+            2966
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed notice of voluntary dismissal without prejudice (Mar. 31, 2025).",
+          "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
         "id": 2
@@ -749,28 +920,28 @@
         "category": "important_filings",
         "output_idx": [
           [
-            2876,
+            2971,
             3024
           ]
         ],
         "annotation": {
-          "explanation": "Notice of voluntary dismissal without prejudice filed March 31, 2025.",
+          "explanation": "Court closed the case (Apr. 2, 2025).",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
         "id": 3
       },
       {
-        "category": "trials",
+        "category": "important_filings",
         "output_idx": [
           [
-            2876,
-            2965
+            3228,
+            3322
           ]
         ],
         "annotation": {
-          "explanation": "Notice of voluntary dismissal (without prejudice) filed \u2013 March 31, 2025",
-          "checklist_item": "Trials",
+          "explanation": "Outcome: no injunctive relief granted; case dismissed without merits ruling.",
+          "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
         "id": 4
@@ -779,16 +950,31 @@
         "category": "trials",
         "output_idx": [
           [
-            2967,
+            2876,
             3024
           ]
         ],
         "annotation": {
-          "explanation": "Case closed by court \u2013 April 2, 2025",
+          "explanation": "Plaintiffs voluntarily dismissed the case without prejudice on March 31, 2025; Court closed the case on April 2, 2025.",
           "checklist_item": "Trials",
           "spans_paragraphs": null
         },
         "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3228,
+            3322
+          ]
+        ],
+        "annotation": {
+          "explanation": "No injunctive relief granted at any stage; case dismissed without a merits ruling.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
       }
     ]
   }
