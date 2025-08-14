@@ -5,7 +5,7 @@
       "case_id": "46210",
       "paragraph_num": 0,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "This case challenges the carcinogenic chloroprene emissions from Denka Performance Elastomer, LLC\u2019s ..."
     },
     "source": "",
@@ -17,19 +17,71 @@
     ],
     "edits": [
       {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            215
+          ],
+          [
+            751,
+            859
+          ],
+          [
+            1104,
+            1207
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Denka Performance Elastomer LLC (owner and operator of a neoprene manufacturing facility at the Pontchartrain Works Site in St. John the Baptist Parish, Louisiana; facility located in LaPlace, Louisiana)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 0
+      },
+      {
         "category": "factual_basis",
         "output_idx": [
           [
-            267,
+            65,
+            215
+          ],
+          [
+            751,
+            1000
+          ],
+          [
+            1149,
+            1206
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves emissions from Denka\u2019s neoprene manufacturing facility at the Pontchartrain Works Site in St. John the Baptist Parish (LaPlace), Louisiana; Denka operates the facility and DuPont owns the land.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            323,
             418
           ]
         ],
         "annotation": {
-          "explanation": "EPA (2010) classified chloroprene emitted from Denka\u2019s neoprene plant as a chemical \"likely carcinogenic to humans,\" establishing the health-risk context.",
+          "explanation": "The pollutant at issue is chloroprene, which the EPA classified in 2010 as likely carcinogenic to humans.",
           "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
-        "id": 0
+        "id": 2
       },
       {
         "category": "factual_basis",
@@ -40,11 +92,26 @@
           ]
         ],
         "annotation": {
-          "explanation": "Air-monitoring data showed chloroprene concentrations as high as 14\u00d7 the EPA-recommended level in surrounding neighborhoods, supporting the allegation of an imminent and substantial endangerment.",
+          "explanation": "Air monitoring detected chloroprene concentrations up to 14 times EPA-recommended levels near the facility, indicating elevated exposure risk in nearby communities.",
           "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
-        "id": 1
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            419,
+            616
+          ]
+        ],
+        "annotation": {
+          "explanation": "The impacted community surrounding the facility is majority-Black, which the monitoring results suggest is at heightened cancer risk.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
       }
     ]
   },
@@ -54,7 +121,7 @@
       "case_id": "46210",
       "paragraph_num": 1,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On February 28, 2023, the United States government filed a lawsuit in the U.S. District Court for th..."
     },
     "source": "",
@@ -89,7 +156,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Claim under Section 303 of the Clean Air Act, 42 U.S.C. \u00a7 7603 (imminent and substantial endangerment).",
+          "explanation": "Clean Air Act \u00a7 303 (42 U.S.C. \u00a7 7603) imminent and substantial endangerment action for injunctive relief against Denka.",
           "checklist_item": "Cause of Action",
           "spans_paragraphs": null
         },
@@ -104,7 +171,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Claim invoking the All Writs Act, 28 U.S.C. \u00a7 1651, to secure injunctive relief against DuPont.",
+          "explanation": "Fed. R. Civ. P. 19(a) and All Writs Act (28 U.S.C. \u00a7 1651) used to join/bind DuPont to ensure cooperation with injunctive relief.",
           "checklist_item": "Cause of Action",
           "spans_paragraphs": null
         },
@@ -119,7 +186,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Section 303 of the Clean Air Act, 42 U.S.C. \u00a7 7603",
+          "explanation": "Section 303 of the Clean Air Act, 42 U.S.C. \u00a7 7603 (imminent and substantial endangerment claim)",
           "checklist_item": "Statutory or Constitutional Basis for the Case",
           "spans_paragraphs": null
         },
@@ -134,41 +201,11 @@
           ]
         ],
         "annotation": {
-          "explanation": "Federal Rule of Civil Procedure 19(a)",
+          "explanation": "Fed. R. Civ. P. 19(a) and the All Writs Act, 28 U.S.C. \u00a7 1651 (to join/compel DuPont to facilitate injunctive relief)",
           "checklist_item": "Statutory or Constitutional Basis for the Case",
           "spans_paragraphs": null
         },
         "id": 4
-      },
-      {
-        "category": "statutory_basis",
-        "output_idx": [
-          [
-            1324,
-            1625
-          ]
-        ],
-        "annotation": {
-          "explanation": "All Writs Act, 28 U.S.C. \u00a7 1651",
-          "checklist_item": "Statutory or Constitutional Basis for the Case",
-          "spans_paragraphs": null
-        },
-        "id": 5
-      },
-      {
-        "category": "class_action",
-        "output_idx": [
-          [
-            618,
-            750
-          ]
-        ],
-        "annotation": {
-          "explanation": "Plaintiffs: Individual, described as United States government",
-          "checklist_item": "Class Action or Individual Plaintiffs",
-          "spans_paragraphs": null
-        },
-        "id": 6
       },
       {
         "category": "parties",
@@ -176,15 +213,45 @@
           [
             618,
             750
-          ],
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: United States government (filed the lawsuit in the U.S. District Court for the Eastern District of Louisiana)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
           [
-            751,
+            860,
             1000
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiff: United States government; Defendants: Denka Performance Elastomer LLC (owner and operator of the neoprene manufacturing facility at the Pontchartrain Works Site in LaPlace, St. John the Baptist Parish, Louisiana) and DuPont Specialty Products (owner of the land on which the facility is located and leased to Denka).",
+          "explanation": "Defendant: DuPont Specialty Products (owner of the land on which the neoprene manufacturing facility was located and lessor to Denka)",
           "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            618,
+            750
+          ],
+          [
+            1001,
+            1322
+          ]
+        ],
+        "annotation": {
+          "explanation": "On February 28, 2023, the United States sued Denka under Clean Air Act \u00a7303, alleging its chloroprene emissions posed an imminent and substantial endangerment to public health in St. John the Baptist Parish.",
+          "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
         "id": 7
@@ -193,33 +260,51 @@
         "category": "factual_basis",
         "output_idx": [
           [
-            751,
-            1000
+            1425,
+            1625
+          ],
+          [
+            1866,
+            2052
           ]
         ],
         "annotation": {
-          "explanation": "Parties and roles: Denka operates the neoprene plant that emits chloroprene; DuPont owns the land, providing context for potential control over abatement measures.",
+          "explanation": "Because DuPont owns the site, the United States alleged Denka might need DuPont\u2019s cooperation to implement emission control measures; Plaintiff sought an order requiring DuPont to authorize and not impede needed measures.",
           "checklist_item": "Factual Basis of Case",
-          "spans_paragraphs": null
+          "spans_paragraphs": [
+            1,
+            2
+          ]
         },
         "id": 8
       },
       {
-        "category": "factual_basis",
+        "category": "important_filings",
         "output_idx": [
           [
-            1001,
-            1143
+            618,
+            750
           ],
           [
-            1208,
-            1322
+            751,
+            1000
+          ],
+          [
+            1627,
+            1865
+          ],
+          [
+            1866,
+            2052
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiff\u2019s core factual allegation: Denka\u2019s chloroprene emissions create an imminent and substantial endangerment under Clean Air Act \u00a7303.",
-          "checklist_item": "Factual Basis of Case",
-          "spans_paragraphs": null
+          "explanation": "Complaint filed by United States on 2023-02-28 in E.D. La. under CAA \u00a7 303 against Denka and DuPont, seeking injunctive relief to reduce chloroprene emissions and to require DuPont\u2019s authorization/non-interference.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
         },
         "id": 9
       }
@@ -231,7 +316,7 @@
       "case_id": "46210",
       "paragraph_num": 2,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "Plaintiff sought injunctive relief requiring that Defendant Denka immediately reduce its chloroprene..."
     },
     "source": "",
@@ -251,7 +336,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Injunctive relief directing Denka to immediately reduce chloroprene emissions.",
+          "explanation": "Injunctive relief requiring Denka to immediately reduce chloroprene emissions to levels that do not cause or contribute to unacceptably high cancer risks in surrounding communities.",
           "checklist_item": "Remedy Sought",
           "spans_paragraphs": null
         },
@@ -266,7 +351,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Injunctive relief ordering DuPont to authorize and not impede construction/measures needed for Denka\u2019s compliance.",
+          "explanation": "Injunctive relief ordering DuPont to authorize and not impede construction and other necessary measures enabling Denka to comply with the court\u2019s order.",
           "checklist_item": "Remedy Sought",
           "spans_paragraphs": null
         },
@@ -281,7 +366,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Requested remedy indicates the factual premise that current emissions exceed safe levels and must be reduced promptly.",
+          "explanation": "Plaintiff sought immediate emission reductions to eliminate contributions to unacceptably high cancer risks in surrounding communities.",
           "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
@@ -295,7 +380,7 @@
       "case_id": "46210",
       "paragraph_num": 3,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "The case was assigned to Judge Eldon E. Fallon and Magistrate Judge Michael North. The case was late..."
     },
     "source": "",
@@ -315,7 +400,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Eldon E. Fallon",
+          "explanation": "Eldon Fallon",
           "checklist_item": "First and Last name of Judge",
           "spans_paragraphs": null
         },
@@ -345,11 +430,26 @@
           ]
         ],
         "annotation": {
-          "explanation": "Carl J Barbier",
+          "explanation": "Carl Barbier",
           "checklist_item": "First and Last name of Judge",
           "spans_paragraphs": null
         },
         "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2054,
+            2191
+          ]
+        ],
+        "annotation": {
+          "explanation": "Trial judge assignment: ultimately reassigned to Judge Carl J. Barbier (would have presided over any trial).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
       }
     ]
   },
@@ -359,7 +459,7 @@
       "case_id": "46210",
       "paragraph_num": 4,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On March 20, 2023, Plaintiff filed a motion for a preliminary injunction, requesting the court to or..."
     },
     "source": "",
@@ -379,7 +479,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Preliminary injunction compelling Denka to implement significant pollution controls promptly.",
+          "explanation": "Preliminary injunction compelling Denka to implement significant pollution controls promptly to reduce chloroprene emissions.",
           "checklist_item": "Remedy Sought",
           "spans_paragraphs": null
         },
@@ -390,15 +490,30 @@
         "output_idx": [
           [
             2193,
-            2398
+            2483
           ]
         ],
         "annotation": {
-          "explanation": "Mar-20-2023 \u2013 United States (Plaintiff) motion for preliminary injunction against Denka; sought immediate emission-control measures (ruling not stated).",
+          "explanation": "Plaintiff\u2019s motion for preliminary injunction filed on 2023-03-20 to require Denka to promptly implement significant pollution controls (ruling not stated).",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
         "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2193,
+            2483
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff moved for a preliminary injunction on March 20, 2023 (no ruling specified).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
       }
     ]
   },
@@ -408,7 +523,7 @@
       "case_id": "46210",
       "paragraph_num": 5,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "In response, Defendant Denka filed a counterclaim against the Plaintiff. Defendant Denka argued that..."
     },
     "source": "",
@@ -424,20 +539,17 @@
         "output_idx": [
           [
             2558,
-            2836
+            3014
           ],
           [
-            6109,
-            6344
+            3015,
+            3179
           ]
         ],
         "annotation": {
-          "explanation": "Counterclaim and later petition under the Administrative Procedure Act (5 U.S.C. \u00a7\u00a7 701-706) asserting the EPA rule is arbitrary and capricious.",
+          "explanation": "Administrative Procedure Act (APA) counterclaim challenging EPA\u2019s 2010 rule as arbitrary, capricious, an abuse of discretion, and not in accordance with law; seeking declaratory and injunctive relief.",
           "checklist_item": "Cause of Action",
-          "spans_paragraphs": [
-            5,
-            12
-          ]
+          "spans_paragraphs": null
         },
         "id": 0
       },
@@ -446,13 +558,20 @@
         "output_idx": [
           [
             2558,
-            2835
+            2836
+          ],
+          [
+            6095,
+            6344
           ]
         ],
         "annotation": {
-          "explanation": "Administrative Procedure Act (APA)",
+          "explanation": "Administrative Procedure Act (APA) \u2014 arbitrary and capricious challenges to EPA\u2019s 2010 chloroprene standard and the 2024 rule",
           "checklist_item": "Statutory or Constitutional Basis for the Case",
-          "spans_paragraphs": null
+          "spans_paragraphs": [
+            5,
+            12
+          ]
         },
         "id": 1
       },
@@ -465,26 +584,41 @@
           ]
         ],
         "annotation": {
-          "explanation": "Denka\u2019s counterclaim: (a) declaratory relief that EPA\u2019s 2010 chloroprene rule is invalid, and (b) injunctive relief enjoining EPA from using the 2010 rule until it is reconsidered.",
+          "explanation": "Declaratory relief and injunctive relief (counterclaim) enjoining the United States from using the EPA\u2019s 2010 chloroprene rule until it is reconsidered in light of new evidence.",
           "checklist_item": "Remedy Sought",
           "spans_paragraphs": null
         },
         "id": 2
       },
       {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2558,
+            3014
+          ]
+        ],
+        "annotation": {
+          "explanation": "Denka\u2019s counter-evidence position: the EPA\u2019s 2010 chloroprene standard was allegedly arbitrary and unsupported by the best available science and models.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
         "category": "important_filings",
         "output_idx": [
           [
             2485,
-            2557
+            3179
           ]
         ],
         "annotation": {
-          "explanation": "Spring 2023 \u2013 Denka counterclaim challenging EPA\u2019s 2010 chloroprene rule; sought declaratory and injunctive relief (later dismissed).",
+          "explanation": "Denka filed a counterclaim challenging the EPA\u2019s 2010 chloroprene rule under the APA, seeking declaratory and injunctive relief.",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
-        "id": 3
+        "id": 4
       }
     ]
   },
@@ -494,7 +628,7 @@
       "case_id": "46210",
       "paragraph_num": 6,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On May 2, 2023, Defendant DuPont filed a motion to dismiss for lack of subject matter jurisdiction a..."
     },
     "source": "",
@@ -510,19 +644,30 @@
         "output_idx": [
           [
             3181,
-            3309
-          ],
-          [
-            3547,
             3576
           ]
         ],
         "annotation": {
-          "explanation": "May-02-2023 \u2013 DuPont motion to dismiss (Rule 12(b)(1)/(6)); denied.",
+          "explanation": "DuPont\u2019s motion to dismiss (Rule 12(b)(1)/(6)) filed on 2023-05-02 was denied.",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
         "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3181,
+            3576
+          ]
+        ],
+        "annotation": {
+          "explanation": "DuPont\u2019s motion to dismiss (filed May 2, 2023) was denied.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
       },
       {
         "category": "court_rulings",
@@ -537,11 +682,11 @@
           ]
         ],
         "annotation": {
-          "explanation": "DuPont\u2019s May 2 2023 motion to dismiss was DENIED.",
+          "explanation": "Denied\u2014DuPont\u2019s motion to dismiss for lack of subject matter jurisdiction and failure to state a claim (filed May 2, 2023).",
           "checklist_item": "Court Rulings",
           "spans_paragraphs": null
         },
-        "id": 1
+        "id": 2
       }
     ]
   },
@@ -551,7 +696,7 @@
       "case_id": "46210",
       "paragraph_num": 7,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On May 4, 2023, Plaintiff filed a motion to dismiss Defendant Denka's counterclaims for lack of subj..."
     },
     "source": "",
@@ -563,26 +708,15 @@
     ],
     "edits": [
       {
-        "category": "decree_dates",
-        "output_idx": [
-          [
-            4148,
-            4198
-          ]
-        ],
-        "annotation": {
-          "explanation": "August 30, 2023: The court granted Plaintiff's third motion to dismiss Defendant Denka's counterclaims for lack of subject matter jurisdiction.",
-          "checklist_item": "Dates of All Decrees",
-          "spans_paragraphs": null
-        },
-        "id": 0
-      },
-      {
         "category": "important_filings",
         "output_idx": [
           [
             3578,
             3702
+          ],
+          [
+            3945,
+            4057
           ],
           [
             4058,
@@ -594,8 +728,23 @@
           ]
         ],
         "annotation": {
-          "explanation": "May-04/08/09-2023 \u2013 United States motions to dismiss Denka\u2019s original counterclaims; third motion granted Aug-30-2023.",
+          "explanation": "Plaintiff\u2019s motions to dismiss Denka\u2019s counterclaims for lack of subject-matter jurisdiction filed 2023-05-04 (deficient), refiled 2023-05-08 (deficient), and filed again 2023-05-09; motion granted on 2023-08-30.",
           "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4058,
+            4198
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court granted Plaintiff\u2019s motion to dismiss Denka\u2019s original counterclaims on August 30, 2023.",
+          "checklist_item": "Trials",
           "spans_paragraphs": null
         },
         "id": 1
@@ -604,12 +753,16 @@
         "category": "court_rulings",
         "output_idx": [
           [
-            4058,
+            3578,
+            3702
+          ],
+          [
+            4148,
             4198
           ]
         ],
         "annotation": {
-          "explanation": "The United States\u2019 (Plaintiff\u2019s) third motion to dismiss Denka\u2019s counterclaims was GRANTED on August 30 2023.",
+          "explanation": "Granted\u2014Plaintiff\u2019s motion to dismiss Denka\u2019s counterclaims for lack of subject matter jurisdiction (granted Aug. 30, 2023).",
           "checklist_item": "Court Rulings",
           "spans_paragraphs": null
         },
@@ -623,7 +776,7 @@
       "case_id": "46210",
       "paragraph_num": 8,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On October 25, 2023, Defendant Denka filed an amended counterclaim. It was deemed deficient, and Def..."
     },
     "source": "",
@@ -651,7 +804,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Oct-25/Nov-03-2023 \u2013 Denka amended counterclaim; U.S. motion to dismiss granted Jan-10-2025 (counterclaim dismissed with prejudice).",
+          "explanation": "Denka filed an amended counterclaim on 2023-10-25 (refiled 2023-11-03 after deficiency); Plaintiff moved to dismiss for lack of jurisdiction; motion granted on 2025-01-10 and the counterclaim dismissed with prejudice.",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": [
             8,
@@ -659,6 +812,50 @@
           ]
         },
         "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4200,
+            4707
+          ],
+          [
+            7880,
+            8001
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended counterclaim dismissed with prejudice for lack of jurisdiction on January 10, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            8,
+            18
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4591,
+            4707
+          ],
+          [
+            7880,
+            8001
+          ]
+        ],
+        "annotation": {
+          "explanation": "Granted\u2014Plaintiff\u2019s motion to dismiss Denka\u2019s amended counterclaim for lack of jurisdiction; counterclaim dismissed with prejudice (Jan. 10, 2025).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            8,
+            18
+          ]
+        },
+        "id": 2
       }
     ]
   },
@@ -668,7 +865,7 @@
       "case_id": "46210",
       "paragraph_num": 9,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "The following month, Defendant Denka filed a motion for summary judgment on December 29. In its moti..."
     },
     "source": "",
@@ -684,11 +881,11 @@
         "output_idx": [
           [
             4813,
-            4976
+            5143
           ]
         ],
         "annotation": {
-          "explanation": "Denka\u2019s own estimate: long-term exposure to its current emissions equals a lifetime cancer risk of 5 in 10,000, a figure central to the parties\u2019 dispute over what constitutes unacceptable or imminent risk.",
+          "explanation": "Denka cited a quantitative risk estimate of 5-in-10,000 lifetime cancer risk under continuous 70-year exposure, arguing it is not an imminent and substantial endangerment.",
           "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
@@ -699,15 +896,30 @@
         "output_idx": [
           [
             4709,
-            4797
+            5143
           ]
         ],
         "annotation": {
-          "explanation": "Dec-29-2023 \u2013 Denka motion for summary judgment (pending / no ruling stated in summary).",
+          "explanation": "Denka\u2019s motion for summary judgment filed on 2023-12-29 arguing no \u201cimminent and substantial endangerment\u201d (outcome not stated).",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
         "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4709,
+            5143
+          ]
+        ],
+        "annotation": {
+          "explanation": "Denka filed a motion for summary judgment on December 29, 2023 (outcome not stated).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
       }
     ]
   },
@@ -717,7 +929,7 @@
       "case_id": "46210",
       "paragraph_num": 10,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "The same day, Defendant DuPont filed a motion for judgment on the pleadings. The court denied the mo..."
     },
     "source": "",
@@ -729,35 +941,31 @@
     ],
     "edits": [
       {
-        "category": "decree_dates",
+        "category": "important_filings",
         "output_idx": [
           [
-            5222,
+            5145,
             5404
           ]
         ],
         "annotation": {
-          "explanation": "July 2024: The court denied Defendant DuPont's motion for judgment on the pleadings.",
-          "checklist_item": "Dates of All Decrees",
+          "explanation": "DuPont\u2019s motion for judgment on the pleadings filed on 2023-12-29 was denied in July 2024.",
+          "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
         "id": 0
       },
       {
-        "category": "important_filings",
+        "category": "trials",
         "output_idx": [
           [
             5145,
-            5221
-          ],
-          [
-            5222,
-            5262
+            5404
           ]
         ],
         "annotation": {
-          "explanation": "Dec-29-2023 \u2013 DuPont motion for judgment on the pleadings; denied July-2024.",
-          "checklist_item": "Note Important Filings",
+          "explanation": "DuPont\u2019s motion for judgment on the pleadings was denied in July 2024.",
+          "checklist_item": "Trials",
           "spans_paragraphs": null
         },
         "id": 1
@@ -767,11 +975,15 @@
         "output_idx": [
           [
             5145,
+            5221
+          ],
+          [
+            5222,
             5404
           ]
         ],
         "annotation": {
-          "explanation": "DuPont\u2019s motion for judgment on the pleadings (filed Dec 29 2023) was DENIED in July 2024.",
+          "explanation": "Denied\u2014DuPont\u2019s motion for judgment on the pleadings (denied July 2024).",
           "checklist_item": "Court Rulings",
           "spans_paragraphs": null
         },
@@ -785,7 +997,7 @@
       "case_id": "46210",
       "paragraph_num": 11,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On May 16, 2024, the EPA published a new rule titled \u201cNew Source Performance Standards for the Synth..."
     },
     "source": "",
@@ -800,16 +1012,38 @@
         "category": "factual_basis",
         "output_idx": [
           [
-            5739,
-            5901
+            5406,
+            6093
           ]
         ],
         "annotation": {
-          "explanation": "May 16 2024 EPA rule imposes stricter chloroprene standards, serving as new regulatory benchmark relevant to factual assessment of ongoing emissions.",
+          "explanation": "Background regulatory development: In May 2024, EPA issued a new rule imposing stricter chloroprene emission standards and requiring advanced control technologies at relevant facilities.",
           "checklist_item": "Factual Basis of Case",
           "spans_paragraphs": null
         },
         "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5406,
+            5738
+          ],
+          [
+            6095,
+            6367
+          ]
+        ],
+        "annotation": {
+          "explanation": "Denka filed a petition for review of EPA\u2019s May 16, 2024 rule in the D.C. Circuit on 2024-05-16 (No. 24-1135).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            11,
+            12
+          ]
+        },
+        "id": 1
       }
     ]
   },
@@ -819,7 +1053,7 @@
       "case_id": "46210",
       "paragraph_num": 12,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "The same day, Defendant Denka filed a petition for review of the new rule in the U.S. Court of Appea..."
     },
     "source": "",
@@ -831,6 +1065,43 @@
     ],
     "edits": [
       {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            6095,
+            6367
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for review in the D.C. Circuit challenging the 2024 EPA rule as arbitrary, capricious, an abuse of discretion, and not in accordance with law.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            6095,
+            6367
+          ],
+          [
+            7154,
+            7371
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related D.C. Circuit petition for review of the EPA rule: No. 24-01135. On July 1, 2024, consolidated with No. 24-1228; the following week, additional cases Nos. 24-1249, 24-1250, 24-1251, 24-1252 were consolidated with No. 24-1135 (lead docket).",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": [
+            12,
+            15
+          ]
+        },
+        "id": 1
+      },
+      {
         "category": "appeals",
         "output_idx": [
           [
@@ -839,11 +1110,33 @@
           ]
         ],
         "annotation": {
-          "explanation": "Appeal: Defendant Denka Performance Elastomer LLC appealed to the U.S. Court of Appeals for the District of Columbia Circuit.",
+          "explanation": "Appeal: Denka Performance Elastomer LLC appealed to the U.S. Court of Appeals for the District of Columbia Circuit.",
           "checklist_item": "Appeal",
           "spans_paragraphs": null
         },
-        "id": 0
+        "id": 2
+      },
+      {
+        "category": "consolidated_cases",
+        "output_idx": [
+          [
+            6095,
+            6367
+          ],
+          [
+            7154,
+            7371
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Court of Appeals for the D.C. Circuit petitions for review of the EPA\u2019s May 16, 2024 rule were consolidated: lead docket 24-1135 was consolidated on July 1, 2024 with 24-1228, and the following week with 24-1249, 24-1250, 24-1251, and 24-1252.",
+          "checklist_item": "Consolidated Cases Noted",
+          "spans_paragraphs": [
+            12,
+            15
+          ]
+        },
+        "id": 3
       }
     ]
   },
@@ -853,7 +1146,7 @@
       "case_id": "46210",
       "paragraph_num": 13,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On May 31, the Parties attended a status conference to discuss how the new rule would affect the ong..."
     },
     "source": "",
@@ -863,7 +1156,23 @@
       6369,
       6693
     ],
-    "edits": []
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            6369,
+            6693
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status conference held May 31, 2024; Denka proposed holding the case in abeyance until October 15, 2024, affecting trial scheduling.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
   },
   {
     "id": "46210_p14",
@@ -871,7 +1180,7 @@
       "case_id": "46210",
       "paragraph_num": 14,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "Meanwhile, on June 11, several nonprofits (including the Concerned Citizens of St. John, Rise St. Ja..."
     },
     "source": "",
@@ -886,12 +1195,12 @@
         "category": "important_filings",
         "output_idx": [
           [
-            7034,
+            6695,
             7152
           ]
         ],
         "annotation": {
-          "explanation": "Jun-11-2024 \u2013 Nonprofits\u2019 motion to intervene in D.C. Circuit petition for review; granted Jun-12-2024.",
+          "explanation": "Nonprofit groups filed a motion to intervene in the D.C. Circuit petition on 2024-06-11; intervention was granted on 2024-06-12.",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
         },
@@ -905,7 +1214,7 @@
       "case_id": "46210",
       "paragraph_num": 15,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On July 1, 2024, the petition for review was consolidated with another petition for review (docket n..."
     },
     "source": "",
@@ -915,57 +1224,7 @@
       7154,
       7371
     ],
-    "edits": [
-      {
-        "category": "related_cases",
-        "output_idx": [
-          [
-            7154,
-            7266
-          ],
-          [
-            7267,
-            7371
-          ]
-        ],
-        "annotation": {
-          "explanation": "D.C. Circuit petitions for review of the EPA rule: original docket 24-01135 (also referenced as 24-1135) consolidated with dockets 24-1228, 24-1249, 24-1250, 24-1251, and 24-1252.",
-          "checklist_item": "Related Cases Listed by Their Case Code Number",
-          "spans_paragraphs": null
-        },
-        "id": 0
-      },
-      {
-        "category": "consolidated_cases",
-        "output_idx": [
-          [
-            7154,
-            7266
-          ]
-        ],
-        "annotation": {
-          "explanation": "On July 1, 2024, petition for review docket no. 24-1135 was consolidated with petition docket no. 24-1228.",
-          "checklist_item": "Consolidated Cases Noted",
-          "spans_paragraphs": null
-        },
-        "id": 1
-      },
-      {
-        "category": "consolidated_cases",
-        "output_idx": [
-          [
-            7267,
-            7371
-          ]
-        ],
-        "annotation": {
-          "explanation": "The week after July 1, 2024, petition docket no. 24-1135 was further consolidated with docket nos. 24-1249, 24-1250, 24-1251, and 24-1252.",
-          "checklist_item": "Consolidated Cases Noted",
-          "spans_paragraphs": null
-        },
-        "id": 2
-      }
-    ]
+    "edits": []
   },
   {
     "id": "46210_p16",
@@ -973,7 +1232,7 @@
       "case_id": "46210",
       "paragraph_num": 16,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On September 17, 2024, Plaintiff filed a motion to reopen the case. Plaintiff argued that until Defe..."
     },
     "source": "",
@@ -997,7 +1256,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Sep-17-2024 \u2013 United States motion to reopen district-court case; granted in part.",
+          "explanation": "Plaintiff\u2019s motion to reopen the district court case filed on 2024-09-17; granted in part (followed by a status conference on 2024-11-21).",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": [
             16,
@@ -1005,6 +1264,25 @@
           ]
         },
         "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            7373,
+            7440
+          ],
+          [
+            7655,
+            7729
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff sought to reopen and reset the case for trial on September 17, 2024.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
       },
       {
         "category": "court_rulings",
@@ -1019,14 +1297,14 @@
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiff\u2019s motion to reopen the case was GRANTED IN PART (date not specified but after Sept 17 2024).",
+          "explanation": "Granted in part\u2014Plaintiff\u2019s motion to reopen the case.",
           "checklist_item": "Court Rulings",
           "spans_paragraphs": [
             16,
             17
           ]
         },
-        "id": 1
+        "id": 2
       }
     ]
   },
@@ -1036,7 +1314,7 @@
       "case_id": "46210",
       "paragraph_num": 17,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "The court granted in part the motion to reopen the case. The Parties attended a status conference on..."
     },
     "source": "",
@@ -1046,7 +1324,27 @@
       7731,
       7878
     ],
-    "edits": []
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            7731,
+            7787
+          ],
+          [
+            7788,
+            7878
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court granted in part the motion to reopen; held a status conference on November 21, 2024 to discuss next steps, but no trial date is stated.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
   },
   {
     "id": "46210_p18",
@@ -1054,7 +1352,7 @@
       "case_id": "46210",
       "paragraph_num": 18,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On January 10, 2025 granted the motion to dismiss for lack of jurisdiction and dismissed the counter..."
     },
     "source": "",
@@ -1064,38 +1362,7 @@
       7880,
       8001
     ],
-    "edits": [
-      {
-        "category": "decree_dates",
-        "output_idx": [
-          [
-            7880,
-            8001
-          ]
-        ],
-        "annotation": {
-          "explanation": "January 10, 2025: The court granted the motion to dismiss for lack of jurisdiction and dismissed the counterclaim with prejudice.",
-          "checklist_item": "Dates of All Decrees",
-          "spans_paragraphs": null
-        },
-        "id": 0
-      },
-      {
-        "category": "court_rulings",
-        "output_idx": [
-          [
-            7880,
-            8001
-          ]
-        ],
-        "annotation": {
-          "explanation": "Plaintiff\u2019s motion to dismiss Denka\u2019s amended counterclaim was GRANTED on Jan 10 2025 (counterclaim dismissed with prejudice).",
-          "checklist_item": "Court Rulings",
-          "spans_paragraphs": null
-        },
-        "id": 1
-      }
-    ]
+    "edits": []
   },
   {
     "id": "46210_p19",
@@ -1103,7 +1370,7 @@
       "case_id": "46210",
       "paragraph_num": 19,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "On March 7, 2025, Plaintiff filed a motion to voluntarily dismiss the case. The Trump administration..."
     },
     "source": "",
@@ -1124,29 +1391,21 @@
           [
             8570,
             8616
+          ],
+          [
+            8618,
+            8642
           ]
         ],
         "annotation": {
-          "explanation": "[No].",
+          "explanation": "No.",
           "checklist_item": "Whether the Settlement is Court-enforced or Not",
-          "spans_paragraphs": null
+          "spans_paragraphs": [
+            19,
+            20
+          ]
         },
         "id": 0
-      },
-      {
-        "category": "decree_dates",
-        "output_idx": [
-          [
-            8570,
-            8616
-          ]
-        ],
-        "annotation": {
-          "explanation": "March 10, 2025: The case was officially dismissed.",
-          "checklist_item": "Dates of All Decrees",
-          "spans_paragraphs": null
-        },
-        "id": 1
       },
       {
         "category": "important_filings",
@@ -1161,9 +1420,31 @@
           ]
         ],
         "annotation": {
-          "explanation": "Mar-07-2025 \u2013 United States motion for voluntary dismissal; granted Mar-10-2025 (case terminated).",
+          "explanation": "Plaintiff\u2019s motion to voluntarily dismiss filed on 2025-03-07; case dismissed on 2025-03-10.",
           "checklist_item": "Note Important Filings",
           "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            8003,
+            8616
+          ],
+          [
+            8618,
+            8642
+          ]
+        ],
+        "annotation": {
+          "explanation": "No trial was held; the case was voluntarily dismissed and officially closed on March 10, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            19,
+            20
+          ]
         },
         "id": 2
       },
@@ -1180,7 +1461,7 @@
           ]
         ],
         "annotation": {
-          "explanation": "Plaintiff\u2019s motion for voluntary dismissal was GRANTED; case dismissed on Mar 10 2025.",
+          "explanation": "Granted\u2014Plaintiff\u2019s motion for voluntary dismissal; case dismissed (Mar. 10, 2025).",
           "checklist_item": "Court Rulings",
           "spans_paragraphs": null
         },
@@ -1194,7 +1475,7 @@
       "case_id": "46210",
       "paragraph_num": 20,
       "total_paragraphs": 21,
-      "model": "o3-2025-04-16",
+      "model": "gpt-5-2025-08-07",
       "paragraph_text_preview": "This case is now closed."
     },
     "source": "",
