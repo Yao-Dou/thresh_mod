@@ -42,6 +42,8 @@ interface_text:
     header: "Annotated Values"
   hit_box:
     hit_label: "Paragraph"
+  buttons:
+    add_edit_label: "Add Value"
 
 tutorial_link: # Add your tutorial link here if available
 
