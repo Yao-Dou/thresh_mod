@@ -171,6 +171,20 @@ export default {
                 qualitySelection.slideDown(300);
                 $(e.target).addClass(`txt-${category}`)
                 this.set_editor_state(!this.editor_open)
+                
+                // Auto-populate textarea with current extracted value if exists
+                setTimeout(() => {
+                    const edit = edit_dict.find(entry => entry['category'] === category && entry['id'] === real_id);
+                    if (edit && edit.annotation && edit.annotation.explanation) {
+                        // Find the textarea for this category's explanation question
+                        const textarea = $(`#question-${category}-explanation`);
+                        if (textarea.length > 0) {
+                            textarea.val(edit.annotation.explanation);
+                            // Trigger input event to update the component's state
+                            textarea.trigger('input');
+                        }
+                    }
+                }, 100); // Small delay to ensure DOM is ready
             }
             // Don't add background color if in boundary editing mode
             if (!this.boundary_editing_mode) {

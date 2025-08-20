@@ -840,6 +840,38 @@ export default {
                 console.error('this.remove_selected is not available');
             }
         };
+        
+        // Add ESC key handler for closing annotation boxes
+        this.handleEscKey = (event) => {
+            if (event.key === 'Escape' || event.keyCode === 27) {
+                // Check which box is currently open and call the appropriate cancel function
+                
+                // 1. Check if boundary editing box is open
+                if (this.boundary_editing_mode) {
+                    this.cancel_boundary_edit();
+                    event.preventDefault();
+                    return;
+                }
+                
+                // 2. Check if "Annotating a value" box is open (edit existing annotation)
+                if ($('.quality-selection:visible').length > 0 && this.annotating_edit_span_category_id) {
+                    const category = this.annotating_edit_span_category_id.split("-")[0];
+                    this.cancel_annotation_click(category, event);
+                    event.preventDefault();
+                    return;
+                }
+                
+                // 3. Check if "Adding a value" box is open (add new annotation)
+                if ($('.span-selection-div:visible').length > 0 && this.editor_open) {
+                    this.cancel_click();
+                    event.preventDefault();
+                    return;
+                }
+            }
+        };
+        
+        // Add the event listener to document
+        document.addEventListener('keydown', this.handleEscKey);
     },
     beforeUnmount() {
         // Clean up global functions
@@ -848,6 +880,11 @@ export default {
         }
         if (window.removeSelected) {
             delete window.removeSelected;
+        }
+        
+        // Remove ESC key event listener
+        if (this.handleEscKey) {
+            document.removeEventListener('keydown', this.handleEscKey);
         }
     },
     // MODIFIED: The main save button now also checks if the integrated annotation form is valid.
