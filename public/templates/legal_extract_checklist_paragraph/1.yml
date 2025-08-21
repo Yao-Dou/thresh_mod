@@ -399,6 +399,20 @@ edits:
         options: textarea
         prefilled: true
 
+  # Not Covered (Black)
+  - name: not_covered
+    label: "Not Covered"
+    color: black
+    icon: fa-ban
+    type: multi_span
+    enable_output: true
+    annotation:
+      - name: explanation
+        label: "Extracted Value"
+        question: "What information is not covered in the checklist?"
+        options: textarea
+        prefilled: true
+
 # Additional metadata for the task
 task_info:
   checklist_items:

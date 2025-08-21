@@ -81,7 +81,8 @@ export default {
                 'settlement_disputes': 'Disputes Over Settlement Enforcement',
                 'monitor_name': 'Name of the Monitor',
                 'monitor_reports': 'Monitor Reports',
-                'factual_basis': 'Factual Basis of Case'
+                'factual_basis': 'Factual Basis of Case',
+                'not_covered': 'Not Covered'
             };
             
             return categoryLabels[category] || category;
@@ -95,7 +96,7 @@ export default {
                 'reported_opinions', 'trials', 'appeals', 'decree_terms', 'decree_dates',
                 'decree_duration', 'settlement_terms', 'settlement_date', 'settlement_duration',
                 'court_enforced', 'settlement_disputes', 'monitor_name', 'monitor_reports',
-                'factual_basis', 'checklist_extraction'  // Include the generic one too
+                'factual_basis', 'not_covered', 'checklist_extraction'  // Include the generic one too
             ];
             
             return checklistCategories.includes(category);
@@ -257,7 +258,7 @@ export default {
                     if (isChecklistExtraction) {
                         // Show evidences first, then extracted value
                         new_edit_span += `<div class="mt3 mb3 pa2 tl" style="background-color: #f0f8ff; border-left: 4px solid #87CEEB; border-radius: 4px;">`;
-                        new_edit_span += `<p class="mt0 mb2 f5 b tracked-light">Evidences:</p>`;
+                        new_edit_span += `<p class="mt0 mb2 f5 b tracked-light">Supporting Text from Summary:</p>`;
                         new_edit_span += `<div class="f5 lh-copy" style="color: #1e3a8a;">`;
                         
                         const spans = annotating_span['output_idx'];
@@ -280,7 +281,7 @@ export default {
                         }
                         
                         new_edit_span += `<div class="mb3 pa2 tl" style="background-color: #f0f8f0; border-left: 4px solid #90EE90; border-radius: 4px;">`;
-                        new_edit_span += `<p class="mt0 mb2 f5 b tracked-light">Current Extracted Value:</p>`;
+                        new_edit_span += `<p class="mt0 mb2 f5 b tracked-light">Current Extracted Value: <span class="f6 normal i">(What we are refining)</span></p>`;
                         new_edit_span += `<p class="ma0 f5" style="color: #2d5016;">${currentValue}</p>`;
                         new_edit_span += `</div>`;
                     } else {
@@ -357,7 +358,7 @@ export default {
                     if (ann[ann_type_name] != null) {
                         // Style similar to evidences but with green colors
                         ann_html += `<div class="mt2 mb2">`;
-                        ann_html += `<div class="f6 b mb1" style="color: #166534;">Extracted Value:</div>`;
+                        ann_html += `<div class="f6 b mb1" style="color: #166534;">Extracted Value: <span class="f7 normal i">(This is the key information)</span></div>`;
                         ann_html += `<div class="f5 lh-copy pl2" style="color: #166534; border-left: 3px solid #22c55e;">${ann[ann_type_name]}</div>`;
                         ann_html += `</div>`;
                     }
@@ -412,7 +413,7 @@ export default {
                 // Handle checklist extraction with clean design
                 if (isChecklistExtraction && edit.hasOwnProperty('output_idx')) {
                     new_html += `<div class="mt2 mb2">`;
-                    new_html += `<div class="f6 b mb1" style="color: #1e3a8a;">Evidences:</div>`;
+                    new_html += `<div class="f6 b mb1" style="color: #1e3a8a;">Supporting Text from Summary:</div>`;
                     
                     // Show all evidence spans without bubbles
                     let target_spans_for_subs = edit['output_idx']
@@ -470,7 +471,7 @@ export default {
                     // Handle checklist extraction with clean design
                     if (isChecklistExtraction) {
                         new_html += `<div class="mt2 mb2">`;
-                        new_html += `<div class="f6 b mb1" style="color: #1e3a8a;">Evidences:</div>`;
+                        new_html += `<div class="f6 b mb1" style="color: #1e3a8a;">Supporting Text from Summary:</div>`;
                         
                         // Show all evidence spans without bubbles
                         for (let j = 0; j < edit['output_idx'].length; j++) {
@@ -586,7 +587,7 @@ export default {
                         <i @click="annotate_edit" class="annotation-icon fa-solid fa-pencil mr3 pointer dim ${disabled}" data-id="${key}-${i}" data-category="${key}"></i>
                         <i 
                             @click="edit_boundary" 
-                            class="boundary-edit-icon fa-solid fa-pen-to-square mr2 pointer dim ${disable_boundary_edit}" 
+                            class="boundary-edit-icon fa-solid fa-crop mr2 pointer dim ${disable_boundary_edit}" 
                             data-id="${key}-${i}" 
                             data-category="${key}"
                             title="Edit boundary"></i>

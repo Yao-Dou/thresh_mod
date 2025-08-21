@@ -48,7 +48,7 @@ export default {
                 'reported_opinions', 'trials', 'appeals', 'decree_terms', 'decree_dates',
                 'decree_duration', 'settlement_terms', 'settlement_date', 'settlement_duration',
                 'court_enforced', 'settlement_disputes', 'monitor_name', 'monitor_reports',
-                'factual_basis', 'checklist_extraction'
+                'factual_basis', 'not_covered', 'checklist_extraction'
             ];
             
             return checklistCategories.includes(category);
@@ -81,7 +81,8 @@ export default {
                 'settlement_disputes': 'Disputes Over Settlement Enforcement',
                 'monitor_name': 'Name of the Monitor',
                 'monitor_reports': 'Monitor Reports',
-                'factual_basis': 'Factual Basis of Case'
+                'factual_basis': 'Factual Basis of Case',
+                'not_covered': 'Not Covered'
             };
             
             return categoryLabels[category] || category;
