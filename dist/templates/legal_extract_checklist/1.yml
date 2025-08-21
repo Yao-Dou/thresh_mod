@@ -35,7 +35,7 @@ interface_text:
   annotation_editor:
     add_edit_header: "Adding a Value"
     select_edit_header: "Select the checklist item to extract."
-    select_instructions: "Select the evidence spans from the"
+    select_instructions: "Select the supporting text spans from the"
     selected_label: "Selected"
     annotating_edit_header: "Annotating a Value"
   annotation_viewer:

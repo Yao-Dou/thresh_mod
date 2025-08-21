@@ -35,7 +35,7 @@ interface_text:
   annotation_editor:
     add_edit_header: "Adding a Value"
     select_edit_header: "Select the checklist item to extract."
-    select_instructions: "Select the evidence spans from the"
+    select_instructions: "Select the supporting text spans from the"
     selected_label: "Selected"
     annotating_edit_header: "Annotating a Value"
   annotation_viewer:
@@ -401,10 +401,10 @@ edits:
         options: textarea
         prefilled: true
 
-  # Not Covered (Black)
+  # Not Covered (Grey)
   - name: not_covered
     label: "Not Covered"
-    color: black
+    color: grey
     icon: fa-ban
     type: multi_span
     enable_output: true
