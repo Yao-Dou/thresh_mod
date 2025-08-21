@@ -44,6 +44,8 @@ interface_text:
     hit_label: "Paragraph"
   buttons:
     add_edit_label: "Add Value"
+    save_label: "Save"
+    cancel_label: "Cancel"
 
 tutorial_link: # Add your tutorial link here if available
 
