@@ -226,7 +226,7 @@
     padding-right: 10px;
 }
 
-/* Container for Edit Evidences box */
+/* Container for Edit Supporting Text box */
 #boundary_edit_panel {
     max-height: calc(100vh - 200px);
     overflow-y: auto;

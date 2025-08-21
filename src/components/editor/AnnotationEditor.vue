@@ -588,19 +588,19 @@ export default {
             // For paragraph-level data, use the category to get the proper label
             if (this.config.data_format === 'paragraph' && this.boundary_editing_edit) {
                 const categoryLabel = this.getCategoryLabel(this.boundary_editing_edit.category);
-                return `Edit Evidences of ${categoryLabel}`;
+                return `Edit Supporting Text of ${categoryLabel}`;
             }
             
             // For item-level data with checklist_extraction
             if (this.config.data_format === 'item') {
                 const currentHit = this.hits_data[this.current_hit - 1];
                 if (currentHit && currentHit.metadata && currentHit.metadata.checklist_item) {
-                    return `Edit Evidences of ${currentHit.metadata.checklist_item}`;
+                    return `Edit Supporting Text of ${currentHit.metadata.checklist_item}`;
                 }
             }
             
             // Default fallback
-            return 'Edit Evidences of the extracted checklist item';
+            return 'Edit Supporting Text of the extracted checklist item';
         },
         // MODIFIED: This method now resets the new state properties as well.
         refresh_edit() {
@@ -1020,11 +1020,11 @@ export default {
                 </p>
                 <div class="tc mb3">
                 <p class="mb2 b tracked-light">
-                    <i>{{ boundary_editing_edit?.multi ? 'Select the evidences for this extracted value' : 'Select new boundary for ' + boundary_editing_edit?.category + ' annotation' }}.</i>
+                    <i>{{ boundary_editing_edit?.multi ? 'Select the supporting text for this extracted value' : 'Select new boundary for ' + boundary_editing_edit?.category + ' annotation' }}.</i>
                 </p>
                 <div v-if="boundary_editing_edit?.multi">
                     <p class="tracked-light lh-paras-2 mb2">
-                        <strong>Selected evidences:</strong>
+                        <strong>Selected supporting text:</strong>
                     </p>
                     <div class="tracked-light lh-paras-2" v-html="selected_state.target_span || selected_state.source_span"></div>
                     <p class="f6 gray mt2" v-if="!(selected_state.target_span || selected_state.source_span)">
@@ -1041,7 +1041,7 @@ export default {
                 Cancel <i class="fa-solid fa-close"></i>
                 </button>
                 <button @click="save_boundary_edit" class="confirm-button b quality_button bw0 ba ml2 br-pill-ns grow">
-                {{ boundary_editing_edit?.multi ? 'Save Boundaries' : 'Save Boundary' }} <i class="fa-solid fa-check"></i>
+                Save <i class="fa-solid fa-check"></i>
                 </button>
             </div>
         </div>
