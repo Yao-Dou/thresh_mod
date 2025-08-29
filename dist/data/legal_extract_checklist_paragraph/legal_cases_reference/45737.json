@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "45737_p0",
+    "metadata": {
+      "case_id": "45737",
+      "paragraph_num": 0,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In the aftermath of George Floyd's death in May 2020, nationwide protests erupted, including a signi..."
+    },
+    "source": "",
+    "target": "In the aftermath of George Floyd's death in May 2020, nationwide protests erupted, including a significant demonstration in Fort Lauderdale, Florida, on May 31, 2020. During the protest, the Fort Lauderdale Police Department (FLPD) attempted to disperse the crowd through use of tear gas and kinetic impact projectiles, otherwise known as rubber bullets.\n\nThe plaintiff in this case, a participant in the May 2020 demonstration, alleged she was shot in the eye by a direct impound round, causing severe, painful, and permanent physical and emotional injuries. In response to her injuries, she filed a lawsuit against the City of Fort Lauderdale and several FLPD officers in the U.S. District Court for the Southern District of Florida on May 31, 2022. The eight-count complaint alleged violations of her constitutional rights under the First, Fourth, and Fourteenth Amendments, as well as state law claims for battery and negligence. The plaintiff asserted municipal liability under a Monell \u201cfailure to train\u201d theory. The plaintiff sought damages, including punitive damages, prejudgment interest on liquidated damages, costs, and compensatory damages. The matter was assigned to District Judge Rodolfo Armando Ruiz II.\n\nThe plaintiff filed an amended complaint on October 27, 2022, wherein she revised the list of named FLDP defendants and added two additional counts: a claim against the City of Fort Lauderdale for negligent instruction, training, and supervision of its officers and a Fourteenth Amendment Procedural Due Process claim against all defendants, alleging that FLDP officers did not issue a proper dispersal order prior to deploying force. For these additional claims, the plaintiff sought compensatory damages, costs, and injunctive relief.\n\nOn November 2 and November 10, 2022, the defendants filed a pair of motions to dismiss. Judge Ruiz issued an order on June 1, 2023, granting in part the various motions. 2023 WL 3750581. Specifically, he dismissed without prejudice with leave to amend the plaintiff\u2019s Fourteenth Amendment claims, her Fourth Amendment claims, and, with respect to the city only, her First Amendment claim. Judge Ruiz also ordered the defendant to file a Second Amended Complaint in compliance with his order on or before June 23, 2023.\n\nAfter receiving an extension of time, the plaintiff filed a Second Amended Complaint on July 6, 2023. Among other things, the amended complaint pursued a bifurcated approach wherein the plaintiff alleged separate causes of action against the city and the other defendants, where applicable, and separated First Amendment claims into two claims\u2013one for unlawful restriction on speech and the other for retaliation. The complaint also provided a name for one of the three John Doe officers and included as an additional defendant the city\u2019s police chief.\n\nThe plaintiff filed a Third Amended Complaint on September 13, 2023, in which she made relatively modest changes to certain of her claims and removed references to one of the named FLPD defendants added in the Second Amended Complaint, substituting back John Doe 1.\n\nThe defendants sought summary judgment in a pair of filings made on December 5, 2023, and January 12, 2024. The plaintiff also filed a motion for partial summary judgment on January 12, 2024.\n\nOn September 4, 2024, Judge Ruiz issued an order granting in part and denying in part the various summary judgment motions. 2024 WL 4039849. Specifically, he granted summary judgment in favor of the individual defendants on all counts, citing both qualified and statutory immunity. With respect to the city, he denied summary judgment on the two First Amendment claims under the plaintiff\u2019s failure-to-train Monell theory and denied summary judgment as to the state-law battery claim, holding that it would be up to a jury to determine whether the city was liable for the plaintiff\u2019s injuries \u201cthrough its policies, procedures, and officers\u2019 conduct.\u201d\n\nOn October 28, 2024, before the case proceeded to trial, the parties attended mediation and came to a full and final settlement of all claims, pending final consideration and approval by the Fort Lauderdale City Commission. The city commission approved [https://www.miamiherald.com/news/local/community/broward/article296526834.html] a $1.975 million settlement at its meeting on December 3, 2024. As part of the settlement, FLPD also agreed to overhaul its internal policies. The court approved the settlement on December 23, 2024.",
+    "target_paragraph": "In the aftermath of George Floyd's death in May 2020, nationwide protests erupted, including a significant demonstration in Fort Lauderdale, Florida, on May 31, 2020. During the protest, the Fort Lauderdale Police Department (FLPD) attempted to disperse the crowd through use of tear gas and kinetic impact projectiles, otherwise known as rubber bullets.",
+    "target_paragraph_indices": [
+      0,
+      354
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            166
+          ]
+        ],
+        "annotation": {
+          "explanation": "A significant protest occurred in Fort Lauderdale, Florida, on May 31, 2020, following George Floyd\u2019s death.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            167,
+            354
+          ]
+        ],
+        "annotation": {
+          "explanation": "FLPD attempted to disperse the crowd using tear gas and rubber bullets (kinetic impact projectiles).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "45737_p1",
+    "metadata": {
+      "case_id": "45737",
+      "paragraph_num": 1,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiff in this case, a participant in the May 2020 demonstration, alleged she was shot in the..."
+    },
+    "source": "",
+    "target": "In the aftermath of George Floyd's death in May 2020, nationwide protests erupted, including a significant demonstration in Fort Lauderdale, Florida, on May 31, 2020. During the protest, the Fort Lauderdale Police Department (FLPD) attempted to disperse the crowd through use of tear gas and kinetic impact projectiles, otherwise known as rubber bullets.\n\nThe plaintiff in this case, a participant in the May 2020 demonstration, alleged she was shot in the eye by a direct impound round, causing severe, painful, and permanent physical and emotional injuries. In response to her injuries, she filed a lawsuit against the City of Fort Lauderdale and several FLPD officers in the U.S. District Court for the Southern District of Florida on May 31, 2022. The eight-count complaint alleged violations of her constitutional rights under the First, Fourth, and Fourteenth Amendments, as well as state law claims for battery and negligence. The plaintiff asserted municipal liability under a Monell \u201cfailure to train\u201d theory. The plaintiff sought damages, including punitive damages, prejudgment interest on liquidated damages, costs, and compensatory damages. The matter was assigned to District Judge Rodolfo Armando Ruiz II.\n\nThe plaintiff filed an amended complaint on October 27, 2022, wherein she revised the list of named FLDP defendants and added two additional counts: a claim against the City of Fort Lauderdale for negligent instruction, training, and supervision of its officers and a Fourteenth Amendment Procedural Due Process claim against all defendants, alleging that FLDP officers did not issue a proper dispersal order prior to deploying force. For these additional claims, the plaintiff sought compensatory damages, costs, and injunctive relief.\n\nOn November 2 and November 10, 2022, the defendants filed a pair of motions to dismiss. Judge Ruiz issued an order on June 1, 2023, granting in part the various motions. 2023 WL 3750581. Specifically, he dismissed without prejudice with leave to amend the plaintiff\u2019s Fourteenth Amendment claims, her Fourth Amendment claims, and, with respect to the city only, her First Amendment claim. Judge Ruiz also ordered the defendant to file a Second Amended Complaint in compliance with his order on or before June 23, 2023.\n\nAfter receiving an extension of time, the plaintiff filed a Second Amended Complaint on July 6, 2023. Among other things, the amended complaint pursued a bifurcated approach wherein the plaintiff alleged separate causes of action against the city and the other defendants, where applicable, and separated First Amendment claims into two claims\u2013one for unlawful restriction on speech and the other for retaliation. The complaint also provided a name for one of the three John Doe officers and included as an additional defendant the city\u2019s police chief.\n\nThe plaintiff filed a Third Amended Complaint on September 13, 2023, in which she made relatively modest changes to certain of her claims and removed references to one of the named FLPD defendants added in the Second Amended Complaint, substituting back John Doe 1.\n\nThe defendants sought summary judgment in a pair of filings made on December 5, 2023, and January 12, 2024. The plaintiff also filed a motion for partial summary judgment on January 12, 2024.\n\nOn September 4, 2024, Judge Ruiz issued an order granting in part and denying in part the various summary judgment motions. 2024 WL 4039849. Specifically, he granted summary judgment in favor of the individual defendants on all counts, citing both qualified and statutory immunity. With respect to the city, he denied summary judgment on the two First Amendment claims under the plaintiff\u2019s failure-to-train Monell theory and denied summary judgment as to the state-law battery claim, holding that it would be up to a jury to determine whether the city was liable for the plaintiff\u2019s injuries \u201cthrough its policies, procedures, and officers\u2019 conduct.\u201d\n\nOn October 28, 2024, before the case proceeded to trial, the parties attended mediation and came to a full and final settlement of all claims, pending final consideration and approval by the Fort Lauderdale City Commission. The city commission approved [https://www.miamiherald.com/news/local/community/broward/article296526834.html] a $1.975 million settlement at its meeting on December 3, 2024. As part of the settlement, FLPD also agreed to overhaul its internal policies. The court approved the settlement on December 23, 2024.",
+    "target_paragraph": "The plaintiff in this case, a participant in the May 2020 demonstration, alleged she was shot in the eye by a direct impound round, causing severe, painful, and permanent physical and emotional injuries. In response to her injuries, she filed a lawsuit against the City of Fort Lauderdale and several FLPD officers in the U.S. District Court for the Southern District of Florida on May 31, 2022. The eight-count complaint alleged violations of her constitutional rights under the First, Fourth, and Fourteenth Amendments, as well as state law claims for battery and negligence. The plaintiff asserted municipal liability under a Monell \u201cfailure to train\u201d theory. The plaintiff sought damages, including punitive damages, prejudgment interest on liquidated damages, costs, and compensatory damages. The matter was assigned to District Judge Rodolfo Armando Ruiz II.",
+    "target_paragraph_indices": [
+      356,
+      1220
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            589,
+            751
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 31, 2022",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            752,
+            876
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment claim (federal constitutional violation)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            752,
+            876
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourth Amendment claim (federal constitutional violation)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            752,
+            876
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment claim (federal constitutional violation)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            878,
+            933
+          ]
+        ],
+        "annotation": {
+          "explanation": "State-law battery",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            878,
+            933
+          ]
+        ],
+        "annotation": {
+          "explanation": "State-law negligence",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            934,
+            1018
+          ],
+          [
+            3602,
+            3715
+          ]
+        ],
+        "annotation": {
+          "explanation": "Municipal liability under Monell (failure-to-train theory)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            7
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            752,
+            876
+          ],
+          [
+            2462,
+            2693
+          ],
+          [
+            3602,
+            3715
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment (free speech restrictions and retaliation)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            4,
+            7
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            752,
+            876
+          ],
+          [
+            1961,
+            2084
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourth Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 8
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            878,
+            933
+          ],
+          [
+            3720,
+            3777
+          ]
+        ],
+        "annotation": {
+          "explanation": "State-law claims: battery and negligence",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            7
+          ]
+        },
+        "id": 9
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1019,
+            1153
+          ]
+        ],
+        "annotation": {
+          "explanation": "Damages: compensatory damages, punitive damages, costs, and prejudgment interest on liquidated damages.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1154,
+            1220
+          ],
+          [
+            1848,
+            1929
+          ],
+          [
+            3294,
+            3417
+          ]
+        ],
+        "annotation": {
+          "explanation": "Rodolfo Armando Ruiz II",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            1,
+            3,
+            7
+          ]
+        },
+        "id": 11
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            356,
+            559
+          ],
+          [
+            589,
+            751
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as a participant in the May 2020 demonstration who alleged she was shot in the eye by a direct impound round",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            356,
+            559
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: A participant in the May 2020 Fort Lauderdale demonstration who alleges she was shot in the eye by a kinetic impact projectile (rubber bullet), resulting in severe and permanent injuries.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            589,
+            751
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: City of Fort Lauderdale (municipal entity).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            589,
+            670
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Several Fort Lauderdale Police Department (FLPD) officers (individual defendants, some initially unnamed).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            356,
+            559
+          ]
+        ],
+        "annotation": {
+          "explanation": "The plaintiff, a protest participant, alleges she was shot in the eye by a direct projectile round, resulting in severe, painful, and permanent physical and emotional injuries.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            560,
+            751
+          ],
+          [
+            752,
+            933
+          ],
+          [
+            934,
+            1018
+          ],
+          [
+            1019,
+            1153
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 31, 2022, the plaintiff sued the City of Fort Lauderdale and several FLPD officers in S.D. Fla., alleging First, Fourth, and Fourteenth Amendment violations and state-law battery and negligence, asserting Monell failure-to-train municipal liability, and seeking punitive, compensatory, prejudgment interest, and costs.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            560,
+            933
+          ]
+        ],
+        "annotation": {
+          "explanation": "Initial complaint filed May 31, 2022 (S.D. Fla.), alleging First, Fourth, Fourteenth Amendment violations and state-law battery and negligence.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      }
+    ]
+  },
+  {
+    "id": "45737_p2",
+    "metadata": {
+      "case_id": "45737",
+      "paragraph_num": 2,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiff filed an amended complaint on October 27, 2022, wherein she revised the list of named ..."
+    },
+    "source": "",
+    "target": "In the aftermath of George Floyd's death in May 2020, nationwide protests erupted, including a significant demonstration in Fort Lauderdale, Florida, on May 31, 2020. During the protest, the Fort Lauderdale Police Department (FLPD) attempted to disperse the crowd through use of tear gas and kinetic impact projectiles, otherwise known as rubber bullets.\n\nThe plaintiff in this case, a participant in the May 2020 demonstration, alleged she was shot in the eye by a direct impound round, causing severe, painful, and permanent physical and emotional injuries. In response to her injuries, she filed a lawsuit against the City of Fort Lauderdale and several FLPD officers in the U.S. District Court for the Southern District of Florida on May 31, 2022. The eight-count complaint alleged violations of her constitutional rights under the First, Fourth, and Fourteenth Amendments, as well as state law claims for battery and negligence. The plaintiff asserted municipal liability under a Monell \u201cfailure to train\u201d theory. The plaintiff sought damages, including punitive damages, prejudgment interest on liquidated damages, costs, and compensatory damages. The matter was assigned to District Judge Rodolfo Armando Ruiz II.\n\nThe plaintiff filed an amended complaint on October 27, 2022, wherein she revised the list of named FLDP defendants and added two additional counts: a claim against the City of Fort Lauderdale for negligent instruction, training, and supervision of its officers and a Fourteenth Amendment Procedural Due Process claim against all defendants, alleging that FLDP officers did not issue a proper dispersal order prior to deploying force. For these additional claims, the plaintiff sought compensatory damages, costs, and injunctive relief.\n\nOn November 2 and November 10, 2022, the defendants filed a pair of motions to dismiss. Judge Ruiz issued an order on June 1, 2023, granting in part the various motions. 2023 WL 3750581. Specifically, he dismissed without prejudice with leave to amend the plaintiff\u2019s Fourteenth Amendment claims, her Fourth Amendment claims, and, with respect to the city only, her First Amendment claim. Judge Ruiz also ordered the defendant to file a Second Amended Complaint in compliance with his order on or before June 23, 2023.\n\nAfter receiving an extension of time, the plaintiff filed a Second Amended Complaint on July 6, 2023. Among other things, the amended complaint pursued a bifurcated approach wherein the plaintiff alleged separate causes of action against the city and the other defendants, where applicable, and separated First Amendment claims into two claims\u2013one for unlawful restriction on speech and the other for retaliation. The complaint also provided a name for one of the three John Doe officers and included as an additional defendant the city\u2019s police chief.\n\nThe plaintiff filed a Third Amended Complaint on September 13, 2023, in which she made relatively modest changes to certain of her claims and removed references to one of the named FLPD defendants added in the Second Amended Complaint, substituting back John Doe 1.\n\nThe defendants sought summary judgment in a pair of filings made on December 5, 2023, and January 12, 2024. The plaintiff also filed a motion for partial summary judgment on January 12, 2024.\n\nOn September 4, 2024, Judge Ruiz issued an order granting in part and denying in part the various summary judgment motions. 2024 WL 4039849. Specifically, he granted summary judgment in favor of the individual defendants on all counts, citing both qualified and statutory immunity. With respect to the city, he denied summary judgment on the two First Amendment claims under the plaintiff\u2019s failure-to-train Monell theory and denied summary judgment as to the state-law battery claim, holding that it would be up to a jury to determine whether the city was liable for the plaintiff\u2019s injuries \u201cthrough its policies, procedures, and officers\u2019 conduct.\u201d\n\nOn October 28, 2024, before the case proceeded to trial, the parties attended mediation and came to a full and final settlement of all claims, pending final consideration and approval by the Fort Lauderdale City Commission. The city commission approved [https://www.miamiherald.com/news/local/community/broward/article296526834.html] a $1.975 million settlement at its meeting on December 3, 2024. As part of the settlement, FLPD also agreed to overhaul its internal policies. The court approved the settlement on December 23, 2024.",
+    "target_paragraph": "The plaintiff filed an amended complaint on October 27, 2022, wherein she revised the list of named FLDP defendants and added two additional counts: a claim against the City of Fort Lauderdale for negligent instruction, training, and supervision of its officers and a Fourteenth Amendment Procedural Due Process claim against all defendants, alleging that FLDP officers did not issue a proper dispersal order prior to deploying force. For these additional claims, the plaintiff sought compensatory damages, costs, and injunctive relief.",
+    "target_paragraph_indices": [
+      1222,
+      1758
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1488,
+            1656
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment Procedural Due Process claim (failure to issue proper dispersal order)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1371,
+            1483
+          ]
+        ],
+        "annotation": {
+          "explanation": "State-law negligent instruction, training, and supervision (against the City)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1342,
+            1656
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment \u2013 Procedural Due Process Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1657,
+            1758
+          ]
+        ],
+        "annotation": {
+          "explanation": "Compensatory damages, costs, and injunctive relief (for the additional amended-complaint claims).",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1222,
+            1656
+          ],
+          [
+            1657,
+            1758
+          ]
+        ],
+        "annotation": {
+          "explanation": "In the amended complaint, the plaintiff alleged negligent instruction/training/supervision by the City and a Fourteenth Amendment procedural due process violation based on the lack of a proper dispersal order before force was used, seeking compensatory damages, costs, and injunctive relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1222,
+            1758
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint filed October 27, 2022, adding negligent instruction/training/supervision claim against the City and a Fourteenth Amendment procedural due process claim; sought compensatory damages, costs, and injunctive relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "45737_p3",
+    "metadata": {
+      "case_id": "45737",
+      "paragraph_num": 3,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On November 2 and November 10, 2022, the defendants filed a pair of motions to dismiss. Judge Ruiz i..."
+    },
+    "source": "",
+    "target": "In the aftermath of George Floyd's death in May 2020, nationwide protests erupted, including a significant demonstration in Fort Lauderdale, Florida, on May 31, 2020. During the protest, the Fort Lauderdale Police Department (FLPD) attempted to disperse the crowd through use of tear gas and kinetic impact projectiles, otherwise known as rubber bullets.\n\nThe plaintiff in this case, a participant in the May 2020 demonstration, alleged she was shot in the eye by a direct impound round, causing severe, painful, and permanent physical and emotional injuries. In response to her injuries, she filed a lawsuit against the City of Fort Lauderdale and several FLPD officers in the U.S. District Court for the Southern District of Florida on May 31, 2022. The eight-count complaint alleged violations of her constitutional rights under the First, Fourth, and Fourteenth Amendments, as well as state law claims for battery and negligence. The plaintiff asserted municipal liability under a Monell \u201cfailure to train\u201d theory. The plaintiff sought damages, including punitive damages, prejudgment interest on liquidated damages, costs, and compensatory damages. The matter was assigned to District Judge Rodolfo Armando Ruiz II.\n\nThe plaintiff filed an amended complaint on October 27, 2022, wherein she revised the list of named FLDP defendants and added two additional counts: a claim against the City of Fort Lauderdale for negligent instruction, training, and supervision of its officers and a Fourteenth Amendment Procedural Due Process claim against all defendants, alleging that FLDP officers did not issue a proper dispersal order prior to deploying force. For these additional claims, the plaintiff sought compensatory damages, costs, and injunctive relief.\n\nOn November 2 and November 10, 2022, the defendants filed a pair of motions to dismiss. Judge Ruiz issued an order on June 1, 2023, granting in part the various motions. 2023 WL 3750581. Specifically, he dismissed without prejudice with leave to amend the plaintiff\u2019s Fourteenth Amendment claims, her Fourth Amendment claims, and, with respect to the city only, her First Amendment claim. Judge Ruiz also ordered the defendant to file a Second Amended Complaint in compliance with his order on or before June 23, 2023.\n\nAfter receiving an extension of time, the plaintiff filed a Second Amended Complaint on July 6, 2023. Among other things, the amended complaint pursued a bifurcated approach wherein the plaintiff alleged separate causes of action against the city and the other defendants, where applicable, and separated First Amendment claims into two claims\u2013one for unlawful restriction on speech and the other for retaliation. The complaint also provided a name for one of the three John Doe officers and included as an additional defendant the city\u2019s police chief.\n\nThe plaintiff filed a Third Amended Complaint on September 13, 2023, in which she made relatively modest changes to certain of her claims and removed references to one of the named FLPD defendants added in the Second Amended Complaint, substituting back John Doe 1.\n\nThe defendants sought summary judgment in a pair of filings made on December 5, 2023, and January 12, 2024. The plaintiff also filed a motion for partial summary judgment on January 12, 2024.\n\nOn September 4, 2024, Judge Ruiz issued an order granting in part and denying in part the various summary judgment motions. 2024 WL 4039849. Specifically, he granted summary judgment in favor of the individual defendants on all counts, citing both qualified and statutory immunity. With respect to the city, he denied summary judgment on the two First Amendment claims under the plaintiff\u2019s failure-to-train Monell theory and denied summary judgment as to the state-law battery claim, holding that it would be up to a jury to determine whether the city was liable for the plaintiff\u2019s injuries \u201cthrough its policies, procedures, and officers\u2019 conduct.\u201d\n\nOn October 28, 2024, before the case proceeded to trial, the parties attended mediation and came to a full and final settlement of all claims, pending final consideration and approval by the Fort Lauderdale City Commission. The city commission approved [https://www.miamiherald.com/news/local/community/broward/article296526834.html] a $1.975 million settlement at its meeting on December 3, 2024. As part of the settlement, FLPD also agreed to overhaul its internal policies. The court approved the settlement on December 23, 2024.",
+    "target_paragraph": "On November 2 and November 10, 2022, the defendants filed a pair of motions to dismiss. Judge Ruiz issued an order on June 1, 2023, granting in part the various motions. 2023 WL 3750581. Specifically, he dismissed without prejudice with leave to amend the plaintiff\u2019s Fourteenth Amendment claims, her Fourth Amendment claims, and, with respect to the city only, her First Amendment claim. Judge Ruiz also ordered the defendant to file a Second Amended Complaint in compliance with his order on or before June 23, 2023.",
+    "target_paragraph_indices": [
+      1760,
+      2278
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            1848,
+            1946
+          ]
+        ],
+        "annotation": {
+          "explanation": "2023 WL 3750581",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1848,
+            1946
+          ],
+          [
+            1947,
+            2148
+          ],
+          [
+            2149,
+            2278
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 1, 2023: Order granting in part the various motions; dismissing without prejudice with leave to amend the plaintiff\u2019s Fourteenth Amendment claims, her Fourth Amendment claims, and (as to the city) her First Amendment claim; and ordering filing of a Second Amended Complaint by June 23, 2023.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1760,
+            1847
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed motions to dismiss on November 2, 2022, and November 10, 2022.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1848,
+            2278
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 1, 2023 order (2023 WL 3750581) granting in part motions to dismiss; dismissed without prejudice with leave to amend the Fourteenth Amendment and Fourth Amendment claims, and the City-only First Amendment claim; ordered filing of a Second Amended Complaint by June 23, 2023.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1760,
+            1946
+          ],
+          [
+            1947,
+            2278
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 1, 2023: Court granted in part defendants\u2019 motions to dismiss (2023 WL 3750581), dismissing without prejudice with leave to amend the plaintiff\u2019s Fourteenth Amendment claims, her Fourth Amendment claims, and (as to the City only) her First Amendment claim, and ordered filing of a Second Amended Complaint by June 23, 2023.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "45737_p4",
+    "metadata": {
+      "case_id": "45737",
+      "paragraph_num": 4,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "After receiving an extension of time, the plaintiff filed a Second Amended Complaint on July 6, 2023..."
+    },
+    "source": "",
+    "target": "In the aftermath of George Floyd's death in May 2020, nationwide protests erupted, including a significant demonstration in Fort Lauderdale, Florida, on May 31, 2020. During the protest, the Fort Lauderdale Police Department (FLPD) attempted to disperse the crowd through use of tear gas and kinetic impact projectiles, otherwise known as rubber bullets.\n\nThe plaintiff in this case, a participant in the May 2020 demonstration, alleged she was shot in the eye by a direct impound round, causing severe, painful, and permanent physical and emotional injuries. In response to her injuries, she filed a lawsuit against the City of Fort Lauderdale and several FLPD officers in the U.S. District Court for the Southern District of Florida on May 31, 2022. The eight-count complaint alleged violations of her constitutional rights under the First, Fourth, and Fourteenth Amendments, as well as state law claims for battery and negligence. The plaintiff asserted municipal liability under a Monell \u201cfailure to train\u201d theory. The plaintiff sought damages, including punitive damages, prejudgment interest on liquidated damages, costs, and compensatory damages. The matter was assigned to District Judge Rodolfo Armando Ruiz II.\n\nThe plaintiff filed an amended complaint on October 27, 2022, wherein she revised the list of named FLDP defendants and added two additional counts: a claim against the City of Fort Lauderdale for negligent instruction, training, and supervision of its officers and a Fourteenth Amendment Procedural Due Process claim against all defendants, alleging that FLDP officers did not issue a proper dispersal order prior to deploying force. For these additional claims, the plaintiff sought compensatory damages, costs, and injunctive relief.\n\nOn November 2 and November 10, 2022, the defendants filed a pair of motions to dismiss. Judge Ruiz issued an order on June 1, 2023, granting in part the various motions. 2023 WL 3750581. Specifically, he dismissed without prejudice with leave to amend the plaintiff\u2019s Fourteenth Amendment claims, her Fourth Amendment claims, and, with respect to the city only, her First Amendment claim. Judge Ruiz also ordered the defendant to file a Second Amended Complaint in compliance with his order on or before June 23, 2023.\n\nAfter receiving an extension of time, the plaintiff filed a Second Amended Complaint on July 6, 2023. Among other things, the amended complaint pursued a bifurcated approach wherein the plaintiff alleged separate causes of action against the city and the other defendants, where applicable, and separated First Amendment claims into two claims\u2013one for unlawful restriction on speech and the other for retaliation. The complaint also provided a name for one of the three John Doe officers and included as an additional defendant the city\u2019s police chief.\n\nThe plaintiff filed a Third Amended Complaint on September 13, 2023, in which she made relatively modest changes to certain of her claims and removed references to one of the named FLPD defendants added in the Second Amended Complaint, substituting back John Doe 1.\n\nThe defendants sought summary judgment in a pair of filings made on December 5, 2023, and January 12, 2024. The plaintiff also filed a motion for partial summary judgment on January 12, 2024.\n\nOn September 4, 2024, Judge Ruiz issued an order granting in part and denying in part the various summary judgment motions. 2024 WL 4039849. Specifically, he granted summary judgment in favor of the individual defendants on all counts, citing both qualified and statutory immunity. With respect to the city, he denied summary judgment on the two First Amendment claims under the plaintiff\u2019s failure-to-train Monell theory and denied summary judgment as to the state-law battery claim, holding that it would be up to a jury to determine whether the city was liable for the plaintiff\u2019s injuries \u201cthrough its policies, procedures, and officers\u2019 conduct.\u201d\n\nOn October 28, 2024, before the case proceeded to trial, the parties attended mediation and came to a full and final settlement of all claims, pending final consideration and approval by the Fort Lauderdale City Commission. The city commission approved [https://www.miamiherald.com/news/local/community/broward/article296526834.html] a $1.975 million settlement at its meeting on December 3, 2024. As part of the settlement, FLPD also agreed to overhaul its internal policies. The court approved the settlement on December 23, 2024.",
+    "target_paragraph": "After receiving an extension of time, the plaintiff filed a Second Amended Complaint on July 6, 2023. Among other things, the amended complaint pursued a bifurcated approach wherein the plaintiff alleged separate causes of action against the city and the other defendants, where applicable, and separated First Amendment claims into two claims\u2013one for unlawful restriction on speech and the other for retaliation. The complaint also provided a name for one of the three John Doe officers and included as an additional defendant the city\u2019s police chief.",
+    "target_paragraph_indices": [
+      2280,
+      2832
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2575,
+            2693
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment \u2013 unlawful restriction on speech",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2575,
+            2693
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment \u2013 retaliation",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            2694,
+            2767
+          ],
+          [
+            2912,
+            3099
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: John Doe 1, a Fort Lauderdale Police Department officer (placeholder individual defendant).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            2772,
+            2832
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Fort Lauderdale Police Chief (added as an additional defendant).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2280,
+            2381
+          ]
+        ],
+        "annotation": {
+          "explanation": "Second Amended Complaint filed July 6, 2023.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "45737_p5",
+    "metadata": {
+      "case_id": "45737",
+      "paragraph_num": 5,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiff filed a Third Amended Complaint on September 13, 2023, in which she made relatively mo..."
+    },
+    "source": "",
+    "target": "In the aftermath of George Floyd's death in May 2020, nationwide protests erupted, including a significant demonstration in Fort Lauderdale, Florida, on May 31, 2020. During the protest, the Fort Lauderdale Police Department (FLPD) attempted to disperse the crowd through use of tear gas and kinetic impact projectiles, otherwise known as rubber bullets.\n\nThe plaintiff in this case, a participant in the May 2020 demonstration, alleged she was shot in the eye by a direct impound round, causing severe, painful, and permanent physical and emotional injuries. In response to her injuries, she filed a lawsuit against the City of Fort Lauderdale and several FLPD officers in the U.S. District Court for the Southern District of Florida on May 31, 2022. The eight-count complaint alleged violations of her constitutional rights under the First, Fourth, and Fourteenth Amendments, as well as state law claims for battery and negligence. The plaintiff asserted municipal liability under a Monell \u201cfailure to train\u201d theory. The plaintiff sought damages, including punitive damages, prejudgment interest on liquidated damages, costs, and compensatory damages. The matter was assigned to District Judge Rodolfo Armando Ruiz II.\n\nThe plaintiff filed an amended complaint on October 27, 2022, wherein she revised the list of named FLDP defendants and added two additional counts: a claim against the City of Fort Lauderdale for negligent instruction, training, and supervision of its officers and a Fourteenth Amendment Procedural Due Process claim against all defendants, alleging that FLDP officers did not issue a proper dispersal order prior to deploying force. For these additional claims, the plaintiff sought compensatory damages, costs, and injunctive relief.\n\nOn November 2 and November 10, 2022, the defendants filed a pair of motions to dismiss. Judge Ruiz issued an order on June 1, 2023, granting in part the various motions. 2023 WL 3750581. Specifically, he dismissed without prejudice with leave to amend the plaintiff\u2019s Fourteenth Amendment claims, her Fourth Amendment claims, and, with respect to the city only, her First Amendment claim. Judge Ruiz also ordered the defendant to file a Second Amended Complaint in compliance with his order on or before June 23, 2023.\n\nAfter receiving an extension of time, the plaintiff filed a Second Amended Complaint on July 6, 2023. Among other things, the amended complaint pursued a bifurcated approach wherein the plaintiff alleged separate causes of action against the city and the other defendants, where applicable, and separated First Amendment claims into two claims\u2013one for unlawful restriction on speech and the other for retaliation. The complaint also provided a name for one of the three John Doe officers and included as an additional defendant the city\u2019s police chief.\n\nThe plaintiff filed a Third Amended Complaint on September 13, 2023, in which she made relatively modest changes to certain of her claims and removed references to one of the named FLPD defendants added in the Second Amended Complaint, substituting back John Doe 1.\n\nThe defendants sought summary judgment in a pair of filings made on December 5, 2023, and January 12, 2024. The plaintiff also filed a motion for partial summary judgment on January 12, 2024.\n\nOn September 4, 2024, Judge Ruiz issued an order granting in part and denying in part the various summary judgment motions. 2024 WL 4039849. Specifically, he granted summary judgment in favor of the individual defendants on all counts, citing both qualified and statutory immunity. With respect to the city, he denied summary judgment on the two First Amendment claims under the plaintiff\u2019s failure-to-train Monell theory and denied summary judgment as to the state-law battery claim, holding that it would be up to a jury to determine whether the city was liable for the plaintiff\u2019s injuries \u201cthrough its policies, procedures, and officers\u2019 conduct.\u201d\n\nOn October 28, 2024, before the case proceeded to trial, the parties attended mediation and came to a full and final settlement of all claims, pending final consideration and approval by the Fort Lauderdale City Commission. The city commission approved [https://www.miamiherald.com/news/local/community/broward/article296526834.html] a $1.975 million settlement at its meeting on December 3, 2024. As part of the settlement, FLPD also agreed to overhaul its internal policies. The court approved the settlement on December 23, 2024.",
+    "target_paragraph": "The plaintiff filed a Third Amended Complaint on September 13, 2023, in which she made relatively modest changes to certain of her claims and removed references to one of the named FLPD defendants added in the Second Amended Complaint, substituting back John Doe 1.",
+    "target_paragraph_indices": [
+      2834,
+      3099
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2834,
+            3099
+          ]
+        ],
+        "annotation": {
+          "explanation": "Third Amended Complaint filed September 13, 2023 (modest changes; substituted back John Doe 1).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "45737_p6",
+    "metadata": {
+      "case_id": "45737",
+      "paragraph_num": 6,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The defendants sought summary judgment in a pair of filings made on December 5, 2023, and January 12..."
+    },
+    "source": "",
+    "target": "In the aftermath of George Floyd's death in May 2020, nationwide protests erupted, including a significant demonstration in Fort Lauderdale, Florida, on May 31, 2020. During the protest, the Fort Lauderdale Police Department (FLPD) attempted to disperse the crowd through use of tear gas and kinetic impact projectiles, otherwise known as rubber bullets.\n\nThe plaintiff in this case, a participant in the May 2020 demonstration, alleged she was shot in the eye by a direct impound round, causing severe, painful, and permanent physical and emotional injuries. In response to her injuries, she filed a lawsuit against the City of Fort Lauderdale and several FLPD officers in the U.S. District Court for the Southern District of Florida on May 31, 2022. The eight-count complaint alleged violations of her constitutional rights under the First, Fourth, and Fourteenth Amendments, as well as state law claims for battery and negligence. The plaintiff asserted municipal liability under a Monell \u201cfailure to train\u201d theory. The plaintiff sought damages, including punitive damages, prejudgment interest on liquidated damages, costs, and compensatory damages. The matter was assigned to District Judge Rodolfo Armando Ruiz II.\n\nThe plaintiff filed an amended complaint on October 27, 2022, wherein she revised the list of named FLDP defendants and added two additional counts: a claim against the City of Fort Lauderdale for negligent instruction, training, and supervision of its officers and a Fourteenth Amendment Procedural Due Process claim against all defendants, alleging that FLDP officers did not issue a proper dispersal order prior to deploying force. For these additional claims, the plaintiff sought compensatory damages, costs, and injunctive relief.\n\nOn November 2 and November 10, 2022, the defendants filed a pair of motions to dismiss. Judge Ruiz issued an order on June 1, 2023, granting in part the various motions. 2023 WL 3750581. Specifically, he dismissed without prejudice with leave to amend the plaintiff\u2019s Fourteenth Amendment claims, her Fourth Amendment claims, and, with respect to the city only, her First Amendment claim. Judge Ruiz also ordered the defendant to file a Second Amended Complaint in compliance with his order on or before June 23, 2023.\n\nAfter receiving an extension of time, the plaintiff filed a Second Amended Complaint on July 6, 2023. Among other things, the amended complaint pursued a bifurcated approach wherein the plaintiff alleged separate causes of action against the city and the other defendants, where applicable, and separated First Amendment claims into two claims\u2013one for unlawful restriction on speech and the other for retaliation. The complaint also provided a name for one of the three John Doe officers and included as an additional defendant the city\u2019s police chief.\n\nThe plaintiff filed a Third Amended Complaint on September 13, 2023, in which she made relatively modest changes to certain of her claims and removed references to one of the named FLPD defendants added in the Second Amended Complaint, substituting back John Doe 1.\n\nThe defendants sought summary judgment in a pair of filings made on December 5, 2023, and January 12, 2024. The plaintiff also filed a motion for partial summary judgment on January 12, 2024.\n\nOn September 4, 2024, Judge Ruiz issued an order granting in part and denying in part the various summary judgment motions. 2024 WL 4039849. Specifically, he granted summary judgment in favor of the individual defendants on all counts, citing both qualified and statutory immunity. With respect to the city, he denied summary judgment on the two First Amendment claims under the plaintiff\u2019s failure-to-train Monell theory and denied summary judgment as to the state-law battery claim, holding that it would be up to a jury to determine whether the city was liable for the plaintiff\u2019s injuries \u201cthrough its policies, procedures, and officers\u2019 conduct.\u201d\n\nOn October 28, 2024, before the case proceeded to trial, the parties attended mediation and came to a full and final settlement of all claims, pending final consideration and approval by the Fort Lauderdale City Commission. The city commission approved [https://www.miamiherald.com/news/local/community/broward/article296526834.html] a $1.975 million settlement at its meeting on December 3, 2024. As part of the settlement, FLPD also agreed to overhaul its internal policies. The court approved the settlement on December 23, 2024.",
+    "target_paragraph": "The defendants sought summary judgment in a pair of filings made on December 5, 2023, and January 12, 2024. The plaintiff also filed a motion for partial summary judgment on January 12, 2024.",
+    "target_paragraph_indices": [
+      3101,
+      3292
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3101,
+            3292
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants moved for summary judgment (filed December 5, 2023 and January 12, 2024); Plaintiff filed a motion for partial summary judgment on January 12, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3101,
+            3292
+          ],
+          [
+            3294,
+            3434
+          ],
+          [
+            3435,
+            3945
+          ]
+        ],
+        "annotation": {
+          "explanation": "September 4, 2024: Court granted in part and denied in part the various summary judgment motions (2024 WL 4039849); granted summary judgment to the individual defendants on all counts (qualified and statutory immunity) and denied summary judgment to the City on the two First Amendment Monell failure-to-train claims and on the state-law battery claim.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "45737_p7",
+    "metadata": {
+      "case_id": "45737",
+      "paragraph_num": 7,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On September 4, 2024, Judge Ruiz issued an order granting in part and denying in part the various su..."
+    },
+    "source": "",
+    "target": "In the aftermath of George Floyd's death in May 2020, nationwide protests erupted, including a significant demonstration in Fort Lauderdale, Florida, on May 31, 2020. During the protest, the Fort Lauderdale Police Department (FLPD) attempted to disperse the crowd through use of tear gas and kinetic impact projectiles, otherwise known as rubber bullets.\n\nThe plaintiff in this case, a participant in the May 2020 demonstration, alleged she was shot in the eye by a direct impound round, causing severe, painful, and permanent physical and emotional injuries. In response to her injuries, she filed a lawsuit against the City of Fort Lauderdale and several FLPD officers in the U.S. District Court for the Southern District of Florida on May 31, 2022. The eight-count complaint alleged violations of her constitutional rights under the First, Fourth, and Fourteenth Amendments, as well as state law claims for battery and negligence. The plaintiff asserted municipal liability under a Monell \u201cfailure to train\u201d theory. The plaintiff sought damages, including punitive damages, prejudgment interest on liquidated damages, costs, and compensatory damages. The matter was assigned to District Judge Rodolfo Armando Ruiz II.\n\nThe plaintiff filed an amended complaint on October 27, 2022, wherein she revised the list of named FLDP defendants and added two additional counts: a claim against the City of Fort Lauderdale for negligent instruction, training, and supervision of its officers and a Fourteenth Amendment Procedural Due Process claim against all defendants, alleging that FLDP officers did not issue a proper dispersal order prior to deploying force. For these additional claims, the plaintiff sought compensatory damages, costs, and injunctive relief.\n\nOn November 2 and November 10, 2022, the defendants filed a pair of motions to dismiss. Judge Ruiz issued an order on June 1, 2023, granting in part the various motions. 2023 WL 3750581. Specifically, he dismissed without prejudice with leave to amend the plaintiff\u2019s Fourteenth Amendment claims, her Fourth Amendment claims, and, with respect to the city only, her First Amendment claim. Judge Ruiz also ordered the defendant to file a Second Amended Complaint in compliance with his order on or before June 23, 2023.\n\nAfter receiving an extension of time, the plaintiff filed a Second Amended Complaint on July 6, 2023. Among other things, the amended complaint pursued a bifurcated approach wherein the plaintiff alleged separate causes of action against the city and the other defendants, where applicable, and separated First Amendment claims into two claims\u2013one for unlawful restriction on speech and the other for retaliation. The complaint also provided a name for one of the three John Doe officers and included as an additional defendant the city\u2019s police chief.\n\nThe plaintiff filed a Third Amended Complaint on September 13, 2023, in which she made relatively modest changes to certain of her claims and removed references to one of the named FLPD defendants added in the Second Amended Complaint, substituting back John Doe 1.\n\nThe defendants sought summary judgment in a pair of filings made on December 5, 2023, and January 12, 2024. The plaintiff also filed a motion for partial summary judgment on January 12, 2024.\n\nOn September 4, 2024, Judge Ruiz issued an order granting in part and denying in part the various summary judgment motions. 2024 WL 4039849. Specifically, he granted summary judgment in favor of the individual defendants on all counts, citing both qualified and statutory immunity. With respect to the city, he denied summary judgment on the two First Amendment claims under the plaintiff\u2019s failure-to-train Monell theory and denied summary judgment as to the state-law battery claim, holding that it would be up to a jury to determine whether the city was liable for the plaintiff\u2019s injuries \u201cthrough its policies, procedures, and officers\u2019 conduct.\u201d\n\nOn October 28, 2024, before the case proceeded to trial, the parties attended mediation and came to a full and final settlement of all claims, pending final consideration and approval by the Fort Lauderdale City Commission. The city commission approved [https://www.miamiherald.com/news/local/community/broward/article296526834.html] a $1.975 million settlement at its meeting on December 3, 2024. As part of the settlement, FLPD also agreed to overhaul its internal policies. The court approved the settlement on December 23, 2024.",
+    "target_paragraph": "On September 4, 2024, Judge Ruiz issued an order granting in part and denying in part the various summary judgment motions. 2024 WL 4039849. Specifically, he granted summary judgment in favor of the individual defendants on all counts, citing both qualified and statutory immunity. With respect to the city, he denied summary judgment on the two First Amendment claims under the plaintiff\u2019s failure-to-train Monell theory and denied summary judgment as to the state-law battery claim, holding that it would be up to a jury to determine whether the city was liable for the plaintiff\u2019s injuries \u201cthrough its policies, procedures, and officers\u2019 conduct.\u201d",
+    "target_paragraph_indices": [
+      3294,
+      3945
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3294,
+            3434
+          ]
+        ],
+        "annotation": {
+          "explanation": "2024 WL 4039849",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3294,
+            3434
+          ],
+          [
+            3435,
+            3945
+          ]
+        ],
+        "annotation": {
+          "explanation": "September 4, 2024: Order granting in part and denying in part the various summary judgment motions; granting summary judgment to the individual defendants on all counts; denying summary judgment to the city on the two First Amendment Monell failure-to-train claims and the state-law battery claim.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3294,
+            3434
+          ],
+          [
+            3435,
+            3575
+          ],
+          [
+            3576,
+            3945
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court found individual officers immune, but left for a jury the plaintiff\u2019s Monell-based First Amendment claims and state-law battery claim against the City, focusing on potential liability through the City\u2019s policies, procedures, and officers\u2019 conduct.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3294,
+            3945
+          ]
+        ],
+        "annotation": {
+          "explanation": "September 4, 2024 order (2024 WL 4039849) granting in part/denying in part summary judgment: granted SJ for individual defendants on all counts (qualified/statutory immunity); denied SJ for the City on two First Amendment Monell failure-to-train claims and on the state-law battery claim.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3435,
+            3575
+          ]
+        ],
+        "annotation": {
+          "explanation": "All individual defendants were removed from the case on summary judgment, leaving no individual claims for trial.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3576,
+            3945
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims that would have proceeded to a jury trial against the City (but did not due to settlement): two First Amendment Monell failure-to-train claims and a state-law battery claim.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "45737_p8",
+    "metadata": {
+      "case_id": "45737",
+      "paragraph_num": 8,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On October 28, 2024, before the case proceeded to trial, the parties attended mediation and came to ..."
+    },
+    "source": "",
+    "target": "In the aftermath of George Floyd's death in May 2020, nationwide protests erupted, including a significant demonstration in Fort Lauderdale, Florida, on May 31, 2020. During the protest, the Fort Lauderdale Police Department (FLPD) attempted to disperse the crowd through use of tear gas and kinetic impact projectiles, otherwise known as rubber bullets.\n\nThe plaintiff in this case, a participant in the May 2020 demonstration, alleged she was shot in the eye by a direct impound round, causing severe, painful, and permanent physical and emotional injuries. In response to her injuries, she filed a lawsuit against the City of Fort Lauderdale and several FLPD officers in the U.S. District Court for the Southern District of Florida on May 31, 2022. The eight-count complaint alleged violations of her constitutional rights under the First, Fourth, and Fourteenth Amendments, as well as state law claims for battery and negligence. The plaintiff asserted municipal liability under a Monell \u201cfailure to train\u201d theory. The plaintiff sought damages, including punitive damages, prejudgment interest on liquidated damages, costs, and compensatory damages. The matter was assigned to District Judge Rodolfo Armando Ruiz II.\n\nThe plaintiff filed an amended complaint on October 27, 2022, wherein she revised the list of named FLDP defendants and added two additional counts: a claim against the City of Fort Lauderdale for negligent instruction, training, and supervision of its officers and a Fourteenth Amendment Procedural Due Process claim against all defendants, alleging that FLDP officers did not issue a proper dispersal order prior to deploying force. For these additional claims, the plaintiff sought compensatory damages, costs, and injunctive relief.\n\nOn November 2 and November 10, 2022, the defendants filed a pair of motions to dismiss. Judge Ruiz issued an order on June 1, 2023, granting in part the various motions. 2023 WL 3750581. Specifically, he dismissed without prejudice with leave to amend the plaintiff\u2019s Fourteenth Amendment claims, her Fourth Amendment claims, and, with respect to the city only, her First Amendment claim. Judge Ruiz also ordered the defendant to file a Second Amended Complaint in compliance with his order on or before June 23, 2023.\n\nAfter receiving an extension of time, the plaintiff filed a Second Amended Complaint on July 6, 2023. Among other things, the amended complaint pursued a bifurcated approach wherein the plaintiff alleged separate causes of action against the city and the other defendants, where applicable, and separated First Amendment claims into two claims\u2013one for unlawful restriction on speech and the other for retaliation. The complaint also provided a name for one of the three John Doe officers and included as an additional defendant the city\u2019s police chief.\n\nThe plaintiff filed a Third Amended Complaint on September 13, 2023, in which she made relatively modest changes to certain of her claims and removed references to one of the named FLPD defendants added in the Second Amended Complaint, substituting back John Doe 1.\n\nThe defendants sought summary judgment in a pair of filings made on December 5, 2023, and January 12, 2024. The plaintiff also filed a motion for partial summary judgment on January 12, 2024.\n\nOn September 4, 2024, Judge Ruiz issued an order granting in part and denying in part the various summary judgment motions. 2024 WL 4039849. Specifically, he granted summary judgment in favor of the individual defendants on all counts, citing both qualified and statutory immunity. With respect to the city, he denied summary judgment on the two First Amendment claims under the plaintiff\u2019s failure-to-train Monell theory and denied summary judgment as to the state-law battery claim, holding that it would be up to a jury to determine whether the city was liable for the plaintiff\u2019s injuries \u201cthrough its policies, procedures, and officers\u2019 conduct.\u201d\n\nOn October 28, 2024, before the case proceeded to trial, the parties attended mediation and came to a full and final settlement of all claims, pending final consideration and approval by the Fort Lauderdale City Commission. The city commission approved [https://www.miamiherald.com/news/local/community/broward/article296526834.html] a $1.975 million settlement at its meeting on December 3, 2024. As part of the settlement, FLPD also agreed to overhaul its internal policies. The court approved the settlement on December 23, 2024.",
+    "target_paragraph": "On October 28, 2024, before the case proceeded to trial, the parties attended mediation and came to a full and final settlement of all claims, pending final consideration and approval by the Fort Lauderdale City Commission. The city commission approved [https://www.miamiherald.com/news/local/community/broward/article296526834.html] a $1.975 million settlement at its meeting on December 3, 2024. As part of the settlement, FLPD also agreed to overhaul its internal policies. The court approved the settlement on December 23, 2024.",
+    "target_paragraph_indices": [
+      3947,
+      4479
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            3947,
+            4170
+          ]
+        ],
+        "annotation": {
+          "explanation": "October 28, 2024: Parties came to a full and final settlement of all claims at mediation, pending Fort Lauderdale City Commission approval.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            4171,
+            4344
+          ],
+          [
+            4345,
+            4423
+          ]
+        ],
+        "annotation": {
+          "explanation": "December 3, 2024: Fort Lauderdale City Commission approved a $1.975 million settlement; as part of the settlement, FLPD agreed to overhaul its internal policies.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            4424,
+            4479
+          ]
+        ],
+        "annotation": {
+          "explanation": "December 23, 2024: The court approved the settlement.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            4424,
+            4479
+          ]
+        ],
+        "annotation": {
+          "explanation": "[Yes].",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4424,
+            4479
+          ]
+        ],
+        "annotation": {
+          "explanation": "December 23, 2024: Court approved the settlement.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3947,
+            4170
+          ],
+          [
+            4171,
+            4344
+          ],
+          [
+            4345,
+            4423
+          ],
+          [
+            4424,
+            4479
+          ]
+        ],
+        "annotation": {
+          "explanation": "The parties settled all claims: the City approved a $1.975 million payment, FLPD agreed to overhaul internal policies, and the court approved the settlement on December 23, 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3947,
+            4479
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mediation and full settlement reached October 28, 2024; City Commission approved $1.975 million settlement December 3, 2024; court approved settlement December 23, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4171,
+            4344
+          ]
+        ],
+        "annotation": {
+          "explanation": "City of Fort Lauderdale to pay $1.975 million to resolve the case.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4345,
+            4423
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fort Lauderdale Police Department agreed to overhaul its internal policies.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4004,
+            4170
+          ],
+          [
+            4424,
+            4479
+          ]
+        ],
+        "annotation": {
+          "explanation": "Full and final settlement of all claims (approved by the City Commission and the court).",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4171,
+            4344
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement amount: $1.975 million.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4345,
+            4423
+          ]
+        ],
+        "annotation": {
+          "explanation": "FLPD agreed to overhaul its internal policies.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4004,
+            4170
+          ]
+        ],
+        "annotation": {
+          "explanation": "Full and final settlement of all claims.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3947,
+            4170
+          ],
+          [
+            4171,
+            4344
+          ],
+          [
+            4424,
+            4479
+          ]
+        ],
+        "annotation": {
+          "explanation": "No trial occurred. The parties settled before trial on Oct 28, 2024; the City Commission approved the settlement on Dec 3, 2024, and the court approved it on Dec 23, 2024.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      }
+    ]
+  }
+]

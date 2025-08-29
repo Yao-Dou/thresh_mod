@@ -1,0 +1,677 @@
+[
+  {
+    "id": "46189_p0",
+    "metadata": {
+      "case_id": "46189",
+      "paragraph_num": 0,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 1, 2025, Catholic Charities, Diocese of Forth Worth (CCFW) filed this lawsuit in the U.S. D..."
+    },
+    "source": "",
+    "target": "On March 1, 2025, Catholic Charities, Diocese of Forth Worth (CCFW) filed this lawsuit in the U.S. District Court for the District of Columbia against the Department of Health and Human Services (HHS) and its Secretary, Robert F. Kennedy. CCFW assists refugees and immigrants with documented legal status and is responsible for coordinating the Refugee Resettlement Program across the state. The plaintiff challenged the Trump Administration's ongoing freeze of money that had been previously delegated and committed to the plaintiff for the care of lawful refugees.\n\nOn January 27, 2025, the Office of Management and Budget (OMB) issued a memorandum directing all federal agencies to \"temporarily pause all activities related to obligation or disbursement of all Federal financial assistance.\" While the OMB rescinded the memo less than two days later, the plaintiffs pointed to another case, National Council of Nonprofits v. Office of Management and Budget [../../../../case/45977/],\u00a0in which Judge AliKhan had found that the Administration was still seeking to restrict federal funding and issued a Temporary Restraining Order (TRO) requiring federal agencies not to freeze funding.\n\nThe plaintiffs alleged that, since January 30, they had made multiple requests for payment from the Payment Management Services (PMS) system, but they had received no funds, and HHS had failed to provide a legal rationale for the failure. The plaintiffs requested declaratory and injunctive relief under the Administrative Procedure Act, alleging that the defendants' actions were a violation of their statutory authority, the Appropriations Clause, and the Spending Clause, and were arbitrary and capricious. The plaintiffs asked the court to declare the defendants' actions unlawful and to enjoin the defendants from implementing a funding freeze against CCFW in the future.\n\nOn March 2, 2025, the plaintiffs filed a motion for a temporary restraining order (TRO). The case was assigned to District Judge Loren L. AliKhan because of the case's relation to National Council of Nonprofits. Judge AliKhan held a hearing on the plaintiffs' motion on March 12.\n\nFollowing a status conference on March 13, the court instructed the parties to file multiple status reports on the current status of the plaintiffs' payment requests. On April 11, the plaintiffs reported that they were able to draw down their funds within 24-48 hours. Given this development, the court ordered the parties to file another joint status report on April 30, unless the parties dismissed the case before then.\n\nOn April 29, 2025, the parties moved to dismiss the case as moot. The court dismissed the case the same day.\n\nThis case is closed.",
+    "target_paragraph": "On March 1, 2025, Catholic Charities, Diocese of Forth Worth (CCFW) filed this lawsuit in the U.S. District Court for the District of Columbia against the Department of Health and Human Services (HHS) and its Secretary, Robert F. Kennedy. CCFW assists refugees and immigrants with documented legal status and is responsible for coordinating the Refugee Resettlement Program across the state. The plaintiff challenged the Trump Administration's ongoing freeze of money that had been previously delegated and committed to the plaintiff for the care of lawful refugees.",
+    "target_paragraph_indices": [
+      0,
+      566
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            0,
+            238
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 1, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            0,
+            142
+          ],
+          [
+            239,
+            391
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as Catholic Charities, Diocese of Forth Worth (CCFW), which assists refugees and immigrants with documented legal status and coordinates the Refugee Resettlement Program across the state.",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            142
+          ],
+          [
+            239,
+            391
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Catholic Charities, Diocese of Forth Worth (CCFW), which assists refugees and immigrants with documented legal status and coordinates the Refugee Resettlement Program across the state.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            143,
+            200
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Health and Human Services (HHS).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            201,
+            238
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Robert F. Kennedy, Secretary of the Department of Health and Human Services (HHS).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            238
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff CCFW filed suit on March 1, 2025, in the U.S. District Court for the District of Columbia against HHS and the HHS Secretary, Robert F. Kennedy.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            239,
+            391
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: CCFW assists lawful refugees and immigrants and coordinates the state Refugee Resettlement Program.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            392,
+            566
+          ]
+        ],
+        "annotation": {
+          "explanation": "Challenged action: An ongoing federal funding freeze of previously allocated funds for refugee care.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            0,
+            238
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed initiating the case in the U.S. District Court for the District of Columbia on March 1, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46189_p1",
+    "metadata": {
+      "case_id": "46189",
+      "paragraph_num": 1,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On January 27, 2025, the Office of Management and Budget (OMB) issued a memorandum directing all fed..."
+    },
+    "source": "",
+    "target": "On March 1, 2025, Catholic Charities, Diocese of Forth Worth (CCFW) filed this lawsuit in the U.S. District Court for the District of Columbia against the Department of Health and Human Services (HHS) and its Secretary, Robert F. Kennedy. CCFW assists refugees and immigrants with documented legal status and is responsible for coordinating the Refugee Resettlement Program across the state. The plaintiff challenged the Trump Administration's ongoing freeze of money that had been previously delegated and committed to the plaintiff for the care of lawful refugees.\n\nOn January 27, 2025, the Office of Management and Budget (OMB) issued a memorandum directing all federal agencies to \"temporarily pause all activities related to obligation or disbursement of all Federal financial assistance.\" While the OMB rescinded the memo less than two days later, the plaintiffs pointed to another case, National Council of Nonprofits v. Office of Management and Budget [../../../../case/45977/],\u00a0in which Judge AliKhan had found that the Administration was still seeking to restrict federal funding and issued a Temporary Restraining Order (TRO) requiring federal agencies not to freeze funding.\n\nThe plaintiffs alleged that, since January 30, they had made multiple requests for payment from the Payment Management Services (PMS) system, but they had received no funds, and HHS had failed to provide a legal rationale for the failure. The plaintiffs requested declaratory and injunctive relief under the Administrative Procedure Act, alleging that the defendants' actions were a violation of their statutory authority, the Appropriations Clause, and the Spending Clause, and were arbitrary and capricious. The plaintiffs asked the court to declare the defendants' actions unlawful and to enjoin the defendants from implementing a funding freeze against CCFW in the future.\n\nOn March 2, 2025, the plaintiffs filed a motion for a temporary restraining order (TRO). The case was assigned to District Judge Loren L. AliKhan because of the case's relation to National Council of Nonprofits. Judge AliKhan held a hearing on the plaintiffs' motion on March 12.\n\nFollowing a status conference on March 13, the court instructed the parties to file multiple status reports on the current status of the plaintiffs' payment requests. On April 11, the plaintiffs reported that they were able to draw down their funds within 24-48 hours. Given this development, the court ordered the parties to file another joint status report on April 30, unless the parties dismissed the case before then.\n\nOn April 29, 2025, the parties moved to dismiss the case as moot. The court dismissed the case the same day.\n\nThis case is closed.",
+    "target_paragraph": "On January 27, 2025, the Office of Management and Budget (OMB) issued a memorandum directing all federal agencies to \"temporarily pause all activities related to obligation or disbursement of all Federal financial assistance.\" While the OMB rescinded the memo less than two days later, the plaintiffs pointed to another case, National Council of Nonprofits v. Office of Management and Budget [../../../../case/45977/],\u00a0in which Judge AliKhan had found that the Administration was still seeking to restrict federal funding and issued a Temporary Restraining Order (TRO) requiring federal agencies not to freeze funding.",
+    "target_paragraph_indices": [
+      568,
+      1186
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            568,
+            794
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background evidence: OMB issued (and quickly rescinded) a memo pausing federal financial assistance, and a related case resulted in a TRO prohibiting funding freezes.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46189_p2",
+    "metadata": {
+      "case_id": "46189",
+      "paragraph_num": 2,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs alleged that, since January 30, they had made multiple requests for payment from the ..."
+    },
+    "source": "",
+    "target": "On March 1, 2025, Catholic Charities, Diocese of Forth Worth (CCFW) filed this lawsuit in the U.S. District Court for the District of Columbia against the Department of Health and Human Services (HHS) and its Secretary, Robert F. Kennedy. CCFW assists refugees and immigrants with documented legal status and is responsible for coordinating the Refugee Resettlement Program across the state. The plaintiff challenged the Trump Administration's ongoing freeze of money that had been previously delegated and committed to the plaintiff for the care of lawful refugees.\n\nOn January 27, 2025, the Office of Management and Budget (OMB) issued a memorandum directing all federal agencies to \"temporarily pause all activities related to obligation or disbursement of all Federal financial assistance.\" While the OMB rescinded the memo less than two days later, the plaintiffs pointed to another case, National Council of Nonprofits v. Office of Management and Budget [../../../../case/45977/],\u00a0in which Judge AliKhan had found that the Administration was still seeking to restrict federal funding and issued a Temporary Restraining Order (TRO) requiring federal agencies not to freeze funding.\n\nThe plaintiffs alleged that, since January 30, they had made multiple requests for payment from the Payment Management Services (PMS) system, but they had received no funds, and HHS had failed to provide a legal rationale for the failure. The plaintiffs requested declaratory and injunctive relief under the Administrative Procedure Act, alleging that the defendants' actions were a violation of their statutory authority, the Appropriations Clause, and the Spending Clause, and were arbitrary and capricious. The plaintiffs asked the court to declare the defendants' actions unlawful and to enjoin the defendants from implementing a funding freeze against CCFW in the future.\n\nOn March 2, 2025, the plaintiffs filed a motion for a temporary restraining order (TRO). The case was assigned to District Judge Loren L. AliKhan because of the case's relation to National Council of Nonprofits. Judge AliKhan held a hearing on the plaintiffs' motion on March 12.\n\nFollowing a status conference on March 13, the court instructed the parties to file multiple status reports on the current status of the plaintiffs' payment requests. On April 11, the plaintiffs reported that they were able to draw down their funds within 24-48 hours. Given this development, the court ordered the parties to file another joint status report on April 30, unless the parties dismissed the case before then.\n\nOn April 29, 2025, the parties moved to dismiss the case as moot. The court dismissed the case the same day.\n\nThis case is closed.",
+    "target_paragraph": "The plaintiffs alleged that, since January 30, they had made multiple requests for payment from the Payment Management Services (PMS) system, but they had received no funds, and HHS had failed to provide a legal rationale for the failure. The plaintiffs requested declaratory and injunctive relief under the Administrative Procedure Act, alleging that the defendants' actions were a violation of their statutory authority, the Appropriations Clause, and the Spending Clause, and were arbitrary and capricious. The plaintiffs asked the court to declare the defendants' actions unlawful and to enjoin the defendants from implementing a funding freeze against CCFW in the future.",
+    "target_paragraph_indices": [
+      1188,
+      1864
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1427,
+            1697
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) cause of action for declaratory and injunctive relief, alleging agency action beyond statutory authority, arbitrary and capricious action, and violations of the Appropriations Clause and the Spending Clause.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1427,
+            1697
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) (including arbitrary and capricious agency action)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1427,
+            1697
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appropriations Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1427,
+            1697
+          ]
+        ],
+        "annotation": {
+          "explanation": "Spending Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1427,
+            1525
+          ],
+          [
+            1698,
+            1772
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief under the Administrative Procedure Act\u2014a declaration that the defendants' actions are unlawful.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1427,
+            1525
+          ],
+          [
+            1773,
+            1864
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief\u2014an order enjoining the defendants from implementing a funding freeze against CCFW in the future.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1188,
+            1426
+          ]
+        ],
+        "annotation": {
+          "explanation": "Factual harm/evidence: After January 30, multiple PMS drawdown requests yielded no funds, and HHS provided no legal rationale.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1427,
+            1697
+          ],
+          [
+            1698,
+            1864
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims and requested relief: APA challenge asserting statutory, Appropriations Clause, and Spending Clause violations; sought declaratory and injunctive relief to stop funding freezes.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46189_p3",
+    "metadata": {
+      "case_id": "46189",
+      "paragraph_num": 3,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 2, 2025, the plaintiffs filed a motion for a temporary restraining order (TRO). The case wa..."
+    },
+    "source": "",
+    "target": "On March 1, 2025, Catholic Charities, Diocese of Forth Worth (CCFW) filed this lawsuit in the U.S. District Court for the District of Columbia against the Department of Health and Human Services (HHS) and its Secretary, Robert F. Kennedy. CCFW assists refugees and immigrants with documented legal status and is responsible for coordinating the Refugee Resettlement Program across the state. The plaintiff challenged the Trump Administration's ongoing freeze of money that had been previously delegated and committed to the plaintiff for the care of lawful refugees.\n\nOn January 27, 2025, the Office of Management and Budget (OMB) issued a memorandum directing all federal agencies to \"temporarily pause all activities related to obligation or disbursement of all Federal financial assistance.\" While the OMB rescinded the memo less than two days later, the plaintiffs pointed to another case, National Council of Nonprofits v. Office of Management and Budget [../../../../case/45977/],\u00a0in which Judge AliKhan had found that the Administration was still seeking to restrict federal funding and issued a Temporary Restraining Order (TRO) requiring federal agencies not to freeze funding.\n\nThe plaintiffs alleged that, since January 30, they had made multiple requests for payment from the Payment Management Services (PMS) system, but they had received no funds, and HHS had failed to provide a legal rationale for the failure. The plaintiffs requested declaratory and injunctive relief under the Administrative Procedure Act, alleging that the defendants' actions were a violation of their statutory authority, the Appropriations Clause, and the Spending Clause, and were arbitrary and capricious. The plaintiffs asked the court to declare the defendants' actions unlawful and to enjoin the defendants from implementing a funding freeze against CCFW in the future.\n\nOn March 2, 2025, the plaintiffs filed a motion for a temporary restraining order (TRO). The case was assigned to District Judge Loren L. AliKhan because of the case's relation to National Council of Nonprofits. Judge AliKhan held a hearing on the plaintiffs' motion on March 12.\n\nFollowing a status conference on March 13, the court instructed the parties to file multiple status reports on the current status of the plaintiffs' payment requests. On April 11, the plaintiffs reported that they were able to draw down their funds within 24-48 hours. Given this development, the court ordered the parties to file another joint status report on April 30, unless the parties dismissed the case before then.\n\nOn April 29, 2025, the parties moved to dismiss the case as moot. The court dismissed the case the same day.\n\nThis case is closed.",
+    "target_paragraph": "On March 2, 2025, the plaintiffs filed a motion for a temporary restraining order (TRO). The case was assigned to District Judge Loren L. AliKhan because of the case's relation to National Council of Nonprofits. Judge AliKhan held a hearing on the plaintiffs' motion on March 12.",
+    "target_paragraph_indices": [
+      1866,
+      2145
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1866,
+            1954
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order (TRO).",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1955,
+            2077
+          ],
+          [
+            2078,
+            2145
+          ]
+        ],
+        "annotation": {
+          "explanation": "Loren L. AliKhan",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            1955,
+            2077
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: National Council of Nonprofits v. Office of Management and Budget (case code 45977). In that case, Judge Loren L. AliKhan issued a TRO requiring federal agencies not to freeze funding. The present case was assigned to Judge AliKhan because it is related to that case.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1866,
+            1954
+          ],
+          [
+            1955,
+            2077
+          ],
+          [
+            2078,
+            2145
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural facts: TRO motion filed March 2; case assigned to Judge Loren L. AliKhan; TRO hearing held March 12.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1866,
+            1954
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a motion for a temporary restraining order (TRO) on March 2, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46189_p4",
+    "metadata": {
+      "case_id": "46189",
+      "paragraph_num": 4,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Following a status conference on March 13, the court instructed the parties to file multiple status ..."
+    },
+    "source": "",
+    "target": "On March 1, 2025, Catholic Charities, Diocese of Forth Worth (CCFW) filed this lawsuit in the U.S. District Court for the District of Columbia against the Department of Health and Human Services (HHS) and its Secretary, Robert F. Kennedy. CCFW assists refugees and immigrants with documented legal status and is responsible for coordinating the Refugee Resettlement Program across the state. The plaintiff challenged the Trump Administration's ongoing freeze of money that had been previously delegated and committed to the plaintiff for the care of lawful refugees.\n\nOn January 27, 2025, the Office of Management and Budget (OMB) issued a memorandum directing all federal agencies to \"temporarily pause all activities related to obligation or disbursement of all Federal financial assistance.\" While the OMB rescinded the memo less than two days later, the plaintiffs pointed to another case, National Council of Nonprofits v. Office of Management and Budget [../../../../case/45977/],\u00a0in which Judge AliKhan had found that the Administration was still seeking to restrict federal funding and issued a Temporary Restraining Order (TRO) requiring federal agencies not to freeze funding.\n\nThe plaintiffs alleged that, since January 30, they had made multiple requests for payment from the Payment Management Services (PMS) system, but they had received no funds, and HHS had failed to provide a legal rationale for the failure. The plaintiffs requested declaratory and injunctive relief under the Administrative Procedure Act, alleging that the defendants' actions were a violation of their statutory authority, the Appropriations Clause, and the Spending Clause, and were arbitrary and capricious. The plaintiffs asked the court to declare the defendants' actions unlawful and to enjoin the defendants from implementing a funding freeze against CCFW in the future.\n\nOn March 2, 2025, the plaintiffs filed a motion for a temporary restraining order (TRO). The case was assigned to District Judge Loren L. AliKhan because of the case's relation to National Council of Nonprofits. Judge AliKhan held a hearing on the plaintiffs' motion on March 12.\n\nFollowing a status conference on March 13, the court instructed the parties to file multiple status reports on the current status of the plaintiffs' payment requests. On April 11, the plaintiffs reported that they were able to draw down their funds within 24-48 hours. Given this development, the court ordered the parties to file another joint status report on April 30, unless the parties dismissed the case before then.\n\nOn April 29, 2025, the parties moved to dismiss the case as moot. The court dismissed the case the same day.\n\nThis case is closed.",
+    "target_paragraph": "Following a status conference on March 13, the court instructed the parties to file multiple status reports on the current status of the plaintiffs' payment requests. On April 11, the plaintiffs reported that they were able to draw down their funds within 24-48 hours. Given this development, the court ordered the parties to file another joint status report on April 30, unless the parties dismissed the case before then.",
+    "target_paragraph_indices": [
+      2147,
+      2569
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2147,
+            2313
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 13, 2025: Court instructed the parties to file multiple status reports on the current status of the plaintiffs' payment requests.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2314,
+            2415
+          ],
+          [
+            2416,
+            2569
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 11, 2025: Court ordered the parties to file another joint status report on April 30, unless the parties dismissed the case before then.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2147,
+            2313
+          ],
+          [
+            2314,
+            2415
+          ],
+          [
+            2416,
+            2569
+          ]
+        ],
+        "annotation": {
+          "explanation": "Developments: Court monitored payment status; by April 11, CCFW could draw funds within 24\u201348 hours.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2147,
+            2313
+          ],
+          [
+            2314,
+            2415
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a status report on April 11, 2025, reporting they could draw down funds within 24\u201348 hours (one of multiple status reports directed by the court).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "monitor_reports",
+        "output_idx": [
+          [
+            2147,
+            2313
+          ],
+          [
+            2314,
+            2415
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 11, 2025 status report: plaintiffs reported they were able to draw down their funds within 24\u201348 hours.",
+          "checklist_item": "Monitor Reports",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46189_p5",
+    "metadata": {
+      "case_id": "46189",
+      "paragraph_num": 5,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 29, 2025, the parties moved to dismiss the case as moot. The court dismissed the case the s..."
+    },
+    "source": "",
+    "target": "On March 1, 2025, Catholic Charities, Diocese of Forth Worth (CCFW) filed this lawsuit in the U.S. District Court for the District of Columbia against the Department of Health and Human Services (HHS) and its Secretary, Robert F. Kennedy. CCFW assists refugees and immigrants with documented legal status and is responsible for coordinating the Refugee Resettlement Program across the state. The plaintiff challenged the Trump Administration's ongoing freeze of money that had been previously delegated and committed to the plaintiff for the care of lawful refugees.\n\nOn January 27, 2025, the Office of Management and Budget (OMB) issued a memorandum directing all federal agencies to \"temporarily pause all activities related to obligation or disbursement of all Federal financial assistance.\" While the OMB rescinded the memo less than two days later, the plaintiffs pointed to another case, National Council of Nonprofits v. Office of Management and Budget [../../../../case/45977/],\u00a0in which Judge AliKhan had found that the Administration was still seeking to restrict federal funding and issued a Temporary Restraining Order (TRO) requiring federal agencies not to freeze funding.\n\nThe plaintiffs alleged that, since January 30, they had made multiple requests for payment from the Payment Management Services (PMS) system, but they had received no funds, and HHS had failed to provide a legal rationale for the failure. The plaintiffs requested declaratory and injunctive relief under the Administrative Procedure Act, alleging that the defendants' actions were a violation of their statutory authority, the Appropriations Clause, and the Spending Clause, and were arbitrary and capricious. The plaintiffs asked the court to declare the defendants' actions unlawful and to enjoin the defendants from implementing a funding freeze against CCFW in the future.\n\nOn March 2, 2025, the plaintiffs filed a motion for a temporary restraining order (TRO). The case was assigned to District Judge Loren L. AliKhan because of the case's relation to National Council of Nonprofits. Judge AliKhan held a hearing on the plaintiffs' motion on March 12.\n\nFollowing a status conference on March 13, the court instructed the parties to file multiple status reports on the current status of the plaintiffs' payment requests. On April 11, the plaintiffs reported that they were able to draw down their funds within 24-48 hours. Given this development, the court ordered the parties to file another joint status report on April 30, unless the parties dismissed the case before then.\n\nOn April 29, 2025, the parties moved to dismiss the case as moot. The court dismissed the case the same day.\n\nThis case is closed.",
+    "target_paragraph": "On April 29, 2025, the parties moved to dismiss the case as moot. The court dismissed the case the same day.",
+    "target_paragraph_indices": [
+      2571,
+      2679
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2571,
+            2679
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 29, 2025: Court dismissed the case.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2571,
+            2636
+          ],
+          [
+            2637,
+            2679
+          ],
+          [
+            2681,
+            2701
+          ]
+        ],
+        "annotation": {
+          "explanation": "Outcome: Parties moved to dismiss as moot on April 29, 2025; court dismissed the case the same day; case closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2571,
+            2636
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties moved to dismiss the case as moot on April 29, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2571,
+            2679
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 29, 2025, after the parties moved to dismiss as moot, the court dismissed the case the same day.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46189_p6",
+    "metadata": {
+      "case_id": "46189",
+      "paragraph_num": 6,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is closed."
+    },
+    "source": "",
+    "target": "On March 1, 2025, Catholic Charities, Diocese of Forth Worth (CCFW) filed this lawsuit in the U.S. District Court for the District of Columbia against the Department of Health and Human Services (HHS) and its Secretary, Robert F. Kennedy. CCFW assists refugees and immigrants with documented legal status and is responsible for coordinating the Refugee Resettlement Program across the state. The plaintiff challenged the Trump Administration's ongoing freeze of money that had been previously delegated and committed to the plaintiff for the care of lawful refugees.\n\nOn January 27, 2025, the Office of Management and Budget (OMB) issued a memorandum directing all federal agencies to \"temporarily pause all activities related to obligation or disbursement of all Federal financial assistance.\" While the OMB rescinded the memo less than two days later, the plaintiffs pointed to another case, National Council of Nonprofits v. Office of Management and Budget [../../../../case/45977/],\u00a0in which Judge AliKhan had found that the Administration was still seeking to restrict federal funding and issued a Temporary Restraining Order (TRO) requiring federal agencies not to freeze funding.\n\nThe plaintiffs alleged that, since January 30, they had made multiple requests for payment from the Payment Management Services (PMS) system, but they had received no funds, and HHS had failed to provide a legal rationale for the failure. The plaintiffs requested declaratory and injunctive relief under the Administrative Procedure Act, alleging that the defendants' actions were a violation of their statutory authority, the Appropriations Clause, and the Spending Clause, and were arbitrary and capricious. The plaintiffs asked the court to declare the defendants' actions unlawful and to enjoin the defendants from implementing a funding freeze against CCFW in the future.\n\nOn March 2, 2025, the plaintiffs filed a motion for a temporary restraining order (TRO). The case was assigned to District Judge Loren L. AliKhan because of the case's relation to National Council of Nonprofits. Judge AliKhan held a hearing on the plaintiffs' motion on March 12.\n\nFollowing a status conference on March 13, the court instructed the parties to file multiple status reports on the current status of the plaintiffs' payment requests. On April 11, the plaintiffs reported that they were able to draw down their funds within 24-48 hours. Given this development, the court ordered the parties to file another joint status report on April 30, unless the parties dismissed the case before then.\n\nOn April 29, 2025, the parties moved to dismiss the case as moot. The court dismissed the case the same day.\n\nThis case is closed.",
+    "target_paragraph": "This case is closed.",
+    "target_paragraph_indices": [
+      2681,
+      2701
+    ],
+    "edits": []
+  }
+]

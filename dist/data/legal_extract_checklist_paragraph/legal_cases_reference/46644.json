@@ -1,0 +1,743 @@
+[
+  {
+    "id": "46644_p0",
+    "metadata": {
+      "case_id": "46644",
+      "paragraph_num": 0,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged the legality of tariffs imposed by the Trump administration under the Internati..."
+    },
+    "source": "",
+    "target": "This case challenged the legality of tariffs imposed by the Trump administration under the International Emergency Economic Powers Act (IEEPA). On May 29, 2025, Chapter1 LLC, a Nevada-based skincare business, filed this suit in the U.S. Court of International Trade seeking a refund of $22,953.50 in duties it paid under a series of executive orders that imposed tariffs ranging from 10% to 145% on imports from China. Represented by Gerstein Harrow LLP, the plaintiff alleged that the tariffs were not authorized by IEEPA, were imposed in violation of statutory and constitutional limits, and had been declared unlawful by the court one day earlier in V.O.S. Selections, Inc. v. Trump [../../../../case/46396/].\n\nChapter1 had imported a custom-made machine from China on May 5, 2025, and paid nearly double the value of the machine in duties. It filed this action on behalf of itself and a proposed class of all importers who paid tariffs under the challenged executive orders. The plaintiff sought class certification, a declaratory judgment, and either a refund or money judgment.\n\nOn the same day, the plaintiff also moved for summary judgment (SJ) and for class certification. The summary judgment motion relied heavily on the court\u2019s ruling in V.O.S., arguing that the legal issues had already been resolved and no facts were in dispute.\n\nOn June 27, 2025, Chapter1 voluntarily dismissed the case under Rule 41(a)(1)(A)(i). The court clerk entered the dismissal the same day. No answer was filed and no judicial ruling was issued on the merits.\n\nThe case is closed.",
+    "target_paragraph": "This case challenged the legality of tariffs imposed by the Trump administration under the International Emergency Economic Powers Act (IEEPA). On May 29, 2025, Chapter1 LLC, a Nevada-based skincare business, filed this suit in the U.S. Court of International Trade seeking a refund of $22,953.50 in duties it paid under a series of executive orders that imposed tariffs ranging from 10% to 145% on imports from China. Represented by Gerstein Harrow LLP, the plaintiff alleged that the tariffs were not authorized by IEEPA, were imposed in violation of statutory and constitutional limits, and had been declared unlawful by the court one day earlier in V.O.S. Selections, Inc. v. Trump [../../../../case/46396/].",
+    "target_paragraph_indices": [
+      0,
+      712
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            144,
+            418
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 29, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            0,
+            143
+          ],
+          [
+            455,
+            522
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory challenge under the International Emergency Economic Powers Act (IEEPA) alleging the tariffs were not authorized.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            455,
+            588
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional and statutory claims that the tariffs violated constitutional and statutory limits.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            594,
+            712
+          ],
+          [
+            1182,
+            1343
+          ]
+        ],
+        "annotation": {
+          "explanation": "Cause of action relies on precedent: V.O.S. Selections, Inc. v. Trump.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            37,
+            143
+          ],
+          [
+            455,
+            522
+          ]
+        ],
+        "annotation": {
+          "explanation": "International Emergency Economic Powers Act (IEEPA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            524,
+            588
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional limits (unspecified clause/amendment)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            209,
+            306
+          ],
+          [
+            979,
+            1083
+          ]
+        ],
+        "annotation": {
+          "explanation": "Refund of $22,953.50 in duties",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            419,
+            712
+          ]
+        ],
+        "annotation": {
+          "explanation": "Private counsel (Gerstein Harrow LLP)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            594,
+            712
+          ],
+          [
+            1182,
+            1343
+          ]
+        ],
+        "annotation": {
+          "explanation": "V.O.S. Selections, Inc. v. Trump",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 8
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            594,
+            712
+          ],
+          [
+            1182,
+            1343
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: V.O.S. Selections, Inc. v. Trump (case code 46396). The court had declared the challenged tariffs unlawful in that case one day earlier, and Chapter1\u2019s summary judgment motion relied heavily on that ruling.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            144,
+            265
+          ],
+          [
+            844,
+            978
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Chapter1 LLC, a Nevada-based skincare business; filed this suit in the U.S. Court of International Trade on behalf of itself and a proposed class of all importers who paid tariffs under the challenged executive orders.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            143
+          ]
+        ],
+        "annotation": {
+          "explanation": "Challenge to tariffs imposed by the Trump administration under IEEPA.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            144,
+            418
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 29, 2025, Chapter1 LLC filed in the U.S. Court of International Trade seeking a $22,953.50 refund of duties paid under executive orders imposing 10%\u2013145% tariffs on imports from China.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            419,
+            712
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff was represented by Gerstein Harrow LLP.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            419,
+            712
+          ]
+        ],
+        "annotation": {
+          "explanation": "Allegations: tariffs not authorized by IEEPA, violated statutory and constitutional limits, and were declared unlawful one day earlier in V.O.S. Selections, Inc. v. Trump.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            144,
+            418
+          ],
+          [
+            844,
+            978
+          ],
+          [
+            979,
+            1083
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed by Chapter1 LLC on May 29, 2025 in the U.S. Court of International Trade; proposed class action; relief sought included class certification, declaratory judgment, and refund/money judgment.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": "46644_p1",
+    "metadata": {
+      "case_id": "46644",
+      "paragraph_num": 1,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Chapter1 had imported a custom-made machine from China on May 5, 2025, and paid nearly double the va..."
+    },
+    "source": "",
+    "target": "This case challenged the legality of tariffs imposed by the Trump administration under the International Emergency Economic Powers Act (IEEPA). On May 29, 2025, Chapter1 LLC, a Nevada-based skincare business, filed this suit in the U.S. Court of International Trade seeking a refund of $22,953.50 in duties it paid under a series of executive orders that imposed tariffs ranging from 10% to 145% on imports from China. Represented by Gerstein Harrow LLP, the plaintiff alleged that the tariffs were not authorized by IEEPA, were imposed in violation of statutory and constitutional limits, and had been declared unlawful by the court one day earlier in V.O.S. Selections, Inc. v. Trump [../../../../case/46396/].\n\nChapter1 had imported a custom-made machine from China on May 5, 2025, and paid nearly double the value of the machine in duties. It filed this action on behalf of itself and a proposed class of all importers who paid tariffs under the challenged executive orders. The plaintiff sought class certification, a declaratory judgment, and either a refund or money judgment.\n\nOn the same day, the plaintiff also moved for summary judgment (SJ) and for class certification. The summary judgment motion relied heavily on the court\u2019s ruling in V.O.S., arguing that the legal issues had already been resolved and no facts were in dispute.\n\nOn June 27, 2025, Chapter1 voluntarily dismissed the case under Rule 41(a)(1)(A)(i). The court clerk entered the dismissal the same day. No answer was filed and no judicial ruling was issued on the merits.\n\nThe case is closed.",
+    "target_paragraph": "Chapter1 had imported a custom-made machine from China on May 5, 2025, and paid nearly double the value of the machine in duties. It filed this action on behalf of itself and a proposed class of all importers who paid tariffs under the challenged executive orders. The plaintiff sought class certification, a declaratory judgment, and either a refund or money judgment.",
+    "target_paragraph_indices": [
+      714,
+      1083
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            979,
+            1083
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            979,
+            1083
+          ]
+        ],
+        "annotation": {
+          "explanation": "Money judgment (alternative to refund)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            979,
+            1083
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            844,
+            978
+          ],
+          [
+            979,
+            1083
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Class Action",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            714,
+            843
+          ]
+        ],
+        "annotation": {
+          "explanation": "Triggering event: On May 5, 2025, Chapter1 imported a custom-made machine from China and paid duties nearly double the machine\u2019s value.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            844,
+            978
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filed as a putative class action on behalf of all importers who paid tariffs under the challenged executive orders.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            979,
+            1083
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: class certification, declaratory judgment, and a refund or money judgment.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46644_p2",
+    "metadata": {
+      "case_id": "46644",
+      "paragraph_num": 2,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On the same day, the plaintiff also moved for summary judgment (SJ) and for class certification. The..."
+    },
+    "source": "",
+    "target": "This case challenged the legality of tariffs imposed by the Trump administration under the International Emergency Economic Powers Act (IEEPA). On May 29, 2025, Chapter1 LLC, a Nevada-based skincare business, filed this suit in the U.S. Court of International Trade seeking a refund of $22,953.50 in duties it paid under a series of executive orders that imposed tariffs ranging from 10% to 145% on imports from China. Represented by Gerstein Harrow LLP, the plaintiff alleged that the tariffs were not authorized by IEEPA, were imposed in violation of statutory and constitutional limits, and had been declared unlawful by the court one day earlier in V.O.S. Selections, Inc. v. Trump [../../../../case/46396/].\n\nChapter1 had imported a custom-made machine from China on May 5, 2025, and paid nearly double the value of the machine in duties. It filed this action on behalf of itself and a proposed class of all importers who paid tariffs under the challenged executive orders. The plaintiff sought class certification, a declaratory judgment, and either a refund or money judgment.\n\nOn the same day, the plaintiff also moved for summary judgment (SJ) and for class certification. The summary judgment motion relied heavily on the court\u2019s ruling in V.O.S., arguing that the legal issues had already been resolved and no facts were in dispute.\n\nOn June 27, 2025, Chapter1 voluntarily dismissed the case under Rule 41(a)(1)(A)(i). The court clerk entered the dismissal the same day. No answer was filed and no judicial ruling was issued on the merits.\n\nThe case is closed.",
+    "target_paragraph": "On the same day, the plaintiff also moved for summary judgment (SJ) and for class certification. The summary judgment motion relied heavily on the court\u2019s ruling in V.O.S., arguing that the legal issues had already been resolved and no facts were in dispute.",
+    "target_paragraph_indices": [
+      1085,
+      1343
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1085,
+            1181
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff moved the same day for summary judgment and class certification.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1182,
+            1343
+          ]
+        ],
+        "annotation": {
+          "explanation": "Summary judgment basis: relied heavily on V.O.S. ruling; argued legal issues were resolved and no factual disputes existed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1085,
+            1181
+          ],
+          [
+            1182,
+            1343
+          ],
+          [
+            1482,
+            1550
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff\u2019s motion for summary judgment filed May 29, 2025; relied on V.O.S. Selections, Inc. v. Trump and asserted no factual disputes; no merits ruling issued.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1085,
+            1181
+          ],
+          [
+            1482,
+            1550
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff\u2019s motion for class certification filed May 29, 2025; no merits ruling issued.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1085,
+            1181
+          ],
+          [
+            1345,
+            1481
+          ],
+          [
+            1482,
+            1550
+          ]
+        ],
+        "annotation": {
+          "explanation": "Summary judgment motion: No ruling; case voluntarily dismissed under Rule 41(a)(1)(A)(i) before decision.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1085,
+            1181
+          ],
+          [
+            1345,
+            1481
+          ],
+          [
+            1482,
+            1550
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification motion: No ruling; case voluntarily dismissed under Rule 41(a)(1)(A)(i) before decision.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46644_p3",
+    "metadata": {
+      "case_id": "46644",
+      "paragraph_num": 3,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 27, 2025, Chapter1 voluntarily dismissed the case under Rule 41(a)(1)(A)(i). The court clerk..."
+    },
+    "source": "",
+    "target": "This case challenged the legality of tariffs imposed by the Trump administration under the International Emergency Economic Powers Act (IEEPA). On May 29, 2025, Chapter1 LLC, a Nevada-based skincare business, filed this suit in the U.S. Court of International Trade seeking a refund of $22,953.50 in duties it paid under a series of executive orders that imposed tariffs ranging from 10% to 145% on imports from China. Represented by Gerstein Harrow LLP, the plaintiff alleged that the tariffs were not authorized by IEEPA, were imposed in violation of statutory and constitutional limits, and had been declared unlawful by the court one day earlier in V.O.S. Selections, Inc. v. Trump [../../../../case/46396/].\n\nChapter1 had imported a custom-made machine from China on May 5, 2025, and paid nearly double the value of the machine in duties. It filed this action on behalf of itself and a proposed class of all importers who paid tariffs under the challenged executive orders. The plaintiff sought class certification, a declaratory judgment, and either a refund or money judgment.\n\nOn the same day, the plaintiff also moved for summary judgment (SJ) and for class certification. The summary judgment motion relied heavily on the court\u2019s ruling in V.O.S., arguing that the legal issues had already been resolved and no facts were in dispute.\n\nOn June 27, 2025, Chapter1 voluntarily dismissed the case under Rule 41(a)(1)(A)(i). The court clerk entered the dismissal the same day. No answer was filed and no judicial ruling was issued on the merits.\n\nThe case is closed.",
+    "target_paragraph": "On June 27, 2025, Chapter1 voluntarily dismissed the case under Rule 41(a)(1)(A)(i). The court clerk entered the dismissal the same day. No answer was filed and no judicial ruling was issued on the merits.",
+    "target_paragraph_indices": [
+      1345,
+      1550
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1345,
+            1429
+          ],
+          [
+            1430,
+            1481
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 27, 2025: Voluntary dismissal under Rule 41(a)(1)(A)(i) entered by the court clerk.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1345,
+            1429
+          ]
+        ],
+        "annotation": {
+          "explanation": "Voluntary dismissal on June 27, 2025 under Rule 41(a)(1)(A)(i).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1430,
+            1550
+          ]
+        ],
+        "annotation": {
+          "explanation": "Clerk entered dismissal the same day; no answer filed; no merits ruling.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1345,
+            1429
+          ],
+          [
+            1430,
+            1481
+          ],
+          [
+            1482,
+            1550
+          ],
+          [
+            1552,
+            1571
+          ]
+        ],
+        "annotation": {
+          "explanation": "Voluntary dismissal by plaintiff under Rule 41(a)(1)(A)(i) filed June 27, 2025; clerk entered dismissal the same day; no answer filed; case closed.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            3,
+            4
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1345,
+            1481
+          ],
+          [
+            1482,
+            1550
+          ]
+        ],
+        "annotation": {
+          "explanation": "Voluntary dismissal: Dismissal entered by the clerk under Rule 41(a)(1)(A)(i) on June 27, 2025; case closed.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46644_p4",
+    "metadata": {
+      "case_id": "46644",
+      "paragraph_num": 4,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case is closed."
+    },
+    "source": "",
+    "target": "This case challenged the legality of tariffs imposed by the Trump administration under the International Emergency Economic Powers Act (IEEPA). On May 29, 2025, Chapter1 LLC, a Nevada-based skincare business, filed this suit in the U.S. Court of International Trade seeking a refund of $22,953.50 in duties it paid under a series of executive orders that imposed tariffs ranging from 10% to 145% on imports from China. Represented by Gerstein Harrow LLP, the plaintiff alleged that the tariffs were not authorized by IEEPA, were imposed in violation of statutory and constitutional limits, and had been declared unlawful by the court one day earlier in V.O.S. Selections, Inc. v. Trump [../../../../case/46396/].\n\nChapter1 had imported a custom-made machine from China on May 5, 2025, and paid nearly double the value of the machine in duties. It filed this action on behalf of itself and a proposed class of all importers who paid tariffs under the challenged executive orders. The plaintiff sought class certification, a declaratory judgment, and either a refund or money judgment.\n\nOn the same day, the plaintiff also moved for summary judgment (SJ) and for class certification. The summary judgment motion relied heavily on the court\u2019s ruling in V.O.S., arguing that the legal issues had already been resolved and no facts were in dispute.\n\nOn June 27, 2025, Chapter1 voluntarily dismissed the case under Rule 41(a)(1)(A)(i). The court clerk entered the dismissal the same day. No answer was filed and no judicial ruling was issued on the merits.\n\nThe case is closed.",
+    "target_paragraph": "The case is closed.",
+    "target_paragraph_indices": [
+      1552,
+      1571
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1552,
+            1571
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "45223_p0",
+    "metadata": {
+      "case_id": "45223",
+      "paragraph_num": 0,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case arose from a city\u2019s plan to imminently clear an encampment of unhoused individuals with li..."
+    },
+    "source": "",
+    "target": "This case arose from a city\u2019s plan to imminently clear an encampment of unhoused individuals with little notice.\n\nOn December 11, 2023, three unhoused individuals filed suit against the City of Berkeley to prevent their eviction from an encampment at 8th and Harrison Streets. Proceeding pro se (that is, representing themselves), the plaintiffs filed their lawsuit in the U.S. District Court for the Northern District of California, where it was assigned to District Judge Edward M. Chen.\n\nThe plaintiffs, each of whom has a disability, alleged that the City was forcing them from the encampment without offering accessible shelter and without giving sufficient notice. They brought the following claims under 42 USC \u00a7 1983:\n\n\u2022 Exposure to State-Created Danger under the Fourteenth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Unreasonable Search and Seizure under the Fourth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Infliction of Cruel and Unusual Punishment under the Eighth Amendment to the U.S. Constitution\n\nThe plaintiffs sought a declaratory judgment and injunctive relief. They also moved for a temporary restraining order (TRO) the same day they filed their complaint. According to their motion for a TRO, the City of Berkeley had posted eviction notices three days earlier (on December 8th), warning that the encampment would be cleared on Tuesday, December 12. Plaintiffs argued the notices were vague, failed to identify adequate shelter options, and disproportionately harmed disabled residents.\n\nThe court granted the TRO on December 15, 2023. Filling in for Judge Chen on an emergency basis, District Judge Araceli Mart\u00ednez-Olgu\u00edn found that the plaintiffs had demonstrated \u201cserious questions going to the merits\u201d of their claims, and that the balance of hardships tipped \u201csharply in [their] favor.\u201d The court emphasized that the plaintiffs faced immediate and irreparable harm if evicted in the middle of winter without appropriate shelter\u2014one plaintiff because of his visual impairment, mobility limitations, and reliance on a support animal; another plaintiff because of physical disabilities and a nervous condition that prevented her from using congregate shelters.\n\nThe court also rejected the City\u2019s argument that the case was moot, noting that although the City had partially cleared the encampment before receiving notice of the TRO, the plaintiffs had returned and the risk of eviction remained live. The order enjoined the City from conducting further enforcement or eviction actions at 8th and Harrison until a full hearing could be held.\n\nAt the subsequent hearing, the City offered to place one plaintiff in a private room at the Berkeley Inn (where he could keep his dog) and to place another plaintiff in a room at the Campus Motel, with agreed-upon accommodations including grab bars in the bathroom and storage space for recycling materials. In light of these offers, Judge Chen dissolved the TRO on December 22, 2023, but allowed it to remain in effect for each plaintiff until their respective placements became available and appropriately modified. 2023 WL 8879260.\n\nIn February 2024, the Berkeley City Manager\u2019s Office announced that all eviction efforts at 8th and Harrison would be suspended pending further direction from the court in a related case, Prado v. City of Berkeley [../../../../case/46634/]. The City cited, among other reasons, a desire to avoid further judicial setbacks.\n\nThe plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed.",
+    "target_paragraph": "This case arose from a city\u2019s plan to imminently clear an encampment of unhoused individuals with little notice.",
+    "target_paragraph_indices": [
+      0,
+      112
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            112
+          ],
+          [
+            114,
+            276
+          ],
+          [
+            1261,
+            1454
+          ]
+        ],
+        "annotation": {
+          "explanation": "City planned to imminently clear the encampment at 8th and Harrison; eviction notices were posted Dec. 8, 2023, stating clearance would occur Dec. 12, 2023, with little notice.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            0,
+            1,
+            4
+          ]
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "45223_p1",
+    "metadata": {
+      "case_id": "45223",
+      "paragraph_num": 1,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On December 11, 2023, three unhoused individuals filed suit against the City of Berkeley to prevent ..."
+    },
+    "source": "",
+    "target": "This case arose from a city\u2019s plan to imminently clear an encampment of unhoused individuals with little notice.\n\nOn December 11, 2023, three unhoused individuals filed suit against the City of Berkeley to prevent their eviction from an encampment at 8th and Harrison Streets. Proceeding pro se (that is, representing themselves), the plaintiffs filed their lawsuit in the U.S. District Court for the Northern District of California, where it was assigned to District Judge Edward M. Chen.\n\nThe plaintiffs, each of whom has a disability, alleged that the City was forcing them from the encampment without offering accessible shelter and without giving sufficient notice. They brought the following claims under 42 USC \u00a7 1983:\n\n\u2022 Exposure to State-Created Danger under the Fourteenth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Unreasonable Search and Seizure under the Fourth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Infliction of Cruel and Unusual Punishment under the Eighth Amendment to the U.S. Constitution\n\nThe plaintiffs sought a declaratory judgment and injunctive relief. They also moved for a temporary restraining order (TRO) the same day they filed their complaint. According to their motion for a TRO, the City of Berkeley had posted eviction notices three days earlier (on December 8th), warning that the encampment would be cleared on Tuesday, December 12. Plaintiffs argued the notices were vague, failed to identify adequate shelter options, and disproportionately harmed disabled residents.\n\nThe court granted the TRO on December 15, 2023. Filling in for Judge Chen on an emergency basis, District Judge Araceli Mart\u00ednez-Olgu\u00edn found that the plaintiffs had demonstrated \u201cserious questions going to the merits\u201d of their claims, and that the balance of hardships tipped \u201csharply in [their] favor.\u201d The court emphasized that the plaintiffs faced immediate and irreparable harm if evicted in the middle of winter without appropriate shelter\u2014one plaintiff because of his visual impairment, mobility limitations, and reliance on a support animal; another plaintiff because of physical disabilities and a nervous condition that prevented her from using congregate shelters.\n\nThe court also rejected the City\u2019s argument that the case was moot, noting that although the City had partially cleared the encampment before receiving notice of the TRO, the plaintiffs had returned and the risk of eviction remained live. The order enjoined the City from conducting further enforcement or eviction actions at 8th and Harrison until a full hearing could be held.\n\nAt the subsequent hearing, the City offered to place one plaintiff in a private room at the Berkeley Inn (where he could keep his dog) and to place another plaintiff in a room at the Campus Motel, with agreed-upon accommodations including grab bars in the bathroom and storage space for recycling materials. In light of these offers, Judge Chen dissolved the TRO on December 22, 2023, but allowed it to remain in effect for each plaintiff until their respective placements became available and appropriately modified. 2023 WL 8879260.\n\nIn February 2024, the Berkeley City Manager\u2019s Office announced that all eviction efforts at 8th and Harrison would be suspended pending further direction from the court in a related case, Prado v. City of Berkeley [../../../../case/46634/]. The City cited, among other reasons, a desire to avoid further judicial setbacks.\n\nThe plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed.",
+    "target_paragraph": "On December 11, 2023, three unhoused individuals filed suit against the City of Berkeley to prevent their eviction from an encampment at 8th and Harrison Streets. Proceeding pro se (that is, representing themselves), the plaintiffs filed their lawsuit in the U.S. District Court for the Northern District of California, where it was assigned to District Judge Edward M. Chen.",
+    "target_paragraph_indices": [
+      114,
+      489
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            114,
+            276
+          ],
+          [
+            1164,
+            1260
+          ]
+        ],
+        "annotation": {
+          "explanation": "December 11, 2023",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": [
+            1,
+            4
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            163,
+            276
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief to prevent eviction from the 8th and Harrison encampment",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            277,
+            489
+          ]
+        ],
+        "annotation": {
+          "explanation": "Pro se (self-represented plaintiffs)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            434,
+            489
+          ],
+          [
+            2958,
+            3034
+          ]
+        ],
+        "annotation": {
+          "explanation": "Edward Chen",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            1,
+            7
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            114,
+            202
+          ],
+          [
+            277,
+            489
+          ],
+          [
+            491,
+            670
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as three unhoused individuals, proceeding pro se, each of whom has a disability",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            114,
+            276
+          ],
+          [
+            2039,
+            2142
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Unhoused individual with visual impairment, mobility limitations, and reliance on a support animal",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            114,
+            276
+          ],
+          [
+            2143,
+            2268
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Unhoused individual with physical disabilities and a nervous condition that prevented her from using congregate shelters",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            114,
+            276
+          ],
+          [
+            491,
+            670
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Unhoused individual with a disability",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            114,
+            276
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: City of Berkeley",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            277,
+            489
+          ],
+          [
+            491,
+            670
+          ]
+        ],
+        "annotation": {
+          "explanation": "Three unhoused, pro se plaintiffs with disabilities alleged forced eviction without accessible shelter or sufficient notice, filing in the Northern District of California before Judge Edward M. Chen.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 9
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            114,
+            276
+          ],
+          [
+            1096,
+            1163
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on December 11, 2023, by three pro se plaintiffs against the City of Berkeley in the N.D. Cal., seeking declaratory judgment and injunctive relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            1,
+            4
+          ]
+        },
+        "id": 10
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            277,
+            489
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assigned to District Judge Edward M. Chen.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            114,
+            276
+          ],
+          [
+            1164,
+            1260
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a motion for a temporary restraining order (TRO) on December 11, 2023, the day they filed suit.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            1,
+            4
+          ]
+        },
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": "45223_p2",
+    "metadata": {
+      "case_id": "45223",
+      "paragraph_num": 2,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs, each of whom has a disability, alleged that the City was forcing them from the encam..."
+    },
+    "source": "",
+    "target": "This case arose from a city\u2019s plan to imminently clear an encampment of unhoused individuals with little notice.\n\nOn December 11, 2023, three unhoused individuals filed suit against the City of Berkeley to prevent their eviction from an encampment at 8th and Harrison Streets. Proceeding pro se (that is, representing themselves), the plaintiffs filed their lawsuit in the U.S. District Court for the Northern District of California, where it was assigned to District Judge Edward M. Chen.\n\nThe plaintiffs, each of whom has a disability, alleged that the City was forcing them from the encampment without offering accessible shelter and without giving sufficient notice. They brought the following claims under 42 USC \u00a7 1983:\n\n\u2022 Exposure to State-Created Danger under the Fourteenth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Unreasonable Search and Seizure under the Fourth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Infliction of Cruel and Unusual Punishment under the Eighth Amendment to the U.S. Constitution\n\nThe plaintiffs sought a declaratory judgment and injunctive relief. They also moved for a temporary restraining order (TRO) the same day they filed their complaint. According to their motion for a TRO, the City of Berkeley had posted eviction notices three days earlier (on December 8th), warning that the encampment would be cleared on Tuesday, December 12. Plaintiffs argued the notices were vague, failed to identify adequate shelter options, and disproportionately harmed disabled residents.\n\nThe court granted the TRO on December 15, 2023. Filling in for Judge Chen on an emergency basis, District Judge Araceli Mart\u00ednez-Olgu\u00edn found that the plaintiffs had demonstrated \u201cserious questions going to the merits\u201d of their claims, and that the balance of hardships tipped \u201csharply in [their] favor.\u201d The court emphasized that the plaintiffs faced immediate and irreparable harm if evicted in the middle of winter without appropriate shelter\u2014one plaintiff because of his visual impairment, mobility limitations, and reliance on a support animal; another plaintiff because of physical disabilities and a nervous condition that prevented her from using congregate shelters.\n\nThe court also rejected the City\u2019s argument that the case was moot, noting that although the City had partially cleared the encampment before receiving notice of the TRO, the plaintiffs had returned and the risk of eviction remained live. The order enjoined the City from conducting further enforcement or eviction actions at 8th and Harrison until a full hearing could be held.\n\nAt the subsequent hearing, the City offered to place one plaintiff in a private room at the Berkeley Inn (where he could keep his dog) and to place another plaintiff in a room at the Campus Motel, with agreed-upon accommodations including grab bars in the bathroom and storage space for recycling materials. In light of these offers, Judge Chen dissolved the TRO on December 22, 2023, but allowed it to remain in effect for each plaintiff until their respective placements became available and appropriately modified. 2023 WL 8879260.\n\nIn February 2024, the Berkeley City Manager\u2019s Office announced that all eviction efforts at 8th and Harrison would be suspended pending further direction from the court in a related case, Prado v. City of Berkeley [../../../../case/46634/]. The City cited, among other reasons, a desire to avoid further judicial setbacks.\n\nThe plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed.",
+    "target_paragraph": "The plaintiffs, each of whom has a disability, alleged that the City was forcing them from the encampment without offering accessible shelter and without giving sufficient notice. They brought the following claims under 42 USC \u00a7 1983:",
+    "target_paragraph_indices": [
+      491,
+      725
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            671,
+            725
+          ],
+          [
+            727,
+            1094
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims under 42 USC \u00a7 1983: (1) Exposure to State-Created Danger (Fourteenth Amendment; also Article I of the California Constitution), (2) Unreasonable Search and Seizure (Fourth Amendment; also Article I of the California Constitution), and (3) Infliction of Cruel and Unusual Punishment (Eighth Amendment).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            671,
+            725
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1983",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "45223_p3",
+    "metadata": {
+      "case_id": "45223",
+      "paragraph_num": 3,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "\u2022 Exposure to State-Created Danger under the Fourteenth Amendment to the U.S. Constitution and Artic..."
+    },
+    "source": "",
+    "target": "This case arose from a city\u2019s plan to imminently clear an encampment of unhoused individuals with little notice.\n\nOn December 11, 2023, three unhoused individuals filed suit against the City of Berkeley to prevent their eviction from an encampment at 8th and Harrison Streets. Proceeding pro se (that is, representing themselves), the plaintiffs filed their lawsuit in the U.S. District Court for the Northern District of California, where it was assigned to District Judge Edward M. Chen.\n\nThe plaintiffs, each of whom has a disability, alleged that the City was forcing them from the encampment without offering accessible shelter and without giving sufficient notice. They brought the following claims under 42 USC \u00a7 1983:\n\n\u2022 Exposure to State-Created Danger under the Fourteenth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Unreasonable Search and Seizure under the Fourth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Infliction of Cruel and Unusual Punishment under the Eighth Amendment to the U.S. Constitution\n\nThe plaintiffs sought a declaratory judgment and injunctive relief. They also moved for a temporary restraining order (TRO) the same day they filed their complaint. According to their motion for a TRO, the City of Berkeley had posted eviction notices three days earlier (on December 8th), warning that the encampment would be cleared on Tuesday, December 12. Plaintiffs argued the notices were vague, failed to identify adequate shelter options, and disproportionately harmed disabled residents.\n\nThe court granted the TRO on December 15, 2023. Filling in for Judge Chen on an emergency basis, District Judge Araceli Mart\u00ednez-Olgu\u00edn found that the plaintiffs had demonstrated \u201cserious questions going to the merits\u201d of their claims, and that the balance of hardships tipped \u201csharply in [their] favor.\u201d The court emphasized that the plaintiffs faced immediate and irreparable harm if evicted in the middle of winter without appropriate shelter\u2014one plaintiff because of his visual impairment, mobility limitations, and reliance on a support animal; another plaintiff because of physical disabilities and a nervous condition that prevented her from using congregate shelters.\n\nThe court also rejected the City\u2019s argument that the case was moot, noting that although the City had partially cleared the encampment before receiving notice of the TRO, the plaintiffs had returned and the risk of eviction remained live. The order enjoined the City from conducting further enforcement or eviction actions at 8th and Harrison until a full hearing could be held.\n\nAt the subsequent hearing, the City offered to place one plaintiff in a private room at the Berkeley Inn (where he could keep his dog) and to place another plaintiff in a room at the Campus Motel, with agreed-upon accommodations including grab bars in the bathroom and storage space for recycling materials. In light of these offers, Judge Chen dissolved the TRO on December 22, 2023, but allowed it to remain in effect for each plaintiff until their respective placements became available and appropriately modified. 2023 WL 8879260.\n\nIn February 2024, the Berkeley City Manager\u2019s Office announced that all eviction efforts at 8th and Harrison would be suspended pending further direction from the court in a related case, Prado v. City of Berkeley [../../../../case/46634/]. The City cited, among other reasons, a desire to avoid further judicial setbacks.\n\nThe plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed.",
+    "target_paragraph": "\u2022 Exposure to State-Created Danger under the Fourteenth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Unreasonable Search and Seizure under the Fourth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Infliction of Cruel and Unusual Punishment under the Eighth Amendment to the U.S. Constitution",
+    "target_paragraph_indices": [
+      727,
+      1094
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            727,
+            1094
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment to the U.S. Constitution (state-created danger claim)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            727,
+            1094
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourth Amendment to the U.S. Constitution (unreasonable search and seizure claim)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            727,
+            1094
+          ]
+        ],
+        "annotation": {
+          "explanation": "Eighth Amendment to the U.S. Constitution (cruel and unusual punishment claim)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            727,
+            995
+          ]
+        ],
+        "annotation": {
+          "explanation": "Article I of the California Constitution (invoked for state-created danger and unreasonable search and seizure claims)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "45223_p4",
+    "metadata": {
+      "case_id": "45223",
+      "paragraph_num": 4,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs sought a declaratory judgment and injunctive relief. They also moved for a temporary ..."
+    },
+    "source": "",
+    "target": "This case arose from a city\u2019s plan to imminently clear an encampment of unhoused individuals with little notice.\n\nOn December 11, 2023, three unhoused individuals filed suit against the City of Berkeley to prevent their eviction from an encampment at 8th and Harrison Streets. Proceeding pro se (that is, representing themselves), the plaintiffs filed their lawsuit in the U.S. District Court for the Northern District of California, where it was assigned to District Judge Edward M. Chen.\n\nThe plaintiffs, each of whom has a disability, alleged that the City was forcing them from the encampment without offering accessible shelter and without giving sufficient notice. They brought the following claims under 42 USC \u00a7 1983:\n\n\u2022 Exposure to State-Created Danger under the Fourteenth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Unreasonable Search and Seizure under the Fourth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Infliction of Cruel and Unusual Punishment under the Eighth Amendment to the U.S. Constitution\n\nThe plaintiffs sought a declaratory judgment and injunctive relief. They also moved for a temporary restraining order (TRO) the same day they filed their complaint. According to their motion for a TRO, the City of Berkeley had posted eviction notices three days earlier (on December 8th), warning that the encampment would be cleared on Tuesday, December 12. Plaintiffs argued the notices were vague, failed to identify adequate shelter options, and disproportionately harmed disabled residents.\n\nThe court granted the TRO on December 15, 2023. Filling in for Judge Chen on an emergency basis, District Judge Araceli Mart\u00ednez-Olgu\u00edn found that the plaintiffs had demonstrated \u201cserious questions going to the merits\u201d of their claims, and that the balance of hardships tipped \u201csharply in [their] favor.\u201d The court emphasized that the plaintiffs faced immediate and irreparable harm if evicted in the middle of winter without appropriate shelter\u2014one plaintiff because of his visual impairment, mobility limitations, and reliance on a support animal; another plaintiff because of physical disabilities and a nervous condition that prevented her from using congregate shelters.\n\nThe court also rejected the City\u2019s argument that the case was moot, noting that although the City had partially cleared the encampment before receiving notice of the TRO, the plaintiffs had returned and the risk of eviction remained live. The order enjoined the City from conducting further enforcement or eviction actions at 8th and Harrison until a full hearing could be held.\n\nAt the subsequent hearing, the City offered to place one plaintiff in a private room at the Berkeley Inn (where he could keep his dog) and to place another plaintiff in a room at the Campus Motel, with agreed-upon accommodations including grab bars in the bathroom and storage space for recycling materials. In light of these offers, Judge Chen dissolved the TRO on December 22, 2023, but allowed it to remain in effect for each plaintiff until their respective placements became available and appropriately modified. 2023 WL 8879260.\n\nIn February 2024, the Berkeley City Manager\u2019s Office announced that all eviction efforts at 8th and Harrison would be suspended pending further direction from the court in a related case, Prado v. City of Berkeley [../../../../case/46634/]. The City cited, among other reasons, a desire to avoid further judicial setbacks.\n\nThe plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed.",
+    "target_paragraph": "The plaintiffs sought a declaratory judgment and injunctive relief. They also moved for a temporary restraining order (TRO) the same day they filed their complaint. According to their motion for a TRO, the City of Berkeley had posted eviction notices three days earlier (on December 8th), warning that the encampment would be cleared on Tuesday, December 12. Plaintiffs argued the notices were vague, failed to identify adequate shelter options, and disproportionately harmed disabled residents.",
+    "target_paragraph_indices": [
+      1096,
+      1591
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1096,
+            1163
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1096,
+            1163
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1164,
+            1260
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order (TRO)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1455,
+            1591
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs contended the City\u2019s eviction notices were vague, did not identify adequate shelter options, and disproportionately harmed disabled residents.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1096,
+            1163
+          ],
+          [
+            1164,
+            1260
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs sought declaratory and injunctive relief and moved for a TRO the day they filed suit to prevent eviction.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1164,
+            1260
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs moved for a temporary restraining order (TRO) on December 11, 2023.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1164,
+            1260
+          ],
+          [
+            1593,
+            1640
+          ],
+          [
+            1641,
+            1897
+          ],
+          [
+            2270,
+            2508
+          ],
+          [
+            2509,
+            2648
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for temporary restraining order granted on Dec. 15, 2023 by Judge Araceli Mart\u00ednez-Olgu\u00edn; court found serious questions on the merits and hardships tipping sharply in plaintiffs\u2019 favor, rejected City\u2019s mootness argument, and enjoined further enforcement/evictions at 8th & Harrison pending a full hearing.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            4,
+            5,
+            6
+          ]
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "45223_p5",
+    "metadata": {
+      "case_id": "45223",
+      "paragraph_num": 5,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court granted the TRO on December 15, 2023. Filling in for Judge Chen on an emergency basis, Dis..."
+    },
+    "source": "",
+    "target": "This case arose from a city\u2019s plan to imminently clear an encampment of unhoused individuals with little notice.\n\nOn December 11, 2023, three unhoused individuals filed suit against the City of Berkeley to prevent their eviction from an encampment at 8th and Harrison Streets. Proceeding pro se (that is, representing themselves), the plaintiffs filed their lawsuit in the U.S. District Court for the Northern District of California, where it was assigned to District Judge Edward M. Chen.\n\nThe plaintiffs, each of whom has a disability, alleged that the City was forcing them from the encampment without offering accessible shelter and without giving sufficient notice. They brought the following claims under 42 USC \u00a7 1983:\n\n\u2022 Exposure to State-Created Danger under the Fourteenth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Unreasonable Search and Seizure under the Fourth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Infliction of Cruel and Unusual Punishment under the Eighth Amendment to the U.S. Constitution\n\nThe plaintiffs sought a declaratory judgment and injunctive relief. They also moved for a temporary restraining order (TRO) the same day they filed their complaint. According to their motion for a TRO, the City of Berkeley had posted eviction notices three days earlier (on December 8th), warning that the encampment would be cleared on Tuesday, December 12. Plaintiffs argued the notices were vague, failed to identify adequate shelter options, and disproportionately harmed disabled residents.\n\nThe court granted the TRO on December 15, 2023. Filling in for Judge Chen on an emergency basis, District Judge Araceli Mart\u00ednez-Olgu\u00edn found that the plaintiffs had demonstrated \u201cserious questions going to the merits\u201d of their claims, and that the balance of hardships tipped \u201csharply in [their] favor.\u201d The court emphasized that the plaintiffs faced immediate and irreparable harm if evicted in the middle of winter without appropriate shelter\u2014one plaintiff because of his visual impairment, mobility limitations, and reliance on a support animal; another plaintiff because of physical disabilities and a nervous condition that prevented her from using congregate shelters.\n\nThe court also rejected the City\u2019s argument that the case was moot, noting that although the City had partially cleared the encampment before receiving notice of the TRO, the plaintiffs had returned and the risk of eviction remained live. The order enjoined the City from conducting further enforcement or eviction actions at 8th and Harrison until a full hearing could be held.\n\nAt the subsequent hearing, the City offered to place one plaintiff in a private room at the Berkeley Inn (where he could keep his dog) and to place another plaintiff in a room at the Campus Motel, with agreed-upon accommodations including grab bars in the bathroom and storage space for recycling materials. In light of these offers, Judge Chen dissolved the TRO on December 22, 2023, but allowed it to remain in effect for each plaintiff until their respective placements became available and appropriately modified. 2023 WL 8879260.\n\nIn February 2024, the Berkeley City Manager\u2019s Office announced that all eviction efforts at 8th and Harrison would be suspended pending further direction from the court in a related case, Prado v. City of Berkeley [../../../../case/46634/]. The City cited, among other reasons, a desire to avoid further judicial setbacks.\n\nThe plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed.",
+    "target_paragraph": "The court granted the TRO on December 15, 2023. Filling in for Judge Chen on an emergency basis, District Judge Araceli Mart\u00ednez-Olgu\u00edn found that the plaintiffs had demonstrated \u201cserious questions going to the merits\u201d of their claims, and that the balance of hardships tipped \u201csharply in [their] favor.\u201d The court emphasized that the plaintiffs faced immediate and irreparable harm if evicted in the middle of winter without appropriate shelter\u2014one plaintiff because of his visual impairment, mobility limitations, and reliance on a support animal; another plaintiff because of physical disabilities and a nervous condition that prevented her from using congregate shelters.",
+    "target_paragraph_indices": [
+      1593,
+      2268
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1641,
+            1897
+          ]
+        ],
+        "annotation": {
+          "explanation": "Araceli Mart\u00ednez-Olgu\u00edn",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1593,
+            1640
+          ],
+          [
+            2509,
+            2648
+          ]
+        ],
+        "annotation": {
+          "explanation": "December 15, 2023: Temporary restraining order granted; City enjoined from conducting further enforcement or eviction actions at 8th and Harrison until a full hearing could be held.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1593,
+            1640
+          ],
+          [
+            1641,
+            1897
+          ],
+          [
+            1898,
+            2268
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court found immediate, irreparable harm risk in winter and granted a TRO, citing plaintiffs\u2019 disabilities (visual impairment, mobility limits, support animal; physical disabilities and a nervous condition barring congregate shelters).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1593,
+            1640
+          ],
+          [
+            2509,
+            2648
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court granted the TRO on December 15, 2023, enjoining the City from further enforcement/evictions at 8th and Harrison pending a full hearing.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1593,
+            1640
+          ],
+          [
+            2509,
+            2648
+          ]
+        ],
+        "annotation": {
+          "explanation": "City of Berkeley is enjoined from conducting further enforcement or eviction actions at the 8th and Harrison encampment until a full hearing could be held.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1593,
+            1640
+          ],
+          [
+            2509,
+            2648
+          ]
+        ],
+        "annotation": {
+          "explanation": "City enjoined from conducting any enforcement or eviction actions at the 8th and Harrison encampment until a full hearing.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1593,
+            1640
+          ],
+          [
+            1641,
+            1897
+          ],
+          [
+            1898,
+            2268
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO granted on December 15, 2023 by District Judge Araceli Mart\u00ednez-Olgu\u00edn, based on serious questions going to the merits, hardships tipping sharply in plaintiffs\u2019 favor, and immediate irreparable harm.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "45223_p6",
+    "metadata": {
+      "case_id": "45223",
+      "paragraph_num": 6,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court also rejected the City\u2019s argument that the case was moot, noting that although the City ha..."
+    },
+    "source": "",
+    "target": "This case arose from a city\u2019s plan to imminently clear an encampment of unhoused individuals with little notice.\n\nOn December 11, 2023, three unhoused individuals filed suit against the City of Berkeley to prevent their eviction from an encampment at 8th and Harrison Streets. Proceeding pro se (that is, representing themselves), the plaintiffs filed their lawsuit in the U.S. District Court for the Northern District of California, where it was assigned to District Judge Edward M. Chen.\n\nThe plaintiffs, each of whom has a disability, alleged that the City was forcing them from the encampment without offering accessible shelter and without giving sufficient notice. They brought the following claims under 42 USC \u00a7 1983:\n\n\u2022 Exposure to State-Created Danger under the Fourteenth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Unreasonable Search and Seizure under the Fourth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Infliction of Cruel and Unusual Punishment under the Eighth Amendment to the U.S. Constitution\n\nThe plaintiffs sought a declaratory judgment and injunctive relief. They also moved for a temporary restraining order (TRO) the same day they filed their complaint. According to their motion for a TRO, the City of Berkeley had posted eviction notices three days earlier (on December 8th), warning that the encampment would be cleared on Tuesday, December 12. Plaintiffs argued the notices were vague, failed to identify adequate shelter options, and disproportionately harmed disabled residents.\n\nThe court granted the TRO on December 15, 2023. Filling in for Judge Chen on an emergency basis, District Judge Araceli Mart\u00ednez-Olgu\u00edn found that the plaintiffs had demonstrated \u201cserious questions going to the merits\u201d of their claims, and that the balance of hardships tipped \u201csharply in [their] favor.\u201d The court emphasized that the plaintiffs faced immediate and irreparable harm if evicted in the middle of winter without appropriate shelter\u2014one plaintiff because of his visual impairment, mobility limitations, and reliance on a support animal; another plaintiff because of physical disabilities and a nervous condition that prevented her from using congregate shelters.\n\nThe court also rejected the City\u2019s argument that the case was moot, noting that although the City had partially cleared the encampment before receiving notice of the TRO, the plaintiffs had returned and the risk of eviction remained live. The order enjoined the City from conducting further enforcement or eviction actions at 8th and Harrison until a full hearing could be held.\n\nAt the subsequent hearing, the City offered to place one plaintiff in a private room at the Berkeley Inn (where he could keep his dog) and to place another plaintiff in a room at the Campus Motel, with agreed-upon accommodations including grab bars in the bathroom and storage space for recycling materials. In light of these offers, Judge Chen dissolved the TRO on December 22, 2023, but allowed it to remain in effect for each plaintiff until their respective placements became available and appropriately modified. 2023 WL 8879260.\n\nIn February 2024, the Berkeley City Manager\u2019s Office announced that all eviction efforts at 8th and Harrison would be suspended pending further direction from the court in a related case, Prado v. City of Berkeley [../../../../case/46634/]. The City cited, among other reasons, a desire to avoid further judicial setbacks.\n\nThe plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed.",
+    "target_paragraph": "The court also rejected the City\u2019s argument that the case was moot, noting that although the City had partially cleared the encampment before receiving notice of the TRO, the plaintiffs had returned and the risk of eviction remained live. The order enjoined the City from conducting further enforcement or eviction actions at 8th and Harrison until a full hearing could be held.",
+    "target_paragraph_indices": [
+      2270,
+      2648
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2509,
+            2648
+          ]
+        ],
+        "annotation": {
+          "explanation": "until a full hearing could be held: The order enjoined the City from conducting further enforcement or eviction actions at 8th and Harrison.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2270,
+            2508
+          ],
+          [
+            2509,
+            2648
+          ]
+        ],
+        "annotation": {
+          "explanation": "Despite partial clearance before notice of the TRO, plaintiffs returned and eviction risk remained; the court enjoined further enforcement at 8th and Harrison pending a full hearing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2270,
+            2508
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court rejected City\u2019s mootness argument in granting the TRO, finding the controversy remained live despite partial clearing.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2509,
+            2648
+          ]
+        ],
+        "annotation": {
+          "explanation": "Scope/scheduling from TRO: City enjoined from further enforcement/evictions at 8th and Harrison pending a full hearing.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "45223_p7",
+    "metadata": {
+      "case_id": "45223",
+      "paragraph_num": 7,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "At the subsequent hearing, the City offered to place one plaintiff in a private room at the Berkeley..."
+    },
+    "source": "",
+    "target": "This case arose from a city\u2019s plan to imminently clear an encampment of unhoused individuals with little notice.\n\nOn December 11, 2023, three unhoused individuals filed suit against the City of Berkeley to prevent their eviction from an encampment at 8th and Harrison Streets. Proceeding pro se (that is, representing themselves), the plaintiffs filed their lawsuit in the U.S. District Court for the Northern District of California, where it was assigned to District Judge Edward M. Chen.\n\nThe plaintiffs, each of whom has a disability, alleged that the City was forcing them from the encampment without offering accessible shelter and without giving sufficient notice. They brought the following claims under 42 USC \u00a7 1983:\n\n\u2022 Exposure to State-Created Danger under the Fourteenth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Unreasonable Search and Seizure under the Fourth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Infliction of Cruel and Unusual Punishment under the Eighth Amendment to the U.S. Constitution\n\nThe plaintiffs sought a declaratory judgment and injunctive relief. They also moved for a temporary restraining order (TRO) the same day they filed their complaint. According to their motion for a TRO, the City of Berkeley had posted eviction notices three days earlier (on December 8th), warning that the encampment would be cleared on Tuesday, December 12. Plaintiffs argued the notices were vague, failed to identify adequate shelter options, and disproportionately harmed disabled residents.\n\nThe court granted the TRO on December 15, 2023. Filling in for Judge Chen on an emergency basis, District Judge Araceli Mart\u00ednez-Olgu\u00edn found that the plaintiffs had demonstrated \u201cserious questions going to the merits\u201d of their claims, and that the balance of hardships tipped \u201csharply in [their] favor.\u201d The court emphasized that the plaintiffs faced immediate and irreparable harm if evicted in the middle of winter without appropriate shelter\u2014one plaintiff because of his visual impairment, mobility limitations, and reliance on a support animal; another plaintiff because of physical disabilities and a nervous condition that prevented her from using congregate shelters.\n\nThe court also rejected the City\u2019s argument that the case was moot, noting that although the City had partially cleared the encampment before receiving notice of the TRO, the plaintiffs had returned and the risk of eviction remained live. The order enjoined the City from conducting further enforcement or eviction actions at 8th and Harrison until a full hearing could be held.\n\nAt the subsequent hearing, the City offered to place one plaintiff in a private room at the Berkeley Inn (where he could keep his dog) and to place another plaintiff in a room at the Campus Motel, with agreed-upon accommodations including grab bars in the bathroom and storage space for recycling materials. In light of these offers, Judge Chen dissolved the TRO on December 22, 2023, but allowed it to remain in effect for each plaintiff until their respective placements became available and appropriately modified. 2023 WL 8879260.\n\nIn February 2024, the Berkeley City Manager\u2019s Office announced that all eviction efforts at 8th and Harrison would be suspended pending further direction from the court in a related case, Prado v. City of Berkeley [../../../../case/46634/]. The City cited, among other reasons, a desire to avoid further judicial setbacks.\n\nThe plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed.",
+    "target_paragraph": "At the subsequent hearing, the City offered to place one plaintiff in a private room at the Berkeley Inn (where he could keep his dog) and to place another plaintiff in a room at the Campus Motel, with agreed-upon accommodations including grab bars in the bathroom and storage space for recycling materials. In light of these offers, Judge Chen dissolved the TRO on December 22, 2023, but allowed it to remain in effect for each plaintiff until their respective placements became available and appropriately modified. 2023 WL 8879260.",
+    "target_paragraph_indices": [
+      2650,
+      3184
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3168,
+            3184
+          ]
+        ],
+        "annotation": {
+          "explanation": "2023 WL 8879260",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2958,
+            3167
+          ]
+        ],
+        "annotation": {
+          "explanation": "until their respective placements became available and appropriately modified: Judge Chen dissolved the TRO on December 22, 2023, but allowed it to remain in effect for each plaintiff.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            2958,
+            3167
+          ],
+          [
+            3510,
+            3605
+          ]
+        ],
+        "annotation": {
+          "explanation": "[No].",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": [
+            7,
+            9
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2958,
+            3167
+          ],
+          [
+            3168,
+            3184
+          ]
+        ],
+        "annotation": {
+          "explanation": "December 22, 2023: TRO dissolved, with the TRO to remain in effect for each plaintiff until their respective placements became available and appropriately modified.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2650,
+            2957
+          ],
+          [
+            2958,
+            3184
+          ]
+        ],
+        "annotation": {
+          "explanation": "City offered individualized accommodations: a private room at the Berkeley Inn allowing a dog and a room at the Campus Motel with grab bars and storage; TRO dissolved Dec. 22, 2023, but stayed in effect until placements were available and modified.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2958,
+            3184
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order dissolving TRO issued on December 22, 2023 (TRO to remain in effect for each plaintiff until their placements became available with required modifications) (2023 WL 8879260).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2650,
+            2957
+          ],
+          [
+            2958,
+            3167
+          ]
+        ],
+        "annotation": {
+          "explanation": "On Dec. 22, 2023, the court dissolved the TRO but ordered that TRO protections remain in effect for each plaintiff until the City\u2019s offered placements became available and appropriately modified\u2014i.e., one plaintiff to receive a private room at the Berkeley Inn permitting his dog, and another to receive a room at the Campus Motel with agreed accommodations including bathroom grab bars and storage for recycling materials.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2650,
+            2957
+          ],
+          [
+            2958,
+            3167
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO dissolved but remained in effect as to each plaintiff until their offered placements (including accommodations) became available and appropriately modified; until then, the City could not proceed with enforcement/eviction against those plaintiffs.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2650,
+            2957
+          ]
+        ],
+        "annotation": {
+          "explanation": "Subsequent hearing: City offered individualized placements and accommodations (Berkeley Inn with dog, Campus Motel with grab bars and storage).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2958,
+            3184
+          ]
+        ],
+        "annotation": {
+          "explanation": "On December 22, 2023, Judge Chen dissolved the TRO, with a tailored continuation for each plaintiff until their placements were available and modified as agreed (2023 WL 8879260).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2650,
+            2957
+          ],
+          [
+            2958,
+            3184
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order dissolving TRO on Dec. 22, 2023 by Judge Edward M. Chen; TRO remained in effect for each plaintiff until their offered placements were available and appropriately modified (2023 WL 8879260).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "45223_p8",
+    "metadata": {
+      "case_id": "45223",
+      "paragraph_num": 8,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In February 2024, the Berkeley City Manager\u2019s Office announced that all eviction efforts at 8th and ..."
+    },
+    "source": "",
+    "target": "This case arose from a city\u2019s plan to imminently clear an encampment of unhoused individuals with little notice.\n\nOn December 11, 2023, three unhoused individuals filed suit against the City of Berkeley to prevent their eviction from an encampment at 8th and Harrison Streets. Proceeding pro se (that is, representing themselves), the plaintiffs filed their lawsuit in the U.S. District Court for the Northern District of California, where it was assigned to District Judge Edward M. Chen.\n\nThe plaintiffs, each of whom has a disability, alleged that the City was forcing them from the encampment without offering accessible shelter and without giving sufficient notice. They brought the following claims under 42 USC \u00a7 1983:\n\n\u2022 Exposure to State-Created Danger under the Fourteenth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Unreasonable Search and Seizure under the Fourth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Infliction of Cruel and Unusual Punishment under the Eighth Amendment to the U.S. Constitution\n\nThe plaintiffs sought a declaratory judgment and injunctive relief. They also moved for a temporary restraining order (TRO) the same day they filed their complaint. According to their motion for a TRO, the City of Berkeley had posted eviction notices three days earlier (on December 8th), warning that the encampment would be cleared on Tuesday, December 12. Plaintiffs argued the notices were vague, failed to identify adequate shelter options, and disproportionately harmed disabled residents.\n\nThe court granted the TRO on December 15, 2023. Filling in for Judge Chen on an emergency basis, District Judge Araceli Mart\u00ednez-Olgu\u00edn found that the plaintiffs had demonstrated \u201cserious questions going to the merits\u201d of their claims, and that the balance of hardships tipped \u201csharply in [their] favor.\u201d The court emphasized that the plaintiffs faced immediate and irreparable harm if evicted in the middle of winter without appropriate shelter\u2014one plaintiff because of his visual impairment, mobility limitations, and reliance on a support animal; another plaintiff because of physical disabilities and a nervous condition that prevented her from using congregate shelters.\n\nThe court also rejected the City\u2019s argument that the case was moot, noting that although the City had partially cleared the encampment before receiving notice of the TRO, the plaintiffs had returned and the risk of eviction remained live. The order enjoined the City from conducting further enforcement or eviction actions at 8th and Harrison until a full hearing could be held.\n\nAt the subsequent hearing, the City offered to place one plaintiff in a private room at the Berkeley Inn (where he could keep his dog) and to place another plaintiff in a room at the Campus Motel, with agreed-upon accommodations including grab bars in the bathroom and storage space for recycling materials. In light of these offers, Judge Chen dissolved the TRO on December 22, 2023, but allowed it to remain in effect for each plaintiff until their respective placements became available and appropriately modified. 2023 WL 8879260.\n\nIn February 2024, the Berkeley City Manager\u2019s Office announced that all eviction efforts at 8th and Harrison would be suspended pending further direction from the court in a related case, Prado v. City of Berkeley [../../../../case/46634/]. The City cited, among other reasons, a desire to avoid further judicial setbacks.\n\nThe plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed.",
+    "target_paragraph": "In February 2024, the Berkeley City Manager\u2019s Office announced that all eviction efforts at 8th and Harrison would be suspended pending further direction from the court in a related case, Prado v. City of Berkeley [../../../../case/46634/]. The City cited, among other reasons, a desire to avoid further judicial setbacks.",
+    "target_paragraph_indices": [
+      3186,
+      3508
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            3186,
+            3508
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: Prado v. City of Berkeley (case code ../../../../case/46634/)\u2014the City suspended eviction efforts pending further direction in that case.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3186,
+            3508
+          ]
+        ],
+        "annotation": {
+          "explanation": "As background, in Feb. 2024 the City suspended eviction efforts at 8th and Harrison pending guidance in a related case, citing a desire to avoid further judicial setbacks.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3186,
+            3426
+          ]
+        ],
+        "annotation": {
+          "explanation": "February 2024: City suspended eviction efforts at 8th and Harrison pending further direction in related case Prado v. City of Berkeley.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "45223_p9",
+    "metadata": {
+      "case_id": "45223",
+      "paragraph_num": 9,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed."
+    },
+    "source": "",
+    "target": "This case arose from a city\u2019s plan to imminently clear an encampment of unhoused individuals with little notice.\n\nOn December 11, 2023, three unhoused individuals filed suit against the City of Berkeley to prevent their eviction from an encampment at 8th and Harrison Streets. Proceeding pro se (that is, representing themselves), the plaintiffs filed their lawsuit in the U.S. District Court for the Northern District of California, where it was assigned to District Judge Edward M. Chen.\n\nThe plaintiffs, each of whom has a disability, alleged that the City was forcing them from the encampment without offering accessible shelter and without giving sufficient notice. They brought the following claims under 42 USC \u00a7 1983:\n\n\u2022 Exposure to State-Created Danger under the Fourteenth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Unreasonable Search and Seizure under the Fourth Amendment to the U.S. Constitution and Article I of the California Constitution   \u2022 Infliction of Cruel and Unusual Punishment under the Eighth Amendment to the U.S. Constitution\n\nThe plaintiffs sought a declaratory judgment and injunctive relief. They also moved for a temporary restraining order (TRO) the same day they filed their complaint. According to their motion for a TRO, the City of Berkeley had posted eviction notices three days earlier (on December 8th), warning that the encampment would be cleared on Tuesday, December 12. Plaintiffs argued the notices were vague, failed to identify adequate shelter options, and disproportionately harmed disabled residents.\n\nThe court granted the TRO on December 15, 2023. Filling in for Judge Chen on an emergency basis, District Judge Araceli Mart\u00ednez-Olgu\u00edn found that the plaintiffs had demonstrated \u201cserious questions going to the merits\u201d of their claims, and that the balance of hardships tipped \u201csharply in [their] favor.\u201d The court emphasized that the plaintiffs faced immediate and irreparable harm if evicted in the middle of winter without appropriate shelter\u2014one plaintiff because of his visual impairment, mobility limitations, and reliance on a support animal; another plaintiff because of physical disabilities and a nervous condition that prevented her from using congregate shelters.\n\nThe court also rejected the City\u2019s argument that the case was moot, noting that although the City had partially cleared the encampment before receiving notice of the TRO, the plaintiffs had returned and the risk of eviction remained live. The order enjoined the City from conducting further enforcement or eviction actions at 8th and Harrison until a full hearing could be held.\n\nAt the subsequent hearing, the City offered to place one plaintiff in a private room at the Berkeley Inn (where he could keep his dog) and to place another plaintiff in a room at the Campus Motel, with agreed-upon accommodations including grab bars in the bathroom and storage space for recycling materials. In light of these offers, Judge Chen dissolved the TRO on December 22, 2023, but allowed it to remain in effect for each plaintiff until their respective placements became available and appropriately modified. 2023 WL 8879260.\n\nIn February 2024, the Berkeley City Manager\u2019s Office announced that all eviction efforts at 8th and Harrison would be suspended pending further direction from the court in a related case, Prado v. City of Berkeley [../../../../case/46634/]. The City cited, among other reasons, a desire to avoid further judicial setbacks.\n\nThe plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed.",
+    "target_paragraph": "The plaintiffs voluntarily dismissed their claims on December 5, 2024, and this case is closed.",
+    "target_paragraph_indices": [
+      3510,
+      3605
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3510,
+            3605
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs voluntarily dismissed the case on Dec. 5, 2024; case closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3510,
+            3605
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a voluntary dismissal on December 5, 2024; case closed.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3510,
+            3605
+          ]
+        ],
+        "annotation": {
+          "explanation": "Voluntary dismissal on December 5, 2024; case closed (no trial information provided in the summary).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  }
+]

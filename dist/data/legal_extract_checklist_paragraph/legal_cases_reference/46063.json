@@ -1,0 +1,972 @@
+[
+  {
+    "id": "46063_p0",
+    "metadata": {
+      "case_id": "46063",
+      "paragraph_num": 0,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged the Department of Education\u2019s decision to allow the Department of Government Ef..."
+    },
+    "source": "",
+    "target": "This case challenged the Department of Education\u2019s decision to allow the Department of Government Efficiency (DOGE) to access sensitive student financial aid records.\n\nWhen President Trump was inaugurated on January 20, 2025, one of his first acts was the issuance of an executive order establishing a \u201cDepartment of Government Efficiency.\u201d In the executive order, President Trump renamed the United States Digital Service as the United States DOGE Service (USDS) and ordered the USDS administrator to work with Agency Heads to promote data collection synchronization and ensure data integrity. \u00a0Since the executive order, DOGE staffers have gained access to a \"financial aid dataset containing personal information for millions of students enrolled in the federal student aid program.\"\n\nOn February 7, 2025, the University of California Student Association, a nonprofit association of undergraduate students at the University of California campuses, filed this lawsuit in U.S. District Court for the District of Columbia by against the Department of Education and its Secretary, seeking to halt Defendants' disclosure of sensitive personal and financial information to DOGE. Plaintiff alleged that Defendants' release of sensitive student information--including their Social Security numbers, date of birth, and financial information--was unlawful. On Count I, Plaintiff alleged that Defendants' actions were \"contrary to law\" in violation of the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A); the Internal Revenue Code, 26 U.S.C. \u00a7 6103; and the Privacy Act. On Count II, Plaintiffs alleged that Defendants' action was \"arbitrary and capricious\" under the APA, 5 U.S.C. \u00a7 706(2)(A). On Count III, Plaintiffs alleged that Defendants' action constituted an \"excess of statutory authority\" under the APA, 5 U.S.C. \u00a7 706(2)(C). Plaintiffs sought declaratory and injunctive relief enjoining Defendants from continuing to permit such access or obtain such personal information and ensuring that any future disclosure of information occurs only in accordance with the law.\n\nThe case was assigned to Judge Randolph D. Moss.\n\nOn Feb. 10, 2025, plaintiffs sought a temporary restraining order (TRO); after briefing and a hearing on Feb. 14, Judge Moss took the motion under advisement.\n\nOn February 17, the court denied the TRO. The court found that \u201cmere access\u201d to personal data by government employees lacking authorization to view such data did not create an \u201cirreparable injury\u201d necessary for the grant of a TRO. The court reasoned that the dissemination of information is an irreparable injury where highly sensitive information is made public. Here, the Defendants\u2019 staffers were required to keep the private information confidential in accordance with the Privacy Act; since there was no public disclosure of information, the court found that there was no irreparable injury.\n\nPlaintiffs sought an order for expedited discovery. Citing the court's order in New Mexico v. Musk [../../../../case/46121/], No. 25-cv-429 in a notice for supplemental authority, Plaintiffs argued that expedited discovery in support of\u00a0 a preliminary injunction motion would be reasonable in this case. This motion was denied on March 18.\n\nOn April 8, Defendants filed a motion to dismiss. The following day, Plaintiffs moved to voluntarily dismiss the case. On April 16, the court ordered that the case is dismissed without prejudice.\n\nThis case is closed.",
+    "target_paragraph": "This case challenged the Department of Education\u2019s decision to allow the Department of Government Efficiency (DOGE) to access sensitive student financial aid records.",
+    "target_paragraph_indices": [
+      0,
+      166
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            166
+          ]
+        ],
+        "annotation": {
+          "explanation": "Core event: Department of Education allowed DOGE to access sensitive student financial aid records.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46063_p1",
+    "metadata": {
+      "case_id": "46063",
+      "paragraph_num": 1,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "When President Trump was inaugurated on January 20, 2025, one of his first acts was the issuance of ..."
+    },
+    "source": "",
+    "target": "This case challenged the Department of Education\u2019s decision to allow the Department of Government Efficiency (DOGE) to access sensitive student financial aid records.\n\nWhen President Trump was inaugurated on January 20, 2025, one of his first acts was the issuance of an executive order establishing a \u201cDepartment of Government Efficiency.\u201d In the executive order, President Trump renamed the United States Digital Service as the United States DOGE Service (USDS) and ordered the USDS administrator to work with Agency Heads to promote data collection synchronization and ensure data integrity. \u00a0Since the executive order, DOGE staffers have gained access to a \"financial aid dataset containing personal information for millions of students enrolled in the federal student aid program.\"\n\nOn February 7, 2025, the University of California Student Association, a nonprofit association of undergraduate students at the University of California campuses, filed this lawsuit in U.S. District Court for the District of Columbia by against the Department of Education and its Secretary, seeking to halt Defendants' disclosure of sensitive personal and financial information to DOGE. Plaintiff alleged that Defendants' release of sensitive student information--including their Social Security numbers, date of birth, and financial information--was unlawful. On Count I, Plaintiff alleged that Defendants' actions were \"contrary to law\" in violation of the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A); the Internal Revenue Code, 26 U.S.C. \u00a7 6103; and the Privacy Act. On Count II, Plaintiffs alleged that Defendants' action was \"arbitrary and capricious\" under the APA, 5 U.S.C. \u00a7 706(2)(A). On Count III, Plaintiffs alleged that Defendants' action constituted an \"excess of statutory authority\" under the APA, 5 U.S.C. \u00a7 706(2)(C). Plaintiffs sought declaratory and injunctive relief enjoining Defendants from continuing to permit such access or obtain such personal information and ensuring that any future disclosure of information occurs only in accordance with the law.\n\nThe case was assigned to Judge Randolph D. Moss.\n\nOn Feb. 10, 2025, plaintiffs sought a temporary restraining order (TRO); after briefing and a hearing on Feb. 14, Judge Moss took the motion under advisement.\n\nOn February 17, the court denied the TRO. The court found that \u201cmere access\u201d to personal data by government employees lacking authorization to view such data did not create an \u201cirreparable injury\u201d necessary for the grant of a TRO. The court reasoned that the dissemination of information is an irreparable injury where highly sensitive information is made public. Here, the Defendants\u2019 staffers were required to keep the private information confidential in accordance with the Privacy Act; since there was no public disclosure of information, the court found that there was no irreparable injury.\n\nPlaintiffs sought an order for expedited discovery. Citing the court's order in New Mexico v. Musk [../../../../case/46121/], No. 25-cv-429 in a notice for supplemental authority, Plaintiffs argued that expedited discovery in support of\u00a0 a preliminary injunction motion would be reasonable in this case. This motion was denied on March 18.\n\nOn April 8, Defendants filed a motion to dismiss. The following day, Plaintiffs moved to voluntarily dismiss the case. On April 16, the court ordered that the case is dismissed without prejudice.\n\nThis case is closed.",
+    "target_paragraph": "When President Trump was inaugurated on January 20, 2025, one of his first acts was the issuance of an executive order establishing a \u201cDepartment of Government Efficiency.\u201d In the executive order, President Trump renamed the United States Digital Service as the United States DOGE Service (USDS) and ordered the USDS administrator to work with Agency Heads to promote data collection synchronization and ensure data integrity. \u00a0Since the executive order, DOGE staffers have gained access to a \"financial aid dataset containing personal information for millions of students enrolled in the federal student aid program.\"",
+    "target_paragraph_indices": [
+      168,
+      786
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            168,
+            594
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 20, 2025: Executive order establishing the Department of Government Efficiency, renaming the United States Digital Service as the United States DOGE Service (USDS), and ordering the USDS administrator to work with Agency Heads to promote data collection synchronization and ensure data integrity.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            168,
+            594
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: January 20, 2025 executive order established DOGE, renamed USDS to USDS (DOGE Service), and directed data synchronization and integrity efforts.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            596,
+            786
+          ]
+        ],
+        "annotation": {
+          "explanation": "Factual access: DOGE staffers accessed a financial aid dataset with personal information for millions of federal student aid recipients.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46063_p2",
+    "metadata": {
+      "case_id": "46063",
+      "paragraph_num": 2,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On February 7, 2025, the University of California Student Association, a nonprofit association of un..."
+    },
+    "source": "",
+    "target": "This case challenged the Department of Education\u2019s decision to allow the Department of Government Efficiency (DOGE) to access sensitive student financial aid records.\n\nWhen President Trump was inaugurated on January 20, 2025, one of his first acts was the issuance of an executive order establishing a \u201cDepartment of Government Efficiency.\u201d In the executive order, President Trump renamed the United States Digital Service as the United States DOGE Service (USDS) and ordered the USDS administrator to work with Agency Heads to promote data collection synchronization and ensure data integrity. \u00a0Since the executive order, DOGE staffers have gained access to a \"financial aid dataset containing personal information for millions of students enrolled in the federal student aid program.\"\n\nOn February 7, 2025, the University of California Student Association, a nonprofit association of undergraduate students at the University of California campuses, filed this lawsuit in U.S. District Court for the District of Columbia by against the Department of Education and its Secretary, seeking to halt Defendants' disclosure of sensitive personal and financial information to DOGE. Plaintiff alleged that Defendants' release of sensitive student information--including their Social Security numbers, date of birth, and financial information--was unlawful. On Count I, Plaintiff alleged that Defendants' actions were \"contrary to law\" in violation of the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A); the Internal Revenue Code, 26 U.S.C. \u00a7 6103; and the Privacy Act. On Count II, Plaintiffs alleged that Defendants' action was \"arbitrary and capricious\" under the APA, 5 U.S.C. \u00a7 706(2)(A). On Count III, Plaintiffs alleged that Defendants' action constituted an \"excess of statutory authority\" under the APA, 5 U.S.C. \u00a7 706(2)(C). Plaintiffs sought declaratory and injunctive relief enjoining Defendants from continuing to permit such access or obtain such personal information and ensuring that any future disclosure of information occurs only in accordance with the law.\n\nThe case was assigned to Judge Randolph D. Moss.\n\nOn Feb. 10, 2025, plaintiffs sought a temporary restraining order (TRO); after briefing and a hearing on Feb. 14, Judge Moss took the motion under advisement.\n\nOn February 17, the court denied the TRO. The court found that \u201cmere access\u201d to personal data by government employees lacking authorization to view such data did not create an \u201cirreparable injury\u201d necessary for the grant of a TRO. The court reasoned that the dissemination of information is an irreparable injury where highly sensitive information is made public. Here, the Defendants\u2019 staffers were required to keep the private information confidential in accordance with the Privacy Act; since there was no public disclosure of information, the court found that there was no irreparable injury.\n\nPlaintiffs sought an order for expedited discovery. Citing the court's order in New Mexico v. Musk [../../../../case/46121/], No. 25-cv-429 in a notice for supplemental authority, Plaintiffs argued that expedited discovery in support of\u00a0 a preliminary injunction motion would be reasonable in this case. This motion was denied on March 18.\n\nOn April 8, Defendants filed a motion to dismiss. The following day, Plaintiffs moved to voluntarily dismiss the case. On April 16, the court ordered that the case is dismissed without prejudice.\n\nThis case is closed.",
+    "target_paragraph": "On February 7, 2025, the University of California Student Association, a nonprofit association of undergraduate students at the University of California campuses, filed this lawsuit in U.S. District Court for the District of Columbia by against the Department of Education and its Secretary, seeking to halt Defendants' disclosure of sensitive personal and financial information to DOGE. Plaintiff alleged that Defendants' release of sensitive student information--including their Social Security numbers, date of birth, and financial information--was unlawful. On Count I, Plaintiff alleged that Defendants' actions were \"contrary to law\" in violation of the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A); the Internal Revenue Code, 26 U.S.C. \u00a7 6103; and the Privacy Act. On Count II, Plaintiffs alleged that Defendants' action was \"arbitrary and capricious\" under the APA, 5 U.S.C. \u00a7 706(2)(A). On Count III, Plaintiffs alleged that Defendants' action constituted an \"excess of statutory authority\" under the APA, 5 U.S.C. \u00a7 706(2)(C). Plaintiffs sought declaratory and injunctive relief enjoining Defendants from continuing to permit such access or obtain such personal information and ensuring that any future disclosure of information occurs only in accordance with the law.",
+    "target_paragraph_indices": [
+      788,
+      2078
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            788,
+            1175
+          ]
+        ],
+        "annotation": {
+          "explanation": "February 7, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1350,
+            1571
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act, 5 U.S.C. \u00a7 706(2)(A) \u2014 \u201ccontrary to law\u201d (Count I)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1350,
+            1571
+          ]
+        ],
+        "annotation": {
+          "explanation": "Internal Revenue Code, 26 U.S.C. \u00a7 6103 \u2014 alleged violation (part of Count I)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1350,
+            1571
+          ]
+        ],
+        "annotation": {
+          "explanation": "Privacy Act \u2014 alleged violation (part of Count I)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1572,
+            1695
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act, 5 U.S.C. \u00a7 706(2)(A) \u2014 \u201carbitrary and capricious\u201d (Count II)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1696,
+            1836
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act, 5 U.S.C. \u00a7 706(2)(C) \u2014 \u201cexcess of statutory authority\u201d (Count III)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1350,
+            1571
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A) \u2013 \"contrary to law\"",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1572,
+            1695
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A) \u2013 \"arbitrary and capricious\"",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1696,
+            1836
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(C) \u2013 \"in excess of statutory authority\"",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1350,
+            1571
+          ]
+        ],
+        "annotation": {
+          "explanation": "Internal Revenue Code, 26 U.S.C. \u00a7 6103",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1350,
+            1571
+          ]
+        ],
+        "annotation": {
+          "explanation": "Privacy Act",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1837,
+            2078
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1080,
+            1175
+          ],
+          [
+            1837,
+            2078
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief to enjoin Defendants from permitting access/disclosure of sensitive student information and to ensure any future disclosures occur only in accordance with the law",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            788,
+            1021
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as University of California Student Association, a nonprofit association of undergraduate students at the University of California campuses",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            788,
+            1175
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: University of California Student Association, a nonprofit association of undergraduate students at the University of California campuses",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            951,
+            1078
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Education",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            951,
+            1078
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of the Department of Education",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            788,
+            1175
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing details: On Feb. 7, 2025, the University of California Student Association sued the Department of Education and its Secretary in D.D.C. to stop disclosure of sensitive information to DOGE.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1176,
+            1349
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged sensitive data categories: Social Security numbers, dates of birth, and financial information.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1350,
+            1836
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims: APA \u00a7 706(2)(A) contrary to law; IRC \u00a7 6103; Privacy Act; APA \u00a7 706(2)(A) arbitrary and capricious; APA \u00a7 706(2)(C) excess of statutory authority.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1837,
+            2078
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: Declaratory and injunctive relief to halt access/disclosure and require lawful procedures for any future disclosures.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            788,
+            1175
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed on 2025-02-07 in the U.S. District Court for the District of Columbia against the Department of Education and its Secretary.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      }
+    ]
+  },
+  {
+    "id": "46063_p3",
+    "metadata": {
+      "case_id": "46063",
+      "paragraph_num": 3,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case was assigned to Judge Randolph D. Moss."
+    },
+    "source": "",
+    "target": "This case challenged the Department of Education\u2019s decision to allow the Department of Government Efficiency (DOGE) to access sensitive student financial aid records.\n\nWhen President Trump was inaugurated on January 20, 2025, one of his first acts was the issuance of an executive order establishing a \u201cDepartment of Government Efficiency.\u201d In the executive order, President Trump renamed the United States Digital Service as the United States DOGE Service (USDS) and ordered the USDS administrator to work with Agency Heads to promote data collection synchronization and ensure data integrity. \u00a0Since the executive order, DOGE staffers have gained access to a \"financial aid dataset containing personal information for millions of students enrolled in the federal student aid program.\"\n\nOn February 7, 2025, the University of California Student Association, a nonprofit association of undergraduate students at the University of California campuses, filed this lawsuit in U.S. District Court for the District of Columbia by against the Department of Education and its Secretary, seeking to halt Defendants' disclosure of sensitive personal and financial information to DOGE. Plaintiff alleged that Defendants' release of sensitive student information--including their Social Security numbers, date of birth, and financial information--was unlawful. On Count I, Plaintiff alleged that Defendants' actions were \"contrary to law\" in violation of the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A); the Internal Revenue Code, 26 U.S.C. \u00a7 6103; and the Privacy Act. On Count II, Plaintiffs alleged that Defendants' action was \"arbitrary and capricious\" under the APA, 5 U.S.C. \u00a7 706(2)(A). On Count III, Plaintiffs alleged that Defendants' action constituted an \"excess of statutory authority\" under the APA, 5 U.S.C. \u00a7 706(2)(C). Plaintiffs sought declaratory and injunctive relief enjoining Defendants from continuing to permit such access or obtain such personal information and ensuring that any future disclosure of information occurs only in accordance with the law.\n\nThe case was assigned to Judge Randolph D. Moss.\n\nOn Feb. 10, 2025, plaintiffs sought a temporary restraining order (TRO); after briefing and a hearing on Feb. 14, Judge Moss took the motion under advisement.\n\nOn February 17, the court denied the TRO. The court found that \u201cmere access\u201d to personal data by government employees lacking authorization to view such data did not create an \u201cirreparable injury\u201d necessary for the grant of a TRO. The court reasoned that the dissemination of information is an irreparable injury where highly sensitive information is made public. Here, the Defendants\u2019 staffers were required to keep the private information confidential in accordance with the Privacy Act; since there was no public disclosure of information, the court found that there was no irreparable injury.\n\nPlaintiffs sought an order for expedited discovery. Citing the court's order in New Mexico v. Musk [../../../../case/46121/], No. 25-cv-429 in a notice for supplemental authority, Plaintiffs argued that expedited discovery in support of\u00a0 a preliminary injunction motion would be reasonable in this case. This motion was denied on March 18.\n\nOn April 8, Defendants filed a motion to dismiss. The following day, Plaintiffs moved to voluntarily dismiss the case. On April 16, the court ordered that the case is dismissed without prejudice.\n\nThis case is closed.",
+    "target_paragraph": "The case was assigned to Judge Randolph D. Moss.",
+    "target_paragraph_indices": [
+      2080,
+      2128
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            2080,
+            2128
+          ],
+          [
+            2130,
+            2288
+          ]
+        ],
+        "annotation": {
+          "explanation": "Randolph D. Moss",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            3,
+            4
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2080,
+            2128
+          ]
+        ],
+        "annotation": {
+          "explanation": "Judge: Randolph D. Moss.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2080,
+            2128
+          ]
+        ],
+        "annotation": {
+          "explanation": "Assigned judge: Randolph D. Moss.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46063_p4",
+    "metadata": {
+      "case_id": "46063",
+      "paragraph_num": 4,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On Feb. 10, 2025, plaintiffs sought a temporary restraining order (TRO); after briefing and a hearin..."
+    },
+    "source": "",
+    "target": "This case challenged the Department of Education\u2019s decision to allow the Department of Government Efficiency (DOGE) to access sensitive student financial aid records.\n\nWhen President Trump was inaugurated on January 20, 2025, one of his first acts was the issuance of an executive order establishing a \u201cDepartment of Government Efficiency.\u201d In the executive order, President Trump renamed the United States Digital Service as the United States DOGE Service (USDS) and ordered the USDS administrator to work with Agency Heads to promote data collection synchronization and ensure data integrity. \u00a0Since the executive order, DOGE staffers have gained access to a \"financial aid dataset containing personal information for millions of students enrolled in the federal student aid program.\"\n\nOn February 7, 2025, the University of California Student Association, a nonprofit association of undergraduate students at the University of California campuses, filed this lawsuit in U.S. District Court for the District of Columbia by against the Department of Education and its Secretary, seeking to halt Defendants' disclosure of sensitive personal and financial information to DOGE. Plaintiff alleged that Defendants' release of sensitive student information--including their Social Security numbers, date of birth, and financial information--was unlawful. On Count I, Plaintiff alleged that Defendants' actions were \"contrary to law\" in violation of the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A); the Internal Revenue Code, 26 U.S.C. \u00a7 6103; and the Privacy Act. On Count II, Plaintiffs alleged that Defendants' action was \"arbitrary and capricious\" under the APA, 5 U.S.C. \u00a7 706(2)(A). On Count III, Plaintiffs alleged that Defendants' action constituted an \"excess of statutory authority\" under the APA, 5 U.S.C. \u00a7 706(2)(C). Plaintiffs sought declaratory and injunctive relief enjoining Defendants from continuing to permit such access or obtain such personal information and ensuring that any future disclosure of information occurs only in accordance with the law.\n\nThe case was assigned to Judge Randolph D. Moss.\n\nOn Feb. 10, 2025, plaintiffs sought a temporary restraining order (TRO); after briefing and a hearing on Feb. 14, Judge Moss took the motion under advisement.\n\nOn February 17, the court denied the TRO. The court found that \u201cmere access\u201d to personal data by government employees lacking authorization to view such data did not create an \u201cirreparable injury\u201d necessary for the grant of a TRO. The court reasoned that the dissemination of information is an irreparable injury where highly sensitive information is made public. Here, the Defendants\u2019 staffers were required to keep the private information confidential in accordance with the Privacy Act; since there was no public disclosure of information, the court found that there was no irreparable injury.\n\nPlaintiffs sought an order for expedited discovery. Citing the court's order in New Mexico v. Musk [../../../../case/46121/], No. 25-cv-429 in a notice for supplemental authority, Plaintiffs argued that expedited discovery in support of\u00a0 a preliminary injunction motion would be reasonable in this case. This motion was denied on March 18.\n\nOn April 8, Defendants filed a motion to dismiss. The following day, Plaintiffs moved to voluntarily dismiss the case. On April 16, the court ordered that the case is dismissed without prejudice.\n\nThis case is closed.",
+    "target_paragraph": "On Feb. 10, 2025, plaintiffs sought a temporary restraining order (TRO); after briefing and a hearing on Feb. 14, Judge Moss took the motion under advisement.",
+    "target_paragraph_indices": [
+      2130,
+      2288
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2130,
+            2288
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order (TRO)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2130,
+            2288
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs sought a TRO on Feb. 10, 2025; hearing held Feb. 14.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2130,
+            2288
+          ],
+          [
+            2290,
+            2331
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs' motion for temporary restraining order (TRO) filed on Feb. 10, 2025; heard Feb. 14, 2025; denied on Feb. 17, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2130,
+            2288
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO motion filed 2025-02-10; briefing and hearing held 2025-02-14; motion taken under advisement.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46063_p5",
+    "metadata": {
+      "case_id": "46063",
+      "paragraph_num": 5,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On February 17, the court denied the TRO. The court found that \u201cmere access\u201d to personal data by gov..."
+    },
+    "source": "",
+    "target": "This case challenged the Department of Education\u2019s decision to allow the Department of Government Efficiency (DOGE) to access sensitive student financial aid records.\n\nWhen President Trump was inaugurated on January 20, 2025, one of his first acts was the issuance of an executive order establishing a \u201cDepartment of Government Efficiency.\u201d In the executive order, President Trump renamed the United States Digital Service as the United States DOGE Service (USDS) and ordered the USDS administrator to work with Agency Heads to promote data collection synchronization and ensure data integrity. \u00a0Since the executive order, DOGE staffers have gained access to a \"financial aid dataset containing personal information for millions of students enrolled in the federal student aid program.\"\n\nOn February 7, 2025, the University of California Student Association, a nonprofit association of undergraduate students at the University of California campuses, filed this lawsuit in U.S. District Court for the District of Columbia by against the Department of Education and its Secretary, seeking to halt Defendants' disclosure of sensitive personal and financial information to DOGE. Plaintiff alleged that Defendants' release of sensitive student information--including their Social Security numbers, date of birth, and financial information--was unlawful. On Count I, Plaintiff alleged that Defendants' actions were \"contrary to law\" in violation of the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A); the Internal Revenue Code, 26 U.S.C. \u00a7 6103; and the Privacy Act. On Count II, Plaintiffs alleged that Defendants' action was \"arbitrary and capricious\" under the APA, 5 U.S.C. \u00a7 706(2)(A). On Count III, Plaintiffs alleged that Defendants' action constituted an \"excess of statutory authority\" under the APA, 5 U.S.C. \u00a7 706(2)(C). Plaintiffs sought declaratory and injunctive relief enjoining Defendants from continuing to permit such access or obtain such personal information and ensuring that any future disclosure of information occurs only in accordance with the law.\n\nThe case was assigned to Judge Randolph D. Moss.\n\nOn Feb. 10, 2025, plaintiffs sought a temporary restraining order (TRO); after briefing and a hearing on Feb. 14, Judge Moss took the motion under advisement.\n\nOn February 17, the court denied the TRO. The court found that \u201cmere access\u201d to personal data by government employees lacking authorization to view such data did not create an \u201cirreparable injury\u201d necessary for the grant of a TRO. The court reasoned that the dissemination of information is an irreparable injury where highly sensitive information is made public. Here, the Defendants\u2019 staffers were required to keep the private information confidential in accordance with the Privacy Act; since there was no public disclosure of information, the court found that there was no irreparable injury.\n\nPlaintiffs sought an order for expedited discovery. Citing the court's order in New Mexico v. Musk [../../../../case/46121/], No. 25-cv-429 in a notice for supplemental authority, Plaintiffs argued that expedited discovery in support of\u00a0 a preliminary injunction motion would be reasonable in this case. This motion was denied on March 18.\n\nOn April 8, Defendants filed a motion to dismiss. The following day, Plaintiffs moved to voluntarily dismiss the case. On April 16, the court ordered that the case is dismissed without prejudice.\n\nThis case is closed.",
+    "target_paragraph": "On February 17, the court denied the TRO. The court found that \u201cmere access\u201d to personal data by government employees lacking authorization to view such data did not create an \u201cirreparable injury\u201d necessary for the grant of a TRO. The court reasoned that the dissemination of information is an irreparable injury where highly sensitive information is made public. Here, the Defendants\u2019 staffers were required to keep the private information confidential in accordance with the Privacy Act; since there was no public disclosure of information, the court found that there was no irreparable injury.",
+    "target_paragraph_indices": [
+      2290,
+      2886
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2290,
+            2331
+          ]
+        ],
+        "annotation": {
+          "explanation": "February 17: Court denied the TRO.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2290,
+            2331
+          ],
+          [
+            2332,
+            2520
+          ],
+          [
+            2654,
+            2886
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO denied on Feb. 17, 2025 because mere internal access did not constitute irreparable injury; no public disclosure occurred and staff were bound by Privacy Act confidentiality.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2290,
+            2331
+          ],
+          [
+            2332,
+            2520
+          ],
+          [
+            2521,
+            2653
+          ],
+          [
+            2654,
+            2886
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO denied on 2025-02-17; court held no irreparable injury because mere access without public disclosure, with staff bound by the Privacy Act, was insufficient.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2290,
+            2331
+          ],
+          [
+            2332,
+            2886
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order denied on Feb. 17, 2025; court found no irreparable injury because there was no public disclosure and confidentiality obligations applied.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46063_p6",
+    "metadata": {
+      "case_id": "46063",
+      "paragraph_num": 6,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs sought an order for expedited discovery. Citing the court's order in New Mexico v. Musk [..."
+    },
+    "source": "",
+    "target": "This case challenged the Department of Education\u2019s decision to allow the Department of Government Efficiency (DOGE) to access sensitive student financial aid records.\n\nWhen President Trump was inaugurated on January 20, 2025, one of his first acts was the issuance of an executive order establishing a \u201cDepartment of Government Efficiency.\u201d In the executive order, President Trump renamed the United States Digital Service as the United States DOGE Service (USDS) and ordered the USDS administrator to work with Agency Heads to promote data collection synchronization and ensure data integrity. \u00a0Since the executive order, DOGE staffers have gained access to a \"financial aid dataset containing personal information for millions of students enrolled in the federal student aid program.\"\n\nOn February 7, 2025, the University of California Student Association, a nonprofit association of undergraduate students at the University of California campuses, filed this lawsuit in U.S. District Court for the District of Columbia by against the Department of Education and its Secretary, seeking to halt Defendants' disclosure of sensitive personal and financial information to DOGE. Plaintiff alleged that Defendants' release of sensitive student information--including their Social Security numbers, date of birth, and financial information--was unlawful. On Count I, Plaintiff alleged that Defendants' actions were \"contrary to law\" in violation of the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A); the Internal Revenue Code, 26 U.S.C. \u00a7 6103; and the Privacy Act. On Count II, Plaintiffs alleged that Defendants' action was \"arbitrary and capricious\" under the APA, 5 U.S.C. \u00a7 706(2)(A). On Count III, Plaintiffs alleged that Defendants' action constituted an \"excess of statutory authority\" under the APA, 5 U.S.C. \u00a7 706(2)(C). Plaintiffs sought declaratory and injunctive relief enjoining Defendants from continuing to permit such access or obtain such personal information and ensuring that any future disclosure of information occurs only in accordance with the law.\n\nThe case was assigned to Judge Randolph D. Moss.\n\nOn Feb. 10, 2025, plaintiffs sought a temporary restraining order (TRO); after briefing and a hearing on Feb. 14, Judge Moss took the motion under advisement.\n\nOn February 17, the court denied the TRO. The court found that \u201cmere access\u201d to personal data by government employees lacking authorization to view such data did not create an \u201cirreparable injury\u201d necessary for the grant of a TRO. The court reasoned that the dissemination of information is an irreparable injury where highly sensitive information is made public. Here, the Defendants\u2019 staffers were required to keep the private information confidential in accordance with the Privacy Act; since there was no public disclosure of information, the court found that there was no irreparable injury.\n\nPlaintiffs sought an order for expedited discovery. Citing the court's order in New Mexico v. Musk [../../../../case/46121/], No. 25-cv-429 in a notice for supplemental authority, Plaintiffs argued that expedited discovery in support of\u00a0 a preliminary injunction motion would be reasonable in this case. This motion was denied on March 18.\n\nOn April 8, Defendants filed a motion to dismiss. The following day, Plaintiffs moved to voluntarily dismiss the case. On April 16, the court ordered that the case is dismissed without prejudice.\n\nThis case is closed.",
+    "target_paragraph": "Plaintiffs sought an order for expedited discovery. Citing the court's order in New Mexico v. Musk [../../../../case/46121/], No. 25-cv-429 in a notice for supplemental authority, Plaintiffs argued that expedited discovery in support of\u00a0 a preliminary injunction motion would be reasonable in this case. This motion was denied on March 18.",
+    "target_paragraph_indices": [
+      2888,
+      3227
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2888,
+            2939
+          ],
+          [
+            3192,
+            3227
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 18: Court denied plaintiffs' motion for expedited discovery.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46063_p7",
+    "metadata": {
+      "case_id": "46063",
+      "paragraph_num": 7,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 8, Defendants filed a motion to dismiss. The following day, Plaintiffs moved to voluntarily..."
+    },
+    "source": "",
+    "target": "This case challenged the Department of Education\u2019s decision to allow the Department of Government Efficiency (DOGE) to access sensitive student financial aid records.\n\nWhen President Trump was inaugurated on January 20, 2025, one of his first acts was the issuance of an executive order establishing a \u201cDepartment of Government Efficiency.\u201d In the executive order, President Trump renamed the United States Digital Service as the United States DOGE Service (USDS) and ordered the USDS administrator to work with Agency Heads to promote data collection synchronization and ensure data integrity. \u00a0Since the executive order, DOGE staffers have gained access to a \"financial aid dataset containing personal information for millions of students enrolled in the federal student aid program.\"\n\nOn February 7, 2025, the University of California Student Association, a nonprofit association of undergraduate students at the University of California campuses, filed this lawsuit in U.S. District Court for the District of Columbia by against the Department of Education and its Secretary, seeking to halt Defendants' disclosure of sensitive personal and financial information to DOGE. Plaintiff alleged that Defendants' release of sensitive student information--including their Social Security numbers, date of birth, and financial information--was unlawful. On Count I, Plaintiff alleged that Defendants' actions were \"contrary to law\" in violation of the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A); the Internal Revenue Code, 26 U.S.C. \u00a7 6103; and the Privacy Act. On Count II, Plaintiffs alleged that Defendants' action was \"arbitrary and capricious\" under the APA, 5 U.S.C. \u00a7 706(2)(A). On Count III, Plaintiffs alleged that Defendants' action constituted an \"excess of statutory authority\" under the APA, 5 U.S.C. \u00a7 706(2)(C). Plaintiffs sought declaratory and injunctive relief enjoining Defendants from continuing to permit such access or obtain such personal information and ensuring that any future disclosure of information occurs only in accordance with the law.\n\nThe case was assigned to Judge Randolph D. Moss.\n\nOn Feb. 10, 2025, plaintiffs sought a temporary restraining order (TRO); after briefing and a hearing on Feb. 14, Judge Moss took the motion under advisement.\n\nOn February 17, the court denied the TRO. The court found that \u201cmere access\u201d to personal data by government employees lacking authorization to view such data did not create an \u201cirreparable injury\u201d necessary for the grant of a TRO. The court reasoned that the dissemination of information is an irreparable injury where highly sensitive information is made public. Here, the Defendants\u2019 staffers were required to keep the private information confidential in accordance with the Privacy Act; since there was no public disclosure of information, the court found that there was no irreparable injury.\n\nPlaintiffs sought an order for expedited discovery. Citing the court's order in New Mexico v. Musk [../../../../case/46121/], No. 25-cv-429 in a notice for supplemental authority, Plaintiffs argued that expedited discovery in support of\u00a0 a preliminary injunction motion would be reasonable in this case. This motion was denied on March 18.\n\nOn April 8, Defendants filed a motion to dismiss. The following day, Plaintiffs moved to voluntarily dismiss the case. On April 16, the court ordered that the case is dismissed without prejudice.\n\nThis case is closed.",
+    "target_paragraph": "On April 8, Defendants filed a motion to dismiss. The following day, Plaintiffs moved to voluntarily dismiss the case. On April 16, the court ordered that the case is dismissed without prejudice.",
+    "target_paragraph_indices": [
+      3229,
+      3424
+    ],
+    "edits": [
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            3279,
+            3347
+          ],
+          [
+            3348,
+            3424
+          ],
+          [
+            3426,
+            3446
+          ]
+        ],
+        "annotation": {
+          "explanation": "No.",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": [
+            7,
+            8
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3348,
+            3424
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 16: Court ordered the case dismissed without prejudice.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3229,
+            3424
+          ],
+          [
+            3426,
+            3446
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case outcome: After Defendants\u2019 motion to dismiss (Apr. 8) and Plaintiffs\u2019 voluntary dismissal motion (Apr. 9), the court dismissed without prejudice on Apr. 16; case closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            7,
+            8
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3229,
+            3278
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants' motion to dismiss filed on April 8, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3279,
+            3347
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs' motion to voluntarily dismiss filed on April 9, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3348,
+            3424
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court order dismissing the case without prejudice on April 16, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3229,
+            3278
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a motion to dismiss on 2025-04-08.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3279,
+            3347
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs moved to voluntarily dismiss on 2025-04-09.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3348,
+            3424
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court dismissed the case without prejudice on 2025-04-16.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3229,
+            3424
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for voluntary dismissal granted; case dismissed without prejudice on Apr. 16, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46063_p8",
+    "metadata": {
+      "case_id": "46063",
+      "paragraph_num": 8,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is closed."
+    },
+    "source": "",
+    "target": "This case challenged the Department of Education\u2019s decision to allow the Department of Government Efficiency (DOGE) to access sensitive student financial aid records.\n\nWhen President Trump was inaugurated on January 20, 2025, one of his first acts was the issuance of an executive order establishing a \u201cDepartment of Government Efficiency.\u201d In the executive order, President Trump renamed the United States Digital Service as the United States DOGE Service (USDS) and ordered the USDS administrator to work with Agency Heads to promote data collection synchronization and ensure data integrity. \u00a0Since the executive order, DOGE staffers have gained access to a \"financial aid dataset containing personal information for millions of students enrolled in the federal student aid program.\"\n\nOn February 7, 2025, the University of California Student Association, a nonprofit association of undergraduate students at the University of California campuses, filed this lawsuit in U.S. District Court for the District of Columbia by against the Department of Education and its Secretary, seeking to halt Defendants' disclosure of sensitive personal and financial information to DOGE. Plaintiff alleged that Defendants' release of sensitive student information--including their Social Security numbers, date of birth, and financial information--was unlawful. On Count I, Plaintiff alleged that Defendants' actions were \"contrary to law\" in violation of the Administrative Procedure Act (APA), 5 U.S.C. \u00a7 706(2)(A); the Internal Revenue Code, 26 U.S.C. \u00a7 6103; and the Privacy Act. On Count II, Plaintiffs alleged that Defendants' action was \"arbitrary and capricious\" under the APA, 5 U.S.C. \u00a7 706(2)(A). On Count III, Plaintiffs alleged that Defendants' action constituted an \"excess of statutory authority\" under the APA, 5 U.S.C. \u00a7 706(2)(C). Plaintiffs sought declaratory and injunctive relief enjoining Defendants from continuing to permit such access or obtain such personal information and ensuring that any future disclosure of information occurs only in accordance with the law.\n\nThe case was assigned to Judge Randolph D. Moss.\n\nOn Feb. 10, 2025, plaintiffs sought a temporary restraining order (TRO); after briefing and a hearing on Feb. 14, Judge Moss took the motion under advisement.\n\nOn February 17, the court denied the TRO. The court found that \u201cmere access\u201d to personal data by government employees lacking authorization to view such data did not create an \u201cirreparable injury\u201d necessary for the grant of a TRO. The court reasoned that the dissemination of information is an irreparable injury where highly sensitive information is made public. Here, the Defendants\u2019 staffers were required to keep the private information confidential in accordance with the Privacy Act; since there was no public disclosure of information, the court found that there was no irreparable injury.\n\nPlaintiffs sought an order for expedited discovery. Citing the court's order in New Mexico v. Musk [../../../../case/46121/], No. 25-cv-429 in a notice for supplemental authority, Plaintiffs argued that expedited discovery in support of\u00a0 a preliminary injunction motion would be reasonable in this case. This motion was denied on March 18.\n\nOn April 8, Defendants filed a motion to dismiss. The following day, Plaintiffs moved to voluntarily dismiss the case. On April 16, the court ordered that the case is dismissed without prejudice.\n\nThis case is closed.",
+    "target_paragraph": "This case is closed.",
+    "target_paragraph_indices": [
+      3426,
+      3446
+    ],
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3426,
+            3446
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: closed.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

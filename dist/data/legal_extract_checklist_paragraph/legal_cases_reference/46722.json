@@ -1,0 +1,919 @@
+[
+  {
+    "id": "46722_p0",
+    "metadata": {
+      "case_id": "46722",
+      "paragraph_num": 0,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged the decision of the Environmental Protection Agency (EPA) to terminate plaintif..."
+    },
+    "source": "",
+    "target": "This case challenged the decision of the Environmental Protection Agency (EPA) to terminate plaintiffs\u2019 environmental grants without notice or substantive reason. These grants, awarded in 2024 under the Biden Administration, comprised $8 million given directly to each plaintiff and access to a further $52 million for plaintiffs to distribute among other community-based environmental initiatives in their respective cities. In February 2025\u2014under the Trump Administration\u2014plaintiffs each received notices that their grants had been terminated. These notices of termination were strictly boilerplate and did not include any specific allegations of wrongdoing on the part of plaintiffs; plaintiffs thus alleged the EPA violated the Administrative Procedure Act (APA) and due process. Included in this boilerplate was an EPA \u201cpriority\u201d that it withhold funds from groups that participate in DEI initiatives; plaintiffs alleged that this violated the Clean Water Act\u2019s requirement that grant funds be used to aid underserved communities. Plaintiffs also alleged that it was a violation of the First Amendment for the Trump Administration to terminate their grants based on a difference of views regarding DEI initiatives.\n\nPlaintiffs, three nonprofit and philanthropic organizations, filed this lawsuit in the U.S. District Court for the District of Maryland on April 2, 2025. Plaintiffs are based in Baltimore, Minneapolis, and Seattle. The lawsuit named the EPA and its Administrator, Lee Zeldin, as defendants. Plaintiffs sought postponement and setting aside of the grant terminations under the APA; a declaration that the Clean Air Act prevented the EPA from choosing to withhold funds from DEI-friendly organizations; a declaration that the grant terminations were unconstitutional; a preliminary and permanent injunction requiring the EPA to reinstate plaintiffs\u2019 terminated grants and preventing it from terminating or suspending any funding to plaintiffs; and attorneys\u2019 fees. The case was assigned to Judge Adam B. Abelson.\n\nOn June 17, 2025, the court granted plaintiffs summary judgment with respect to their APA claims, setting aside the EPA\u2019s termination of their grants. The court found that even though the EPA possessed some discretion to advance its policy agenda, it was not allowed to disregard statutory requirements surrounding the grant program. Moreover, even if the agency could so contradict the expressed will of Congress, the court held that the EPA's failure to supply adequate justification for its course of action required it to set aside the grant terminations. The court declined to reach plaintiffs\u2019 constitutional claims. This constituted the final judgment of the district court.\n\nDefendants appealed the district court's summary judgment to the U.S. Circuit Court of Appeals for the Fourth Circuit on July 16, 2025.\n\nThis case is ongoing.",
+    "target_paragraph": "This case challenged the decision of the Environmental Protection Agency (EPA) to terminate plaintiffs\u2019 environmental grants without notice or substantive reason. These grants, awarded in 2024 under the Biden Administration, comprised $8 million given directly to each plaintiff and access to a further $52 million for plaintiffs to distribute among other community-based environmental initiatives in their respective cities. In February 2025\u2014under the Trump Administration\u2014plaintiffs each received notices that their grants had been terminated. These notices of termination were strictly boilerplate and did not include any specific allegations of wrongdoing on the part of plaintiffs; plaintiffs thus alleged the EPA violated the Administrative Procedure Act (APA) and due process. Included in this boilerplate was an EPA \u201cpriority\u201d that it withhold funds from groups that participate in DEI initiatives; plaintiffs alleged that this violated the Clean Water Act\u2019s requirement that grant funds be used to aid underserved communities. Plaintiffs also alleged that it was a violation of the First Amendment for the Trump Administration to terminate their grants based on a difference of views regarding DEI initiatives.",
+    "target_paragraph_indices": [
+      0,
+      1219
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            687,
+            783
+          ],
+          [
+            1512,
+            1601
+          ],
+          [
+            2051,
+            2183
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) claim challenging the EPA\u2019s termination of grants and seeking postponement and setting aside under the APA.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            1,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            687,
+            783
+          ],
+          [
+            1722,
+            1786
+          ]
+        ],
+        "annotation": {
+          "explanation": "Due process claim (constitutional) challenging the termination of grants without notice or substantive reason.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1036,
+            1219
+          ],
+          [
+            1722,
+            1786
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment claim alleging unconstitutional termination based on disagreement over DEI initiatives.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            907,
+            1035
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory claim under the Clean Water Act asserting the EPA\u2019s DEI-related funding priority violated the Act\u2019s requirement to aid underserved communities.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            687,
+            783
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            687,
+            783
+          ]
+        ],
+        "annotation": {
+          "explanation": "Due process (constitutional claim; specific amendment not specified in the summary)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1036,
+            1219
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment (free speech/viewpoint discrimination)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            907,
+            1035
+          ]
+        ],
+        "annotation": {
+          "explanation": "Clean Water Act\u2014requirement that grant funds be used to aid underserved communities",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            162
+          ],
+          [
+            1436,
+            1511
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Environmental Protection Agency (EPA)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            162
+          ]
+        ],
+        "annotation": {
+          "explanation": "EPA terminated plaintiffs\u2019 environmental grants without notice or substantive reason.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            163,
+            425
+          ]
+        ],
+        "annotation": {
+          "explanation": "In 2024, under the Biden Administration, each plaintiff received $8 million directly and access to an additional $52 million to distribute to community-based environmental initiatives in their cities.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            426,
+            545
+          ],
+          [
+            546,
+            686
+          ],
+          [
+            784,
+            906
+          ]
+        ],
+        "annotation": {
+          "explanation": "In February 2025, under the Trump Administration, EPA sent boilerplate termination notices lacking specific wrongdoing and stating an EPA priority to withhold funds from groups participating in DEI initiatives.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            687,
+            783
+          ],
+          [
+            907,
+            1035
+          ],
+          [
+            1036,
+            1219
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs claimed violations of the APA and due process, alleged conflict with the Clean Water Act\u2019s requirement to aid underserved communities, and alleged First Amendment violations based on viewpoint discrimination regarding DEI.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": "46722_p1",
+    "metadata": {
+      "case_id": "46722",
+      "paragraph_num": 1,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs, three nonprofit and philanthropic organizations, filed this lawsuit in the U.S. District..."
+    },
+    "source": "",
+    "target": "This case challenged the decision of the Environmental Protection Agency (EPA) to terminate plaintiffs\u2019 environmental grants without notice or substantive reason. These grants, awarded in 2024 under the Biden Administration, comprised $8 million given directly to each plaintiff and access to a further $52 million for plaintiffs to distribute among other community-based environmental initiatives in their respective cities. In February 2025\u2014under the Trump Administration\u2014plaintiffs each received notices that their grants had been terminated. These notices of termination were strictly boilerplate and did not include any specific allegations of wrongdoing on the part of plaintiffs; plaintiffs thus alleged the EPA violated the Administrative Procedure Act (APA) and due process. Included in this boilerplate was an EPA \u201cpriority\u201d that it withhold funds from groups that participate in DEI initiatives; plaintiffs alleged that this violated the Clean Water Act\u2019s requirement that grant funds be used to aid underserved communities. Plaintiffs also alleged that it was a violation of the First Amendment for the Trump Administration to terminate their grants based on a difference of views regarding DEI initiatives.\n\nPlaintiffs, three nonprofit and philanthropic organizations, filed this lawsuit in the U.S. District Court for the District of Maryland on April 2, 2025. Plaintiffs are based in Baltimore, Minneapolis, and Seattle. The lawsuit named the EPA and its Administrator, Lee Zeldin, as defendants. Plaintiffs sought postponement and setting aside of the grant terminations under the APA; a declaration that the Clean Air Act prevented the EPA from choosing to withhold funds from DEI-friendly organizations; a declaration that the grant terminations were unconstitutional; a preliminary and permanent injunction requiring the EPA to reinstate plaintiffs\u2019 terminated grants and preventing it from terminating or suspending any funding to plaintiffs; and attorneys\u2019 fees. The case was assigned to Judge Adam B. Abelson.\n\nOn June 17, 2025, the court granted plaintiffs summary judgment with respect to their APA claims, setting aside the EPA\u2019s termination of their grants. The court found that even though the EPA possessed some discretion to advance its policy agenda, it was not allowed to disregard statutory requirements surrounding the grant program. Moreover, even if the agency could so contradict the expressed will of Congress, the court held that the EPA's failure to supply adequate justification for its course of action required it to set aside the grant terminations. The court declined to reach plaintiffs\u2019 constitutional claims. This constituted the final judgment of the district court.\n\nDefendants appealed the district court's summary judgment to the U.S. Circuit Court of Appeals for the Fourth Circuit on July 16, 2025.\n\nThis case is ongoing.",
+    "target_paragraph": "Plaintiffs, three nonprofit and philanthropic organizations, filed this lawsuit in the U.S. District Court for the District of Maryland on April 2, 2025. Plaintiffs are based in Baltimore, Minneapolis, and Seattle. The lawsuit named the EPA and its Administrator, Lee Zeldin, as defendants. Plaintiffs sought postponement and setting aside of the grant terminations under the APA; a declaration that the Clean Air Act prevented the EPA from choosing to withhold funds from DEI-friendly organizations; a declaration that the grant terminations were unconstitutional; a preliminary and permanent injunction requiring the EPA to reinstate plaintiffs\u2019 terminated grants and preventing it from terminating or suspending any funding to plaintiffs; and attorneys\u2019 fees. The case was assigned to Judge Adam B. Abelson.",
+    "target_paragraph_indices": [
+      1221,
+      2031
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            1221,
+            1374
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 2, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1602,
+            1721
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory claim under the Clean Air Act seeking a declaration that the Act prevents the EPA from withholding funds from DEI-friendly organizations.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1602,
+            1721
+          ]
+        ],
+        "annotation": {
+          "explanation": "Clean Air Act\u2014alleged to prevent EPA from withholding funds from DEI-friendly organizations",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1512,
+            1983
+          ]
+        ],
+        "annotation": {
+          "explanation": "Postponement and setting aside of the grant terminations under the APA",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1512,
+            1983
+          ]
+        ],
+        "annotation": {
+          "explanation": "A declaration that the Clean Air Act prevented the EPA from choosing to withhold funds from DEI-friendly organizations",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1512,
+            1983
+          ]
+        ],
+        "annotation": {
+          "explanation": "A declaration that the grant terminations were unconstitutional",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1512,
+            1983
+          ]
+        ],
+        "annotation": {
+          "explanation": "A preliminary and permanent injunction requiring the EPA to reinstate plaintiffs\u2019 terminated grants and preventing it from terminating or suspending any funding to plaintiffs",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1512,
+            1983
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys\u2019 fees",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1984,
+            2031
+          ]
+        ],
+        "annotation": {
+          "explanation": "Adam B. Abelson",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            1221,
+            1374
+          ],
+          [
+            1375,
+            1435
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as three nonprofit and philanthropic organizations",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            1436,
+            1511
+          ],
+          [
+            2716,
+            2851
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: The EPA and its Administrator, Lee Zeldin, appealed to the U.S. Circuit Court of Appeals for the Fourth Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1436,
+            1511
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Lee Zeldin, Administrator of the Environmental Protection Agency",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1221,
+            1374
+          ],
+          [
+            1375,
+            1435
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Nonprofit and philanthropic organization based in Baltimore",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1221,
+            1374
+          ],
+          [
+            1375,
+            1435
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Nonprofit and philanthropic organization based in Minneapolis",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1221,
+            1374
+          ],
+          [
+            1375,
+            1435
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Nonprofit and philanthropic organization based in Seattle",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1221,
+            1374
+          ],
+          [
+            1375,
+            1435
+          ],
+          [
+            1436,
+            1511
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 2, 2025, three nonprofit/philanthropic organizations based in Baltimore, Minneapolis, and Seattle filed suit in the U.S. District Court for the District of Maryland against the EPA and Administrator Lee Zeldin.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1512,
+            1983
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought included postponement and vacatur of terminations under the APA, a declaration that the Clean Air Act bars withholding from DEI-friendly groups, a declaration of unconstitutionality, preliminary and permanent injunctions to reinstate and prevent suspension/termination of funding, and attorneys\u2019 fees.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1984,
+            2031
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case was assigned to Judge Adam B. Abelson.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1221,
+            1374
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed in the U.S. District Court for the District of Maryland on April 2, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1221,
+            1374
+          ],
+          [
+            1984,
+            2031
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court case initiated in the U.S. District Court for the District of Maryland on April 2, 2025, assigned to Judge Adam B. Abelson.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1512,
+            1983
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief and motions sought included postponement/setting aside under the APA, declaratory judgments (statutory and constitutional), a preliminary and permanent injunction to reinstate and prevent suspension/termination of funding, and attorneys\u2019 fees.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      }
+    ]
+  },
+  {
+    "id": "46722_p2",
+    "metadata": {
+      "case_id": "46722",
+      "paragraph_num": 2,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 17, 2025, the court granted plaintiffs summary judgment with respect to their APA claims, se..."
+    },
+    "source": "",
+    "target": "This case challenged the decision of the Environmental Protection Agency (EPA) to terminate plaintiffs\u2019 environmental grants without notice or substantive reason. These grants, awarded in 2024 under the Biden Administration, comprised $8 million given directly to each plaintiff and access to a further $52 million for plaintiffs to distribute among other community-based environmental initiatives in their respective cities. In February 2025\u2014under the Trump Administration\u2014plaintiffs each received notices that their grants had been terminated. These notices of termination were strictly boilerplate and did not include any specific allegations of wrongdoing on the part of plaintiffs; plaintiffs thus alleged the EPA violated the Administrative Procedure Act (APA) and due process. Included in this boilerplate was an EPA \u201cpriority\u201d that it withhold funds from groups that participate in DEI initiatives; plaintiffs alleged that this violated the Clean Water Act\u2019s requirement that grant funds be used to aid underserved communities. Plaintiffs also alleged that it was a violation of the First Amendment for the Trump Administration to terminate their grants based on a difference of views regarding DEI initiatives.\n\nPlaintiffs, three nonprofit and philanthropic organizations, filed this lawsuit in the U.S. District Court for the District of Maryland on April 2, 2025. Plaintiffs are based in Baltimore, Minneapolis, and Seattle. The lawsuit named the EPA and its Administrator, Lee Zeldin, as defendants. Plaintiffs sought postponement and setting aside of the grant terminations under the APA; a declaration that the Clean Air Act prevented the EPA from choosing to withhold funds from DEI-friendly organizations; a declaration that the grant terminations were unconstitutional; a preliminary and permanent injunction requiring the EPA to reinstate plaintiffs\u2019 terminated grants and preventing it from terminating or suspending any funding to plaintiffs; and attorneys\u2019 fees. The case was assigned to Judge Adam B. Abelson.\n\nOn June 17, 2025, the court granted plaintiffs summary judgment with respect to their APA claims, setting aside the EPA\u2019s termination of their grants. The court found that even though the EPA possessed some discretion to advance its policy agenda, it was not allowed to disregard statutory requirements surrounding the grant program. Moreover, even if the agency could so contradict the expressed will of Congress, the court held that the EPA's failure to supply adequate justification for its course of action required it to set aside the grant terminations. The court declined to reach plaintiffs\u2019 constitutional claims. This constituted the final judgment of the district court.\n\nDefendants appealed the district court's summary judgment to the U.S. Circuit Court of Appeals for the Fourth Circuit on July 16, 2025.\n\nThis case is ongoing.",
+    "target_paragraph": "On June 17, 2025, the court granted plaintiffs summary judgment with respect to their APA claims, setting aside the EPA\u2019s termination of their grants. The court found that even though the EPA possessed some discretion to advance its policy agenda, it was not allowed to disregard statutory requirements surrounding the grant program. Moreover, even if the agency could so contradict the expressed will of Congress, the court held that the EPA's failure to supply adequate justification for its course of action required it to set aside the grant terminations. The court declined to reach plaintiffs\u2019 constitutional claims. This constituted the final judgment of the district court.",
+    "target_paragraph_indices": [
+      2033,
+      2714
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2033,
+            2183
+          ],
+          [
+            2593,
+            2714
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 17, 2025: The court granted plaintiffs summary judgment on their APA claims, setting aside the EPA\u2019s termination of their grants; the court declined to reach plaintiffs\u2019 constitutional claims, constituting the final judgment of the district court.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2033,
+            2183
+          ],
+          [
+            2184,
+            2366
+          ],
+          [
+            2367,
+            2592
+          ],
+          [
+            2593,
+            2655
+          ],
+          [
+            2656,
+            2714
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 17, 2025, the district court granted summary judgment for plaintiffs on APA grounds, set aside the terminations due to disregard of statutory requirements and inadequate justification, declined to reach constitutional claims, and entered final judgment.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2033,
+            2183
+          ],
+          [
+            2656,
+            2714
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for summary judgment granted on June 17, 2025 (APA claims), resulting in final judgment and setting aside the grant terminations.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2033,
+            2183
+          ],
+          [
+            2656,
+            2714
+          ]
+        ],
+        "annotation": {
+          "explanation": "The district court set aside the EPA\u2019s termination of plaintiffs\u2019 grants.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2033,
+            2183
+          ],
+          [
+            2656,
+            2714
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court granted summary judgment to plaintiffs on APA claims and set aside (vacated) the EPA\u2019s termination of plaintiffs\u2019 grants.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2033,
+            2183
+          ],
+          [
+            2184,
+            2366
+          ],
+          [
+            2367,
+            2592
+          ],
+          [
+            2593,
+            2655
+          ],
+          [
+            2656,
+            2714
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 17, 2025, the district court granted plaintiffs summary judgment on APA claims, set aside the grant terminations, declined to reach constitutional claims, and entered final judgment; the ruling rested on statutory constraints and inadequate agency justification.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2033,
+            2183
+          ],
+          [
+            2593,
+            2655
+          ],
+          [
+            2656,
+            2714
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 17, 2025: District Court granted plaintiffs' motion for summary judgment on APA claims, set aside EPA grant terminations; declined to reach constitutional claims; final judgment entered.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46722_p3",
+    "metadata": {
+      "case_id": "46722",
+      "paragraph_num": 3,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Defendants appealed the district court's summary judgment to the U.S. Circuit Court of Appeals for t..."
+    },
+    "source": "",
+    "target": "This case challenged the decision of the Environmental Protection Agency (EPA) to terminate plaintiffs\u2019 environmental grants without notice or substantive reason. These grants, awarded in 2024 under the Biden Administration, comprised $8 million given directly to each plaintiff and access to a further $52 million for plaintiffs to distribute among other community-based environmental initiatives in their respective cities. In February 2025\u2014under the Trump Administration\u2014plaintiffs each received notices that their grants had been terminated. These notices of termination were strictly boilerplate and did not include any specific allegations of wrongdoing on the part of plaintiffs; plaintiffs thus alleged the EPA violated the Administrative Procedure Act (APA) and due process. Included in this boilerplate was an EPA \u201cpriority\u201d that it withhold funds from groups that participate in DEI initiatives; plaintiffs alleged that this violated the Clean Water Act\u2019s requirement that grant funds be used to aid underserved communities. Plaintiffs also alleged that it was a violation of the First Amendment for the Trump Administration to terminate their grants based on a difference of views regarding DEI initiatives.\n\nPlaintiffs, three nonprofit and philanthropic organizations, filed this lawsuit in the U.S. District Court for the District of Maryland on April 2, 2025. Plaintiffs are based in Baltimore, Minneapolis, and Seattle. The lawsuit named the EPA and its Administrator, Lee Zeldin, as defendants. Plaintiffs sought postponement and setting aside of the grant terminations under the APA; a declaration that the Clean Air Act prevented the EPA from choosing to withhold funds from DEI-friendly organizations; a declaration that the grant terminations were unconstitutional; a preliminary and permanent injunction requiring the EPA to reinstate plaintiffs\u2019 terminated grants and preventing it from terminating or suspending any funding to plaintiffs; and attorneys\u2019 fees. The case was assigned to Judge Adam B. Abelson.\n\nOn June 17, 2025, the court granted plaintiffs summary judgment with respect to their APA claims, setting aside the EPA\u2019s termination of their grants. The court found that even though the EPA possessed some discretion to advance its policy agenda, it was not allowed to disregard statutory requirements surrounding the grant program. Moreover, even if the agency could so contradict the expressed will of Congress, the court held that the EPA's failure to supply adequate justification for its course of action required it to set aside the grant terminations. The court declined to reach plaintiffs\u2019 constitutional claims. This constituted the final judgment of the district court.\n\nDefendants appealed the district court's summary judgment to the U.S. Circuit Court of Appeals for the Fourth Circuit on July 16, 2025.\n\nThis case is ongoing.",
+    "target_paragraph": "Defendants appealed the district court's summary judgment to the U.S. Circuit Court of Appeals for the Fourth Circuit on July 16, 2025.",
+    "target_paragraph_indices": [
+      2716,
+      2851
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2716,
+            2851
+          ],
+          [
+            2853,
+            2874
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants appealed to the Fourth Circuit on July 16, 2025; the case is ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            3,
+            4
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2716,
+            2851
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed an appeal to the Fourth Circuit on July 16, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2716,
+            2851
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a notice of appeal to the Fourth Circuit on July 16, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46722_p4",
+    "metadata": {
+      "case_id": "46722",
+      "paragraph_num": 4,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "This case challenged the decision of the Environmental Protection Agency (EPA) to terminate plaintiffs\u2019 environmental grants without notice or substantive reason. These grants, awarded in 2024 under the Biden Administration, comprised $8 million given directly to each plaintiff and access to a further $52 million for plaintiffs to distribute among other community-based environmental initiatives in their respective cities. In February 2025\u2014under the Trump Administration\u2014plaintiffs each received notices that their grants had been terminated. These notices of termination were strictly boilerplate and did not include any specific allegations of wrongdoing on the part of plaintiffs; plaintiffs thus alleged the EPA violated the Administrative Procedure Act (APA) and due process. Included in this boilerplate was an EPA \u201cpriority\u201d that it withhold funds from groups that participate in DEI initiatives; plaintiffs alleged that this violated the Clean Water Act\u2019s requirement that grant funds be used to aid underserved communities. Plaintiffs also alleged that it was a violation of the First Amendment for the Trump Administration to terminate their grants based on a difference of views regarding DEI initiatives.\n\nPlaintiffs, three nonprofit and philanthropic organizations, filed this lawsuit in the U.S. District Court for the District of Maryland on April 2, 2025. Plaintiffs are based in Baltimore, Minneapolis, and Seattle. The lawsuit named the EPA and its Administrator, Lee Zeldin, as defendants. Plaintiffs sought postponement and setting aside of the grant terminations under the APA; a declaration that the Clean Air Act prevented the EPA from choosing to withhold funds from DEI-friendly organizations; a declaration that the grant terminations were unconstitutional; a preliminary and permanent injunction requiring the EPA to reinstate plaintiffs\u2019 terminated grants and preventing it from terminating or suspending any funding to plaintiffs; and attorneys\u2019 fees. The case was assigned to Judge Adam B. Abelson.\n\nOn June 17, 2025, the court granted plaintiffs summary judgment with respect to their APA claims, setting aside the EPA\u2019s termination of their grants. The court found that even though the EPA possessed some discretion to advance its policy agenda, it was not allowed to disregard statutory requirements surrounding the grant program. Moreover, even if the agency could so contradict the expressed will of Congress, the court held that the EPA's failure to supply adequate justification for its course of action required it to set aside the grant terminations. The court declined to reach plaintiffs\u2019 constitutional claims. This constituted the final judgment of the district court.\n\nDefendants appealed the district court's summary judgment to the U.S. Circuit Court of Appeals for the Fourth Circuit on July 16, 2025.\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      2853,
+      2874
+    ],
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2853,
+            2874
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

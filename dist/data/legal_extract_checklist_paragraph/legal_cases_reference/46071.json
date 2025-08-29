@@ -1,0 +1,1306 @@
+[
+  {
+    "id": "46071_p0",
+    "metadata": {
+      "case_id": "46071",
+      "paragraph_num": 0,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In this case challenging the constitutionality of a 1976 federal statute that prohibits the Military..."
+    },
+    "source": "",
+    "target": "In this case challenging the constitutionality of a 1976 federal statute that prohibits the Military Health System from providing coverage for medically necessary surgical treatments for gender dysphoria for dependents of service members, a federal district court judge held that the prohibition violates the Equal Protection Clause of the 14th Amendment.\n\nOn December 1, 2022, a \u200btransgender woman receiving health insurance through the U.S. military's TRICARE program as a dependent of a former servicemember and her father, a former servicemember, filed the case in the U.S. District Court for the District of Maine. The plaintiffs sued the Secretary of Defense, the U.S. Department of Defense (\u201cDoD\u201d), its component agency U.S. Defense Health Agency, and TRICARE Health Plan (\u201cTricare\u201d), the U.S. military\u2019s healthcare program administered through the DoD. \u200bThe Plaintiffs challenged a TRICARE provision that bars coverage of any surgery that \u201cimproves physical appearance\u201d without \u201csignificantly restor[ing] functions,\u201d including \u201csex gender changes.\u201d 10 U.S.C. \u00a7 1079(a)(11). The plaintiffs contended that this exclusion barred the former service member\u2019s daughter from receiving necessary procedures to treat her diagnosed gender dysphoria. They alleged the Defendants\u2019 enforcement of this provision to deny coverage of medically necessary gender transition surgeries violated the Plaintiffs\u2019 Equal Protection rights under the Fourteenth Amendment of the United States Constitution.\n\nPlaintiffs, represented by GLBTQ Legal Advocates & Defenders (GLAD) and private counsel, brought suit under 42 U.S.C. \u00a7 1983, alleging that 10 U.S.C. Sec. 1079 (a)(11) (\u201cSection 1079\u201d), which mandates the categorical exclusion of all surgical treatments for gender transition in the military\u2019s medical coverage for eligible dependents of service members, violated the Equal Protection and Due Process Clauses of the Fourteenth Amendment. Plaintiffs also alleged that TRICARE\u2019s refusal to cover surgical treatments for gender transition for eligible dependents of service members, including by the application and enforcement of the exclusion in Section 1079, violated the federal Rehabilitation Act, 29 U.S.C. \u00a7 794. Plaintiffs sought declaratory judgment, permanent injunctive relief to prevent the enforcement of the statutory exclusion, damages, and attorneys\u2019 fees.\n\nThe plaintiffs filed an amended complaint on January 27, 2023, in which they added an additional plaintiff, another transgender woman and dependent of a former service member who had been denied healthcare coverage by TRICARE for surgical procedures necessary to treat her gender dysphoria.\n\nOn December 1, 2023, the plaintiffs filed a motion for summary judgment and a stipulation of voluntary dismissal, in which they dismissed with prejudice their Due Process and Rehabilitation Act claims, and withdrew their damage claims. The DoD filed a cross-motion for summary judgment on February 16, 2024, and both parties completed their briefing on the cross-motions for summary judgment by April 5, 2024.\n\nOn November 1, 2024, District Judge Nancy Torresen granted partial summary judgment in favor of the plaintiffs on their as-applied Equal Protection claim, finding that the TRICARE statutory exclusion discriminated based on sex and transgender status. The court relied on well-established precedents which instruct that sex- and gender-based classifications invoke intermediate scrutiny, and on Bostock v. Clayton County [../../../../case/17313], 590 U.S. 644, 669 (2020) to apply intermediate scrutiny to claims of gender-identity discrimination. Applying intermediate scrutiny, the court found that the DoD failed to identify any important governmental objective to justify the exclusion and raised only technical and procedural objections to the plaintiffs\u2019 Equal Protection claims; accordingly, the court granted partial summary judgment for the plaintiffs as to their as-applied Equal Protection claim. However, the court granted partial summary judgment to the DoD as to the plaintiffs' facial Equal Protection claim, finding that the statute could be interpreted in a constitutional manner. The court issued a declaratory judgment stating that the statutory exclusion was unconstitutional as applied to the plaintiffs, and ordered the parties to meet and confer by November 15, 2024 to determine whether injunctive relief was necessary.\n\nFollowing the Court\u2019s order to meet and confer, the parties filed a joint order on November 15, 2024, stating that they have conferred and jointly believed that all remaining issues in the case could be resolved through settlement without the need for further Court intervention, and that no injunctive relief was necessary at the time of the filing. The parties also requested that the Court defer entering a judgment while settlement negotiations were ongoing.\n\nOn December 13, 2024, the House of Representatives filed a Motion to Intervene and stated its intent to appeal the Court\u2019s decision on the cross-motions for summary judgment once the Court entered judgment in this case. Specifically, the House of Representatives noted its intent to appeal the Court\u2019s determination that the statute violated the Equal Protection Clause as applied to the plaintiffs and to defend the constitutionality of the statute, claiming that the Department of Justice had failed to substantively defend the statute\u2019s constitutionality and noting that the DOJ appeared unlikely to contest the Court\u2019s decision.\n\nIn a December 16, 2024 Joint Status Report, the parties reiterated their belief that the case should be resolved via a settlement agreement and expressed their mutual opposition to the House of Representatives\u2019 motion to intervene. On December 20, 2024, the parties voluntarily dismissed the case with prejudice and without attorneys\u2019 fees or costs to either party. Two days later, the House of Representatives filed a notice in the case, in which it claimed that its pending intervention motion was not moot following the stipulated dismissal of the case. On January 3, 2025, both parties to the case filed responses opposing the House of Representatives\u2019 intervention in the case; on January 8, 2025, the House withdrew its motion to intervene.\n\nGiven that the motion to intervene has been withdrawn and the parties have stipulated to the voluntary dismissal of the case, this case is effectively closed.",
+    "target_paragraph": "In this case challenging the constitutionality of a 1976 federal statute that prohibits the Military Health System from providing coverage for medically necessary surgical treatments for gender dysphoria for dependents of service members, a federal district court judge held that the prohibition violates the Equal Protection Clause of the 14th Amendment.",
+    "target_paragraph_indices": [
+      0,
+      355
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            239,
+            355
+          ],
+          [
+            1248,
+            1489
+          ],
+          [
+            1617,
+            1928
+          ]
+        ],
+        "annotation": {
+          "explanation": "Equal Protection Clause of the Fourteenth Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            1,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            237
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case challenges a 1976 federal statute prohibiting coverage of medically necessary surgical treatments for gender dysphoria for dependents of service members.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46071_p1",
+    "metadata": {
+      "case_id": "46071",
+      "paragraph_num": 1,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On December 1, 2022, a \u200btransgender woman receiving health insurance through the U.S. military's TRI..."
+    },
+    "source": "",
+    "target": "In this case challenging the constitutionality of a 1976 federal statute that prohibits the Military Health System from providing coverage for medically necessary surgical treatments for gender dysphoria for dependents of service members, a federal district court judge held that the prohibition violates the Equal Protection Clause of the 14th Amendment.\n\nOn December 1, 2022, a \u200btransgender woman receiving health insurance through the U.S. military's TRICARE program as a dependent of a former servicemember and her father, a former servicemember, filed the case in the U.S. District Court for the District of Maine. The plaintiffs sued the Secretary of Defense, the U.S. Department of Defense (\u201cDoD\u201d), its component agency U.S. Defense Health Agency, and TRICARE Health Plan (\u201cTricare\u201d), the U.S. military\u2019s healthcare program administered through the DoD. \u200bThe Plaintiffs challenged a TRICARE provision that bars coverage of any surgery that \u201cimproves physical appearance\u201d without \u201csignificantly restor[ing] functions,\u201d including \u201csex gender changes.\u201d 10 U.S.C. \u00a7 1079(a)(11). The plaintiffs contended that this exclusion barred the former service member\u2019s daughter from receiving necessary procedures to treat her diagnosed gender dysphoria. They alleged the Defendants\u2019 enforcement of this provision to deny coverage of medically necessary gender transition surgeries violated the Plaintiffs\u2019 Equal Protection rights under the Fourteenth Amendment of the United States Constitution.\n\nPlaintiffs, represented by GLBTQ Legal Advocates & Defenders (GLAD) and private counsel, brought suit under 42 U.S.C. \u00a7 1983, alleging that 10 U.S.C. Sec. 1079 (a)(11) (\u201cSection 1079\u201d), which mandates the categorical exclusion of all surgical treatments for gender transition in the military\u2019s medical coverage for eligible dependents of service members, violated the Equal Protection and Due Process Clauses of the Fourteenth Amendment. Plaintiffs also alleged that TRICARE\u2019s refusal to cover surgical treatments for gender transition for eligible dependents of service members, including by the application and enforcement of the exclusion in Section 1079, violated the federal Rehabilitation Act, 29 U.S.C. \u00a7 794. Plaintiffs sought declaratory judgment, permanent injunctive relief to prevent the enforcement of the statutory exclusion, damages, and attorneys\u2019 fees.\n\nThe plaintiffs filed an amended complaint on January 27, 2023, in which they added an additional plaintiff, another transgender woman and dependent of a former service member who had been denied healthcare coverage by TRICARE for surgical procedures necessary to treat her gender dysphoria.\n\nOn December 1, 2023, the plaintiffs filed a motion for summary judgment and a stipulation of voluntary dismissal, in which they dismissed with prejudice their Due Process and Rehabilitation Act claims, and withdrew their damage claims. The DoD filed a cross-motion for summary judgment on February 16, 2024, and both parties completed their briefing on the cross-motions for summary judgment by April 5, 2024.\n\nOn November 1, 2024, District Judge Nancy Torresen granted partial summary judgment in favor of the plaintiffs on their as-applied Equal Protection claim, finding that the TRICARE statutory exclusion discriminated based on sex and transgender status. The court relied on well-established precedents which instruct that sex- and gender-based classifications invoke intermediate scrutiny, and on Bostock v. Clayton County [../../../../case/17313], 590 U.S. 644, 669 (2020) to apply intermediate scrutiny to claims of gender-identity discrimination. Applying intermediate scrutiny, the court found that the DoD failed to identify any important governmental objective to justify the exclusion and raised only technical and procedural objections to the plaintiffs\u2019 Equal Protection claims; accordingly, the court granted partial summary judgment for the plaintiffs as to their as-applied Equal Protection claim. However, the court granted partial summary judgment to the DoD as to the plaintiffs' facial Equal Protection claim, finding that the statute could be interpreted in a constitutional manner. The court issued a declaratory judgment stating that the statutory exclusion was unconstitutional as applied to the plaintiffs, and ordered the parties to meet and confer by November 15, 2024 to determine whether injunctive relief was necessary.\n\nFollowing the Court\u2019s order to meet and confer, the parties filed a joint order on November 15, 2024, stating that they have conferred and jointly believed that all remaining issues in the case could be resolved through settlement without the need for further Court intervention, and that no injunctive relief was necessary at the time of the filing. The parties also requested that the Court defer entering a judgment while settlement negotiations were ongoing.\n\nOn December 13, 2024, the House of Representatives filed a Motion to Intervene and stated its intent to appeal the Court\u2019s decision on the cross-motions for summary judgment once the Court entered judgment in this case. Specifically, the House of Representatives noted its intent to appeal the Court\u2019s determination that the statute violated the Equal Protection Clause as applied to the plaintiffs and to defend the constitutionality of the statute, claiming that the Department of Justice had failed to substantively defend the statute\u2019s constitutionality and noting that the DOJ appeared unlikely to contest the Court\u2019s decision.\n\nIn a December 16, 2024 Joint Status Report, the parties reiterated their belief that the case should be resolved via a settlement agreement and expressed their mutual opposition to the House of Representatives\u2019 motion to intervene. On December 20, 2024, the parties voluntarily dismissed the case with prejudice and without attorneys\u2019 fees or costs to either party. Two days later, the House of Representatives filed a notice in the case, in which it claimed that its pending intervention motion was not moot following the stipulated dismissal of the case. On January 3, 2025, both parties to the case filed responses opposing the House of Representatives\u2019 intervention in the case; on January 8, 2025, the House withdrew its motion to intervene.\n\nGiven that the motion to intervene has been withdrawn and the parties have stipulated to the voluntary dismissal of the case, this case is effectively closed.",
+    "target_paragraph": "On December 1, 2022, a \u200btransgender woman receiving health insurance through the U.S. military's TRICARE program as a dependent of a former servicemember and her father, a former servicemember, filed the case in the U.S. District Court for the District of Maine. The plaintiffs sued the Secretary of Defense, the U.S. Department of Defense (\u201cDoD\u201d), its component agency U.S. Defense Health Agency, and TRICARE Health Plan (\u201cTricare\u201d), the U.S. military\u2019s healthcare program administered through the DoD. \u200bThe Plaintiffs challenged a TRICARE provision that bars coverage of any surgery that \u201cimproves physical appearance\u201d without \u201csignificantly restor[ing] functions,\u201d including \u201csex gender changes.\u201d 10 U.S.C. \u00a7 1079(a)(11). The plaintiffs contended that this exclusion barred the former service member\u2019s daughter from receiving necessary procedures to treat her diagnosed gender dysphoria. They alleged the Defendants\u2019 enforcement of this provision to deny coverage of medically necessary gender transition surgeries violated the Plaintiffs\u2019 Equal Protection rights under the Fourteenth Amendment of the United States Constitution.",
+    "target_paragraph_indices": [
+      357,
+      1489
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            357,
+            619
+          ]
+        ],
+        "annotation": {
+          "explanation": "December 1, 2022",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1248,
+            1489
+          ],
+          [
+            1491,
+            1928
+          ],
+          [
+            3065,
+            3315
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1983 claim alleging violation of the Fourteenth Amendment Equal Protection Clause (as-applied to 10 U.S.C. \u00a7 1079(a)(11)); court granted partial summary judgment on the as-applied Equal Protection claim.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            2,
+            5
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            862,
+            1081
+          ],
+          [
+            1617,
+            1844
+          ]
+        ],
+        "annotation": {
+          "explanation": "10 U.S.C. \u00a7 1079(a)(11) (challenged statute)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            378,
+            565
+          ],
+          [
+            2434,
+            2536
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as a transgender woman dependent of a former servicemember and her father (a former servicemember), later joined by another transgender woman dependent of a former servicemember",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            357,
+            619
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: a transgender woman receiving health insurance through the U.S. military's TRICARE program as a dependent of a former servicemember",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            357,
+            619
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: her father, a former servicemember",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            620,
+            860
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of Defense",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            620,
+            860
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Defense (DoD)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            620,
+            860
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Defense Health Agency (component agency of DoD)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            620,
+            860
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: TRICARE Health Plan (Tricare), the U.S. military\u2019s healthcare program administered through the DoD",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            862,
+            1081
+          ]
+        ],
+        "annotation": {
+          "explanation": "Contested statute: 10 U.S.C. \u00a7 1079(a)(11) categorically excludes coverage for surgeries that improve appearance without significantly restoring function, including \u201csex gender changes.\u201d",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            357,
+            619
+          ]
+        ],
+        "annotation": {
+          "explanation": "Initial filing: December 1, 2022, in the U.S. District Court for the District of Maine by a transgender woman TRICARE-dependent and her father (a former servicemember).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1082,
+            1247
+          ]
+        ],
+        "annotation": {
+          "explanation": "Harm: The exclusion blocked the former service member\u2019s daughter from receiving medically necessary procedures to treat diagnosed gender dysphoria.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            759,
+            860
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: TRICARE is the U.S. military\u2019s healthcare program administered by DoD.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1186,
+            1247
+          ]
+        ],
+        "annotation": {
+          "explanation": "Medical context: Plaintiffs\u2019 procedures were to treat diagnosed gender dysphoria.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            357,
+            619
+          ]
+        ],
+        "annotation": {
+          "explanation": "2022-12-01 \u2014 Complaint filed by transgender dependent and her father in the U.S. District Court for the District of Maine.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": "46071_p2",
+    "metadata": {
+      "case_id": "46071",
+      "paragraph_num": 2,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs, represented by GLBTQ Legal Advocates & Defenders (GLAD) and private counsel, brought sui..."
+    },
+    "source": "",
+    "target": "In this case challenging the constitutionality of a 1976 federal statute that prohibits the Military Health System from providing coverage for medically necessary surgical treatments for gender dysphoria for dependents of service members, a federal district court judge held that the prohibition violates the Equal Protection Clause of the 14th Amendment.\n\nOn December 1, 2022, a \u200btransgender woman receiving health insurance through the U.S. military's TRICARE program as a dependent of a former servicemember and her father, a former servicemember, filed the case in the U.S. District Court for the District of Maine. The plaintiffs sued the Secretary of Defense, the U.S. Department of Defense (\u201cDoD\u201d), its component agency U.S. Defense Health Agency, and TRICARE Health Plan (\u201cTricare\u201d), the U.S. military\u2019s healthcare program administered through the DoD. \u200bThe Plaintiffs challenged a TRICARE provision that bars coverage of any surgery that \u201cimproves physical appearance\u201d without \u201csignificantly restor[ing] functions,\u201d including \u201csex gender changes.\u201d 10 U.S.C. \u00a7 1079(a)(11). The plaintiffs contended that this exclusion barred the former service member\u2019s daughter from receiving necessary procedures to treat her diagnosed gender dysphoria. They alleged the Defendants\u2019 enforcement of this provision to deny coverage of medically necessary gender transition surgeries violated the Plaintiffs\u2019 Equal Protection rights under the Fourteenth Amendment of the United States Constitution.\n\nPlaintiffs, represented by GLBTQ Legal Advocates & Defenders (GLAD) and private counsel, brought suit under 42 U.S.C. \u00a7 1983, alleging that 10 U.S.C. Sec. 1079 (a)(11) (\u201cSection 1079\u201d), which mandates the categorical exclusion of all surgical treatments for gender transition in the military\u2019s medical coverage for eligible dependents of service members, violated the Equal Protection and Due Process Clauses of the Fourteenth Amendment. Plaintiffs also alleged that TRICARE\u2019s refusal to cover surgical treatments for gender transition for eligible dependents of service members, including by the application and enforcement of the exclusion in Section 1079, violated the federal Rehabilitation Act, 29 U.S.C. \u00a7 794. Plaintiffs sought declaratory judgment, permanent injunctive relief to prevent the enforcement of the statutory exclusion, damages, and attorneys\u2019 fees.\n\nThe plaintiffs filed an amended complaint on January 27, 2023, in which they added an additional plaintiff, another transgender woman and dependent of a former service member who had been denied healthcare coverage by TRICARE for surgical procedures necessary to treat her gender dysphoria.\n\nOn December 1, 2023, the plaintiffs filed a motion for summary judgment and a stipulation of voluntary dismissal, in which they dismissed with prejudice their Due Process and Rehabilitation Act claims, and withdrew their damage claims. The DoD filed a cross-motion for summary judgment on February 16, 2024, and both parties completed their briefing on the cross-motions for summary judgment by April 5, 2024.\n\nOn November 1, 2024, District Judge Nancy Torresen granted partial summary judgment in favor of the plaintiffs on their as-applied Equal Protection claim, finding that the TRICARE statutory exclusion discriminated based on sex and transgender status. The court relied on well-established precedents which instruct that sex- and gender-based classifications invoke intermediate scrutiny, and on Bostock v. Clayton County [../../../../case/17313], 590 U.S. 644, 669 (2020) to apply intermediate scrutiny to claims of gender-identity discrimination. Applying intermediate scrutiny, the court found that the DoD failed to identify any important governmental objective to justify the exclusion and raised only technical and procedural objections to the plaintiffs\u2019 Equal Protection claims; accordingly, the court granted partial summary judgment for the plaintiffs as to their as-applied Equal Protection claim. However, the court granted partial summary judgment to the DoD as to the plaintiffs' facial Equal Protection claim, finding that the statute could be interpreted in a constitutional manner. The court issued a declaratory judgment stating that the statutory exclusion was unconstitutional as applied to the plaintiffs, and ordered the parties to meet and confer by November 15, 2024 to determine whether injunctive relief was necessary.\n\nFollowing the Court\u2019s order to meet and confer, the parties filed a joint order on November 15, 2024, stating that they have conferred and jointly believed that all remaining issues in the case could be resolved through settlement without the need for further Court intervention, and that no injunctive relief was necessary at the time of the filing. The parties also requested that the Court defer entering a judgment while settlement negotiations were ongoing.\n\nOn December 13, 2024, the House of Representatives filed a Motion to Intervene and stated its intent to appeal the Court\u2019s decision on the cross-motions for summary judgment once the Court entered judgment in this case. Specifically, the House of Representatives noted its intent to appeal the Court\u2019s determination that the statute violated the Equal Protection Clause as applied to the plaintiffs and to defend the constitutionality of the statute, claiming that the Department of Justice had failed to substantively defend the statute\u2019s constitutionality and noting that the DOJ appeared unlikely to contest the Court\u2019s decision.\n\nIn a December 16, 2024 Joint Status Report, the parties reiterated their belief that the case should be resolved via a settlement agreement and expressed their mutual opposition to the House of Representatives\u2019 motion to intervene. On December 20, 2024, the parties voluntarily dismissed the case with prejudice and without attorneys\u2019 fees or costs to either party. Two days later, the House of Representatives filed a notice in the case, in which it claimed that its pending intervention motion was not moot following the stipulated dismissal of the case. On January 3, 2025, both parties to the case filed responses opposing the House of Representatives\u2019 intervention in the case; on January 8, 2025, the House withdrew its motion to intervene.\n\nGiven that the motion to intervene has been withdrawn and the parties have stipulated to the voluntary dismissal of the case, this case is effectively closed.",
+    "target_paragraph": "Plaintiffs, represented by GLBTQ Legal Advocates & Defenders (GLAD) and private counsel, brought suit under 42 U.S.C. \u00a7 1983, alleging that 10 U.S.C. Sec. 1079 (a)(11) (\u201cSection 1079\u201d), which mandates the categorical exclusion of all surgical treatments for gender transition in the military\u2019s medical coverage for eligible dependents of service members, violated the Equal Protection and Due Process Clauses of the Fourteenth Amendment. Plaintiffs also alleged that TRICARE\u2019s refusal to cover surgical treatments for gender transition for eligible dependents of service members, including by the application and enforcement of the exclusion in Section 1079, violated the federal Rehabilitation Act, 29 U.S.C. \u00a7 794. Plaintiffs sought declaratory judgment, permanent injunctive relief to prevent the enforcement of the statutory exclusion, damages, and attorneys\u2019 fees.",
+    "target_paragraph_indices": [
+      1491,
+      2360
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1491,
+            1928
+          ],
+          [
+            2654,
+            2889
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1983 claim alleging violation of the Fourteenth Amendment Due Process Clause (later dismissed with prejudice on Dec. 1, 2023).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            4
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1929,
+            2207
+          ],
+          [
+            2654,
+            2889
+          ]
+        ],
+        "annotation": {
+          "explanation": "Rehabilitation Act claim under 29 U.S.C. \u00a7 794 (later dismissed with prejudice on Dec. 1, 2023).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            4
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1617,
+            1928
+          ]
+        ],
+        "annotation": {
+          "explanation": "Due Process Clause of the Fourteenth Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1929,
+            2207
+          ]
+        ],
+        "annotation": {
+          "explanation": "Rehabilitation Act, 29 U.S.C. \u00a7 794",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1491,
+            1615
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1983 (cause of action)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2208,
+            2360
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2208,
+            2360
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunctive relief to prevent enforcement of the statutory exclusion",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2208,
+            2360
+          ],
+          [
+            2654,
+            2889
+          ]
+        ],
+        "annotation": {
+          "explanation": "Damages (later withdrawn)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            2,
+            4
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2208,
+            2360
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys\u2019 fees",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1491,
+            1615
+          ]
+        ],
+        "annotation": {
+          "explanation": "GLBTQ Legal Advocates & Defenders (GLAD)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1491,
+            1615
+          ]
+        ],
+        "annotation": {
+          "explanation": "private counsel",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1491,
+            1928
+          ],
+          [
+            1929,
+            2207
+          ],
+          [
+            2208,
+            2360
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims and requested relief: Brought under 42 U.S.C. \u00a7 1983 alleging Equal Protection and Due Process violations, and alleged a Rehabilitation Act violation; sought declaratory and permanent injunctive relief, damages, and attorneys\u2019 fees.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": "46071_p3",
+    "metadata": {
+      "case_id": "46071",
+      "paragraph_num": 3,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs filed an amended complaint on January 27, 2023, in which they added an additional pla..."
+    },
+    "source": "",
+    "target": "In this case challenging the constitutionality of a 1976 federal statute that prohibits the Military Health System from providing coverage for medically necessary surgical treatments for gender dysphoria for dependents of service members, a federal district court judge held that the prohibition violates the Equal Protection Clause of the 14th Amendment.\n\nOn December 1, 2022, a \u200btransgender woman receiving health insurance through the U.S. military's TRICARE program as a dependent of a former servicemember and her father, a former servicemember, filed the case in the U.S. District Court for the District of Maine. The plaintiffs sued the Secretary of Defense, the U.S. Department of Defense (\u201cDoD\u201d), its component agency U.S. Defense Health Agency, and TRICARE Health Plan (\u201cTricare\u201d), the U.S. military\u2019s healthcare program administered through the DoD. \u200bThe Plaintiffs challenged a TRICARE provision that bars coverage of any surgery that \u201cimproves physical appearance\u201d without \u201csignificantly restor[ing] functions,\u201d including \u201csex gender changes.\u201d 10 U.S.C. \u00a7 1079(a)(11). The plaintiffs contended that this exclusion barred the former service member\u2019s daughter from receiving necessary procedures to treat her diagnosed gender dysphoria. They alleged the Defendants\u2019 enforcement of this provision to deny coverage of medically necessary gender transition surgeries violated the Plaintiffs\u2019 Equal Protection rights under the Fourteenth Amendment of the United States Constitution.\n\nPlaintiffs, represented by GLBTQ Legal Advocates & Defenders (GLAD) and private counsel, brought suit under 42 U.S.C. \u00a7 1983, alleging that 10 U.S.C. Sec. 1079 (a)(11) (\u201cSection 1079\u201d), which mandates the categorical exclusion of all surgical treatments for gender transition in the military\u2019s medical coverage for eligible dependents of service members, violated the Equal Protection and Due Process Clauses of the Fourteenth Amendment. Plaintiffs also alleged that TRICARE\u2019s refusal to cover surgical treatments for gender transition for eligible dependents of service members, including by the application and enforcement of the exclusion in Section 1079, violated the federal Rehabilitation Act, 29 U.S.C. \u00a7 794. Plaintiffs sought declaratory judgment, permanent injunctive relief to prevent the enforcement of the statutory exclusion, damages, and attorneys\u2019 fees.\n\nThe plaintiffs filed an amended complaint on January 27, 2023, in which they added an additional plaintiff, another transgender woman and dependent of a former service member who had been denied healthcare coverage by TRICARE for surgical procedures necessary to treat her gender dysphoria.\n\nOn December 1, 2023, the plaintiffs filed a motion for summary judgment and a stipulation of voluntary dismissal, in which they dismissed with prejudice their Due Process and Rehabilitation Act claims, and withdrew their damage claims. The DoD filed a cross-motion for summary judgment on February 16, 2024, and both parties completed their briefing on the cross-motions for summary judgment by April 5, 2024.\n\nOn November 1, 2024, District Judge Nancy Torresen granted partial summary judgment in favor of the plaintiffs on their as-applied Equal Protection claim, finding that the TRICARE statutory exclusion discriminated based on sex and transgender status. The court relied on well-established precedents which instruct that sex- and gender-based classifications invoke intermediate scrutiny, and on Bostock v. Clayton County [../../../../case/17313], 590 U.S. 644, 669 (2020) to apply intermediate scrutiny to claims of gender-identity discrimination. Applying intermediate scrutiny, the court found that the DoD failed to identify any important governmental objective to justify the exclusion and raised only technical and procedural objections to the plaintiffs\u2019 Equal Protection claims; accordingly, the court granted partial summary judgment for the plaintiffs as to their as-applied Equal Protection claim. However, the court granted partial summary judgment to the DoD as to the plaintiffs' facial Equal Protection claim, finding that the statute could be interpreted in a constitutional manner. The court issued a declaratory judgment stating that the statutory exclusion was unconstitutional as applied to the plaintiffs, and ordered the parties to meet and confer by November 15, 2024 to determine whether injunctive relief was necessary.\n\nFollowing the Court\u2019s order to meet and confer, the parties filed a joint order on November 15, 2024, stating that they have conferred and jointly believed that all remaining issues in the case could be resolved through settlement without the need for further Court intervention, and that no injunctive relief was necessary at the time of the filing. The parties also requested that the Court defer entering a judgment while settlement negotiations were ongoing.\n\nOn December 13, 2024, the House of Representatives filed a Motion to Intervene and stated its intent to appeal the Court\u2019s decision on the cross-motions for summary judgment once the Court entered judgment in this case. Specifically, the House of Representatives noted its intent to appeal the Court\u2019s determination that the statute violated the Equal Protection Clause as applied to the plaintiffs and to defend the constitutionality of the statute, claiming that the Department of Justice had failed to substantively defend the statute\u2019s constitutionality and noting that the DOJ appeared unlikely to contest the Court\u2019s decision.\n\nIn a December 16, 2024 Joint Status Report, the parties reiterated their belief that the case should be resolved via a settlement agreement and expressed their mutual opposition to the House of Representatives\u2019 motion to intervene. On December 20, 2024, the parties voluntarily dismissed the case with prejudice and without attorneys\u2019 fees or costs to either party. Two days later, the House of Representatives filed a notice in the case, in which it claimed that its pending intervention motion was not moot following the stipulated dismissal of the case. On January 3, 2025, both parties to the case filed responses opposing the House of Representatives\u2019 intervention in the case; on January 8, 2025, the House withdrew its motion to intervene.\n\nGiven that the motion to intervene has been withdrawn and the parties have stipulated to the voluntary dismissal of the case, this case is effectively closed.",
+    "target_paragraph": "The plaintiffs filed an amended complaint on January 27, 2023, in which they added an additional plaintiff, another transgender woman and dependent of a former service member who had been denied healthcare coverage by TRICARE for surgical procedures necessary to treat her gender dysphoria.",
+    "target_paragraph_indices": [
+      2362,
+      2652
+    ],
+    "edits": [
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            2362,
+            2652
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: another transgender woman and dependent of a former service member who had been denied TRICARE coverage for surgical procedures necessary to treat her gender dysphoria",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2362,
+            2652
+          ]
+        ],
+        "annotation": {
+          "explanation": "An additional plaintiff (transgender woman, dependent of a former service member) was added on January 27, 2023, also denied TRICARE coverage for necessary surgical treatment of gender dysphoria.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2362,
+            2652
+          ]
+        ],
+        "annotation": {
+          "explanation": "2023-01-27 \u2014 Amended complaint filed adding an additional transgender dependent plaintiff.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46071_p4",
+    "metadata": {
+      "case_id": "46071",
+      "paragraph_num": 4,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On December 1, 2023, the plaintiffs filed a motion for summary judgment and a stipulation of volunta..."
+    },
+    "source": "",
+    "target": "In this case challenging the constitutionality of a 1976 federal statute that prohibits the Military Health System from providing coverage for medically necessary surgical treatments for gender dysphoria for dependents of service members, a federal district court judge held that the prohibition violates the Equal Protection Clause of the 14th Amendment.\n\nOn December 1, 2022, a \u200btransgender woman receiving health insurance through the U.S. military's TRICARE program as a dependent of a former servicemember and her father, a former servicemember, filed the case in the U.S. District Court for the District of Maine. The plaintiffs sued the Secretary of Defense, the U.S. Department of Defense (\u201cDoD\u201d), its component agency U.S. Defense Health Agency, and TRICARE Health Plan (\u201cTricare\u201d), the U.S. military\u2019s healthcare program administered through the DoD. \u200bThe Plaintiffs challenged a TRICARE provision that bars coverage of any surgery that \u201cimproves physical appearance\u201d without \u201csignificantly restor[ing] functions,\u201d including \u201csex gender changes.\u201d 10 U.S.C. \u00a7 1079(a)(11). The plaintiffs contended that this exclusion barred the former service member\u2019s daughter from receiving necessary procedures to treat her diagnosed gender dysphoria. They alleged the Defendants\u2019 enforcement of this provision to deny coverage of medically necessary gender transition surgeries violated the Plaintiffs\u2019 Equal Protection rights under the Fourteenth Amendment of the United States Constitution.\n\nPlaintiffs, represented by GLBTQ Legal Advocates & Defenders (GLAD) and private counsel, brought suit under 42 U.S.C. \u00a7 1983, alleging that 10 U.S.C. Sec. 1079 (a)(11) (\u201cSection 1079\u201d), which mandates the categorical exclusion of all surgical treatments for gender transition in the military\u2019s medical coverage for eligible dependents of service members, violated the Equal Protection and Due Process Clauses of the Fourteenth Amendment. Plaintiffs also alleged that TRICARE\u2019s refusal to cover surgical treatments for gender transition for eligible dependents of service members, including by the application and enforcement of the exclusion in Section 1079, violated the federal Rehabilitation Act, 29 U.S.C. \u00a7 794. Plaintiffs sought declaratory judgment, permanent injunctive relief to prevent the enforcement of the statutory exclusion, damages, and attorneys\u2019 fees.\n\nThe plaintiffs filed an amended complaint on January 27, 2023, in which they added an additional plaintiff, another transgender woman and dependent of a former service member who had been denied healthcare coverage by TRICARE for surgical procedures necessary to treat her gender dysphoria.\n\nOn December 1, 2023, the plaintiffs filed a motion for summary judgment and a stipulation of voluntary dismissal, in which they dismissed with prejudice their Due Process and Rehabilitation Act claims, and withdrew their damage claims. The DoD filed a cross-motion for summary judgment on February 16, 2024, and both parties completed their briefing on the cross-motions for summary judgment by April 5, 2024.\n\nOn November 1, 2024, District Judge Nancy Torresen granted partial summary judgment in favor of the plaintiffs on their as-applied Equal Protection claim, finding that the TRICARE statutory exclusion discriminated based on sex and transgender status. The court relied on well-established precedents which instruct that sex- and gender-based classifications invoke intermediate scrutiny, and on Bostock v. Clayton County [../../../../case/17313], 590 U.S. 644, 669 (2020) to apply intermediate scrutiny to claims of gender-identity discrimination. Applying intermediate scrutiny, the court found that the DoD failed to identify any important governmental objective to justify the exclusion and raised only technical and procedural objections to the plaintiffs\u2019 Equal Protection claims; accordingly, the court granted partial summary judgment for the plaintiffs as to their as-applied Equal Protection claim. However, the court granted partial summary judgment to the DoD as to the plaintiffs' facial Equal Protection claim, finding that the statute could be interpreted in a constitutional manner. The court issued a declaratory judgment stating that the statutory exclusion was unconstitutional as applied to the plaintiffs, and ordered the parties to meet and confer by November 15, 2024 to determine whether injunctive relief was necessary.\n\nFollowing the Court\u2019s order to meet and confer, the parties filed a joint order on November 15, 2024, stating that they have conferred and jointly believed that all remaining issues in the case could be resolved through settlement without the need for further Court intervention, and that no injunctive relief was necessary at the time of the filing. The parties also requested that the Court defer entering a judgment while settlement negotiations were ongoing.\n\nOn December 13, 2024, the House of Representatives filed a Motion to Intervene and stated its intent to appeal the Court\u2019s decision on the cross-motions for summary judgment once the Court entered judgment in this case. Specifically, the House of Representatives noted its intent to appeal the Court\u2019s determination that the statute violated the Equal Protection Clause as applied to the plaintiffs and to defend the constitutionality of the statute, claiming that the Department of Justice had failed to substantively defend the statute\u2019s constitutionality and noting that the DOJ appeared unlikely to contest the Court\u2019s decision.\n\nIn a December 16, 2024 Joint Status Report, the parties reiterated their belief that the case should be resolved via a settlement agreement and expressed their mutual opposition to the House of Representatives\u2019 motion to intervene. On December 20, 2024, the parties voluntarily dismissed the case with prejudice and without attorneys\u2019 fees or costs to either party. Two days later, the House of Representatives filed a notice in the case, in which it claimed that its pending intervention motion was not moot following the stipulated dismissal of the case. On January 3, 2025, both parties to the case filed responses opposing the House of Representatives\u2019 intervention in the case; on January 8, 2025, the House withdrew its motion to intervene.\n\nGiven that the motion to intervene has been withdrawn and the parties have stipulated to the voluntary dismissal of the case, this case is effectively closed.",
+    "target_paragraph": "On December 1, 2023, the plaintiffs filed a motion for summary judgment and a stipulation of voluntary dismissal, in which they dismissed with prejudice their Due Process and Rehabilitation Act claims, and withdrew their damage claims. The DoD filed a cross-motion for summary judgment on February 16, 2024, and both parties completed their briefing on the cross-motions for summary judgment by April 5, 2024.",
+    "target_paragraph_indices": [
+      2654,
+      3063
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2654,
+            2889
+          ],
+          [
+            2890,
+            3063
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural narrowing and motions: On Dec. 1, 2023, plaintiffs moved for summary judgment and dismissed Due Process and Rehabilitation Act claims and damages; DoD cross-moved on Feb. 16, 2024; briefing completed by Apr. 5, 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2654,
+            2889
+          ]
+        ],
+        "annotation": {
+          "explanation": "2023-12-01 \u2014 Plaintiffs' motion for summary judgment filed.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2654,
+            2889
+          ]
+        ],
+        "annotation": {
+          "explanation": "2023-12-01 \u2014 Stipulation of voluntary dismissal filed by plaintiffs dismissing with prejudice their Due Process and Rehabilitation Act claims and withdrawing damages claims.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2890,
+            3063
+          ]
+        ],
+        "annotation": {
+          "explanation": "2024-02-16 \u2014 DoD cross-motion for summary judgment filed.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2654,
+            2889
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs stipulated to dismiss with prejudice their Due Process and Rehabilitation Act claims and withdrew damages claims.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2654,
+            2725
+          ],
+          [
+            3065,
+            3315
+          ],
+          [
+            4162,
+            4407
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for summary judgment granted in part on November 1, 2024\u2014partial summary judgment for plaintiffs on their as-applied Equal Protection claim; declaratory judgment issued that the exclusion is unconstitutional as applied.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2890,
+            2960
+          ],
+          [
+            3972,
+            4161
+          ]
+        ],
+        "annotation": {
+          "explanation": "DoD\u2019s cross-motion for summary judgment granted in part on November 1, 2024\u2014partial summary judgment for DoD on the plaintiffs\u2019 facial Equal Protection claim.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46071_p5",
+    "metadata": {
+      "case_id": "46071",
+      "paragraph_num": 5,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On November 1, 2024, District Judge Nancy Torresen granted partial summary judgment in favor of the ..."
+    },
+    "source": "",
+    "target": "In this case challenging the constitutionality of a 1976 federal statute that prohibits the Military Health System from providing coverage for medically necessary surgical treatments for gender dysphoria for dependents of service members, a federal district court judge held that the prohibition violates the Equal Protection Clause of the 14th Amendment.\n\nOn December 1, 2022, a \u200btransgender woman receiving health insurance through the U.S. military's TRICARE program as a dependent of a former servicemember and her father, a former servicemember, filed the case in the U.S. District Court for the District of Maine. The plaintiffs sued the Secretary of Defense, the U.S. Department of Defense (\u201cDoD\u201d), its component agency U.S. Defense Health Agency, and TRICARE Health Plan (\u201cTricare\u201d), the U.S. military\u2019s healthcare program administered through the DoD. \u200bThe Plaintiffs challenged a TRICARE provision that bars coverage of any surgery that \u201cimproves physical appearance\u201d without \u201csignificantly restor[ing] functions,\u201d including \u201csex gender changes.\u201d 10 U.S.C. \u00a7 1079(a)(11). The plaintiffs contended that this exclusion barred the former service member\u2019s daughter from receiving necessary procedures to treat her diagnosed gender dysphoria. They alleged the Defendants\u2019 enforcement of this provision to deny coverage of medically necessary gender transition surgeries violated the Plaintiffs\u2019 Equal Protection rights under the Fourteenth Amendment of the United States Constitution.\n\nPlaintiffs, represented by GLBTQ Legal Advocates & Defenders (GLAD) and private counsel, brought suit under 42 U.S.C. \u00a7 1983, alleging that 10 U.S.C. Sec. 1079 (a)(11) (\u201cSection 1079\u201d), which mandates the categorical exclusion of all surgical treatments for gender transition in the military\u2019s medical coverage for eligible dependents of service members, violated the Equal Protection and Due Process Clauses of the Fourteenth Amendment. Plaintiffs also alleged that TRICARE\u2019s refusal to cover surgical treatments for gender transition for eligible dependents of service members, including by the application and enforcement of the exclusion in Section 1079, violated the federal Rehabilitation Act, 29 U.S.C. \u00a7 794. Plaintiffs sought declaratory judgment, permanent injunctive relief to prevent the enforcement of the statutory exclusion, damages, and attorneys\u2019 fees.\n\nThe plaintiffs filed an amended complaint on January 27, 2023, in which they added an additional plaintiff, another transgender woman and dependent of a former service member who had been denied healthcare coverage by TRICARE for surgical procedures necessary to treat her gender dysphoria.\n\nOn December 1, 2023, the plaintiffs filed a motion for summary judgment and a stipulation of voluntary dismissal, in which they dismissed with prejudice their Due Process and Rehabilitation Act claims, and withdrew their damage claims. The DoD filed a cross-motion for summary judgment on February 16, 2024, and both parties completed their briefing on the cross-motions for summary judgment by April 5, 2024.\n\nOn November 1, 2024, District Judge Nancy Torresen granted partial summary judgment in favor of the plaintiffs on their as-applied Equal Protection claim, finding that the TRICARE statutory exclusion discriminated based on sex and transgender status. The court relied on well-established precedents which instruct that sex- and gender-based classifications invoke intermediate scrutiny, and on Bostock v. Clayton County [../../../../case/17313], 590 U.S. 644, 669 (2020) to apply intermediate scrutiny to claims of gender-identity discrimination. Applying intermediate scrutiny, the court found that the DoD failed to identify any important governmental objective to justify the exclusion and raised only technical and procedural objections to the plaintiffs\u2019 Equal Protection claims; accordingly, the court granted partial summary judgment for the plaintiffs as to their as-applied Equal Protection claim. However, the court granted partial summary judgment to the DoD as to the plaintiffs' facial Equal Protection claim, finding that the statute could be interpreted in a constitutional manner. The court issued a declaratory judgment stating that the statutory exclusion was unconstitutional as applied to the plaintiffs, and ordered the parties to meet and confer by November 15, 2024 to determine whether injunctive relief was necessary.\n\nFollowing the Court\u2019s order to meet and confer, the parties filed a joint order on November 15, 2024, stating that they have conferred and jointly believed that all remaining issues in the case could be resolved through settlement without the need for further Court intervention, and that no injunctive relief was necessary at the time of the filing. The parties also requested that the Court defer entering a judgment while settlement negotiations were ongoing.\n\nOn December 13, 2024, the House of Representatives filed a Motion to Intervene and stated its intent to appeal the Court\u2019s decision on the cross-motions for summary judgment once the Court entered judgment in this case. Specifically, the House of Representatives noted its intent to appeal the Court\u2019s determination that the statute violated the Equal Protection Clause as applied to the plaintiffs and to defend the constitutionality of the statute, claiming that the Department of Justice had failed to substantively defend the statute\u2019s constitutionality and noting that the DOJ appeared unlikely to contest the Court\u2019s decision.\n\nIn a December 16, 2024 Joint Status Report, the parties reiterated their belief that the case should be resolved via a settlement agreement and expressed their mutual opposition to the House of Representatives\u2019 motion to intervene. On December 20, 2024, the parties voluntarily dismissed the case with prejudice and without attorneys\u2019 fees or costs to either party. Two days later, the House of Representatives filed a notice in the case, in which it claimed that its pending intervention motion was not moot following the stipulated dismissal of the case. On January 3, 2025, both parties to the case filed responses opposing the House of Representatives\u2019 intervention in the case; on January 8, 2025, the House withdrew its motion to intervene.\n\nGiven that the motion to intervene has been withdrawn and the parties have stipulated to the voluntary dismissal of the case, this case is effectively closed.",
+    "target_paragraph": "On November 1, 2024, District Judge Nancy Torresen granted partial summary judgment in favor of the plaintiffs on their as-applied Equal Protection claim, finding that the TRICARE statutory exclusion discriminated based on sex and transgender status. The court relied on well-established precedents which instruct that sex- and gender-based classifications invoke intermediate scrutiny, and on Bostock v. Clayton County [../../../../case/17313], 590 U.S. 644, 669 (2020) to apply intermediate scrutiny to claims of gender-identity discrimination. Applying intermediate scrutiny, the court found that the DoD failed to identify any important governmental objective to justify the exclusion and raised only technical and procedural objections to the plaintiffs\u2019 Equal Protection claims; accordingly, the court granted partial summary judgment for the plaintiffs as to their as-applied Equal Protection claim. However, the court granted partial summary judgment to the DoD as to the plaintiffs' facial Equal Protection claim, finding that the statute could be interpreted in a constitutional manner. The court issued a declaratory judgment stating that the statutory exclusion was unconstitutional as applied to the plaintiffs, and ordered the parties to meet and confer by November 15, 2024 to determine whether injunctive relief was necessary.",
+    "target_paragraph_indices": [
+      3065,
+      4407
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            3065,
+            3315
+          ]
+        ],
+        "annotation": {
+          "explanation": "Nancy Torresen",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3459,
+            3535
+          ]
+        ],
+        "annotation": {
+          "explanation": "Bostock, 590 U.S. 644, 669 (2020)",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            3316,
+            3611
+          ]
+        ],
+        "annotation": {
+          "explanation": "Bostock v. Clayton County \u2014 case code 17313; citation 590 U.S. 644, 669 (2020)",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3065,
+            3315
+          ],
+          [
+            3972,
+            4161
+          ],
+          [
+            4162,
+            4407
+          ]
+        ],
+        "annotation": {
+          "explanation": "November 1, 2024: District Judge Nancy Torresen granted partial summary judgment for the plaintiffs on their as-applied Equal Protection claim; granted partial summary judgment to the DoD on the plaintiffs\u2019 facial Equal Protection claim; issued a declaratory judgment that the statutory exclusion was unconstitutional as applied to the plaintiffs; and ordered the parties to meet and confer by November 15, 2024 to determine whether injunctive relief was necessary.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3065,
+            3315
+          ],
+          [
+            4162,
+            4407
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ruling: On Nov. 1, 2024, Judge Nancy Torresen granted partial summary judgment for plaintiffs on an as-applied Equal Protection claim, declared the exclusion unconstitutional as applied, and directed a meet-and-confer on injunctive relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3972,
+            4161
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court denied the facial Equal Protection challenge, finding the statute could be interpreted constitutionally.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4162,
+            4288
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment: 10 U.S.C. \u00a7 1079(a)(11) is unconstitutional as applied to the plaintiffs (no injunction entered at that time).",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4290,
+            4407
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order: Parties must meet and confer by November 15, 2024 to determine whether injunctive relief is necessary.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4294,
+            4407
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties ordered to meet and confer by November 15, 2024 to determine whether injunctive relief was necessary.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46071_p6",
+    "metadata": {
+      "case_id": "46071",
+      "paragraph_num": 6,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Following the Court\u2019s order to meet and confer, the parties filed a joint order on November 15, 2024..."
+    },
+    "source": "",
+    "target": "In this case challenging the constitutionality of a 1976 federal statute that prohibits the Military Health System from providing coverage for medically necessary surgical treatments for gender dysphoria for dependents of service members, a federal district court judge held that the prohibition violates the Equal Protection Clause of the 14th Amendment.\n\nOn December 1, 2022, a \u200btransgender woman receiving health insurance through the U.S. military's TRICARE program as a dependent of a former servicemember and her father, a former servicemember, filed the case in the U.S. District Court for the District of Maine. The plaintiffs sued the Secretary of Defense, the U.S. Department of Defense (\u201cDoD\u201d), its component agency U.S. Defense Health Agency, and TRICARE Health Plan (\u201cTricare\u201d), the U.S. military\u2019s healthcare program administered through the DoD. \u200bThe Plaintiffs challenged a TRICARE provision that bars coverage of any surgery that \u201cimproves physical appearance\u201d without \u201csignificantly restor[ing] functions,\u201d including \u201csex gender changes.\u201d 10 U.S.C. \u00a7 1079(a)(11). The plaintiffs contended that this exclusion barred the former service member\u2019s daughter from receiving necessary procedures to treat her diagnosed gender dysphoria. They alleged the Defendants\u2019 enforcement of this provision to deny coverage of medically necessary gender transition surgeries violated the Plaintiffs\u2019 Equal Protection rights under the Fourteenth Amendment of the United States Constitution.\n\nPlaintiffs, represented by GLBTQ Legal Advocates & Defenders (GLAD) and private counsel, brought suit under 42 U.S.C. \u00a7 1983, alleging that 10 U.S.C. Sec. 1079 (a)(11) (\u201cSection 1079\u201d), which mandates the categorical exclusion of all surgical treatments for gender transition in the military\u2019s medical coverage for eligible dependents of service members, violated the Equal Protection and Due Process Clauses of the Fourteenth Amendment. Plaintiffs also alleged that TRICARE\u2019s refusal to cover surgical treatments for gender transition for eligible dependents of service members, including by the application and enforcement of the exclusion in Section 1079, violated the federal Rehabilitation Act, 29 U.S.C. \u00a7 794. Plaintiffs sought declaratory judgment, permanent injunctive relief to prevent the enforcement of the statutory exclusion, damages, and attorneys\u2019 fees.\n\nThe plaintiffs filed an amended complaint on January 27, 2023, in which they added an additional plaintiff, another transgender woman and dependent of a former service member who had been denied healthcare coverage by TRICARE for surgical procedures necessary to treat her gender dysphoria.\n\nOn December 1, 2023, the plaintiffs filed a motion for summary judgment and a stipulation of voluntary dismissal, in which they dismissed with prejudice their Due Process and Rehabilitation Act claims, and withdrew their damage claims. The DoD filed a cross-motion for summary judgment on February 16, 2024, and both parties completed their briefing on the cross-motions for summary judgment by April 5, 2024.\n\nOn November 1, 2024, District Judge Nancy Torresen granted partial summary judgment in favor of the plaintiffs on their as-applied Equal Protection claim, finding that the TRICARE statutory exclusion discriminated based on sex and transgender status. The court relied on well-established precedents which instruct that sex- and gender-based classifications invoke intermediate scrutiny, and on Bostock v. Clayton County [../../../../case/17313], 590 U.S. 644, 669 (2020) to apply intermediate scrutiny to claims of gender-identity discrimination. Applying intermediate scrutiny, the court found that the DoD failed to identify any important governmental objective to justify the exclusion and raised only technical and procedural objections to the plaintiffs\u2019 Equal Protection claims; accordingly, the court granted partial summary judgment for the plaintiffs as to their as-applied Equal Protection claim. However, the court granted partial summary judgment to the DoD as to the plaintiffs' facial Equal Protection claim, finding that the statute could be interpreted in a constitutional manner. The court issued a declaratory judgment stating that the statutory exclusion was unconstitutional as applied to the plaintiffs, and ordered the parties to meet and confer by November 15, 2024 to determine whether injunctive relief was necessary.\n\nFollowing the Court\u2019s order to meet and confer, the parties filed a joint order on November 15, 2024, stating that they have conferred and jointly believed that all remaining issues in the case could be resolved through settlement without the need for further Court intervention, and that no injunctive relief was necessary at the time of the filing. The parties also requested that the Court defer entering a judgment while settlement negotiations were ongoing.\n\nOn December 13, 2024, the House of Representatives filed a Motion to Intervene and stated its intent to appeal the Court\u2019s decision on the cross-motions for summary judgment once the Court entered judgment in this case. Specifically, the House of Representatives noted its intent to appeal the Court\u2019s determination that the statute violated the Equal Protection Clause as applied to the plaintiffs and to defend the constitutionality of the statute, claiming that the Department of Justice had failed to substantively defend the statute\u2019s constitutionality and noting that the DOJ appeared unlikely to contest the Court\u2019s decision.\n\nIn a December 16, 2024 Joint Status Report, the parties reiterated their belief that the case should be resolved via a settlement agreement and expressed their mutual opposition to the House of Representatives\u2019 motion to intervene. On December 20, 2024, the parties voluntarily dismissed the case with prejudice and without attorneys\u2019 fees or costs to either party. Two days later, the House of Representatives filed a notice in the case, in which it claimed that its pending intervention motion was not moot following the stipulated dismissal of the case. On January 3, 2025, both parties to the case filed responses opposing the House of Representatives\u2019 intervention in the case; on January 8, 2025, the House withdrew its motion to intervene.\n\nGiven that the motion to intervene has been withdrawn and the parties have stipulated to the voluntary dismissal of the case, this case is effectively closed.",
+    "target_paragraph": "Following the Court\u2019s order to meet and confer, the parties filed a joint order on November 15, 2024, stating that they have conferred and jointly believed that all remaining issues in the case could be resolved through settlement without the need for further Court intervention, and that no injunctive relief was necessary at the time of the filing. The parties also requested that the Court defer entering a judgment while settlement negotiations were ongoing.",
+    "target_paragraph_indices": [
+      4409,
+      4871
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            4457,
+            4759
+          ],
+          [
+            4760,
+            4871
+          ]
+        ],
+        "annotation": {
+          "explanation": "November 15, 2024: Parties filed a joint order stating they believed all remaining issues could be resolved through settlement, no injunctive relief was necessary, and asked the Court to defer judgment while settlement negotiations were ongoing.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            4511,
+            4687
+          ],
+          [
+            4760,
+            4871
+          ],
+          [
+            5739,
+            5872
+          ]
+        ],
+        "annotation": {
+          "explanation": "[No].",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": [
+            6,
+            8
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4409,
+            4759
+          ]
+        ],
+        "annotation": {
+          "explanation": "On Nov. 15, 2024, parties reported settlement prospects and that no injunctive relief was then necessary.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4409,
+            4871
+          ]
+        ],
+        "annotation": {
+          "explanation": "2024-11-15 \u2014 Joint filing stating no injunctive relief necessary and requesting deferral of judgment while settlement negotiations proceed.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46071_p7",
+    "metadata": {
+      "case_id": "46071",
+      "paragraph_num": 7,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On December 13, 2024, the House of Representatives filed a Motion to Intervene and stated its intent..."
+    },
+    "source": "",
+    "target": "In this case challenging the constitutionality of a 1976 federal statute that prohibits the Military Health System from providing coverage for medically necessary surgical treatments for gender dysphoria for dependents of service members, a federal district court judge held that the prohibition violates the Equal Protection Clause of the 14th Amendment.\n\nOn December 1, 2022, a \u200btransgender woman receiving health insurance through the U.S. military's TRICARE program as a dependent of a former servicemember and her father, a former servicemember, filed the case in the U.S. District Court for the District of Maine. The plaintiffs sued the Secretary of Defense, the U.S. Department of Defense (\u201cDoD\u201d), its component agency U.S. Defense Health Agency, and TRICARE Health Plan (\u201cTricare\u201d), the U.S. military\u2019s healthcare program administered through the DoD. \u200bThe Plaintiffs challenged a TRICARE provision that bars coverage of any surgery that \u201cimproves physical appearance\u201d without \u201csignificantly restor[ing] functions,\u201d including \u201csex gender changes.\u201d 10 U.S.C. \u00a7 1079(a)(11). The plaintiffs contended that this exclusion barred the former service member\u2019s daughter from receiving necessary procedures to treat her diagnosed gender dysphoria. They alleged the Defendants\u2019 enforcement of this provision to deny coverage of medically necessary gender transition surgeries violated the Plaintiffs\u2019 Equal Protection rights under the Fourteenth Amendment of the United States Constitution.\n\nPlaintiffs, represented by GLBTQ Legal Advocates & Defenders (GLAD) and private counsel, brought suit under 42 U.S.C. \u00a7 1983, alleging that 10 U.S.C. Sec. 1079 (a)(11) (\u201cSection 1079\u201d), which mandates the categorical exclusion of all surgical treatments for gender transition in the military\u2019s medical coverage for eligible dependents of service members, violated the Equal Protection and Due Process Clauses of the Fourteenth Amendment. Plaintiffs also alleged that TRICARE\u2019s refusal to cover surgical treatments for gender transition for eligible dependents of service members, including by the application and enforcement of the exclusion in Section 1079, violated the federal Rehabilitation Act, 29 U.S.C. \u00a7 794. Plaintiffs sought declaratory judgment, permanent injunctive relief to prevent the enforcement of the statutory exclusion, damages, and attorneys\u2019 fees.\n\nThe plaintiffs filed an amended complaint on January 27, 2023, in which they added an additional plaintiff, another transgender woman and dependent of a former service member who had been denied healthcare coverage by TRICARE for surgical procedures necessary to treat her gender dysphoria.\n\nOn December 1, 2023, the plaintiffs filed a motion for summary judgment and a stipulation of voluntary dismissal, in which they dismissed with prejudice their Due Process and Rehabilitation Act claims, and withdrew their damage claims. The DoD filed a cross-motion for summary judgment on February 16, 2024, and both parties completed their briefing on the cross-motions for summary judgment by April 5, 2024.\n\nOn November 1, 2024, District Judge Nancy Torresen granted partial summary judgment in favor of the plaintiffs on their as-applied Equal Protection claim, finding that the TRICARE statutory exclusion discriminated based on sex and transgender status. The court relied on well-established precedents which instruct that sex- and gender-based classifications invoke intermediate scrutiny, and on Bostock v. Clayton County [../../../../case/17313], 590 U.S. 644, 669 (2020) to apply intermediate scrutiny to claims of gender-identity discrimination. Applying intermediate scrutiny, the court found that the DoD failed to identify any important governmental objective to justify the exclusion and raised only technical and procedural objections to the plaintiffs\u2019 Equal Protection claims; accordingly, the court granted partial summary judgment for the plaintiffs as to their as-applied Equal Protection claim. However, the court granted partial summary judgment to the DoD as to the plaintiffs' facial Equal Protection claim, finding that the statute could be interpreted in a constitutional manner. The court issued a declaratory judgment stating that the statutory exclusion was unconstitutional as applied to the plaintiffs, and ordered the parties to meet and confer by November 15, 2024 to determine whether injunctive relief was necessary.\n\nFollowing the Court\u2019s order to meet and confer, the parties filed a joint order on November 15, 2024, stating that they have conferred and jointly believed that all remaining issues in the case could be resolved through settlement without the need for further Court intervention, and that no injunctive relief was necessary at the time of the filing. The parties also requested that the Court defer entering a judgment while settlement negotiations were ongoing.\n\nOn December 13, 2024, the House of Representatives filed a Motion to Intervene and stated its intent to appeal the Court\u2019s decision on the cross-motions for summary judgment once the Court entered judgment in this case. Specifically, the House of Representatives noted its intent to appeal the Court\u2019s determination that the statute violated the Equal Protection Clause as applied to the plaintiffs and to defend the constitutionality of the statute, claiming that the Department of Justice had failed to substantively defend the statute\u2019s constitutionality and noting that the DOJ appeared unlikely to contest the Court\u2019s decision.\n\nIn a December 16, 2024 Joint Status Report, the parties reiterated their belief that the case should be resolved via a settlement agreement and expressed their mutual opposition to the House of Representatives\u2019 motion to intervene. On December 20, 2024, the parties voluntarily dismissed the case with prejudice and without attorneys\u2019 fees or costs to either party. Two days later, the House of Representatives filed a notice in the case, in which it claimed that its pending intervention motion was not moot following the stipulated dismissal of the case. On January 3, 2025, both parties to the case filed responses opposing the House of Representatives\u2019 intervention in the case; on January 8, 2025, the House withdrew its motion to intervene.\n\nGiven that the motion to intervene has been withdrawn and the parties have stipulated to the voluntary dismissal of the case, this case is effectively closed.",
+    "target_paragraph": "On December 13, 2024, the House of Representatives filed a Motion to Intervene and stated its intent to appeal the Court\u2019s decision on the cross-motions for summary judgment once the Court entered judgment in this case. Specifically, the House of Representatives noted its intent to appeal the Court\u2019s determination that the statute violated the Equal Protection Clause as applied to the plaintiffs and to defend the constitutionality of the statute, claiming that the Department of Justice had failed to substantively defend the statute\u2019s constitutionality and noting that the DOJ appeared unlikely to contest the Court\u2019s decision.",
+    "target_paragraph_indices": [
+      4873,
+      5505
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4873,
+            5092
+          ],
+          [
+            5093,
+            5505
+          ]
+        ],
+        "annotation": {
+          "explanation": "On Dec. 13, 2024, the House of Representatives moved to intervene to defend the statute and intended to appeal the as-applied Equal Protection ruling, citing DOJ\u2019s inadequate defense.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4873,
+            5092
+          ]
+        ],
+        "annotation": {
+          "explanation": "2024-12-13 \u2014 House of Representatives' motion to intervene filed.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46071_p8",
+    "metadata": {
+      "case_id": "46071",
+      "paragraph_num": 8,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In a December 16, 2024 Joint Status Report, the parties reiterated their belief that the case should..."
+    },
+    "source": "",
+    "target": "In this case challenging the constitutionality of a 1976 federal statute that prohibits the Military Health System from providing coverage for medically necessary surgical treatments for gender dysphoria for dependents of service members, a federal district court judge held that the prohibition violates the Equal Protection Clause of the 14th Amendment.\n\nOn December 1, 2022, a \u200btransgender woman receiving health insurance through the U.S. military's TRICARE program as a dependent of a former servicemember and her father, a former servicemember, filed the case in the U.S. District Court for the District of Maine. The plaintiffs sued the Secretary of Defense, the U.S. Department of Defense (\u201cDoD\u201d), its component agency U.S. Defense Health Agency, and TRICARE Health Plan (\u201cTricare\u201d), the U.S. military\u2019s healthcare program administered through the DoD. \u200bThe Plaintiffs challenged a TRICARE provision that bars coverage of any surgery that \u201cimproves physical appearance\u201d without \u201csignificantly restor[ing] functions,\u201d including \u201csex gender changes.\u201d 10 U.S.C. \u00a7 1079(a)(11). The plaintiffs contended that this exclusion barred the former service member\u2019s daughter from receiving necessary procedures to treat her diagnosed gender dysphoria. They alleged the Defendants\u2019 enforcement of this provision to deny coverage of medically necessary gender transition surgeries violated the Plaintiffs\u2019 Equal Protection rights under the Fourteenth Amendment of the United States Constitution.\n\nPlaintiffs, represented by GLBTQ Legal Advocates & Defenders (GLAD) and private counsel, brought suit under 42 U.S.C. \u00a7 1983, alleging that 10 U.S.C. Sec. 1079 (a)(11) (\u201cSection 1079\u201d), which mandates the categorical exclusion of all surgical treatments for gender transition in the military\u2019s medical coverage for eligible dependents of service members, violated the Equal Protection and Due Process Clauses of the Fourteenth Amendment. Plaintiffs also alleged that TRICARE\u2019s refusal to cover surgical treatments for gender transition for eligible dependents of service members, including by the application and enforcement of the exclusion in Section 1079, violated the federal Rehabilitation Act, 29 U.S.C. \u00a7 794. Plaintiffs sought declaratory judgment, permanent injunctive relief to prevent the enforcement of the statutory exclusion, damages, and attorneys\u2019 fees.\n\nThe plaintiffs filed an amended complaint on January 27, 2023, in which they added an additional plaintiff, another transgender woman and dependent of a former service member who had been denied healthcare coverage by TRICARE for surgical procedures necessary to treat her gender dysphoria.\n\nOn December 1, 2023, the plaintiffs filed a motion for summary judgment and a stipulation of voluntary dismissal, in which they dismissed with prejudice their Due Process and Rehabilitation Act claims, and withdrew their damage claims. The DoD filed a cross-motion for summary judgment on February 16, 2024, and both parties completed their briefing on the cross-motions for summary judgment by April 5, 2024.\n\nOn November 1, 2024, District Judge Nancy Torresen granted partial summary judgment in favor of the plaintiffs on their as-applied Equal Protection claim, finding that the TRICARE statutory exclusion discriminated based on sex and transgender status. The court relied on well-established precedents which instruct that sex- and gender-based classifications invoke intermediate scrutiny, and on Bostock v. Clayton County [../../../../case/17313], 590 U.S. 644, 669 (2020) to apply intermediate scrutiny to claims of gender-identity discrimination. Applying intermediate scrutiny, the court found that the DoD failed to identify any important governmental objective to justify the exclusion and raised only technical and procedural objections to the plaintiffs\u2019 Equal Protection claims; accordingly, the court granted partial summary judgment for the plaintiffs as to their as-applied Equal Protection claim. However, the court granted partial summary judgment to the DoD as to the plaintiffs' facial Equal Protection claim, finding that the statute could be interpreted in a constitutional manner. The court issued a declaratory judgment stating that the statutory exclusion was unconstitutional as applied to the plaintiffs, and ordered the parties to meet and confer by November 15, 2024 to determine whether injunctive relief was necessary.\n\nFollowing the Court\u2019s order to meet and confer, the parties filed a joint order on November 15, 2024, stating that they have conferred and jointly believed that all remaining issues in the case could be resolved through settlement without the need for further Court intervention, and that no injunctive relief was necessary at the time of the filing. The parties also requested that the Court defer entering a judgment while settlement negotiations were ongoing.\n\nOn December 13, 2024, the House of Representatives filed a Motion to Intervene and stated its intent to appeal the Court\u2019s decision on the cross-motions for summary judgment once the Court entered judgment in this case. Specifically, the House of Representatives noted its intent to appeal the Court\u2019s determination that the statute violated the Equal Protection Clause as applied to the plaintiffs and to defend the constitutionality of the statute, claiming that the Department of Justice had failed to substantively defend the statute\u2019s constitutionality and noting that the DOJ appeared unlikely to contest the Court\u2019s decision.\n\nIn a December 16, 2024 Joint Status Report, the parties reiterated their belief that the case should be resolved via a settlement agreement and expressed their mutual opposition to the House of Representatives\u2019 motion to intervene. On December 20, 2024, the parties voluntarily dismissed the case with prejudice and without attorneys\u2019 fees or costs to either party. Two days later, the House of Representatives filed a notice in the case, in which it claimed that its pending intervention motion was not moot following the stipulated dismissal of the case. On January 3, 2025, both parties to the case filed responses opposing the House of Representatives\u2019 intervention in the case; on January 8, 2025, the House withdrew its motion to intervene.\n\nGiven that the motion to intervene has been withdrawn and the parties have stipulated to the voluntary dismissal of the case, this case is effectively closed.",
+    "target_paragraph": "In a December 16, 2024 Joint Status Report, the parties reiterated their belief that the case should be resolved via a settlement agreement and expressed their mutual opposition to the House of Representatives\u2019 motion to intervene. On December 20, 2024, the parties voluntarily dismissed the case with prejudice and without attorneys\u2019 fees or costs to either party. Two days later, the House of Representatives filed a notice in the case, in which it claimed that its pending intervention motion was not moot following the stipulated dismissal of the case. On January 3, 2025, both parties to the case filed responses opposing the House of Representatives\u2019 intervention in the case; on January 8, 2025, the House withdrew its motion to intervene.",
+    "target_paragraph_indices": [
+      5507,
+      6253
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            5507,
+            5646
+          ]
+        ],
+        "annotation": {
+          "explanation": "December 16, 2024: Parties reiterated their belief that the case should be resolved via a settlement agreement.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            5739,
+            5872
+          ]
+        ],
+        "annotation": {
+          "explanation": "December 20, 2024: Parties voluntarily dismissed the case with prejudice and without attorneys\u2019 fees or costs to either party.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5507,
+            5738
+          ],
+          [
+            5739,
+            5872
+          ]
+        ],
+        "annotation": {
+          "explanation": "On Dec. 16, 2024, the parties opposed intervention and favored settlement; on Dec. 20, 2024, they voluntarily dismissed the case with prejudice without fees or costs.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5507,
+            5738
+          ]
+        ],
+        "annotation": {
+          "explanation": "2024-12-16 \u2014 Joint Status Report filed by the parties opposing intervention and supporting settlement.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5739,
+            5872
+          ]
+        ],
+        "annotation": {
+          "explanation": "2024-12-20 \u2014 Stipulation/notice of voluntary dismissal of the case with prejudice filed by the parties, with no fees or costs.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5873,
+            6063
+          ]
+        ],
+        "annotation": {
+          "explanation": "2024-12-22 \u2014 House of Representatives filed a notice asserting its intervention motion was not moot after dismissal.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            6064,
+            6253
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025-01-03 \u2014 Parties filed responses opposing the House of Representatives\u2019 intervention.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            6064,
+            6253
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025-01-08 \u2014 House of Representatives withdrew its motion to intervene.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            5739,
+            5872
+          ]
+        ],
+        "annotation": {
+          "explanation": "Stipulated dismissal: Case dismissed with prejudice; each party bears its own attorneys\u2019 fees and costs.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            5739,
+            5872
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement/Disposition: Case voluntarily dismissed with prejudice; each side bears its own attorneys\u2019 fees and costs.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46071_p9",
+    "metadata": {
+      "case_id": "46071",
+      "paragraph_num": 9,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Given that the motion to intervene has been withdrawn and the parties have stipulated to the volunta..."
+    },
+    "source": "",
+    "target": "In this case challenging the constitutionality of a 1976 federal statute that prohibits the Military Health System from providing coverage for medically necessary surgical treatments for gender dysphoria for dependents of service members, a federal district court judge held that the prohibition violates the Equal Protection Clause of the 14th Amendment.\n\nOn December 1, 2022, a \u200btransgender woman receiving health insurance through the U.S. military's TRICARE program as a dependent of a former servicemember and her father, a former servicemember, filed the case in the U.S. District Court for the District of Maine. The plaintiffs sued the Secretary of Defense, the U.S. Department of Defense (\u201cDoD\u201d), its component agency U.S. Defense Health Agency, and TRICARE Health Plan (\u201cTricare\u201d), the U.S. military\u2019s healthcare program administered through the DoD. \u200bThe Plaintiffs challenged a TRICARE provision that bars coverage of any surgery that \u201cimproves physical appearance\u201d without \u201csignificantly restor[ing] functions,\u201d including \u201csex gender changes.\u201d 10 U.S.C. \u00a7 1079(a)(11). The plaintiffs contended that this exclusion barred the former service member\u2019s daughter from receiving necessary procedures to treat her diagnosed gender dysphoria. They alleged the Defendants\u2019 enforcement of this provision to deny coverage of medically necessary gender transition surgeries violated the Plaintiffs\u2019 Equal Protection rights under the Fourteenth Amendment of the United States Constitution.\n\nPlaintiffs, represented by GLBTQ Legal Advocates & Defenders (GLAD) and private counsel, brought suit under 42 U.S.C. \u00a7 1983, alleging that 10 U.S.C. Sec. 1079 (a)(11) (\u201cSection 1079\u201d), which mandates the categorical exclusion of all surgical treatments for gender transition in the military\u2019s medical coverage for eligible dependents of service members, violated the Equal Protection and Due Process Clauses of the Fourteenth Amendment. Plaintiffs also alleged that TRICARE\u2019s refusal to cover surgical treatments for gender transition for eligible dependents of service members, including by the application and enforcement of the exclusion in Section 1079, violated the federal Rehabilitation Act, 29 U.S.C. \u00a7 794. Plaintiffs sought declaratory judgment, permanent injunctive relief to prevent the enforcement of the statutory exclusion, damages, and attorneys\u2019 fees.\n\nThe plaintiffs filed an amended complaint on January 27, 2023, in which they added an additional plaintiff, another transgender woman and dependent of a former service member who had been denied healthcare coverage by TRICARE for surgical procedures necessary to treat her gender dysphoria.\n\nOn December 1, 2023, the plaintiffs filed a motion for summary judgment and a stipulation of voluntary dismissal, in which they dismissed with prejudice their Due Process and Rehabilitation Act claims, and withdrew their damage claims. The DoD filed a cross-motion for summary judgment on February 16, 2024, and both parties completed their briefing on the cross-motions for summary judgment by April 5, 2024.\n\nOn November 1, 2024, District Judge Nancy Torresen granted partial summary judgment in favor of the plaintiffs on their as-applied Equal Protection claim, finding that the TRICARE statutory exclusion discriminated based on sex and transgender status. The court relied on well-established precedents which instruct that sex- and gender-based classifications invoke intermediate scrutiny, and on Bostock v. Clayton County [../../../../case/17313], 590 U.S. 644, 669 (2020) to apply intermediate scrutiny to claims of gender-identity discrimination. Applying intermediate scrutiny, the court found that the DoD failed to identify any important governmental objective to justify the exclusion and raised only technical and procedural objections to the plaintiffs\u2019 Equal Protection claims; accordingly, the court granted partial summary judgment for the plaintiffs as to their as-applied Equal Protection claim. However, the court granted partial summary judgment to the DoD as to the plaintiffs' facial Equal Protection claim, finding that the statute could be interpreted in a constitutional manner. The court issued a declaratory judgment stating that the statutory exclusion was unconstitutional as applied to the plaintiffs, and ordered the parties to meet and confer by November 15, 2024 to determine whether injunctive relief was necessary.\n\nFollowing the Court\u2019s order to meet and confer, the parties filed a joint order on November 15, 2024, stating that they have conferred and jointly believed that all remaining issues in the case could be resolved through settlement without the need for further Court intervention, and that no injunctive relief was necessary at the time of the filing. The parties also requested that the Court defer entering a judgment while settlement negotiations were ongoing.\n\nOn December 13, 2024, the House of Representatives filed a Motion to Intervene and stated its intent to appeal the Court\u2019s decision on the cross-motions for summary judgment once the Court entered judgment in this case. Specifically, the House of Representatives noted its intent to appeal the Court\u2019s determination that the statute violated the Equal Protection Clause as applied to the plaintiffs and to defend the constitutionality of the statute, claiming that the Department of Justice had failed to substantively defend the statute\u2019s constitutionality and noting that the DOJ appeared unlikely to contest the Court\u2019s decision.\n\nIn a December 16, 2024 Joint Status Report, the parties reiterated their belief that the case should be resolved via a settlement agreement and expressed their mutual opposition to the House of Representatives\u2019 motion to intervene. On December 20, 2024, the parties voluntarily dismissed the case with prejudice and without attorneys\u2019 fees or costs to either party. Two days later, the House of Representatives filed a notice in the case, in which it claimed that its pending intervention motion was not moot following the stipulated dismissal of the case. On January 3, 2025, both parties to the case filed responses opposing the House of Representatives\u2019 intervention in the case; on January 8, 2025, the House withdrew its motion to intervene.\n\nGiven that the motion to intervene has been withdrawn and the parties have stipulated to the voluntary dismissal of the case, this case is effectively closed.",
+    "target_paragraph": "Given that the motion to intervene has been withdrawn and the parties have stipulated to the voluntary dismissal of the case, this case is effectively closed.",
+    "target_paragraph_indices": [
+      6255,
+      6413
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            6255,
+            6413
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: effectively closed following voluntary dismissal and withdrawal of the intervention motion.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

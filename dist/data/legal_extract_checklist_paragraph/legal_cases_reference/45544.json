@@ -1,0 +1,837 @@
+[
+  {
+    "id": "45544_p0",
+    "metadata": {
+      "case_id": "45544",
+      "paragraph_num": 0,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is about a pro se resident and registered voter in Charleston, South Carolina asserting ge..."
+    },
+    "source": "",
+    "target": "This case is about a pro se resident and registered voter in Charleston, South Carolina asserting generalized grievances relating to notification to voters of election results and ballot verification, various issues relating to voting machines, and inadequate disability services provided to voters.\n\nOn March 1, 2023, the pro se plaintiff commenced this action in the District Court of South Carolina against the Charleston County Board of Elections, the South Carolina Election Commission, and the South Carolina Ethics Committee as a federal question under 52 U.S.C \u00a7 20971 and 52 U.S.C. \u00a7 20106. The plaintiff sought proof from the National Institute of Standards and Technology accreditation for the voting machines used by state and local authorities, compensation for the failure to notify the plaintiff about election results, removing the plaintiff from the ballot, and inaction by state authorities, among other things.\n\nOn May 30, 2024, United States Magistrate Judge Mary Gordon Baker issued a report and recommendation stating that when the Court reviewed plaintiff\u2019s initial allegations, the Court issued an order that notified the plaintiff that his claims were subject to summary dismissal for lack of subject matter jurisdiction and standing to bring suit. Plaintiff did not file an amended pleading, but instead submitted a supplemental letter to address shortcomings discussed in the order and other exhibits and the Court considered these piecemeal items as part of plaintiff\u2019s complaint. On review, the Court reasoned that plaintiff\u2019s claims remained subject to dismissal for lack of subject matter jurisdiction and standing to bring suit because plaintiff\u2019s complaint listed statutes that involved the administration of federal elections. The Court reasoned that it could not pinpoint the injury that plaintiff complained of and if he did or did not have standing to bring suit. As such, there was a recommendation that the action be summarily dismissed.\n\nOn June 13, 2024, United States District Judge Richard Gergel issued an order and opinion that adopted Magistrate Judge Baker\u2019s report and recommendation. The Court undertook de novo review of the report and recommendation because plaintiff filed objections to the report and recommendation. The Court determined that the plaintiff\u2019s complaint failed to state a claim upon which relief could be granted and the Court correctly determined that the plaintiff lacked standing to bring claims. The Court overruled plaintiff\u2019s objections for the above reasons and that the plaintiff\u2019s supplemental materials submitted did not address the legal deficiencies with plaintiff\u2019s original complaint. The Court adopted the report and recommendation and dismissed the action.\n\nOn June 14, 2024, the Court issued a judgment and dismissed the case.\n\nOn June 28, 2024, the plaintiff filed a notice of appeal to inform the parties that plaintiff filed an appeal in the United States Court of Appeals for the Fourth Circuit (docket no. 24-1596).\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit issued an order stating that the Court had reviewed the record of the District Court and found no reversible error and, as such, the decision of the District Court was affirmed.\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit filed a mandate that confirmed the judgment of the court. The case is now closed.",
+    "target_paragraph": "This case is about a pro se resident and registered voter in Charleston, South Carolina asserting generalized grievances relating to notification to voters of election results and ballot verification, various issues relating to voting machines, and inadequate disability services provided to voters.",
+    "target_paragraph_indices": [
+      0,
+      299
+    ],
+    "edits": [
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            0,
+            87
+          ],
+          [
+            301,
+            361
+          ]
+        ],
+        "annotation": {
+          "explanation": "Pro se (self-represented)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            0,
+            299
+          ],
+          [
+            301,
+            599
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as pro se resident and registered voter in Charleston, South Carolina",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            87
+          ],
+          [
+            319,
+            361
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: pro se resident and registered voter in Charleston, South Carolina",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            299
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff is a pro se resident and registered voter in Charleston, South Carolina.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            299
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged issues: lack of notification to voters of election results and ballot verification, problems with voting machines, and inadequate disability services for voters.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "45544_p1",
+    "metadata": {
+      "case_id": "45544",
+      "paragraph_num": 1,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 1, 2023, the pro se plaintiff commenced this action in the District Court of South Carolina..."
+    },
+    "source": "",
+    "target": "This case is about a pro se resident and registered voter in Charleston, South Carolina asserting generalized grievances relating to notification to voters of election results and ballot verification, various issues relating to voting machines, and inadequate disability services provided to voters.\n\nOn March 1, 2023, the pro se plaintiff commenced this action in the District Court of South Carolina against the Charleston County Board of Elections, the South Carolina Election Commission, and the South Carolina Ethics Committee as a federal question under 52 U.S.C \u00a7 20971 and 52 U.S.C. \u00a7 20106. The plaintiff sought proof from the National Institute of Standards and Technology accreditation for the voting machines used by state and local authorities, compensation for the failure to notify the plaintiff about election results, removing the plaintiff from the ballot, and inaction by state authorities, among other things.\n\nOn May 30, 2024, United States Magistrate Judge Mary Gordon Baker issued a report and recommendation stating that when the Court reviewed plaintiff\u2019s initial allegations, the Court issued an order that notified the plaintiff that his claims were subject to summary dismissal for lack of subject matter jurisdiction and standing to bring suit. Plaintiff did not file an amended pleading, but instead submitted a supplemental letter to address shortcomings discussed in the order and other exhibits and the Court considered these piecemeal items as part of plaintiff\u2019s complaint. On review, the Court reasoned that plaintiff\u2019s claims remained subject to dismissal for lack of subject matter jurisdiction and standing to bring suit because plaintiff\u2019s complaint listed statutes that involved the administration of federal elections. The Court reasoned that it could not pinpoint the injury that plaintiff complained of and if he did or did not have standing to bring suit. As such, there was a recommendation that the action be summarily dismissed.\n\nOn June 13, 2024, United States District Judge Richard Gergel issued an order and opinion that adopted Magistrate Judge Baker\u2019s report and recommendation. The Court undertook de novo review of the report and recommendation because plaintiff filed objections to the report and recommendation. The Court determined that the plaintiff\u2019s complaint failed to state a claim upon which relief could be granted and the Court correctly determined that the plaintiff lacked standing to bring claims. The Court overruled plaintiff\u2019s objections for the above reasons and that the plaintiff\u2019s supplemental materials submitted did not address the legal deficiencies with plaintiff\u2019s original complaint. The Court adopted the report and recommendation and dismissed the action.\n\nOn June 14, 2024, the Court issued a judgment and dismissed the case.\n\nOn June 28, 2024, the plaintiff filed a notice of appeal to inform the parties that plaintiff filed an appeal in the United States Court of Appeals for the Fourth Circuit (docket no. 24-1596).\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit issued an order stating that the Court had reviewed the record of the District Court and found no reversible error and, as such, the decision of the District Court was affirmed.\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit filed a mandate that confirmed the judgment of the court. The case is now closed.",
+    "target_paragraph": "On March 1, 2023, the pro se plaintiff commenced this action in the District Court of South Carolina against the Charleston County Board of Elections, the South Carolina Election Commission, and the South Carolina Ethics Committee as a federal question under 52 U.S.C \u00a7 20971 and 52 U.S.C. \u00a7 20106. The plaintiff sought proof from the National Institute of Standards and Technology accreditation for the voting machines used by state and local authorities, compensation for the failure to notify the plaintiff about election results, removing the plaintiff from the ballot, and inaction by state authorities, among other things.",
+    "target_paragraph_indices": [
+      301,
+      929
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            301,
+            401
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 1, 2023",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            301,
+            599
+          ]
+        ],
+        "annotation": {
+          "explanation": "Federal question claims asserted under 52 U.S.C. \u00a7 20971 and 52 U.S.C. \u00a7 20106",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            532,
+            599
+          ]
+        ],
+        "annotation": {
+          "explanation": "52 U.S.C \u00a7 20971",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            532,
+            599
+          ]
+        ],
+        "annotation": {
+          "explanation": "52 U.S.C. \u00a7 20106",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            600,
+            756
+          ]
+        ],
+        "annotation": {
+          "explanation": "Proof of NIST accreditation for the voting machines used by state and local authorities",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            758,
+            833
+          ]
+        ],
+        "annotation": {
+          "explanation": "Compensation for the failure to notify the plaintiff about election results",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            835,
+            873
+          ]
+        ],
+        "annotation": {
+          "explanation": "Removing the plaintiff from the ballot",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            875,
+            908
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief related to inaction by state authorities",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            319,
+            531
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Charleston County Board of Elections",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            319,
+            531
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: South Carolina Election Commission",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            319,
+            531
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: South Carolina Ethics Committee",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            301,
+            599
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filed March 1, 2023, in the District of South Carolina against the Charleston County Board of Elections, South Carolina Election Commission, and South Carolina Ethics Committee; invoked 52 U.S.C. \u00a7 20971 and 52 U.S.C. \u00a7 20106.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            600,
+            929
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought included proof of NIST accreditation for voting machines, compensation for failure to notify him about election results, action regarding removing the plaintiff from the ballot, and redress for inaction by state authorities.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            301,
+            599
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed initiating action on March 1, 2023.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": "45544_p2",
+    "metadata": {
+      "case_id": "45544",
+      "paragraph_num": 2,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 30, 2024, United States Magistrate Judge Mary Gordon Baker issued a report and recommendation..."
+    },
+    "source": "",
+    "target": "This case is about a pro se resident and registered voter in Charleston, South Carolina asserting generalized grievances relating to notification to voters of election results and ballot verification, various issues relating to voting machines, and inadequate disability services provided to voters.\n\nOn March 1, 2023, the pro se plaintiff commenced this action in the District Court of South Carolina against the Charleston County Board of Elections, the South Carolina Election Commission, and the South Carolina Ethics Committee as a federal question under 52 U.S.C \u00a7 20971 and 52 U.S.C. \u00a7 20106. The plaintiff sought proof from the National Institute of Standards and Technology accreditation for the voting machines used by state and local authorities, compensation for the failure to notify the plaintiff about election results, removing the plaintiff from the ballot, and inaction by state authorities, among other things.\n\nOn May 30, 2024, United States Magistrate Judge Mary Gordon Baker issued a report and recommendation stating that when the Court reviewed plaintiff\u2019s initial allegations, the Court issued an order that notified the plaintiff that his claims were subject to summary dismissal for lack of subject matter jurisdiction and standing to bring suit. Plaintiff did not file an amended pleading, but instead submitted a supplemental letter to address shortcomings discussed in the order and other exhibits and the Court considered these piecemeal items as part of plaintiff\u2019s complaint. On review, the Court reasoned that plaintiff\u2019s claims remained subject to dismissal for lack of subject matter jurisdiction and standing to bring suit because plaintiff\u2019s complaint listed statutes that involved the administration of federal elections. The Court reasoned that it could not pinpoint the injury that plaintiff complained of and if he did or did not have standing to bring suit. As such, there was a recommendation that the action be summarily dismissed.\n\nOn June 13, 2024, United States District Judge Richard Gergel issued an order and opinion that adopted Magistrate Judge Baker\u2019s report and recommendation. The Court undertook de novo review of the report and recommendation because plaintiff filed objections to the report and recommendation. The Court determined that the plaintiff\u2019s complaint failed to state a claim upon which relief could be granted and the Court correctly determined that the plaintiff lacked standing to bring claims. The Court overruled plaintiff\u2019s objections for the above reasons and that the plaintiff\u2019s supplemental materials submitted did not address the legal deficiencies with plaintiff\u2019s original complaint. The Court adopted the report and recommendation and dismissed the action.\n\nOn June 14, 2024, the Court issued a judgment and dismissed the case.\n\nOn June 28, 2024, the plaintiff filed a notice of appeal to inform the parties that plaintiff filed an appeal in the United States Court of Appeals for the Fourth Circuit (docket no. 24-1596).\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit issued an order stating that the Court had reviewed the record of the District Court and found no reversible error and, as such, the decision of the District Court was affirmed.\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit filed a mandate that confirmed the judgment of the court. The case is now closed.",
+    "target_paragraph": "On May 30, 2024, United States Magistrate Judge Mary Gordon Baker issued a report and recommendation stating that when the Court reviewed plaintiff\u2019s initial allegations, the Court issued an order that notified the plaintiff that his claims were subject to summary dismissal for lack of subject matter jurisdiction and standing to bring suit. Plaintiff did not file an amended pleading, but instead submitted a supplemental letter to address shortcomings discussed in the order and other exhibits and the Court considered these piecemeal items as part of plaintiff\u2019s complaint. On review, the Court reasoned that plaintiff\u2019s claims remained subject to dismissal for lack of subject matter jurisdiction and standing to bring suit because plaintiff\u2019s complaint listed statutes that involved the administration of federal elections. The Court reasoned that it could not pinpoint the injury that plaintiff complained of and if he did or did not have standing to bring suit. As such, there was a recommendation that the action be summarily dismissed.",
+    "target_paragraph_indices": [
+      931,
+      1976
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            931,
+            1031
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mary Gordon Baker",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            931,
+            1031
+          ],
+          [
+            1901,
+            1976
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 30, 2024: Report and recommendation issued recommending that the action be summarily dismissed.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1274,
+            1508
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff submitted a supplemental letter and other exhibits; the court considered these materials as part of the complaint.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1520,
+            1760
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court could not identify a concrete injury; plaintiff lacked standing; claims relied on statutes involving administration of federal elections.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1045,
+            1273
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court issued order warning of potential summary dismissal for lack of subject matter jurisdiction and standing (date not specified).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1274,
+            1508
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff filed a supplemental letter and exhibits (date not specified).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            931,
+            1031
+          ],
+          [
+            1910,
+            1976
+          ]
+        ],
+        "annotation": {
+          "explanation": "Report and Recommendation issued May 30, 2024 recommending summary dismissal.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "45544_p3",
+    "metadata": {
+      "case_id": "45544",
+      "paragraph_num": 3,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 13, 2024, United States District Judge Richard Gergel issued an order and opinion that adopt..."
+    },
+    "source": "",
+    "target": "This case is about a pro se resident and registered voter in Charleston, South Carolina asserting generalized grievances relating to notification to voters of election results and ballot verification, various issues relating to voting machines, and inadequate disability services provided to voters.\n\nOn March 1, 2023, the pro se plaintiff commenced this action in the District Court of South Carolina against the Charleston County Board of Elections, the South Carolina Election Commission, and the South Carolina Ethics Committee as a federal question under 52 U.S.C \u00a7 20971 and 52 U.S.C. \u00a7 20106. The plaintiff sought proof from the National Institute of Standards and Technology accreditation for the voting machines used by state and local authorities, compensation for the failure to notify the plaintiff about election results, removing the plaintiff from the ballot, and inaction by state authorities, among other things.\n\nOn May 30, 2024, United States Magistrate Judge Mary Gordon Baker issued a report and recommendation stating that when the Court reviewed plaintiff\u2019s initial allegations, the Court issued an order that notified the plaintiff that his claims were subject to summary dismissal for lack of subject matter jurisdiction and standing to bring suit. Plaintiff did not file an amended pleading, but instead submitted a supplemental letter to address shortcomings discussed in the order and other exhibits and the Court considered these piecemeal items as part of plaintiff\u2019s complaint. On review, the Court reasoned that plaintiff\u2019s claims remained subject to dismissal for lack of subject matter jurisdiction and standing to bring suit because plaintiff\u2019s complaint listed statutes that involved the administration of federal elections. The Court reasoned that it could not pinpoint the injury that plaintiff complained of and if he did or did not have standing to bring suit. As such, there was a recommendation that the action be summarily dismissed.\n\nOn June 13, 2024, United States District Judge Richard Gergel issued an order and opinion that adopted Magistrate Judge Baker\u2019s report and recommendation. The Court undertook de novo review of the report and recommendation because plaintiff filed objections to the report and recommendation. The Court determined that the plaintiff\u2019s complaint failed to state a claim upon which relief could be granted and the Court correctly determined that the plaintiff lacked standing to bring claims. The Court overruled plaintiff\u2019s objections for the above reasons and that the plaintiff\u2019s supplemental materials submitted did not address the legal deficiencies with plaintiff\u2019s original complaint. The Court adopted the report and recommendation and dismissed the action.\n\nOn June 14, 2024, the Court issued a judgment and dismissed the case.\n\nOn June 28, 2024, the plaintiff filed a notice of appeal to inform the parties that plaintiff filed an appeal in the United States Court of Appeals for the Fourth Circuit (docket no. 24-1596).\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit issued an order stating that the Court had reviewed the record of the District Court and found no reversible error and, as such, the decision of the District Court was affirmed.\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit filed a mandate that confirmed the judgment of the court. The case is now closed.",
+    "target_paragraph": "On June 13, 2024, United States District Judge Richard Gergel issued an order and opinion that adopted Magistrate Judge Baker\u2019s report and recommendation. The Court undertook de novo review of the report and recommendation because plaintiff filed objections to the report and recommendation. The Court determined that the plaintiff\u2019s complaint failed to state a claim upon which relief could be granted and the Court correctly determined that the plaintiff lacked standing to bring claims. The Court overruled plaintiff\u2019s objections for the above reasons and that the plaintiff\u2019s supplemental materials submitted did not address the legal deficiencies with plaintiff\u2019s original complaint. The Court adopted the report and recommendation and dismissed the action.",
+    "target_paragraph_indices": [
+      1978,
+      2740
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1978,
+            2067
+          ]
+        ],
+        "annotation": {
+          "explanation": "Richard Gergel",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1978,
+            2132
+          ],
+          [
+            2667,
+            2740
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 13, 2024: Order and opinion issued adopting the report and recommendation and dismissing the action.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2270,
+            2467
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint failed to state a claim and lacked standing, forming the factual basis for dismissal.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2667,
+            2740
+          ],
+          [
+            3029,
+            3264
+          ],
+          [
+            3266,
+            3427
+          ]
+        ],
+        "annotation": {
+          "explanation": "Action dismissed; dismissal affirmed by the Fourth Circuit; mandate issued and case closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            3,
+            6,
+            7
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2133,
+            2269
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff filed objections to the Report and Recommendation (date not specified).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1978,
+            2132
+          ],
+          [
+            2667,
+            2740
+          ]
+        ],
+        "annotation": {
+          "explanation": "District Court order and opinion adopting R&R and dismissing the action on June 13, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "45544_p4",
+    "metadata": {
+      "case_id": "45544",
+      "paragraph_num": 4,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 14, 2024, the Court issued a judgment and dismissed the case."
+    },
+    "source": "",
+    "target": "This case is about a pro se resident and registered voter in Charleston, South Carolina asserting generalized grievances relating to notification to voters of election results and ballot verification, various issues relating to voting machines, and inadequate disability services provided to voters.\n\nOn March 1, 2023, the pro se plaintiff commenced this action in the District Court of South Carolina against the Charleston County Board of Elections, the South Carolina Election Commission, and the South Carolina Ethics Committee as a federal question under 52 U.S.C \u00a7 20971 and 52 U.S.C. \u00a7 20106. The plaintiff sought proof from the National Institute of Standards and Technology accreditation for the voting machines used by state and local authorities, compensation for the failure to notify the plaintiff about election results, removing the plaintiff from the ballot, and inaction by state authorities, among other things.\n\nOn May 30, 2024, United States Magistrate Judge Mary Gordon Baker issued a report and recommendation stating that when the Court reviewed plaintiff\u2019s initial allegations, the Court issued an order that notified the plaintiff that his claims were subject to summary dismissal for lack of subject matter jurisdiction and standing to bring suit. Plaintiff did not file an amended pleading, but instead submitted a supplemental letter to address shortcomings discussed in the order and other exhibits and the Court considered these piecemeal items as part of plaintiff\u2019s complaint. On review, the Court reasoned that plaintiff\u2019s claims remained subject to dismissal for lack of subject matter jurisdiction and standing to bring suit because plaintiff\u2019s complaint listed statutes that involved the administration of federal elections. The Court reasoned that it could not pinpoint the injury that plaintiff complained of and if he did or did not have standing to bring suit. As such, there was a recommendation that the action be summarily dismissed.\n\nOn June 13, 2024, United States District Judge Richard Gergel issued an order and opinion that adopted Magistrate Judge Baker\u2019s report and recommendation. The Court undertook de novo review of the report and recommendation because plaintiff filed objections to the report and recommendation. The Court determined that the plaintiff\u2019s complaint failed to state a claim upon which relief could be granted and the Court correctly determined that the plaintiff lacked standing to bring claims. The Court overruled plaintiff\u2019s objections for the above reasons and that the plaintiff\u2019s supplemental materials submitted did not address the legal deficiencies with plaintiff\u2019s original complaint. The Court adopted the report and recommendation and dismissed the action.\n\nOn June 14, 2024, the Court issued a judgment and dismissed the case.\n\nOn June 28, 2024, the plaintiff filed a notice of appeal to inform the parties that plaintiff filed an appeal in the United States Court of Appeals for the Fourth Circuit (docket no. 24-1596).\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit issued an order stating that the Court had reviewed the record of the District Court and found no reversible error and, as such, the decision of the District Court was affirmed.\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit filed a mandate that confirmed the judgment of the court. The case is now closed.",
+    "target_paragraph": "On June 14, 2024, the Court issued a judgment and dismissed the case.",
+    "target_paragraph_indices": [
+      2742,
+      2811
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2742,
+            2811
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 14, 2024: Judgment issued dismissing the case.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2742,
+            2811
+          ]
+        ],
+        "annotation": {
+          "explanation": "Judgment entered dismissing the case on June 14, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "45544_p5",
+    "metadata": {
+      "case_id": "45544",
+      "paragraph_num": 5,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 28, 2024, the plaintiff filed a notice of appeal to inform the parties that plaintiff filed ..."
+    },
+    "source": "",
+    "target": "This case is about a pro se resident and registered voter in Charleston, South Carolina asserting generalized grievances relating to notification to voters of election results and ballot verification, various issues relating to voting machines, and inadequate disability services provided to voters.\n\nOn March 1, 2023, the pro se plaintiff commenced this action in the District Court of South Carolina against the Charleston County Board of Elections, the South Carolina Election Commission, and the South Carolina Ethics Committee as a federal question under 52 U.S.C \u00a7 20971 and 52 U.S.C. \u00a7 20106. The plaintiff sought proof from the National Institute of Standards and Technology accreditation for the voting machines used by state and local authorities, compensation for the failure to notify the plaintiff about election results, removing the plaintiff from the ballot, and inaction by state authorities, among other things.\n\nOn May 30, 2024, United States Magistrate Judge Mary Gordon Baker issued a report and recommendation stating that when the Court reviewed plaintiff\u2019s initial allegations, the Court issued an order that notified the plaintiff that his claims were subject to summary dismissal for lack of subject matter jurisdiction and standing to bring suit. Plaintiff did not file an amended pleading, but instead submitted a supplemental letter to address shortcomings discussed in the order and other exhibits and the Court considered these piecemeal items as part of plaintiff\u2019s complaint. On review, the Court reasoned that plaintiff\u2019s claims remained subject to dismissal for lack of subject matter jurisdiction and standing to bring suit because plaintiff\u2019s complaint listed statutes that involved the administration of federal elections. The Court reasoned that it could not pinpoint the injury that plaintiff complained of and if he did or did not have standing to bring suit. As such, there was a recommendation that the action be summarily dismissed.\n\nOn June 13, 2024, United States District Judge Richard Gergel issued an order and opinion that adopted Magistrate Judge Baker\u2019s report and recommendation. The Court undertook de novo review of the report and recommendation because plaintiff filed objections to the report and recommendation. The Court determined that the plaintiff\u2019s complaint failed to state a claim upon which relief could be granted and the Court correctly determined that the plaintiff lacked standing to bring claims. The Court overruled plaintiff\u2019s objections for the above reasons and that the plaintiff\u2019s supplemental materials submitted did not address the legal deficiencies with plaintiff\u2019s original complaint. The Court adopted the report and recommendation and dismissed the action.\n\nOn June 14, 2024, the Court issued a judgment and dismissed the case.\n\nOn June 28, 2024, the plaintiff filed a notice of appeal to inform the parties that plaintiff filed an appeal in the United States Court of Appeals for the Fourth Circuit (docket no. 24-1596).\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit issued an order stating that the Court had reviewed the record of the District Court and found no reversible error and, as such, the decision of the District Court was affirmed.\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit filed a mandate that confirmed the judgment of the court. The case is now closed.",
+    "target_paragraph": "On June 28, 2024, the plaintiff filed a notice of appeal to inform the parties that plaintiff filed an appeal in the United States Court of Appeals for the Fourth Circuit (docket no. 24-1596).",
+    "target_paragraph_indices": [
+      2813,
+      3005
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            2813,
+            3005
+          ],
+          [
+            3007,
+            3264
+          ],
+          [
+            3266,
+            3427
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: United States Court of Appeals for the Fourth Circuit, docket no. 24-1596. Notice of appeal filed June 28, 2024; on November 21, 2024, the Fourth Circuit affirmed the district court and issued its mandate.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": [
+            5,
+            6,
+            7
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            2813,
+            3005
+          ],
+          [
+            3007,
+            3264
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: the plaintiff appealed to the United States Court of Appeals for the Fourth Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2813,
+            3005
+          ]
+        ],
+        "annotation": {
+          "explanation": "Notice of appeal filed to the Fourth Circuit (No. 24-1596) on June 28, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "45544_p6",
+    "metadata": {
+      "case_id": "45544",
+      "paragraph_num": 6,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On November 21, 2024, the United States Court of Appeals for the Fourth Circuit issued an order stat..."
+    },
+    "source": "",
+    "target": "This case is about a pro se resident and registered voter in Charleston, South Carolina asserting generalized grievances relating to notification to voters of election results and ballot verification, various issues relating to voting machines, and inadequate disability services provided to voters.\n\nOn March 1, 2023, the pro se plaintiff commenced this action in the District Court of South Carolina against the Charleston County Board of Elections, the South Carolina Election Commission, and the South Carolina Ethics Committee as a federal question under 52 U.S.C \u00a7 20971 and 52 U.S.C. \u00a7 20106. The plaintiff sought proof from the National Institute of Standards and Technology accreditation for the voting machines used by state and local authorities, compensation for the failure to notify the plaintiff about election results, removing the plaintiff from the ballot, and inaction by state authorities, among other things.\n\nOn May 30, 2024, United States Magistrate Judge Mary Gordon Baker issued a report and recommendation stating that when the Court reviewed plaintiff\u2019s initial allegations, the Court issued an order that notified the plaintiff that his claims were subject to summary dismissal for lack of subject matter jurisdiction and standing to bring suit. Plaintiff did not file an amended pleading, but instead submitted a supplemental letter to address shortcomings discussed in the order and other exhibits and the Court considered these piecemeal items as part of plaintiff\u2019s complaint. On review, the Court reasoned that plaintiff\u2019s claims remained subject to dismissal for lack of subject matter jurisdiction and standing to bring suit because plaintiff\u2019s complaint listed statutes that involved the administration of federal elections. The Court reasoned that it could not pinpoint the injury that plaintiff complained of and if he did or did not have standing to bring suit. As such, there was a recommendation that the action be summarily dismissed.\n\nOn June 13, 2024, United States District Judge Richard Gergel issued an order and opinion that adopted Magistrate Judge Baker\u2019s report and recommendation. The Court undertook de novo review of the report and recommendation because plaintiff filed objections to the report and recommendation. The Court determined that the plaintiff\u2019s complaint failed to state a claim upon which relief could be granted and the Court correctly determined that the plaintiff lacked standing to bring claims. The Court overruled plaintiff\u2019s objections for the above reasons and that the plaintiff\u2019s supplemental materials submitted did not address the legal deficiencies with plaintiff\u2019s original complaint. The Court adopted the report and recommendation and dismissed the action.\n\nOn June 14, 2024, the Court issued a judgment and dismissed the case.\n\nOn June 28, 2024, the plaintiff filed a notice of appeal to inform the parties that plaintiff filed an appeal in the United States Court of Appeals for the Fourth Circuit (docket no. 24-1596).\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit issued an order stating that the Court had reviewed the record of the District Court and found no reversible error and, as such, the decision of the District Court was affirmed.\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit filed a mandate that confirmed the judgment of the court. The case is now closed.",
+    "target_paragraph": "On November 21, 2024, the United States Court of Appeals for the Fourth Circuit issued an order stating that the Court had reviewed the record of the District Court and found no reversible error and, as such, the decision of the District Court was affirmed.",
+    "target_paragraph_indices": [
+      3007,
+      3264
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3007,
+            3264
+          ]
+        ],
+        "annotation": {
+          "explanation": "November 21, 2024: Fourth Circuit order issued affirming the District Court\u2019s decision.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3007,
+            3264
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourth Circuit order affirming the district court on November 21, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "45544_p7",
+    "metadata": {
+      "case_id": "45544",
+      "paragraph_num": 7,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On November 21, 2024, the United States Court of Appeals for the Fourth Circuit filed a mandate that..."
+    },
+    "source": "",
+    "target": "This case is about a pro se resident and registered voter in Charleston, South Carolina asserting generalized grievances relating to notification to voters of election results and ballot verification, various issues relating to voting machines, and inadequate disability services provided to voters.\n\nOn March 1, 2023, the pro se plaintiff commenced this action in the District Court of South Carolina against the Charleston County Board of Elections, the South Carolina Election Commission, and the South Carolina Ethics Committee as a federal question under 52 U.S.C \u00a7 20971 and 52 U.S.C. \u00a7 20106. The plaintiff sought proof from the National Institute of Standards and Technology accreditation for the voting machines used by state and local authorities, compensation for the failure to notify the plaintiff about election results, removing the plaintiff from the ballot, and inaction by state authorities, among other things.\n\nOn May 30, 2024, United States Magistrate Judge Mary Gordon Baker issued a report and recommendation stating that when the Court reviewed plaintiff\u2019s initial allegations, the Court issued an order that notified the plaintiff that his claims were subject to summary dismissal for lack of subject matter jurisdiction and standing to bring suit. Plaintiff did not file an amended pleading, but instead submitted a supplemental letter to address shortcomings discussed in the order and other exhibits and the Court considered these piecemeal items as part of plaintiff\u2019s complaint. On review, the Court reasoned that plaintiff\u2019s claims remained subject to dismissal for lack of subject matter jurisdiction and standing to bring suit because plaintiff\u2019s complaint listed statutes that involved the administration of federal elections. The Court reasoned that it could not pinpoint the injury that plaintiff complained of and if he did or did not have standing to bring suit. As such, there was a recommendation that the action be summarily dismissed.\n\nOn June 13, 2024, United States District Judge Richard Gergel issued an order and opinion that adopted Magistrate Judge Baker\u2019s report and recommendation. The Court undertook de novo review of the report and recommendation because plaintiff filed objections to the report and recommendation. The Court determined that the plaintiff\u2019s complaint failed to state a claim upon which relief could be granted and the Court correctly determined that the plaintiff lacked standing to bring claims. The Court overruled plaintiff\u2019s objections for the above reasons and that the plaintiff\u2019s supplemental materials submitted did not address the legal deficiencies with plaintiff\u2019s original complaint. The Court adopted the report and recommendation and dismissed the action.\n\nOn June 14, 2024, the Court issued a judgment and dismissed the case.\n\nOn June 28, 2024, the plaintiff filed a notice of appeal to inform the parties that plaintiff filed an appeal in the United States Court of Appeals for the Fourth Circuit (docket no. 24-1596).\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit issued an order stating that the Court had reviewed the record of the District Court and found no reversible error and, as such, the decision of the District Court was affirmed.\n\nOn November 21, 2024, the United States Court of Appeals for the Fourth Circuit filed a mandate that confirmed the judgment of the court. The case is now closed.",
+    "target_paragraph": "On November 21, 2024, the United States Court of Appeals for the Fourth Circuit filed a mandate that confirmed the judgment of the court. The case is now closed.",
+    "target_paragraph_indices": [
+      3266,
+      3427
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3266,
+            3403
+          ]
+        ],
+        "annotation": {
+          "explanation": "November 21, 2024: Fourth Circuit mandate filed confirming the judgment.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3266,
+            3403
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourth Circuit mandate issued on November 21, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

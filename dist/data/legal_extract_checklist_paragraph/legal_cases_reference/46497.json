@@ -1,0 +1,988 @@
+[
+  {
+    "id": "46497_p0",
+    "metadata": {
+      "case_id": "46497",
+      "paragraph_num": 0,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This is a case about the alleged unlawful detention and deportation of a U.S. citizen child without ..."
+    },
+    "source": "",
+    "target": "This is a case about the alleged unlawful detention and deportation of a U.S. citizen child without due process. On April 24, 2025, a petition for a writ of habeas corpus was filed in the United States District Court for the Western District of Louisiana on behalf of a two-year-old natural-born U.S. citizen, identified as V.M.L. The petitioner sued the U.S. Department of Homeland Security and its Secretary, and U.S. Immigration and Customs Enforcement and its Acting Director. Judge Terry A. Doughty was assigned to the case.\n\nThe petition, brought by a next friend, challenged the government\u2019s decision to detain and deport the child to Honduras following an ICE check-in. Although V.M.L. was a U.S. citizen, she was detained alongside her noncitizen mother and sister during an immigration enforcement action and was deported as part of the family unit. The petition alleged that the government failed to provide any process allowing V.M.L. to assert or prove her citizenship before her deportation. It further alleged that the government\u2019s detention was ultra vires, exceeding legal authority, and that the detention and removal violated protections under the Fourth Amendment against unlawful seizure. The petitioner argued that these failures violated V.M.L.\u2019s constitutional rights under the Fifth Amendment\u2019s Due Process Clause, emphasizing that no meaningful opportunity was given to establish her citizenship status or to challenge the removal decision. They further contended that the government\u2019s actions undermined birthright citizenship protections and amounted to an arbitrary and unlawful deprivation of liberty. The petition also invoked the All Writs Act and the Suspension Clause to preserve the court\u2019s jurisdiction and prevent the mooting of constitutional claims.\n\nRepresented by private counsel, the petitioner filed an emergency motion for a temporary restraining order on April 24, 2025, seeking to halt V.M.L.\u2019s removal while the court considered the legality of her detention and deportation. The motion argued that immediate relief was necessary to prevent irreparable harm and to protect V.M.L.\u2019s due process rights, including the opportunity to establish her U.S. citizenship. The petitioner requested her release from custody, a declaratory judgment that the detention and removal were unlawful, and an injunction barring any further removal efforts without due process.\n\nHowever, on April 25, the government notified the court that V.M.L. and her mother had already been released in Honduras, rendering communication with them impossible. The government stated that V.M.L.\u2019s mother had expressed a desire to take her child to Honduras, citing a handwritten note as evidence of this intent. The response effectively indicated that the government had completed the removal before the court could rule on the emergency motion for a temporary restraining order.\n\nOn April 25, 2025, Judge Doughty issued a memorandum order addressing the emergency petition. 2025 WL 1202548. The order acknowledged the serious due process concerns raised by the petition and scheduled a hearing for May 16, 2025, to determine whether the government had unlawfully deported a U.S. citizen without providing a meaningful opportunity to challenge her removal. Despite the scheduled hearing, on May 8, 2025, the parties filed a joint stipulation of dismissal, and the case was closed without a ruling on the merits.",
+    "target_paragraph": "This is a case about the alleged unlawful detention and deportation of a U.S. citizen child without due process. On April 24, 2025, a petition for a writ of habeas corpus was filed in the United States District Court for the Western District of Louisiana on behalf of a two-year-old natural-born U.S. citizen, identified as V.M.L. The petitioner sued the U.S. Department of Homeland Security and its Secretary, and U.S. Immigration and Customs Enforcement and its Acting Director. Judge Terry A. Doughty was assigned to the case.",
+    "target_paragraph_indices": [
+      0,
+      529
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            113,
+            330
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 24, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            132,
+            254
+          ],
+          [
+            531,
+            638
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for writ of habeas corpus challenging detention and deportation",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            25,
+            111
+          ],
+          [
+            1252,
+            1338
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment\u2019s Due Process Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            113,
+            330
+          ]
+        ],
+        "annotation": {
+          "explanation": "Writ of habeas corpus",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            481,
+            529
+          ],
+          [
+            2894,
+            2987
+          ]
+        ],
+        "annotation": {
+          "explanation": "Terry A. Doughty",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            0,
+            4
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            113,
+            330
+          ],
+          [
+            331,
+            480
+          ],
+          [
+            531,
+            677
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as a two-year-old natural-born U.S. citizen child identified as V.M.L., with the petition brought by a next friend",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            132,
+            330
+          ],
+          [
+            531,
+            607
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: V.M.L., a two-year-old natural-born U.S. citizen, proceeding by next friend",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            331,
+            480
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Homeland Security",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            331,
+            480
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of the U.S. Department of Homeland Security",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            331,
+            480
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Immigration and Customs Enforcement",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            331,
+            480
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Director of U.S. Immigration and Customs Enforcement",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            255,
+            330
+          ]
+        ],
+        "annotation": {
+          "explanation": "Subject of the case is V.M.L., a two-year-old natural-born U.S. citizen child.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            113,
+            254
+          ],
+          [
+            331,
+            480
+          ],
+          [
+            481,
+            529
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing and parties: On April 24, 2025, a habeas petition was filed in the Western District of Louisiana against DHS (and its Secretary) and ICE (and its Acting Director), assigned to Judge Terry A. Doughty.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            113,
+            330
+          ],
+          [
+            331,
+            480
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for writ of habeas corpus filed April 24, 2025 (W.D. La.) on behalf of U.S.-citizen child V.M.L., naming DHS/Secretary and ICE/Acting Director as respondents.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            113,
+            330
+          ],
+          [
+            481,
+            529
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for writ of habeas corpus filed on April 24, 2025 in the Western District of Louisiana; Judge Terry A. Doughty assigned.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": "46497_p1",
+    "metadata": {
+      "case_id": "46497",
+      "paragraph_num": 1,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The petition, brought by a next friend, challenged the government\u2019s decision to detain and deport th..."
+    },
+    "source": "",
+    "target": "This is a case about the alleged unlawful detention and deportation of a U.S. citizen child without due process. On April 24, 2025, a petition for a writ of habeas corpus was filed in the United States District Court for the Western District of Louisiana on behalf of a two-year-old natural-born U.S. citizen, identified as V.M.L. The petitioner sued the U.S. Department of Homeland Security and its Secretary, and U.S. Immigration and Customs Enforcement and its Acting Director. Judge Terry A. Doughty was assigned to the case.\n\nThe petition, brought by a next friend, challenged the government\u2019s decision to detain and deport the child to Honduras following an ICE check-in. Although V.M.L. was a U.S. citizen, she was detained alongside her noncitizen mother and sister during an immigration enforcement action and was deported as part of the family unit. The petition alleged that the government failed to provide any process allowing V.M.L. to assert or prove her citizenship before her deportation. It further alleged that the government\u2019s detention was ultra vires, exceeding legal authority, and that the detention and removal violated protections under the Fourth Amendment against unlawful seizure. The petitioner argued that these failures violated V.M.L.\u2019s constitutional rights under the Fifth Amendment\u2019s Due Process Clause, emphasizing that no meaningful opportunity was given to establish her citizenship status or to challenge the removal decision. They further contended that the government\u2019s actions undermined birthright citizenship protections and amounted to an arbitrary and unlawful deprivation of liberty. The petition also invoked the All Writs Act and the Suspension Clause to preserve the court\u2019s jurisdiction and prevent the mooting of constitutional claims.\n\nRepresented by private counsel, the petitioner filed an emergency motion for a temporary restraining order on April 24, 2025, seeking to halt V.M.L.\u2019s removal while the court considered the legality of her detention and deportation. The motion argued that immediate relief was necessary to prevent irreparable harm and to protect V.M.L.\u2019s due process rights, including the opportunity to establish her U.S. citizenship. The petitioner requested her release from custody, a declaratory judgment that the detention and removal were unlawful, and an injunction barring any further removal efforts without due process.\n\nHowever, on April 25, the government notified the court that V.M.L. and her mother had already been released in Honduras, rendering communication with them impossible. The government stated that V.M.L.\u2019s mother had expressed a desire to take her child to Honduras, citing a handwritten note as evidence of this intent. The response effectively indicated that the government had completed the removal before the court could rule on the emergency motion for a temporary restraining order.\n\nOn April 25, 2025, Judge Doughty issued a memorandum order addressing the emergency petition. 2025 WL 1202548. The order acknowledged the serious due process concerns raised by the petition and scheduled a hearing for May 16, 2025, to determine whether the government had unlawfully deported a U.S. citizen without providing a meaningful opportunity to challenge her removal. Despite the scheduled hearing, on May 8, 2025, the parties filed a joint stipulation of dismissal, and the case was closed without a ruling on the merits.",
+    "target_paragraph": "The petition, brought by a next friend, challenged the government\u2019s decision to detain and deport the child to Honduras following an ICE check-in. Although V.M.L. was a U.S. citizen, she was detained alongside her noncitizen mother and sister during an immigration enforcement action and was deported as part of the family unit. The petition alleged that the government failed to provide any process allowing V.M.L. to assert or prove her citizenship before her deportation. It further alleged that the government\u2019s detention was ultra vires, exceeding legal authority, and that the detention and removal violated protections under the Fourth Amendment against unlawful seizure. The petitioner argued that these failures violated V.M.L.\u2019s constitutional rights under the Fifth Amendment\u2019s Due Process Clause, emphasizing that no meaningful opportunity was given to establish her citizenship status or to challenge the removal decision. They further contended that the government\u2019s actions undermined birthright citizenship protections and amounted to an arbitrary and unlawful deprivation of liberty. The petition also invoked the All Writs Act and the Suspension Clause to preserve the court\u2019s jurisdiction and prevent the mooting of constitutional claims.",
+    "target_paragraph_indices": [
+      531,
+      1788
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1210,
+            1466
+          ],
+          [
+            1467,
+            1631
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment Due Process Clause claim (lack of meaningful process to establish citizenship and challenge removal)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1006,
+            1099
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ultra vires claim (detention exceeding legal authority)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1101,
+            1209
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourth Amendment unlawful seizure claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1632,
+            1788
+          ]
+        ],
+        "annotation": {
+          "explanation": "Invocation of the All Writs Act and the Suspension Clause (jurisdictional/preservational bases)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1110,
+            1209
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourth Amendment (protection against unreasonable seizures)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1632,
+            1788
+          ]
+        ],
+        "annotation": {
+          "explanation": "Suspension Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1632,
+            1788
+          ]
+        ],
+        "annotation": {
+          "explanation": "All Writs Act",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            531,
+            677
+          ],
+          [
+            678,
+            859
+          ]
+        ],
+        "annotation": {
+          "explanation": "Event: After an ICE check-in/immigration enforcement action, V.M.L. was detained with her noncitizen mother and sister and deported to Honduras as part of the family unit.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            860,
+            1005
+          ],
+          [
+            1357,
+            1466
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged due process deficiency: The government provided no process or meaningful opportunity for V.M.L. to assert or prove U.S. citizenship or to challenge removal before deportation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1632,
+            1788
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background context: Petitioner invoked the All Writs Act and the Suspension Clause to preserve jurisdiction and avoid mootness.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46497_p2",
+    "metadata": {
+      "case_id": "46497",
+      "paragraph_num": 2,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Represented by private counsel, the petitioner filed an emergency motion for a temporary restraining..."
+    },
+    "source": "",
+    "target": "This is a case about the alleged unlawful detention and deportation of a U.S. citizen child without due process. On April 24, 2025, a petition for a writ of habeas corpus was filed in the United States District Court for the Western District of Louisiana on behalf of a two-year-old natural-born U.S. citizen, identified as V.M.L. The petitioner sued the U.S. Department of Homeland Security and its Secretary, and U.S. Immigration and Customs Enforcement and its Acting Director. Judge Terry A. Doughty was assigned to the case.\n\nThe petition, brought by a next friend, challenged the government\u2019s decision to detain and deport the child to Honduras following an ICE check-in. Although V.M.L. was a U.S. citizen, she was detained alongside her noncitizen mother and sister during an immigration enforcement action and was deported as part of the family unit. The petition alleged that the government failed to provide any process allowing V.M.L. to assert or prove her citizenship before her deportation. It further alleged that the government\u2019s detention was ultra vires, exceeding legal authority, and that the detention and removal violated protections under the Fourth Amendment against unlawful seizure. The petitioner argued that these failures violated V.M.L.\u2019s constitutional rights under the Fifth Amendment\u2019s Due Process Clause, emphasizing that no meaningful opportunity was given to establish her citizenship status or to challenge the removal decision. They further contended that the government\u2019s actions undermined birthright citizenship protections and amounted to an arbitrary and unlawful deprivation of liberty. The petition also invoked the All Writs Act and the Suspension Clause to preserve the court\u2019s jurisdiction and prevent the mooting of constitutional claims.\n\nRepresented by private counsel, the petitioner filed an emergency motion for a temporary restraining order on April 24, 2025, seeking to halt V.M.L.\u2019s removal while the court considered the legality of her detention and deportation. The motion argued that immediate relief was necessary to prevent irreparable harm and to protect V.M.L.\u2019s due process rights, including the opportunity to establish her U.S. citizenship. The petitioner requested her release from custody, a declaratory judgment that the detention and removal were unlawful, and an injunction barring any further removal efforts without due process.\n\nHowever, on April 25, the government notified the court that V.M.L. and her mother had already been released in Honduras, rendering communication with them impossible. The government stated that V.M.L.\u2019s mother had expressed a desire to take her child to Honduras, citing a handwritten note as evidence of this intent. The response effectively indicated that the government had completed the removal before the court could rule on the emergency motion for a temporary restraining order.\n\nOn April 25, 2025, Judge Doughty issued a memorandum order addressing the emergency petition. 2025 WL 1202548. The order acknowledged the serious due process concerns raised by the petition and scheduled a hearing for May 16, 2025, to determine whether the government had unlawfully deported a U.S. citizen without providing a meaningful opportunity to challenge her removal. Despite the scheduled hearing, on May 8, 2025, the parties filed a joint stipulation of dismissal, and the case was closed without a ruling on the merits.",
+    "target_paragraph": "Represented by private counsel, the petitioner filed an emergency motion for a temporary restraining order on April 24, 2025, seeking to halt V.M.L.\u2019s removal while the court considered the legality of her detention and deportation. The motion argued that immediate relief was necessary to prevent irreparable harm and to protect V.M.L.\u2019s due process rights, including the opportunity to establish her U.S. citizenship. The petitioner requested her release from custody, a declaratory judgment that the detention and removal were unlawful, and an injunction barring any further removal efforts without due process.",
+    "target_paragraph_indices": [
+      1790,
+      2404
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1843,
+            1948
+          ],
+          [
+            2210,
+            2404
+          ]
+        ],
+        "annotation": {
+          "explanation": "Equitable relief sought: temporary restraining order, declaratory judgment, and injunction",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1790,
+            2022
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency temporary restraining order to halt removal (stay of removal)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2210,
+            2404
+          ]
+        ],
+        "annotation": {
+          "explanation": "Release from custody",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2210,
+            2404
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment that the detention and removal were unlawful",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2210,
+            2404
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunction barring any further removal efforts without due process",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1790,
+            2022
+          ]
+        ],
+        "annotation": {
+          "explanation": "private counsel",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1790,
+            2022
+          ],
+          [
+            2210,
+            2404
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency relief sought: On April 24, 2025, petitioner sought a TRO to halt removal and requested release, declaratory judgment of unlawfulness, and an injunction against further removal without due process.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1790,
+            2022
+          ],
+          [
+            2210,
+            2404
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency motion for temporary restraining order filed April 24, 2025, seeking to halt removal; requested release, declaratory judgment that detention/removal were unlawful, and an injunction against further removal without due process.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1790,
+            2022
+          ],
+          [
+            2023,
+            2209
+          ],
+          [
+            2210,
+            2404
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency motion for temporary restraining order filed on April 24, 2025; sought to halt removal, argued irreparable harm and due process concerns, and requested release, declaratory judgment, and an injunction.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1790,
+            2022
+          ],
+          [
+            2725,
+            2892
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency motion for temporary restraining order (Apr 24, 2025): No ruling entered; removal was completed before the court could rule.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46497_p3",
+    "metadata": {
+      "case_id": "46497",
+      "paragraph_num": 3,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "However, on April 25, the government notified the court that V.M.L. and her mother had already been ..."
+    },
+    "source": "",
+    "target": "This is a case about the alleged unlawful detention and deportation of a U.S. citizen child without due process. On April 24, 2025, a petition for a writ of habeas corpus was filed in the United States District Court for the Western District of Louisiana on behalf of a two-year-old natural-born U.S. citizen, identified as V.M.L. The petitioner sued the U.S. Department of Homeland Security and its Secretary, and U.S. Immigration and Customs Enforcement and its Acting Director. Judge Terry A. Doughty was assigned to the case.\n\nThe petition, brought by a next friend, challenged the government\u2019s decision to detain and deport the child to Honduras following an ICE check-in. Although V.M.L. was a U.S. citizen, she was detained alongside her noncitizen mother and sister during an immigration enforcement action and was deported as part of the family unit. The petition alleged that the government failed to provide any process allowing V.M.L. to assert or prove her citizenship before her deportation. It further alleged that the government\u2019s detention was ultra vires, exceeding legal authority, and that the detention and removal violated protections under the Fourth Amendment against unlawful seizure. The petitioner argued that these failures violated V.M.L.\u2019s constitutional rights under the Fifth Amendment\u2019s Due Process Clause, emphasizing that no meaningful opportunity was given to establish her citizenship status or to challenge the removal decision. They further contended that the government\u2019s actions undermined birthright citizenship protections and amounted to an arbitrary and unlawful deprivation of liberty. The petition also invoked the All Writs Act and the Suspension Clause to preserve the court\u2019s jurisdiction and prevent the mooting of constitutional claims.\n\nRepresented by private counsel, the petitioner filed an emergency motion for a temporary restraining order on April 24, 2025, seeking to halt V.M.L.\u2019s removal while the court considered the legality of her detention and deportation. The motion argued that immediate relief was necessary to prevent irreparable harm and to protect V.M.L.\u2019s due process rights, including the opportunity to establish her U.S. citizenship. The petitioner requested her release from custody, a declaratory judgment that the detention and removal were unlawful, and an injunction barring any further removal efforts without due process.\n\nHowever, on April 25, the government notified the court that V.M.L. and her mother had already been released in Honduras, rendering communication with them impossible. The government stated that V.M.L.\u2019s mother had expressed a desire to take her child to Honduras, citing a handwritten note as evidence of this intent. The response effectively indicated that the government had completed the removal before the court could rule on the emergency motion for a temporary restraining order.\n\nOn April 25, 2025, Judge Doughty issued a memorandum order addressing the emergency petition. 2025 WL 1202548. The order acknowledged the serious due process concerns raised by the petition and scheduled a hearing for May 16, 2025, to determine whether the government had unlawfully deported a U.S. citizen without providing a meaningful opportunity to challenge her removal. Despite the scheduled hearing, on May 8, 2025, the parties filed a joint stipulation of dismissal, and the case was closed without a ruling on the merits.",
+    "target_paragraph": "However, on April 25, the government notified the court that V.M.L. and her mother had already been released in Honduras, rendering communication with them impossible. The government stated that V.M.L.\u2019s mother had expressed a desire to take her child to Honduras, citing a handwritten note as evidence of this intent. The response effectively indicated that the government had completed the removal before the court could rule on the emergency motion for a temporary restraining order.",
+    "target_paragraph_indices": [
+      2406,
+      2892
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2406,
+            2573
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government notice: By April 25, 2025, V.M.L. and her mother had been released in Honduras, and communication with them was not possible.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2574,
+            2724
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government\u2019s supporting evidence: A handwritten note allegedly showing the mother\u2019s desire to take V.M.L. to Honduras.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2725,
+            2892
+          ]
+        ],
+        "annotation": {
+          "explanation": "Timing: Removal was completed before the court ruled on the TRO.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2406,
+            2573
+          ],
+          [
+            2725,
+            2892
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government notice/response filed April 25, 2025, informing the court that V.M.L. and her mother were already released in Honduras and that removal had been completed before the court could rule on the TRO.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2406,
+            2573
+          ],
+          [
+            2574,
+            2724
+          ],
+          [
+            2725,
+            2892
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 25, the government notified the court that removal had already been completed (release in Honduras), effectively indicating this occurred before the court could rule on the TRO.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46497_p4",
+    "metadata": {
+      "case_id": "46497",
+      "paragraph_num": 4,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 25, 2025, Judge Doughty issued a memorandum order addressing the emergency petition. 2025 W..."
+    },
+    "source": "",
+    "target": "This is a case about the alleged unlawful detention and deportation of a U.S. citizen child without due process. On April 24, 2025, a petition for a writ of habeas corpus was filed in the United States District Court for the Western District of Louisiana on behalf of a two-year-old natural-born U.S. citizen, identified as V.M.L. The petitioner sued the U.S. Department of Homeland Security and its Secretary, and U.S. Immigration and Customs Enforcement and its Acting Director. Judge Terry A. Doughty was assigned to the case.\n\nThe petition, brought by a next friend, challenged the government\u2019s decision to detain and deport the child to Honduras following an ICE check-in. Although V.M.L. was a U.S. citizen, she was detained alongside her noncitizen mother and sister during an immigration enforcement action and was deported as part of the family unit. The petition alleged that the government failed to provide any process allowing V.M.L. to assert or prove her citizenship before her deportation. It further alleged that the government\u2019s detention was ultra vires, exceeding legal authority, and that the detention and removal violated protections under the Fourth Amendment against unlawful seizure. The petitioner argued that these failures violated V.M.L.\u2019s constitutional rights under the Fifth Amendment\u2019s Due Process Clause, emphasizing that no meaningful opportunity was given to establish her citizenship status or to challenge the removal decision. They further contended that the government\u2019s actions undermined birthright citizenship protections and amounted to an arbitrary and unlawful deprivation of liberty. The petition also invoked the All Writs Act and the Suspension Clause to preserve the court\u2019s jurisdiction and prevent the mooting of constitutional claims.\n\nRepresented by private counsel, the petitioner filed an emergency motion for a temporary restraining order on April 24, 2025, seeking to halt V.M.L.\u2019s removal while the court considered the legality of her detention and deportation. The motion argued that immediate relief was necessary to prevent irreparable harm and to protect V.M.L.\u2019s due process rights, including the opportunity to establish her U.S. citizenship. The petitioner requested her release from custody, a declaratory judgment that the detention and removal were unlawful, and an injunction barring any further removal efforts without due process.\n\nHowever, on April 25, the government notified the court that V.M.L. and her mother had already been released in Honduras, rendering communication with them impossible. The government stated that V.M.L.\u2019s mother had expressed a desire to take her child to Honduras, citing a handwritten note as evidence of this intent. The response effectively indicated that the government had completed the removal before the court could rule on the emergency motion for a temporary restraining order.\n\nOn April 25, 2025, Judge Doughty issued a memorandum order addressing the emergency petition. 2025 WL 1202548. The order acknowledged the serious due process concerns raised by the petition and scheduled a hearing for May 16, 2025, to determine whether the government had unlawfully deported a U.S. citizen without providing a meaningful opportunity to challenge her removal. Despite the scheduled hearing, on May 8, 2025, the parties filed a joint stipulation of dismissal, and the case was closed without a ruling on the merits.",
+    "target_paragraph": "On April 25, 2025, Judge Doughty issued a memorandum order addressing the emergency petition. 2025 WL 1202548. The order acknowledged the serious due process concerns raised by the petition and scheduled a hearing for May 16, 2025, to determine whether the government had unlawfully deported a U.S. citizen without providing a meaningful opportunity to challenge her removal. Despite the scheduled hearing, on May 8, 2025, the parties filed a joint stipulation of dismissal, and the case was closed without a ruling on the merits.",
+    "target_paragraph_indices": [
+      2894,
+      3424
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            2894,
+            3004
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025 WL 1202548",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            3270,
+            3424
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 8, 2025: joint stipulation of dismissal filed; case closed without a ruling on the merits.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            3270,
+            3424
+          ]
+        ],
+        "annotation": {
+          "explanation": "No.",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2894,
+            3004
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 25, 2025: Memorandum order addressing the emergency petition (2025 WL 1202548).",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2894,
+            3004
+          ],
+          [
+            3005,
+            3269
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court action: On April 25, 2025, the court acknowledged due process concerns and set a May 16, 2025 hearing to assess whether a U.S. citizen was unlawfully deported without a meaningful opportunity to challenge removal.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3270,
+            3424
+          ]
+        ],
+        "annotation": {
+          "explanation": "Disposition: On May 8, 2025, the parties jointly dismissed the case; no ruling on the merits was issued.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2894,
+            3004
+          ],
+          [
+            3005,
+            3269
+          ]
+        ],
+        "annotation": {
+          "explanation": "Memorandum order issued April 25, 2025 (2025 WL 1202548), addressing the emergency petition and setting a hearing for May 16, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3270,
+            3424
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint stipulation of dismissal filed May 8, 2025, closing the case without a ruling on the merits.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2894,
+            3004
+          ],
+          [
+            3005,
+            3269
+          ]
+        ],
+        "annotation": {
+          "explanation": "Memorandum order issued April 25, 2025 (2025 WL 1202548); court acknowledged due process concerns and scheduled a hearing for May 16, 2025, to assess the legality of the deportation.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3270,
+            3424
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 8, 2025, the parties filed a joint stipulation of dismissal; case closed without a ruling on the merits (scheduled May 16 hearing did not proceed).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2894,
+            3004
+          ],
+          [
+            3005,
+            3269
+          ],
+          [
+            3270,
+            3424
+          ]
+        ],
+        "annotation": {
+          "explanation": "Memorandum order on emergency habeas petition (Apr 25, 2025; 2025 WL 1202548): Court acknowledged due process concerns and set a May 16, 2025 hearing; no merits ruling entered before the case was dismissed.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  }
+]

@@ -1,0 +1,634 @@
+[
+  {
+    "id": "46282_p0",
+    "metadata": {
+      "case_id": "46282",
+      "paragraph_num": 0,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged two executive orders issued by President Trump in January 2025\u2014Executive Orders..."
+    },
+    "source": "",
+    "target": "This case challenged two executive orders issued by President Trump in January 2025\u2014Executive Orders 14151 and 14173\u2014which eliminated diversity, equity, inclusion, and accessibility (DEIA) initiatives across federal agencies. On March 24, 2025, Rana S. Coleman, proceeding pro se and purporting to act \u201con behalf of\u201d RScoleman & Associates Staffing LLC, filed this lawsuit in the U.S. District Court for the Eastern District of Michigan. The plaintiff alleged that the executive orders, and a February 14, 2025 guidance letter from the Department of Education enforcing them, violated Title VI of the Civil Rights Act of 1964, the First, Fifth, and Fourteenth Amendments, and caused harm to the plaintiff\u2019s DEIA-focused work supporting Black students and HBCUs.\n\nThe plaintiff sought declaratory and injunctive relief to halt enforcement of the executive orders and the guidance letter. Plaintiff alleged that the actions of the federal government would strip away funding and partnerships for race-conscious educational initiatives and chill advocacy for Black communities.\n\nOn the same day the complaint was filed, the court denied plaintiff\u2019s application to proceed in forma pauperis and issued an order to show cause. The court found that RScoleman LLC\u2014not Coleman individually\u2014was the real party in interest, and that corporations and LLCs cannot appear pro se or qualify for in forma pauperis status. The court ordered Coleman to retain licensed counsel within 30 days or face dismissal.\n\nOn June 23, plaintiff requested a stay of proceedings to continue seeking representation, but the court denied that request. Finding that no attorney had appeared and the filing fee remained unpaid, the court dismissed the case without prejudice on June 25.\n\nThe case is closed.",
+    "target_paragraph": "This case challenged two executive orders issued by President Trump in January 2025\u2014Executive Orders 14151 and 14173\u2014which eliminated diversity, equity, inclusion, and accessibility (DEIA) initiatives across federal agencies. On March 24, 2025, Rana S. Coleman, proceeding pro se and purporting to act \u201con behalf of\u201d RScoleman & Associates Staffing LLC, filed this lawsuit in the U.S. District Court for the Eastern District of Michigan. The plaintiff alleged that the executive orders, and a February 14, 2025 guidance letter from the Department of Education enforcing them, violated Title VI of the Civil Rights Act of 1964, the First, Fifth, and Fourteenth Amendments, and caused harm to the plaintiff\u2019s DEIA-focused work supporting Black students and HBCUs.",
+    "target_paragraph_indices": [
+      0,
+      761
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            226,
+            437
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 24, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            576,
+            670
+          ]
+        ],
+        "annotation": {
+          "explanation": "Title VI of the Civil Rights Act of 1964 (statutory claim)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            576,
+            670
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment to the U.S. Constitution (constitutional claim)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            576,
+            670
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment to the U.S. Constitution (constitutional claim)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            576,
+            670
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment to the U.S. Constitution (constitutional claim)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            576,
+            670
+          ]
+        ],
+        "annotation": {
+          "explanation": "Title VI of the Civil Rights Act of 1964",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            576,
+            670
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment to the U.S. Constitution",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            576,
+            670
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment to the U.S. Constitution",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            576,
+            670
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment to the U.S. Constitution",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            0,
+            225
+          ],
+          [
+            491,
+            575
+          ],
+          [
+            763,
+            886
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory and injunctive relief to halt enforcement of Executive Orders 14151 and 14173 and the February 14, 2025 Department of Education guidance letter.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 9
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            245,
+            372
+          ],
+          [
+            1620,
+            1752
+          ]
+        ],
+        "annotation": {
+          "explanation": "Pro se (self-represented)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 10
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            226,
+            437
+          ],
+          [
+            1222,
+            1406
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as Rana S. Coleman, proceeding pro se, purporting to act on behalf of RScoleman & Associates Staffing LLC; court deemed the LLC the real party in interest",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            226,
+            437
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Rana S. Coleman, proceeding pro se and purporting to act on behalf of RScoleman & Associates Staffing LLC",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            226,
+            437
+          ],
+          [
+            1222,
+            1406
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: RScoleman & Associates Staffing LLC, identified by the court as the real party in interest (an LLC that cannot appear pro se)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 13
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            225
+          ]
+        ],
+        "annotation": {
+          "explanation": "Two January 2025 executive orders (EO 14151 and EO 14173) eliminated DEIA initiatives across federal agencies.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            487,
+            574
+          ]
+        ],
+        "annotation": {
+          "explanation": "The Department of Education issued a February 14, 2025 guidance letter enforcing the executive orders.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            226,
+            437
+          ]
+        ],
+        "annotation": {
+          "explanation": "On March 24, 2025, Rana S. Coleman, acting pro se on behalf of RScoleman & Associates Staffing LLC, filed suit in the U.S. District Court for the Eastern District of Michigan.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            438,
+            761
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff alleged violations of Title VI and the First, Fifth, and Fourteenth Amendments and harm to DEIA-focused work supporting Black students and HBCUs.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            226,
+            437
+          ],
+          [
+            763,
+            886
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on March 24, 2025; sought declaratory and injunctive relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 18
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            226,
+            437
+          ],
+          [
+            1076,
+            1221
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court denied plaintiff\u2019s application to proceed in forma pauperis on March 24, 2025 (same day the complaint was filed).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 19
+      }
+    ]
+  },
+  {
+    "id": "46282_p1",
+    "metadata": {
+      "case_id": "46282",
+      "paragraph_num": 1,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiff sought declaratory and injunctive relief to halt enforcement of the executive orders a..."
+    },
+    "source": "",
+    "target": "This case challenged two executive orders issued by President Trump in January 2025\u2014Executive Orders 14151 and 14173\u2014which eliminated diversity, equity, inclusion, and accessibility (DEIA) initiatives across federal agencies. On March 24, 2025, Rana S. Coleman, proceeding pro se and purporting to act \u201con behalf of\u201d RScoleman & Associates Staffing LLC, filed this lawsuit in the U.S. District Court for the Eastern District of Michigan. The plaintiff alleged that the executive orders, and a February 14, 2025 guidance letter from the Department of Education enforcing them, violated Title VI of the Civil Rights Act of 1964, the First, Fifth, and Fourteenth Amendments, and caused harm to the plaintiff\u2019s DEIA-focused work supporting Black students and HBCUs.\n\nThe plaintiff sought declaratory and injunctive relief to halt enforcement of the executive orders and the guidance letter. Plaintiff alleged that the actions of the federal government would strip away funding and partnerships for race-conscious educational initiatives and chill advocacy for Black communities.\n\nOn the same day the complaint was filed, the court denied plaintiff\u2019s application to proceed in forma pauperis and issued an order to show cause. The court found that RScoleman LLC\u2014not Coleman individually\u2014was the real party in interest, and that corporations and LLCs cannot appear pro se or qualify for in forma pauperis status. The court ordered Coleman to retain licensed counsel within 30 days or face dismissal.\n\nOn June 23, plaintiff requested a stay of proceedings to continue seeking representation, but the court denied that request. Finding that no attorney had appeared and the filing fee remained unpaid, the court dismissed the case without prejudice on June 25.\n\nThe case is closed.",
+    "target_paragraph": "The plaintiff sought declaratory and injunctive relief to halt enforcement of the executive orders and the guidance letter. Plaintiff alleged that the actions of the federal government would strip away funding and partnerships for race-conscious educational initiatives and chill advocacy for Black communities.",
+    "target_paragraph_indices": [
+      763,
+      1074
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            763,
+            886
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff sought declaratory and injunctive relief to stop enforcement of the executive orders and the DOE guidance letter.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            887,
+            1074
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff claimed the federal actions would remove funding and partnerships for race-conscious educational programs and chill advocacy for Black communities.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46282_p2",
+    "metadata": {
+      "case_id": "46282",
+      "paragraph_num": 2,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On the same day the complaint was filed, the court denied plaintiff\u2019s application to proceed in form..."
+    },
+    "source": "",
+    "target": "This case challenged two executive orders issued by President Trump in January 2025\u2014Executive Orders 14151 and 14173\u2014which eliminated diversity, equity, inclusion, and accessibility (DEIA) initiatives across federal agencies. On March 24, 2025, Rana S. Coleman, proceeding pro se and purporting to act \u201con behalf of\u201d RScoleman & Associates Staffing LLC, filed this lawsuit in the U.S. District Court for the Eastern District of Michigan. The plaintiff alleged that the executive orders, and a February 14, 2025 guidance letter from the Department of Education enforcing them, violated Title VI of the Civil Rights Act of 1964, the First, Fifth, and Fourteenth Amendments, and caused harm to the plaintiff\u2019s DEIA-focused work supporting Black students and HBCUs.\n\nThe plaintiff sought declaratory and injunctive relief to halt enforcement of the executive orders and the guidance letter. Plaintiff alleged that the actions of the federal government would strip away funding and partnerships for race-conscious educational initiatives and chill advocacy for Black communities.\n\nOn the same day the complaint was filed, the court denied plaintiff\u2019s application to proceed in forma pauperis and issued an order to show cause. The court found that RScoleman LLC\u2014not Coleman individually\u2014was the real party in interest, and that corporations and LLCs cannot appear pro se or qualify for in forma pauperis status. The court ordered Coleman to retain licensed counsel within 30 days or face dismissal.\n\nOn June 23, plaintiff requested a stay of proceedings to continue seeking representation, but the court denied that request. Finding that no attorney had appeared and the filing fee remained unpaid, the court dismissed the case without prejudice on June 25.\n\nThe case is closed.",
+    "target_paragraph": "On the same day the complaint was filed, the court denied plaintiff\u2019s application to proceed in forma pauperis and issued an order to show cause. The court found that RScoleman LLC\u2014not Coleman individually\u2014was the real party in interest, and that corporations and LLCs cannot appear pro se or qualify for in forma pauperis status. The court ordered Coleman to retain licensed counsel within 30 days or face dismissal.",
+    "target_paragraph_indices": [
+      1076,
+      1493
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            1191,
+            1221
+          ],
+          [
+            1407,
+            1493
+          ]
+        ],
+        "annotation": {
+          "explanation": "30 days: Court ordered Coleman to retain licensed counsel or face dismissal.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1076,
+            1221
+          ],
+          [
+            1222,
+            1406
+          ],
+          [
+            1407,
+            1493
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court denied in forma pauperis status, found the LLC was the real party in interest, ruled that LLCs cannot appear pro se or proceed IFP, and ordered retention of counsel within 30 days.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1076,
+            1221
+          ]
+        ],
+        "annotation": {
+          "explanation": "Application to proceed in forma pauperis filed and denied the same day; order to show cause issued.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1222,
+            1406
+          ],
+          [
+            1407,
+            1493
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order to show cause directed plaintiff to obtain licensed counsel within 30 days or face dismissal.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46282_p3",
+    "metadata": {
+      "case_id": "46282",
+      "paragraph_num": 3,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 23, plaintiff requested a stay of proceedings to continue seeking representation, but the co..."
+    },
+    "source": "",
+    "target": "This case challenged two executive orders issued by President Trump in January 2025\u2014Executive Orders 14151 and 14173\u2014which eliminated diversity, equity, inclusion, and accessibility (DEIA) initiatives across federal agencies. On March 24, 2025, Rana S. Coleman, proceeding pro se and purporting to act \u201con behalf of\u201d RScoleman & Associates Staffing LLC, filed this lawsuit in the U.S. District Court for the Eastern District of Michigan. The plaintiff alleged that the executive orders, and a February 14, 2025 guidance letter from the Department of Education enforcing them, violated Title VI of the Civil Rights Act of 1964, the First, Fifth, and Fourteenth Amendments, and caused harm to the plaintiff\u2019s DEIA-focused work supporting Black students and HBCUs.\n\nThe plaintiff sought declaratory and injunctive relief to halt enforcement of the executive orders and the guidance letter. Plaintiff alleged that the actions of the federal government would strip away funding and partnerships for race-conscious educational initiatives and chill advocacy for Black communities.\n\nOn the same day the complaint was filed, the court denied plaintiff\u2019s application to proceed in forma pauperis and issued an order to show cause. The court found that RScoleman LLC\u2014not Coleman individually\u2014was the real party in interest, and that corporations and LLCs cannot appear pro se or qualify for in forma pauperis status. The court ordered Coleman to retain licensed counsel within 30 days or face dismissal.\n\nOn June 23, plaintiff requested a stay of proceedings to continue seeking representation, but the court denied that request. Finding that no attorney had appeared and the filing fee remained unpaid, the court dismissed the case without prejudice on June 25.\n\nThe case is closed.",
+    "target_paragraph": "On June 23, plaintiff requested a stay of proceedings to continue seeking representation, but the court denied that request. Finding that no attorney had appeared and the filing fee remained unpaid, the court dismissed the case without prejudice on June 25.",
+    "target_paragraph_indices": [
+      1495,
+      1752
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1495,
+            1619
+          ],
+          [
+            1620,
+            1752
+          ],
+          [
+            1754,
+            1773
+          ]
+        ],
+        "annotation": {
+          "explanation": "A stay request on June 23 was denied; due to lack of counsel and unpaid filing fee, the case was dismissed without prejudice on June 25 and closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            3,
+            4
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1495,
+            1619
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff requested a stay on June 23, 2025; request denied.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1620,
+            1752
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case dismissed without prejudice on June 25, 2025 for failure to obtain counsel and pay the filing fee.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1495,
+            1619
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court denied plaintiff\u2019s June 23, 2025 request to stay proceedings.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1620,
+            1752
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court dismissed the case without prejudice on June 25, 2025 due to lack of counsel and unpaid filing fee.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46282_p4",
+    "metadata": {
+      "case_id": "46282",
+      "paragraph_num": 4,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case is closed."
+    },
+    "source": "",
+    "target": "This case challenged two executive orders issued by President Trump in January 2025\u2014Executive Orders 14151 and 14173\u2014which eliminated diversity, equity, inclusion, and accessibility (DEIA) initiatives across federal agencies. On March 24, 2025, Rana S. Coleman, proceeding pro se and purporting to act \u201con behalf of\u201d RScoleman & Associates Staffing LLC, filed this lawsuit in the U.S. District Court for the Eastern District of Michigan. The plaintiff alleged that the executive orders, and a February 14, 2025 guidance letter from the Department of Education enforcing them, violated Title VI of the Civil Rights Act of 1964, the First, Fifth, and Fourteenth Amendments, and caused harm to the plaintiff\u2019s DEIA-focused work supporting Black students and HBCUs.\n\nThe plaintiff sought declaratory and injunctive relief to halt enforcement of the executive orders and the guidance letter. Plaintiff alleged that the actions of the federal government would strip away funding and partnerships for race-conscious educational initiatives and chill advocacy for Black communities.\n\nOn the same day the complaint was filed, the court denied plaintiff\u2019s application to proceed in forma pauperis and issued an order to show cause. The court found that RScoleman LLC\u2014not Coleman individually\u2014was the real party in interest, and that corporations and LLCs cannot appear pro se or qualify for in forma pauperis status. The court ordered Coleman to retain licensed counsel within 30 days or face dismissal.\n\nOn June 23, plaintiff requested a stay of proceedings to continue seeking representation, but the court denied that request. Finding that no attorney had appeared and the filing fee remained unpaid, the court dismissed the case without prejudice on June 25.\n\nThe case is closed.",
+    "target_paragraph": "The case is closed.",
+    "target_paragraph_indices": [
+      1754,
+      1773
+    ],
+    "edits": []
+  }
+]

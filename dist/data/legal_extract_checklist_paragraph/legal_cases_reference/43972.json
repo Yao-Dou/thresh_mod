@@ -1,0 +1,1288 @@
+[
+  {
+    "id": "43972_p0",
+    "metadata": {
+      "case_id": "43972",
+      "paragraph_num": 0,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is about the First Amendment rights of public officials. On August 4, 2022, the Governor o..."
+    },
+    "source": "",
+    "target": "This case is about the First Amendment rights of public officials. On August 4, 2022, the Governor of Florida, Ron DeSantis, promulgated Executive Order 22-176, suspending a State Attorney after he signed on to statements in support of transgender rights and abortion rights.\u00a0The Executive Order (EO) claimed the State Attorney was \"incompetent\" to hold his office and had demonstrated a \"neglect of duty\" while in office. However, Governor DeSantis stated to the press that the suspension was due to statements the State Attorney had made about gender-affirming care and abortion.\n\nFollowing his suspension, the State Attorney filed this lawsuit against Governor DeSantis on August 17, 2022, in the U.S. District Court for the Northern District of Florida. The plaintiff sued under 42 U.S.C. \u00a7 1983, alleging that the suspension violated his First Amendment right to free speech and the Florida Constitution's limitations on gubernatorial suspensions of state officers. Various parties filed amicus briefs in this case, including a group of former prosecutors, attorneys general, judges, US attorneys, and other officials (for the plaintiff); two groups of legal scholars (for the plaintiff); and the Florida Sheriff's Association (for the defendant).\n\nOn the same day he filed the lawsuit, the plaintiff also moved for a preliminary injunction requiring the Governor to reinstate the plaintiff as a State Attorney. The Governor subsequently moved to dismiss the case, arguing that the plaintiff's speech was the speech of a government officials pursuant to his duties; under Garcetti v. Ceballos, 547 U.S. 410 (2006), an official's supervisor can discipline them for official speech without violating the First Amendment.\n\nOn September 29, 2022, the court denied the Governor's motion to dismiss the First Amendment claim, holding that\u00a0Garcetti\u00a0did not apply because 1) the plaintiff was elected, and 2) the speech at issue was not official. However, the court dismissed the plaintiff's state law claim as barred by sovereign immunity. The court also denied the plaintiff's request for a preliminary injunction, finding that restoring the plaintiff to his State Attorney position could cause disruption in the government, and that the success of plaintiff's claim would hinge on the facts of the case. Finally, the court held that it should not abstain from hearing the case under either Pullman or Younger. 631 F.Supp.3d 1188.\n\nThe Governor filed a motion for interlocutory judgment under Section 1292(b), requesting that the district court certify the First Amendment issue so it could be immediately appealed. On October 4, 2022, the court denied the Governor's motion for certification as a matter of discretion. 2022 WL 19395252.\n\nThe court held a bench trial from November 29 to December 1, 2022. On January 20, 2023, Judge Hinkle entered a judgment on the merits. The court found that the Governor violated the First Amendment by suspending the plaintiff for speech on matters of public concern and for his association with the Democratic Party. However, the plaintiff was not entitled to be reinstated, as the court found that the Governor would have suspended the plaintiff anyway due to unprotected activities, including the plaintiff's statement opposing abortion prosecutions, the policy reforms the plaintiff enacted, and the political benefit that the Governor would get from suspending him. The Court also held that the suspension violated the Florida Constitution because it was not based on neglect of duty or incompetence. However, Florida's sovereign immunity prevented any relief on this basis. Therefore, the court dismissed the case. 653 F.Supp.3d 1118.\n\nOn February 14, 2023, the plaintiff appealed to the Eleventh Circuit Court of Appeals (docket no. 23-10459). The motion to expedite the appeal was granted on March 3, and the Court of Appeals scheduled oral arguments for May 2, 2023. In his pleading, the plaintiff argued that the district court had erred in holding that sovereign immunity barred it from ordering reinstatement, and that the court had misapplied the legal framework for First Amendment retaliation claims.\n\nOn January 11, 2024, the Eleventh Circuit vacated the district court's decision and remanded the case. The Eleventh Circuit held that two factors in the Governor's suspension decision\u2014the abortion statement and the political benefit to the Governor\u2014were protected by the First Amendment, though the district court had considered them unprotected. Therefore, the Eleventh Circuit remanded the case so that the district court could analyze whether the Governor would have made the same suspension decision if none of the protected factors were present. 90 F.4th 1115.\n\nThe Governor subsequently petitioned for rehearing en banc. While the Eleventh Circuit considered whether to grant the petition, the plaintiff's term of office as State Attorney concluded. On January 1, 2025, the Eleventh Circuit vacated its previous opinion, holding that the case was now moot because the court could not provide the plaintiff meaningful relief. The Court rejected the plaintiff's argument that the case fell into an exception for cases \"capable of repetition yet evading review\" because the plaintiff had not shown a likelihood that he would subsequently run for and win another public office that the governor would suspend him from. 125 F.4th 1361.\n\nThe case was subsequently dismissed, and is now closed.",
+    "target_paragraph": "This case is about the First Amendment rights of public officials. On August 4, 2022, the Governor of Florida, Ron DeSantis, promulgated Executive Order 22-176, suspending a State Attorney after he signed on to statements in support of transgender rights and abortion rights.\u00a0The Executive Order (EO) claimed the State Attorney was \"incompetent\" to hold his office and had demonstrated a \"neglect of duty\" while in office. However, Governor DeSantis stated to the press that the suspension was due to statements the State Attorney had made about gender-affirming care and abortion.",
+    "target_paragraph_indices": [
+      0,
+      581
+    ],
+    "edits": [
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            67,
+            275
+          ],
+          [
+            583,
+            691
+          ],
+          [
+            1838,
+            1943
+          ],
+          [
+            2894,
+            3054
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: the suspended State Attorney (an elected State Attorney) who signed statements supporting transgender rights and abortion rights and was associated with the Democratic Party.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1,
+            3,
+            5
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            86,
+            123
+          ],
+          [
+            125,
+            188
+          ],
+          [
+            609,
+            691
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Ron DeSantis, Governor of Florida, who issued Executive Order 22-176 suspending the State Attorney.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            67,
+            275
+          ],
+          [
+            276,
+            422
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 4, 2022: Executive Order 22-176 suspending a State Attorney; the EO claimed the State Attorney was \"incompetent\" and had demonstrated a \"neglect of duty.\"",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            67,
+            275
+          ]
+        ],
+        "annotation": {
+          "explanation": "Event: On August 4, 2022, Governor Ron DeSantis issued Executive Order 22-176 suspending a State Attorney for signing statements supporting transgender and abortion rights.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            276,
+            422
+          ]
+        ],
+        "annotation": {
+          "explanation": "EO\u2019s asserted grounds: The suspension cited incompetence and neglect of duty.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            423,
+            581
+          ]
+        ],
+        "annotation": {
+          "explanation": "Publicly stated reason: Governor DeSantis told the press the suspension was due to the State Attorney\u2019s statements about gender-affirming care and abortion.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            66
+          ]
+        ],
+        "annotation": {
+          "explanation": "Context: The dispute centers on First Amendment protections for public officials\u2019 speech and association.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "43972_p1",
+    "metadata": {
+      "case_id": "43972",
+      "paragraph_num": 1,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Following his suspension, the State Attorney filed this lawsuit against Governor DeSantis on August ..."
+    },
+    "source": "",
+    "target": "This case is about the First Amendment rights of public officials. On August 4, 2022, the Governor of Florida, Ron DeSantis, promulgated Executive Order 22-176, suspending a State Attorney after he signed on to statements in support of transgender rights and abortion rights.\u00a0The Executive Order (EO) claimed the State Attorney was \"incompetent\" to hold his office and had demonstrated a \"neglect of duty\" while in office. However, Governor DeSantis stated to the press that the suspension was due to statements the State Attorney had made about gender-affirming care and abortion.\n\nFollowing his suspension, the State Attorney filed this lawsuit against Governor DeSantis on August 17, 2022, in the U.S. District Court for the Northern District of Florida. The plaintiff sued under 42 U.S.C. \u00a7 1983, alleging that the suspension violated his First Amendment right to free speech and the Florida Constitution's limitations on gubernatorial suspensions of state officers. Various parties filed amicus briefs in this case, including a group of former prosecutors, attorneys general, judges, US attorneys, and other officials (for the plaintiff); two groups of legal scholars (for the plaintiff); and the Florida Sheriff's Association (for the defendant).\n\nOn the same day he filed the lawsuit, the plaintiff also moved for a preliminary injunction requiring the Governor to reinstate the plaintiff as a State Attorney. The Governor subsequently moved to dismiss the case, arguing that the plaintiff's speech was the speech of a government officials pursuant to his duties; under Garcetti v. Ceballos, 547 U.S. 410 (2006), an official's supervisor can discipline them for official speech without violating the First Amendment.\n\nOn September 29, 2022, the court denied the Governor's motion to dismiss the First Amendment claim, holding that\u00a0Garcetti\u00a0did not apply because 1) the plaintiff was elected, and 2) the speech at issue was not official. However, the court dismissed the plaintiff's state law claim as barred by sovereign immunity. The court also denied the plaintiff's request for a preliminary injunction, finding that restoring the plaintiff to his State Attorney position could cause disruption in the government, and that the success of plaintiff's claim would hinge on the facts of the case. Finally, the court held that it should not abstain from hearing the case under either Pullman or Younger. 631 F.Supp.3d 1188.\n\nThe Governor filed a motion for interlocutory judgment under Section 1292(b), requesting that the district court certify the First Amendment issue so it could be immediately appealed. On October 4, 2022, the court denied the Governor's motion for certification as a matter of discretion. 2022 WL 19395252.\n\nThe court held a bench trial from November 29 to December 1, 2022. On January 20, 2023, Judge Hinkle entered a judgment on the merits. The court found that the Governor violated the First Amendment by suspending the plaintiff for speech on matters of public concern and for his association with the Democratic Party. However, the plaintiff was not entitled to be reinstated, as the court found that the Governor would have suspended the plaintiff anyway due to unprotected activities, including the plaintiff's statement opposing abortion prosecutions, the policy reforms the plaintiff enacted, and the political benefit that the Governor would get from suspending him. The Court also held that the suspension violated the Florida Constitution because it was not based on neglect of duty or incompetence. However, Florida's sovereign immunity prevented any relief on this basis. Therefore, the court dismissed the case. 653 F.Supp.3d 1118.\n\nOn February 14, 2023, the plaintiff appealed to the Eleventh Circuit Court of Appeals (docket no. 23-10459). The motion to expedite the appeal was granted on March 3, and the Court of Appeals scheduled oral arguments for May 2, 2023. In his pleading, the plaintiff argued that the district court had erred in holding that sovereign immunity barred it from ordering reinstatement, and that the court had misapplied the legal framework for First Amendment retaliation claims.\n\nOn January 11, 2024, the Eleventh Circuit vacated the district court's decision and remanded the case. The Eleventh Circuit held that two factors in the Governor's suspension decision\u2014the abortion statement and the political benefit to the Governor\u2014were protected by the First Amendment, though the district court had considered them unprotected. Therefore, the Eleventh Circuit remanded the case so that the district court could analyze whether the Governor would have made the same suspension decision if none of the protected factors were present. 90 F.4th 1115.\n\nThe Governor subsequently petitioned for rehearing en banc. While the Eleventh Circuit considered whether to grant the petition, the plaintiff's term of office as State Attorney concluded. On January 1, 2025, the Eleventh Circuit vacated its previous opinion, holding that the case was now moot because the court could not provide the plaintiff meaningful relief. The Court rejected the plaintiff's argument that the case fell into an exception for cases \"capable of repetition yet evading review\" because the plaintiff had not shown a likelihood that he would subsequently run for and win another public office that the governor would suspend him from. 125 F.4th 1361.\n\nThe case was subsequently dismissed, and is now closed.",
+    "target_paragraph": "Following his suspension, the State Attorney filed this lawsuit against Governor DeSantis on August 17, 2022, in the U.S. District Court for the Northern District of Florida. The plaintiff sued under 42 U.S.C. \u00a7 1983, alleging that the suspension violated his First Amendment right to free speech and the Florida Constitution's limitations on gubernatorial suspensions of state officers. Various parties filed amicus briefs in this case, including a group of former prosecutors, attorneys general, judges, US attorneys, and other officials (for the plaintiff); two groups of legal scholars (for the plaintiff); and the Florida Sheriff's Association (for the defendant).",
+    "target_paragraph_indices": [
+      583,
+      1252
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            583,
+            757
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 17, 2022",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            758,
+            970
+          ],
+          [
+            2873,
+            3054
+          ],
+          [
+            3930,
+            4152
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1983 \u2014 First Amendment claim (free speech/retaliation; included speech on matters of public concern and association).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            5,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            758,
+            970
+          ],
+          [
+            1953,
+            2037
+          ],
+          [
+            3408,
+            3616
+          ]
+        ],
+        "annotation": {
+          "explanation": "Florida Constitution \u2014 state-law claim challenging gubernatorial suspension limits; dismissed/barred by sovereign immunity.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            3,
+            5
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            758,
+            799
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1983",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            801,
+            879
+          ],
+          [
+            2873,
+            3054
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Constitution, First Amendment \u2014 free speech and freedom of association",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            801,
+            970
+          ],
+          [
+            3408,
+            3542
+          ]
+        ],
+        "annotation": {
+          "explanation": "Florida Constitution \u2014 limitations on gubernatorial suspensions of state officers",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            583,
+            757
+          ],
+          [
+            758,
+            970
+          ],
+          [
+            1254,
+            1416
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as the suspended State Attorney (suspended by Executive Order 22-176)",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            583,
+            757
+          ],
+          [
+            758,
+            970
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing details: The State Attorney sued DeSantis on August 17, 2022, in the N.D. Fla., under \u00a7 1983 for First Amendment violations and for violating Florida constitutional limits on suspensions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            971,
+            1252
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: Significant amicus participation on both sides (former prosecutors/AGs/judges/US attorneys and legal scholars for plaintiff; Florida Sheriff\u2019s Association for defendant).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            583,
+            757
+          ],
+          [
+            1254,
+            1416
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff\u2019s motion for preliminary injunction (filed August 17, 2022) seeking reinstatement; denied on September 29, 2022.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 9
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            971,
+            1252
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amicus briefs filed: (for plaintiff) former prosecutors/AGs/judges/US attorneys/officials and two groups of legal scholars; (for defendant) Florida Sheriff\u2019s Association.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "43972_p2",
+    "metadata": {
+      "case_id": "43972",
+      "paragraph_num": 2,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On the same day he filed the lawsuit, the plaintiff also moved for a preliminary injunction requirin..."
+    },
+    "source": "",
+    "target": "This case is about the First Amendment rights of public officials. On August 4, 2022, the Governor of Florida, Ron DeSantis, promulgated Executive Order 22-176, suspending a State Attorney after he signed on to statements in support of transgender rights and abortion rights.\u00a0The Executive Order (EO) claimed the State Attorney was \"incompetent\" to hold his office and had demonstrated a \"neglect of duty\" while in office. However, Governor DeSantis stated to the press that the suspension was due to statements the State Attorney had made about gender-affirming care and abortion.\n\nFollowing his suspension, the State Attorney filed this lawsuit against Governor DeSantis on August 17, 2022, in the U.S. District Court for the Northern District of Florida. The plaintiff sued under 42 U.S.C. \u00a7 1983, alleging that the suspension violated his First Amendment right to free speech and the Florida Constitution's limitations on gubernatorial suspensions of state officers. Various parties filed amicus briefs in this case, including a group of former prosecutors, attorneys general, judges, US attorneys, and other officials (for the plaintiff); two groups of legal scholars (for the plaintiff); and the Florida Sheriff's Association (for the defendant).\n\nOn the same day he filed the lawsuit, the plaintiff also moved for a preliminary injunction requiring the Governor to reinstate the plaintiff as a State Attorney. The Governor subsequently moved to dismiss the case, arguing that the plaintiff's speech was the speech of a government officials pursuant to his duties; under Garcetti v. Ceballos, 547 U.S. 410 (2006), an official's supervisor can discipline them for official speech without violating the First Amendment.\n\nOn September 29, 2022, the court denied the Governor's motion to dismiss the First Amendment claim, holding that\u00a0Garcetti\u00a0did not apply because 1) the plaintiff was elected, and 2) the speech at issue was not official. However, the court dismissed the plaintiff's state law claim as barred by sovereign immunity. The court also denied the plaintiff's request for a preliminary injunction, finding that restoring the plaintiff to his State Attorney position could cause disruption in the government, and that the success of plaintiff's claim would hinge on the facts of the case. Finally, the court held that it should not abstain from hearing the case under either Pullman or Younger. 631 F.Supp.3d 1188.\n\nThe Governor filed a motion for interlocutory judgment under Section 1292(b), requesting that the district court certify the First Amendment issue so it could be immediately appealed. On October 4, 2022, the court denied the Governor's motion for certification as a matter of discretion. 2022 WL 19395252.\n\nThe court held a bench trial from November 29 to December 1, 2022. On January 20, 2023, Judge Hinkle entered a judgment on the merits. The court found that the Governor violated the First Amendment by suspending the plaintiff for speech on matters of public concern and for his association with the Democratic Party. However, the plaintiff was not entitled to be reinstated, as the court found that the Governor would have suspended the plaintiff anyway due to unprotected activities, including the plaintiff's statement opposing abortion prosecutions, the policy reforms the plaintiff enacted, and the political benefit that the Governor would get from suspending him. The Court also held that the suspension violated the Florida Constitution because it was not based on neglect of duty or incompetence. However, Florida's sovereign immunity prevented any relief on this basis. Therefore, the court dismissed the case. 653 F.Supp.3d 1118.\n\nOn February 14, 2023, the plaintiff appealed to the Eleventh Circuit Court of Appeals (docket no. 23-10459). The motion to expedite the appeal was granted on March 3, and the Court of Appeals scheduled oral arguments for May 2, 2023. In his pleading, the plaintiff argued that the district court had erred in holding that sovereign immunity barred it from ordering reinstatement, and that the court had misapplied the legal framework for First Amendment retaliation claims.\n\nOn January 11, 2024, the Eleventh Circuit vacated the district court's decision and remanded the case. The Eleventh Circuit held that two factors in the Governor's suspension decision\u2014the abortion statement and the political benefit to the Governor\u2014were protected by the First Amendment, though the district court had considered them unprotected. Therefore, the Eleventh Circuit remanded the case so that the district court could analyze whether the Governor would have made the same suspension decision if none of the protected factors were present. 90 F.4th 1115.\n\nThe Governor subsequently petitioned for rehearing en banc. While the Eleventh Circuit considered whether to grant the petition, the plaintiff's term of office as State Attorney concluded. On January 1, 2025, the Eleventh Circuit vacated its previous opinion, holding that the case was now moot because the court could not provide the plaintiff meaningful relief. The Court rejected the plaintiff's argument that the case fell into an exception for cases \"capable of repetition yet evading review\" because the plaintiff had not shown a likelihood that he would subsequently run for and win another public office that the governor would suspend him from. 125 F.4th 1361.\n\nThe case was subsequently dismissed, and is now closed.",
+    "target_paragraph": "On the same day he filed the lawsuit, the plaintiff also moved for a preliminary injunction requiring the Governor to reinstate the plaintiff as a State Attorney. The Governor subsequently moved to dismiss the case, arguing that the plaintiff's speech was the speech of a government officials pursuant to his duties; under Garcetti v. Ceballos, 547 U.S. 410 (2006), an official's supervisor can discipline them for official speech without violating the First Amendment.",
+    "target_paragraph_indices": [
+      1254,
+      1723
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1254,
+            1416
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction requiring reinstatement as State Attorney",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            1571,
+            1723
+          ]
+        ],
+        "annotation": {
+          "explanation": "Garcetti v. Ceballos, 547 U.S. 410 (2006)",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            1571,
+            1723
+          ]
+        ],
+        "annotation": {
+          "explanation": "Precedent: Garcetti v. Ceballos, 547 U.S. 410 (2006) (cited by the Governor regarding official speech and supervisory discipline).",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1254,
+            1416
+          ],
+          [
+            1417,
+            1723
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural context: Plaintiff sought preliminary reinstatement; Governor moved to dismiss arguing the speech was official-duty speech under Garcetti.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1417,
+            1723
+          ]
+        ],
+        "annotation": {
+          "explanation": "Governor\u2019s motion to dismiss; denied as to the First Amendment claim on September 29, 2022, but the court dismissed the plaintiff\u2019s state-law claim as barred by sovereign immunity.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1254,
+            1416
+          ]
+        ],
+        "annotation": {
+          "explanation": "Aug 17, 2022: Plaintiff moved for a preliminary injunction seeking reinstatement.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1417,
+            1723
+          ]
+        ],
+        "annotation": {
+          "explanation": "Governor moved to dismiss, asserting Garcetti (official-duty speech) barred the First Amendment claim.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "43972_p3",
+    "metadata": {
+      "case_id": "43972",
+      "paragraph_num": 3,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On September 29, 2022, the court denied the Governor's motion to dismiss the First Amendment claim, ..."
+    },
+    "source": "",
+    "target": "This case is about the First Amendment rights of public officials. On August 4, 2022, the Governor of Florida, Ron DeSantis, promulgated Executive Order 22-176, suspending a State Attorney after he signed on to statements in support of transgender rights and abortion rights.\u00a0The Executive Order (EO) claimed the State Attorney was \"incompetent\" to hold his office and had demonstrated a \"neglect of duty\" while in office. However, Governor DeSantis stated to the press that the suspension was due to statements the State Attorney had made about gender-affirming care and abortion.\n\nFollowing his suspension, the State Attorney filed this lawsuit against Governor DeSantis on August 17, 2022, in the U.S. District Court for the Northern District of Florida. The plaintiff sued under 42 U.S.C. \u00a7 1983, alleging that the suspension violated his First Amendment right to free speech and the Florida Constitution's limitations on gubernatorial suspensions of state officers. Various parties filed amicus briefs in this case, including a group of former prosecutors, attorneys general, judges, US attorneys, and other officials (for the plaintiff); two groups of legal scholars (for the plaintiff); and the Florida Sheriff's Association (for the defendant).\n\nOn the same day he filed the lawsuit, the plaintiff also moved for a preliminary injunction requiring the Governor to reinstate the plaintiff as a State Attorney. The Governor subsequently moved to dismiss the case, arguing that the plaintiff's speech was the speech of a government officials pursuant to his duties; under Garcetti v. Ceballos, 547 U.S. 410 (2006), an official's supervisor can discipline them for official speech without violating the First Amendment.\n\nOn September 29, 2022, the court denied the Governor's motion to dismiss the First Amendment claim, holding that\u00a0Garcetti\u00a0did not apply because 1) the plaintiff was elected, and 2) the speech at issue was not official. However, the court dismissed the plaintiff's state law claim as barred by sovereign immunity. The court also denied the plaintiff's request for a preliminary injunction, finding that restoring the plaintiff to his State Attorney position could cause disruption in the government, and that the success of plaintiff's claim would hinge on the facts of the case. Finally, the court held that it should not abstain from hearing the case under either Pullman or Younger. 631 F.Supp.3d 1188.\n\nThe Governor filed a motion for interlocutory judgment under Section 1292(b), requesting that the district court certify the First Amendment issue so it could be immediately appealed. On October 4, 2022, the court denied the Governor's motion for certification as a matter of discretion. 2022 WL 19395252.\n\nThe court held a bench trial from November 29 to December 1, 2022. On January 20, 2023, Judge Hinkle entered a judgment on the merits. The court found that the Governor violated the First Amendment by suspending the plaintiff for speech on matters of public concern and for his association with the Democratic Party. However, the plaintiff was not entitled to be reinstated, as the court found that the Governor would have suspended the plaintiff anyway due to unprotected activities, including the plaintiff's statement opposing abortion prosecutions, the policy reforms the plaintiff enacted, and the political benefit that the Governor would get from suspending him. The Court also held that the suspension violated the Florida Constitution because it was not based on neglect of duty or incompetence. However, Florida's sovereign immunity prevented any relief on this basis. Therefore, the court dismissed the case. 653 F.Supp.3d 1118.\n\nOn February 14, 2023, the plaintiff appealed to the Eleventh Circuit Court of Appeals (docket no. 23-10459). The motion to expedite the appeal was granted on March 3, and the Court of Appeals scheduled oral arguments for May 2, 2023. In his pleading, the plaintiff argued that the district court had erred in holding that sovereign immunity barred it from ordering reinstatement, and that the court had misapplied the legal framework for First Amendment retaliation claims.\n\nOn January 11, 2024, the Eleventh Circuit vacated the district court's decision and remanded the case. The Eleventh Circuit held that two factors in the Governor's suspension decision\u2014the abortion statement and the political benefit to the Governor\u2014were protected by the First Amendment, though the district court had considered them unprotected. Therefore, the Eleventh Circuit remanded the case so that the district court could analyze whether the Governor would have made the same suspension decision if none of the protected factors were present. 90 F.4th 1115.\n\nThe Governor subsequently petitioned for rehearing en banc. While the Eleventh Circuit considered whether to grant the petition, the plaintiff's term of office as State Attorney concluded. On January 1, 2025, the Eleventh Circuit vacated its previous opinion, holding that the case was now moot because the court could not provide the plaintiff meaningful relief. The Court rejected the plaintiff's argument that the case fell into an exception for cases \"capable of repetition yet evading review\" because the plaintiff had not shown a likelihood that he would subsequently run for and win another public office that the governor would suspend him from. 125 F.4th 1361.\n\nThe case was subsequently dismissed, and is now closed.",
+    "target_paragraph": "On September 29, 2022, the court denied the Governor's motion to dismiss the First Amendment claim, holding that\u00a0Garcetti\u00a0did not apply because 1) the plaintiff was elected, and 2) the speech at issue was not official. However, the court dismissed the plaintiff's state law claim as barred by sovereign immunity. The court also denied the plaintiff's request for a preliminary injunction, finding that restoring the plaintiff to his State Attorney position could cause disruption in the government, and that the success of plaintiff's claim would hinge on the facts of the case. Finally, the court held that it should not abstain from hearing the case under either Pullman or Younger. 631 F.Supp.3d 1188.",
+    "target_paragraph_indices": [
+      1725,
+      2429
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            2304,
+            2429
+          ]
+        ],
+        "annotation": {
+          "explanation": "631 F.Supp.3d 1188",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2410,
+            2429
+          ]
+        ],
+        "annotation": {
+          "explanation": "Sep 29, 2022: Court denied motion to dismiss the First Amendment claim; dismissed the state law claim on sovereign immunity grounds (631 F.Supp.3d 1188).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2038,
+            2303
+          ]
+        ],
+        "annotation": {
+          "explanation": "Sep 29, 2022: Preliminary injunction denied; court cited potential government disruption and fact-dependent merits.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2304,
+            2409
+          ]
+        ],
+        "annotation": {
+          "explanation": "Sep 29, 2022: Court declined to abstain under Pullman or Younger.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2038,
+            2303
+          ]
+        ],
+        "annotation": {
+          "explanation": "2022-09-29: District court denied the plaintiff\u2019s motion for a preliminary injunction seeking reinstatement.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2304,
+            2429
+          ]
+        ],
+        "annotation": {
+          "explanation": "2022-09-29: District court declined to abstain under Pullman or Younger.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "43972_p4",
+    "metadata": {
+      "case_id": "43972",
+      "paragraph_num": 4,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The Governor filed a motion for interlocutory judgment under Section 1292(b), requesting that the di..."
+    },
+    "source": "",
+    "target": "This case is about the First Amendment rights of public officials. On August 4, 2022, the Governor of Florida, Ron DeSantis, promulgated Executive Order 22-176, suspending a State Attorney after he signed on to statements in support of transgender rights and abortion rights.\u00a0The Executive Order (EO) claimed the State Attorney was \"incompetent\" to hold his office and had demonstrated a \"neglect of duty\" while in office. However, Governor DeSantis stated to the press that the suspension was due to statements the State Attorney had made about gender-affirming care and abortion.\n\nFollowing his suspension, the State Attorney filed this lawsuit against Governor DeSantis on August 17, 2022, in the U.S. District Court for the Northern District of Florida. The plaintiff sued under 42 U.S.C. \u00a7 1983, alleging that the suspension violated his First Amendment right to free speech and the Florida Constitution's limitations on gubernatorial suspensions of state officers. Various parties filed amicus briefs in this case, including a group of former prosecutors, attorneys general, judges, US attorneys, and other officials (for the plaintiff); two groups of legal scholars (for the plaintiff); and the Florida Sheriff's Association (for the defendant).\n\nOn the same day he filed the lawsuit, the plaintiff also moved for a preliminary injunction requiring the Governor to reinstate the plaintiff as a State Attorney. The Governor subsequently moved to dismiss the case, arguing that the plaintiff's speech was the speech of a government officials pursuant to his duties; under Garcetti v. Ceballos, 547 U.S. 410 (2006), an official's supervisor can discipline them for official speech without violating the First Amendment.\n\nOn September 29, 2022, the court denied the Governor's motion to dismiss the First Amendment claim, holding that\u00a0Garcetti\u00a0did not apply because 1) the plaintiff was elected, and 2) the speech at issue was not official. However, the court dismissed the plaintiff's state law claim as barred by sovereign immunity. The court also denied the plaintiff's request for a preliminary injunction, finding that restoring the plaintiff to his State Attorney position could cause disruption in the government, and that the success of plaintiff's claim would hinge on the facts of the case. Finally, the court held that it should not abstain from hearing the case under either Pullman or Younger. 631 F.Supp.3d 1188.\n\nThe Governor filed a motion for interlocutory judgment under Section 1292(b), requesting that the district court certify the First Amendment issue so it could be immediately appealed. On October 4, 2022, the court denied the Governor's motion for certification as a matter of discretion. 2022 WL 19395252.\n\nThe court held a bench trial from November 29 to December 1, 2022. On January 20, 2023, Judge Hinkle entered a judgment on the merits. The court found that the Governor violated the First Amendment by suspending the plaintiff for speech on matters of public concern and for his association with the Democratic Party. However, the plaintiff was not entitled to be reinstated, as the court found that the Governor would have suspended the plaintiff anyway due to unprotected activities, including the plaintiff's statement opposing abortion prosecutions, the policy reforms the plaintiff enacted, and the political benefit that the Governor would get from suspending him. The Court also held that the suspension violated the Florida Constitution because it was not based on neglect of duty or incompetence. However, Florida's sovereign immunity prevented any relief on this basis. Therefore, the court dismissed the case. 653 F.Supp.3d 1118.\n\nOn February 14, 2023, the plaintiff appealed to the Eleventh Circuit Court of Appeals (docket no. 23-10459). The motion to expedite the appeal was granted on March 3, and the Court of Appeals scheduled oral arguments for May 2, 2023. In his pleading, the plaintiff argued that the district court had erred in holding that sovereign immunity barred it from ordering reinstatement, and that the court had misapplied the legal framework for First Amendment retaliation claims.\n\nOn January 11, 2024, the Eleventh Circuit vacated the district court's decision and remanded the case. The Eleventh Circuit held that two factors in the Governor's suspension decision\u2014the abortion statement and the political benefit to the Governor\u2014were protected by the First Amendment, though the district court had considered them unprotected. Therefore, the Eleventh Circuit remanded the case so that the district court could analyze whether the Governor would have made the same suspension decision if none of the protected factors were present. 90 F.4th 1115.\n\nThe Governor subsequently petitioned for rehearing en banc. While the Eleventh Circuit considered whether to grant the petition, the plaintiff's term of office as State Attorney concluded. On January 1, 2025, the Eleventh Circuit vacated its previous opinion, holding that the case was now moot because the court could not provide the plaintiff meaningful relief. The Court rejected the plaintiff's argument that the case fell into an exception for cases \"capable of repetition yet evading review\" because the plaintiff had not shown a likelihood that he would subsequently run for and win another public office that the governor would suspend him from. 125 F.4th 1361.\n\nThe case was subsequently dismissed, and is now closed.",
+    "target_paragraph": "The Governor filed a motion for interlocutory judgment under Section 1292(b), requesting that the district court certify the First Amendment issue so it could be immediately appealed. On October 4, 2022, the court denied the Governor's motion for certification as a matter of discretion. 2022 WL 19395252.",
+    "target_paragraph_indices": [
+      2431,
+      2736
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            2615,
+            2736
+          ]
+        ],
+        "annotation": {
+          "explanation": "2022 WL 19395252",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            2615,
+            2736
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court order (Oct. 4, 2022): denied \u00a71292(b) certification (interlocutory appeal). Citation: 2022 WL 19395252.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2431,
+            2614
+          ],
+          [
+            2615,
+            2736
+          ]
+        ],
+        "annotation": {
+          "explanation": "Governor\u2019s motion for interlocutory certification under 28 U.S.C. \u00a7 1292(b); denied on October 4, 2022.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2431,
+            2718
+          ],
+          [
+            2719,
+            2736
+          ]
+        ],
+        "annotation": {
+          "explanation": "Oct 4, 2022: Court denied Section 1292(b) certification of the First Amendment issue (2022 WL 19395252).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2431,
+            2736
+          ]
+        ],
+        "annotation": {
+          "explanation": "2022-10-04: District court denied the Governor\u2019s \u00a71292(b) motion for interlocutory certification.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "43972_p5",
+    "metadata": {
+      "case_id": "43972",
+      "paragraph_num": 5,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court held a bench trial from November 29 to December 1, 2022. On January 20, 2023, Judge Hinkle..."
+    },
+    "source": "",
+    "target": "This case is about the First Amendment rights of public officials. On August 4, 2022, the Governor of Florida, Ron DeSantis, promulgated Executive Order 22-176, suspending a State Attorney after he signed on to statements in support of transgender rights and abortion rights.\u00a0The Executive Order (EO) claimed the State Attorney was \"incompetent\" to hold his office and had demonstrated a \"neglect of duty\" while in office. However, Governor DeSantis stated to the press that the suspension was due to statements the State Attorney had made about gender-affirming care and abortion.\n\nFollowing his suspension, the State Attorney filed this lawsuit against Governor DeSantis on August 17, 2022, in the U.S. District Court for the Northern District of Florida. The plaintiff sued under 42 U.S.C. \u00a7 1983, alleging that the suspension violated his First Amendment right to free speech and the Florida Constitution's limitations on gubernatorial suspensions of state officers. Various parties filed amicus briefs in this case, including a group of former prosecutors, attorneys general, judges, US attorneys, and other officials (for the plaintiff); two groups of legal scholars (for the plaintiff); and the Florida Sheriff's Association (for the defendant).\n\nOn the same day he filed the lawsuit, the plaintiff also moved for a preliminary injunction requiring the Governor to reinstate the plaintiff as a State Attorney. The Governor subsequently moved to dismiss the case, arguing that the plaintiff's speech was the speech of a government officials pursuant to his duties; under Garcetti v. Ceballos, 547 U.S. 410 (2006), an official's supervisor can discipline them for official speech without violating the First Amendment.\n\nOn September 29, 2022, the court denied the Governor's motion to dismiss the First Amendment claim, holding that\u00a0Garcetti\u00a0did not apply because 1) the plaintiff was elected, and 2) the speech at issue was not official. However, the court dismissed the plaintiff's state law claim as barred by sovereign immunity. The court also denied the plaintiff's request for a preliminary injunction, finding that restoring the plaintiff to his State Attorney position could cause disruption in the government, and that the success of plaintiff's claim would hinge on the facts of the case. Finally, the court held that it should not abstain from hearing the case under either Pullman or Younger. 631 F.Supp.3d 1188.\n\nThe Governor filed a motion for interlocutory judgment under Section 1292(b), requesting that the district court certify the First Amendment issue so it could be immediately appealed. On October 4, 2022, the court denied the Governor's motion for certification as a matter of discretion. 2022 WL 19395252.\n\nThe court held a bench trial from November 29 to December 1, 2022. On January 20, 2023, Judge Hinkle entered a judgment on the merits. The court found that the Governor violated the First Amendment by suspending the plaintiff for speech on matters of public concern and for his association with the Democratic Party. However, the plaintiff was not entitled to be reinstated, as the court found that the Governor would have suspended the plaintiff anyway due to unprotected activities, including the plaintiff's statement opposing abortion prosecutions, the policy reforms the plaintiff enacted, and the political benefit that the Governor would get from suspending him. The Court also held that the suspension violated the Florida Constitution because it was not based on neglect of duty or incompetence. However, Florida's sovereign immunity prevented any relief on this basis. Therefore, the court dismissed the case. 653 F.Supp.3d 1118.\n\nOn February 14, 2023, the plaintiff appealed to the Eleventh Circuit Court of Appeals (docket no. 23-10459). The motion to expedite the appeal was granted on March 3, and the Court of Appeals scheduled oral arguments for May 2, 2023. In his pleading, the plaintiff argued that the district court had erred in holding that sovereign immunity barred it from ordering reinstatement, and that the court had misapplied the legal framework for First Amendment retaliation claims.\n\nOn January 11, 2024, the Eleventh Circuit vacated the district court's decision and remanded the case. The Eleventh Circuit held that two factors in the Governor's suspension decision\u2014the abortion statement and the political benefit to the Governor\u2014were protected by the First Amendment, though the district court had considered them unprotected. Therefore, the Eleventh Circuit remanded the case so that the district court could analyze whether the Governor would have made the same suspension decision if none of the protected factors were present. 90 F.4th 1115.\n\nThe Governor subsequently petitioned for rehearing en banc. While the Eleventh Circuit considered whether to grant the petition, the plaintiff's term of office as State Attorney concluded. On January 1, 2025, the Eleventh Circuit vacated its previous opinion, holding that the case was now moot because the court could not provide the plaintiff meaningful relief. The Court rejected the plaintiff's argument that the case fell into an exception for cases \"capable of repetition yet evading review\" because the plaintiff had not shown a likelihood that he would subsequently run for and win another public office that the governor would suspend him from. 125 F.4th 1361.\n\nThe case was subsequently dismissed, and is now closed.",
+    "target_paragraph": "The court held a bench trial from November 29 to December 1, 2022. On January 20, 2023, Judge Hinkle entered a judgment on the merits. The court found that the Governor violated the First Amendment by suspending the plaintiff for speech on matters of public concern and for his association with the Democratic Party. However, the plaintiff was not entitled to be reinstated, as the court found that the Governor would have suspended the plaintiff anyway due to unprotected activities, including the plaintiff's statement opposing abortion prosecutions, the policy reforms the plaintiff enacted, and the political benefit that the Governor would get from suspending him. The Court also held that the suspension violated the Florida Constitution because it was not based on neglect of duty or incompetence. However, Florida's sovereign immunity prevented any relief on this basis. Therefore, the court dismissed the case. 653 F.Supp.3d 1118.",
+    "target_paragraph_indices": [
+      2738,
+      3677
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3055,
+            3407
+          ],
+          [
+            3913,
+            4057
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunctive relief\u2014reinstatement to the State Attorney position",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            2805,
+            2872
+          ]
+        ],
+        "annotation": {
+          "explanation": "Hinkle",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3617,
+            3677
+          ]
+        ],
+        "annotation": {
+          "explanation": "653 F.Supp.3d 1118",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            2805,
+            3677
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court judgment (Jan. 20, 2023): found First Amendment and Florida Constitution violations but denied reinstatement; held sovereign immunity barred relief; case dismissed. Citation: 653 F.Supp.3d 1118.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2738,
+            2804
+          ]
+        ],
+        "annotation": {
+          "explanation": "Evidence development: The case proceeded to a bench trial (Nov 29\u2013Dec 1, 2022).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2873,
+            3054
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court factual findings: The suspension was motivated by the plaintiff\u2019s speech on public concerns and his Democratic Party association.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3055,
+            3407
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alternate-motive findings: The Governor would have suspended the plaintiff anyway based on the plaintiff\u2019s statement opposing abortion prosecutions, policy reforms he enacted, and perceived political benefit.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3408,
+            3542
+          ]
+        ],
+        "annotation": {
+          "explanation": "State constitutional fact finding: The suspension was not actually based on neglect of duty or incompetence.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2738,
+            2804
+          ]
+        ],
+        "annotation": {
+          "explanation": "Bench trial held Nov 29\u2013Dec 1, 2022.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2805,
+            2872
+          ],
+          [
+            2873,
+            3054
+          ],
+          [
+            3055,
+            3407
+          ],
+          [
+            3408,
+            3657
+          ],
+          [
+            3658,
+            3677
+          ]
+        ],
+        "annotation": {
+          "explanation": "Jan 20, 2023: Post-bench-trial merits judgment\u2014court found a First Amendment violation but denied reinstatement under Mt. Healthy-style causation (Governor would have suspended for unprotected reasons); also found a Florida Constitution violation but sovereign immunity barred relief; case dismissed (653 F.Supp.3d 1118).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "43972_p6",
+    "metadata": {
+      "case_id": "43972",
+      "paragraph_num": 6,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On February 14, 2023, the plaintiff appealed to the Eleventh Circuit Court of Appeals (docket no. 23..."
+    },
+    "source": "",
+    "target": "This case is about the First Amendment rights of public officials. On August 4, 2022, the Governor of Florida, Ron DeSantis, promulgated Executive Order 22-176, suspending a State Attorney after he signed on to statements in support of transgender rights and abortion rights.\u00a0The Executive Order (EO) claimed the State Attorney was \"incompetent\" to hold his office and had demonstrated a \"neglect of duty\" while in office. However, Governor DeSantis stated to the press that the suspension was due to statements the State Attorney had made about gender-affirming care and abortion.\n\nFollowing his suspension, the State Attorney filed this lawsuit against Governor DeSantis on August 17, 2022, in the U.S. District Court for the Northern District of Florida. The plaintiff sued under 42 U.S.C. \u00a7 1983, alleging that the suspension violated his First Amendment right to free speech and the Florida Constitution's limitations on gubernatorial suspensions of state officers. Various parties filed amicus briefs in this case, including a group of former prosecutors, attorneys general, judges, US attorneys, and other officials (for the plaintiff); two groups of legal scholars (for the plaintiff); and the Florida Sheriff's Association (for the defendant).\n\nOn the same day he filed the lawsuit, the plaintiff also moved for a preliminary injunction requiring the Governor to reinstate the plaintiff as a State Attorney. The Governor subsequently moved to dismiss the case, arguing that the plaintiff's speech was the speech of a government officials pursuant to his duties; under Garcetti v. Ceballos, 547 U.S. 410 (2006), an official's supervisor can discipline them for official speech without violating the First Amendment.\n\nOn September 29, 2022, the court denied the Governor's motion to dismiss the First Amendment claim, holding that\u00a0Garcetti\u00a0did not apply because 1) the plaintiff was elected, and 2) the speech at issue was not official. However, the court dismissed the plaintiff's state law claim as barred by sovereign immunity. The court also denied the plaintiff's request for a preliminary injunction, finding that restoring the plaintiff to his State Attorney position could cause disruption in the government, and that the success of plaintiff's claim would hinge on the facts of the case. Finally, the court held that it should not abstain from hearing the case under either Pullman or Younger. 631 F.Supp.3d 1188.\n\nThe Governor filed a motion for interlocutory judgment under Section 1292(b), requesting that the district court certify the First Amendment issue so it could be immediately appealed. On October 4, 2022, the court denied the Governor's motion for certification as a matter of discretion. 2022 WL 19395252.\n\nThe court held a bench trial from November 29 to December 1, 2022. On January 20, 2023, Judge Hinkle entered a judgment on the merits. The court found that the Governor violated the First Amendment by suspending the plaintiff for speech on matters of public concern and for his association with the Democratic Party. However, the plaintiff was not entitled to be reinstated, as the court found that the Governor would have suspended the plaintiff anyway due to unprotected activities, including the plaintiff's statement opposing abortion prosecutions, the policy reforms the plaintiff enacted, and the political benefit that the Governor would get from suspending him. The Court also held that the suspension violated the Florida Constitution because it was not based on neglect of duty or incompetence. However, Florida's sovereign immunity prevented any relief on this basis. Therefore, the court dismissed the case. 653 F.Supp.3d 1118.\n\nOn February 14, 2023, the plaintiff appealed to the Eleventh Circuit Court of Appeals (docket no. 23-10459). The motion to expedite the appeal was granted on March 3, and the Court of Appeals scheduled oral arguments for May 2, 2023. In his pleading, the plaintiff argued that the district court had erred in holding that sovereign immunity barred it from ordering reinstatement, and that the court had misapplied the legal framework for First Amendment retaliation claims.\n\nOn January 11, 2024, the Eleventh Circuit vacated the district court's decision and remanded the case. The Eleventh Circuit held that two factors in the Governor's suspension decision\u2014the abortion statement and the political benefit to the Governor\u2014were protected by the First Amendment, though the district court had considered them unprotected. Therefore, the Eleventh Circuit remanded the case so that the district court could analyze whether the Governor would have made the same suspension decision if none of the protected factors were present. 90 F.4th 1115.\n\nThe Governor subsequently petitioned for rehearing en banc. While the Eleventh Circuit considered whether to grant the petition, the plaintiff's term of office as State Attorney concluded. On January 1, 2025, the Eleventh Circuit vacated its previous opinion, holding that the case was now moot because the court could not provide the plaintiff meaningful relief. The Court rejected the plaintiff's argument that the case fell into an exception for cases \"capable of repetition yet evading review\" because the plaintiff had not shown a likelihood that he would subsequently run for and win another public office that the governor would suspend him from. 125 F.4th 1361.\n\nThe case was subsequently dismissed, and is now closed.",
+    "target_paragraph": "On February 14, 2023, the plaintiff appealed to the Eleventh Circuit Court of Appeals (docket no. 23-10459). The motion to expedite the appeal was granted on March 3, and the Court of Appeals scheduled oral arguments for May 2, 2023. In his pleading, the plaintiff argued that the district court had erred in holding that sovereign immunity barred it from ordering reinstatement, and that the court had misapplied the legal framework for First Amendment retaliation claims.",
+    "target_paragraph_indices": [
+      3679,
+      4152
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            3679,
+            3912
+          ]
+        ],
+        "annotation": {
+          "explanation": "Eleventh Circuit appeal docket: 23-10459 (appeal filed Feb. 14, 2023; expedited Mar. 3; OA set for May 2, 2023).",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            3679,
+            3787
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: the plaintiff appealed to the Eleventh Circuit Court of Appeals.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3679,
+            3787
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff\u2019s notice of appeal filed February 14, 2023, to the Eleventh Circuit (No. 23-10459).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3788,
+            3912
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion to expedite the appeal; granted March 3, 2023.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3679,
+            3787
+          ],
+          [
+            3788,
+            3912
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal filed Feb 14, 2023 to the Eleventh Circuit (No. 23-10459); motion to expedite granted Mar 3; oral argument scheduled for May 2, 2023.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3788,
+            3912
+          ]
+        ],
+        "annotation": {
+          "explanation": "2023-03-03: Eleventh Circuit granted the motion to expedite the appeal.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "43972_p7",
+    "metadata": {
+      "case_id": "43972",
+      "paragraph_num": 7,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On January 11, 2024, the Eleventh Circuit vacated the district court's decision and remanded the cas..."
+    },
+    "source": "",
+    "target": "This case is about the First Amendment rights of public officials. On August 4, 2022, the Governor of Florida, Ron DeSantis, promulgated Executive Order 22-176, suspending a State Attorney after he signed on to statements in support of transgender rights and abortion rights.\u00a0The Executive Order (EO) claimed the State Attorney was \"incompetent\" to hold his office and had demonstrated a \"neglect of duty\" while in office. However, Governor DeSantis stated to the press that the suspension was due to statements the State Attorney had made about gender-affirming care and abortion.\n\nFollowing his suspension, the State Attorney filed this lawsuit against Governor DeSantis on August 17, 2022, in the U.S. District Court for the Northern District of Florida. The plaintiff sued under 42 U.S.C. \u00a7 1983, alleging that the suspension violated his First Amendment right to free speech and the Florida Constitution's limitations on gubernatorial suspensions of state officers. Various parties filed amicus briefs in this case, including a group of former prosecutors, attorneys general, judges, US attorneys, and other officials (for the plaintiff); two groups of legal scholars (for the plaintiff); and the Florida Sheriff's Association (for the defendant).\n\nOn the same day he filed the lawsuit, the plaintiff also moved for a preliminary injunction requiring the Governor to reinstate the plaintiff as a State Attorney. The Governor subsequently moved to dismiss the case, arguing that the plaintiff's speech was the speech of a government officials pursuant to his duties; under Garcetti v. Ceballos, 547 U.S. 410 (2006), an official's supervisor can discipline them for official speech without violating the First Amendment.\n\nOn September 29, 2022, the court denied the Governor's motion to dismiss the First Amendment claim, holding that\u00a0Garcetti\u00a0did not apply because 1) the plaintiff was elected, and 2) the speech at issue was not official. However, the court dismissed the plaintiff's state law claim as barred by sovereign immunity. The court also denied the plaintiff's request for a preliminary injunction, finding that restoring the plaintiff to his State Attorney position could cause disruption in the government, and that the success of plaintiff's claim would hinge on the facts of the case. Finally, the court held that it should not abstain from hearing the case under either Pullman or Younger. 631 F.Supp.3d 1188.\n\nThe Governor filed a motion for interlocutory judgment under Section 1292(b), requesting that the district court certify the First Amendment issue so it could be immediately appealed. On October 4, 2022, the court denied the Governor's motion for certification as a matter of discretion. 2022 WL 19395252.\n\nThe court held a bench trial from November 29 to December 1, 2022. On January 20, 2023, Judge Hinkle entered a judgment on the merits. The court found that the Governor violated the First Amendment by suspending the plaintiff for speech on matters of public concern and for his association with the Democratic Party. However, the plaintiff was not entitled to be reinstated, as the court found that the Governor would have suspended the plaintiff anyway due to unprotected activities, including the plaintiff's statement opposing abortion prosecutions, the policy reforms the plaintiff enacted, and the political benefit that the Governor would get from suspending him. The Court also held that the suspension violated the Florida Constitution because it was not based on neglect of duty or incompetence. However, Florida's sovereign immunity prevented any relief on this basis. Therefore, the court dismissed the case. 653 F.Supp.3d 1118.\n\nOn February 14, 2023, the plaintiff appealed to the Eleventh Circuit Court of Appeals (docket no. 23-10459). The motion to expedite the appeal was granted on March 3, and the Court of Appeals scheduled oral arguments for May 2, 2023. In his pleading, the plaintiff argued that the district court had erred in holding that sovereign immunity barred it from ordering reinstatement, and that the court had misapplied the legal framework for First Amendment retaliation claims.\n\nOn January 11, 2024, the Eleventh Circuit vacated the district court's decision and remanded the case. The Eleventh Circuit held that two factors in the Governor's suspension decision\u2014the abortion statement and the political benefit to the Governor\u2014were protected by the First Amendment, though the district court had considered them unprotected. Therefore, the Eleventh Circuit remanded the case so that the district court could analyze whether the Governor would have made the same suspension decision if none of the protected factors were present. 90 F.4th 1115.\n\nThe Governor subsequently petitioned for rehearing en banc. While the Eleventh Circuit considered whether to grant the petition, the plaintiff's term of office as State Attorney concluded. On January 1, 2025, the Eleventh Circuit vacated its previous opinion, holding that the case was now moot because the court could not provide the plaintiff meaningful relief. The Court rejected the plaintiff's argument that the case fell into an exception for cases \"capable of repetition yet evading review\" because the plaintiff had not shown a likelihood that he would subsequently run for and win another public office that the governor would suspend him from. 125 F.4th 1361.\n\nThe case was subsequently dismissed, and is now closed.",
+    "target_paragraph": "On January 11, 2024, the Eleventh Circuit vacated the district court's decision and remanded the case. The Eleventh Circuit held that two factors in the Governor's suspension decision\u2014the abortion statement and the political benefit to the Governor\u2014were protected by the First Amendment, though the district court had considered them unprotected. Therefore, the Eleventh Circuit remanded the case so that the district court could analyze whether the Governor would have made the same suspension decision if none of the protected factors were present. 90 F.4th 1115.",
+    "target_paragraph_indices": [
+      4154,
+      4719
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            4501,
+            4719
+          ]
+        ],
+        "annotation": {
+          "explanation": "90 F.4th 1115",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            4154,
+            4719
+          ]
+        ],
+        "annotation": {
+          "explanation": "Eleventh Circuit opinion (Jan. 11, 2024): vacated and remanded; held abortion statement and political benefit were protected by the First Amendment. Citation: 90 F.4th 1115.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4154,
+            4256
+          ],
+          [
+            4257,
+            4500
+          ],
+          [
+            4501,
+            4704
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appellate clarification of factual factors: The abortion statement and the political benefit are protected factors; remand required to assess suspension decision absent these protected factors.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4154,
+            4256
+          ],
+          [
+            4257,
+            4500
+          ],
+          [
+            4501,
+            4704
+          ],
+          [
+            4705,
+            4719
+          ]
+        ],
+        "annotation": {
+          "explanation": "Jan 11, 2024: Eleventh Circuit vacated and remanded; held the abortion statement and political benefit were protected by the First Amendment and directed the district court to reassess causation absent protected factors (90 F.4th 1115).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "43972_p8",
+    "metadata": {
+      "case_id": "43972",
+      "paragraph_num": 8,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The Governor subsequently petitioned for rehearing en banc. While the Eleventh Circuit considered wh..."
+    },
+    "source": "",
+    "target": "This case is about the First Amendment rights of public officials. On August 4, 2022, the Governor of Florida, Ron DeSantis, promulgated Executive Order 22-176, suspending a State Attorney after he signed on to statements in support of transgender rights and abortion rights.\u00a0The Executive Order (EO) claimed the State Attorney was \"incompetent\" to hold his office and had demonstrated a \"neglect of duty\" while in office. However, Governor DeSantis stated to the press that the suspension was due to statements the State Attorney had made about gender-affirming care and abortion.\n\nFollowing his suspension, the State Attorney filed this lawsuit against Governor DeSantis on August 17, 2022, in the U.S. District Court for the Northern District of Florida. The plaintiff sued under 42 U.S.C. \u00a7 1983, alleging that the suspension violated his First Amendment right to free speech and the Florida Constitution's limitations on gubernatorial suspensions of state officers. Various parties filed amicus briefs in this case, including a group of former prosecutors, attorneys general, judges, US attorneys, and other officials (for the plaintiff); two groups of legal scholars (for the plaintiff); and the Florida Sheriff's Association (for the defendant).\n\nOn the same day he filed the lawsuit, the plaintiff also moved for a preliminary injunction requiring the Governor to reinstate the plaintiff as a State Attorney. The Governor subsequently moved to dismiss the case, arguing that the plaintiff's speech was the speech of a government officials pursuant to his duties; under Garcetti v. Ceballos, 547 U.S. 410 (2006), an official's supervisor can discipline them for official speech without violating the First Amendment.\n\nOn September 29, 2022, the court denied the Governor's motion to dismiss the First Amendment claim, holding that\u00a0Garcetti\u00a0did not apply because 1) the plaintiff was elected, and 2) the speech at issue was not official. However, the court dismissed the plaintiff's state law claim as barred by sovereign immunity. The court also denied the plaintiff's request for a preliminary injunction, finding that restoring the plaintiff to his State Attorney position could cause disruption in the government, and that the success of plaintiff's claim would hinge on the facts of the case. Finally, the court held that it should not abstain from hearing the case under either Pullman or Younger. 631 F.Supp.3d 1188.\n\nThe Governor filed a motion for interlocutory judgment under Section 1292(b), requesting that the district court certify the First Amendment issue so it could be immediately appealed. On October 4, 2022, the court denied the Governor's motion for certification as a matter of discretion. 2022 WL 19395252.\n\nThe court held a bench trial from November 29 to December 1, 2022. On January 20, 2023, Judge Hinkle entered a judgment on the merits. The court found that the Governor violated the First Amendment by suspending the plaintiff for speech on matters of public concern and for his association with the Democratic Party. However, the plaintiff was not entitled to be reinstated, as the court found that the Governor would have suspended the plaintiff anyway due to unprotected activities, including the plaintiff's statement opposing abortion prosecutions, the policy reforms the plaintiff enacted, and the political benefit that the Governor would get from suspending him. The Court also held that the suspension violated the Florida Constitution because it was not based on neglect of duty or incompetence. However, Florida's sovereign immunity prevented any relief on this basis. Therefore, the court dismissed the case. 653 F.Supp.3d 1118.\n\nOn February 14, 2023, the plaintiff appealed to the Eleventh Circuit Court of Appeals (docket no. 23-10459). The motion to expedite the appeal was granted on March 3, and the Court of Appeals scheduled oral arguments for May 2, 2023. In his pleading, the plaintiff argued that the district court had erred in holding that sovereign immunity barred it from ordering reinstatement, and that the court had misapplied the legal framework for First Amendment retaliation claims.\n\nOn January 11, 2024, the Eleventh Circuit vacated the district court's decision and remanded the case. The Eleventh Circuit held that two factors in the Governor's suspension decision\u2014the abortion statement and the political benefit to the Governor\u2014were protected by the First Amendment, though the district court had considered them unprotected. Therefore, the Eleventh Circuit remanded the case so that the district court could analyze whether the Governor would have made the same suspension decision if none of the protected factors were present. 90 F.4th 1115.\n\nThe Governor subsequently petitioned for rehearing en banc. While the Eleventh Circuit considered whether to grant the petition, the plaintiff's term of office as State Attorney concluded. On January 1, 2025, the Eleventh Circuit vacated its previous opinion, holding that the case was now moot because the court could not provide the plaintiff meaningful relief. The Court rejected the plaintiff's argument that the case fell into an exception for cases \"capable of repetition yet evading review\" because the plaintiff had not shown a likelihood that he would subsequently run for and win another public office that the governor would suspend him from. 125 F.4th 1361.\n\nThe case was subsequently dismissed, and is now closed.",
+    "target_paragraph": "The Governor subsequently petitioned for rehearing en banc. While the Eleventh Circuit considered whether to grant the petition, the plaintiff's term of office as State Attorney concluded. On January 1, 2025, the Eleventh Circuit vacated its previous opinion, holding that the case was now moot because the court could not provide the plaintiff meaningful relief. The Court rejected the plaintiff's argument that the case fell into an exception for cases \"capable of repetition yet evading review\" because the plaintiff had not shown a likelihood that he would subsequently run for and win another public office that the governor would suspend him from. 125 F.4th 1361.",
+    "target_paragraph_indices": [
+      4721,
+      5390
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            5085,
+            5390
+          ]
+        ],
+        "annotation": {
+          "explanation": "125 F.4th 1361",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            4910,
+            5390
+          ]
+        ],
+        "annotation": {
+          "explanation": "Eleventh Circuit opinion (Jan. 1, 2025): vacated prior opinion; held the case moot; dismissed. Citation: 125 F.4th 1361.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4781,
+            4909
+          ],
+          [
+            4910,
+            5084
+          ],
+          [
+            5085,
+            5374
+          ]
+        ],
+        "annotation": {
+          "explanation": "Subsequent procedural fact: The case became moot upon the plaintiff\u2019s term ending; no exception applied due to lack of likelihood of recurrence.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4721,
+            4780
+          ]
+        ],
+        "annotation": {
+          "explanation": "Governor\u2019s petition for rehearing en banc filed in the Eleventh Circuit.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4721,
+            4780
+          ],
+          [
+            4781,
+            4909
+          ],
+          [
+            4910,
+            5084
+          ],
+          [
+            5085,
+            5374
+          ],
+          [
+            5375,
+            5390
+          ],
+          [
+            5392,
+            5447
+          ]
+        ],
+        "annotation": {
+          "explanation": "Rehearing en banc petition filed; Jan 1, 2025 the Eleventh Circuit vacated its prior opinion and dismissed as moot (rejecting the capable-of-repetition-yet-evading-review exception), and the case was subsequently dismissed and closed (125 F.4th 1361).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            8,
+            9
+          ]
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "43972_p9",
+    "metadata": {
+      "case_id": "43972",
+      "paragraph_num": 9,
+      "total_paragraphs": 10,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case was subsequently dismissed, and is now closed."
+    },
+    "source": "",
+    "target": "This case is about the First Amendment rights of public officials. On August 4, 2022, the Governor of Florida, Ron DeSantis, promulgated Executive Order 22-176, suspending a State Attorney after he signed on to statements in support of transgender rights and abortion rights.\u00a0The Executive Order (EO) claimed the State Attorney was \"incompetent\" to hold his office and had demonstrated a \"neglect of duty\" while in office. However, Governor DeSantis stated to the press that the suspension was due to statements the State Attorney had made about gender-affirming care and abortion.\n\nFollowing his suspension, the State Attorney filed this lawsuit against Governor DeSantis on August 17, 2022, in the U.S. District Court for the Northern District of Florida. The plaintiff sued under 42 U.S.C. \u00a7 1983, alleging that the suspension violated his First Amendment right to free speech and the Florida Constitution's limitations on gubernatorial suspensions of state officers. Various parties filed amicus briefs in this case, including a group of former prosecutors, attorneys general, judges, US attorneys, and other officials (for the plaintiff); two groups of legal scholars (for the plaintiff); and the Florida Sheriff's Association (for the defendant).\n\nOn the same day he filed the lawsuit, the plaintiff also moved for a preliminary injunction requiring the Governor to reinstate the plaintiff as a State Attorney. The Governor subsequently moved to dismiss the case, arguing that the plaintiff's speech was the speech of a government officials pursuant to his duties; under Garcetti v. Ceballos, 547 U.S. 410 (2006), an official's supervisor can discipline them for official speech without violating the First Amendment.\n\nOn September 29, 2022, the court denied the Governor's motion to dismiss the First Amendment claim, holding that\u00a0Garcetti\u00a0did not apply because 1) the plaintiff was elected, and 2) the speech at issue was not official. However, the court dismissed the plaintiff's state law claim as barred by sovereign immunity. The court also denied the plaintiff's request for a preliminary injunction, finding that restoring the plaintiff to his State Attorney position could cause disruption in the government, and that the success of plaintiff's claim would hinge on the facts of the case. Finally, the court held that it should not abstain from hearing the case under either Pullman or Younger. 631 F.Supp.3d 1188.\n\nThe Governor filed a motion for interlocutory judgment under Section 1292(b), requesting that the district court certify the First Amendment issue so it could be immediately appealed. On October 4, 2022, the court denied the Governor's motion for certification as a matter of discretion. 2022 WL 19395252.\n\nThe court held a bench trial from November 29 to December 1, 2022. On January 20, 2023, Judge Hinkle entered a judgment on the merits. The court found that the Governor violated the First Amendment by suspending the plaintiff for speech on matters of public concern and for his association with the Democratic Party. However, the plaintiff was not entitled to be reinstated, as the court found that the Governor would have suspended the plaintiff anyway due to unprotected activities, including the plaintiff's statement opposing abortion prosecutions, the policy reforms the plaintiff enacted, and the political benefit that the Governor would get from suspending him. The Court also held that the suspension violated the Florida Constitution because it was not based on neglect of duty or incompetence. However, Florida's sovereign immunity prevented any relief on this basis. Therefore, the court dismissed the case. 653 F.Supp.3d 1118.\n\nOn February 14, 2023, the plaintiff appealed to the Eleventh Circuit Court of Appeals (docket no. 23-10459). The motion to expedite the appeal was granted on March 3, and the Court of Appeals scheduled oral arguments for May 2, 2023. In his pleading, the plaintiff argued that the district court had erred in holding that sovereign immunity barred it from ordering reinstatement, and that the court had misapplied the legal framework for First Amendment retaliation claims.\n\nOn January 11, 2024, the Eleventh Circuit vacated the district court's decision and remanded the case. The Eleventh Circuit held that two factors in the Governor's suspension decision\u2014the abortion statement and the political benefit to the Governor\u2014were protected by the First Amendment, though the district court had considered them unprotected. Therefore, the Eleventh Circuit remanded the case so that the district court could analyze whether the Governor would have made the same suspension decision if none of the protected factors were present. 90 F.4th 1115.\n\nThe Governor subsequently petitioned for rehearing en banc. While the Eleventh Circuit considered whether to grant the petition, the plaintiff's term of office as State Attorney concluded. On January 1, 2025, the Eleventh Circuit vacated its previous opinion, holding that the case was now moot because the court could not provide the plaintiff meaningful relief. The Court rejected the plaintiff's argument that the case fell into an exception for cases \"capable of repetition yet evading review\" because the plaintiff had not shown a likelihood that he would subsequently run for and win another public office that the governor would suspend him from. 125 F.4th 1361.\n\nThe case was subsequently dismissed, and is now closed.",
+    "target_paragraph": "The case was subsequently dismissed, and is now closed.",
+    "target_paragraph_indices": [
+      5392,
+      5447
+    ],
+    "edits": []
+  }
+]

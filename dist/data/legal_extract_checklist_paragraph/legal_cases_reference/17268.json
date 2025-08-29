@@ -1,0 +1,1403 @@
+[
+  {
+    "id": "17268_p0",
+    "metadata": {
+      "case_id": "17268",
+      "paragraph_num": 0,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On September 19, 2019, five asylum-seeking parents, on their own behalf and on behalf of their minor..."
+    },
+    "source": "",
+    "target": "On September 19, 2019, five asylum-seeking parents, on their own behalf and on behalf of their minor children, filed this lawsuit in the U.S. District Court for the District of Arizona. The plaintiffs sued the United States under the Federal Tort Claims Act (\"FTCA\"). The plaintiffs, represented by private counsel, the National Immigrant Justice Center, and the American Immigration Council, sought monetary relief and attorneys fees. The plaintiffs alleged both negligence on part of the United States government and that the government caused intentional infliction of emotional distress (\"IIED\") through its child-separation policy. The government separated the asylum-seeking parents from their children, delayed providing parents and children information of each other\u2019s whereabouts and well-being, failed to facilitate adequate communication between the parents and their children while separated, and failed to implement a system to ensure families could be reunited. The government did this deliberately, plaintiffs alleged, to deter other parents with children from seeking asylum in the United States. The case was assigned to Judge Susan Bolton.\n\nOn December 23, 2019, the United States moved to dismiss the suit for lack of jurisdiction, citing sovereign immunity not waived by the FTCA. The district court denied the United States' motion on March 30, 2020, holding (1) the family separation alleged in the suit was a persuasive analogy to private conduct such that plaintiffs had established subject-matter jurisdiction under the FTCA and (2) neither the due care nor the discretionary function exception to the FTCA applied because the United States was not enforcing federal law when it separated plaintiffs and their children. 2020 WL 1698191. The United States moved for leave to appeal the district court's order on May 29, 2020, which was denied by the Judge Bolton on July 6, 2020 because the United States failed to present exceptional circumstances such that interlocutory review would be appropriate. 2020 WL 5232560.\n\nThe United States filed its answer to the complaint on May 13, 2020 and the parties commenced discovery in July 2020. The parties filed numerous joint motions to stay proceedings while they explored a possible settlement. During this time, the 2020 presidential election resulted in a transfer of power from the Trump Administration to the Biden Administration.\n\nProceedings remained stayed until January 27, 2022 when the Court scheduled a status conference. Following the status conference, discovery continued through 2022. In January 2023, the plaintiffs filed a motion for sanctions seeking evidentiary sanctions against the defendants for the production of documents after the close of discovery.\n\nThe United States filed a motion for summary judgment and submitted a statement of facts on March 9, 2023. The defendant denounced the challenged separation of families procedures as the policy decisions made by the Department of Homeland Security and Department of Justice during the former Trump Administration. Nonetheless, the defendant contended that the FTCA does not permit recovery in tort for harms asserted to arise from policy decisions (the so-called discretionary function exception). The plaintiffs also filed a motion for partial summary judgment on March 9 specifically with regard to their IIED and negligence claims.\n\nOn August 15, 2023, the District Court granted in part and denied in part the plaintiffs' motion for sanctions. The Court granted for the admission of the certain documents and handwritten notes if offered by the plaintiffs at trial and precluded the defendants from using them.\n\nOn October 24, 2023, the Court also denied the defendant's motion for summary judgment, while granting in part the plaintiffs' motion. The Court denied the defendant's motion because they had not shown that the discretionary function exception barred the plaintiffs\u2019 claims. With regard to the plaintiffs' negligence claim, the Court concluded that the United States owed the plaintiffs a duty of care, but determined that issues of material fact existed as to whether the United States breached its duty. The Court denied the plaintiffs' IIED claim. 2023 WL 7102132.\n\nFollowing a scheduling conference, a bench trial was set for April 23, 2024. However, on April 10, 2024, the parties filed a notice of conditional settlements with regard to all claims. That same day, the court granted the stipulation and vacated the pretrial and trial deadlines it had originally set.\n\nOn July 1, 2024, the parties moved for court approval over the settlement agreement, which the court then granted the next day. The plaintiffs received $1,353,000. The portion of the settlement for the minor plaintiffs were placed in a pooled trust.\n\nThe parties then proceeded to file status updates every 60 days with the court with regard to finalization of the settlement. Following resolution, on October 17, 2024, the plaintiff moved to dismiss the case. The court, thus, dismissed the case with prejudice on October 22, 2024.\n\nThe case is considered closed.",
+    "target_paragraph": "On September 19, 2019, five asylum-seeking parents, on their own behalf and on behalf of their minor children, filed this lawsuit in the U.S. District Court for the District of Arizona. The plaintiffs sued the United States under the Federal Tort Claims Act (\"FTCA\"). The plaintiffs, represented by private counsel, the National Immigrant Justice Center, and the American Immigration Council, sought monetary relief and attorneys fees. The plaintiffs alleged both negligence on part of the United States government and that the government caused intentional infliction of emotional distress (\"IIED\") through its child-separation policy. The government separated the asylum-seeking parents from their children, delayed providing parents and children information of each other\u2019s whereabouts and well-being, failed to facilitate adequate communication between the parents and their children while separated, and failed to implement a system to ensure families could be reunited. The government did this deliberately, plaintiffs alleged, to deter other parents with children from seeking asylum in the United States. The case was assigned to Judge Susan Bolton.",
+    "target_paragraph_indices": [
+      0,
+      1157
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            0,
+            185
+          ]
+        ],
+        "annotation": {
+          "explanation": "September 19, 2019",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            186,
+            267
+          ]
+        ],
+        "annotation": {
+          "explanation": "Federal Tort Claims Act (FTCA) \u2013 statutory basis for suit against the United States",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            436,
+            636
+          ]
+        ],
+        "annotation": {
+          "explanation": "Common-law tort claims under the FTCA: negligence and intentional infliction of emotional distress (IIED)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            186,
+            267
+          ]
+        ],
+        "annotation": {
+          "explanation": "Federal Tort Claims Act (FTCA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            268,
+            435
+          ]
+        ],
+        "annotation": {
+          "explanation": "Monetary relief and attorneys' fees",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            268,
+            435
+          ]
+        ],
+        "annotation": {
+          "explanation": "Private counsel",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            268,
+            435
+          ]
+        ],
+        "annotation": {
+          "explanation": "National Immigrant Justice Center",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            268,
+            435
+          ]
+        ],
+        "annotation": {
+          "explanation": "American Immigration Council",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1113,
+            1157
+          ],
+          [
+            1860,
+            1902
+          ]
+        ],
+        "annotation": {
+          "explanation": "Susan Bolton",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 8
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            0,
+            185
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as five asylum-seeking parents, on their own behalf and on behalf of their minor children",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            185
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: five asylum-seeking parents (filing on their own behalf and on behalf of their minor children)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            185
+          ],
+          [
+            4701,
+            4786
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: minor children of the five asylum-seeking parents (represented through their parents)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            8
+          ]
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            186,
+            267
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: United States",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            185
+          ],
+          [
+            186,
+            267
+          ],
+          [
+            268,
+            435
+          ],
+          [
+            1113,
+            1157
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties and filing: Five asylum-seeking parents (and their minor children) sued the United States under the FTCA in the U.S. District Court for the District of Arizona on September 19, 2019, seeking monetary relief and attorneys\u2019 fees; assigned to Judge Susan Bolton.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            637,
+            975
+          ],
+          [
+            976,
+            1112
+          ]
+        ],
+        "annotation": {
+          "explanation": "Core factual allegations: The U.S. government separated asylum-seeking parents from their children, delayed sharing information on whereabouts and well-being, failed to facilitate communication during separation, and failed to implement a reunification system, allegedly to deter other families from seeking asylum.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            436,
+            636
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged harms: Negligence and intentional infliction of emotional distress arising from the child-separation policy.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            0,
+            185
+          ],
+          [
+            186,
+            267
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed (FTCA damages action) by plaintiffs on September 19, 2019 in the District of Arizona.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      }
+    ]
+  },
+  {
+    "id": "17268_p1",
+    "metadata": {
+      "case_id": "17268",
+      "paragraph_num": 1,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On December 23, 2019, the United States moved to dismiss the suit for lack of jurisdiction, citing s..."
+    },
+    "source": "",
+    "target": "On September 19, 2019, five asylum-seeking parents, on their own behalf and on behalf of their minor children, filed this lawsuit in the U.S. District Court for the District of Arizona. The plaintiffs sued the United States under the Federal Tort Claims Act (\"FTCA\"). The plaintiffs, represented by private counsel, the National Immigrant Justice Center, and the American Immigration Council, sought monetary relief and attorneys fees. The plaintiffs alleged both negligence on part of the United States government and that the government caused intentional infliction of emotional distress (\"IIED\") through its child-separation policy. The government separated the asylum-seeking parents from their children, delayed providing parents and children information of each other\u2019s whereabouts and well-being, failed to facilitate adequate communication between the parents and their children while separated, and failed to implement a system to ensure families could be reunited. The government did this deliberately, plaintiffs alleged, to deter other parents with children from seeking asylum in the United States. The case was assigned to Judge Susan Bolton.\n\nOn December 23, 2019, the United States moved to dismiss the suit for lack of jurisdiction, citing sovereign immunity not waived by the FTCA. The district court denied the United States' motion on March 30, 2020, holding (1) the family separation alleged in the suit was a persuasive analogy to private conduct such that plaintiffs had established subject-matter jurisdiction under the FTCA and (2) neither the due care nor the discretionary function exception to the FTCA applied because the United States was not enforcing federal law when it separated plaintiffs and their children. 2020 WL 1698191. The United States moved for leave to appeal the district court's order on May 29, 2020, which was denied by the Judge Bolton on July 6, 2020 because the United States failed to present exceptional circumstances such that interlocutory review would be appropriate. 2020 WL 5232560.\n\nThe United States filed its answer to the complaint on May 13, 2020 and the parties commenced discovery in July 2020. The parties filed numerous joint motions to stay proceedings while they explored a possible settlement. During this time, the 2020 presidential election resulted in a transfer of power from the Trump Administration to the Biden Administration.\n\nProceedings remained stayed until January 27, 2022 when the Court scheduled a status conference. Following the status conference, discovery continued through 2022. In January 2023, the plaintiffs filed a motion for sanctions seeking evidentiary sanctions against the defendants for the production of documents after the close of discovery.\n\nThe United States filed a motion for summary judgment and submitted a statement of facts on March 9, 2023. The defendant denounced the challenged separation of families procedures as the policy decisions made by the Department of Homeland Security and Department of Justice during the former Trump Administration. Nonetheless, the defendant contended that the FTCA does not permit recovery in tort for harms asserted to arise from policy decisions (the so-called discretionary function exception). The plaintiffs also filed a motion for partial summary judgment on March 9 specifically with regard to their IIED and negligence claims.\n\nOn August 15, 2023, the District Court granted in part and denied in part the plaintiffs' motion for sanctions. The Court granted for the admission of the certain documents and handwritten notes if offered by the plaintiffs at trial and precluded the defendants from using them.\n\nOn October 24, 2023, the Court also denied the defendant's motion for summary judgment, while granting in part the plaintiffs' motion. The Court denied the defendant's motion because they had not shown that the discretionary function exception barred the plaintiffs\u2019 claims. With regard to the plaintiffs' negligence claim, the Court concluded that the United States owed the plaintiffs a duty of care, but determined that issues of material fact existed as to whether the United States breached its duty. The Court denied the plaintiffs' IIED claim. 2023 WL 7102132.\n\nFollowing a scheduling conference, a bench trial was set for April 23, 2024. However, on April 10, 2024, the parties filed a notice of conditional settlements with regard to all claims. That same day, the court granted the stipulation and vacated the pretrial and trial deadlines it had originally set.\n\nOn July 1, 2024, the parties moved for court approval over the settlement agreement, which the court then granted the next day. The plaintiffs received $1,353,000. The portion of the settlement for the minor plaintiffs were placed in a pooled trust.\n\nThe parties then proceeded to file status updates every 60 days with the court with regard to finalization of the settlement. Following resolution, on October 17, 2024, the plaintiff moved to dismiss the case. The court, thus, dismissed the case with prejudice on October 22, 2024.\n\nThe case is considered closed.",
+    "target_paragraph": "On December 23, 2019, the United States moved to dismiss the suit for lack of jurisdiction, citing sovereign immunity not waived by the FTCA. The district court denied the United States' motion on March 30, 2020, holding (1) the family separation alleged in the suit was a persuasive analogy to private conduct such that plaintiffs had established subject-matter jurisdiction under the FTCA and (2) neither the due care nor the discretionary function exception to the FTCA applied because the United States was not enforcing federal law when it separated plaintiffs and their children. 2020 WL 1698191. The United States moved for leave to appeal the district court's order on May 29, 2020, which was denied by the Judge Bolton on July 6, 2020 because the United States failed to present exceptional circumstances such that interlocutory review would be appropriate. 2020 WL 5232560.",
+    "target_paragraph_indices": [
+      1159,
+      2042
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1558,
+            1744
+          ],
+          [
+            3104,
+            3245
+          ],
+          [
+            3847,
+            3938
+          ]
+        ],
+        "annotation": {
+          "explanation": "FTCA discretionary function exception",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            4,
+            6
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1558,
+            1744
+          ]
+        ],
+        "annotation": {
+          "explanation": "FTCA due care exception",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            1301,
+            1761
+          ]
+        ],
+        "annotation": {
+          "explanation": "2020 WL 1698191",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            1762,
+            2042
+          ]
+        ],
+        "annotation": {
+          "explanation": "2020 WL 5232560",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            1762,
+            2042
+          ]
+        ],
+        "annotation": {
+          "explanation": "No appeal filed. The United States sought leave to appeal (interlocutory), but the district court denied the motion; no appellate court specified.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1159,
+            1300
+          ],
+          [
+            1301,
+            1761
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 30, 2020: District court denied the United States' motion to dismiss.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1762,
+            2042
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 6, 2020: Judge Bolton denied the United States' motion for leave to appeal.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1159,
+            1300
+          ],
+          [
+            1301,
+            1761
+          ]
+        ],
+        "annotation": {
+          "explanation": "United States' motion to dismiss for lack of jurisdiction (sovereign immunity) filed December 23, 2019; denied March 30, 2020 (2020 WL 1698191).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1762,
+            2042
+          ]
+        ],
+        "annotation": {
+          "explanation": "United States' motion for leave to file interlocutory appeal filed May 29, 2020; denied July 6, 2020 (2020 WL 5232560).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1159,
+            1300
+          ],
+          [
+            1301,
+            1761
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion to dismiss for lack of jurisdiction denied on March 30, 2020; court found FTCA jurisdiction and that due care and discretionary function exceptions did not apply (2020 WL 1698191).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1762,
+            2042
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for leave to appeal (interlocutory) denied on July 6, 2020; no exceptional circumstances (2020 WL 5232560).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "17268_p2",
+    "metadata": {
+      "case_id": "17268",
+      "paragraph_num": 2,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The United States filed its answer to the complaint on May 13, 2020 and the parties commenced discov..."
+    },
+    "source": "",
+    "target": "On September 19, 2019, five asylum-seeking parents, on their own behalf and on behalf of their minor children, filed this lawsuit in the U.S. District Court for the District of Arizona. The plaintiffs sued the United States under the Federal Tort Claims Act (\"FTCA\"). The plaintiffs, represented by private counsel, the National Immigrant Justice Center, and the American Immigration Council, sought monetary relief and attorneys fees. The plaintiffs alleged both negligence on part of the United States government and that the government caused intentional infliction of emotional distress (\"IIED\") through its child-separation policy. The government separated the asylum-seeking parents from their children, delayed providing parents and children information of each other\u2019s whereabouts and well-being, failed to facilitate adequate communication between the parents and their children while separated, and failed to implement a system to ensure families could be reunited. The government did this deliberately, plaintiffs alleged, to deter other parents with children from seeking asylum in the United States. The case was assigned to Judge Susan Bolton.\n\nOn December 23, 2019, the United States moved to dismiss the suit for lack of jurisdiction, citing sovereign immunity not waived by the FTCA. The district court denied the United States' motion on March 30, 2020, holding (1) the family separation alleged in the suit was a persuasive analogy to private conduct such that plaintiffs had established subject-matter jurisdiction under the FTCA and (2) neither the due care nor the discretionary function exception to the FTCA applied because the United States was not enforcing federal law when it separated plaintiffs and their children. 2020 WL 1698191. The United States moved for leave to appeal the district court's order on May 29, 2020, which was denied by the Judge Bolton on July 6, 2020 because the United States failed to present exceptional circumstances such that interlocutory review would be appropriate. 2020 WL 5232560.\n\nThe United States filed its answer to the complaint on May 13, 2020 and the parties commenced discovery in July 2020. The parties filed numerous joint motions to stay proceedings while they explored a possible settlement. During this time, the 2020 presidential election resulted in a transfer of power from the Trump Administration to the Biden Administration.\n\nProceedings remained stayed until January 27, 2022 when the Court scheduled a status conference. Following the status conference, discovery continued through 2022. In January 2023, the plaintiffs filed a motion for sanctions seeking evidentiary sanctions against the defendants for the production of documents after the close of discovery.\n\nThe United States filed a motion for summary judgment and submitted a statement of facts on March 9, 2023. The defendant denounced the challenged separation of families procedures as the policy decisions made by the Department of Homeland Security and Department of Justice during the former Trump Administration. Nonetheless, the defendant contended that the FTCA does not permit recovery in tort for harms asserted to arise from policy decisions (the so-called discretionary function exception). The plaintiffs also filed a motion for partial summary judgment on March 9 specifically with regard to their IIED and negligence claims.\n\nOn August 15, 2023, the District Court granted in part and denied in part the plaintiffs' motion for sanctions. The Court granted for the admission of the certain documents and handwritten notes if offered by the plaintiffs at trial and precluded the defendants from using them.\n\nOn October 24, 2023, the Court also denied the defendant's motion for summary judgment, while granting in part the plaintiffs' motion. The Court denied the defendant's motion because they had not shown that the discretionary function exception barred the plaintiffs\u2019 claims. With regard to the plaintiffs' negligence claim, the Court concluded that the United States owed the plaintiffs a duty of care, but determined that issues of material fact existed as to whether the United States breached its duty. The Court denied the plaintiffs' IIED claim. 2023 WL 7102132.\n\nFollowing a scheduling conference, a bench trial was set for April 23, 2024. However, on April 10, 2024, the parties filed a notice of conditional settlements with regard to all claims. That same day, the court granted the stipulation and vacated the pretrial and trial deadlines it had originally set.\n\nOn July 1, 2024, the parties moved for court approval over the settlement agreement, which the court then granted the next day. The plaintiffs received $1,353,000. The portion of the settlement for the minor plaintiffs were placed in a pooled trust.\n\nThe parties then proceeded to file status updates every 60 days with the court with regard to finalization of the settlement. Following resolution, on October 17, 2024, the plaintiff moved to dismiss the case. The court, thus, dismissed the case with prejudice on October 22, 2024.\n\nThe case is considered closed.",
+    "target_paragraph": "The United States filed its answer to the complaint on May 13, 2020 and the parties commenced discovery in July 2020. The parties filed numerous joint motions to stay proceedings while they explored a possible settlement. During this time, the 2020 presidential election resulted in a transfer of power from the Trump Administration to the Biden Administration.",
+    "target_paragraph_indices": [
+      2044,
+      2405
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2162,
+            2265
+          ],
+          [
+            2407,
+            2503
+          ]
+        ],
+        "annotation": {
+          "explanation": "until January 27, 2022: stay of proceedings",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2044,
+            2161
+          ],
+          [
+            2571,
+            2746
+          ],
+          [
+            2748,
+            2854
+          ],
+          [
+            3384,
+            3662
+          ]
+        ],
+        "annotation": {
+          "explanation": "Evidence and evidentiary context: Discovery occurred; plaintiffs sought sanctions over late-produced documents; the court admitted certain documents and handwritten notes for plaintiffs\u2019 use at trial; the United States submitted a statement of facts.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2044,
+            2161
+          ]
+        ],
+        "annotation": {
+          "explanation": "United States filed answer on May 13, 2020.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2162,
+            2265
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties filed numerous joint motions to stay proceedings pending settlement discussions.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "17268_p3",
+    "metadata": {
+      "case_id": "17268",
+      "paragraph_num": 3,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Proceedings remained stayed until January 27, 2022 when the Court scheduled a status conference. Fol..."
+    },
+    "source": "",
+    "target": "On September 19, 2019, five asylum-seeking parents, on their own behalf and on behalf of their minor children, filed this lawsuit in the U.S. District Court for the District of Arizona. The plaintiffs sued the United States under the Federal Tort Claims Act (\"FTCA\"). The plaintiffs, represented by private counsel, the National Immigrant Justice Center, and the American Immigration Council, sought monetary relief and attorneys fees. The plaintiffs alleged both negligence on part of the United States government and that the government caused intentional infliction of emotional distress (\"IIED\") through its child-separation policy. The government separated the asylum-seeking parents from their children, delayed providing parents and children information of each other\u2019s whereabouts and well-being, failed to facilitate adequate communication between the parents and their children while separated, and failed to implement a system to ensure families could be reunited. The government did this deliberately, plaintiffs alleged, to deter other parents with children from seeking asylum in the United States. The case was assigned to Judge Susan Bolton.\n\nOn December 23, 2019, the United States moved to dismiss the suit for lack of jurisdiction, citing sovereign immunity not waived by the FTCA. The district court denied the United States' motion on March 30, 2020, holding (1) the family separation alleged in the suit was a persuasive analogy to private conduct such that plaintiffs had established subject-matter jurisdiction under the FTCA and (2) neither the due care nor the discretionary function exception to the FTCA applied because the United States was not enforcing federal law when it separated plaintiffs and their children. 2020 WL 1698191. The United States moved for leave to appeal the district court's order on May 29, 2020, which was denied by the Judge Bolton on July 6, 2020 because the United States failed to present exceptional circumstances such that interlocutory review would be appropriate. 2020 WL 5232560.\n\nThe United States filed its answer to the complaint on May 13, 2020 and the parties commenced discovery in July 2020. The parties filed numerous joint motions to stay proceedings while they explored a possible settlement. During this time, the 2020 presidential election resulted in a transfer of power from the Trump Administration to the Biden Administration.\n\nProceedings remained stayed until January 27, 2022 when the Court scheduled a status conference. Following the status conference, discovery continued through 2022. In January 2023, the plaintiffs filed a motion for sanctions seeking evidentiary sanctions against the defendants for the production of documents after the close of discovery.\n\nThe United States filed a motion for summary judgment and submitted a statement of facts on March 9, 2023. The defendant denounced the challenged separation of families procedures as the policy decisions made by the Department of Homeland Security and Department of Justice during the former Trump Administration. Nonetheless, the defendant contended that the FTCA does not permit recovery in tort for harms asserted to arise from policy decisions (the so-called discretionary function exception). The plaintiffs also filed a motion for partial summary judgment on March 9 specifically with regard to their IIED and negligence claims.\n\nOn August 15, 2023, the District Court granted in part and denied in part the plaintiffs' motion for sanctions. The Court granted for the admission of the certain documents and handwritten notes if offered by the plaintiffs at trial and precluded the defendants from using them.\n\nOn October 24, 2023, the Court also denied the defendant's motion for summary judgment, while granting in part the plaintiffs' motion. The Court denied the defendant's motion because they had not shown that the discretionary function exception barred the plaintiffs\u2019 claims. With regard to the plaintiffs' negligence claim, the Court concluded that the United States owed the plaintiffs a duty of care, but determined that issues of material fact existed as to whether the United States breached its duty. The Court denied the plaintiffs' IIED claim. 2023 WL 7102132.\n\nFollowing a scheduling conference, a bench trial was set for April 23, 2024. However, on April 10, 2024, the parties filed a notice of conditional settlements with regard to all claims. That same day, the court granted the stipulation and vacated the pretrial and trial deadlines it had originally set.\n\nOn July 1, 2024, the parties moved for court approval over the settlement agreement, which the court then granted the next day. The plaintiffs received $1,353,000. The portion of the settlement for the minor plaintiffs were placed in a pooled trust.\n\nThe parties then proceeded to file status updates every 60 days with the court with regard to finalization of the settlement. Following resolution, on October 17, 2024, the plaintiff moved to dismiss the case. The court, thus, dismissed the case with prejudice on October 22, 2024.\n\nThe case is considered closed.",
+    "target_paragraph": "Proceedings remained stayed until January 27, 2022 when the Court scheduled a status conference. Following the status conference, discovery continued through 2022. In January 2023, the plaintiffs filed a motion for sanctions seeking evidentiary sanctions against the defendants for the production of documents after the close of discovery.",
+    "target_paragraph_indices": [
+      2407,
+      2746
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2571,
+            2746
+          ]
+        ],
+        "annotation": {
+          "explanation": "Evidentiary sanctions",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2407,
+            2503
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 27, 2022: Court scheduled a status conference.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2571,
+            2746
+          ],
+          [
+            3384,
+            3662
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs' motion for sanctions filed January 2023; granted in part and denied in part on August 15, 2023 (evidentiary sanctions).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            3,
+            5
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2571,
+            2746
+          ],
+          [
+            3384,
+            3662
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs' motion for sanctions granted in part and denied in part on August 15, 2023; certain documents/notes admissible if offered by plaintiffs, and defendants precluded from using them.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            3,
+            5
+          ]
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "17268_p4",
+    "metadata": {
+      "case_id": "17268",
+      "paragraph_num": 4,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The United States filed a motion for summary judgment and submitted a statement of facts on March 9,..."
+    },
+    "source": "",
+    "target": "On September 19, 2019, five asylum-seeking parents, on their own behalf and on behalf of their minor children, filed this lawsuit in the U.S. District Court for the District of Arizona. The plaintiffs sued the United States under the Federal Tort Claims Act (\"FTCA\"). The plaintiffs, represented by private counsel, the National Immigrant Justice Center, and the American Immigration Council, sought monetary relief and attorneys fees. The plaintiffs alleged both negligence on part of the United States government and that the government caused intentional infliction of emotional distress (\"IIED\") through its child-separation policy. The government separated the asylum-seeking parents from their children, delayed providing parents and children information of each other\u2019s whereabouts and well-being, failed to facilitate adequate communication between the parents and their children while separated, and failed to implement a system to ensure families could be reunited. The government did this deliberately, plaintiffs alleged, to deter other parents with children from seeking asylum in the United States. The case was assigned to Judge Susan Bolton.\n\nOn December 23, 2019, the United States moved to dismiss the suit for lack of jurisdiction, citing sovereign immunity not waived by the FTCA. The district court denied the United States' motion on March 30, 2020, holding (1) the family separation alleged in the suit was a persuasive analogy to private conduct such that plaintiffs had established subject-matter jurisdiction under the FTCA and (2) neither the due care nor the discretionary function exception to the FTCA applied because the United States was not enforcing federal law when it separated plaintiffs and their children. 2020 WL 1698191. The United States moved for leave to appeal the district court's order on May 29, 2020, which was denied by the Judge Bolton on July 6, 2020 because the United States failed to present exceptional circumstances such that interlocutory review would be appropriate. 2020 WL 5232560.\n\nThe United States filed its answer to the complaint on May 13, 2020 and the parties commenced discovery in July 2020. The parties filed numerous joint motions to stay proceedings while they explored a possible settlement. During this time, the 2020 presidential election resulted in a transfer of power from the Trump Administration to the Biden Administration.\n\nProceedings remained stayed until January 27, 2022 when the Court scheduled a status conference. Following the status conference, discovery continued through 2022. In January 2023, the plaintiffs filed a motion for sanctions seeking evidentiary sanctions against the defendants for the production of documents after the close of discovery.\n\nThe United States filed a motion for summary judgment and submitted a statement of facts on March 9, 2023. The defendant denounced the challenged separation of families procedures as the policy decisions made by the Department of Homeland Security and Department of Justice during the former Trump Administration. Nonetheless, the defendant contended that the FTCA does not permit recovery in tort for harms asserted to arise from policy decisions (the so-called discretionary function exception). The plaintiffs also filed a motion for partial summary judgment on March 9 specifically with regard to their IIED and negligence claims.\n\nOn August 15, 2023, the District Court granted in part and denied in part the plaintiffs' motion for sanctions. The Court granted for the admission of the certain documents and handwritten notes if offered by the plaintiffs at trial and precluded the defendants from using them.\n\nOn October 24, 2023, the Court also denied the defendant's motion for summary judgment, while granting in part the plaintiffs' motion. The Court denied the defendant's motion because they had not shown that the discretionary function exception barred the plaintiffs\u2019 claims. With regard to the plaintiffs' negligence claim, the Court concluded that the United States owed the plaintiffs a duty of care, but determined that issues of material fact existed as to whether the United States breached its duty. The Court denied the plaintiffs' IIED claim. 2023 WL 7102132.\n\nFollowing a scheduling conference, a bench trial was set for April 23, 2024. However, on April 10, 2024, the parties filed a notice of conditional settlements with regard to all claims. That same day, the court granted the stipulation and vacated the pretrial and trial deadlines it had originally set.\n\nOn July 1, 2024, the parties moved for court approval over the settlement agreement, which the court then granted the next day. The plaintiffs received $1,353,000. The portion of the settlement for the minor plaintiffs were placed in a pooled trust.\n\nThe parties then proceeded to file status updates every 60 days with the court with regard to finalization of the settlement. Following resolution, on October 17, 2024, the plaintiff moved to dismiss the case. The court, thus, dismissed the case with prejudice on October 22, 2024.\n\nThe case is considered closed.",
+    "target_paragraph": "The United States filed a motion for summary judgment and submitted a statement of facts on March 9, 2023. The defendant denounced the challenged separation of families procedures as the policy decisions made by the Department of Homeland Security and Department of Justice during the former Trump Administration. Nonetheless, the defendant contended that the FTCA does not permit recovery in tort for harms asserted to arise from policy decisions (the so-called discretionary function exception). The plaintiffs also filed a motion for partial summary judgment on March 9 specifically with regard to their IIED and negligence claims.",
+    "target_paragraph_indices": [
+      2748,
+      3382
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2855,
+            3061
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background/policy context: The separation procedures were tied to policy decisions by DHS and DOJ during the former Trump Administration.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2748,
+            2854
+          ],
+          [
+            3664,
+            3798
+          ]
+        ],
+        "annotation": {
+          "explanation": "United States' motion for summary judgment filed March 9, 2023; denied October 24, 2023.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            4,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3246,
+            3382
+          ],
+          [
+            3664,
+            4231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs' motion for partial summary judgment filed March 9, 2023; granted in part on October 24, 2023 (negligence duty recognized; issues of fact on breach; IIED claim denied) (2023 WL 7102132).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            4,
+            6
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2748,
+            2854
+          ],
+          [
+            3246,
+            3382
+          ],
+          [
+            3664,
+            3798
+          ],
+          [
+            3799,
+            3938
+          ],
+          [
+            3939,
+            4169
+          ],
+          [
+            4170,
+            4231
+          ]
+        ],
+        "annotation": {
+          "explanation": "On October 24, 2023: defendant\u2019s motion for summary judgment denied (discretionary function exception did not bar claims); plaintiffs\u2019 partial summary judgment granted in part (duty of care on negligence established; breach left for trial); plaintiffs\u2019 IIED claim denied (2023 WL 7102132).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            4,
+            6
+          ]
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "17268_p5",
+    "metadata": {
+      "case_id": "17268",
+      "paragraph_num": 5,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 15, 2023, the District Court granted in part and denied in part the plaintiffs' motion for..."
+    },
+    "source": "",
+    "target": "On September 19, 2019, five asylum-seeking parents, on their own behalf and on behalf of their minor children, filed this lawsuit in the U.S. District Court for the District of Arizona. The plaintiffs sued the United States under the Federal Tort Claims Act (\"FTCA\"). The plaintiffs, represented by private counsel, the National Immigrant Justice Center, and the American Immigration Council, sought monetary relief and attorneys fees. The plaintiffs alleged both negligence on part of the United States government and that the government caused intentional infliction of emotional distress (\"IIED\") through its child-separation policy. The government separated the asylum-seeking parents from their children, delayed providing parents and children information of each other\u2019s whereabouts and well-being, failed to facilitate adequate communication between the parents and their children while separated, and failed to implement a system to ensure families could be reunited. The government did this deliberately, plaintiffs alleged, to deter other parents with children from seeking asylum in the United States. The case was assigned to Judge Susan Bolton.\n\nOn December 23, 2019, the United States moved to dismiss the suit for lack of jurisdiction, citing sovereign immunity not waived by the FTCA. The district court denied the United States' motion on March 30, 2020, holding (1) the family separation alleged in the suit was a persuasive analogy to private conduct such that plaintiffs had established subject-matter jurisdiction under the FTCA and (2) neither the due care nor the discretionary function exception to the FTCA applied because the United States was not enforcing federal law when it separated plaintiffs and their children. 2020 WL 1698191. The United States moved for leave to appeal the district court's order on May 29, 2020, which was denied by the Judge Bolton on July 6, 2020 because the United States failed to present exceptional circumstances such that interlocutory review would be appropriate. 2020 WL 5232560.\n\nThe United States filed its answer to the complaint on May 13, 2020 and the parties commenced discovery in July 2020. The parties filed numerous joint motions to stay proceedings while they explored a possible settlement. During this time, the 2020 presidential election resulted in a transfer of power from the Trump Administration to the Biden Administration.\n\nProceedings remained stayed until January 27, 2022 when the Court scheduled a status conference. Following the status conference, discovery continued through 2022. In January 2023, the plaintiffs filed a motion for sanctions seeking evidentiary sanctions against the defendants for the production of documents after the close of discovery.\n\nThe United States filed a motion for summary judgment and submitted a statement of facts on March 9, 2023. The defendant denounced the challenged separation of families procedures as the policy decisions made by the Department of Homeland Security and Department of Justice during the former Trump Administration. Nonetheless, the defendant contended that the FTCA does not permit recovery in tort for harms asserted to arise from policy decisions (the so-called discretionary function exception). The plaintiffs also filed a motion for partial summary judgment on March 9 specifically with regard to their IIED and negligence claims.\n\nOn August 15, 2023, the District Court granted in part and denied in part the plaintiffs' motion for sanctions. The Court granted for the admission of the certain documents and handwritten notes if offered by the plaintiffs at trial and precluded the defendants from using them.\n\nOn October 24, 2023, the Court also denied the defendant's motion for summary judgment, while granting in part the plaintiffs' motion. The Court denied the defendant's motion because they had not shown that the discretionary function exception barred the plaintiffs\u2019 claims. With regard to the plaintiffs' negligence claim, the Court concluded that the United States owed the plaintiffs a duty of care, but determined that issues of material fact existed as to whether the United States breached its duty. The Court denied the plaintiffs' IIED claim. 2023 WL 7102132.\n\nFollowing a scheduling conference, a bench trial was set for April 23, 2024. However, on April 10, 2024, the parties filed a notice of conditional settlements with regard to all claims. That same day, the court granted the stipulation and vacated the pretrial and trial deadlines it had originally set.\n\nOn July 1, 2024, the parties moved for court approval over the settlement agreement, which the court then granted the next day. The plaintiffs received $1,353,000. The portion of the settlement for the minor plaintiffs were placed in a pooled trust.\n\nThe parties then proceeded to file status updates every 60 days with the court with regard to finalization of the settlement. Following resolution, on October 17, 2024, the plaintiff moved to dismiss the case. The court, thus, dismissed the case with prejudice on October 22, 2024.\n\nThe case is considered closed.",
+    "target_paragraph": "On August 15, 2023, the District Court granted in part and denied in part the plaintiffs' motion for sanctions. The Court granted for the admission of the certain documents and handwritten notes if offered by the plaintiffs at trial and precluded the defendants from using them.",
+    "target_paragraph_indices": [
+      3384,
+      3662
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3384,
+            3495
+          ],
+          [
+            3496,
+            3662
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 15, 2023: District Court granted in part and denied in part plaintiffs' motion for sanctions; allowed admission of certain documents and handwritten notes if offered by plaintiffs at trial and precluded defendants from using them.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3496,
+            3662
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants are prohibited from using certain documents and handwritten notes at trial; plaintiffs may offer them.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3496,
+            3662
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants precluded from using certain documents and handwritten notes; plaintiffs permitted to offer them at trial (evidentiary sanction).",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3384,
+            3662
+          ]
+        ],
+        "annotation": {
+          "explanation": "Pretrial evidentiary sanctions: certain documents/notes admissible if offered by plaintiffs at trial; defendants precluded from using them (Aug 15, 2023).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "17268_p6",
+    "metadata": {
+      "case_id": "17268",
+      "paragraph_num": 6,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On October 24, 2023, the Court also denied the defendant's motion for summary judgment, while granti..."
+    },
+    "source": "",
+    "target": "On September 19, 2019, five asylum-seeking parents, on their own behalf and on behalf of their minor children, filed this lawsuit in the U.S. District Court for the District of Arizona. The plaintiffs sued the United States under the Federal Tort Claims Act (\"FTCA\"). The plaintiffs, represented by private counsel, the National Immigrant Justice Center, and the American Immigration Council, sought monetary relief and attorneys fees. The plaintiffs alleged both negligence on part of the United States government and that the government caused intentional infliction of emotional distress (\"IIED\") through its child-separation policy. The government separated the asylum-seeking parents from their children, delayed providing parents and children information of each other\u2019s whereabouts and well-being, failed to facilitate adequate communication between the parents and their children while separated, and failed to implement a system to ensure families could be reunited. The government did this deliberately, plaintiffs alleged, to deter other parents with children from seeking asylum in the United States. The case was assigned to Judge Susan Bolton.\n\nOn December 23, 2019, the United States moved to dismiss the suit for lack of jurisdiction, citing sovereign immunity not waived by the FTCA. The district court denied the United States' motion on March 30, 2020, holding (1) the family separation alleged in the suit was a persuasive analogy to private conduct such that plaintiffs had established subject-matter jurisdiction under the FTCA and (2) neither the due care nor the discretionary function exception to the FTCA applied because the United States was not enforcing federal law when it separated plaintiffs and their children. 2020 WL 1698191. The United States moved for leave to appeal the district court's order on May 29, 2020, which was denied by the Judge Bolton on July 6, 2020 because the United States failed to present exceptional circumstances such that interlocutory review would be appropriate. 2020 WL 5232560.\n\nThe United States filed its answer to the complaint on May 13, 2020 and the parties commenced discovery in July 2020. The parties filed numerous joint motions to stay proceedings while they explored a possible settlement. During this time, the 2020 presidential election resulted in a transfer of power from the Trump Administration to the Biden Administration.\n\nProceedings remained stayed until January 27, 2022 when the Court scheduled a status conference. Following the status conference, discovery continued through 2022. In January 2023, the plaintiffs filed a motion for sanctions seeking evidentiary sanctions against the defendants for the production of documents after the close of discovery.\n\nThe United States filed a motion for summary judgment and submitted a statement of facts on March 9, 2023. The defendant denounced the challenged separation of families procedures as the policy decisions made by the Department of Homeland Security and Department of Justice during the former Trump Administration. Nonetheless, the defendant contended that the FTCA does not permit recovery in tort for harms asserted to arise from policy decisions (the so-called discretionary function exception). The plaintiffs also filed a motion for partial summary judgment on March 9 specifically with regard to their IIED and negligence claims.\n\nOn August 15, 2023, the District Court granted in part and denied in part the plaintiffs' motion for sanctions. The Court granted for the admission of the certain documents and handwritten notes if offered by the plaintiffs at trial and precluded the defendants from using them.\n\nOn October 24, 2023, the Court also denied the defendant's motion for summary judgment, while granting in part the plaintiffs' motion. The Court denied the defendant's motion because they had not shown that the discretionary function exception barred the plaintiffs\u2019 claims. With regard to the plaintiffs' negligence claim, the Court concluded that the United States owed the plaintiffs a duty of care, but determined that issues of material fact existed as to whether the United States breached its duty. The Court denied the plaintiffs' IIED claim. 2023 WL 7102132.\n\nFollowing a scheduling conference, a bench trial was set for April 23, 2024. However, on April 10, 2024, the parties filed a notice of conditional settlements with regard to all claims. That same day, the court granted the stipulation and vacated the pretrial and trial deadlines it had originally set.\n\nOn July 1, 2024, the parties moved for court approval over the settlement agreement, which the court then granted the next day. The plaintiffs received $1,353,000. The portion of the settlement for the minor plaintiffs were placed in a pooled trust.\n\nThe parties then proceeded to file status updates every 60 days with the court with regard to finalization of the settlement. Following resolution, on October 17, 2024, the plaintiff moved to dismiss the case. The court, thus, dismissed the case with prejudice on October 22, 2024.\n\nThe case is considered closed.",
+    "target_paragraph": "On October 24, 2023, the Court also denied the defendant's motion for summary judgment, while granting in part the plaintiffs' motion. The Court denied the defendant's motion because they had not shown that the discretionary function exception barred the plaintiffs\u2019 claims. With regard to the plaintiffs' negligence claim, the Court concluded that the United States owed the plaintiffs a duty of care, but determined that issues of material fact existed as to whether the United States breached its duty. The Court denied the plaintiffs' IIED claim. 2023 WL 7102132.",
+    "target_paragraph_indices": [
+      3664,
+      4231
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3664,
+            4231
+          ]
+        ],
+        "annotation": {
+          "explanation": "2023 WL 7102132",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3664,
+            3798
+          ],
+          [
+            3939,
+            4231
+          ]
+        ],
+        "annotation": {
+          "explanation": "October 24, 2023: Court denied defendant's motion for summary judgment and granted in part plaintiffs' motion; recognized duty of care on negligence claim, found material fact issues on breach, and denied plaintiffs' IIED claim.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3664,
+            3798
+          ],
+          [
+            3799,
+            3938
+          ],
+          [
+            3939,
+            4169
+          ],
+          [
+            4170,
+            4231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Pretrial summary judgment rulings (Oct 24, 2023): defendant\u2019s MSJ denied (DFE not shown); plaintiffs\u2019 motion granted in part; negligence claim survived (duty recognized; fact issues on breach); IIED claim denied\u2014narrowing issues that would proceed to trial.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "17268_p7",
+    "metadata": {
+      "case_id": "17268",
+      "paragraph_num": 7,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Following a scheduling conference, a bench trial was set for April 23, 2024. However, on April 10, 2..."
+    },
+    "source": "",
+    "target": "On September 19, 2019, five asylum-seeking parents, on their own behalf and on behalf of their minor children, filed this lawsuit in the U.S. District Court for the District of Arizona. The plaintiffs sued the United States under the Federal Tort Claims Act (\"FTCA\"). The plaintiffs, represented by private counsel, the National Immigrant Justice Center, and the American Immigration Council, sought monetary relief and attorneys fees. The plaintiffs alleged both negligence on part of the United States government and that the government caused intentional infliction of emotional distress (\"IIED\") through its child-separation policy. The government separated the asylum-seeking parents from their children, delayed providing parents and children information of each other\u2019s whereabouts and well-being, failed to facilitate adequate communication between the parents and their children while separated, and failed to implement a system to ensure families could be reunited. The government did this deliberately, plaintiffs alleged, to deter other parents with children from seeking asylum in the United States. The case was assigned to Judge Susan Bolton.\n\nOn December 23, 2019, the United States moved to dismiss the suit for lack of jurisdiction, citing sovereign immunity not waived by the FTCA. The district court denied the United States' motion on March 30, 2020, holding (1) the family separation alleged in the suit was a persuasive analogy to private conduct such that plaintiffs had established subject-matter jurisdiction under the FTCA and (2) neither the due care nor the discretionary function exception to the FTCA applied because the United States was not enforcing federal law when it separated plaintiffs and their children. 2020 WL 1698191. The United States moved for leave to appeal the district court's order on May 29, 2020, which was denied by the Judge Bolton on July 6, 2020 because the United States failed to present exceptional circumstances such that interlocutory review would be appropriate. 2020 WL 5232560.\n\nThe United States filed its answer to the complaint on May 13, 2020 and the parties commenced discovery in July 2020. The parties filed numerous joint motions to stay proceedings while they explored a possible settlement. During this time, the 2020 presidential election resulted in a transfer of power from the Trump Administration to the Biden Administration.\n\nProceedings remained stayed until January 27, 2022 when the Court scheduled a status conference. Following the status conference, discovery continued through 2022. In January 2023, the plaintiffs filed a motion for sanctions seeking evidentiary sanctions against the defendants for the production of documents after the close of discovery.\n\nThe United States filed a motion for summary judgment and submitted a statement of facts on March 9, 2023. The defendant denounced the challenged separation of families procedures as the policy decisions made by the Department of Homeland Security and Department of Justice during the former Trump Administration. Nonetheless, the defendant contended that the FTCA does not permit recovery in tort for harms asserted to arise from policy decisions (the so-called discretionary function exception). The plaintiffs also filed a motion for partial summary judgment on March 9 specifically with regard to their IIED and negligence claims.\n\nOn August 15, 2023, the District Court granted in part and denied in part the plaintiffs' motion for sanctions. The Court granted for the admission of the certain documents and handwritten notes if offered by the plaintiffs at trial and precluded the defendants from using them.\n\nOn October 24, 2023, the Court also denied the defendant's motion for summary judgment, while granting in part the plaintiffs' motion. The Court denied the defendant's motion because they had not shown that the discretionary function exception barred the plaintiffs\u2019 claims. With regard to the plaintiffs' negligence claim, the Court concluded that the United States owed the plaintiffs a duty of care, but determined that issues of material fact existed as to whether the United States breached its duty. The Court denied the plaintiffs' IIED claim. 2023 WL 7102132.\n\nFollowing a scheduling conference, a bench trial was set for April 23, 2024. However, on April 10, 2024, the parties filed a notice of conditional settlements with regard to all claims. That same day, the court granted the stipulation and vacated the pretrial and trial deadlines it had originally set.\n\nOn July 1, 2024, the parties moved for court approval over the settlement agreement, which the court then granted the next day. The plaintiffs received $1,353,000. The portion of the settlement for the minor plaintiffs were placed in a pooled trust.\n\nThe parties then proceeded to file status updates every 60 days with the court with regard to finalization of the settlement. Following resolution, on October 17, 2024, the plaintiff moved to dismiss the case. The court, thus, dismissed the case with prejudice on October 22, 2024.\n\nThe case is considered closed.",
+    "target_paragraph": "Following a scheduling conference, a bench trial was set for April 23, 2024. However, on April 10, 2024, the parties filed a notice of conditional settlements with regard to all claims. That same day, the court granted the stipulation and vacated the pretrial and trial deadlines it had originally set.",
+    "target_paragraph_indices": [
+      4233,
+      4535
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            4310,
+            4535
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 10, 2024: Parties filed a notice of conditional settlements regarding all claims; the court granted the stipulation and vacated pretrial and trial deadlines.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4310,
+            4535
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 10, 2024: Court granted stipulation following notice of conditional settlements and vacated pretrial and trial deadlines.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4310,
+            4535
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties filed notice of conditional settlement on April 10, 2024; court granted stipulation and vacated pretrial/trial deadlines the same day.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4310,
+            4418
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement resolved all claims.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4233,
+            4309
+          ]
+        ],
+        "annotation": {
+          "explanation": "Bench trial scheduled for April 23, 2024 (set after a scheduling conference).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4310,
+            4418
+          ],
+          [
+            4419,
+            4535
+          ]
+        ],
+        "annotation": {
+          "explanation": "Trial canceled: after notice of conditional settlement on April 10, 2024, the court vacated pretrial and trial deadlines.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "17268_p8",
+    "metadata": {
+      "case_id": "17268",
+      "paragraph_num": 8,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 1, 2024, the parties moved for court approval over the settlement agreement, which the court..."
+    },
+    "source": "",
+    "target": "On September 19, 2019, five asylum-seeking parents, on their own behalf and on behalf of their minor children, filed this lawsuit in the U.S. District Court for the District of Arizona. The plaintiffs sued the United States under the Federal Tort Claims Act (\"FTCA\"). The plaintiffs, represented by private counsel, the National Immigrant Justice Center, and the American Immigration Council, sought monetary relief and attorneys fees. The plaintiffs alleged both negligence on part of the United States government and that the government caused intentional infliction of emotional distress (\"IIED\") through its child-separation policy. The government separated the asylum-seeking parents from their children, delayed providing parents and children information of each other\u2019s whereabouts and well-being, failed to facilitate adequate communication between the parents and their children while separated, and failed to implement a system to ensure families could be reunited. The government did this deliberately, plaintiffs alleged, to deter other parents with children from seeking asylum in the United States. The case was assigned to Judge Susan Bolton.\n\nOn December 23, 2019, the United States moved to dismiss the suit for lack of jurisdiction, citing sovereign immunity not waived by the FTCA. The district court denied the United States' motion on March 30, 2020, holding (1) the family separation alleged in the suit was a persuasive analogy to private conduct such that plaintiffs had established subject-matter jurisdiction under the FTCA and (2) neither the due care nor the discretionary function exception to the FTCA applied because the United States was not enforcing federal law when it separated plaintiffs and their children. 2020 WL 1698191. The United States moved for leave to appeal the district court's order on May 29, 2020, which was denied by the Judge Bolton on July 6, 2020 because the United States failed to present exceptional circumstances such that interlocutory review would be appropriate. 2020 WL 5232560.\n\nThe United States filed its answer to the complaint on May 13, 2020 and the parties commenced discovery in July 2020. The parties filed numerous joint motions to stay proceedings while they explored a possible settlement. During this time, the 2020 presidential election resulted in a transfer of power from the Trump Administration to the Biden Administration.\n\nProceedings remained stayed until January 27, 2022 when the Court scheduled a status conference. Following the status conference, discovery continued through 2022. In January 2023, the plaintiffs filed a motion for sanctions seeking evidentiary sanctions against the defendants for the production of documents after the close of discovery.\n\nThe United States filed a motion for summary judgment and submitted a statement of facts on March 9, 2023. The defendant denounced the challenged separation of families procedures as the policy decisions made by the Department of Homeland Security and Department of Justice during the former Trump Administration. Nonetheless, the defendant contended that the FTCA does not permit recovery in tort for harms asserted to arise from policy decisions (the so-called discretionary function exception). The plaintiffs also filed a motion for partial summary judgment on March 9 specifically with regard to their IIED and negligence claims.\n\nOn August 15, 2023, the District Court granted in part and denied in part the plaintiffs' motion for sanctions. The Court granted for the admission of the certain documents and handwritten notes if offered by the plaintiffs at trial and precluded the defendants from using them.\n\nOn October 24, 2023, the Court also denied the defendant's motion for summary judgment, while granting in part the plaintiffs' motion. The Court denied the defendant's motion because they had not shown that the discretionary function exception barred the plaintiffs\u2019 claims. With regard to the plaintiffs' negligence claim, the Court concluded that the United States owed the plaintiffs a duty of care, but determined that issues of material fact existed as to whether the United States breached its duty. The Court denied the plaintiffs' IIED claim. 2023 WL 7102132.\n\nFollowing a scheduling conference, a bench trial was set for April 23, 2024. However, on April 10, 2024, the parties filed a notice of conditional settlements with regard to all claims. That same day, the court granted the stipulation and vacated the pretrial and trial deadlines it had originally set.\n\nOn July 1, 2024, the parties moved for court approval over the settlement agreement, which the court then granted the next day. The plaintiffs received $1,353,000. The portion of the settlement for the minor plaintiffs were placed in a pooled trust.\n\nThe parties then proceeded to file status updates every 60 days with the court with regard to finalization of the settlement. Following resolution, on October 17, 2024, the plaintiff moved to dismiss the case. The court, thus, dismissed the case with prejudice on October 22, 2024.\n\nThe case is considered closed.",
+    "target_paragraph": "On July 1, 2024, the parties moved for court approval over the settlement agreement, which the court then granted the next day. The plaintiffs received $1,353,000. The portion of the settlement for the minor plaintiffs were placed in a pooled trust.",
+    "target_paragraph_indices": [
+      4537,
+      4786
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            4537,
+            4786
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 2, 2024: Court approved the settlement agreement; plaintiffs received $1,353,000, with the minors\u2019 portion placed in a pooled trust.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            4537,
+            4664
+          ]
+        ],
+        "annotation": {
+          "explanation": "[Yes].",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4537,
+            4664
+          ]
+        ],
+        "annotation": {
+          "explanation": "the next day: Court granted the parties' motion for approval of the settlement agreement.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4537,
+            4786
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties moved for court approval of settlement on July 1, 2024; approved July 2, 2024 (settlement amount $1,353,000; minors\u2019 shares placed in a pooled trust).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4537,
+            4786
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant agreed to pay $1,353,000 to plaintiffs under the approved settlement, with the minor plaintiffs\u2019 portions placed in a pooled trust.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4537,
+            4664
+          ],
+          [
+            4665,
+            4700
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court-approved settlement with payment of $1,353,000 to plaintiffs.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4701,
+            4786
+          ]
+        ],
+        "annotation": {
+          "explanation": "Minor plaintiffs\u2019 settlement shares placed in a pooled trust.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4537,
+            4786
+          ],
+          [
+            4914,
+            5069
+          ],
+          [
+            5071,
+            5101
+          ]
+        ],
+        "annotation": {
+          "explanation": "Outcome: case resolved by settlement (approved July 2, 2024; $1,353,000 total; minors\u2019 shares placed in pooled trust), and later dismissed with prejudice on Oct 22, 2024; no trial was held.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            8,
+            9,
+            10
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4537,
+            4786
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for court approval of settlement granted on July 2, 2024; $1,353,000 approved with minors\u2019 portions placed in a pooled trust.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "17268_p9",
+    "metadata": {
+      "case_id": "17268",
+      "paragraph_num": 9,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The parties then proceeded to file status updates every 60 days with the court with regard to finali..."
+    },
+    "source": "",
+    "target": "On September 19, 2019, five asylum-seeking parents, on their own behalf and on behalf of their minor children, filed this lawsuit in the U.S. District Court for the District of Arizona. The plaintiffs sued the United States under the Federal Tort Claims Act (\"FTCA\"). The plaintiffs, represented by private counsel, the National Immigrant Justice Center, and the American Immigration Council, sought monetary relief and attorneys fees. The plaintiffs alleged both negligence on part of the United States government and that the government caused intentional infliction of emotional distress (\"IIED\") through its child-separation policy. The government separated the asylum-seeking parents from their children, delayed providing parents and children information of each other\u2019s whereabouts and well-being, failed to facilitate adequate communication between the parents and their children while separated, and failed to implement a system to ensure families could be reunited. The government did this deliberately, plaintiffs alleged, to deter other parents with children from seeking asylum in the United States. The case was assigned to Judge Susan Bolton.\n\nOn December 23, 2019, the United States moved to dismiss the suit for lack of jurisdiction, citing sovereign immunity not waived by the FTCA. The district court denied the United States' motion on March 30, 2020, holding (1) the family separation alleged in the suit was a persuasive analogy to private conduct such that plaintiffs had established subject-matter jurisdiction under the FTCA and (2) neither the due care nor the discretionary function exception to the FTCA applied because the United States was not enforcing federal law when it separated plaintiffs and their children. 2020 WL 1698191. The United States moved for leave to appeal the district court's order on May 29, 2020, which was denied by the Judge Bolton on July 6, 2020 because the United States failed to present exceptional circumstances such that interlocutory review would be appropriate. 2020 WL 5232560.\n\nThe United States filed its answer to the complaint on May 13, 2020 and the parties commenced discovery in July 2020. The parties filed numerous joint motions to stay proceedings while they explored a possible settlement. During this time, the 2020 presidential election resulted in a transfer of power from the Trump Administration to the Biden Administration.\n\nProceedings remained stayed until January 27, 2022 when the Court scheduled a status conference. Following the status conference, discovery continued through 2022. In January 2023, the plaintiffs filed a motion for sanctions seeking evidentiary sanctions against the defendants for the production of documents after the close of discovery.\n\nThe United States filed a motion for summary judgment and submitted a statement of facts on March 9, 2023. The defendant denounced the challenged separation of families procedures as the policy decisions made by the Department of Homeland Security and Department of Justice during the former Trump Administration. Nonetheless, the defendant contended that the FTCA does not permit recovery in tort for harms asserted to arise from policy decisions (the so-called discretionary function exception). The plaintiffs also filed a motion for partial summary judgment on March 9 specifically with regard to their IIED and negligence claims.\n\nOn August 15, 2023, the District Court granted in part and denied in part the plaintiffs' motion for sanctions. The Court granted for the admission of the certain documents and handwritten notes if offered by the plaintiffs at trial and precluded the defendants from using them.\n\nOn October 24, 2023, the Court also denied the defendant's motion for summary judgment, while granting in part the plaintiffs' motion. The Court denied the defendant's motion because they had not shown that the discretionary function exception barred the plaintiffs\u2019 claims. With regard to the plaintiffs' negligence claim, the Court concluded that the United States owed the plaintiffs a duty of care, but determined that issues of material fact existed as to whether the United States breached its duty. The Court denied the plaintiffs' IIED claim. 2023 WL 7102132.\n\nFollowing a scheduling conference, a bench trial was set for April 23, 2024. However, on April 10, 2024, the parties filed a notice of conditional settlements with regard to all claims. That same day, the court granted the stipulation and vacated the pretrial and trial deadlines it had originally set.\n\nOn July 1, 2024, the parties moved for court approval over the settlement agreement, which the court then granted the next day. The plaintiffs received $1,353,000. The portion of the settlement for the minor plaintiffs were placed in a pooled trust.\n\nThe parties then proceeded to file status updates every 60 days with the court with regard to finalization of the settlement. Following resolution, on October 17, 2024, the plaintiff moved to dismiss the case. The court, thus, dismissed the case with prejudice on October 22, 2024.\n\nThe case is considered closed.",
+    "target_paragraph": "The parties then proceeded to file status updates every 60 days with the court with regard to finalization of the settlement. Following resolution, on October 17, 2024, the plaintiff moved to dismiss the case. The court, thus, dismissed the case with prejudice on October 22, 2024.",
+    "target_paragraph_indices": [
+      4788,
+      5069
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4788,
+            4913
+          ]
+        ],
+        "annotation": {
+          "explanation": "every 60 days: status updates to the court regarding settlement finalization",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4914,
+            5069
+          ]
+        ],
+        "annotation": {
+          "explanation": "October 22, 2024: Court dismissed the case with prejudice.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4914,
+            5069
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff moved to dismiss on October 17, 2024; case dismissed with prejudice on October 22, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4998,
+            5069
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case dismissed with prejudice following settlement.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4788,
+            4913
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties filed 60-day status updates to the court regarding settlement finalization.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4914,
+            5069
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff\u2019s motion to dismiss granted; case dismissed with prejudice on October 22, 2024.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "17268_p10",
+    "metadata": {
+      "case_id": "17268",
+      "paragraph_num": 10,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case is considered closed."
+    },
+    "source": "",
+    "target": "On September 19, 2019, five asylum-seeking parents, on their own behalf and on behalf of their minor children, filed this lawsuit in the U.S. District Court for the District of Arizona. The plaintiffs sued the United States under the Federal Tort Claims Act (\"FTCA\"). The plaintiffs, represented by private counsel, the National Immigrant Justice Center, and the American Immigration Council, sought monetary relief and attorneys fees. The plaintiffs alleged both negligence on part of the United States government and that the government caused intentional infliction of emotional distress (\"IIED\") through its child-separation policy. The government separated the asylum-seeking parents from their children, delayed providing parents and children information of each other\u2019s whereabouts and well-being, failed to facilitate adequate communication between the parents and their children while separated, and failed to implement a system to ensure families could be reunited. The government did this deliberately, plaintiffs alleged, to deter other parents with children from seeking asylum in the United States. The case was assigned to Judge Susan Bolton.\n\nOn December 23, 2019, the United States moved to dismiss the suit for lack of jurisdiction, citing sovereign immunity not waived by the FTCA. The district court denied the United States' motion on March 30, 2020, holding (1) the family separation alleged in the suit was a persuasive analogy to private conduct such that plaintiffs had established subject-matter jurisdiction under the FTCA and (2) neither the due care nor the discretionary function exception to the FTCA applied because the United States was not enforcing federal law when it separated plaintiffs and their children. 2020 WL 1698191. The United States moved for leave to appeal the district court's order on May 29, 2020, which was denied by the Judge Bolton on July 6, 2020 because the United States failed to present exceptional circumstances such that interlocutory review would be appropriate. 2020 WL 5232560.\n\nThe United States filed its answer to the complaint on May 13, 2020 and the parties commenced discovery in July 2020. The parties filed numerous joint motions to stay proceedings while they explored a possible settlement. During this time, the 2020 presidential election resulted in a transfer of power from the Trump Administration to the Biden Administration.\n\nProceedings remained stayed until January 27, 2022 when the Court scheduled a status conference. Following the status conference, discovery continued through 2022. In January 2023, the plaintiffs filed a motion for sanctions seeking evidentiary sanctions against the defendants for the production of documents after the close of discovery.\n\nThe United States filed a motion for summary judgment and submitted a statement of facts on March 9, 2023. The defendant denounced the challenged separation of families procedures as the policy decisions made by the Department of Homeland Security and Department of Justice during the former Trump Administration. Nonetheless, the defendant contended that the FTCA does not permit recovery in tort for harms asserted to arise from policy decisions (the so-called discretionary function exception). The plaintiffs also filed a motion for partial summary judgment on March 9 specifically with regard to their IIED and negligence claims.\n\nOn August 15, 2023, the District Court granted in part and denied in part the plaintiffs' motion for sanctions. The Court granted for the admission of the certain documents and handwritten notes if offered by the plaintiffs at trial and precluded the defendants from using them.\n\nOn October 24, 2023, the Court also denied the defendant's motion for summary judgment, while granting in part the plaintiffs' motion. The Court denied the defendant's motion because they had not shown that the discretionary function exception barred the plaintiffs\u2019 claims. With regard to the plaintiffs' negligence claim, the Court concluded that the United States owed the plaintiffs a duty of care, but determined that issues of material fact existed as to whether the United States breached its duty. The Court denied the plaintiffs' IIED claim. 2023 WL 7102132.\n\nFollowing a scheduling conference, a bench trial was set for April 23, 2024. However, on April 10, 2024, the parties filed a notice of conditional settlements with regard to all claims. That same day, the court granted the stipulation and vacated the pretrial and trial deadlines it had originally set.\n\nOn July 1, 2024, the parties moved for court approval over the settlement agreement, which the court then granted the next day. The plaintiffs received $1,353,000. The portion of the settlement for the minor plaintiffs were placed in a pooled trust.\n\nThe parties then proceeded to file status updates every 60 days with the court with regard to finalization of the settlement. Following resolution, on October 17, 2024, the plaintiff moved to dismiss the case. The court, thus, dismissed the case with prejudice on October 22, 2024.\n\nThe case is considered closed.",
+    "target_paragraph": "The case is considered closed.",
+    "target_paragraph_indices": [
+      5071,
+      5101
+    ],
+    "edits": []
+  }
+]

@@ -1,0 +1,909 @@
+[
+  {
+    "id": "46239_p0",
+    "metadata": {
+      "case_id": "46239",
+      "paragraph_num": 0,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged Trump\u2019s Executive Orders 14151 and 14173, which cut government funding for \u201cequ..."
+    },
+    "source": "",
+    "target": "This case challenged Trump\u2019s Executive Orders 14151 and 14173, which cut government funding for \u201cequity-related\u201d programs. On March 17, 2025, Erie County, New York, filed a lawsuit in the United States District Court for the District of Columbia against the Corporation for National and Community Service (commonly known as AmeriCorps) and its interim agency head. The case was assigned to Judge James Emanuel Boasberg. Erie County sought declaratory and injunctive relief, claiming that AmeriCorps\u2019 actions violated the Administrative Procedure Act and the Spending Clause of the U.S. Constitution.\n\nThe dispute arose after Erie County applied for and was awarded a three-year Retired and Senior Volunteer Program (RSVP) grant from AmeriCorps in October 2023. The grant, which supports volunteer services such as the Meals on Wheels program, was approved in January 2024. However, after the issuance of Executive Order 14151 on January 20, 2025\u2014titled \u201cEnding Radical Government DEI Programs and Preferencing\u201d\u2014AmeriCorps began reviewing grant recipients for compliance with the order\u2019s mandate to eliminate \u201cequity-related\u201d programs. The following day, President Trump issued Executive Order 14173, requiring federal grant recipients to certify that they did not operate programs promoting Diversity, Equity, and Inclusion (DEI) that violated federal antidiscrimination laws. AmeriCorps subsequently demanded that Erie County either amend its grant application, certify its compliance with all administration executive orders, or relinquish the award.\n\nIn February 2025, Erie County received multiple communications from AmeriCorps stating that noncompliance with the executive orders could result in grant termination. In response, the county pointed to a temporary injunction against Executive Order 14151 issued by the U.S. District Court for the District of Maryland.\u00a0See\u00a0National Association of Diversity Officers in Higher Education v. Trump [../../../../case/46024/].\u00a0AmeriCorps initially paused enforcement but continued to impose additional conditions on grant applications.\n\nIn its complaint, Erie County claimed that AmeriCorps\u2019 enforcement of the executive orders was arbitrary, capricious, and exceeded its lawful authority under the Administrative Procedure Act. The county also alleged that the vague and undefined requirements of the orders violated the Spending Clause by coercing local governments into compliance with federal conditions that lacked a clear legal basis. Erie County argued that AmeriCorps\u2019 demands were unlawful, as its regulations had long required applicants to promote community diversity in their programs. The county refused to certify that its RSVP program did not promote DEI, noting that it had operated in full compliance with AmeriCorps regulations. The lawsuit sought a court order enjoining AmeriCorps from imposing additional grant requirements beyond those established by law and from enforcing Executive Orders 14151 and 14173 against the county.\n\nOn March 21, 2025, the plaintiffs filed a motion for a preliminary injunction. They asked the Court to require the \"Defendants to determine Plaintiff is in compliance with all relevant grant requirements for existing RSVP grants, and to disburse immediately any funds to which it is entitled, without Plaintiff needing to certify that \u201cRSVP of Erie County, 24SR260017 complies with all administration Executive Orders and does not include any activities that promote DEI activities,\u201d or make any other substantially similar certification referencing compliance with executive orders and promotion of DEI activities.\" The defendants filed their motion in opposition to the preliminary injunction on April 4, 2025, arguing the \"Plaintiff ha[d] not demonstrated that it is at imminent risk of irreparable harm, that it is likely to succeed on the merits, or that the balance of the equities is in its favor.\"\n\nOn April 14, plaintiffs filed a voluntary motion to dismiss the case without prejudice, which the judge granted. They decided to do so after the defendants changed their certification requirement.\u00a0 According to the Erie County website, AmeriCorps withdrew its requirement that the county must certify compliance with Executive Orders 14151 and 14173 or certify that its grants did not \"include any activities that promote DEI activities\u201d (See Erie County Dismisses Lawsuit against Americorps [https://www4.erie.gov/exec/press/erie-county-dismisses-lawsuit-against-americorps-after-agency-agrees-erie-county-can-conduct]). AmeriCorps agreed to issue a grant to Plaintiff using the pre-Trump administration certification.\n\nThis case is closed.",
+    "target_paragraph": "This case challenged Trump\u2019s Executive Orders 14151 and 14173, which cut government funding for \u201cequity-related\u201d programs. On March 17, 2025, Erie County, New York, filed a lawsuit in the United States District Court for the District of Columbia against the Corporation for National and Community Service (commonly known as AmeriCorps) and its interim agency head. The case was assigned to Judge James Emanuel Boasberg. Erie County sought declaratory and injunctive relief, claiming that AmeriCorps\u2019 actions violated the Administrative Procedure Act and the Spending Clause of the U.S. Constitution.",
+    "target_paragraph_indices": [
+      0,
+      599
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            123,
+            364
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 17, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            420,
+            599
+          ],
+          [
+            2086,
+            2277
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) cause of action: arbitrary and capricious action and exceeding lawful authority.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            420,
+            599
+          ],
+          [
+            2278,
+            2489
+          ]
+        ],
+        "annotation": {
+          "explanation": "Spending Clause (U.S. Constitution) cause of action: unconstitutional conditions/coercion based on vague, undefined requirements.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            420,
+            549
+          ],
+          [
+            2104,
+            2277
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            420,
+            599
+          ],
+          [
+            2278,
+            2489
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Constitution \u2014 Spending Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            420,
+            599
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief (in connection with alleged APA and Spending Clause violations).",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            365,
+            419
+          ]
+        ],
+        "annotation": {
+          "explanation": "James Emanuel Boasberg",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            123,
+            364
+          ],
+          [
+            4528,
+            4625
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as Erie County, New York",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            5
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            123,
+            364
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Erie County, New York",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            123,
+            364
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Corporation for National and Community Service (commonly known as AmeriCorps)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            123,
+            364
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Interim agency head of the Corporation for National and Community Service (AmeriCorps)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            122
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves a challenge to Executive Orders 14151 and 14173, which cut funding for equity-related programs, forming the core factual context for the dispute.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            123,
+            364
+          ],
+          [
+            365,
+            419
+          ],
+          [
+            420,
+            599
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing details: On March 17, 2025, Erie County sued AmeriCorps and its interim head in the U.S. District Court for D.C., before Judge James Emanuel Boasberg, seeking declaratory and injunctive relief under the APA and the Spending Clause.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            123,
+            419
+          ],
+          [
+            420,
+            599
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed March 17, 2025 by Erie County in D.D.C. (Judge James E. Boasberg) seeking declaratory and injunctive relief under the APA and Spending Clause.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            123,
+            364
+          ],
+          [
+            365,
+            419
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed March 17, 2025 in the U.S. District Court for the District of Columbia; assigned to Judge James Emanuel Boasberg.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": "46239_p1",
+    "metadata": {
+      "case_id": "46239",
+      "paragraph_num": 1,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The dispute arose after Erie County applied for and was awarded a three-year Retired and Senior Volu..."
+    },
+    "source": "",
+    "target": "This case challenged Trump\u2019s Executive Orders 14151 and 14173, which cut government funding for \u201cequity-related\u201d programs. On March 17, 2025, Erie County, New York, filed a lawsuit in the United States District Court for the District of Columbia against the Corporation for National and Community Service (commonly known as AmeriCorps) and its interim agency head. The case was assigned to Judge James Emanuel Boasberg. Erie County sought declaratory and injunctive relief, claiming that AmeriCorps\u2019 actions violated the Administrative Procedure Act and the Spending Clause of the U.S. Constitution.\n\nThe dispute arose after Erie County applied for and was awarded a three-year Retired and Senior Volunteer Program (RSVP) grant from AmeriCorps in October 2023. The grant, which supports volunteer services such as the Meals on Wheels program, was approved in January 2024. However, after the issuance of Executive Order 14151 on January 20, 2025\u2014titled \u201cEnding Radical Government DEI Programs and Preferencing\u201d\u2014AmeriCorps began reviewing grant recipients for compliance with the order\u2019s mandate to eliminate \u201cequity-related\u201d programs. The following day, President Trump issued Executive Order 14173, requiring federal grant recipients to certify that they did not operate programs promoting Diversity, Equity, and Inclusion (DEI) that violated federal antidiscrimination laws. AmeriCorps subsequently demanded that Erie County either amend its grant application, certify its compliance with all administration executive orders, or relinquish the award.\n\nIn February 2025, Erie County received multiple communications from AmeriCorps stating that noncompliance with the executive orders could result in grant termination. In response, the county pointed to a temporary injunction against Executive Order 14151 issued by the U.S. District Court for the District of Maryland.\u00a0See\u00a0National Association of Diversity Officers in Higher Education v. Trump [../../../../case/46024/].\u00a0AmeriCorps initially paused enforcement but continued to impose additional conditions on grant applications.\n\nIn its complaint, Erie County claimed that AmeriCorps\u2019 enforcement of the executive orders was arbitrary, capricious, and exceeded its lawful authority under the Administrative Procedure Act. The county also alleged that the vague and undefined requirements of the orders violated the Spending Clause by coercing local governments into compliance with federal conditions that lacked a clear legal basis. Erie County argued that AmeriCorps\u2019 demands were unlawful, as its regulations had long required applicants to promote community diversity in their programs. The county refused to certify that its RSVP program did not promote DEI, noting that it had operated in full compliance with AmeriCorps regulations. The lawsuit sought a court order enjoining AmeriCorps from imposing additional grant requirements beyond those established by law and from enforcing Executive Orders 14151 and 14173 against the county.\n\nOn March 21, 2025, the plaintiffs filed a motion for a preliminary injunction. They asked the Court to require the \"Defendants to determine Plaintiff is in compliance with all relevant grant requirements for existing RSVP grants, and to disburse immediately any funds to which it is entitled, without Plaintiff needing to certify that \u201cRSVP of Erie County, 24SR260017 complies with all administration Executive Orders and does not include any activities that promote DEI activities,\u201d or make any other substantially similar certification referencing compliance with executive orders and promotion of DEI activities.\" The defendants filed their motion in opposition to the preliminary injunction on April 4, 2025, arguing the \"Plaintiff ha[d] not demonstrated that it is at imminent risk of irreparable harm, that it is likely to succeed on the merits, or that the balance of the equities is in its favor.\"\n\nOn April 14, plaintiffs filed a voluntary motion to dismiss the case without prejudice, which the judge granted. They decided to do so after the defendants changed their certification requirement.\u00a0 According to the Erie County website, AmeriCorps withdrew its requirement that the county must certify compliance with Executive Orders 14151 and 14173 or certify that its grants did not \"include any activities that promote DEI activities\u201d (See Erie County Dismisses Lawsuit against Americorps [https://www4.erie.gov/exec/press/erie-county-dismisses-lawsuit-against-americorps-after-agency-agrees-erie-county-can-conduct]). AmeriCorps agreed to issue a grant to Plaintiff using the pre-Trump administration certification.\n\nThis case is closed.",
+    "target_paragraph": "The dispute arose after Erie County applied for and was awarded a three-year Retired and Senior Volunteer Program (RSVP) grant from AmeriCorps in October 2023. The grant, which supports volunteer services such as the Meals on Wheels program, was approved in January 2024. However, after the issuance of Executive Order 14151 on January 20, 2025\u2014titled \u201cEnding Radical Government DEI Programs and Preferencing\u201d\u2014AmeriCorps began reviewing grant recipients for compliance with the order\u2019s mandate to eliminate \u201cequity-related\u201d programs. The following day, President Trump issued Executive Order 14173, requiring federal grant recipients to certify that they did not operate programs promoting Diversity, Equity, and Inclusion (DEI) that violated federal antidiscrimination laws. AmeriCorps subsequently demanded that Erie County either amend its grant application, certify its compliance with all administration executive orders, or relinquish the award.",
+    "target_paragraph_indices": [
+      601,
+      1552
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            882,
+            1011
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 20, 2025: Executive Order 14151, \u201cEnding Radical Government DEI Programs and Preferencing,\u201d issued.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1135,
+            1376
+          ]
+        ],
+        "annotation": {
+          "explanation": "The following day: Executive Order 14173, requiring federal grant recipients to certify that they did not operate programs promoting Diversity, Equity, and Inclusion (DEI) that violated federal antidiscrimination laws.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            601,
+            760
+          ],
+          [
+            761,
+            872
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: Erie County applied for and was awarded a three-year RSVP grant in Oct. 2023 (approved Jan. 2024) supporting services like Meals on Wheels.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            873,
+            1134
+          ],
+          [
+            1135,
+            1376
+          ]
+        ],
+        "annotation": {
+          "explanation": "Executive actions: EO 14151 (Jan. 20, 2025) directed elimination of equity-related programs; EO 14173 (Jan. 21, 2025) required grant recipients to certify no DEI programs violating federal antidiscrimination laws.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1377,
+            1552
+          ],
+          [
+            1554,
+            1720
+          ]
+        ],
+        "annotation": {
+          "explanation": "Agency enforcement: AmeriCorps demanded Erie County amend its application, certify compliance with administration executive orders, or relinquish the grant and warned that noncompliance could result in termination.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46239_p2",
+    "metadata": {
+      "case_id": "46239",
+      "paragraph_num": 2,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In February 2025, Erie County received multiple communications from AmeriCorps stating that noncompl..."
+    },
+    "source": "",
+    "target": "This case challenged Trump\u2019s Executive Orders 14151 and 14173, which cut government funding for \u201cequity-related\u201d programs. On March 17, 2025, Erie County, New York, filed a lawsuit in the United States District Court for the District of Columbia against the Corporation for National and Community Service (commonly known as AmeriCorps) and its interim agency head. The case was assigned to Judge James Emanuel Boasberg. Erie County sought declaratory and injunctive relief, claiming that AmeriCorps\u2019 actions violated the Administrative Procedure Act and the Spending Clause of the U.S. Constitution.\n\nThe dispute arose after Erie County applied for and was awarded a three-year Retired and Senior Volunteer Program (RSVP) grant from AmeriCorps in October 2023. The grant, which supports volunteer services such as the Meals on Wheels program, was approved in January 2024. However, after the issuance of Executive Order 14151 on January 20, 2025\u2014titled \u201cEnding Radical Government DEI Programs and Preferencing\u201d\u2014AmeriCorps began reviewing grant recipients for compliance with the order\u2019s mandate to eliminate \u201cequity-related\u201d programs. The following day, President Trump issued Executive Order 14173, requiring federal grant recipients to certify that they did not operate programs promoting Diversity, Equity, and Inclusion (DEI) that violated federal antidiscrimination laws. AmeriCorps subsequently demanded that Erie County either amend its grant application, certify its compliance with all administration executive orders, or relinquish the award.\n\nIn February 2025, Erie County received multiple communications from AmeriCorps stating that noncompliance with the executive orders could result in grant termination. In response, the county pointed to a temporary injunction against Executive Order 14151 issued by the U.S. District Court for the District of Maryland.\u00a0See\u00a0National Association of Diversity Officers in Higher Education v. Trump [../../../../case/46024/].\u00a0AmeriCorps initially paused enforcement but continued to impose additional conditions on grant applications.\n\nIn its complaint, Erie County claimed that AmeriCorps\u2019 enforcement of the executive orders was arbitrary, capricious, and exceeded its lawful authority under the Administrative Procedure Act. The county also alleged that the vague and undefined requirements of the orders violated the Spending Clause by coercing local governments into compliance with federal conditions that lacked a clear legal basis. Erie County argued that AmeriCorps\u2019 demands were unlawful, as its regulations had long required applicants to promote community diversity in their programs. The county refused to certify that its RSVP program did not promote DEI, noting that it had operated in full compliance with AmeriCorps regulations. The lawsuit sought a court order enjoining AmeriCorps from imposing additional grant requirements beyond those established by law and from enforcing Executive Orders 14151 and 14173 against the county.\n\nOn March 21, 2025, the plaintiffs filed a motion for a preliminary injunction. They asked the Court to require the \"Defendants to determine Plaintiff is in compliance with all relevant grant requirements for existing RSVP grants, and to disburse immediately any funds to which it is entitled, without Plaintiff needing to certify that \u201cRSVP of Erie County, 24SR260017 complies with all administration Executive Orders and does not include any activities that promote DEI activities,\u201d or make any other substantially similar certification referencing compliance with executive orders and promotion of DEI activities.\" The defendants filed their motion in opposition to the preliminary injunction on April 4, 2025, arguing the \"Plaintiff ha[d] not demonstrated that it is at imminent risk of irreparable harm, that it is likely to succeed on the merits, or that the balance of the equities is in its favor.\"\n\nOn April 14, plaintiffs filed a voluntary motion to dismiss the case without prejudice, which the judge granted. They decided to do so after the defendants changed their certification requirement.\u00a0 According to the Erie County website, AmeriCorps withdrew its requirement that the county must certify compliance with Executive Orders 14151 and 14173 or certify that its grants did not \"include any activities that promote DEI activities\u201d (See Erie County Dismisses Lawsuit against Americorps [https://www4.erie.gov/exec/press/erie-county-dismisses-lawsuit-against-americorps-after-agency-agrees-erie-county-can-conduct]). AmeriCorps agreed to issue a grant to Plaintiff using the pre-Trump administration certification.\n\nThis case is closed.",
+    "target_paragraph": "In February 2025, Erie County received multiple communications from AmeriCorps stating that noncompliance with the executive orders could result in grant termination. In response, the county pointed to a temporary injunction against Executive Order 14151 issued by the U.S. District Court for the District of Maryland.\u00a0See\u00a0National Association of Diversity Officers in Higher Education v. Trump [../../../../case/46024/].\u00a0AmeriCorps initially paused enforcement but continued to impose additional conditions on grant applications.",
+    "target_paragraph_indices": [
+      1554,
+      2084
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            1721,
+            1872
+          ]
+        ],
+        "annotation": {
+          "explanation": "National Association of Diversity Officers in Higher Education v. Trump \u2014 case code 46024 (path: ../../../../case/46024/); referenced for a temporary injunction against Executive Order 14151 issued by the U.S. District Court for the District of Maryland.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            1756,
+            1872
+          ]
+        ],
+        "annotation": {
+          "explanation": "temporary: injunction against Executive Order 14151 issued by the U.S. District Court for the District of Maryland.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46239_p3",
+    "metadata": {
+      "case_id": "46239",
+      "paragraph_num": 3,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In its complaint, Erie County claimed that AmeriCorps\u2019 enforcement of the executive orders was arbit..."
+    },
+    "source": "",
+    "target": "This case challenged Trump\u2019s Executive Orders 14151 and 14173, which cut government funding for \u201cequity-related\u201d programs. On March 17, 2025, Erie County, New York, filed a lawsuit in the United States District Court for the District of Columbia against the Corporation for National and Community Service (commonly known as AmeriCorps) and its interim agency head. The case was assigned to Judge James Emanuel Boasberg. Erie County sought declaratory and injunctive relief, claiming that AmeriCorps\u2019 actions violated the Administrative Procedure Act and the Spending Clause of the U.S. Constitution.\n\nThe dispute arose after Erie County applied for and was awarded a three-year Retired and Senior Volunteer Program (RSVP) grant from AmeriCorps in October 2023. The grant, which supports volunteer services such as the Meals on Wheels program, was approved in January 2024. However, after the issuance of Executive Order 14151 on January 20, 2025\u2014titled \u201cEnding Radical Government DEI Programs and Preferencing\u201d\u2014AmeriCorps began reviewing grant recipients for compliance with the order\u2019s mandate to eliminate \u201cequity-related\u201d programs. The following day, President Trump issued Executive Order 14173, requiring federal grant recipients to certify that they did not operate programs promoting Diversity, Equity, and Inclusion (DEI) that violated federal antidiscrimination laws. AmeriCorps subsequently demanded that Erie County either amend its grant application, certify its compliance with all administration executive orders, or relinquish the award.\n\nIn February 2025, Erie County received multiple communications from AmeriCorps stating that noncompliance with the executive orders could result in grant termination. In response, the county pointed to a temporary injunction against Executive Order 14151 issued by the U.S. District Court for the District of Maryland.\u00a0See\u00a0National Association of Diversity Officers in Higher Education v. Trump [../../../../case/46024/].\u00a0AmeriCorps initially paused enforcement but continued to impose additional conditions on grant applications.\n\nIn its complaint, Erie County claimed that AmeriCorps\u2019 enforcement of the executive orders was arbitrary, capricious, and exceeded its lawful authority under the Administrative Procedure Act. The county also alleged that the vague and undefined requirements of the orders violated the Spending Clause by coercing local governments into compliance with federal conditions that lacked a clear legal basis. Erie County argued that AmeriCorps\u2019 demands were unlawful, as its regulations had long required applicants to promote community diversity in their programs. The county refused to certify that its RSVP program did not promote DEI, noting that it had operated in full compliance with AmeriCorps regulations. The lawsuit sought a court order enjoining AmeriCorps from imposing additional grant requirements beyond those established by law and from enforcing Executive Orders 14151 and 14173 against the county.\n\nOn March 21, 2025, the plaintiffs filed a motion for a preliminary injunction. They asked the Court to require the \"Defendants to determine Plaintiff is in compliance with all relevant grant requirements for existing RSVP grants, and to disburse immediately any funds to which it is entitled, without Plaintiff needing to certify that \u201cRSVP of Erie County, 24SR260017 complies with all administration Executive Orders and does not include any activities that promote DEI activities,\u201d or make any other substantially similar certification referencing compliance with executive orders and promotion of DEI activities.\" The defendants filed their motion in opposition to the preliminary injunction on April 4, 2025, arguing the \"Plaintiff ha[d] not demonstrated that it is at imminent risk of irreparable harm, that it is likely to succeed on the merits, or that the balance of the equities is in its favor.\"\n\nOn April 14, plaintiffs filed a voluntary motion to dismiss the case without prejudice, which the judge granted. They decided to do so after the defendants changed their certification requirement.\u00a0 According to the Erie County website, AmeriCorps withdrew its requirement that the county must certify compliance with Executive Orders 14151 and 14173 or certify that its grants did not \"include any activities that promote DEI activities\u201d (See Erie County Dismisses Lawsuit against Americorps [https://www4.erie.gov/exec/press/erie-county-dismisses-lawsuit-against-americorps-after-agency-agrees-erie-county-can-conduct]). AmeriCorps agreed to issue a grant to Plaintiff using the pre-Trump administration certification.\n\nThis case is closed.",
+    "target_paragraph": "In its complaint, Erie County claimed that AmeriCorps\u2019 enforcement of the executive orders was arbitrary, capricious, and exceeded its lawful authority under the Administrative Procedure Act. The county also alleged that the vague and undefined requirements of the orders violated the Spending Clause by coercing local governments into compliance with federal conditions that lacked a clear legal basis. Erie County argued that AmeriCorps\u2019 demands were unlawful, as its regulations had long required applicants to promote community diversity in their programs. The county refused to certify that its RSVP program did not promote DEI, noting that it had operated in full compliance with AmeriCorps regulations. The lawsuit sought a court order enjoining AmeriCorps from imposing additional grant requirements beyond those established by law and from enforcing Executive Orders 14151 and 14173 against the county.",
+    "target_paragraph_indices": [
+      2086,
+      2997
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2796,
+            2997
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief to enjoin AmeriCorps from imposing additional grant requirements beyond those established by law and from enforcing Executive Orders 14151 and 14173 against Erie County.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2086,
+            2277
+          ],
+          [
+            2278,
+            2489
+          ],
+          [
+            2490,
+            2646
+          ],
+          [
+            2647,
+            2795
+          ],
+          [
+            2796,
+            2997
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff\u2019s factual and legal basis: Erie County alleged AmeriCorps\u2019 enforcement was arbitrary/capricious and ultra vires under the APA and violated the Spending Clause; it refused to certify that its RSVP program did not promote DEI, asserting compliance with longstanding AmeriCorps regulations and seeking to enjoin added requirements and enforcement of EOs 14151/14173.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46239_p4",
+    "metadata": {
+      "case_id": "46239",
+      "paragraph_num": 4,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 21, 2025, the plaintiffs filed a motion for a preliminary injunction. They asked the Court ..."
+    },
+    "source": "",
+    "target": "This case challenged Trump\u2019s Executive Orders 14151 and 14173, which cut government funding for \u201cequity-related\u201d programs. On March 17, 2025, Erie County, New York, filed a lawsuit in the United States District Court for the District of Columbia against the Corporation for National and Community Service (commonly known as AmeriCorps) and its interim agency head. The case was assigned to Judge James Emanuel Boasberg. Erie County sought declaratory and injunctive relief, claiming that AmeriCorps\u2019 actions violated the Administrative Procedure Act and the Spending Clause of the U.S. Constitution.\n\nThe dispute arose after Erie County applied for and was awarded a three-year Retired and Senior Volunteer Program (RSVP) grant from AmeriCorps in October 2023. The grant, which supports volunteer services such as the Meals on Wheels program, was approved in January 2024. However, after the issuance of Executive Order 14151 on January 20, 2025\u2014titled \u201cEnding Radical Government DEI Programs and Preferencing\u201d\u2014AmeriCorps began reviewing grant recipients for compliance with the order\u2019s mandate to eliminate \u201cequity-related\u201d programs. The following day, President Trump issued Executive Order 14173, requiring federal grant recipients to certify that they did not operate programs promoting Diversity, Equity, and Inclusion (DEI) that violated federal antidiscrimination laws. AmeriCorps subsequently demanded that Erie County either amend its grant application, certify its compliance with all administration executive orders, or relinquish the award.\n\nIn February 2025, Erie County received multiple communications from AmeriCorps stating that noncompliance with the executive orders could result in grant termination. In response, the county pointed to a temporary injunction against Executive Order 14151 issued by the U.S. District Court for the District of Maryland.\u00a0See\u00a0National Association of Diversity Officers in Higher Education v. Trump [../../../../case/46024/].\u00a0AmeriCorps initially paused enforcement but continued to impose additional conditions on grant applications.\n\nIn its complaint, Erie County claimed that AmeriCorps\u2019 enforcement of the executive orders was arbitrary, capricious, and exceeded its lawful authority under the Administrative Procedure Act. The county also alleged that the vague and undefined requirements of the orders violated the Spending Clause by coercing local governments into compliance with federal conditions that lacked a clear legal basis. Erie County argued that AmeriCorps\u2019 demands were unlawful, as its regulations had long required applicants to promote community diversity in their programs. The county refused to certify that its RSVP program did not promote DEI, noting that it had operated in full compliance with AmeriCorps regulations. The lawsuit sought a court order enjoining AmeriCorps from imposing additional grant requirements beyond those established by law and from enforcing Executive Orders 14151 and 14173 against the county.\n\nOn March 21, 2025, the plaintiffs filed a motion for a preliminary injunction. They asked the Court to require the \"Defendants to determine Plaintiff is in compliance with all relevant grant requirements for existing RSVP grants, and to disburse immediately any funds to which it is entitled, without Plaintiff needing to certify that \u201cRSVP of Erie County, 24SR260017 complies with all administration Executive Orders and does not include any activities that promote DEI activities,\u201d or make any other substantially similar certification referencing compliance with executive orders and promotion of DEI activities.\" The defendants filed their motion in opposition to the preliminary injunction on April 4, 2025, arguing the \"Plaintiff ha[d] not demonstrated that it is at imminent risk of irreparable harm, that it is likely to succeed on the merits, or that the balance of the equities is in its favor.\"\n\nOn April 14, plaintiffs filed a voluntary motion to dismiss the case without prejudice, which the judge granted. They decided to do so after the defendants changed their certification requirement.\u00a0 According to the Erie County website, AmeriCorps withdrew its requirement that the county must certify compliance with Executive Orders 14151 and 14173 or certify that its grants did not \"include any activities that promote DEI activities\u201d (See Erie County Dismisses Lawsuit against Americorps [https://www4.erie.gov/exec/press/erie-county-dismisses-lawsuit-against-americorps-after-agency-agrees-erie-county-can-conduct]). AmeriCorps agreed to issue a grant to Plaintiff using the pre-Trump administration certification.\n\nThis case is closed.",
+    "target_paragraph": "On March 21, 2025, the plaintiffs filed a motion for a preliminary injunction. They asked the Court to require the \"Defendants to determine Plaintiff is in compliance with all relevant grant requirements for existing RSVP grants, and to disburse immediately any funds to which it is entitled, without Plaintiff needing to certify that \u201cRSVP of Erie County, 24SR260017 complies with all administration Executive Orders and does not include any activities that promote DEI activities,\u201d or make any other substantially similar certification referencing compliance with executive orders and promotion of DEI activities.\" The defendants filed their motion in opposition to the preliminary injunction on April 4, 2025, arguing the \"Plaintiff ha[d] not demonstrated that it is at imminent risk of irreparable harm, that it is likely to succeed on the merits, or that the balance of the equities is in its favor.\"",
+    "target_paragraph_indices": [
+      2999,
+      3904
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2999,
+            3077
+          ],
+          [
+            3078,
+            3615
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction requiring AmeriCorps to deem Plaintiff in compliance with RSVP grant requirements and to immediately disburse owed funds without requiring certifications of compliance with executive orders or non-promotion of DEI.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2999,
+            3077
+          ],
+          [
+            3078,
+            3615
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought (preliminary injunction): Plaintiffs requested immediate disbursement of RSVP funds without any certification of compliance with administration executive orders or statements disclaiming DEI activities.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3616,
+            3904
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 position: Opposed preliminary injunction, asserting lack of irreparable harm, low likelihood of success, and unfavorable equities.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2999,
+            3077
+          ],
+          [
+            3078,
+            3615
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for preliminary injunction filed March 21, 2025, seeking an order compelling disbursement of funds and a determination of compliance without requiring executive-order/DEI certifications.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3616,
+            3904
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 opposition to the preliminary injunction filed April 4, 2025, arguing no irreparable harm, no likelihood of success, and equities not favoring plaintiff.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2999,
+            3077
+          ],
+          [
+            3078,
+            3615
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs moved for a preliminary injunction on March 21, 2025, seeking an order to deem Plaintiff compliant and to disburse funds without requiring DEI/Executive Order certifications.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3616,
+            3904
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed opposition to the preliminary injunction on April 4, 2025, arguing lack of irreparable harm, low likelihood of success, and equities not favoring Plaintiff.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46239_p5",
+    "metadata": {
+      "case_id": "46239",
+      "paragraph_num": 5,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 14, plaintiffs filed a voluntary motion to dismiss the case without prejudice, which the ju..."
+    },
+    "source": "",
+    "target": "This case challenged Trump\u2019s Executive Orders 14151 and 14173, which cut government funding for \u201cequity-related\u201d programs. On March 17, 2025, Erie County, New York, filed a lawsuit in the United States District Court for the District of Columbia against the Corporation for National and Community Service (commonly known as AmeriCorps) and its interim agency head. The case was assigned to Judge James Emanuel Boasberg. Erie County sought declaratory and injunctive relief, claiming that AmeriCorps\u2019 actions violated the Administrative Procedure Act and the Spending Clause of the U.S. Constitution.\n\nThe dispute arose after Erie County applied for and was awarded a three-year Retired and Senior Volunteer Program (RSVP) grant from AmeriCorps in October 2023. The grant, which supports volunteer services such as the Meals on Wheels program, was approved in January 2024. However, after the issuance of Executive Order 14151 on January 20, 2025\u2014titled \u201cEnding Radical Government DEI Programs and Preferencing\u201d\u2014AmeriCorps began reviewing grant recipients for compliance with the order\u2019s mandate to eliminate \u201cequity-related\u201d programs. The following day, President Trump issued Executive Order 14173, requiring federal grant recipients to certify that they did not operate programs promoting Diversity, Equity, and Inclusion (DEI) that violated federal antidiscrimination laws. AmeriCorps subsequently demanded that Erie County either amend its grant application, certify its compliance with all administration executive orders, or relinquish the award.\n\nIn February 2025, Erie County received multiple communications from AmeriCorps stating that noncompliance with the executive orders could result in grant termination. In response, the county pointed to a temporary injunction against Executive Order 14151 issued by the U.S. District Court for the District of Maryland.\u00a0See\u00a0National Association of Diversity Officers in Higher Education v. Trump [../../../../case/46024/].\u00a0AmeriCorps initially paused enforcement but continued to impose additional conditions on grant applications.\n\nIn its complaint, Erie County claimed that AmeriCorps\u2019 enforcement of the executive orders was arbitrary, capricious, and exceeded its lawful authority under the Administrative Procedure Act. The county also alleged that the vague and undefined requirements of the orders violated the Spending Clause by coercing local governments into compliance with federal conditions that lacked a clear legal basis. Erie County argued that AmeriCorps\u2019 demands were unlawful, as its regulations had long required applicants to promote community diversity in their programs. The county refused to certify that its RSVP program did not promote DEI, noting that it had operated in full compliance with AmeriCorps regulations. The lawsuit sought a court order enjoining AmeriCorps from imposing additional grant requirements beyond those established by law and from enforcing Executive Orders 14151 and 14173 against the county.\n\nOn March 21, 2025, the plaintiffs filed a motion for a preliminary injunction. They asked the Court to require the \"Defendants to determine Plaintiff is in compliance with all relevant grant requirements for existing RSVP grants, and to disburse immediately any funds to which it is entitled, without Plaintiff needing to certify that \u201cRSVP of Erie County, 24SR260017 complies with all administration Executive Orders and does not include any activities that promote DEI activities,\u201d or make any other substantially similar certification referencing compliance with executive orders and promotion of DEI activities.\" The defendants filed their motion in opposition to the preliminary injunction on April 4, 2025, arguing the \"Plaintiff ha[d] not demonstrated that it is at imminent risk of irreparable harm, that it is likely to succeed on the merits, or that the balance of the equities is in its favor.\"\n\nOn April 14, plaintiffs filed a voluntary motion to dismiss the case without prejudice, which the judge granted. They decided to do so after the defendants changed their certification requirement.\u00a0 According to the Erie County website, AmeriCorps withdrew its requirement that the county must certify compliance with Executive Orders 14151 and 14173 or certify that its grants did not \"include any activities that promote DEI activities\u201d (See Erie County Dismisses Lawsuit against Americorps [https://www4.erie.gov/exec/press/erie-county-dismisses-lawsuit-against-americorps-after-agency-agrees-erie-county-can-conduct]). AmeriCorps agreed to issue a grant to Plaintiff using the pre-Trump administration certification.\n\nThis case is closed.",
+    "target_paragraph": "On April 14, plaintiffs filed a voluntary motion to dismiss the case without prejudice, which the judge granted. They decided to do so after the defendants changed their certification requirement.\u00a0 According to the Erie County website, AmeriCorps withdrew its requirement that the county must certify compliance with Executive Orders 14151 and 14173 or certify that its grants did not \"include any activities that promote DEI activities\u201d (See Erie County Dismisses Lawsuit against Americorps [https://www4.erie.gov/exec/press/erie-county-dismisses-lawsuit-against-americorps-after-agency-agrees-erie-county-can-conduct]). AmeriCorps agreed to issue a grant to Plaintiff using the pre-Trump administration certification.",
+    "target_paragraph_indices": [
+      3906,
+      4625
+    ],
+    "edits": [
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            3906,
+            4018
+          ],
+          [
+            4019,
+            4102
+          ],
+          [
+            4528,
+            4625
+          ]
+        ],
+        "annotation": {
+          "explanation": "[No].",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3906,
+            4018
+          ],
+          [
+            4019,
+            4102
+          ],
+          [
+            4104,
+            4527
+          ],
+          [
+            4528,
+            4625
+          ]
+        ],
+        "annotation": {
+          "explanation": "Resolution: Plaintiffs voluntarily dismissed without prejudice after AmeriCorps withdrew the EO-compliance/anti-DEI certification requirement and agreed to issue the grant using pre-Trump certification.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3906,
+            4018
+          ],
+          [
+            4627,
+            4647
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 voluntary motion to dismiss without prejudice filed April 14, 2025; the judge granted the motion and the case was closed.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4104,
+            4343
+          ]
+        ],
+        "annotation": {
+          "explanation": "AmeriCorps withdrew the requirement that Erie County certify compliance with Executive Orders 14151 and 14173 or certify that its grants did not include any activities that promote DEI.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4528,
+            4625
+          ]
+        ],
+        "annotation": {
+          "explanation": "AmeriCorps agreed to issue the grant to Erie County using the pre-Trump administration certification.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4104,
+            4343
+          ]
+        ],
+        "annotation": {
+          "explanation": "AmeriCorps withdrew its requirement that Erie County certify compliance with Executive Orders 14151 and 14173 or certify that its grants did not include any activities that promote DEI.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4528,
+            4625
+          ]
+        ],
+        "annotation": {
+          "explanation": "AmeriCorps agreed to issue the RSVP grant to Erie County using the pre-Trump administration certification.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3906,
+            4018
+          ],
+          [
+            4019,
+            4102
+          ],
+          [
+            4104,
+            4527
+          ],
+          [
+            4528,
+            4625
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 14, 2025, Plaintiffs moved to dismiss without prejudice; the judge granted the motion. The dismissal followed AmeriCorps withdrawing the challenged certification requirements and agreeing to issue the grant using pre-Trump certification.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3906,
+            4018
+          ],
+          [
+            4627,
+            4647
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 14, 2025: Court granted plaintiffs' voluntary motion to dismiss without prejudice (case closed).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46239_p6",
+    "metadata": {
+      "case_id": "46239",
+      "paragraph_num": 6,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is closed."
+    },
+    "source": "",
+    "target": "This case challenged Trump\u2019s Executive Orders 14151 and 14173, which cut government funding for \u201cequity-related\u201d programs. On March 17, 2025, Erie County, New York, filed a lawsuit in the United States District Court for the District of Columbia against the Corporation for National and Community Service (commonly known as AmeriCorps) and its interim agency head. The case was assigned to Judge James Emanuel Boasberg. Erie County sought declaratory and injunctive relief, claiming that AmeriCorps\u2019 actions violated the Administrative Procedure Act and the Spending Clause of the U.S. Constitution.\n\nThe dispute arose after Erie County applied for and was awarded a three-year Retired and Senior Volunteer Program (RSVP) grant from AmeriCorps in October 2023. The grant, which supports volunteer services such as the Meals on Wheels program, was approved in January 2024. However, after the issuance of Executive Order 14151 on January 20, 2025\u2014titled \u201cEnding Radical Government DEI Programs and Preferencing\u201d\u2014AmeriCorps began reviewing grant recipients for compliance with the order\u2019s mandate to eliminate \u201cequity-related\u201d programs. The following day, President Trump issued Executive Order 14173, requiring federal grant recipients to certify that they did not operate programs promoting Diversity, Equity, and Inclusion (DEI) that violated federal antidiscrimination laws. AmeriCorps subsequently demanded that Erie County either amend its grant application, certify its compliance with all administration executive orders, or relinquish the award.\n\nIn February 2025, Erie County received multiple communications from AmeriCorps stating that noncompliance with the executive orders could result in grant termination. In response, the county pointed to a temporary injunction against Executive Order 14151 issued by the U.S. District Court for the District of Maryland.\u00a0See\u00a0National Association of Diversity Officers in Higher Education v. Trump [../../../../case/46024/].\u00a0AmeriCorps initially paused enforcement but continued to impose additional conditions on grant applications.\n\nIn its complaint, Erie County claimed that AmeriCorps\u2019 enforcement of the executive orders was arbitrary, capricious, and exceeded its lawful authority under the Administrative Procedure Act. The county also alleged that the vague and undefined requirements of the orders violated the Spending Clause by coercing local governments into compliance with federal conditions that lacked a clear legal basis. Erie County argued that AmeriCorps\u2019 demands were unlawful, as its regulations had long required applicants to promote community diversity in their programs. The county refused to certify that its RSVP program did not promote DEI, noting that it had operated in full compliance with AmeriCorps regulations. The lawsuit sought a court order enjoining AmeriCorps from imposing additional grant requirements beyond those established by law and from enforcing Executive Orders 14151 and 14173 against the county.\n\nOn March 21, 2025, the plaintiffs filed a motion for a preliminary injunction. They asked the Court to require the \"Defendants to determine Plaintiff is in compliance with all relevant grant requirements for existing RSVP grants, and to disburse immediately any funds to which it is entitled, without Plaintiff needing to certify that \u201cRSVP of Erie County, 24SR260017 complies with all administration Executive Orders and does not include any activities that promote DEI activities,\u201d or make any other substantially similar certification referencing compliance with executive orders and promotion of DEI activities.\" The defendants filed their motion in opposition to the preliminary injunction on April 4, 2025, arguing the \"Plaintiff ha[d] not demonstrated that it is at imminent risk of irreparable harm, that it is likely to succeed on the merits, or that the balance of the equities is in its favor.\"\n\nOn April 14, plaintiffs filed a voluntary motion to dismiss the case without prejudice, which the judge granted. They decided to do so after the defendants changed their certification requirement.\u00a0 According to the Erie County website, AmeriCorps withdrew its requirement that the county must certify compliance with Executive Orders 14151 and 14173 or certify that its grants did not \"include any activities that promote DEI activities\u201d (See Erie County Dismisses Lawsuit against Americorps [https://www4.erie.gov/exec/press/erie-county-dismisses-lawsuit-against-americorps-after-agency-agrees-erie-county-can-conduct]). AmeriCorps agreed to issue a grant to Plaintiff using the pre-Trump administration certification.\n\nThis case is closed.",
+    "target_paragraph": "This case is closed.",
+    "target_paragraph_indices": [
+      4627,
+      4647
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4627,
+            4647
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: Closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4627,
+            4647
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: closed.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "45778_p0",
+    "metadata": {
+      "case_id": "45778",
+      "paragraph_num": 0,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On October 2, 2024, the U.S. Department of Justice (DOJ) filed this lawsuit against the Maryland Dep..."
+    },
+    "source": "",
+    "target": "On October 2, 2024, the U.S. Department of Justice (DOJ) filed this lawsuit against the Maryland Department of State Police (MDSP) in the U.S. District Court for the District of Maryland, alleging that MDSP\u2019s employment screening process violated Title VII of the Civil Rights Act of 1964 by systematically excluding Black and female applicants from hiring for the entry-level Trooper jobs. Specifically, the DOJ alleged that since at least 2017, the MDSP had engaged in a pattern or practice of unintentional discrimination through its use of a written hiring test, which had an adverse impact on Black applicants, and its use of a physical fitness test, which an adverse impact on female applicants, neither of which had been shown to be job related for the MDSP\u2019s entry-level Trooper position and consistent with business necessity.\n\nOn the same day, the parties filed a joint motion to enter a consent decree to resolve the DOJ\u2019s claims. The case was assigned to District Judge Richard D. Bennett, who approved and entered the consent decree on November 8, 2024. Under the terms of the decree, the MDSP agreed to pay $2.75M to Black and female officer candidates disqualified by the hiring tests DOJ found unlawful and to offer priority hiring opportunities to 25 previously disqualified candidates who satisfy MDSP\u2019s lawful hiring requirements. The MDSP also agreed to adopt and use, with DOJ oversight, new lawful selection devices in its hiring process in lieu of the written test and physical fitness test at issue in this case. The decree was set to be dissolved three years after the date it was entered by the court, or, if later, upon completion of the process for adopting new selection devices, the issuance of monetary award checks; and the passage of thirty days after the MDSP provides the last of the reports regarding priority hiring relief.\n\nUnder the terms of the consent decree, the MDSP agreed to prepare a work plan for the development of each new selection device, with the work plans due to the United States no later than 135 days after the parties tendered the consent decree.\n\nBefore MDSP could prepare its work plan, a change of administration occurred as Donald Trump was inaugurated as President in January 2025. Just weeks thereafter, on February 25, 2025, the DOJ filed a motion seeking to delay the fairness hearing on the consent decree in order to allow additional time to assess how Executive Order No. 14151, an \u201cExecutive Order on Ending Radical and Wasteful Government DEI Programs and Preferencing,\u201d issued January 20, 2025, and a February 5, 2025, memorandum from Attorney General Bondi to DOJ employees on \u201cEliminating Internal Discriminatory Practices\u201d may impact the provisions of the proposed consent decree. The next day, the DOJ filed a notice of voluntary dismissal, indicating the government would no longer seek relief requiring MDSP to \"prioritize candidates for police officers based in any way on race.\u201d\n\nJudge Bennett approved the government\u2019s motion to dismiss the case on March 3, 2025.",
+    "target_paragraph": "On October 2, 2024, the U.S. Department of Justice (DOJ) filed this lawsuit against the Maryland Department of State Police (MDSP) in the U.S. District Court for the District of Maryland, alleging that MDSP\u2019s employment screening process violated Title VII of the Civil Rights Act of 1964 by systematically excluding Black and female applicants from hiring for the entry-level Trooper jobs. Specifically, the DOJ alleged that since at least 2017, the MDSP had engaged in a pattern or practice of unintentional discrimination through its use of a written hiring test, which had an adverse impact on Black applicants, and its use of a physical fitness test, which an adverse impact on female applicants, neither of which had been shown to be job related for the MDSP\u2019s entry-level Trooper position and consistent with business necessity.",
+    "target_paragraph_indices": [
+      0,
+      835
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            0,
+            390
+          ]
+        ],
+        "annotation": {
+          "explanation": "October 2, 2024",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            188,
+            390
+          ],
+          [
+            391,
+            835
+          ]
+        ],
+        "annotation": {
+          "explanation": "Title VII of the Civil Rights Act of 1964 \u2014 disparate impact (pattern-or-practice of unintentional discrimination) in hiring, based on tests with adverse impact on Black and female applicants not shown to be job-related or consistent with business necessity.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            188,
+            288
+          ],
+          [
+            460,
+            835
+          ]
+        ],
+        "annotation": {
+          "explanation": "Title VII of the Civil Rights Act of 1964",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            0,
+            187
+          ],
+          [
+            2245,
+            2372
+          ],
+          [
+            2756,
+            2815
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government counsel (U.S. Department of Justice)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            186
+          ],
+          [
+            2756,
+            2958
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: U.S. Department of Justice (DOJ)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            186
+          ],
+          [
+            1067,
+            1218
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Maryland Department of State Police (MDSP)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            390
+          ]
+        ],
+        "annotation": {
+          "explanation": "DOJ filed a Title VII lawsuit on October 2, 2024 in the U.S. District Court for the District of Maryland against MDSP, alleging its employment screening excluded Black and female applicants from entry-level Trooper jobs.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            391,
+            835
+          ]
+        ],
+        "annotation": {
+          "explanation": "Since at least 2017, MDSP\u2019s written test allegedly had an adverse impact on Black applicants and its physical fitness test had an adverse impact on female applicants; DOJ asserted neither test was shown to be job-related or consistent with business necessity for entry-level Troopers.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            0,
+            187
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed by DOJ on October 2, 2024 initiating the lawsuit.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            0,
+            390
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed Oct 2, 2024 in the U.S. District Court for the District of Maryland.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            0,
+            390
+          ],
+          [
+            837,
+            941
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint motion to enter consent decree filed Oct 2, 2024.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "45778_p1",
+    "metadata": {
+      "case_id": "45778",
+      "paragraph_num": 1,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On the same day, the parties filed a joint motion to enter a consent decree to resolve the DOJ\u2019s cla..."
+    },
+    "source": "",
+    "target": "On October 2, 2024, the U.S. Department of Justice (DOJ) filed this lawsuit against the Maryland Department of State Police (MDSP) in the U.S. District Court for the District of Maryland, alleging that MDSP\u2019s employment screening process violated Title VII of the Civil Rights Act of 1964 by systematically excluding Black and female applicants from hiring for the entry-level Trooper jobs. Specifically, the DOJ alleged that since at least 2017, the MDSP had engaged in a pattern or practice of unintentional discrimination through its use of a written hiring test, which had an adverse impact on Black applicants, and its use of a physical fitness test, which an adverse impact on female applicants, neither of which had been shown to be job related for the MDSP\u2019s entry-level Trooper position and consistent with business necessity.\n\nOn the same day, the parties filed a joint motion to enter a consent decree to resolve the DOJ\u2019s claims. The case was assigned to District Judge Richard D. Bennett, who approved and entered the consent decree on November 8, 2024. Under the terms of the decree, the MDSP agreed to pay $2.75M to Black and female officer candidates disqualified by the hiring tests DOJ found unlawful and to offer priority hiring opportunities to 25 previously disqualified candidates who satisfy MDSP\u2019s lawful hiring requirements. The MDSP also agreed to adopt and use, with DOJ oversight, new lawful selection devices in its hiring process in lieu of the written test and physical fitness test at issue in this case. The decree was set to be dissolved three years after the date it was entered by the court, or, if later, upon completion of the process for adopting new selection devices, the issuance of monetary award checks; and the passage of thirty days after the MDSP provides the last of the reports regarding priority hiring relief.\n\nUnder the terms of the consent decree, the MDSP agreed to prepare a work plan for the development of each new selection device, with the work plans due to the United States no later than 135 days after the parties tendered the consent decree.\n\nBefore MDSP could prepare its work plan, a change of administration occurred as Donald Trump was inaugurated as President in January 2025. Just weeks thereafter, on February 25, 2025, the DOJ filed a motion seeking to delay the fairness hearing on the consent decree in order to allow additional time to assess how Executive Order No. 14151, an \u201cExecutive Order on Ending Radical and Wasteful Government DEI Programs and Preferencing,\u201d issued January 20, 2025, and a February 5, 2025, memorandum from Attorney General Bondi to DOJ employees on \u201cEliminating Internal Discriminatory Practices\u201d may impact the provisions of the proposed consent decree. The next day, the DOJ filed a notice of voluntary dismissal, indicating the government would no longer seek relief requiring MDSP to \"prioritize candidates for police officers based in any way on race.\u201d\n\nJudge Bennett approved the government\u2019s motion to dismiss the case on March 3, 2025.",
+    "target_paragraph": "On the same day, the parties filed a joint motion to enter a consent decree to resolve the DOJ\u2019s claims. The case was assigned to District Judge Richard D. Bennett, who approved and entered the consent decree on November 8, 2024. Under the terms of the decree, the MDSP agreed to pay $2.75M to Black and female officer candidates disqualified by the hiring tests DOJ found unlawful and to offer priority hiring opportunities to 25 previously disqualified candidates who satisfy MDSP\u2019s lawful hiring requirements. The MDSP also agreed to adopt and use, with DOJ oversight, new lawful selection devices in its hiring process in lieu of the written test and physical fitness test at issue in this case. The decree was set to be dissolved three years after the date it was entered by the court, or, if later, upon completion of the process for adopting new selection devices, the issuance of monetary award checks; and the passage of thirty days after the MDSP provides the last of the reports regarding priority hiring relief.",
+    "target_paragraph_indices": [
+      837,
+      1860
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            837,
+            941
+          ]
+        ],
+        "annotation": {
+          "explanation": "Entry of a consent decree resolving DOJ\u2019s Title VII claims.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1067,
+            1218
+          ]
+        ],
+        "annotation": {
+          "explanation": "Monetary relief: $2.75 million to Black and female candidates disqualified by the challenged tests.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1219,
+            1349
+          ]
+        ],
+        "annotation": {
+          "explanation": "Priority hiring opportunities for 25 previously disqualified candidates who meet lawful requirements.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1350,
+            1536
+          ]
+        ],
+        "annotation": {
+          "explanation": "Prospective injunctive relief: adoption and use of new, lawful selection devices with DOJ oversight, replacing the written and physical fitness tests.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            942,
+            1066
+          ],
+          [
+            2960,
+            3044
+          ]
+        ],
+        "annotation": {
+          "explanation": "Richard D. Bennett",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            1,
+            4
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            976,
+            1066
+          ],
+          [
+            1537,
+            1860
+          ]
+        ],
+        "annotation": {
+          "explanation": "[three years after entry, or, if later, upon completion of the process for adopting new selection devices, the issuance of monetary award checks, and thirty days after MDSP provides the last priority-hiring report]: consent decree entered November 8, 2024.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            837,
+            941
+          ],
+          [
+            942,
+            1066
+          ]
+        ],
+        "annotation": {
+          "explanation": "November 8, 2024: Consent decree approved and entered to resolve the DOJ\u2019s claims.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            837,
+            941
+          ],
+          [
+            942,
+            1066
+          ],
+          [
+            1537,
+            1860
+          ]
+        ],
+        "annotation": {
+          "explanation": "Three years after entry by the court, or, if later, upon completion of adopting new selection devices, issuance of monetary award checks, and 30 days after MDSP provides the last priority-hiring report: Consent decree resolving DOJ\u2019s claims against MDSP.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            854,
+            941
+          ],
+          [
+            1002,
+            1066
+          ]
+        ],
+        "annotation": {
+          "explanation": "[Yes]",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1002,
+            1066
+          ]
+        ],
+        "annotation": {
+          "explanation": "November 8, 2024: consent decree approved and entered by District Judge Richard D. Bennett.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            837,
+            941
+          ],
+          [
+            942,
+            1066
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties jointly moved for, and Judge Richard D. Bennett approved and entered, a consent decree on November 8, 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1067,
+            1349
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief included $2.75 million to disqualified Black and female candidates and priority hiring opportunities for 25 previously disqualified candidates who meet lawful requirements.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1350,
+            1536
+          ]
+        ],
+        "annotation": {
+          "explanation": "MDSP agreed, with DOJ oversight, to replace the written and physical fitness tests with new lawful selection devices.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1537,
+            1860
+          ]
+        ],
+        "annotation": {
+          "explanation": "Decree duration: three years from entry or later upon completion of adopting new selection devices, issuing monetary awards, and 30 days after the last priority-hiring report.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            837,
+            941
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint motion to enter a consent decree filed by both parties on October 2, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            942,
+            1066
+          ]
+        ],
+        "annotation": {
+          "explanation": "Consent decree approved and entered by Judge Richard D. Bennett on November 8, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1067,
+            1218
+          ]
+        ],
+        "annotation": {
+          "explanation": "Pay $2.75M to Black and female officer candidates disqualified by the unlawful hiring tests.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1219,
+            1349
+          ]
+        ],
+        "annotation": {
+          "explanation": "Offer priority hiring opportunities to 25 previously disqualified candidates who satisfy MDSP\u2019s lawful hiring requirements.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1350,
+            1536
+          ]
+        ],
+        "annotation": {
+          "explanation": "Adopt and use, with DOJ oversight, new lawful selection devices to replace the written and physical fitness tests in the hiring process.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1537,
+            1860
+          ]
+        ],
+        "annotation": {
+          "explanation": "Provide reports regarding priority hiring relief (reporting obligation referenced as a condition for decree dissolution).",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1067,
+            1218
+          ]
+        ],
+        "annotation": {
+          "explanation": "MDSP must pay $2.75 million to Black and female officer candidates disqualified by the unlawful hiring tests.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1067,
+            1113
+          ],
+          [
+            1223,
+            1349
+          ]
+        ],
+        "annotation": {
+          "explanation": "MDSP must offer priority hiring opportunities to 25 previously disqualified candidates who meet MDSP\u2019s lawful hiring requirements.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1350,
+            1536
+          ]
+        ],
+        "annotation": {
+          "explanation": "MDSP must adopt and use new lawful selection devices, under DOJ oversight, replacing the written and physical fitness tests at issue.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 22
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1537,
+            1860
+          ]
+        ],
+        "annotation": {
+          "explanation": "Decree duration: dissolves after 3 years from entry, or later upon completion of adopting new selection devices, issuance of monetary award checks, and 30 days after MDSP provides the last reports regarding priority hiring relief (imposing a reporting obligation).",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 23
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            942,
+            1066
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assigned to District Judge Richard D. Bennett.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 24
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            942,
+            1066
+          ]
+        ],
+        "annotation": {
+          "explanation": "Consent decree approved and entered Nov 8, 2024.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 25
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1067,
+            1536
+          ]
+        ],
+        "annotation": {
+          "explanation": "Consent decree relief: $2.75M to affected candidates; priority hiring for 25 previously disqualified candidates who meet lawful requirements; adoption of new lawful selection devices with DOJ oversight.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 26
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1537,
+            1860
+          ]
+        ],
+        "annotation": {
+          "explanation": "Decree dissolution schedule: 3 years after entry, or later upon completion of new selection devices process, issuance of checks, and 30 days after the last priority-hiring report.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 27
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            837,
+            941
+          ],
+          [
+            942,
+            1066
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint motion to enter consent decree approved; consent decree entered by Judge Richard D. Bennett on November 8, 2024.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 28
+      }
+    ]
+  },
+  {
+    "id": "45778_p2",
+    "metadata": {
+      "case_id": "45778",
+      "paragraph_num": 2,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Under the terms of the consent decree, the MDSP agreed to prepare a work plan for the development of..."
+    },
+    "source": "",
+    "target": "On October 2, 2024, the U.S. Department of Justice (DOJ) filed this lawsuit against the Maryland Department of State Police (MDSP) in the U.S. District Court for the District of Maryland, alleging that MDSP\u2019s employment screening process violated Title VII of the Civil Rights Act of 1964 by systematically excluding Black and female applicants from hiring for the entry-level Trooper jobs. Specifically, the DOJ alleged that since at least 2017, the MDSP had engaged in a pattern or practice of unintentional discrimination through its use of a written hiring test, which had an adverse impact on Black applicants, and its use of a physical fitness test, which an adverse impact on female applicants, neither of which had been shown to be job related for the MDSP\u2019s entry-level Trooper position and consistent with business necessity.\n\nOn the same day, the parties filed a joint motion to enter a consent decree to resolve the DOJ\u2019s claims. The case was assigned to District Judge Richard D. Bennett, who approved and entered the consent decree on November 8, 2024. Under the terms of the decree, the MDSP agreed to pay $2.75M to Black and female officer candidates disqualified by the hiring tests DOJ found unlawful and to offer priority hiring opportunities to 25 previously disqualified candidates who satisfy MDSP\u2019s lawful hiring requirements. The MDSP also agreed to adopt and use, with DOJ oversight, new lawful selection devices in its hiring process in lieu of the written test and physical fitness test at issue in this case. The decree was set to be dissolved three years after the date it was entered by the court, or, if later, upon completion of the process for adopting new selection devices, the issuance of monetary award checks; and the passage of thirty days after the MDSP provides the last of the reports regarding priority hiring relief.\n\nUnder the terms of the consent decree, the MDSP agreed to prepare a work plan for the development of each new selection device, with the work plans due to the United States no later than 135 days after the parties tendered the consent decree.\n\nBefore MDSP could prepare its work plan, a change of administration occurred as Donald Trump was inaugurated as President in January 2025. Just weeks thereafter, on February 25, 2025, the DOJ filed a motion seeking to delay the fairness hearing on the consent decree in order to allow additional time to assess how Executive Order No. 14151, an \u201cExecutive Order on Ending Radical and Wasteful Government DEI Programs and Preferencing,\u201d issued January 20, 2025, and a February 5, 2025, memorandum from Attorney General Bondi to DOJ employees on \u201cEliminating Internal Discriminatory Practices\u201d may impact the provisions of the proposed consent decree. The next day, the DOJ filed a notice of voluntary dismissal, indicating the government would no longer seek relief requiring MDSP to \"prioritize candidates for police officers based in any way on race.\u201d\n\nJudge Bennett approved the government\u2019s motion to dismiss the case on March 3, 2025.",
+    "target_paragraph": "Under the terms of the consent decree, the MDSP agreed to prepare a work plan for the development of each new selection device, with the work plans due to the United States no later than 135 days after the parties tendered the consent decree.",
+    "target_paragraph_indices": [
+      1862,
+      2104
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1862,
+            2104
+          ]
+        ],
+        "annotation": {
+          "explanation": "Implementation obligations: preparation of work plans for each new selection device within 135 days of tendering the consent decree.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1862,
+            2104
+          ]
+        ],
+        "annotation": {
+          "explanation": "MDSP was required to submit work plans for new selection devices within 135 days of tendering the consent decree.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1862,
+            2104
+          ]
+        ],
+        "annotation": {
+          "explanation": "Prepare a work plan for the development of each new selection device and submit it to the United States within 135 days after the parties tender the consent decree.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1862,
+            2104
+          ]
+        ],
+        "annotation": {
+          "explanation": "MDSP must prepare a work plan for each new selection device; work plans are due to the United States within 135 days after the decree was tendered.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1862,
+            2104
+          ]
+        ],
+        "annotation": {
+          "explanation": "Consent decree implementation deadline: work plans due within 135 days after tendering the decree.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_disputes",
+        "output_idx": [
+          [
+            1862,
+            2104
+          ],
+          [
+            2106,
+            2244
+          ]
+        ],
+        "annotation": {
+          "explanation": "Implementation milestone (MDSP work plan due within 135 days of tendering the decree) was disrupted; before MDSP prepared its work plan, a change in administration occurred, after which DOJ moved to delay and then dismiss the case.",
+          "checklist_item": "Disputes Over Settlement Enforcement",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "45778_p3",
+    "metadata": {
+      "case_id": "45778",
+      "paragraph_num": 3,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Before MDSP could prepare its work plan, a change of administration occurred as Donald Trump was ina..."
+    },
+    "source": "",
+    "target": "On October 2, 2024, the U.S. Department of Justice (DOJ) filed this lawsuit against the Maryland Department of State Police (MDSP) in the U.S. District Court for the District of Maryland, alleging that MDSP\u2019s employment screening process violated Title VII of the Civil Rights Act of 1964 by systematically excluding Black and female applicants from hiring for the entry-level Trooper jobs. Specifically, the DOJ alleged that since at least 2017, the MDSP had engaged in a pattern or practice of unintentional discrimination through its use of a written hiring test, which had an adverse impact on Black applicants, and its use of a physical fitness test, which an adverse impact on female applicants, neither of which had been shown to be job related for the MDSP\u2019s entry-level Trooper position and consistent with business necessity.\n\nOn the same day, the parties filed a joint motion to enter a consent decree to resolve the DOJ\u2019s claims. The case was assigned to District Judge Richard D. Bennett, who approved and entered the consent decree on November 8, 2024. Under the terms of the decree, the MDSP agreed to pay $2.75M to Black and female officer candidates disqualified by the hiring tests DOJ found unlawful and to offer priority hiring opportunities to 25 previously disqualified candidates who satisfy MDSP\u2019s lawful hiring requirements. The MDSP also agreed to adopt and use, with DOJ oversight, new lawful selection devices in its hiring process in lieu of the written test and physical fitness test at issue in this case. The decree was set to be dissolved three years after the date it was entered by the court, or, if later, upon completion of the process for adopting new selection devices, the issuance of monetary award checks; and the passage of thirty days after the MDSP provides the last of the reports regarding priority hiring relief.\n\nUnder the terms of the consent decree, the MDSP agreed to prepare a work plan for the development of each new selection device, with the work plans due to the United States no later than 135 days after the parties tendered the consent decree.\n\nBefore MDSP could prepare its work plan, a change of administration occurred as Donald Trump was inaugurated as President in January 2025. Just weeks thereafter, on February 25, 2025, the DOJ filed a motion seeking to delay the fairness hearing on the consent decree in order to allow additional time to assess how Executive Order No. 14151, an \u201cExecutive Order on Ending Radical and Wasteful Government DEI Programs and Preferencing,\u201d issued January 20, 2025, and a February 5, 2025, memorandum from Attorney General Bondi to DOJ employees on \u201cEliminating Internal Discriminatory Practices\u201d may impact the provisions of the proposed consent decree. The next day, the DOJ filed a notice of voluntary dismissal, indicating the government would no longer seek relief requiring MDSP to \"prioritize candidates for police officers based in any way on race.\u201d\n\nJudge Bennett approved the government\u2019s motion to dismiss the case on March 3, 2025.",
+    "target_paragraph": "Before MDSP could prepare its work plan, a change of administration occurred as Donald Trump was inaugurated as President in January 2025. Just weeks thereafter, on February 25, 2025, the DOJ filed a motion seeking to delay the fairness hearing on the consent decree in order to allow additional time to assess how Executive Order No. 14151, an \u201cExecutive Order on Ending Radical and Wasteful Government DEI Programs and Preferencing,\u201d issued January 20, 2025, and a February 5, 2025, memorandum from Attorney General Bondi to DOJ employees on \u201cEliminating Internal Discriminatory Practices\u201d may impact the provisions of the proposed consent decree. The next day, the DOJ filed a notice of voluntary dismissal, indicating the government would no longer seek relief requiring MDSP to \"prioritize candidates for police officers based in any way on race.\u201d",
+    "target_paragraph_indices": [
+      2106,
+      2958
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2756,
+            2958
+          ]
+        ],
+        "annotation": {
+          "explanation": "Later withdrawal of a previously sought remedy: DOJ no longer sought relief requiring race-based prioritization in police hiring.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2106,
+            2244
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background change: Presidential administration changed in January 2025 before MDSP submitted its work plan.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2245,
+            2755
+          ]
+        ],
+        "annotation": {
+          "explanation": "On February 25, 2025, DOJ sought to delay the fairness hearing to assess impacts of EO 14151 and an AG Bondi memorandum on the consent decree provisions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2756,
+            2958
+          ]
+        ],
+        "annotation": {
+          "explanation": "On February 26, 2025, DOJ filed a voluntary dismissal, stating it would not seek relief requiring MDSP to prioritize police officer candidates based on race.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2245,
+            2755
+          ]
+        ],
+        "annotation": {
+          "explanation": "DOJ motion filed on February 25, 2025 to delay the fairness hearing on the consent decree to assess impacts of EO 14151 and the Feb. 5, 2025 AG memorandum.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2756,
+            2958
+          ]
+        ],
+        "annotation": {
+          "explanation": "Notice of voluntary dismissal filed by DOJ on February 26, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2245,
+            2755
+          ]
+        ],
+        "annotation": {
+          "explanation": "On Feb 25, 2025, DOJ moved to delay the fairness hearing on the consent decree to assess impacts of EO 14151 and the Feb 5, 2025 AG memorandum.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2756,
+            2958
+          ]
+        ],
+        "annotation": {
+          "explanation": "DOJ filed a notice of voluntary dismissal the next day, stating it would no longer seek race-based priority hiring relief.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "settlement_disputes",
+        "output_idx": [
+          [
+            2268,
+            2755
+          ]
+        ],
+        "annotation": {
+          "explanation": "DOJ moved on Feb. 25, 2025 to delay the consent decree fairness hearing to evaluate the impact of EO 14151 and the AG Bondi memo, signaling a potential change in enforcement of the settlement.",
+          "checklist_item": "Disputes Over Settlement Enforcement",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "settlement_disputes",
+        "output_idx": [
+          [
+            2756,
+            2958
+          ]
+        ],
+        "annotation": {
+          "explanation": "On Feb. 26, 2025, DOJ filed a notice of voluntary dismissal, withdrawing from enforcing the decree\u2019s race-based priority hiring relief.",
+          "checklist_item": "Disputes Over Settlement Enforcement",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "45778_p4",
+    "metadata": {
+      "case_id": "45778",
+      "paragraph_num": 4,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Judge Bennett approved the government\u2019s motion to dismiss the case on March 3, 2025."
+    },
+    "source": "",
+    "target": "On October 2, 2024, the U.S. Department of Justice (DOJ) filed this lawsuit against the Maryland Department of State Police (MDSP) in the U.S. District Court for the District of Maryland, alleging that MDSP\u2019s employment screening process violated Title VII of the Civil Rights Act of 1964 by systematically excluding Black and female applicants from hiring for the entry-level Trooper jobs. Specifically, the DOJ alleged that since at least 2017, the MDSP had engaged in a pattern or practice of unintentional discrimination through its use of a written hiring test, which had an adverse impact on Black applicants, and its use of a physical fitness test, which an adverse impact on female applicants, neither of which had been shown to be job related for the MDSP\u2019s entry-level Trooper position and consistent with business necessity.\n\nOn the same day, the parties filed a joint motion to enter a consent decree to resolve the DOJ\u2019s claims. The case was assigned to District Judge Richard D. Bennett, who approved and entered the consent decree on November 8, 2024. Under the terms of the decree, the MDSP agreed to pay $2.75M to Black and female officer candidates disqualified by the hiring tests DOJ found unlawful and to offer priority hiring opportunities to 25 previously disqualified candidates who satisfy MDSP\u2019s lawful hiring requirements. The MDSP also agreed to adopt and use, with DOJ oversight, new lawful selection devices in its hiring process in lieu of the written test and physical fitness test at issue in this case. The decree was set to be dissolved three years after the date it was entered by the court, or, if later, upon completion of the process for adopting new selection devices, the issuance of monetary award checks; and the passage of thirty days after the MDSP provides the last of the reports regarding priority hiring relief.\n\nUnder the terms of the consent decree, the MDSP agreed to prepare a work plan for the development of each new selection device, with the work plans due to the United States no later than 135 days after the parties tendered the consent decree.\n\nBefore MDSP could prepare its work plan, a change of administration occurred as Donald Trump was inaugurated as President in January 2025. Just weeks thereafter, on February 25, 2025, the DOJ filed a motion seeking to delay the fairness hearing on the consent decree in order to allow additional time to assess how Executive Order No. 14151, an \u201cExecutive Order on Ending Radical and Wasteful Government DEI Programs and Preferencing,\u201d issued January 20, 2025, and a February 5, 2025, memorandum from Attorney General Bondi to DOJ employees on \u201cEliminating Internal Discriminatory Practices\u201d may impact the provisions of the proposed consent decree. The next day, the DOJ filed a notice of voluntary dismissal, indicating the government would no longer seek relief requiring MDSP to \"prioritize candidates for police officers based in any way on race.\u201d\n\nJudge Bennett approved the government\u2019s motion to dismiss the case on March 3, 2025.",
+    "target_paragraph": "Judge Bennett approved the government\u2019s motion to dismiss the case on March 3, 2025.",
+    "target_paragraph_indices": [
+      2960,
+      3044
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2960,
+            3044
+          ]
+        ],
+        "annotation": {
+          "explanation": "Judge Bennett approved dismissal on March 3, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2960,
+            3044
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government\u2019s motion to dismiss approved by the court on March 3, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2960,
+            3044
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case dismissed on March 3, 2025 by Judge Bennett.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2960,
+            3044
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion to dismiss granted (case dismissed) by Judge Richard D. Bennett on March 3, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_disputes",
+        "output_idx": [
+          [
+            2960,
+            3044
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court approved dismissal on Mar. 3, 2025, effectively ending enforcement proceedings under the consent decree.",
+          "checklist_item": "Disputes Over Settlement Enforcement",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  }
+]
