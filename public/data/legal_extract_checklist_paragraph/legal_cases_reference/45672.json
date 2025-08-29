@@ -1,0 +1,1367 @@
+[
+  {
+    "id": "45672_p0",
+    "metadata": {
+      "case_id": "45672",
+      "paragraph_num": 0,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged an Iowa state law that criminalized entering Iowa after being deported or denie..."
+    },
+    "source": "",
+    "target": "This case challenged an Iowa state law that criminalized entering Iowa after being deported or denied entry into the United States.\n\nOn April 10, 2024, the Governor of Iowa signed into law SF 2340, to become effective on July 1, 2024. SF 2340, or \"the law,\" created a new state crime and imposed state penalties on noncitizens in Iowa who had unlawfully reentered the United States. \u00a0It also required Iowa state courts to order the removal of certain noncitizens from the United States.\n\nOn May 9, 2024, the plaintiff, the U.S. Department of Justice (DOJ), filed suit against the state of Iowa in the U.S. District Court for the Northern District of Iowa, seeking an injunction against the enforcement of the law. The DOJ argued that SF 2340 was preempted by federal law and violated the Supremacy Clause of the U.S. Constitution and the Foreign Commerce Clause. The DOJ also argued that SF 2340 constituted an unlawful attempt by Iowa to create its own immigration system; however, only the federal government has a right to regulate immigration. The DOJ sued the State of Iowa, the Governor of Iowa, the Attorney General of Iowa, the Iowa Department of Public Safety (DPS), and the Commissioner of DPS (collectively, \"the state\"). It sought a declaratory judgment, a preliminary injunction to stop the defendants from enforcing SF 2340, and costs. The case was assigned to Judge Stephen Locher.\n\nOn May 13, 2024, the DOJ filed motions for a preliminary injunction and a permanent injunction, arguing that enforcing SF 2340 would cause harm to the United States and interfere with foreign relations and the federal immigration scheme. On June 17, 2024, the court granted the requested preliminary injunction. It reasoned that the United States had a viable cause of action and was likely to prevail on its preemption claim.\n\nThe court issued a single decision preliminarily enjoining the law in this case and in\u00a0Iowa Migrant Movement for Justice v. Bird, 4:24-cv-00161, though the cases were not formally consolidated.\n\nOn June 19, 2024, the defendants filed an appeal of the preliminary injunction in the U.S. Court of Appeals for the Eighth Circuit (USCA Case Number 24-2265). The parties filed a joint motion for a stay pending appeal on August 28, 2024, which the district court granted on August 29, 2024. The Eighth Circuit affirmed the district court's preliminary injunction on January 24, 2025. The case was then transferred back to the district court for further proceedings.\n\nHowever, after the start of the second Trump administration, the DOJ reversed its stance on the Iowa law and filed a notice of voluntary dismissal on March 14, 2025. On April 16, 2025, the Eighth Circuit dismissed Iowa\u2019s appeal, vacated the district court\u2019s order granting the United States\u2019 motion for a preliminary injunction, and remanded to the district court with instructions to dismiss this action.\n\nThis case is closed.",
+    "target_paragraph": "This case challenged an Iowa state law that criminalized entering Iowa after being deported or denied entry into the United States.",
+    "target_paragraph_indices": [
+      0,
+      131
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            131
+          ]
+        ],
+        "annotation": {
+          "explanation": "Federal challenge to an Iowa law criminalizing entering Iowa after prior deportation or denial of U.S. entry.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "45672_p1",
+    "metadata": {
+      "case_id": "45672",
+      "paragraph_num": 1,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 10, 2024, the Governor of Iowa signed into law SF 2340, to become effective on July 1, 2024..."
+    },
+    "source": "",
+    "target": "This case challenged an Iowa state law that criminalized entering Iowa after being deported or denied entry into the United States.\n\nOn April 10, 2024, the Governor of Iowa signed into law SF 2340, to become effective on July 1, 2024. SF 2340, or \"the law,\" created a new state crime and imposed state penalties on noncitizens in Iowa who had unlawfully reentered the United States. \u00a0It also required Iowa state courts to order the removal of certain noncitizens from the United States.\n\nOn May 9, 2024, the plaintiff, the U.S. Department of Justice (DOJ), filed suit against the state of Iowa in the U.S. District Court for the Northern District of Iowa, seeking an injunction against the enforcement of the law. The DOJ argued that SF 2340 was preempted by federal law and violated the Supremacy Clause of the U.S. Constitution and the Foreign Commerce Clause. The DOJ also argued that SF 2340 constituted an unlawful attempt by Iowa to create its own immigration system; however, only the federal government has a right to regulate immigration. The DOJ sued the State of Iowa, the Governor of Iowa, the Attorney General of Iowa, the Iowa Department of Public Safety (DPS), and the Commissioner of DPS (collectively, \"the state\"). It sought a declaratory judgment, a preliminary injunction to stop the defendants from enforcing SF 2340, and costs. The case was assigned to Judge Stephen Locher.\n\nOn May 13, 2024, the DOJ filed motions for a preliminary injunction and a permanent injunction, arguing that enforcing SF 2340 would cause harm to the United States and interfere with foreign relations and the federal immigration scheme. On June 17, 2024, the court granted the requested preliminary injunction. It reasoned that the United States had a viable cause of action and was likely to prevail on its preemption claim.\n\nThe court issued a single decision preliminarily enjoining the law in this case and in\u00a0Iowa Migrant Movement for Justice v. Bird, 4:24-cv-00161, though the cases were not formally consolidated.\n\nOn June 19, 2024, the defendants filed an appeal of the preliminary injunction in the U.S. Court of Appeals for the Eighth Circuit (USCA Case Number 24-2265). The parties filed a joint motion for a stay pending appeal on August 28, 2024, which the district court granted on August 29, 2024. The Eighth Circuit affirmed the district court's preliminary injunction on January 24, 2025. The case was then transferred back to the district court for further proceedings.\n\nHowever, after the start of the second Trump administration, the DOJ reversed its stance on the Iowa law and filed a notice of voluntary dismissal on March 14, 2025. On April 16, 2025, the Eighth Circuit dismissed Iowa\u2019s appeal, vacated the district court\u2019s order granting the United States\u2019 motion for a preliminary injunction, and remanded to the district court with instructions to dismiss this action.\n\nThis case is closed.",
+    "target_paragraph": "On April 10, 2024, the Governor of Iowa signed into law SF 2340, to become effective on July 1, 2024. SF 2340, or \"the law,\" created a new state crime and imposed state penalties on noncitizens in Iowa who had unlawfully reentered the United States. \u00a0It also required Iowa state courts to order the removal of certain noncitizens from the United States.",
+    "target_paragraph_indices": [
+      133,
+      486
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            133,
+            234
+          ]
+        ],
+        "annotation": {
+          "explanation": "SF 2340 was signed on April 10, 2024, and was to take effect on July 1, 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "45672_p2",
+    "metadata": {
+      "case_id": "45672",
+      "paragraph_num": 2,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 9, 2024, the plaintiff, the U.S. Department of Justice (DOJ), filed suit against the state of..."
+    },
+    "source": "",
+    "target": "This case challenged an Iowa state law that criminalized entering Iowa after being deported or denied entry into the United States.\n\nOn April 10, 2024, the Governor of Iowa signed into law SF 2340, to become effective on July 1, 2024. SF 2340, or \"the law,\" created a new state crime and imposed state penalties on noncitizens in Iowa who had unlawfully reentered the United States. \u00a0It also required Iowa state courts to order the removal of certain noncitizens from the United States.\n\nOn May 9, 2024, the plaintiff, the U.S. Department of Justice (DOJ), filed suit against the state of Iowa in the U.S. District Court for the Northern District of Iowa, seeking an injunction against the enforcement of the law. The DOJ argued that SF 2340 was preempted by federal law and violated the Supremacy Clause of the U.S. Constitution and the Foreign Commerce Clause. The DOJ also argued that SF 2340 constituted an unlawful attempt by Iowa to create its own immigration system; however, only the federal government has a right to regulate immigration. The DOJ sued the State of Iowa, the Governor of Iowa, the Attorney General of Iowa, the Iowa Department of Public Safety (DPS), and the Commissioner of DPS (collectively, \"the state\"). It sought a declaratory judgment, a preliminary injunction to stop the defendants from enforcing SF 2340, and costs. The case was assigned to Judge Stephen Locher.\n\nOn May 13, 2024, the DOJ filed motions for a preliminary injunction and a permanent injunction, arguing that enforcing SF 2340 would cause harm to the United States and interfere with foreign relations and the federal immigration scheme. On June 17, 2024, the court granted the requested preliminary injunction. It reasoned that the United States had a viable cause of action and was likely to prevail on its preemption claim.\n\nThe court issued a single decision preliminarily enjoining the law in this case and in\u00a0Iowa Migrant Movement for Justice v. Bird, 4:24-cv-00161, though the cases were not formally consolidated.\n\nOn June 19, 2024, the defendants filed an appeal of the preliminary injunction in the U.S. Court of Appeals for the Eighth Circuit (USCA Case Number 24-2265). The parties filed a joint motion for a stay pending appeal on August 28, 2024, which the district court granted on August 29, 2024. The Eighth Circuit affirmed the district court's preliminary injunction on January 24, 2025. The case was then transferred back to the district court for further proceedings.\n\nHowever, after the start of the second Trump administration, the DOJ reversed its stance on the Iowa law and filed a notice of voluntary dismissal on March 14, 2025. On April 16, 2025, the Eighth Circuit dismissed Iowa\u2019s appeal, vacated the district court\u2019s order granting the United States\u2019 motion for a preliminary injunction, and remanded to the district court with instructions to dismiss this action.\n\nThis case is closed.",
+    "target_paragraph": "On May 9, 2024, the plaintiff, the U.S. Department of Justice (DOJ), filed suit against the state of Iowa in the U.S. District Court for the Northern District of Iowa, seeking an injunction against the enforcement of the law. The DOJ argued that SF 2340 was preempted by federal law and violated the Supremacy Clause of the U.S. Constitution and the Foreign Commerce Clause. The DOJ also argued that SF 2340 constituted an unlawful attempt by Iowa to create its own immigration system; however, only the federal government has a right to regulate immigration. The DOJ sued the State of Iowa, the Governor of Iowa, the Attorney General of Iowa, the Iowa Department of Public Safety (DPS), and the Commissioner of DPS (collectively, \"the state\"). It sought a declaratory judgment, a preliminary injunction to stop the defendants from enforcing SF 2340, and costs. The case was assigned to Judge Stephen Locher.",
+    "target_paragraph_indices": [
+      488,
+      1396
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            488,
+            713
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 9, 2024",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            714,
+            829
+          ],
+          [
+            1710,
+            1824
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional preemption challenge under the Supremacy Clause (United States seeking to enjoin a preempted state law).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            714,
+            862
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim that the law violates the Foreign Commerce Clause.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            557,
+            713
+          ],
+          [
+            1233,
+            1349
+          ],
+          [
+            1398,
+            1492
+          ]
+        ],
+        "annotation": {
+          "explanation": "Equitable action by the United States for declaratory and injunctive relief; the summary does not identify a specific statutory or case-based cause-of-action vehicle (e.g., \u00a7 1983 or Ex Parte Young).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            714,
+            862
+          ]
+        ],
+        "annotation": {
+          "explanation": "Supremacy Clause of the U.S. Constitution",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            714,
+            862
+          ]
+        ],
+        "annotation": {
+          "explanation": "Foreign Commerce Clause of the U.S. Constitution",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            714,
+            770
+          ],
+          [
+            1507,
+            1635
+          ],
+          [
+            1710,
+            1824
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preemption by federal law (conflict with the federal immigration scheme)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1233,
+            1349
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1233,
+            1349
+          ],
+          [
+            1398,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction to stop enforcement of SF 2340",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 8
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            656,
+            713
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief against enforcement of the law (general)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1233,
+            1349
+          ]
+        ],
+        "annotation": {
+          "explanation": "Costs",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1350,
+            1396
+          ]
+        ],
+        "annotation": {
+          "explanation": "Stephen Locher",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            488,
+            713
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as U.S. Department of Justice (DOJ)",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            1048,
+            1232
+          ],
+          [
+            2021,
+            2179
+          ],
+          [
+            2654,
+            2893
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: The defendants (the State of Iowa, the Governor of Iowa, the Attorney General of Iowa, the Iowa Department of Public Safety (DPS), and the Commissioner of DPS) appealed to the U.S. Court of Appeals for the Eighth Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": [
+            2,
+            5,
+            6
+          ]
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            488,
+            593
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: U.S. Department of Justice (DOJ)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1048,
+            1232
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: State of Iowa",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1048,
+            1232
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Governor of Iowa",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1048,
+            1232
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Attorney General of Iowa",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1048,
+            1232
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Iowa Department of Public Safety (DPS)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1048,
+            1232
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Commissioner of DPS",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            488,
+            713
+          ]
+        ],
+        "annotation": {
+          "explanation": "DOJ filed suit on May 9, 2024, in the Northern District of Iowa seeking to enjoin enforcement of SF 2340.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            714,
+            862
+          ],
+          [
+            863,
+            1047
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims asserted: federal preemption; violations of the Supremacy Clause and Foreign Commerce Clause; Iowa\u2019s unlawful attempt to create its own immigration system contrary to federal exclusivity.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1048,
+            1232
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants: State of Iowa; Governor of Iowa; Attorney General of Iowa; Iowa Department of Public Safety; Commissioner of DPS.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 22
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1233,
+            1396
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: declaratory judgment, preliminary injunction, and costs; case assigned to Judge Stephen Locher.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 23
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            488,
+            713
+          ],
+          [
+            1233,
+            1349
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed by DOJ on May 9, 2024, seeking declaratory judgment, a preliminary injunction, and costs (injunctive relief against enforcement of SF 2340).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 24
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1233,
+            1349
+          ],
+          [
+            1636,
+            1709
+          ],
+          [
+            1826,
+            2019
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 17, 2024, the district court granted a preliminary injunction, preliminarily enjoining SF 2340 and stopping the defendants from enforcing the law.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": [
+            2,
+            3,
+            4
+          ]
+        },
+        "id": 25
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1233,
+            1349
+          ],
+          [
+            1636,
+            1709
+          ],
+          [
+            1826,
+            2019
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction prohibiting the defendants from enforcing SF 2340 (the Iowa law); the law was preliminarily enjoined.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": [
+            2,
+            3,
+            4
+          ]
+        },
+        "id": 26
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            488,
+            713
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed on May 9, 2024 in the U.S. District Court for the Northern District of Iowa; DOJ sought to enjoin enforcement.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 27
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1350,
+            1396
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assigned to Judge Stephen Locher.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 28
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1233,
+            1349
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: declaratory judgment, preliminary injunction, and costs.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 29
+      }
+    ]
+  },
+  {
+    "id": "45672_p3",
+    "metadata": {
+      "case_id": "45672",
+      "paragraph_num": 3,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 13, 2024, the DOJ filed motions for a preliminary injunction and a permanent injunction, argu..."
+    },
+    "source": "",
+    "target": "This case challenged an Iowa state law that criminalized entering Iowa after being deported or denied entry into the United States.\n\nOn April 10, 2024, the Governor of Iowa signed into law SF 2340, to become effective on July 1, 2024. SF 2340, or \"the law,\" created a new state crime and imposed state penalties on noncitizens in Iowa who had unlawfully reentered the United States. \u00a0It also required Iowa state courts to order the removal of certain noncitizens from the United States.\n\nOn May 9, 2024, the plaintiff, the U.S. Department of Justice (DOJ), filed suit against the state of Iowa in the U.S. District Court for the Northern District of Iowa, seeking an injunction against the enforcement of the law. The DOJ argued that SF 2340 was preempted by federal law and violated the Supremacy Clause of the U.S. Constitution and the Foreign Commerce Clause. The DOJ also argued that SF 2340 constituted an unlawful attempt by Iowa to create its own immigration system; however, only the federal government has a right to regulate immigration. The DOJ sued the State of Iowa, the Governor of Iowa, the Attorney General of Iowa, the Iowa Department of Public Safety (DPS), and the Commissioner of DPS (collectively, \"the state\"). It sought a declaratory judgment, a preliminary injunction to stop the defendants from enforcing SF 2340, and costs. The case was assigned to Judge Stephen Locher.\n\nOn May 13, 2024, the DOJ filed motions for a preliminary injunction and a permanent injunction, arguing that enforcing SF 2340 would cause harm to the United States and interfere with foreign relations and the federal immigration scheme. On June 17, 2024, the court granted the requested preliminary injunction. It reasoned that the United States had a viable cause of action and was likely to prevail on its preemption claim.\n\nThe court issued a single decision preliminarily enjoining the law in this case and in\u00a0Iowa Migrant Movement for Justice v. Bird, 4:24-cv-00161, though the cases were not formally consolidated.\n\nOn June 19, 2024, the defendants filed an appeal of the preliminary injunction in the U.S. Court of Appeals for the Eighth Circuit (USCA Case Number 24-2265). The parties filed a joint motion for a stay pending appeal on August 28, 2024, which the district court granted on August 29, 2024. The Eighth Circuit affirmed the district court's preliminary injunction on January 24, 2025. The case was then transferred back to the district court for further proceedings.\n\nHowever, after the start of the second Trump administration, the DOJ reversed its stance on the Iowa law and filed a notice of voluntary dismissal on March 14, 2025. On April 16, 2025, the Eighth Circuit dismissed Iowa\u2019s appeal, vacated the district court\u2019s order granting the United States\u2019 motion for a preliminary injunction, and remanded to the district court with instructions to dismiss this action.\n\nThis case is closed.",
+    "target_paragraph": "On May 13, 2024, the DOJ filed motions for a preliminary injunction and a permanent injunction, arguing that enforcing SF 2340 would cause harm to the United States and interfere with foreign relations and the federal immigration scheme. On June 17, 2024, the court granted the requested preliminary injunction. It reasoned that the United States had a viable cause of action and was likely to prevail on its preemption claim.",
+    "target_paragraph_indices": [
+      1398,
+      1824
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1398,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunction against enforcement of SF 2340",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            1636,
+            1709
+          ],
+          [
+            1826,
+            2019
+          ],
+          [
+            2654,
+            2893
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 17, 2024 \u2013 April 16, 2025: District court preliminary injunction enjoining enforcement of SF 2340 (also covering Iowa Migrant Movement for Justice v. Bird), later vacated by the Eighth Circuit.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            3,
+            4,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1710,
+            1773
+          ],
+          [
+            2717,
+            2815
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: United States",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            3,
+            6
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1636,
+            1709
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 17, 2024: the court granted the requested preliminary injunction.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1398,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 13, 2024, DOJ moved for preliminary and permanent injunctions, arguing harm to the U.S. and interference with foreign relations and the federal immigration system.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1636,
+            1824
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted June 17, 2024; court found the United States had a viable cause of action and was likely to succeed on preemption.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1398,
+            1635
+          ],
+          [
+            1636,
+            1709
+          ],
+          [
+            2312,
+            2404
+          ],
+          [
+            2654,
+            2893
+          ]
+        ],
+        "annotation": {
+          "explanation": "DOJ motion for preliminary injunction filed May 13, 2024; granted by the district court on June 17, 2024; affirmed on appeal January 24, 2025; later vacated April 16, 2025 upon dismissal/remand.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            3,
+            5,
+            6
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1398,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "DOJ motion for permanent injunction filed May 13, 2024 (no ruling described in the summary).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1398,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "DOJ filed motions for preliminary and permanent injunction on May 13, 2024.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1636,
+            1824
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted on June 17, 2024; court found the United States had a viable cause of action and was likely to succeed on preemption.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1636,
+            1824
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court granted the DOJ\u2019s motion for a preliminary injunction on June 17, 2024.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "45672_p4",
+    "metadata": {
+      "case_id": "45672",
+      "paragraph_num": 4,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court issued a single decision preliminarily enjoining the law in this case and in\u00a0Iowa Migrant ..."
+    },
+    "source": "",
+    "target": "This case challenged an Iowa state law that criminalized entering Iowa after being deported or denied entry into the United States.\n\nOn April 10, 2024, the Governor of Iowa signed into law SF 2340, to become effective on July 1, 2024. SF 2340, or \"the law,\" created a new state crime and imposed state penalties on noncitizens in Iowa who had unlawfully reentered the United States. \u00a0It also required Iowa state courts to order the removal of certain noncitizens from the United States.\n\nOn May 9, 2024, the plaintiff, the U.S. Department of Justice (DOJ), filed suit against the state of Iowa in the U.S. District Court for the Northern District of Iowa, seeking an injunction against the enforcement of the law. The DOJ argued that SF 2340 was preempted by federal law and violated the Supremacy Clause of the U.S. Constitution and the Foreign Commerce Clause. The DOJ also argued that SF 2340 constituted an unlawful attempt by Iowa to create its own immigration system; however, only the federal government has a right to regulate immigration. The DOJ sued the State of Iowa, the Governor of Iowa, the Attorney General of Iowa, the Iowa Department of Public Safety (DPS), and the Commissioner of DPS (collectively, \"the state\"). It sought a declaratory judgment, a preliminary injunction to stop the defendants from enforcing SF 2340, and costs. The case was assigned to Judge Stephen Locher.\n\nOn May 13, 2024, the DOJ filed motions for a preliminary injunction and a permanent injunction, arguing that enforcing SF 2340 would cause harm to the United States and interfere with foreign relations and the federal immigration scheme. On June 17, 2024, the court granted the requested preliminary injunction. It reasoned that the United States had a viable cause of action and was likely to prevail on its preemption claim.\n\nThe court issued a single decision preliminarily enjoining the law in this case and in\u00a0Iowa Migrant Movement for Justice v. Bird, 4:24-cv-00161, though the cases were not formally consolidated.\n\nOn June 19, 2024, the defendants filed an appeal of the preliminary injunction in the U.S. Court of Appeals for the Eighth Circuit (USCA Case Number 24-2265). The parties filed a joint motion for a stay pending appeal on August 28, 2024, which the district court granted on August 29, 2024. The Eighth Circuit affirmed the district court's preliminary injunction on January 24, 2025. The case was then transferred back to the district court for further proceedings.\n\nHowever, after the start of the second Trump administration, the DOJ reversed its stance on the Iowa law and filed a notice of voluntary dismissal on March 14, 2025. On April 16, 2025, the Eighth Circuit dismissed Iowa\u2019s appeal, vacated the district court\u2019s order granting the United States\u2019 motion for a preliminary injunction, and remanded to the district court with instructions to dismiss this action.\n\nThis case is closed.",
+    "target_paragraph": "The court issued a single decision preliminarily enjoining the law in this case and in\u00a0Iowa Migrant Movement for Justice v. Bird, 4:24-cv-00161, though the cases were not formally consolidated.",
+    "target_paragraph_indices": [
+      1826,
+      2019
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            1826,
+            2019
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: Iowa Migrant Movement for Justice v. Bird, 4:24-cv-00161 \u2014 the court issued a single preliminary injunction decision covering both cases; the cases were not formally consolidated.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "consolidated_cases",
+        "output_idx": [
+          [
+            1826,
+            2019
+          ]
+        ],
+        "annotation": {
+          "explanation": "Not formally consolidated; the court issued a single decision covering this case and Iowa Migrant Movement for Justice v. Bird, 4:24-cv-00161.",
+          "checklist_item": "Consolidated Cases Noted",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1826,
+            2019
+          ]
+        ],
+        "annotation": {
+          "explanation": "Single decision preliminarily enjoined the law in this case and in Iowa Migrant Movement for Justice v. Bird; cases were not consolidated.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "45672_p5",
+    "metadata": {
+      "case_id": "45672",
+      "paragraph_num": 5,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 19, 2024, the defendants filed an appeal of the preliminary injunction in the U.S. Court of ..."
+    },
+    "source": "",
+    "target": "This case challenged an Iowa state law that criminalized entering Iowa after being deported or denied entry into the United States.\n\nOn April 10, 2024, the Governor of Iowa signed into law SF 2340, to become effective on July 1, 2024. SF 2340, or \"the law,\" created a new state crime and imposed state penalties on noncitizens in Iowa who had unlawfully reentered the United States. \u00a0It also required Iowa state courts to order the removal of certain noncitizens from the United States.\n\nOn May 9, 2024, the plaintiff, the U.S. Department of Justice (DOJ), filed suit against the state of Iowa in the U.S. District Court for the Northern District of Iowa, seeking an injunction against the enforcement of the law. The DOJ argued that SF 2340 was preempted by federal law and violated the Supremacy Clause of the U.S. Constitution and the Foreign Commerce Clause. The DOJ also argued that SF 2340 constituted an unlawful attempt by Iowa to create its own immigration system; however, only the federal government has a right to regulate immigration. The DOJ sued the State of Iowa, the Governor of Iowa, the Attorney General of Iowa, the Iowa Department of Public Safety (DPS), and the Commissioner of DPS (collectively, \"the state\"). It sought a declaratory judgment, a preliminary injunction to stop the defendants from enforcing SF 2340, and costs. The case was assigned to Judge Stephen Locher.\n\nOn May 13, 2024, the DOJ filed motions for a preliminary injunction and a permanent injunction, arguing that enforcing SF 2340 would cause harm to the United States and interfere with foreign relations and the federal immigration scheme. On June 17, 2024, the court granted the requested preliminary injunction. It reasoned that the United States had a viable cause of action and was likely to prevail on its preemption claim.\n\nThe court issued a single decision preliminarily enjoining the law in this case and in\u00a0Iowa Migrant Movement for Justice v. Bird, 4:24-cv-00161, though the cases were not formally consolidated.\n\nOn June 19, 2024, the defendants filed an appeal of the preliminary injunction in the U.S. Court of Appeals for the Eighth Circuit (USCA Case Number 24-2265). The parties filed a joint motion for a stay pending appeal on August 28, 2024, which the district court granted on August 29, 2024. The Eighth Circuit affirmed the district court's preliminary injunction on January 24, 2025. The case was then transferred back to the district court for further proceedings.\n\nHowever, after the start of the second Trump administration, the DOJ reversed its stance on the Iowa law and filed a notice of voluntary dismissal on March 14, 2025. On April 16, 2025, the Eighth Circuit dismissed Iowa\u2019s appeal, vacated the district court\u2019s order granting the United States\u2019 motion for a preliminary injunction, and remanded to the district court with instructions to dismiss this action.\n\nThis case is closed.",
+    "target_paragraph": "On June 19, 2024, the defendants filed an appeal of the preliminary injunction in the U.S. Court of Appeals for the Eighth Circuit (USCA Case Number 24-2265). The parties filed a joint motion for a stay pending appeal on August 28, 2024, which the district court granted on August 29, 2024. The Eighth Circuit affirmed the district court's preliminary injunction on January 24, 2025. The case was then transferred back to the district court for further proceedings.",
+    "target_paragraph_indices": [
+      2021,
+      2486
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2180,
+            2311
+          ],
+          [
+            2312,
+            2486
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 29, 2024 \u2013 January 24, 2025: District court order granting the parties\u2019 joint stay pending appeal.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2312,
+            2404
+          ],
+          [
+            2654,
+            2893
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 24, 2025 \u2013 April 16, 2025: Eighth Circuit judgment affirming the preliminary injunction (superseded by later dismissal and vacatur).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2180,
+            2311
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 29, 2024: the district court granted a joint motion for a stay pending appeal.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2312,
+            2404
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 24, 2025: the Eighth Circuit affirmed the district court's preliminary injunction.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2021,
+            2179
+          ],
+          [
+            2180,
+            2311
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants appealed to the Eighth Circuit on June 19, 2024 (No. 24-2265); the district court granted a joint stay pending appeal on August 29, 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2312,
+            2486
+          ]
+        ],
+        "annotation": {
+          "explanation": "Eighth Circuit affirmed the preliminary injunction on January 24, 2025; case returned to district court.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2021,
+            2179
+          ],
+          [
+            2312,
+            2404
+          ],
+          [
+            2654,
+            2893
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants' appeal of the preliminary injunction filed June 19, 2024 (8th Cir. No. 24-2265); affirmed January 24, 2025; later appeal dismissed and PI order vacated on April 16, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2180,
+            2311
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint motion for stay pending appeal filed August 28, 2024; granted August 29, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2312,
+            2404
+          ]
+        ],
+        "annotation": {
+          "explanation": "On January 24, 2025, the Eighth Circuit affirmed the district court\u2019s preliminary injunction.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2021,
+            2179
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants appealed the preliminary injunction to the Eighth Circuit on June 19, 2024 (USCA No. 24-2265).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2180,
+            2311
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint motion for stay pending appeal filed August 28, 2024; district court granted stay on August 29, 2024.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2312,
+            2486
+          ]
+        ],
+        "annotation": {
+          "explanation": "Eighth Circuit affirmed the preliminary injunction on January 24, 2025; case returned to district court for further proceedings.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2180,
+            2311
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court granted a joint motion for stay pending appeal on August 29, 2024.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2312,
+            2404
+          ]
+        ],
+        "annotation": {
+          "explanation": "Eighth Circuit affirmed the district court\u2019s preliminary injunction on January 24, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": "45672_p6",
+    "metadata": {
+      "case_id": "45672",
+      "paragraph_num": 6,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "However, after the start of the second Trump administration, the DOJ reversed its stance on the Iowa..."
+    },
+    "source": "",
+    "target": "This case challenged an Iowa state law that criminalized entering Iowa after being deported or denied entry into the United States.\n\nOn April 10, 2024, the Governor of Iowa signed into law SF 2340, to become effective on July 1, 2024. SF 2340, or \"the law,\" created a new state crime and imposed state penalties on noncitizens in Iowa who had unlawfully reentered the United States. \u00a0It also required Iowa state courts to order the removal of certain noncitizens from the United States.\n\nOn May 9, 2024, the plaintiff, the U.S. Department of Justice (DOJ), filed suit against the state of Iowa in the U.S. District Court for the Northern District of Iowa, seeking an injunction against the enforcement of the law. The DOJ argued that SF 2340 was preempted by federal law and violated the Supremacy Clause of the U.S. Constitution and the Foreign Commerce Clause. The DOJ also argued that SF 2340 constituted an unlawful attempt by Iowa to create its own immigration system; however, only the federal government has a right to regulate immigration. The DOJ sued the State of Iowa, the Governor of Iowa, the Attorney General of Iowa, the Iowa Department of Public Safety (DPS), and the Commissioner of DPS (collectively, \"the state\"). It sought a declaratory judgment, a preliminary injunction to stop the defendants from enforcing SF 2340, and costs. The case was assigned to Judge Stephen Locher.\n\nOn May 13, 2024, the DOJ filed motions for a preliminary injunction and a permanent injunction, arguing that enforcing SF 2340 would cause harm to the United States and interfere with foreign relations and the federal immigration scheme. On June 17, 2024, the court granted the requested preliminary injunction. It reasoned that the United States had a viable cause of action and was likely to prevail on its preemption claim.\n\nThe court issued a single decision preliminarily enjoining the law in this case and in\u00a0Iowa Migrant Movement for Justice v. Bird, 4:24-cv-00161, though the cases were not formally consolidated.\n\nOn June 19, 2024, the defendants filed an appeal of the preliminary injunction in the U.S. Court of Appeals for the Eighth Circuit (USCA Case Number 24-2265). The parties filed a joint motion for a stay pending appeal on August 28, 2024, which the district court granted on August 29, 2024. The Eighth Circuit affirmed the district court's preliminary injunction on January 24, 2025. The case was then transferred back to the district court for further proceedings.\n\nHowever, after the start of the second Trump administration, the DOJ reversed its stance on the Iowa law and filed a notice of voluntary dismissal on March 14, 2025. On April 16, 2025, the Eighth Circuit dismissed Iowa\u2019s appeal, vacated the district court\u2019s order granting the United States\u2019 motion for a preliminary injunction, and remanded to the district court with instructions to dismiss this action.\n\nThis case is closed.",
+    "target_paragraph": "However, after the start of the second Trump administration, the DOJ reversed its stance on the Iowa law and filed a notice of voluntary dismissal on March 14, 2025. On April 16, 2025, the Eighth Circuit dismissed Iowa\u2019s appeal, vacated the district court\u2019s order granting the United States\u2019 motion for a preliminary injunction, and remanded to the district court with instructions to dismiss this action.",
+    "target_paragraph_indices": [
+      2488,
+      2893
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2654,
+            2893
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 16, 2025 (final): Eighth Circuit order dismissing the appeal, vacating the district court\u2019s preliminary injunction order, and remanding with instructions to dismiss.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2654,
+            2893
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 16, 2025: the Eighth Circuit dismissed Iowa\u2019s appeal, vacated the district court\u2019s order granting the United States\u2019 motion for a preliminary injunction, and remanded to the district court with instructions to dismiss this action.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2488,
+            2653
+          ]
+        ],
+        "annotation": {
+          "explanation": "After the start of the second Trump administration, DOJ reversed position and filed a voluntary dismissal on March 14, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2654,
+            2893
+          ],
+          [
+            2895,
+            2915
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 16, 2025, the Eighth Circuit dismissed the appeal, vacated the preliminary injunction, and remanded with instructions to dismiss; the case is closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2488,
+            2653
+          ]
+        ],
+        "annotation": {
+          "explanation": "DOJ notice of voluntary dismissal filed March 14, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2654,
+            2893
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 16, 2025, the Eighth Circuit vacated the district court\u2019s preliminary injunction and remanded with instructions to dismiss the action.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2654,
+            2893
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appellate decree vacating the preliminary injunction and remanding with instructions to dismiss the action, thereby removing the prior injunction against defendants.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2488,
+            2653
+          ]
+        ],
+        "annotation": {
+          "explanation": "DOJ filed notice of voluntary dismissal on March 14, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2654,
+            2893
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 16, 2025, Eighth Circuit dismissed the appeal, vacated the district court\u2019s preliminary injunction order, and remanded with instructions to dismiss.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2654,
+            2893
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 16, 2025, the Eighth Circuit dismissed the appeal, vacated the district court\u2019s preliminary injunction order, and remanded with instructions to dismiss.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "45672_p7",
+    "metadata": {
+      "case_id": "45672",
+      "paragraph_num": 7,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is closed."
+    },
+    "source": "",
+    "target": "This case challenged an Iowa state law that criminalized entering Iowa after being deported or denied entry into the United States.\n\nOn April 10, 2024, the Governor of Iowa signed into law SF 2340, to become effective on July 1, 2024. SF 2340, or \"the law,\" created a new state crime and imposed state penalties on noncitizens in Iowa who had unlawfully reentered the United States. \u00a0It also required Iowa state courts to order the removal of certain noncitizens from the United States.\n\nOn May 9, 2024, the plaintiff, the U.S. Department of Justice (DOJ), filed suit against the state of Iowa in the U.S. District Court for the Northern District of Iowa, seeking an injunction against the enforcement of the law. The DOJ argued that SF 2340 was preempted by federal law and violated the Supremacy Clause of the U.S. Constitution and the Foreign Commerce Clause. The DOJ also argued that SF 2340 constituted an unlawful attempt by Iowa to create its own immigration system; however, only the federal government has a right to regulate immigration. The DOJ sued the State of Iowa, the Governor of Iowa, the Attorney General of Iowa, the Iowa Department of Public Safety (DPS), and the Commissioner of DPS (collectively, \"the state\"). It sought a declaratory judgment, a preliminary injunction to stop the defendants from enforcing SF 2340, and costs. The case was assigned to Judge Stephen Locher.\n\nOn May 13, 2024, the DOJ filed motions for a preliminary injunction and a permanent injunction, arguing that enforcing SF 2340 would cause harm to the United States and interfere with foreign relations and the federal immigration scheme. On June 17, 2024, the court granted the requested preliminary injunction. It reasoned that the United States had a viable cause of action and was likely to prevail on its preemption claim.\n\nThe court issued a single decision preliminarily enjoining the law in this case and in\u00a0Iowa Migrant Movement for Justice v. Bird, 4:24-cv-00161, though the cases were not formally consolidated.\n\nOn June 19, 2024, the defendants filed an appeal of the preliminary injunction in the U.S. Court of Appeals for the Eighth Circuit (USCA Case Number 24-2265). The parties filed a joint motion for a stay pending appeal on August 28, 2024, which the district court granted on August 29, 2024. The Eighth Circuit affirmed the district court's preliminary injunction on January 24, 2025. The case was then transferred back to the district court for further proceedings.\n\nHowever, after the start of the second Trump administration, the DOJ reversed its stance on the Iowa law and filed a notice of voluntary dismissal on March 14, 2025. On April 16, 2025, the Eighth Circuit dismissed Iowa\u2019s appeal, vacated the district court\u2019s order granting the United States\u2019 motion for a preliminary injunction, and remanded to the district court with instructions to dismiss this action.\n\nThis case is closed.",
+    "target_paragraph": "This case is closed.",
+    "target_paragraph_indices": [
+      2895,
+      2915
+    ],
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2895,
+            2915
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case closed.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

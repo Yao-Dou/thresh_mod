@@ -1,0 +1,1013 @@
+[
+  {
+    "id": "45157_p0",
+    "metadata": {
+      "case_id": "45157",
+      "paragraph_num": 0,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This is a case about healthcare and isolation practices at Wisconsin prisons. On October 26, 2023, i..."
+    },
+    "source": "",
+    "target": "This is a case about healthcare and isolation practices at Wisconsin prisons. On October 26, 2023, inmates at Wisconsin prisons brought a class action suit, filed in the U.S. District Court in the Eastern District of Wisconsin, against the Wisconsin Department of Corrections and certain named prison officials in their official capacities. Plaintiffs sought declaratory and injunctive relief. In their complaint, Plaintiffs\u2019 allegations included that: (1) As a result of defendants\u2019 longstanding practices, there were severe delays in the provision of or complete denial of medical services when inmates seek or clearly require medical, dental, and/or mental health/psychological services. (2) Defendants implemented an unexplained seven-month lockdown at the Waupun Correctional Institution, during which medical delays continued or were exacerbated. (3) Defendants failed to provide minimally adequate living conditions to inmates in the lockdown period. (4) Defendants maintained a policy of isolating prisoners and providing inadequate environmental stimuli or nutrition in isolation, creating a substantial risk of physical and psychiatric harm. Plaintiffs alleged these practices and policies fall short of minimum constitutional guarantees, violating inmates\u2019 Eighth Amendment rights.\n\nOn November 20, 2023, Magistrate Judge William E. Duffin issued a screening order dismissing plaintiffs\u2019 demand for compensatory and punitive damages from defendants, while preserving plaintiffs\u2019 plea of injunctive relief. The court reasoned that a suit against the state against state officials in their official capacity (as opposed to in their personal capacity), like a suit against an arm of the state such as the Department of Corrections, constitutes a suit against the state itself. As the state is immune from actions for damages under the Eleventh Amendment, the court dismissed plaintiffs\u2019 demands for compensatory and punitive damages. Plaintiffs were allowed to continue to pursue injunctive relief.\n\nPlaintiffs thereafter filed an amended complaint on November 21, 2023, seeking declaratory and injunctive relief against the Department of Corrections and named officials, in their individual as well as official capacities. On March 22, 2024, plaintiffs filed a motion for preliminary injunction, arguing that the practices at the Wisconsin prison demonstrated a deliberate indifference to plaintiffs\u2019 well-being and civil rights.\n\nDefendants subsequently filed a motion for partial summary judgment, alleging that plaintiffs failed to exhaust their administrative remedies before they filed their complaint.\n\nOn March 28, 2024, plaintiffs filed a class certification motion, seeking to certify all previous, current, and future inmates in Wisconsin correctional facilities subject to their health practices (medical, mental health, and dental care), or subject to isolation.\n\nOn May 23, 2024, Judge Duffin issued a decision and order granting defendants\u2019 motion for partial summary judgment. Recognizing that federal law requires plaintiffs situated like the plaintiffs here must exhaust administrative remedies before filing suit, the court found that only two complaints relating to dental and eye care made by two of the named plaintiffs exhausted all administrative remedies. The court found all other plaintiffs failed to exhaust their claims prior to filing suit. As such, the court dismissed the plaintiffs\u2019 mental health and isolation-related claims, and the relevant named plaintiffs whose interest in the case related only to those claims.\n\nOn June 4, 2024, Judge Duffin further issued a decision and order denying plaintiffs\u2019 motion for preliminary injunction and for class certification. With respect to the motion for preliminary injunction, the court determined that after defendants\u2019 summary judgment motion had been granted, only two named plaintiffs remained, each with a single discrete claim, and the plaintiffs\u2019 motion did not address those specific claims and therefore was not entitled to a preliminary injunction. With respect to the motion to certify the suit as a class action, the court found class certification improper as plaintiffs did not specify a specific policy at issue nor specify a time period during which the policies at issue were in place.\n\nFollowing the court\u2019s ruling, on August 6, 2024, plaintiffs moved and stipulated to dismiss the case without prejudice. As of that date, the case was dismissed without prejudice to all parties.",
+    "target_paragraph": "This is a case about healthcare and isolation practices at Wisconsin prisons. On October 26, 2023, inmates at Wisconsin prisons brought a class action suit, filed in the U.S. District Court in the Eastern District of Wisconsin, against the Wisconsin Department of Corrections and certain named prison officials in their official capacities. Plaintiffs sought declaratory and injunctive relief. In their complaint, Plaintiffs\u2019 allegations included that: (1) As a result of defendants\u2019 longstanding practices, there were severe delays in the provision of or complete denial of medical services when inmates seek or clearly require medical, dental, and/or mental health/psychological services. (2) Defendants implemented an unexplained seven-month lockdown at the Waupun Correctional Institution, during which medical delays continued or were exacerbated. (3) Defendants failed to provide minimally adequate living conditions to inmates in the lockdown period. (4) Defendants maintained a policy of isolating prisoners and providing inadequate environmental stimuli or nutrition in isolation, creating a substantial risk of physical and psychiatric harm. Plaintiffs alleged these practices and policies fall short of minimum constitutional guarantees, violating inmates\u2019 Eighth Amendment rights.",
+    "target_paragraph_indices": [
+      0,
+      1292
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            78,
+            227
+          ]
+        ],
+        "annotation": {
+          "explanation": "October 26, 2023",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            341,
+            393
+          ],
+          [
+            1152,
+            1292
+          ],
+          [
+            1541,
+            2006
+          ],
+          [
+            2008,
+            2231
+          ],
+          [
+            2251,
+            2438
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional cause of action alleging Eighth Amendment violations for deliberate indifference to medical, dental, and mental health needs and unconstitutional conditions of confinement/isolation, brought as a class action seeking declaratory and injunctive relief against the Wisconsin DOC and prison officials (official and later individual capacities). No specific statute (e.g., 42 U.S.C. \u00a7 1983) or case (e.g., Ex parte Young) is cited in the summary.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            1,
+            2
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1152,
+            1292
+          ]
+        ],
+        "annotation": {
+          "explanation": "Eighth Amendment (constitutional basis of plaintiffs\u2019 claims)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            341,
+            393
+          ],
+          [
+            2008,
+            2231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            341,
+            393
+          ],
+          [
+            1316,
+            1516
+          ],
+          [
+            2008,
+            2231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            0,
+            1,
+            2
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            78,
+            340
+          ],
+          [
+            2618,
+            2883
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Class Action",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            4
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            99,
+            155
+          ],
+          [
+            341,
+            393
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Inmates at Wisconsin prisons (class action plaintiffs seeking declaratory and injunctive relief)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            228,
+            275
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Wisconsin Department of Corrections",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            228,
+            340
+          ],
+          [
+            2079,
+            2231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Certain named prison officials (sued in their official capacities; later also sued in their individual capacities)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            77
+          ],
+          [
+            78,
+            340
+          ],
+          [
+            341,
+            393
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves Wisconsin inmates filing a class action on October 26, 2023, in the Eastern District of Wisconsin against the Department of Corrections and prison officials over healthcare and isolation practices, seeking declaratory and injunctive relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            453,
+            690
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged severe delays or denials of necessary medical, dental, and mental health/psychological services due to longstanding practices.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            691,
+            852
+          ]
+        ],
+        "annotation": {
+          "explanation": "An unexplained seven-month lockdown at Waupun Correctional Institution allegedly continued or worsened medical delays.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            853,
+            957
+          ]
+        ],
+        "annotation": {
+          "explanation": "During the lockdown, inmates were allegedly not provided minimally adequate living conditions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            958,
+            1151
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged policy of isolating prisoners with inadequate environmental stimuli and nutrition, creating substantial risk of physical and psychiatric harm.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1152,
+            1292
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs contend the above practices violate the Eighth Amendment\u2019s minimum constitutional guarantees.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            78,
+            393
+          ]
+        ],
+        "annotation": {
+          "explanation": "Oct 26, 2023: Plaintiffs filed a class action complaint in the E.D. Wis. seeking declaratory and injunctive relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": "45157_p1",
+    "metadata": {
+      "case_id": "45157",
+      "paragraph_num": 1,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On November 20, 2023, Magistrate Judge William E. Duffin issued a screening order dismissing plainti..."
+    },
+    "source": "",
+    "target": "This is a case about healthcare and isolation practices at Wisconsin prisons. On October 26, 2023, inmates at Wisconsin prisons brought a class action suit, filed in the U.S. District Court in the Eastern District of Wisconsin, against the Wisconsin Department of Corrections and certain named prison officials in their official capacities. Plaintiffs sought declaratory and injunctive relief. In their complaint, Plaintiffs\u2019 allegations included that: (1) As a result of defendants\u2019 longstanding practices, there were severe delays in the provision of or complete denial of medical services when inmates seek or clearly require medical, dental, and/or mental health/psychological services. (2) Defendants implemented an unexplained seven-month lockdown at the Waupun Correctional Institution, during which medical delays continued or were exacerbated. (3) Defendants failed to provide minimally adequate living conditions to inmates in the lockdown period. (4) Defendants maintained a policy of isolating prisoners and providing inadequate environmental stimuli or nutrition in isolation, creating a substantial risk of physical and psychiatric harm. Plaintiffs alleged these practices and policies fall short of minimum constitutional guarantees, violating inmates\u2019 Eighth Amendment rights.\n\nOn November 20, 2023, Magistrate Judge William E. Duffin issued a screening order dismissing plaintiffs\u2019 demand for compensatory and punitive damages from defendants, while preserving plaintiffs\u2019 plea of injunctive relief. The court reasoned that a suit against the state against state officials in their official capacity (as opposed to in their personal capacity), like a suit against an arm of the state such as the Department of Corrections, constitutes a suit against the state itself. As the state is immune from actions for damages under the Eleventh Amendment, the court dismissed plaintiffs\u2019 demands for compensatory and punitive damages. Plaintiffs were allowed to continue to pursue injunctive relief.\n\nPlaintiffs thereafter filed an amended complaint on November 21, 2023, seeking declaratory and injunctive relief against the Department of Corrections and named officials, in their individual as well as official capacities. On March 22, 2024, plaintiffs filed a motion for preliminary injunction, arguing that the practices at the Wisconsin prison demonstrated a deliberate indifference to plaintiffs\u2019 well-being and civil rights.\n\nDefendants subsequently filed a motion for partial summary judgment, alleging that plaintiffs failed to exhaust their administrative remedies before they filed their complaint.\n\nOn March 28, 2024, plaintiffs filed a class certification motion, seeking to certify all previous, current, and future inmates in Wisconsin correctional facilities subject to their health practices (medical, mental health, and dental care), or subject to isolation.\n\nOn May 23, 2024, Judge Duffin issued a decision and order granting defendants\u2019 motion for partial summary judgment. Recognizing that federal law requires plaintiffs situated like the plaintiffs here must exhaust administrative remedies before filing suit, the court found that only two complaints relating to dental and eye care made by two of the named plaintiffs exhausted all administrative remedies. The court found all other plaintiffs failed to exhaust their claims prior to filing suit. As such, the court dismissed the plaintiffs\u2019 mental health and isolation-related claims, and the relevant named plaintiffs whose interest in the case related only to those claims.\n\nOn June 4, 2024, Judge Duffin further issued a decision and order denying plaintiffs\u2019 motion for preliminary injunction and for class certification. With respect to the motion for preliminary injunction, the court determined that after defendants\u2019 summary judgment motion had been granted, only two named plaintiffs remained, each with a single discrete claim, and the plaintiffs\u2019 motion did not address those specific claims and therefore was not entitled to a preliminary injunction. With respect to the motion to certify the suit as a class action, the court found class certification improper as plaintiffs did not specify a specific policy at issue nor specify a time period during which the policies at issue were in place.\n\nFollowing the court\u2019s ruling, on August 6, 2024, plaintiffs moved and stipulated to dismiss the case without prejudice. As of that date, the case was dismissed without prejudice to all parties.",
+    "target_paragraph": "On November 20, 2023, Magistrate Judge William E. Duffin issued a screening order dismissing plaintiffs\u2019 demand for compensatory and punitive damages from defendants, while preserving plaintiffs\u2019 plea of injunctive relief. The court reasoned that a suit against the state against state officials in their official capacity (as opposed to in their personal capacity), like a suit against an arm of the state such as the Department of Corrections, constitutes a suit against the state itself. As the state is immune from actions for damages under the Eleventh Amendment, the court dismissed plaintiffs\u2019 demands for compensatory and punitive damages. Plaintiffs were allowed to continue to pursue injunctive relief.",
+    "target_paragraph_indices": [
+      1294,
+      2006
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1785,
+            1941
+          ]
+        ],
+        "annotation": {
+          "explanation": "Eleventh Amendment sovereign immunity (bar on damages against the state and officials in their official capacities)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1316,
+            1516
+          ]
+        ],
+        "annotation": {
+          "explanation": "Compensatory damages (sought initially; dismissed at screening)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1316,
+            1516
+          ]
+        ],
+        "annotation": {
+          "explanation": "Punitive damages (sought initially; dismissed at screening)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1294,
+            1516
+          ],
+          [
+            2885,
+            3000
+          ]
+        ],
+        "annotation": {
+          "explanation": "William E. Duffin",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1294,
+            1516
+          ]
+        ],
+        "annotation": {
+          "explanation": "November 20, 2023: Screening order dismissing plaintiffs\u2019 compensatory and punitive damages claims and preserving injunctive relief.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1294,
+            1516
+          ],
+          [
+            1785,
+            2006
+          ]
+        ],
+        "annotation": {
+          "explanation": "Damages claims were dismissed based on Eleventh Amendment immunity; only injunctive relief claims proceeded.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1294,
+            1516
+          ],
+          [
+            1785,
+            2006
+          ]
+        ],
+        "annotation": {
+          "explanation": "Nov 20, 2023: Screening order (Magistrate Judge William E. Duffin) dismissed plaintiffs\u2019 compensatory and punitive damages claims against official-capacity defendants under Eleventh Amendment immunity; injunctive relief claims allowed to proceed.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "45157_p2",
+    "metadata": {
+      "case_id": "45157",
+      "paragraph_num": 2,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs thereafter filed an amended complaint on November 21, 2023, seeking declaratory and injun..."
+    },
+    "source": "",
+    "target": "This is a case about healthcare and isolation practices at Wisconsin prisons. On October 26, 2023, inmates at Wisconsin prisons brought a class action suit, filed in the U.S. District Court in the Eastern District of Wisconsin, against the Wisconsin Department of Corrections and certain named prison officials in their official capacities. Plaintiffs sought declaratory and injunctive relief. In their complaint, Plaintiffs\u2019 allegations included that: (1) As a result of defendants\u2019 longstanding practices, there were severe delays in the provision of or complete denial of medical services when inmates seek or clearly require medical, dental, and/or mental health/psychological services. (2) Defendants implemented an unexplained seven-month lockdown at the Waupun Correctional Institution, during which medical delays continued or were exacerbated. (3) Defendants failed to provide minimally adequate living conditions to inmates in the lockdown period. (4) Defendants maintained a policy of isolating prisoners and providing inadequate environmental stimuli or nutrition in isolation, creating a substantial risk of physical and psychiatric harm. Plaintiffs alleged these practices and policies fall short of minimum constitutional guarantees, violating inmates\u2019 Eighth Amendment rights.\n\nOn November 20, 2023, Magistrate Judge William E. Duffin issued a screening order dismissing plaintiffs\u2019 demand for compensatory and punitive damages from defendants, while preserving plaintiffs\u2019 plea of injunctive relief. The court reasoned that a suit against the state against state officials in their official capacity (as opposed to in their personal capacity), like a suit against an arm of the state such as the Department of Corrections, constitutes a suit against the state itself. As the state is immune from actions for damages under the Eleventh Amendment, the court dismissed plaintiffs\u2019 demands for compensatory and punitive damages. Plaintiffs were allowed to continue to pursue injunctive relief.\n\nPlaintiffs thereafter filed an amended complaint on November 21, 2023, seeking declaratory and injunctive relief against the Department of Corrections and named officials, in their individual as well as official capacities. On March 22, 2024, plaintiffs filed a motion for preliminary injunction, arguing that the practices at the Wisconsin prison demonstrated a deliberate indifference to plaintiffs\u2019 well-being and civil rights.\n\nDefendants subsequently filed a motion for partial summary judgment, alleging that plaintiffs failed to exhaust their administrative remedies before they filed their complaint.\n\nOn March 28, 2024, plaintiffs filed a class certification motion, seeking to certify all previous, current, and future inmates in Wisconsin correctional facilities subject to their health practices (medical, mental health, and dental care), or subject to isolation.\n\nOn May 23, 2024, Judge Duffin issued a decision and order granting defendants\u2019 motion for partial summary judgment. Recognizing that federal law requires plaintiffs situated like the plaintiffs here must exhaust administrative remedies before filing suit, the court found that only two complaints relating to dental and eye care made by two of the named plaintiffs exhausted all administrative remedies. The court found all other plaintiffs failed to exhaust their claims prior to filing suit. As such, the court dismissed the plaintiffs\u2019 mental health and isolation-related claims, and the relevant named plaintiffs whose interest in the case related only to those claims.\n\nOn June 4, 2024, Judge Duffin further issued a decision and order denying plaintiffs\u2019 motion for preliminary injunction and for class certification. With respect to the motion for preliminary injunction, the court determined that after defendants\u2019 summary judgment motion had been granted, only two named plaintiffs remained, each with a single discrete claim, and the plaintiffs\u2019 motion did not address those specific claims and therefore was not entitled to a preliminary injunction. With respect to the motion to certify the suit as a class action, the court found class certification improper as plaintiffs did not specify a specific policy at issue nor specify a time period during which the policies at issue were in place.\n\nFollowing the court\u2019s ruling, on August 6, 2024, plaintiffs moved and stipulated to dismiss the case without prejudice. As of that date, the case was dismissed without prejudice to all parties.",
+    "target_paragraph": "Plaintiffs thereafter filed an amended complaint on November 21, 2023, seeking declaratory and injunctive relief against the Department of Corrections and named officials, in their individual as well as official capacities. On March 22, 2024, plaintiffs filed a motion for preliminary injunction, arguing that the practices at the Wisconsin prison demonstrated a deliberate indifference to plaintiffs\u2019 well-being and civil rights.",
+    "target_paragraph_indices": [
+      2008,
+      2438
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2232,
+            2438
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunctive relief (motion for preliminary injunction)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2008,
+            2231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs amended their complaint to seek declaratory and injunctive relief against DOC and officials in both individual and official capacities.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2232,
+            2438
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs sought a preliminary injunction, asserting the prison practices showed deliberate indifference to inmates\u2019 well-being and civil rights.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2008,
+            2231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Nov 21, 2023: Plaintiffs filed an amended complaint adding individual-capacity claims and seeking declaratory and injunctive relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2232,
+            2438
+          ],
+          [
+            3560,
+            3679
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mar 22, 2024: Plaintiffs filed a motion for preliminary injunction; denied on Jun 4, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            2,
+            6
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2232,
+            2438
+          ],
+          [
+            3560,
+            3708
+          ],
+          [
+            3709,
+            4045
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 4, 2024: Court denied plaintiffs\u2019 motion for preliminary injunction; after partial summary judgment only two discrete claims remained and the motion did not address those claims.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            2,
+            6
+          ]
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "45157_p3",
+    "metadata": {
+      "case_id": "45157",
+      "paragraph_num": 3,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Defendants subsequently filed a motion for partial summary judgment, alleging that plaintiffs failed..."
+    },
+    "source": "",
+    "target": "This is a case about healthcare and isolation practices at Wisconsin prisons. On October 26, 2023, inmates at Wisconsin prisons brought a class action suit, filed in the U.S. District Court in the Eastern District of Wisconsin, against the Wisconsin Department of Corrections and certain named prison officials in their official capacities. Plaintiffs sought declaratory and injunctive relief. In their complaint, Plaintiffs\u2019 allegations included that: (1) As a result of defendants\u2019 longstanding practices, there were severe delays in the provision of or complete denial of medical services when inmates seek or clearly require medical, dental, and/or mental health/psychological services. (2) Defendants implemented an unexplained seven-month lockdown at the Waupun Correctional Institution, during which medical delays continued or were exacerbated. (3) Defendants failed to provide minimally adequate living conditions to inmates in the lockdown period. (4) Defendants maintained a policy of isolating prisoners and providing inadequate environmental stimuli or nutrition in isolation, creating a substantial risk of physical and psychiatric harm. Plaintiffs alleged these practices and policies fall short of minimum constitutional guarantees, violating inmates\u2019 Eighth Amendment rights.\n\nOn November 20, 2023, Magistrate Judge William E. Duffin issued a screening order dismissing plaintiffs\u2019 demand for compensatory and punitive damages from defendants, while preserving plaintiffs\u2019 plea of injunctive relief. The court reasoned that a suit against the state against state officials in their official capacity (as opposed to in their personal capacity), like a suit against an arm of the state such as the Department of Corrections, constitutes a suit against the state itself. As the state is immune from actions for damages under the Eleventh Amendment, the court dismissed plaintiffs\u2019 demands for compensatory and punitive damages. Plaintiffs were allowed to continue to pursue injunctive relief.\n\nPlaintiffs thereafter filed an amended complaint on November 21, 2023, seeking declaratory and injunctive relief against the Department of Corrections and named officials, in their individual as well as official capacities. On March 22, 2024, plaintiffs filed a motion for preliminary injunction, arguing that the practices at the Wisconsin prison demonstrated a deliberate indifference to plaintiffs\u2019 well-being and civil rights.\n\nDefendants subsequently filed a motion for partial summary judgment, alleging that plaintiffs failed to exhaust their administrative remedies before they filed their complaint.\n\nOn March 28, 2024, plaintiffs filed a class certification motion, seeking to certify all previous, current, and future inmates in Wisconsin correctional facilities subject to their health practices (medical, mental health, and dental care), or subject to isolation.\n\nOn May 23, 2024, Judge Duffin issued a decision and order granting defendants\u2019 motion for partial summary judgment. Recognizing that federal law requires plaintiffs situated like the plaintiffs here must exhaust administrative remedies before filing suit, the court found that only two complaints relating to dental and eye care made by two of the named plaintiffs exhausted all administrative remedies. The court found all other plaintiffs failed to exhaust their claims prior to filing suit. As such, the court dismissed the plaintiffs\u2019 mental health and isolation-related claims, and the relevant named plaintiffs whose interest in the case related only to those claims.\n\nOn June 4, 2024, Judge Duffin further issued a decision and order denying plaintiffs\u2019 motion for preliminary injunction and for class certification. With respect to the motion for preliminary injunction, the court determined that after defendants\u2019 summary judgment motion had been granted, only two named plaintiffs remained, each with a single discrete claim, and the plaintiffs\u2019 motion did not address those specific claims and therefore was not entitled to a preliminary injunction. With respect to the motion to certify the suit as a class action, the court found class certification improper as plaintiffs did not specify a specific policy at issue nor specify a time period during which the policies at issue were in place.\n\nFollowing the court\u2019s ruling, on August 6, 2024, plaintiffs moved and stipulated to dismiss the case without prejudice. As of that date, the case was dismissed without prejudice to all parties.",
+    "target_paragraph": "Defendants subsequently filed a motion for partial summary judgment, alleging that plaintiffs failed to exhaust their administrative remedies before they filed their complaint.",
+    "target_paragraph_indices": [
+      2440,
+      2616
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2440,
+            2616
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants moved for partial summary judgment based on alleged failure to exhaust administrative remedies.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2440,
+            2616
+          ],
+          [
+            2885,
+            3000
+          ],
+          [
+            3379,
+            3558
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a motion for partial summary judgment; granted on May 23, 2024, resulting in dismissal of mental health and isolation-related claims and some named plaintiffs.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            3,
+            5
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2440,
+            2616
+          ],
+          [
+            2885,
+            3000
+          ],
+          [
+            3001,
+            3558
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 23, 2024: Court granted defendants\u2019 motion for partial summary judgment for failure to exhaust; only two named plaintiffs\u2019 discrete dental and eye-care claims remained; mental health and isolation claims and related plaintiffs were dismissed.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            3,
+            5
+          ]
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "45157_p4",
+    "metadata": {
+      "case_id": "45157",
+      "paragraph_num": 4,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 28, 2024, plaintiffs filed a class certification motion, seeking to certify all previous, c..."
+    },
+    "source": "",
+    "target": "This is a case about healthcare and isolation practices at Wisconsin prisons. On October 26, 2023, inmates at Wisconsin prisons brought a class action suit, filed in the U.S. District Court in the Eastern District of Wisconsin, against the Wisconsin Department of Corrections and certain named prison officials in their official capacities. Plaintiffs sought declaratory and injunctive relief. In their complaint, Plaintiffs\u2019 allegations included that: (1) As a result of defendants\u2019 longstanding practices, there were severe delays in the provision of or complete denial of medical services when inmates seek or clearly require medical, dental, and/or mental health/psychological services. (2) Defendants implemented an unexplained seven-month lockdown at the Waupun Correctional Institution, during which medical delays continued or were exacerbated. (3) Defendants failed to provide minimally adequate living conditions to inmates in the lockdown period. (4) Defendants maintained a policy of isolating prisoners and providing inadequate environmental stimuli or nutrition in isolation, creating a substantial risk of physical and psychiatric harm. Plaintiffs alleged these practices and policies fall short of minimum constitutional guarantees, violating inmates\u2019 Eighth Amendment rights.\n\nOn November 20, 2023, Magistrate Judge William E. Duffin issued a screening order dismissing plaintiffs\u2019 demand for compensatory and punitive damages from defendants, while preserving plaintiffs\u2019 plea of injunctive relief. The court reasoned that a suit against the state against state officials in their official capacity (as opposed to in their personal capacity), like a suit against an arm of the state such as the Department of Corrections, constitutes a suit against the state itself. As the state is immune from actions for damages under the Eleventh Amendment, the court dismissed plaintiffs\u2019 demands for compensatory and punitive damages. Plaintiffs were allowed to continue to pursue injunctive relief.\n\nPlaintiffs thereafter filed an amended complaint on November 21, 2023, seeking declaratory and injunctive relief against the Department of Corrections and named officials, in their individual as well as official capacities. On March 22, 2024, plaintiffs filed a motion for preliminary injunction, arguing that the practices at the Wisconsin prison demonstrated a deliberate indifference to plaintiffs\u2019 well-being and civil rights.\n\nDefendants subsequently filed a motion for partial summary judgment, alleging that plaintiffs failed to exhaust their administrative remedies before they filed their complaint.\n\nOn March 28, 2024, plaintiffs filed a class certification motion, seeking to certify all previous, current, and future inmates in Wisconsin correctional facilities subject to their health practices (medical, mental health, and dental care), or subject to isolation.\n\nOn May 23, 2024, Judge Duffin issued a decision and order granting defendants\u2019 motion for partial summary judgment. Recognizing that federal law requires plaintiffs situated like the plaintiffs here must exhaust administrative remedies before filing suit, the court found that only two complaints relating to dental and eye care made by two of the named plaintiffs exhausted all administrative remedies. The court found all other plaintiffs failed to exhaust their claims prior to filing suit. As such, the court dismissed the plaintiffs\u2019 mental health and isolation-related claims, and the relevant named plaintiffs whose interest in the case related only to those claims.\n\nOn June 4, 2024, Judge Duffin further issued a decision and order denying plaintiffs\u2019 motion for preliminary injunction and for class certification. With respect to the motion for preliminary injunction, the court determined that after defendants\u2019 summary judgment motion had been granted, only two named plaintiffs remained, each with a single discrete claim, and the plaintiffs\u2019 motion did not address those specific claims and therefore was not entitled to a preliminary injunction. With respect to the motion to certify the suit as a class action, the court found class certification improper as plaintiffs did not specify a specific policy at issue nor specify a time period during which the policies at issue were in place.\n\nFollowing the court\u2019s ruling, on August 6, 2024, plaintiffs moved and stipulated to dismiss the case without prejudice. As of that date, the case was dismissed without prejudice to all parties.",
+    "target_paragraph": "On March 28, 2024, plaintiffs filed a class certification motion, seeking to certify all previous, current, and future inmates in Wisconsin correctional facilities subject to their health practices (medical, mental health, and dental care), or subject to isolation.",
+    "target_paragraph_indices": [
+      2618,
+      2883
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2618,
+            2883
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs sought to certify a class comprising all prior, current, and future Wisconsin inmates subject to health care practices or isolation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2618,
+            2883
+          ],
+          [
+            3560,
+            3708
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mar 28, 2024: Plaintiffs filed a motion for class certification; denied on Jun 4, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            4,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2618,
+            2883
+          ],
+          [
+            3560,
+            3708
+          ],
+          [
+            4046,
+            4289
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 4, 2024: Court denied plaintiffs\u2019 motion for class certification because plaintiffs did not identify a specific policy or time period.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            4,
+            6
+          ]
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "45157_p5",
+    "metadata": {
+      "case_id": "45157",
+      "paragraph_num": 5,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 23, 2024, Judge Duffin issued a decision and order granting defendants\u2019 motion for partial su..."
+    },
+    "source": "",
+    "target": "This is a case about healthcare and isolation practices at Wisconsin prisons. On October 26, 2023, inmates at Wisconsin prisons brought a class action suit, filed in the U.S. District Court in the Eastern District of Wisconsin, against the Wisconsin Department of Corrections and certain named prison officials in their official capacities. Plaintiffs sought declaratory and injunctive relief. In their complaint, Plaintiffs\u2019 allegations included that: (1) As a result of defendants\u2019 longstanding practices, there were severe delays in the provision of or complete denial of medical services when inmates seek or clearly require medical, dental, and/or mental health/psychological services. (2) Defendants implemented an unexplained seven-month lockdown at the Waupun Correctional Institution, during which medical delays continued or were exacerbated. (3) Defendants failed to provide minimally adequate living conditions to inmates in the lockdown period. (4) Defendants maintained a policy of isolating prisoners and providing inadequate environmental stimuli or nutrition in isolation, creating a substantial risk of physical and psychiatric harm. Plaintiffs alleged these practices and policies fall short of minimum constitutional guarantees, violating inmates\u2019 Eighth Amendment rights.\n\nOn November 20, 2023, Magistrate Judge William E. Duffin issued a screening order dismissing plaintiffs\u2019 demand for compensatory and punitive damages from defendants, while preserving plaintiffs\u2019 plea of injunctive relief. The court reasoned that a suit against the state against state officials in their official capacity (as opposed to in their personal capacity), like a suit against an arm of the state such as the Department of Corrections, constitutes a suit against the state itself. As the state is immune from actions for damages under the Eleventh Amendment, the court dismissed plaintiffs\u2019 demands for compensatory and punitive damages. Plaintiffs were allowed to continue to pursue injunctive relief.\n\nPlaintiffs thereafter filed an amended complaint on November 21, 2023, seeking declaratory and injunctive relief against the Department of Corrections and named officials, in their individual as well as official capacities. On March 22, 2024, plaintiffs filed a motion for preliminary injunction, arguing that the practices at the Wisconsin prison demonstrated a deliberate indifference to plaintiffs\u2019 well-being and civil rights.\n\nDefendants subsequently filed a motion for partial summary judgment, alleging that plaintiffs failed to exhaust their administrative remedies before they filed their complaint.\n\nOn March 28, 2024, plaintiffs filed a class certification motion, seeking to certify all previous, current, and future inmates in Wisconsin correctional facilities subject to their health practices (medical, mental health, and dental care), or subject to isolation.\n\nOn May 23, 2024, Judge Duffin issued a decision and order granting defendants\u2019 motion for partial summary judgment. Recognizing that federal law requires plaintiffs situated like the plaintiffs here must exhaust administrative remedies before filing suit, the court found that only two complaints relating to dental and eye care made by two of the named plaintiffs exhausted all administrative remedies. The court found all other plaintiffs failed to exhaust their claims prior to filing suit. As such, the court dismissed the plaintiffs\u2019 mental health and isolation-related claims, and the relevant named plaintiffs whose interest in the case related only to those claims.\n\nOn June 4, 2024, Judge Duffin further issued a decision and order denying plaintiffs\u2019 motion for preliminary injunction and for class certification. With respect to the motion for preliminary injunction, the court determined that after defendants\u2019 summary judgment motion had been granted, only two named plaintiffs remained, each with a single discrete claim, and the plaintiffs\u2019 motion did not address those specific claims and therefore was not entitled to a preliminary injunction. With respect to the motion to certify the suit as a class action, the court found class certification improper as plaintiffs did not specify a specific policy at issue nor specify a time period during which the policies at issue were in place.\n\nFollowing the court\u2019s ruling, on August 6, 2024, plaintiffs moved and stipulated to dismiss the case without prejudice. As of that date, the case was dismissed without prejudice to all parties.",
+    "target_paragraph": "On May 23, 2024, Judge Duffin issued a decision and order granting defendants\u2019 motion for partial summary judgment. Recognizing that federal law requires plaintiffs situated like the plaintiffs here must exhaust administrative remedies before filing suit, the court found that only two complaints relating to dental and eye care made by two of the named plaintiffs exhausted all administrative remedies. The court found all other plaintiffs failed to exhaust their claims prior to filing suit. As such, the court dismissed the plaintiffs\u2019 mental health and isolation-related claims, and the relevant named plaintiffs whose interest in the case related only to those claims.",
+    "target_paragraph_indices": [
+      2885,
+      3558
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            3001,
+            3139
+          ]
+        ],
+        "annotation": {
+          "explanation": "Federal statutory exhaustion requirement (requirement to exhaust administrative remedies before filing suit)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            2885,
+            3288
+          ],
+          [
+            3560,
+            3708
+          ],
+          [
+            3709,
+            3919
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as two named plaintiffs remained, each with a single discrete claim, with only two complaints relating to dental and eye care exhausted",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2885,
+            3000
+          ],
+          [
+            3379,
+            3558
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 23, 2024: Decision and order granting defendants\u2019 motion for partial summary judgment and dismissing plaintiffs\u2019 mental health and isolation-related claims (and relevant named plaintiffs).",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3001,
+            3288
+          ],
+          [
+            3289,
+            3378
+          ],
+          [
+            3379,
+            3558
+          ]
+        ],
+        "annotation": {
+          "explanation": "Only two administrative complaints (dental and eye care) by two named plaintiffs were fully exhausted; all other claims were unexhausted, leading to dismissal of mental health and isolation-related claims.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "45157_p6",
+    "metadata": {
+      "case_id": "45157",
+      "paragraph_num": 6,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 4, 2024, Judge Duffin further issued a decision and order denying plaintiffs\u2019 motion for pre..."
+    },
+    "source": "",
+    "target": "This is a case about healthcare and isolation practices at Wisconsin prisons. On October 26, 2023, inmates at Wisconsin prisons brought a class action suit, filed in the U.S. District Court in the Eastern District of Wisconsin, against the Wisconsin Department of Corrections and certain named prison officials in their official capacities. Plaintiffs sought declaratory and injunctive relief. In their complaint, Plaintiffs\u2019 allegations included that: (1) As a result of defendants\u2019 longstanding practices, there were severe delays in the provision of or complete denial of medical services when inmates seek or clearly require medical, dental, and/or mental health/psychological services. (2) Defendants implemented an unexplained seven-month lockdown at the Waupun Correctional Institution, during which medical delays continued or were exacerbated. (3) Defendants failed to provide minimally adequate living conditions to inmates in the lockdown period. (4) Defendants maintained a policy of isolating prisoners and providing inadequate environmental stimuli or nutrition in isolation, creating a substantial risk of physical and psychiatric harm. Plaintiffs alleged these practices and policies fall short of minimum constitutional guarantees, violating inmates\u2019 Eighth Amendment rights.\n\nOn November 20, 2023, Magistrate Judge William E. Duffin issued a screening order dismissing plaintiffs\u2019 demand for compensatory and punitive damages from defendants, while preserving plaintiffs\u2019 plea of injunctive relief. The court reasoned that a suit against the state against state officials in their official capacity (as opposed to in their personal capacity), like a suit against an arm of the state such as the Department of Corrections, constitutes a suit against the state itself. As the state is immune from actions for damages under the Eleventh Amendment, the court dismissed plaintiffs\u2019 demands for compensatory and punitive damages. Plaintiffs were allowed to continue to pursue injunctive relief.\n\nPlaintiffs thereafter filed an amended complaint on November 21, 2023, seeking declaratory and injunctive relief against the Department of Corrections and named officials, in their individual as well as official capacities. On March 22, 2024, plaintiffs filed a motion for preliminary injunction, arguing that the practices at the Wisconsin prison demonstrated a deliberate indifference to plaintiffs\u2019 well-being and civil rights.\n\nDefendants subsequently filed a motion for partial summary judgment, alleging that plaintiffs failed to exhaust their administrative remedies before they filed their complaint.\n\nOn March 28, 2024, plaintiffs filed a class certification motion, seeking to certify all previous, current, and future inmates in Wisconsin correctional facilities subject to their health practices (medical, mental health, and dental care), or subject to isolation.\n\nOn May 23, 2024, Judge Duffin issued a decision and order granting defendants\u2019 motion for partial summary judgment. Recognizing that federal law requires plaintiffs situated like the plaintiffs here must exhaust administrative remedies before filing suit, the court found that only two complaints relating to dental and eye care made by two of the named plaintiffs exhausted all administrative remedies. The court found all other plaintiffs failed to exhaust their claims prior to filing suit. As such, the court dismissed the plaintiffs\u2019 mental health and isolation-related claims, and the relevant named plaintiffs whose interest in the case related only to those claims.\n\nOn June 4, 2024, Judge Duffin further issued a decision and order denying plaintiffs\u2019 motion for preliminary injunction and for class certification. With respect to the motion for preliminary injunction, the court determined that after defendants\u2019 summary judgment motion had been granted, only two named plaintiffs remained, each with a single discrete claim, and the plaintiffs\u2019 motion did not address those specific claims and therefore was not entitled to a preliminary injunction. With respect to the motion to certify the suit as a class action, the court found class certification improper as plaintiffs did not specify a specific policy at issue nor specify a time period during which the policies at issue were in place.\n\nFollowing the court\u2019s ruling, on August 6, 2024, plaintiffs moved and stipulated to dismiss the case without prejudice. As of that date, the case was dismissed without prejudice to all parties.",
+    "target_paragraph": "On June 4, 2024, Judge Duffin further issued a decision and order denying plaintiffs\u2019 motion for preliminary injunction and for class certification. With respect to the motion for preliminary injunction, the court determined that after defendants\u2019 summary judgment motion had been granted, only two named plaintiffs remained, each with a single discrete claim, and the plaintiffs\u2019 motion did not address those specific claims and therefore was not entitled to a preliminary injunction. With respect to the motion to certify the suit as a class action, the court found class certification improper as plaintiffs did not specify a specific policy at issue nor specify a time period during which the policies at issue were in place.",
+    "target_paragraph_indices": [
+      3560,
+      4289
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3560,
+            3708
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 4, 2024: Decision and order denying plaintiffs\u2019 motion for preliminary injunction and class certification.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3709,
+            4045
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction was denied because only two discrete claims remained and the motion did not address those specific claims.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4046,
+            4289
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification was denied due to failure to identify a specific policy and timeframe.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "45157_p7",
+    "metadata": {
+      "case_id": "45157",
+      "paragraph_num": 7,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Following the court\u2019s ruling, on August 6, 2024, plaintiffs moved and stipulated to dismiss the case..."
+    },
+    "source": "",
+    "target": "This is a case about healthcare and isolation practices at Wisconsin prisons. On October 26, 2023, inmates at Wisconsin prisons brought a class action suit, filed in the U.S. District Court in the Eastern District of Wisconsin, against the Wisconsin Department of Corrections and certain named prison officials in their official capacities. Plaintiffs sought declaratory and injunctive relief. In their complaint, Plaintiffs\u2019 allegations included that: (1) As a result of defendants\u2019 longstanding practices, there were severe delays in the provision of or complete denial of medical services when inmates seek or clearly require medical, dental, and/or mental health/psychological services. (2) Defendants implemented an unexplained seven-month lockdown at the Waupun Correctional Institution, during which medical delays continued or were exacerbated. (3) Defendants failed to provide minimally adequate living conditions to inmates in the lockdown period. (4) Defendants maintained a policy of isolating prisoners and providing inadequate environmental stimuli or nutrition in isolation, creating a substantial risk of physical and psychiatric harm. Plaintiffs alleged these practices and policies fall short of minimum constitutional guarantees, violating inmates\u2019 Eighth Amendment rights.\n\nOn November 20, 2023, Magistrate Judge William E. Duffin issued a screening order dismissing plaintiffs\u2019 demand for compensatory and punitive damages from defendants, while preserving plaintiffs\u2019 plea of injunctive relief. The court reasoned that a suit against the state against state officials in their official capacity (as opposed to in their personal capacity), like a suit against an arm of the state such as the Department of Corrections, constitutes a suit against the state itself. As the state is immune from actions for damages under the Eleventh Amendment, the court dismissed plaintiffs\u2019 demands for compensatory and punitive damages. Plaintiffs were allowed to continue to pursue injunctive relief.\n\nPlaintiffs thereafter filed an amended complaint on November 21, 2023, seeking declaratory and injunctive relief against the Department of Corrections and named officials, in their individual as well as official capacities. On March 22, 2024, plaintiffs filed a motion for preliminary injunction, arguing that the practices at the Wisconsin prison demonstrated a deliberate indifference to plaintiffs\u2019 well-being and civil rights.\n\nDefendants subsequently filed a motion for partial summary judgment, alleging that plaintiffs failed to exhaust their administrative remedies before they filed their complaint.\n\nOn March 28, 2024, plaintiffs filed a class certification motion, seeking to certify all previous, current, and future inmates in Wisconsin correctional facilities subject to their health practices (medical, mental health, and dental care), or subject to isolation.\n\nOn May 23, 2024, Judge Duffin issued a decision and order granting defendants\u2019 motion for partial summary judgment. Recognizing that federal law requires plaintiffs situated like the plaintiffs here must exhaust administrative remedies before filing suit, the court found that only two complaints relating to dental and eye care made by two of the named plaintiffs exhausted all administrative remedies. The court found all other plaintiffs failed to exhaust their claims prior to filing suit. As such, the court dismissed the plaintiffs\u2019 mental health and isolation-related claims, and the relevant named plaintiffs whose interest in the case related only to those claims.\n\nOn June 4, 2024, Judge Duffin further issued a decision and order denying plaintiffs\u2019 motion for preliminary injunction and for class certification. With respect to the motion for preliminary injunction, the court determined that after defendants\u2019 summary judgment motion had been granted, only two named plaintiffs remained, each with a single discrete claim, and the plaintiffs\u2019 motion did not address those specific claims and therefore was not entitled to a preliminary injunction. With respect to the motion to certify the suit as a class action, the court found class certification improper as plaintiffs did not specify a specific policy at issue nor specify a time period during which the policies at issue were in place.\n\nFollowing the court\u2019s ruling, on August 6, 2024, plaintiffs moved and stipulated to dismiss the case without prejudice. As of that date, the case was dismissed without prejudice to all parties.",
+    "target_paragraph": "Following the court\u2019s ruling, on August 6, 2024, plaintiffs moved and stipulated to dismiss the case without prejudice. As of that date, the case was dismissed without prejudice to all parties.",
+    "target_paragraph_indices": [
+      4291,
+      4484
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4291,
+            4410
+          ],
+          [
+            4411,
+            4484
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 6, 2024: Case dismissed without prejudice pursuant to plaintiffs\u2019 stipulation.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4291,
+            4484
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case was dismissed without prejudice on August 6, 2024, by stipulation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4291,
+            4410
+          ],
+          [
+            4411,
+            4484
+          ]
+        ],
+        "annotation": {
+          "explanation": "Aug 6, 2024: Plaintiffs moved and stipulated to dismiss the case without prejudice; case dismissed without prejudice as of that date.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4291,
+            4484
+          ]
+        ],
+        "annotation": {
+          "explanation": "Aug 6, 2024: Case dismissed without prejudice pursuant to plaintiffs\u2019 motion and stipulation.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  }
+]

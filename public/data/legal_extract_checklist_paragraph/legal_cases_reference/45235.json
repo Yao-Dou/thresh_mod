@@ -1,0 +1,727 @@
+[
+  {
+    "id": "45235_p0",
+    "metadata": {
+      "case_id": "45235",
+      "paragraph_num": 0,
+      "total_paragraphs": 3,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The Cosac Foundation, Inc. (Plaintiff), a non-profit charitable corporation dedicated to helping the..."
+    },
+    "source": "",
+    "target": "The Cosac Foundation, Inc. (Plaintiff), a non-profit charitable corporation dedicated to helping the homeless, brought this lawsuit on December 21, 2023 against Columbia County, Florida (defendant) in the U.S. District Court for the Middle District of Florida. The plaintiff challenged Columbia County Ordinance NO. 2022-03 (the ordinance), which prohibited solicitation and loitering within or upon any county building or the curtilage of those buildings. Specifically, the plaintiff claimed that the ordinance violated the First Amendment because it was an overbroad restriction on speech in traditional public fora. Additionally, the plaintiff claimed that the ordinance was unconstitutionally vague in violation of the Due Process Clause of the Fourteenth Amendment. The plaintiff sought a declaration that the ordinance violated the First and Fourteenth Amendments, both facially and as-applied, a preliminary and permanent injunction against enforcement of the ordinance, all damages permitted by law, and attorneys\u2019 fees and costs. The case was assigned to Judge Marcia Morales Howard.\n\nOn December 22, 2023, the plaintiffs filed a motion for a preliminary injunction. On January 24, 2024, the defendant filed a motion to dismiss. Two days later, the court granted in part and denied in part the plaintiff\u2019s motion for a preliminary injunction. The court found that the plaintiff was substantially likely to succeed on the merits regarding both the First Amendment and the Fourteenth Amendment claims, and it enjoined the defendant from enforcing the ordinance. The court denied the plaintiff\u2019s motion in any other respects.\n\nOn June 28, 2024, the plaintiff moved for summary judgment. After the defendant asked for an extension to file a response to the plaintiff\u2019s motion, the defendant filed a notice of settlement on September 27, 2024. The parties subsequently filed a stipulation of dismissal, and the court dismissed the case with prejudice on October 24, 2024. The terms of the settlement were not made public. The case is now closed.",
+    "target_paragraph": "The Cosac Foundation, Inc. (Plaintiff), a non-profit charitable corporation dedicated to helping the homeless, brought this lawsuit on December 21, 2023 against Columbia County, Florida (defendant) in the U.S. District Court for the Middle District of Florida. The plaintiff challenged Columbia County Ordinance NO. 2022-03 (the ordinance), which prohibited solicitation and loitering within or upon any county building or the curtilage of those buildings. Specifically, the plaintiff claimed that the ordinance violated the First Amendment because it was an overbroad restriction on speech in traditional public fora. Additionally, the plaintiff claimed that the ordinance was unconstitutionally vague in violation of the Due Process Clause of the Fourteenth Amendment. The plaintiff sought a declaration that the ordinance violated the First and Fourteenth Amendments, both facially and as-applied, a preliminary and permanent injunction against enforcement of the ordinance, all damages permitted by law, and attorneys\u2019 fees and costs. The case was assigned to Judge Marcia Morales Howard.",
+    "target_paragraph_indices": [
+      0,
+      1092
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            111,
+            152
+          ]
+        ],
+        "annotation": {
+          "explanation": "December 21, 2023",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            457,
+            618
+          ],
+          [
+            771,
+            1038
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment free-speech overbreadth challenge to the ordinance in traditional public fora; brought as both facial and as-applied challenges; no specific statute or case cited in the summary.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            619,
+            770
+          ],
+          [
+            771,
+            1038
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment Due Process vagueness challenge to the ordinance; brought as both facial and as-applied challenges; no specific statute or case cited in the summary.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            471,
+            618
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            633,
+            770
+          ]
+        ],
+        "annotation": {
+          "explanation": "Due Process Clause of the Fourteenth Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            771,
+            1038
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief that the ordinance violated the First and Fourteenth Amendments, both facially and as-applied",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            771,
+            1038
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary and permanent injunction against enforcement of the ordinance",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            771,
+            1038
+          ]
+        ],
+        "annotation": {
+          "explanation": "All damages permitted by law",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            771,
+            1038
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys\u2019 fees and costs",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1039,
+            1092
+          ]
+        ],
+        "annotation": {
+          "explanation": "Marcia Morales Howard",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            0,
+            260
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as The Cosac Foundation, Inc., a non-profit charitable corporation dedicated to helping the homeless",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            260
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: The Cosac Foundation, Inc., a non-profit charitable corporation dedicated to helping the homeless.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            260
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Columbia County, Florida.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            260
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties and filing: Cosac Foundation (non-profit aiding the homeless) sued Columbia County, Florida on December 21, 2023 in the U.S. District Court for the Middle District of Florida.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            286,
+            456
+          ]
+        ],
+        "annotation": {
+          "explanation": "Challenged law: Columbia County Ordinance No. 2022-03 prohibits solicitation and loitering within or upon any county building or the curtilage of those buildings.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            457,
+            618
+          ],
+          [
+            619,
+            770
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims: The ordinance allegedly violates the First Amendment as an overbroad restriction on speech in traditional public fora and is unconstitutionally vague under the Fourteenth Amendment\u2019s Due Process Clause.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            771,
+            1038
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: Declaratory judgment (facial and as-applied), preliminary and permanent injunctions against enforcement, damages permitted by law, and attorneys\u2019 fees and costs.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1039,
+            1092
+          ]
+        ],
+        "annotation": {
+          "explanation": "Judge: Marcia Morales Howard.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            111,
+            260
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed initiating the case on December 21, 2023 (M.D. Fla.).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      }
+    ]
+  },
+  {
+    "id": "45235_p1",
+    "metadata": {
+      "case_id": "45235",
+      "paragraph_num": 1,
+      "total_paragraphs": 3,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On December 22, 2023, the plaintiffs filed a motion for a preliminary injunction. On January 24, 202..."
+    },
+    "source": "",
+    "target": "The Cosac Foundation, Inc. (Plaintiff), a non-profit charitable corporation dedicated to helping the homeless, brought this lawsuit on December 21, 2023 against Columbia County, Florida (defendant) in the U.S. District Court for the Middle District of Florida. The plaintiff challenged Columbia County Ordinance NO. 2022-03 (the ordinance), which prohibited solicitation and loitering within or upon any county building or the curtilage of those buildings. Specifically, the plaintiff claimed that the ordinance violated the First Amendment because it was an overbroad restriction on speech in traditional public fora. Additionally, the plaintiff claimed that the ordinance was unconstitutionally vague in violation of the Due Process Clause of the Fourteenth Amendment. The plaintiff sought a declaration that the ordinance violated the First and Fourteenth Amendments, both facially and as-applied, a preliminary and permanent injunction against enforcement of the ordinance, all damages permitted by law, and attorneys\u2019 fees and costs. The case was assigned to Judge Marcia Morales Howard.\n\nOn December 22, 2023, the plaintiffs filed a motion for a preliminary injunction. On January 24, 2024, the defendant filed a motion to dismiss. Two days later, the court granted in part and denied in part the plaintiff\u2019s motion for a preliminary injunction. The court found that the plaintiff was substantially likely to succeed on the merits regarding both the First Amendment and the Fourteenth Amendment claims, and it enjoined the defendant from enforcing the ordinance. The court denied the plaintiff\u2019s motion in any other respects.\n\nOn June 28, 2024, the plaintiff moved for summary judgment. After the defendant asked for an extension to file a response to the plaintiff\u2019s motion, the defendant filed a notice of settlement on September 27, 2024. The parties subsequently filed a stipulation of dismissal, and the court dismissed the case with prejudice on October 24, 2024. The terms of the settlement were not made public. The case is now closed.",
+    "target_paragraph": "On December 22, 2023, the plaintiffs filed a motion for a preliminary injunction. On January 24, 2024, the defendant filed a motion to dismiss. Two days later, the court granted in part and denied in part the plaintiff\u2019s motion for a preliminary injunction. The court found that the plaintiff was substantially likely to succeed on the merits regarding both the First Amendment and the Fourteenth Amendment claims, and it enjoined the defendant from enforcing the ordinance. The court denied the plaintiff\u2019s motion in any other respects.",
+    "target_paragraph_indices": [
+      1094,
+      1631
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            1238,
+            1351
+          ],
+          [
+            1513,
+            1568
+          ]
+        ],
+        "annotation": {
+          "explanation": "Not specified: Preliminary injunction enjoining the defendant from enforcing the ordinance.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1094,
+            1175
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural event: Plaintiff moved for a preliminary injunction on December 22, 2023.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1176,
+            1237
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural event: Defendant moved to dismiss on January 24, 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1238,
+            1351
+          ],
+          [
+            1352,
+            1568
+          ],
+          [
+            1569,
+            1631
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction ruling: Two days after Jan. 24, 2024 filing, the court granted in part and denied in part the PI motion, found a substantial likelihood of success on First and Fourteenth Amendment claims, and enjoined enforcement of the ordinance.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1094,
+            1175
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff\u2019s motion for preliminary injunction filed on December 22, 2023.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1176,
+            1237
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant\u2019s motion to dismiss filed on January 24, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1238,
+            1351
+          ],
+          [
+            1352,
+            1568
+          ],
+          [
+            1569,
+            1631
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order granting in part and denying in part plaintiff\u2019s motion for preliminary injunction; court enjoined enforcement of the ordinance and denied other requested relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1238,
+            1351
+          ],
+          [
+            1513,
+            1568
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction: Defendant Columbia County, Florida is enjoined from enforcing Columbia County Ordinance No. 2022-03.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1094,
+            1175
+          ],
+          [
+            1238,
+            1351
+          ],
+          [
+            1352,
+            1568
+          ],
+          [
+            1569,
+            1631
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction: granted in part and denied in part; court enjoined enforcement of the ordinance; otherwise denied.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "45235_p2",
+    "metadata": {
+      "case_id": "45235",
+      "paragraph_num": 2,
+      "total_paragraphs": 3,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 28, 2024, the plaintiff moved for summary judgment. After the defendant asked for an extensi..."
+    },
+    "source": "",
+    "target": "The Cosac Foundation, Inc. (Plaintiff), a non-profit charitable corporation dedicated to helping the homeless, brought this lawsuit on December 21, 2023 against Columbia County, Florida (defendant) in the U.S. District Court for the Middle District of Florida. The plaintiff challenged Columbia County Ordinance NO. 2022-03 (the ordinance), which prohibited solicitation and loitering within or upon any county building or the curtilage of those buildings. Specifically, the plaintiff claimed that the ordinance violated the First Amendment because it was an overbroad restriction on speech in traditional public fora. Additionally, the plaintiff claimed that the ordinance was unconstitutionally vague in violation of the Due Process Clause of the Fourteenth Amendment. The plaintiff sought a declaration that the ordinance violated the First and Fourteenth Amendments, both facially and as-applied, a preliminary and permanent injunction against enforcement of the ordinance, all damages permitted by law, and attorneys\u2019 fees and costs. The case was assigned to Judge Marcia Morales Howard.\n\nOn December 22, 2023, the plaintiffs filed a motion for a preliminary injunction. On January 24, 2024, the defendant filed a motion to dismiss. Two days later, the court granted in part and denied in part the plaintiff\u2019s motion for a preliminary injunction. The court found that the plaintiff was substantially likely to succeed on the merits regarding both the First Amendment and the Fourteenth Amendment claims, and it enjoined the defendant from enforcing the ordinance. The court denied the plaintiff\u2019s motion in any other respects.\n\nOn June 28, 2024, the plaintiff moved for summary judgment. After the defendant asked for an extension to file a response to the plaintiff\u2019s motion, the defendant filed a notice of settlement on September 27, 2024. The parties subsequently filed a stipulation of dismissal, and the court dismissed the case with prejudice on October 24, 2024. The terms of the settlement were not made public. The case is now closed.",
+    "target_paragraph": "On June 28, 2024, the plaintiff moved for summary judgment. After the defendant asked for an extension to file a response to the plaintiff\u2019s motion, the defendant filed a notice of settlement on September 27, 2024. The parties subsequently filed a stipulation of dismissal, and the court dismissed the case with prejudice on October 24, 2024. The terms of the settlement were not made public. The case is now closed.",
+    "target_paragraph_indices": [
+      1633,
+      2049
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            1911,
+            1975
+          ]
+        ],
+        "annotation": {
+          "explanation": "Not specified: Dismissal with prejudice.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            1782,
+            1847
+          ]
+        ],
+        "annotation": {
+          "explanation": "September 27, 2024: defendant filed a notice of settlement.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            1848,
+            1975
+          ]
+        ],
+        "annotation": {
+          "explanation": "October 24, 2024: court dismissed the case with prejudice.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            1782,
+            1847
+          ],
+          [
+            1848,
+            1975
+          ],
+          [
+            1976,
+            2025
+          ]
+        ],
+        "annotation": {
+          "explanation": "No.",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1848,
+            1975
+          ]
+        ],
+        "annotation": {
+          "explanation": "October 24, 2024: the court dismissed the case with prejudice.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1633,
+            1692
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural event: Plaintiff moved for summary judgment on June 28, 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1693,
+            1847
+          ],
+          [
+            1848,
+            1975
+          ],
+          [
+            1976,
+            2025
+          ],
+          [
+            2026,
+            2049
+          ]
+        ],
+        "annotation": {
+          "explanation": "Resolution: Defendant filed a notice of settlement on September 27, 2024; the case was dismissed with prejudice on October 24, 2024 pursuant to a stipulation of dismissal; settlement terms were not public; case closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1633,
+            1692
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff\u2019s motion for summary judgment filed on June 28, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1693,
+            1781
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant requested an extension to file a response to the summary judgment motion.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1782,
+            1847
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant\u2019s notice of settlement filed on September 27, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1848,
+            1975
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties filed a stipulation of dismissal; court dismissed the case with prejudice on October 24, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1976,
+            2025
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement terms undisclosed; no publicly available obligations.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      }
+    ]
+  }
+]

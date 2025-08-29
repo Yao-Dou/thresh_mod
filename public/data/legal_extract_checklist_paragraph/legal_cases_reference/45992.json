@@ -1,0 +1,1174 @@
+[
+  {
+    "id": "45992_p0",
+    "metadata": {
+      "case_id": "45992",
+      "paragraph_num": 0,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case involves a challenge to a New York labor law prohibiting an employer from taking certain a..."
+    },
+    "source": "",
+    "target": "This case involves a challenge to a New York labor law prohibiting an employer from taking certain actions based on an individual or a dependent's reproductive health decision making.\n\nOn November 14, 2019, CompassCare, First Bible Baptist Church, and National Institute of Family and Life Advocates, a group of non-profit religious organizations (collectively, \u201cCompassCare\u201d) filed suit in the Northern District of New York. Represented by the Alliance Defending Freedom and private counsel, CompassCare sued the Governor of New York, the Attorney General of New York, and the Commissioner of the Labor Department of New York (collectively, \u201cNew York\u201d). CompassCare alleged that a recently passed New York Bill violated their First Amendment rights to free speech, religious association and religious expression, as well as their Fourteenth Amendment due process rights on account of being overly vague. The bill at-issue, SB 660, prohibited employers from requiring an employee to sign any sort of document purporting to require the employee to make, or not make, certain reproductive health care decisions and required employers to inform their employees of their legal rights. Plaintiffs sought declaratory and injunctive relief. The case was assigned to Judge Thomas J. McAvoy.\n\nOn June 5, 2020, the court granted in part and denied in part CompassCare\u2019s motion for preliminary injunction. It enjoined the \u201cnotice\u201d provision, that is the statutory requirement that employee handbooks include certain information regarding employee rights and remedies under the Act, and denied all other parts. In the same order, the court granted in part and denied in part New York\u2019s motion to dismiss; it denied with respect to CompassCare\u2019s free speech claims as it related to the notice provision, but granted the motion to dismiss in all other respects.\n\nOn May 21, 2021, New York and CompassCare filed cross motions for summary judgment. On March 29, 2022 the court granted CompassCare\u2019s motion for summary judgement and denied New York\u2019s. The court issued a permanent injunction barring enforcement of the statute\u2019s mandate that employee handbooks include certain information regarding employee rights and remedies under the Act. In his opinion, Judge McAvoy reasoned that this statutory requirement constituted compelled speech and was not sufficiently narrowly tailored to survive a strict scrutiny analysis.\n\nBoth parties appealed the Second Circuit Court of Appeals. On January 2, 2025 the Second Circuit issued a decision affirming the lower court\u2019s dismissal of CompassCare\u2019s free speech and free exercise claims but vacating the dismissal of CompassCare\u2019s expressive-association claims and the grant of summary judgment for CompassCare on the notice provision. The Second Circuit vacated the permanent injunction, and it vacated for further proceedings. The Second Circuit found that plaintiffs\u2019 expressive-association claim should have been analyzed under a recently decided case, Slattery v. Hochul, and so remanded for a decision consistent with Slattery. It also found that the notice provision was not unconstitutional compelled speech because it was limited to the purely factual and uncontroversial information about the State\u2019s employment laws.\n\nOn remand the case was assigned to Judge Anne M. Nardacci.\n\nOn March 26, 2025 plaintiffs filed a stipulation of dismissal which the court granted on April 2, 2025.\n\nThis case is now closed.",
+    "target_paragraph": "This case involves a challenge to a New York labor law prohibiting an employer from taking certain actions based on an individual or a dependent's reproductive health decision making.",
+    "target_paragraph_indices": [
+      0,
+      183
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            0,
+            183
+          ],
+          [
+            905,
+            1180
+          ]
+        ],
+        "annotation": {
+          "explanation": "New York Senate Bill 660 (labor law concerning reproductive health decision-making and employer notice/handbook requirements)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            183
+          ],
+          [
+            905,
+            1180
+          ]
+        ],
+        "annotation": {
+          "explanation": "Challenged law: New York SB 660, which restricts employer actions based on reproductive health decisions, bars requiring employees to sign documents about making/not making reproductive health decisions, and mandates informing employees of their legal rights.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "45992_p1",
+    "metadata": {
+      "case_id": "45992",
+      "paragraph_num": 1,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On November 14, 2019, CompassCare, First Bible Baptist Church, and National Institute of Family and ..."
+    },
+    "source": "",
+    "target": "This case involves a challenge to a New York labor law prohibiting an employer from taking certain actions based on an individual or a dependent's reproductive health decision making.\n\nOn November 14, 2019, CompassCare, First Bible Baptist Church, and National Institute of Family and Life Advocates, a group of non-profit religious organizations (collectively, \u201cCompassCare\u201d) filed suit in the Northern District of New York. Represented by the Alliance Defending Freedom and private counsel, CompassCare sued the Governor of New York, the Attorney General of New York, and the Commissioner of the Labor Department of New York (collectively, \u201cNew York\u201d). CompassCare alleged that a recently passed New York Bill violated their First Amendment rights to free speech, religious association and religious expression, as well as their Fourteenth Amendment due process rights on account of being overly vague. The bill at-issue, SB 660, prohibited employers from requiring an employee to sign any sort of document purporting to require the employee to make, or not make, certain reproductive health care decisions and required employers to inform their employees of their legal rights. Plaintiffs sought declaratory and injunctive relief. The case was assigned to Judge Thomas J. McAvoy.\n\nOn June 5, 2020, the court granted in part and denied in part CompassCare\u2019s motion for preliminary injunction. It enjoined the \u201cnotice\u201d provision, that is the statutory requirement that employee handbooks include certain information regarding employee rights and remedies under the Act, and denied all other parts. In the same order, the court granted in part and denied in part New York\u2019s motion to dismiss; it denied with respect to CompassCare\u2019s free speech claims as it related to the notice provision, but granted the motion to dismiss in all other respects.\n\nOn May 21, 2021, New York and CompassCare filed cross motions for summary judgment. On March 29, 2022 the court granted CompassCare\u2019s motion for summary judgement and denied New York\u2019s. The court issued a permanent injunction barring enforcement of the statute\u2019s mandate that employee handbooks include certain information regarding employee rights and remedies under the Act. In his opinion, Judge McAvoy reasoned that this statutory requirement constituted compelled speech and was not sufficiently narrowly tailored to survive a strict scrutiny analysis.\n\nBoth parties appealed the Second Circuit Court of Appeals. On January 2, 2025 the Second Circuit issued a decision affirming the lower court\u2019s dismissal of CompassCare\u2019s free speech and free exercise claims but vacating the dismissal of CompassCare\u2019s expressive-association claims and the grant of summary judgment for CompassCare on the notice provision. The Second Circuit vacated the permanent injunction, and it vacated for further proceedings. The Second Circuit found that plaintiffs\u2019 expressive-association claim should have been analyzed under a recently decided case, Slattery v. Hochul, and so remanded for a decision consistent with Slattery. It also found that the notice provision was not unconstitutional compelled speech because it was limited to the purely factual and uncontroversial information about the State\u2019s employment laws.\n\nOn remand the case was assigned to Judge Anne M. Nardacci.\n\nOn March 26, 2025 plaintiffs filed a stipulation of dismissal which the court granted on April 2, 2025.\n\nThis case is now closed.",
+    "target_paragraph": "On November 14, 2019, CompassCare, First Bible Baptist Church, and National Institute of Family and Life Advocates, a group of non-profit religious organizations (collectively, \u201cCompassCare\u201d) filed suit in the Northern District of New York. Represented by the Alliance Defending Freedom and private counsel, CompassCare sued the Governor of New York, the Attorney General of New York, and the Commissioner of the Labor Department of New York (collectively, \u201cNew York\u201d). CompassCare alleged that a recently passed New York Bill violated their First Amendment rights to free speech, religious association and religious expression, as well as their Fourteenth Amendment due process rights on account of being overly vague. The bill at-issue, SB 660, prohibited employers from requiring an employee to sign any sort of document purporting to require the employee to make, or not make, certain reproductive health care decisions and required employers to inform their employees of their legal rights. Plaintiffs sought declaratory and injunctive relief. The case was assigned to Judge Thomas J. McAvoy.",
+    "target_paragraph_indices": [
+      185,
+      1282
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            185,
+            425
+          ]
+        ],
+        "annotation": {
+          "explanation": "November 14, 2019",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            655,
+            904
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claims alleging violations of the First Amendment (free speech, religious association, religious expression/free exercise) and Fourteenth Amendment due process (vagueness)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            655,
+            812
+          ],
+          [
+            2226,
+            2324
+          ],
+          [
+            2523,
+            2589
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment Free Speech Clause (including a compelled speech challenge)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            3,
+            4
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            655,
+            752
+          ],
+          [
+            792,
+            812
+          ],
+          [
+            2523,
+            2614
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment Free Exercise Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            4
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            655,
+            752
+          ],
+          [
+            766,
+            787
+          ],
+          [
+            2619,
+            2688
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment right of expressive association",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            4
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            655,
+            726
+          ],
+          [
+            831,
+            904
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment Due Process Clause (void-for-vagueness)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1181,
+            1233
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1181,
+            1233
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            426,
+            654
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alliance Defending Freedom",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            426,
+            654
+          ]
+        ],
+        "annotation": {
+          "explanation": "private counsel",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1234,
+            1282
+          ],
+          [
+            2226,
+            2406
+          ]
+        ],
+        "annotation": {
+          "explanation": "Thomas J. McAvoy",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 10
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            185,
+            425
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as non-profit religious organizations (CompassCare, First Bible Baptist Church, National Institute of Family and Life Advocates)",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            185,
+            425
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: CompassCare, a non-profit religious organization",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            185,
+            425
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: First Bible Baptist Church, a non-profit religious organization",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            185,
+            425
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: National Institute of Family and Life Advocates, a non-profit religious organization",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            493,
+            654
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Governor of New York",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            493,
+            654
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Attorney General of New York",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            493,
+            654
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Commissioner of the Labor Department of New York",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            185,
+            425
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs and filing: CompassCare, First Bible Baptist Church, and NIFLA (non-profit religious organizations) filed suit on November 14, 2019 in the Northern District of New York.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            426,
+            654
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants: Governor of New York, Attorney General of New York, and Commissioner of the New York Labor Department.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            655,
+            904
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims: Violations of First Amendment (free speech, religious association, religious expression) and Fourteenth Amendment due process (vagueness).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1181,
+            1233
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: Declaratory and injunctive relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1234,
+            1282
+          ]
+        ],
+        "annotation": {
+          "explanation": "Initial assignment: Judge Thomas J. McAvoy.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 22
+      }
+    ]
+  },
+  {
+    "id": "45992_p2",
+    "metadata": {
+      "case_id": "45992",
+      "paragraph_num": 2,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 5, 2020, the court granted in part and denied in part CompassCare\u2019s motion for preliminary i..."
+    },
+    "source": "",
+    "target": "This case involves a challenge to a New York labor law prohibiting an employer from taking certain actions based on an individual or a dependent's reproductive health decision making.\n\nOn November 14, 2019, CompassCare, First Bible Baptist Church, and National Institute of Family and Life Advocates, a group of non-profit religious organizations (collectively, \u201cCompassCare\u201d) filed suit in the Northern District of New York. Represented by the Alliance Defending Freedom and private counsel, CompassCare sued the Governor of New York, the Attorney General of New York, and the Commissioner of the Labor Department of New York (collectively, \u201cNew York\u201d). CompassCare alleged that a recently passed New York Bill violated their First Amendment rights to free speech, religious association and religious expression, as well as their Fourteenth Amendment due process rights on account of being overly vague. The bill at-issue, SB 660, prohibited employers from requiring an employee to sign any sort of document purporting to require the employee to make, or not make, certain reproductive health care decisions and required employers to inform their employees of their legal rights. Plaintiffs sought declaratory and injunctive relief. The case was assigned to Judge Thomas J. McAvoy.\n\nOn June 5, 2020, the court granted in part and denied in part CompassCare\u2019s motion for preliminary injunction. It enjoined the \u201cnotice\u201d provision, that is the statutory requirement that employee handbooks include certain information regarding employee rights and remedies under the Act, and denied all other parts. In the same order, the court granted in part and denied in part New York\u2019s motion to dismiss; it denied with respect to CompassCare\u2019s free speech claims as it related to the notice provision, but granted the motion to dismiss in all other respects.\n\nOn May 21, 2021, New York and CompassCare filed cross motions for summary judgment. On March 29, 2022 the court granted CompassCare\u2019s motion for summary judgement and denied New York\u2019s. The court issued a permanent injunction barring enforcement of the statute\u2019s mandate that employee handbooks include certain information regarding employee rights and remedies under the Act. In his opinion, Judge McAvoy reasoned that this statutory requirement constituted compelled speech and was not sufficiently narrowly tailored to survive a strict scrutiny analysis.\n\nBoth parties appealed the Second Circuit Court of Appeals. On January 2, 2025 the Second Circuit issued a decision affirming the lower court\u2019s dismissal of CompassCare\u2019s free speech and free exercise claims but vacating the dismissal of CompassCare\u2019s expressive-association claims and the grant of summary judgment for CompassCare on the notice provision. The Second Circuit vacated the permanent injunction, and it vacated for further proceedings. The Second Circuit found that plaintiffs\u2019 expressive-association claim should have been analyzed under a recently decided case, Slattery v. Hochul, and so remanded for a decision consistent with Slattery. It also found that the notice provision was not unconstitutional compelled speech because it was limited to the purely factual and uncontroversial information about the State\u2019s employment laws.\n\nOn remand the case was assigned to Judge Anne M. Nardacci.\n\nOn March 26, 2025 plaintiffs filed a stipulation of dismissal which the court granted on April 2, 2025.\n\nThis case is now closed.",
+    "target_paragraph": "On June 5, 2020, the court granted in part and denied in part CompassCare\u2019s motion for preliminary injunction. It enjoined the \u201cnotice\u201d provision, that is the statutory requirement that employee handbooks include certain information regarding employee rights and remedies under the Act, and denied all other parts. In the same order, the court granted in part and denied in part New York\u2019s motion to dismiss; it denied with respect to CompassCare\u2019s free speech claims as it related to the notice provision, but granted the motion to dismiss in all other respects.",
+    "target_paragraph_indices": [
+      1284,
+      1847
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            1284,
+            1598
+          ],
+          [
+            1933,
+            2225
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 5, 2020\u2013March 29, 2022: Preliminary injunction enjoining the \u201cnotice\u201d provision (the statutory requirement that employee handbooks include certain information regarding employee rights and remedies under the Act).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1284,
+            1394
+          ],
+          [
+            1395,
+            1598
+          ],
+          [
+            1599,
+            1847
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 5, 2020: Court granted in part and denied in part plaintiffs\u2019 motion for preliminary injunction; enjoined the \u201cnotice\u201d provision; and granted in part and denied in part New York\u2019s motion to dismiss (denied as to the free speech claim related to the notice provision, granted otherwise).",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1284,
+            1598
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction: Court enjoined the notice provision requiring inclusion in employee handbooks of information on rights and remedies; other PI requests denied.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1599,
+            1847
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion to dismiss result: Free speech claim related to the notice provision survived; all other claims dismissed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1284,
+            1598
+          ]
+        ],
+        "annotation": {
+          "explanation": "CompassCare\u2019s motion for preliminary injunction\u2014granted in part and denied in part on June 5, 2020; notice provision enjoined; other relief denied.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1599,
+            1847
+          ]
+        ],
+        "annotation": {
+          "explanation": "New York\u2019s motion to dismiss\u2014granted in part and denied in part; free speech claims related to the notice provision survived; all other claims dismissed (June 5, 2020).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1284,
+            1598
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction enjoining the statutory notice provision that required employee handbooks to include specified information about employee rights and remedies under the Act.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1284,
+            1394
+          ],
+          [
+            1395,
+            1598
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction enjoining enforcement of the statute\u2019s notice provision requiring employee handbooks to include information about employee rights and remedies under the Act.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1284,
+            1394
+          ],
+          [
+            1395,
+            1598
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 5, 2020: Preliminary injunction granted in part and denied in part; the court enjoined the statute\u2019s notice provision (employee-handbook requirement) and denied all other requested preliminary injunctive relief.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1599,
+            1847
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 5, 2020: Motion to dismiss granted in part and denied in part; the court allowed free speech claims related to the notice provision to proceed and dismissed all other claims.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "45992_p3",
+    "metadata": {
+      "case_id": "45992",
+      "paragraph_num": 3,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 21, 2021, New York and CompassCare filed cross motions for summary judgment. On March 29, 202..."
+    },
+    "source": "",
+    "target": "This case involves a challenge to a New York labor law prohibiting an employer from taking certain actions based on an individual or a dependent's reproductive health decision making.\n\nOn November 14, 2019, CompassCare, First Bible Baptist Church, and National Institute of Family and Life Advocates, a group of non-profit religious organizations (collectively, \u201cCompassCare\u201d) filed suit in the Northern District of New York. Represented by the Alliance Defending Freedom and private counsel, CompassCare sued the Governor of New York, the Attorney General of New York, and the Commissioner of the Labor Department of New York (collectively, \u201cNew York\u201d). CompassCare alleged that a recently passed New York Bill violated their First Amendment rights to free speech, religious association and religious expression, as well as their Fourteenth Amendment due process rights on account of being overly vague. The bill at-issue, SB 660, prohibited employers from requiring an employee to sign any sort of document purporting to require the employee to make, or not make, certain reproductive health care decisions and required employers to inform their employees of their legal rights. Plaintiffs sought declaratory and injunctive relief. The case was assigned to Judge Thomas J. McAvoy.\n\nOn June 5, 2020, the court granted in part and denied in part CompassCare\u2019s motion for preliminary injunction. It enjoined the \u201cnotice\u201d provision, that is the statutory requirement that employee handbooks include certain information regarding employee rights and remedies under the Act, and denied all other parts. In the same order, the court granted in part and denied in part New York\u2019s motion to dismiss; it denied with respect to CompassCare\u2019s free speech claims as it related to the notice provision, but granted the motion to dismiss in all other respects.\n\nOn May 21, 2021, New York and CompassCare filed cross motions for summary judgment. On March 29, 2022 the court granted CompassCare\u2019s motion for summary judgement and denied New York\u2019s. The court issued a permanent injunction barring enforcement of the statute\u2019s mandate that employee handbooks include certain information regarding employee rights and remedies under the Act. In his opinion, Judge McAvoy reasoned that this statutory requirement constituted compelled speech and was not sufficiently narrowly tailored to survive a strict scrutiny analysis.\n\nBoth parties appealed the Second Circuit Court of Appeals. On January 2, 2025 the Second Circuit issued a decision affirming the lower court\u2019s dismissal of CompassCare\u2019s free speech and free exercise claims but vacating the dismissal of CompassCare\u2019s expressive-association claims and the grant of summary judgment for CompassCare on the notice provision. The Second Circuit vacated the permanent injunction, and it vacated for further proceedings. The Second Circuit found that plaintiffs\u2019 expressive-association claim should have been analyzed under a recently decided case, Slattery v. Hochul, and so remanded for a decision consistent with Slattery. It also found that the notice provision was not unconstitutional compelled speech because it was limited to the purely factual and uncontroversial information about the State\u2019s employment laws.\n\nOn remand the case was assigned to Judge Anne M. Nardacci.\n\nOn March 26, 2025 plaintiffs filed a stipulation of dismissal which the court granted on April 2, 2025.\n\nThis case is now closed.",
+    "target_paragraph": "On May 21, 2021, New York and CompassCare filed cross motions for summary judgment. On March 29, 2022 the court granted CompassCare\u2019s motion for summary judgement and denied New York\u2019s. The court issued a permanent injunction barring enforcement of the statute\u2019s mandate that employee handbooks include certain information regarding employee rights and remedies under the Act. In his opinion, Judge McAvoy reasoned that this statutory requirement constituted compelled speech and was not sufficiently narrowly tailored to survive a strict scrutiny analysis.",
+    "target_paragraph_indices": [
+      1849,
+      2406
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            1933,
+            2225
+          ],
+          [
+            2467,
+            2856
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 29, 2022\u2013January 2, 2025: Permanent injunction barring enforcement of the statute\u2019s mandate that employee handbooks include certain information regarding employee rights and remedies under the Act.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            3,
+            4
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1933,
+            2034
+          ],
+          [
+            2035,
+            2225
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 29, 2022: Court granted plaintiffs\u2019 motion for summary judgement, denied New York\u2019s, and issued a permanent injunction barring enforcement of the employee-handbook notice provision.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1849,
+            2225
+          ]
+        ],
+        "annotation": {
+          "explanation": "Summary judgment and permanent injunction: Court granted CompassCare\u2019s motion, denied New York\u2019s, and permanently enjoined enforcement of the handbook notice mandate.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2226,
+            2406
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court reasoning: The notice requirement was compelled speech not narrowly tailored under strict scrutiny.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1849,
+            1932
+          ]
+        ],
+        "annotation": {
+          "explanation": "Cross motions for summary judgment filed by both New York and CompassCare on May 21, 2021.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1933,
+            2225
+          ]
+        ],
+        "annotation": {
+          "explanation": "Summary judgment decision on March 29, 2022\u2014CompassCare\u2019s motion granted; New York\u2019s motion denied; permanent injunction issued against the notice provision.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1933,
+            2225
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunction barring enforcement of the statute\u2019s mandate requiring employee handbooks to include information about employee rights and remedies under the Act.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1933,
+            2034
+          ],
+          [
+            2035,
+            2225
+          ],
+          [
+            2764,
+            2856
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunction barring enforcement of the employee-handbook notice mandate; later vacated by the Second Circuit.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": [
+            3,
+            4
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1933,
+            2034
+          ],
+          [
+            2035,
+            2225
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 29, 2022: On cross-motions for summary judgment, the court granted CompassCare\u2019s motion and denied New York\u2019s, and issued a permanent injunction barring enforcement of the notice/employee-handbook mandate.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "45992_p4",
+    "metadata": {
+      "case_id": "45992",
+      "paragraph_num": 4,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Both parties appealed the Second Circuit Court of Appeals. On January 2, 2025 the Second Circuit iss..."
+    },
+    "source": "",
+    "target": "This case involves a challenge to a New York labor law prohibiting an employer from taking certain actions based on an individual or a dependent's reproductive health decision making.\n\nOn November 14, 2019, CompassCare, First Bible Baptist Church, and National Institute of Family and Life Advocates, a group of non-profit religious organizations (collectively, \u201cCompassCare\u201d) filed suit in the Northern District of New York. Represented by the Alliance Defending Freedom and private counsel, CompassCare sued the Governor of New York, the Attorney General of New York, and the Commissioner of the Labor Department of New York (collectively, \u201cNew York\u201d). CompassCare alleged that a recently passed New York Bill violated their First Amendment rights to free speech, religious association and religious expression, as well as their Fourteenth Amendment due process rights on account of being overly vague. The bill at-issue, SB 660, prohibited employers from requiring an employee to sign any sort of document purporting to require the employee to make, or not make, certain reproductive health care decisions and required employers to inform their employees of their legal rights. Plaintiffs sought declaratory and injunctive relief. The case was assigned to Judge Thomas J. McAvoy.\n\nOn June 5, 2020, the court granted in part and denied in part CompassCare\u2019s motion for preliminary injunction. It enjoined the \u201cnotice\u201d provision, that is the statutory requirement that employee handbooks include certain information regarding employee rights and remedies under the Act, and denied all other parts. In the same order, the court granted in part and denied in part New York\u2019s motion to dismiss; it denied with respect to CompassCare\u2019s free speech claims as it related to the notice provision, but granted the motion to dismiss in all other respects.\n\nOn May 21, 2021, New York and CompassCare filed cross motions for summary judgment. On March 29, 2022 the court granted CompassCare\u2019s motion for summary judgement and denied New York\u2019s. The court issued a permanent injunction barring enforcement of the statute\u2019s mandate that employee handbooks include certain information regarding employee rights and remedies under the Act. In his opinion, Judge McAvoy reasoned that this statutory requirement constituted compelled speech and was not sufficiently narrowly tailored to survive a strict scrutiny analysis.\n\nBoth parties appealed the Second Circuit Court of Appeals. On January 2, 2025 the Second Circuit issued a decision affirming the lower court\u2019s dismissal of CompassCare\u2019s free speech and free exercise claims but vacating the dismissal of CompassCare\u2019s expressive-association claims and the grant of summary judgment for CompassCare on the notice provision. The Second Circuit vacated the permanent injunction, and it vacated for further proceedings. The Second Circuit found that plaintiffs\u2019 expressive-association claim should have been analyzed under a recently decided case, Slattery v. Hochul, and so remanded for a decision consistent with Slattery. It also found that the notice provision was not unconstitutional compelled speech because it was limited to the purely factual and uncontroversial information about the State\u2019s employment laws.\n\nOn remand the case was assigned to Judge Anne M. Nardacci.\n\nOn March 26, 2025 plaintiffs filed a stipulation of dismissal which the court granted on April 2, 2025.\n\nThis case is now closed.",
+    "target_paragraph": "Both parties appealed the Second Circuit Court of Appeals. On January 2, 2025 the Second Circuit issued a decision affirming the lower court\u2019s dismissal of CompassCare\u2019s free speech and free exercise claims but vacating the dismissal of CompassCare\u2019s expressive-association claims and the grant of summary judgment for CompassCare on the notice provision. The Second Circuit vacated the permanent injunction, and it vacated for further proceedings. The Second Circuit found that plaintiffs\u2019 expressive-association claim should have been analyzed under a recently decided case, Slattery v. Hochul, and so remanded for a decision consistent with Slattery. It also found that the notice provision was not unconstitutional compelled speech because it was limited to the purely factual and uncontroversial information about the State\u2019s employment laws.",
+    "target_paragraph_indices": [
+      2408,
+      3255
+    ],
+    "edits": [
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            2408,
+            2466
+          ],
+          [
+            2467,
+            2763
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: Both parties appealed to the Second Circuit Court of Appeals.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2467,
+            2763
+          ],
+          [
+            2764,
+            2856
+          ],
+          [
+            2857,
+            3061
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 2, 2025: Second Circuit affirmed dismissal of free speech and free exercise claims; vacated dismissal of expressive-association claims; vacated the grant of summary judgment for CompassCare on the notice provision; vacated the permanent injunction; and remanded for further proceedings.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2408,
+            2763
+          ],
+          [
+            2764,
+            2856
+          ],
+          [
+            2857,
+            3255
+          ]
+        ],
+        "annotation": {
+          "explanation": "Second Circuit decision: Affirmed dismissal of free speech and free exercise claims; vacated dismissal of expressive-association claim and grant of summary judgment on the notice provision; vacated permanent injunction; held notice provision is not unconstitutional compelled speech (purely factual, uncontroversial information); remanded under Slattery v. Hochul.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2408,
+            2466
+          ],
+          [
+            2467,
+            2856
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeals by both parties to the Second Circuit; decision on January 2, 2025\u2014affirmed dismissal of free speech and free exercise claims; vacated dismissal of expressive-association claims; vacated grant of summary judgment for CompassCare and the permanent injunction; remanded for further proceedings.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2467,
+            2763
+          ],
+          [
+            2764,
+            2856
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunction vacated on appeal, lifting the prior bar on enforcement of the handbook notice mandate pending further proceedings.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2467,
+            2763
+          ],
+          [
+            2764,
+            2856
+          ],
+          [
+            2857,
+            3061
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 2, 2025 (Second Circuit): Affirmed dismissal of free speech and free exercise claims; vacated dismissal of expressive-association claims; vacated grant of summary judgment for CompassCare on the notice provision and vacated the permanent injunction; remanded for further proceedings consistent with Slattery v. Hochul.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "45992_p5",
+    "metadata": {
+      "case_id": "45992",
+      "paragraph_num": 5,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On remand the case was assigned to Judge Anne M. Nardacci."
+    },
+    "source": "",
+    "target": "This case involves a challenge to a New York labor law prohibiting an employer from taking certain actions based on an individual or a dependent's reproductive health decision making.\n\nOn November 14, 2019, CompassCare, First Bible Baptist Church, and National Institute of Family and Life Advocates, a group of non-profit religious organizations (collectively, \u201cCompassCare\u201d) filed suit in the Northern District of New York. Represented by the Alliance Defending Freedom and private counsel, CompassCare sued the Governor of New York, the Attorney General of New York, and the Commissioner of the Labor Department of New York (collectively, \u201cNew York\u201d). CompassCare alleged that a recently passed New York Bill violated their First Amendment rights to free speech, religious association and religious expression, as well as their Fourteenth Amendment due process rights on account of being overly vague. The bill at-issue, SB 660, prohibited employers from requiring an employee to sign any sort of document purporting to require the employee to make, or not make, certain reproductive health care decisions and required employers to inform their employees of their legal rights. Plaintiffs sought declaratory and injunctive relief. The case was assigned to Judge Thomas J. McAvoy.\n\nOn June 5, 2020, the court granted in part and denied in part CompassCare\u2019s motion for preliminary injunction. It enjoined the \u201cnotice\u201d provision, that is the statutory requirement that employee handbooks include certain information regarding employee rights and remedies under the Act, and denied all other parts. In the same order, the court granted in part and denied in part New York\u2019s motion to dismiss; it denied with respect to CompassCare\u2019s free speech claims as it related to the notice provision, but granted the motion to dismiss in all other respects.\n\nOn May 21, 2021, New York and CompassCare filed cross motions for summary judgment. On March 29, 2022 the court granted CompassCare\u2019s motion for summary judgement and denied New York\u2019s. The court issued a permanent injunction barring enforcement of the statute\u2019s mandate that employee handbooks include certain information regarding employee rights and remedies under the Act. In his opinion, Judge McAvoy reasoned that this statutory requirement constituted compelled speech and was not sufficiently narrowly tailored to survive a strict scrutiny analysis.\n\nBoth parties appealed the Second Circuit Court of Appeals. On January 2, 2025 the Second Circuit issued a decision affirming the lower court\u2019s dismissal of CompassCare\u2019s free speech and free exercise claims but vacating the dismissal of CompassCare\u2019s expressive-association claims and the grant of summary judgment for CompassCare on the notice provision. The Second Circuit vacated the permanent injunction, and it vacated for further proceedings. The Second Circuit found that plaintiffs\u2019 expressive-association claim should have been analyzed under a recently decided case, Slattery v. Hochul, and so remanded for a decision consistent with Slattery. It also found that the notice provision was not unconstitutional compelled speech because it was limited to the purely factual and uncontroversial information about the State\u2019s employment laws.\n\nOn remand the case was assigned to Judge Anne M. Nardacci.\n\nOn March 26, 2025 plaintiffs filed a stipulation of dismissal which the court granted on April 2, 2025.\n\nThis case is now closed.",
+    "target_paragraph": "On remand the case was assigned to Judge Anne M. Nardacci.",
+    "target_paragraph_indices": [
+      3257,
+      3315
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            3257,
+            3315
+          ]
+        ],
+        "annotation": {
+          "explanation": "Anne M. Nardacci",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3257,
+            3315
+          ]
+        ],
+        "annotation": {
+          "explanation": "Remand assignment: Judge Anne M. Nardacci.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "45992_p6",
+    "metadata": {
+      "case_id": "45992",
+      "paragraph_num": 6,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 26, 2025 plaintiffs filed a stipulation of dismissal which the court granted on April 2, 20..."
+    },
+    "source": "",
+    "target": "This case involves a challenge to a New York labor law prohibiting an employer from taking certain actions based on an individual or a dependent's reproductive health decision making.\n\nOn November 14, 2019, CompassCare, First Bible Baptist Church, and National Institute of Family and Life Advocates, a group of non-profit religious organizations (collectively, \u201cCompassCare\u201d) filed suit in the Northern District of New York. Represented by the Alliance Defending Freedom and private counsel, CompassCare sued the Governor of New York, the Attorney General of New York, and the Commissioner of the Labor Department of New York (collectively, \u201cNew York\u201d). CompassCare alleged that a recently passed New York Bill violated their First Amendment rights to free speech, religious association and religious expression, as well as their Fourteenth Amendment due process rights on account of being overly vague. The bill at-issue, SB 660, prohibited employers from requiring an employee to sign any sort of document purporting to require the employee to make, or not make, certain reproductive health care decisions and required employers to inform their employees of their legal rights. Plaintiffs sought declaratory and injunctive relief. The case was assigned to Judge Thomas J. McAvoy.\n\nOn June 5, 2020, the court granted in part and denied in part CompassCare\u2019s motion for preliminary injunction. It enjoined the \u201cnotice\u201d provision, that is the statutory requirement that employee handbooks include certain information regarding employee rights and remedies under the Act, and denied all other parts. In the same order, the court granted in part and denied in part New York\u2019s motion to dismiss; it denied with respect to CompassCare\u2019s free speech claims as it related to the notice provision, but granted the motion to dismiss in all other respects.\n\nOn May 21, 2021, New York and CompassCare filed cross motions for summary judgment. On March 29, 2022 the court granted CompassCare\u2019s motion for summary judgement and denied New York\u2019s. The court issued a permanent injunction barring enforcement of the statute\u2019s mandate that employee handbooks include certain information regarding employee rights and remedies under the Act. In his opinion, Judge McAvoy reasoned that this statutory requirement constituted compelled speech and was not sufficiently narrowly tailored to survive a strict scrutiny analysis.\n\nBoth parties appealed the Second Circuit Court of Appeals. On January 2, 2025 the Second Circuit issued a decision affirming the lower court\u2019s dismissal of CompassCare\u2019s free speech and free exercise claims but vacating the dismissal of CompassCare\u2019s expressive-association claims and the grant of summary judgment for CompassCare on the notice provision. The Second Circuit vacated the permanent injunction, and it vacated for further proceedings. The Second Circuit found that plaintiffs\u2019 expressive-association claim should have been analyzed under a recently decided case, Slattery v. Hochul, and so remanded for a decision consistent with Slattery. It also found that the notice provision was not unconstitutional compelled speech because it was limited to the purely factual and uncontroversial information about the State\u2019s employment laws.\n\nOn remand the case was assigned to Judge Anne M. Nardacci.\n\nOn March 26, 2025 plaintiffs filed a stipulation of dismissal which the court granted on April 2, 2025.\n\nThis case is now closed.",
+    "target_paragraph": "On March 26, 2025 plaintiffs filed a stipulation of dismissal which the court granted on April 2, 2025.",
+    "target_paragraph_indices": [
+      3317,
+      3420
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            3317,
+            3420
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 26, 2025: Plaintiffs filed a stipulation of dismissal.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            3317,
+            3420
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 2, 2025: Court granted the stipulation of dismissal.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3317,
+            3420
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 2, 2025: Court granted plaintiffs\u2019 stipulation of dismissal.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3317,
+            3420
+          ],
+          [
+            3422,
+            3446
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case resolution: Plaintiffs filed a stipulation of dismissal on March 26, 2025; court granted on April 2, 2025; case closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3317,
+            3420
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a stipulation of dismissal on March 26, 2025; court granted it on April 2, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3317,
+            3420
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case dismissed by stipulation; no settlement terms are described in the summary.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "45992_p7",
+    "metadata": {
+      "case_id": "45992",
+      "paragraph_num": 7,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is now closed."
+    },
+    "source": "",
+    "target": "This case involves a challenge to a New York labor law prohibiting an employer from taking certain actions based on an individual or a dependent's reproductive health decision making.\n\nOn November 14, 2019, CompassCare, First Bible Baptist Church, and National Institute of Family and Life Advocates, a group of non-profit religious organizations (collectively, \u201cCompassCare\u201d) filed suit in the Northern District of New York. Represented by the Alliance Defending Freedom and private counsel, CompassCare sued the Governor of New York, the Attorney General of New York, and the Commissioner of the Labor Department of New York (collectively, \u201cNew York\u201d). CompassCare alleged that a recently passed New York Bill violated their First Amendment rights to free speech, religious association and religious expression, as well as their Fourteenth Amendment due process rights on account of being overly vague. The bill at-issue, SB 660, prohibited employers from requiring an employee to sign any sort of document purporting to require the employee to make, or not make, certain reproductive health care decisions and required employers to inform their employees of their legal rights. Plaintiffs sought declaratory and injunctive relief. The case was assigned to Judge Thomas J. McAvoy.\n\nOn June 5, 2020, the court granted in part and denied in part CompassCare\u2019s motion for preliminary injunction. It enjoined the \u201cnotice\u201d provision, that is the statutory requirement that employee handbooks include certain information regarding employee rights and remedies under the Act, and denied all other parts. In the same order, the court granted in part and denied in part New York\u2019s motion to dismiss; it denied with respect to CompassCare\u2019s free speech claims as it related to the notice provision, but granted the motion to dismiss in all other respects.\n\nOn May 21, 2021, New York and CompassCare filed cross motions for summary judgment. On March 29, 2022 the court granted CompassCare\u2019s motion for summary judgement and denied New York\u2019s. The court issued a permanent injunction barring enforcement of the statute\u2019s mandate that employee handbooks include certain information regarding employee rights and remedies under the Act. In his opinion, Judge McAvoy reasoned that this statutory requirement constituted compelled speech and was not sufficiently narrowly tailored to survive a strict scrutiny analysis.\n\nBoth parties appealed the Second Circuit Court of Appeals. On January 2, 2025 the Second Circuit issued a decision affirming the lower court\u2019s dismissal of CompassCare\u2019s free speech and free exercise claims but vacating the dismissal of CompassCare\u2019s expressive-association claims and the grant of summary judgment for CompassCare on the notice provision. The Second Circuit vacated the permanent injunction, and it vacated for further proceedings. The Second Circuit found that plaintiffs\u2019 expressive-association claim should have been analyzed under a recently decided case, Slattery v. Hochul, and so remanded for a decision consistent with Slattery. It also found that the notice provision was not unconstitutional compelled speech because it was limited to the purely factual and uncontroversial information about the State\u2019s employment laws.\n\nOn remand the case was assigned to Judge Anne M. Nardacci.\n\nOn March 26, 2025 plaintiffs filed a stipulation of dismissal which the court granted on April 2, 2025.\n\nThis case is now closed.",
+    "target_paragraph": "This case is now closed.",
+    "target_paragraph_indices": [
+      3422,
+      3446
+    ],
+    "edits": []
+  }
+]

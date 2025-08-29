@@ -1,0 +1,1021 @@
+[
+  {
+    "id": "44606_p0",
+    "metadata": {
+      "case_id": "44606",
+      "paragraph_num": 0,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is about New York\u2019s deadline for independent nominating petitions, which must be filed 23 ..."
+    },
+    "source": "",
+    "target": "This case is about New York\u2019s deadline for independent nominating petitions, which must be filed 23 weeks before the general election. Byron W. Brown was the incumbent Mayor of Buffalo but lost the June 22, 2021 Democratic primary election. Two months later, Brown filed an independent nominating petition seeking to appear on the general election ballot. That petition was rejected because it was filed after the deadline of May 25, 2021.\n\nOn August 30, 2021, three registered voters who supported Byron W. Brown\u2019s independent candidacy for Mayor filed this lawsuit in the U.S. District Court for the Western District of New York. They sued the Erie County Board of Elections under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought 1) a declaratory judgment that New York\u2019s deadline for independent candidate petitions as applied to Byron W. Brown for Mayor of Buffalo violated the First and Fourteenth Amendments to the U.S. Constitution; 2) an order enjoining the Board from enforcing the deadline and from failing to place him on the 2021 general-election ballot; and 3) attorneys\u2019 fees. The case was assigned to District Judge John Sinatra, Jr.\n\nOn September 3, 2021, the district court issued a preliminary injunction ordering the Erie County Board of Elections to put Byron W. Brown on the 2021 ballot as an independent candidate for Mayor of Buffalo. The defendants appealed that injunction to the U.S. Court of Appeals for the Second Circuit, which issued an order on September 16, 2021 staying of the preliminary injunction. The plaintiffs did not appeal the Second Circuit\u2019s order, and Byron W. Brown did not appear on the general election ballot. However, on November 2, 2021, Brown won reelection after campaigning as a write-in candidate.\n\nBrown\u2019s election victory rendered the appeal of the district court\u2019s preliminary injunction moot, so the Second Circuit sent the case back to the district court to hear the plaintiff\u2019s constitutional challenge to the independent nominating petition deadline. On April 20, 2022, the district court referred the case to U.S. Magistrate Judge Michael Roemer.\n\nOn July 11, 2023, the district court ruled that despite the 2021 election having already taken place and Brown winning reelection, the constitutional challenge was not moot because the underlying dispute was capable of repetition, yet evading review. However, the court dismissed the complaint because it found that the independent petition deadline did not violate the plaintiffs\u2019 constitutional rights.\n\nOn August 19, 2024, the Second Circuit vacated the district court\u2019s July 11, 2023 order. The Second Circuit sent the case back to the district court with instructions to dismiss the case as moot. The Second Circuit expressed no view on the constitutionality of the challenged filing deadline. On August 20, 2024, the district court dismissed the case as moot.\n\nOn June 2, 2025, the U.S. Supreme Court decided not to hear the case.",
+    "target_paragraph": "This case is about New York\u2019s deadline for independent nominating petitions, which must be filed 23 weeks before the general election. Byron W. Brown was the incumbent Mayor of Buffalo but lost the June 22, 2021 Democratic primary election. Two months later, Brown filed an independent nominating petition seeking to appear on the general election ballot. That petition was rejected because it was filed after the deadline of May 25, 2021.",
+    "target_paragraph_indices": [
+      0,
+      439
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            19,
+            134
+          ]
+        ],
+        "annotation": {
+          "explanation": "23 weeks before the general election: New York\u2019s deadline by which independent nominating petitions must be filed.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            134
+          ],
+          [
+            135,
+            240
+          ],
+          [
+            241,
+            439
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves New York\u2019s 23-week pre\u2013general election deadline for independent nominating petitions and Byron W. Brown\u2019s late filing after losing the June 22, 2021 Democratic primary; his petition, filed two months later and after the May 25, 2021 deadline, was rejected.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "44606_p1",
+    "metadata": {
+      "case_id": "44606",
+      "paragraph_num": 1,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 30, 2021, three registered voters who supported Byron W. Brown\u2019s independent candidacy for..."
+    },
+    "source": "",
+    "target": "This case is about New York\u2019s deadline for independent nominating petitions, which must be filed 23 weeks before the general election. Byron W. Brown was the incumbent Mayor of Buffalo but lost the June 22, 2021 Democratic primary election. Two months later, Brown filed an independent nominating petition seeking to appear on the general election ballot. That petition was rejected because it was filed after the deadline of May 25, 2021.\n\nOn August 30, 2021, three registered voters who supported Byron W. Brown\u2019s independent candidacy for Mayor filed this lawsuit in the U.S. District Court for the Western District of New York. They sued the Erie County Board of Elections under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought 1) a declaratory judgment that New York\u2019s deadline for independent candidate petitions as applied to Byron W. Brown for Mayor of Buffalo violated the First and Fourteenth Amendments to the U.S. Constitution; 2) an order enjoining the Board from enforcing the deadline and from failing to place him on the 2021 general-election ballot; and 3) attorneys\u2019 fees. The case was assigned to District Judge John Sinatra, Jr.\n\nOn September 3, 2021, the district court issued a preliminary injunction ordering the Erie County Board of Elections to put Byron W. Brown on the 2021 ballot as an independent candidate for Mayor of Buffalo. The defendants appealed that injunction to the U.S. Court of Appeals for the Second Circuit, which issued an order on September 16, 2021 staying of the preliminary injunction. The plaintiffs did not appeal the Second Circuit\u2019s order, and Byron W. Brown did not appear on the general election ballot. However, on November 2, 2021, Brown won reelection after campaigning as a write-in candidate.\n\nBrown\u2019s election victory rendered the appeal of the district court\u2019s preliminary injunction moot, so the Second Circuit sent the case back to the district court to hear the plaintiff\u2019s constitutional challenge to the independent nominating petition deadline. On April 20, 2022, the district court referred the case to U.S. Magistrate Judge Michael Roemer.\n\nOn July 11, 2023, the district court ruled that despite the 2021 election having already taken place and Brown winning reelection, the constitutional challenge was not moot because the underlying dispute was capable of repetition, yet evading review. However, the court dismissed the complaint because it found that the independent petition deadline did not violate the plaintiffs\u2019 constitutional rights.\n\nOn August 19, 2024, the Second Circuit vacated the district court\u2019s July 11, 2023 order. The Second Circuit sent the case back to the district court with instructions to dismiss the case as moot. The Second Circuit expressed no view on the constitutionality of the challenged filing deadline. On August 20, 2024, the district court dismissed the case as moot.\n\nOn June 2, 2025, the U.S. Supreme Court decided not to hear the case.",
+    "target_paragraph": "On August 30, 2021, three registered voters who supported Byron W. Brown\u2019s independent candidacy for Mayor filed this lawsuit in the U.S. District Court for the Western District of New York. They sued the Erie County Board of Elections under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought 1) a declaratory judgment that New York\u2019s deadline for independent candidate petitions as applied to Byron W. Brown for Mayor of Buffalo violated the First and Fourteenth Amendments to the U.S. Constitution; 2) an order enjoining the Board from enforcing the deadline and from failing to place him on the 2021 general-election ballot; and 3) attorneys\u2019 fees. The case was assigned to District Judge John Sinatra, Jr.",
+    "target_paragraph_indices": [
+      441,
+      1171
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            441,
+            631
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 30, 2021",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            632,
+            700
+          ],
+          [
+            733,
+            1113
+          ]
+        ],
+        "annotation": {
+          "explanation": "Cause of action: 42 U.S.C. \u00a7 1983 claim alleging violations of the First and Fourteenth Amendments; seeking declaratory and injunctive relief and attorneys\u2019 fees.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            632,
+            700
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1983",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            733,
+            962
+          ]
+        ],
+        "annotation": {
+          "explanation": "First and Fourteenth Amendments to the U.S. Constitution",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            758,
+            961
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment that the independent nominating petition deadline, as applied to Byron W. Brown, violated the First and Fourteenth Amendments.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            966,
+            1088
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief: order enjoining enforcement of the deadline and requiring placement of Byron W. Brown on the 2021 general-election ballot.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1097,
+            1112
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys\u2019 fees.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            701,
+            1113
+          ]
+        ],
+        "annotation": {
+          "explanation": "Private counsel",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1114,
+            1171
+          ]
+        ],
+        "annotation": {
+          "explanation": "John Sinatra",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            441,
+            631
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as three registered voters who supported Byron W. Brown\u2019s independent candidacy for Mayor",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            632,
+            700
+          ],
+          [
+            1381,
+            1556
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: The defendants (Erie County Board of Elections) appealed to the U.S. Court of Appeals for the Second Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            441,
+            631
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Registered voter who supported Byron W. Brown\u2019s independent candidacy for Mayor",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            441,
+            631
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Registered voter who supported Byron W. Brown\u2019s independent candidacy for Mayor",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            441,
+            631
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Registered voter who supported Byron W. Brown\u2019s independent candidacy for Mayor",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            632,
+            700
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Erie County Board of Elections",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            441,
+            631
+          ],
+          [
+            632,
+            700
+          ],
+          [
+            701,
+            1113
+          ]
+        ],
+        "annotation": {
+          "explanation": "Supported by plaintiffs\u2019 filings: three voters backing Brown sued the Erie County Board of Elections under 42 U.S.C. \u00a7 1983 on August 30, 2021, seeking a declaratory judgment that the deadline as applied violated the First and Fourteenth Amendments, an injunction to place Brown on the 2021 ballot and to bar enforcement of the deadline, and attorneys\u2019 fees.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1114,
+            1171
+          ],
+          [
+            2035,
+            2131
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background information: the case was assigned to District Judge John Sinatra, Jr., and referred to Magistrate Judge Michael Roemer on April 20, 2022.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 16
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            441,
+            631
+          ],
+          [
+            632,
+            1113
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on Aug 30, 2021 seeking declaratory judgment, injunctive relief (to enjoin enforcement of the deadline and require ballot placement), and attorneys\u2019 fees.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            441,
+            631
+          ],
+          [
+            632,
+            700
+          ],
+          [
+            701,
+            1113
+          ],
+          [
+            1114,
+            1171
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed on Aug 30, 2021 in the U.S. District Court for the Western District of New York under \u00a7 1983; plaintiffs sought declaratory and injunctive relief and attorneys\u2019 fees; assigned to Judge John Sinatra, Jr.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      }
+    ]
+  },
+  {
+    "id": "44606_p2",
+    "metadata": {
+      "case_id": "44606",
+      "paragraph_num": 2,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On September 3, 2021, the district court issued a preliminary injunction ordering the Erie County Bo..."
+    },
+    "source": "",
+    "target": "This case is about New York\u2019s deadline for independent nominating petitions, which must be filed 23 weeks before the general election. Byron W. Brown was the incumbent Mayor of Buffalo but lost the June 22, 2021 Democratic primary election. Two months later, Brown filed an independent nominating petition seeking to appear on the general election ballot. That petition was rejected because it was filed after the deadline of May 25, 2021.\n\nOn August 30, 2021, three registered voters who supported Byron W. Brown\u2019s independent candidacy for Mayor filed this lawsuit in the U.S. District Court for the Western District of New York. They sued the Erie County Board of Elections under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought 1) a declaratory judgment that New York\u2019s deadline for independent candidate petitions as applied to Byron W. Brown for Mayor of Buffalo violated the First and Fourteenth Amendments to the U.S. Constitution; 2) an order enjoining the Board from enforcing the deadline and from failing to place him on the 2021 general-election ballot; and 3) attorneys\u2019 fees. The case was assigned to District Judge John Sinatra, Jr.\n\nOn September 3, 2021, the district court issued a preliminary injunction ordering the Erie County Board of Elections to put Byron W. Brown on the 2021 ballot as an independent candidate for Mayor of Buffalo. The defendants appealed that injunction to the U.S. Court of Appeals for the Second Circuit, which issued an order on September 16, 2021 staying of the preliminary injunction. The plaintiffs did not appeal the Second Circuit\u2019s order, and Byron W. Brown did not appear on the general election ballot. However, on November 2, 2021, Brown won reelection after campaigning as a write-in candidate.\n\nBrown\u2019s election victory rendered the appeal of the district court\u2019s preliminary injunction moot, so the Second Circuit sent the case back to the district court to hear the plaintiff\u2019s constitutional challenge to the independent nominating petition deadline. On April 20, 2022, the district court referred the case to U.S. Magistrate Judge Michael Roemer.\n\nOn July 11, 2023, the district court ruled that despite the 2021 election having already taken place and Brown winning reelection, the constitutional challenge was not moot because the underlying dispute was capable of repetition, yet evading review. However, the court dismissed the complaint because it found that the independent petition deadline did not violate the plaintiffs\u2019 constitutional rights.\n\nOn August 19, 2024, the Second Circuit vacated the district court\u2019s July 11, 2023 order. The Second Circuit sent the case back to the district court with instructions to dismiss the case as moot. The Second Circuit expressed no view on the constitutionality of the challenged filing deadline. On August 20, 2024, the district court dismissed the case as moot.\n\nOn June 2, 2025, the U.S. Supreme Court decided not to hear the case.",
+    "target_paragraph": "On September 3, 2021, the district court issued a preliminary injunction ordering the Erie County Board of Elections to put Byron W. Brown on the 2021 ballot as an independent candidate for Mayor of Buffalo. The defendants appealed that injunction to the U.S. Court of Appeals for the Second Circuit, which issued an order on September 16, 2021 staying of the preliminary injunction. The plaintiffs did not appeal the Second Circuit\u2019s order, and Byron W. Brown did not appear on the general election ballot. However, on November 2, 2021, Brown won reelection after campaigning as a write-in candidate.",
+    "target_paragraph_indices": [
+      1173,
+      1774
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1173,
+            1380
+          ],
+          [
+            1474,
+            1556
+          ],
+          [
+            1557,
+            1774
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background procedural events: the district court ordered Brown onto the ballot via preliminary injunction (Sept. 3, 2021), which the Second Circuit stayed (Sept. 16, 2021); plaintiffs did not appeal the stay, Brown did not appear on the ballot, but he won reelection as a write-in on November 2, 2021.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1173,
+            1380
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction issued on Sept 3, 2021 ordering Brown\u2019s placement on the 2021 ballot.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1381,
+            1556
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants appealed the preliminary injunction; Second Circuit issued a stay of the preliminary injunction on Sept 16, 2021.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1173,
+            1380
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction ordering the Erie County Board of Elections to place Byron W. Brown on the 2021 general-election ballot as an independent candidate for Mayor of Buffalo.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1173,
+            1380
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction requiring the Erie County Board of Elections to place Byron W. Brown on the 2021 ballot as an independent candidate for Mayor of Buffalo.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1173,
+            1380
+          ]
+        ],
+        "annotation": {
+          "explanation": "Sep 3, 2021: District court granted a preliminary injunction requiring placement of Brown on the 2021 mayoral ballot as an independent.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1381,
+            1556
+          ]
+        ],
+        "annotation": {
+          "explanation": "Sep 16, 2021: On appeal, the Second Circuit stayed the district court\u2019s preliminary injunction.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1557,
+            1680
+          ]
+        ],
+        "annotation": {
+          "explanation": "Following the stay, plaintiffs did not appeal the Second Circuit\u2019s order, and Brown did not appear on the general election ballot.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1681,
+            1774
+          ]
+        ],
+        "annotation": {
+          "explanation": "Nov 2, 2021: Brown won reelection as a write-in, affecting the posture of the appeal.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1173,
+            1380
+          ]
+        ],
+        "annotation": {
+          "explanation": "09/03/2021 \u2014 District Court (W.D.N.Y.): Preliminary injunction granted; Board ordered to place Brown on the 2021 mayoral ballot as an independent.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1381,
+            1556
+          ]
+        ],
+        "annotation": {
+          "explanation": "09/16/2021 \u2014 Second Circuit: Stayed the district court\u2019s preliminary injunction pending appeal.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "44606_p3",
+    "metadata": {
+      "case_id": "44606",
+      "paragraph_num": 3,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Brown\u2019s election victory rendered the appeal of the district court\u2019s preliminary injunction moot, so..."
+    },
+    "source": "",
+    "target": "This case is about New York\u2019s deadline for independent nominating petitions, which must be filed 23 weeks before the general election. Byron W. Brown was the incumbent Mayor of Buffalo but lost the June 22, 2021 Democratic primary election. Two months later, Brown filed an independent nominating petition seeking to appear on the general election ballot. That petition was rejected because it was filed after the deadline of May 25, 2021.\n\nOn August 30, 2021, three registered voters who supported Byron W. Brown\u2019s independent candidacy for Mayor filed this lawsuit in the U.S. District Court for the Western District of New York. They sued the Erie County Board of Elections under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought 1) a declaratory judgment that New York\u2019s deadline for independent candidate petitions as applied to Byron W. Brown for Mayor of Buffalo violated the First and Fourteenth Amendments to the U.S. Constitution; 2) an order enjoining the Board from enforcing the deadline and from failing to place him on the 2021 general-election ballot; and 3) attorneys\u2019 fees. The case was assigned to District Judge John Sinatra, Jr.\n\nOn September 3, 2021, the district court issued a preliminary injunction ordering the Erie County Board of Elections to put Byron W. Brown on the 2021 ballot as an independent candidate for Mayor of Buffalo. The defendants appealed that injunction to the U.S. Court of Appeals for the Second Circuit, which issued an order on September 16, 2021 staying of the preliminary injunction. The plaintiffs did not appeal the Second Circuit\u2019s order, and Byron W. Brown did not appear on the general election ballot. However, on November 2, 2021, Brown won reelection after campaigning as a write-in candidate.\n\nBrown\u2019s election victory rendered the appeal of the district court\u2019s preliminary injunction moot, so the Second Circuit sent the case back to the district court to hear the plaintiff\u2019s constitutional challenge to the independent nominating petition deadline. On April 20, 2022, the district court referred the case to U.S. Magistrate Judge Michael Roemer.\n\nOn July 11, 2023, the district court ruled that despite the 2021 election having already taken place and Brown winning reelection, the constitutional challenge was not moot because the underlying dispute was capable of repetition, yet evading review. However, the court dismissed the complaint because it found that the independent petition deadline did not violate the plaintiffs\u2019 constitutional rights.\n\nOn August 19, 2024, the Second Circuit vacated the district court\u2019s July 11, 2023 order. The Second Circuit sent the case back to the district court with instructions to dismiss the case as moot. The Second Circuit expressed no view on the constitutionality of the challenged filing deadline. On August 20, 2024, the district court dismissed the case as moot.\n\nOn June 2, 2025, the U.S. Supreme Court decided not to hear the case.",
+    "target_paragraph": "Brown\u2019s election victory rendered the appeal of the district court\u2019s preliminary injunction moot, so the Second Circuit sent the case back to the district court to hear the plaintiff\u2019s constitutional challenge to the independent nominating petition deadline. On April 20, 2022, the district court referred the case to U.S. Magistrate Judge Michael Roemer.",
+    "target_paragraph_indices": [
+      1776,
+      2131
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            2035,
+            2131
+          ]
+        ],
+        "annotation": {
+          "explanation": "Michael Roemer",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1776,
+            2034
+          ],
+          [
+            2133,
+            2537
+          ],
+          [
+            2539,
+            2898
+          ],
+          [
+            2900,
+            2969
+          ]
+        ],
+        "annotation": {
+          "explanation": "Subsequent developments: Brown\u2019s victory mooted the appeal; the district court later held the challenge not moot (capable of repetition, yet evading review) but dismissed on the merits; the Second Circuit vacated and ordered dismissal as moot on August 19\u201320, 2024; the Supreme Court denied review on June 2, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1776,
+            2034
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal of the preliminary injunction deemed moot; Second Circuit remanded for consideration of the constitutional challenge.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2035,
+            2131
+          ]
+        ],
+        "annotation": {
+          "explanation": "Referral order to Magistrate Judge Michael Roemer on Apr 20, 2022.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1776,
+            2034
+          ]
+        ],
+        "annotation": {
+          "explanation": "Second Circuit deemed the preliminary-injunction appeal moot due to the election result and remanded for the district court to address the constitutional challenge.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2035,
+            2131
+          ]
+        ],
+        "annotation": {
+          "explanation": "Apr 20, 2022: District court referred the case to Magistrate Judge Michael Roemer.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1776,
+            2034
+          ]
+        ],
+        "annotation": {
+          "explanation": "Post-election (date not specified) \u2014 Second Circuit: Appeal of preliminary injunction deemed moot; case remanded to district court for consideration of the constitutional challenge.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "44606_p4",
+    "metadata": {
+      "case_id": "44606",
+      "paragraph_num": 4,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 11, 2023, the district court ruled that despite the 2021 election having already taken place..."
+    },
+    "source": "",
+    "target": "This case is about New York\u2019s deadline for independent nominating petitions, which must be filed 23 weeks before the general election. Byron W. Brown was the incumbent Mayor of Buffalo but lost the June 22, 2021 Democratic primary election. Two months later, Brown filed an independent nominating petition seeking to appear on the general election ballot. That petition was rejected because it was filed after the deadline of May 25, 2021.\n\nOn August 30, 2021, three registered voters who supported Byron W. Brown\u2019s independent candidacy for Mayor filed this lawsuit in the U.S. District Court for the Western District of New York. They sued the Erie County Board of Elections under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought 1) a declaratory judgment that New York\u2019s deadline for independent candidate petitions as applied to Byron W. Brown for Mayor of Buffalo violated the First and Fourteenth Amendments to the U.S. Constitution; 2) an order enjoining the Board from enforcing the deadline and from failing to place him on the 2021 general-election ballot; and 3) attorneys\u2019 fees. The case was assigned to District Judge John Sinatra, Jr.\n\nOn September 3, 2021, the district court issued a preliminary injunction ordering the Erie County Board of Elections to put Byron W. Brown on the 2021 ballot as an independent candidate for Mayor of Buffalo. The defendants appealed that injunction to the U.S. Court of Appeals for the Second Circuit, which issued an order on September 16, 2021 staying of the preliminary injunction. The plaintiffs did not appeal the Second Circuit\u2019s order, and Byron W. Brown did not appear on the general election ballot. However, on November 2, 2021, Brown won reelection after campaigning as a write-in candidate.\n\nBrown\u2019s election victory rendered the appeal of the district court\u2019s preliminary injunction moot, so the Second Circuit sent the case back to the district court to hear the plaintiff\u2019s constitutional challenge to the independent nominating petition deadline. On April 20, 2022, the district court referred the case to U.S. Magistrate Judge Michael Roemer.\n\nOn July 11, 2023, the district court ruled that despite the 2021 election having already taken place and Brown winning reelection, the constitutional challenge was not moot because the underlying dispute was capable of repetition, yet evading review. However, the court dismissed the complaint because it found that the independent petition deadline did not violate the plaintiffs\u2019 constitutional rights.\n\nOn August 19, 2024, the Second Circuit vacated the district court\u2019s July 11, 2023 order. The Second Circuit sent the case back to the district court with instructions to dismiss the case as moot. The Second Circuit expressed no view on the constitutionality of the challenged filing deadline. On August 20, 2024, the district court dismissed the case as moot.\n\nOn June 2, 2025, the U.S. Supreme Court decided not to hear the case.",
+    "target_paragraph": "On July 11, 2023, the district court ruled that despite the 2021 election having already taken place and Brown winning reelection, the constitutional challenge was not moot because the underlying dispute was capable of repetition, yet evading review. However, the court dismissed the complaint because it found that the independent petition deadline did not violate the plaintiffs\u2019 constitutional rights.",
+    "target_paragraph_indices": [
+      2133,
+      2537
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2133,
+            2537
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court order on July 11, 2023: held challenge not moot but dismissed the complaint on the merits.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2133,
+            2383
+          ],
+          [
+            2384,
+            2537
+          ]
+        ],
+        "annotation": {
+          "explanation": "Jul 11, 2023: District court held the case was not moot (capable of repetition, yet evading review) but dismissed the complaint on the merits, finding no constitutional violation.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2133,
+            2537
+          ]
+        ],
+        "annotation": {
+          "explanation": "07/11/2023 \u2014 District Court (W.D.N.Y.): Held case not moot (capable of repetition, yet evading review) but dismissed the complaint on the merits; found the filing deadline constitutional.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "44606_p5",
+    "metadata": {
+      "case_id": "44606",
+      "paragraph_num": 5,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 19, 2024, the Second Circuit vacated the district court\u2019s July 11, 2023 order. The Second ..."
+    },
+    "source": "",
+    "target": "This case is about New York\u2019s deadline for independent nominating petitions, which must be filed 23 weeks before the general election. Byron W. Brown was the incumbent Mayor of Buffalo but lost the June 22, 2021 Democratic primary election. Two months later, Brown filed an independent nominating petition seeking to appear on the general election ballot. That petition was rejected because it was filed after the deadline of May 25, 2021.\n\nOn August 30, 2021, three registered voters who supported Byron W. Brown\u2019s independent candidacy for Mayor filed this lawsuit in the U.S. District Court for the Western District of New York. They sued the Erie County Board of Elections under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought 1) a declaratory judgment that New York\u2019s deadline for independent candidate petitions as applied to Byron W. Brown for Mayor of Buffalo violated the First and Fourteenth Amendments to the U.S. Constitution; 2) an order enjoining the Board from enforcing the deadline and from failing to place him on the 2021 general-election ballot; and 3) attorneys\u2019 fees. The case was assigned to District Judge John Sinatra, Jr.\n\nOn September 3, 2021, the district court issued a preliminary injunction ordering the Erie County Board of Elections to put Byron W. Brown on the 2021 ballot as an independent candidate for Mayor of Buffalo. The defendants appealed that injunction to the U.S. Court of Appeals for the Second Circuit, which issued an order on September 16, 2021 staying of the preliminary injunction. The plaintiffs did not appeal the Second Circuit\u2019s order, and Byron W. Brown did not appear on the general election ballot. However, on November 2, 2021, Brown won reelection after campaigning as a write-in candidate.\n\nBrown\u2019s election victory rendered the appeal of the district court\u2019s preliminary injunction moot, so the Second Circuit sent the case back to the district court to hear the plaintiff\u2019s constitutional challenge to the independent nominating petition deadline. On April 20, 2022, the district court referred the case to U.S. Magistrate Judge Michael Roemer.\n\nOn July 11, 2023, the district court ruled that despite the 2021 election having already taken place and Brown winning reelection, the constitutional challenge was not moot because the underlying dispute was capable of repetition, yet evading review. However, the court dismissed the complaint because it found that the independent petition deadline did not violate the plaintiffs\u2019 constitutional rights.\n\nOn August 19, 2024, the Second Circuit vacated the district court\u2019s July 11, 2023 order. The Second Circuit sent the case back to the district court with instructions to dismiss the case as moot. The Second Circuit expressed no view on the constitutionality of the challenged filing deadline. On August 20, 2024, the district court dismissed the case as moot.\n\nOn June 2, 2025, the U.S. Supreme Court decided not to hear the case.",
+    "target_paragraph": "On August 19, 2024, the Second Circuit vacated the district court\u2019s July 11, 2023 order. The Second Circuit sent the case back to the district court with instructions to dismiss the case as moot. The Second Circuit expressed no view on the constitutionality of the challenged filing deadline. On August 20, 2024, the district court dismissed the case as moot.",
+    "target_paragraph_indices": [
+      2539,
+      2898
+    ],
+    "edits": [
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            2539,
+            2627
+          ],
+          [
+            2628,
+            2734
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: Party not specified in summary appealed to the U.S. Court of Appeals for the Second Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2539,
+            2831
+          ]
+        ],
+        "annotation": {
+          "explanation": "Second Circuit vacated the July 11, 2023 order and remanded with instructions to dismiss as moot on Aug 19, 2024 (no view on merits).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2832,
+            2898
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court dismissal as moot on Aug 20, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2539,
+            2627
+          ],
+          [
+            2628,
+            2734
+          ],
+          [
+            2735,
+            2831
+          ]
+        ],
+        "annotation": {
+          "explanation": "Aug 19, 2024: Second Circuit vacated the district court\u2019s merits decision and remanded with instructions to dismiss as moot; it expressed no view on the deadline\u2019s constitutionality.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2832,
+            2898
+          ]
+        ],
+        "annotation": {
+          "explanation": "Aug 20, 2024: District court dismissed the case as moot per the Second Circuit\u2019s instructions.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2539,
+            2831
+          ]
+        ],
+        "annotation": {
+          "explanation": "08/19/2024 \u2014 Second Circuit: Vacated the 07/11/2023 district court order; remanded with instructions to dismiss as moot; no view on constitutionality.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2832,
+            2898
+          ]
+        ],
+        "annotation": {
+          "explanation": "08/20/2024 \u2014 District Court (W.D.N.Y.): Dismissed the case as moot per Second Circuit mandate.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "44606_p6",
+    "metadata": {
+      "case_id": "44606",
+      "paragraph_num": 6,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 2, 2025, the U.S. Supreme Court decided not to hear the case."
+    },
+    "source": "",
+    "target": "This case is about New York\u2019s deadline for independent nominating petitions, which must be filed 23 weeks before the general election. Byron W. Brown was the incumbent Mayor of Buffalo but lost the June 22, 2021 Democratic primary election. Two months later, Brown filed an independent nominating petition seeking to appear on the general election ballot. That petition was rejected because it was filed after the deadline of May 25, 2021.\n\nOn August 30, 2021, three registered voters who supported Byron W. Brown\u2019s independent candidacy for Mayor filed this lawsuit in the U.S. District Court for the Western District of New York. They sued the Erie County Board of Elections under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought 1) a declaratory judgment that New York\u2019s deadline for independent candidate petitions as applied to Byron W. Brown for Mayor of Buffalo violated the First and Fourteenth Amendments to the U.S. Constitution; 2) an order enjoining the Board from enforcing the deadline and from failing to place him on the 2021 general-election ballot; and 3) attorneys\u2019 fees. The case was assigned to District Judge John Sinatra, Jr.\n\nOn September 3, 2021, the district court issued a preliminary injunction ordering the Erie County Board of Elections to put Byron W. Brown on the 2021 ballot as an independent candidate for Mayor of Buffalo. The defendants appealed that injunction to the U.S. Court of Appeals for the Second Circuit, which issued an order on September 16, 2021 staying of the preliminary injunction. The plaintiffs did not appeal the Second Circuit\u2019s order, and Byron W. Brown did not appear on the general election ballot. However, on November 2, 2021, Brown won reelection after campaigning as a write-in candidate.\n\nBrown\u2019s election victory rendered the appeal of the district court\u2019s preliminary injunction moot, so the Second Circuit sent the case back to the district court to hear the plaintiff\u2019s constitutional challenge to the independent nominating petition deadline. On April 20, 2022, the district court referred the case to U.S. Magistrate Judge Michael Roemer.\n\nOn July 11, 2023, the district court ruled that despite the 2021 election having already taken place and Brown winning reelection, the constitutional challenge was not moot because the underlying dispute was capable of repetition, yet evading review. However, the court dismissed the complaint because it found that the independent petition deadline did not violate the plaintiffs\u2019 constitutional rights.\n\nOn August 19, 2024, the Second Circuit vacated the district court\u2019s July 11, 2023 order. The Second Circuit sent the case back to the district court with instructions to dismiss the case as moot. The Second Circuit expressed no view on the constitutionality of the challenged filing deadline. On August 20, 2024, the district court dismissed the case as moot.\n\nOn June 2, 2025, the U.S. Supreme Court decided not to hear the case.",
+    "target_paragraph": "On June 2, 2025, the U.S. Supreme Court decided not to hear the case.",
+    "target_paragraph_indices": [
+      2900,
+      2969
+    ],
+    "edits": [
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            2900,
+            2969
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: Party not specified in summary appealed to the U.S. Supreme Court.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2900,
+            2969
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Supreme Court denied review (declined to hear the case) on June 2, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2900,
+            2969
+          ]
+        ],
+        "annotation": {
+          "explanation": "Jun 2, 2025: U.S. Supreme Court denied review (certiorari not granted).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2900,
+            2969
+          ]
+        ],
+        "annotation": {
+          "explanation": "06/02/2025 \u2014 U.S. Supreme Court: Denied certiorari.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  }
+]

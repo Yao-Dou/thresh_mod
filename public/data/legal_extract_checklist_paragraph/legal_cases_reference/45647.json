@@ -1,0 +1,956 @@
+[
+  {
+    "id": "45647_p0",
+    "metadata": {
+      "case_id": "45647",
+      "paragraph_num": 0,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This is a case about access to the Federal Register in prison. The plaintiff, who was incarcerated i..."
+    },
+    "source": "",
+    "target": "This is a case about access to the Federal Register in prison. The plaintiff, who was incarcerated in federal prison, filed this lawsuit on February 22, 2019, against the Federal Bureau of Prisons (\u201cBOP\u201d) in the U.S. District Court for the Southern District of Illinois. Though the plaintiff's initial complaint was about an unrelated issue, in a subsequent amended complaint (filed January 10, 2020) the plaintiff brought a claim under the Administrative Procedure Act against the US Attorney General and BOP officials. The plaintiff alleged that the BOP had violated his First, Fifth, and Fourteenth Amendment rights by denying him access to the Federal Register, and therefore preventing him from engaging in public comment on proposed rulemakings, including those of the BOP. The plaintiff, representing himself, sought a declaratory judgment, an injunction requiring BOP to make the Federal Register available in its prisons, and money damages. Judge Phil Gilbert presided.\n\nOn April 23, 2020, the court dismissed the amended complaint upon preliminary review as frivolous and meritless. 2020 WL 1955283. Plaintiff appealed to the Seventh Circuit on May 28, 2020. The Seventh Circuit appointed counsel to assist Plaintiff with his appeal. On March 29, 2021, the Seventh Circuit vacated the District Court\u2019s dismissal of the case and remanded it for further proceedings. 841 Fed.Appx. 1011. The Seventh Circuit held that the District Court erred by resolving a factual dispute\u2014whether the BOP had provided Plaintiff access to its proposed rulemakings\u2014in favor of Defendants. The District Court had also not properly addressed the broader issue of access to the Federal Register\u00a0for other agencies' rulemakings. The case was remanded, though the District Court subsequently dismissed any individual claims for monetary damages. 2021 WL 2333764.\n\nBack in the District Court, Plaintiff filed a series of motions requesting that the court appoint him counsel, but the district court denied these motions because he had not properly justified the need for appointed counsel. On November 10, 2022, Defendants filed a motion for summary judgment, arguing that Plaintiff had access to BOP's proposed rules and regulations via the inmate electronic bulletin board, and that not providing access to the broader Federal Register did not violate Plaintiff's rights.\n\nOn March 31, 2023, the District Court granted Defendants\u2019 motion for summary judgment. 2023 WL 2743584. First, the court found that Plaintiff did have access to the BOP\u2019s proposed regulatory rule changes. The court also found that Defendants were not acting arbitrarily and capriciously in failing to provide inmates with a complete copy of the entire Federal Register, and that Defendants\u2019 decision not to provide complete copies of the Federal Register to inmates was rationally related to a legitimate penological interest of the institution. Finally, the court held that the First, Fifth and Fourteenth Amendments were not implicated in these claims. The court subsequently dismissed Plaintiff's complaint with prejudice and directed the Clerk to enter judgment in favor of Defendants.\n\nOn April 17, 2023, Plaintiff appealed the grant of summary judgment and the District Court\u2019s denial of his motions for recruitment of counsel. On June 30, 2024, the Seventh Circuit affirmed the final judgment, finding that the BOP\u2019s policy was reasonably related to its legitimate penological interest and that the District Court did not abuse its discretion in denying the request for recruitment of counsel. 109 F.4th 975.\n\nThis case is now closed.",
+    "target_paragraph": "This is a case about access to the Federal Register in prison. The plaintiff, who was incarcerated in federal prison, filed this lawsuit on February 22, 2019, against the Federal Bureau of Prisons (\u201cBOP\u201d) in the U.S. District Court for the Southern District of Illinois. Though the plaintiff's initial complaint was about an unrelated issue, in a subsequent amended complaint (filed January 10, 2020) the plaintiff brought a claim under the Administrative Procedure Act against the US Attorney General and BOP officials. The plaintiff alleged that the BOP had violated his First, Fifth, and Fourteenth Amendment rights by denying him access to the Federal Register, and therefore preventing him from engaging in public comment on proposed rulemakings, including those of the BOP. The plaintiff, representing himself, sought a declaratory judgment, an injunction requiring BOP to make the Federal Register available in its prisons, and money damages. Judge Phil Gilbert presided.",
+    "target_paragraph_indices": [
+      0,
+      978
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            63,
+            270
+          ]
+        ],
+        "annotation": {
+          "explanation": "February 22, 2019",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            342,
+            520
+          ],
+          [
+            2564,
+            2728
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) claim challenging federal officials\u2019/BOP actions regarding inmate access to the Federal Register (reviewed under the arbitrary-and-capricious standard).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            521,
+            665
+          ],
+          [
+            2905,
+            3013
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claims alleging violations of the First, Fifth, and Fourteenth Amendments.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            401,
+            520
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            521,
+            779
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            521,
+            779
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            521,
+            779
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            780,
+            949
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            780,
+            949
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunction requiring BOP to make the Federal Register available in its prisons",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            780,
+            949
+          ]
+        ],
+        "annotation": {
+          "explanation": "Money damages",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            780,
+            949
+          ]
+        ],
+        "annotation": {
+          "explanation": "Pro se (self-represented)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            950,
+            978
+          ]
+        ],
+        "annotation": {
+          "explanation": "Phil Gilbert",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            63,
+            270
+          ],
+          [
+            780,
+            949
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as an incarcerated federal prisoner representing himself",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            63,
+            270
+          ],
+          [
+            780,
+            949
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: An individual incarcerated in federal prison who represented himself (pro se).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            63,
+            270
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Federal Bureau of Prisons (BOP).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            342,
+            520
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: US Attorney General.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            342,
+            520
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: BOP officials.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            62
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves alleged denial of inmate access to the Federal Register while incarcerated.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            63,
+            270
+          ],
+          [
+            950,
+            978
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff, a federal inmate, filed suit on February 22, 2019, in the Southern District of Illinois against the BOP; Judge Phil Gilbert presided.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            342,
+            520
+          ],
+          [
+            521,
+            779
+          ],
+          [
+            780,
+            949
+          ]
+        ],
+        "annotation": {
+          "explanation": "On January 10, 2020, plaintiff filed an amended complaint under the APA against the U.S. Attorney General and BOP officials, alleging First, Fifth, and Fourteenth Amendment violations for denying access to the Federal Register and thereby preventing public comment on rulemakings; he sought declaratory and injunctive relief and damages, proceeding pro se.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            63,
+            270
+          ]
+        ],
+        "annotation": {
+          "explanation": "Initial complaint filed February 22, 2019, in S.D. Ill. against BOP.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            342,
+            520
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint filed January 10, 2020, asserting APA claim against the U.S. Attorney General and BOP officials.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      }
+    ]
+  },
+  {
+    "id": "45647_p1",
+    "metadata": {
+      "case_id": "45647",
+      "paragraph_num": 1,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 23, 2020, the court dismissed the amended complaint upon preliminary review as frivolous an..."
+    },
+    "source": "",
+    "target": "This is a case about access to the Federal Register in prison. The plaintiff, who was incarcerated in federal prison, filed this lawsuit on February 22, 2019, against the Federal Bureau of Prisons (\u201cBOP\u201d) in the U.S. District Court for the Southern District of Illinois. Though the plaintiff's initial complaint was about an unrelated issue, in a subsequent amended complaint (filed January 10, 2020) the plaintiff brought a claim under the Administrative Procedure Act against the US Attorney General and BOP officials. The plaintiff alleged that the BOP had violated his First, Fifth, and Fourteenth Amendment rights by denying him access to the Federal Register, and therefore preventing him from engaging in public comment on proposed rulemakings, including those of the BOP. The plaintiff, representing himself, sought a declaratory judgment, an injunction requiring BOP to make the Federal Register available in its prisons, and money damages. Judge Phil Gilbert presided.\n\nOn April 23, 2020, the court dismissed the amended complaint upon preliminary review as frivolous and meritless. 2020 WL 1955283. Plaintiff appealed to the Seventh Circuit on May 28, 2020. The Seventh Circuit appointed counsel to assist Plaintiff with his appeal. On March 29, 2021, the Seventh Circuit vacated the District Court\u2019s dismissal of the case and remanded it for further proceedings. 841 Fed.Appx. 1011. The Seventh Circuit held that the District Court erred by resolving a factual dispute\u2014whether the BOP had provided Plaintiff access to its proposed rulemakings\u2014in favor of Defendants. The District Court had also not properly addressed the broader issue of access to the Federal Register\u00a0for other agencies' rulemakings. The case was remanded, though the District Court subsequently dismissed any individual claims for monetary damages. 2021 WL 2333764.\n\nBack in the District Court, Plaintiff filed a series of motions requesting that the court appoint him counsel, but the district court denied these motions because he had not properly justified the need for appointed counsel. On November 10, 2022, Defendants filed a motion for summary judgment, arguing that Plaintiff had access to BOP's proposed rules and regulations via the inmate electronic bulletin board, and that not providing access to the broader Federal Register did not violate Plaintiff's rights.\n\nOn March 31, 2023, the District Court granted Defendants\u2019 motion for summary judgment. 2023 WL 2743584. First, the court found that Plaintiff did have access to the BOP\u2019s proposed regulatory rule changes. The court also found that Defendants were not acting arbitrarily and capriciously in failing to provide inmates with a complete copy of the entire Federal Register, and that Defendants\u2019 decision not to provide complete copies of the Federal Register to inmates was rationally related to a legitimate penological interest of the institution. Finally, the court held that the First, Fifth and Fourteenth Amendments were not implicated in these claims. The court subsequently dismissed Plaintiff's complaint with prejudice and directed the Clerk to enter judgment in favor of Defendants.\n\nOn April 17, 2023, Plaintiff appealed the grant of summary judgment and the District Court\u2019s denial of his motions for recruitment of counsel. On June 30, 2024, the Seventh Circuit affirmed the final judgment, finding that the BOP\u2019s policy was reasonably related to its legitimate penological interest and that the District Court did not abuse its discretion in denying the request for recruitment of counsel. 109 F.4th 975.\n\nThis case is now closed.",
+    "target_paragraph": "On April 23, 2020, the court dismissed the amended complaint upon preliminary review as frivolous and meritless. 2020 WL 1955283. Plaintiff appealed to the Seventh Circuit on May 28, 2020. The Seventh Circuit appointed counsel to assist Plaintiff with his appeal. On March 29, 2021, the Seventh Circuit vacated the District Court\u2019s dismissal of the case and remanded it for further proceedings. 841 Fed.Appx. 1011. The Seventh Circuit held that the District Court erred by resolving a factual dispute\u2014whether the BOP had provided Plaintiff access to its proposed rulemakings\u2014in favor of Defendants. The District Court had also not properly addressed the broader issue of access to the Federal Register\u00a0for other agencies' rulemakings. The case was remanded, though the District Court subsequently dismissed any individual claims for monetary damages. 2021 WL 2333764.",
+    "target_paragraph_indices": [
+      980,
+      1847
+    ],
+    "edits": [
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1169,
+            1243
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court-appointed counsel (on appeal)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            980,
+            1109
+          ]
+        ],
+        "annotation": {
+          "explanation": "2020 WL 1955283",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            1244,
+            1394
+          ]
+        ],
+        "annotation": {
+          "explanation": "841 Fed.Appx. 1011",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            1715,
+            1847
+          ]
+        ],
+        "annotation": {
+          "explanation": "2021 WL 2333764",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            980,
+            1109
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 23, 2020 \u2013 S.D. Ill. dismissed amended complaint as frivolous and meritless; citation: 2020 WL 1955283.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            1244,
+            1394
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 29, 2021 \u2013 Seventh Circuit vacated dismissal and remanded; citation: 841 Fed.Appx. 1011.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            1715,
+            1847
+          ]
+        ],
+        "annotation": {
+          "explanation": "Post-remand \u2013 District Court dismissed individual claims for monetary damages; citation: 2021 WL 2333764.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            1110,
+            1168
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: Plaintiff appealed to the Seventh Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            980,
+            1109
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 23, 2020: the court dismissed the amended complaint upon preliminary review as frivolous and meritless.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1244,
+            1394
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 29, 2021: the Seventh Circuit vacated the District Court\u2019s dismissal of the case and remanded it for further proceedings.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            980,
+            1109
+          ],
+          [
+            1244,
+            1394
+          ],
+          [
+            1395,
+            1714
+          ]
+        ],
+        "annotation": {
+          "explanation": "Initial dismissal was vacated on appeal because the district court improperly resolved a factual dispute about whether BOP had provided plaintiff access to proposed rulemakings and failed to address access to other agencies\u2019 rulemakings in the Federal Register.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1110,
+            1168
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff filed appeal to the Seventh Circuit on May 28, 2020.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": "45647_p2",
+    "metadata": {
+      "case_id": "45647",
+      "paragraph_num": 2,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Back in the District Court, Plaintiff filed a series of motions requesting that the court appoint hi..."
+    },
+    "source": "",
+    "target": "This is a case about access to the Federal Register in prison. The plaintiff, who was incarcerated in federal prison, filed this lawsuit on February 22, 2019, against the Federal Bureau of Prisons (\u201cBOP\u201d) in the U.S. District Court for the Southern District of Illinois. Though the plaintiff's initial complaint was about an unrelated issue, in a subsequent amended complaint (filed January 10, 2020) the plaintiff brought a claim under the Administrative Procedure Act against the US Attorney General and BOP officials. The plaintiff alleged that the BOP had violated his First, Fifth, and Fourteenth Amendment rights by denying him access to the Federal Register, and therefore preventing him from engaging in public comment on proposed rulemakings, including those of the BOP. The plaintiff, representing himself, sought a declaratory judgment, an injunction requiring BOP to make the Federal Register available in its prisons, and money damages. Judge Phil Gilbert presided.\n\nOn April 23, 2020, the court dismissed the amended complaint upon preliminary review as frivolous and meritless. 2020 WL 1955283. Plaintiff appealed to the Seventh Circuit on May 28, 2020. The Seventh Circuit appointed counsel to assist Plaintiff with his appeal. On March 29, 2021, the Seventh Circuit vacated the District Court\u2019s dismissal of the case and remanded it for further proceedings. 841 Fed.Appx. 1011. The Seventh Circuit held that the District Court erred by resolving a factual dispute\u2014whether the BOP had provided Plaintiff access to its proposed rulemakings\u2014in favor of Defendants. The District Court had also not properly addressed the broader issue of access to the Federal Register\u00a0for other agencies' rulemakings. The case was remanded, though the District Court subsequently dismissed any individual claims for monetary damages. 2021 WL 2333764.\n\nBack in the District Court, Plaintiff filed a series of motions requesting that the court appoint him counsel, but the district court denied these motions because he had not properly justified the need for appointed counsel. On November 10, 2022, Defendants filed a motion for summary judgment, arguing that Plaintiff had access to BOP's proposed rules and regulations via the inmate electronic bulletin board, and that not providing access to the broader Federal Register did not violate Plaintiff's rights.\n\nOn March 31, 2023, the District Court granted Defendants\u2019 motion for summary judgment. 2023 WL 2743584. First, the court found that Plaintiff did have access to the BOP\u2019s proposed regulatory rule changes. The court also found that Defendants were not acting arbitrarily and capriciously in failing to provide inmates with a complete copy of the entire Federal Register, and that Defendants\u2019 decision not to provide complete copies of the Federal Register to inmates was rationally related to a legitimate penological interest of the institution. Finally, the court held that the First, Fifth and Fourteenth Amendments were not implicated in these claims. The court subsequently dismissed Plaintiff's complaint with prejudice and directed the Clerk to enter judgment in favor of Defendants.\n\nOn April 17, 2023, Plaintiff appealed the grant of summary judgment and the District Court\u2019s denial of his motions for recruitment of counsel. On June 30, 2024, the Seventh Circuit affirmed the final judgment, finding that the BOP\u2019s policy was reasonably related to its legitimate penological interest and that the District Court did not abuse its discretion in denying the request for recruitment of counsel. 109 F.4th 975.\n\nThis case is now closed.",
+    "target_paragraph": "Back in the District Court, Plaintiff filed a series of motions requesting that the court appoint him counsel, but the district court denied these motions because he had not properly justified the need for appointed counsel. On November 10, 2022, Defendants filed a motion for summary judgment, arguing that Plaintiff had access to BOP's proposed rules and regulations via the inmate electronic bulletin board, and that not providing access to the broader Federal Register did not violate Plaintiff's rights.",
+    "target_paragraph_indices": [
+      1849,
+      2357
+    ],
+    "edits": [
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1877,
+            2073
+          ],
+          [
+            3222,
+            3292
+          ]
+        ],
+        "annotation": {
+          "explanation": "Requests for appointed/recruited counsel in district court denied (no counsel appointed)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": [
+            2,
+            4
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2074,
+            2357
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants asserted that plaintiff did have access to BOP proposed rules via the inmate electronic bulletin board and that broader Federal Register access was not required.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1877,
+            2073
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff repeatedly requested appointed counsel; the district court denied the requests for failure to justify the need.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1849,
+            2073
+          ],
+          [
+            3150,
+            3292
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff filed multiple motions for appointment/recruitment of counsel (dates not specified); motions were denied.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            2,
+            4
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2074,
+            2357
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion for summary judgment filed November 10, 2022.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2074,
+            2357
+          ],
+          [
+            2359,
+            2462
+          ],
+          [
+            3014,
+            3148
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for summary judgment: Granted on March 31, 2023 (2023 WL 2743584); complaint dismissed with prejudice and judgment entered for Defendants.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "45647_p3",
+    "metadata": {
+      "case_id": "45647",
+      "paragraph_num": 3,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 31, 2023, the District Court granted Defendants\u2019 motion for summary judgment. 2023 WL 27435..."
+    },
+    "source": "",
+    "target": "This is a case about access to the Federal Register in prison. The plaintiff, who was incarcerated in federal prison, filed this lawsuit on February 22, 2019, against the Federal Bureau of Prisons (\u201cBOP\u201d) in the U.S. District Court for the Southern District of Illinois. Though the plaintiff's initial complaint was about an unrelated issue, in a subsequent amended complaint (filed January 10, 2020) the plaintiff brought a claim under the Administrative Procedure Act against the US Attorney General and BOP officials. The plaintiff alleged that the BOP had violated his First, Fifth, and Fourteenth Amendment rights by denying him access to the Federal Register, and therefore preventing him from engaging in public comment on proposed rulemakings, including those of the BOP. The plaintiff, representing himself, sought a declaratory judgment, an injunction requiring BOP to make the Federal Register available in its prisons, and money damages. Judge Phil Gilbert presided.\n\nOn April 23, 2020, the court dismissed the amended complaint upon preliminary review as frivolous and meritless. 2020 WL 1955283. Plaintiff appealed to the Seventh Circuit on May 28, 2020. The Seventh Circuit appointed counsel to assist Plaintiff with his appeal. On March 29, 2021, the Seventh Circuit vacated the District Court\u2019s dismissal of the case and remanded it for further proceedings. 841 Fed.Appx. 1011. The Seventh Circuit held that the District Court erred by resolving a factual dispute\u2014whether the BOP had provided Plaintiff access to its proposed rulemakings\u2014in favor of Defendants. The District Court had also not properly addressed the broader issue of access to the Federal Register\u00a0for other agencies' rulemakings. The case was remanded, though the District Court subsequently dismissed any individual claims for monetary damages. 2021 WL 2333764.\n\nBack in the District Court, Plaintiff filed a series of motions requesting that the court appoint him counsel, but the district court denied these motions because he had not properly justified the need for appointed counsel. On November 10, 2022, Defendants filed a motion for summary judgment, arguing that Plaintiff had access to BOP's proposed rules and regulations via the inmate electronic bulletin board, and that not providing access to the broader Federal Register did not violate Plaintiff's rights.\n\nOn March 31, 2023, the District Court granted Defendants\u2019 motion for summary judgment. 2023 WL 2743584. First, the court found that Plaintiff did have access to the BOP\u2019s proposed regulatory rule changes. The court also found that Defendants were not acting arbitrarily and capriciously in failing to provide inmates with a complete copy of the entire Federal Register, and that Defendants\u2019 decision not to provide complete copies of the Federal Register to inmates was rationally related to a legitimate penological interest of the institution. Finally, the court held that the First, Fifth and Fourteenth Amendments were not implicated in these claims. The court subsequently dismissed Plaintiff's complaint with prejudice and directed the Clerk to enter judgment in favor of Defendants.\n\nOn April 17, 2023, Plaintiff appealed the grant of summary judgment and the District Court\u2019s denial of his motions for recruitment of counsel. On June 30, 2024, the Seventh Circuit affirmed the final judgment, finding that the BOP\u2019s policy was reasonably related to its legitimate penological interest and that the District Court did not abuse its discretion in denying the request for recruitment of counsel. 109 F.4th 975.\n\nThis case is now closed.",
+    "target_paragraph": "On March 31, 2023, the District Court granted Defendants\u2019 motion for summary judgment. 2023 WL 2743584. First, the court found that Plaintiff did have access to the BOP\u2019s proposed regulatory rule changes. The court also found that Defendants were not acting arbitrarily and capriciously in failing to provide inmates with a complete copy of the entire Federal Register, and that Defendants\u2019 decision not to provide complete copies of the Federal Register to inmates was rationally related to a legitimate penological interest of the institution. Finally, the court held that the First, Fifth and Fourteenth Amendments were not implicated in these claims. The court subsequently dismissed Plaintiff's complaint with prejudice and directed the Clerk to enter judgment in favor of Defendants.",
+    "target_paragraph_indices": [
+      2359,
+      3148
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            2359,
+            2462
+          ]
+        ],
+        "annotation": {
+          "explanation": "2023 WL 2743584",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            2359,
+            2462
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 31, 2023 \u2013 S.D. Ill. granted summary judgment for Defendants; citation: 2023 WL 2743584.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2359,
+            2462
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 31, 2023: the District Court granted Defendants\u2019 motion for summary judgment.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2359,
+            2462
+          ],
+          [
+            2463,
+            2563
+          ],
+          [
+            2564,
+            2904
+          ],
+          [
+            2905,
+            3013
+          ],
+          [
+            3014,
+            3148
+          ]
+        ],
+        "annotation": {
+          "explanation": "The district court found plaintiff had access to BOP proposed regulatory changes, determined that not providing complete Federal Register copies was not arbitrary or capricious and was rationally related to legitimate penological interests, held the constitutional claims were not implicated, and dismissed the case with prejudice.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "45647_p4",
+    "metadata": {
+      "case_id": "45647",
+      "paragraph_num": 4,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 17, 2023, Plaintiff appealed the grant of summary judgment and the District Court\u2019s denial ..."
+    },
+    "source": "",
+    "target": "This is a case about access to the Federal Register in prison. The plaintiff, who was incarcerated in federal prison, filed this lawsuit on February 22, 2019, against the Federal Bureau of Prisons (\u201cBOP\u201d) in the U.S. District Court for the Southern District of Illinois. Though the plaintiff's initial complaint was about an unrelated issue, in a subsequent amended complaint (filed January 10, 2020) the plaintiff brought a claim under the Administrative Procedure Act against the US Attorney General and BOP officials. The plaintiff alleged that the BOP had violated his First, Fifth, and Fourteenth Amendment rights by denying him access to the Federal Register, and therefore preventing him from engaging in public comment on proposed rulemakings, including those of the BOP. The plaintiff, representing himself, sought a declaratory judgment, an injunction requiring BOP to make the Federal Register available in its prisons, and money damages. Judge Phil Gilbert presided.\n\nOn April 23, 2020, the court dismissed the amended complaint upon preliminary review as frivolous and meritless. 2020 WL 1955283. Plaintiff appealed to the Seventh Circuit on May 28, 2020. The Seventh Circuit appointed counsel to assist Plaintiff with his appeal. On March 29, 2021, the Seventh Circuit vacated the District Court\u2019s dismissal of the case and remanded it for further proceedings. 841 Fed.Appx. 1011. The Seventh Circuit held that the District Court erred by resolving a factual dispute\u2014whether the BOP had provided Plaintiff access to its proposed rulemakings\u2014in favor of Defendants. The District Court had also not properly addressed the broader issue of access to the Federal Register\u00a0for other agencies' rulemakings. The case was remanded, though the District Court subsequently dismissed any individual claims for monetary damages. 2021 WL 2333764.\n\nBack in the District Court, Plaintiff filed a series of motions requesting that the court appoint him counsel, but the district court denied these motions because he had not properly justified the need for appointed counsel. On November 10, 2022, Defendants filed a motion for summary judgment, arguing that Plaintiff had access to BOP's proposed rules and regulations via the inmate electronic bulletin board, and that not providing access to the broader Federal Register did not violate Plaintiff's rights.\n\nOn March 31, 2023, the District Court granted Defendants\u2019 motion for summary judgment. 2023 WL 2743584. First, the court found that Plaintiff did have access to the BOP\u2019s proposed regulatory rule changes. The court also found that Defendants were not acting arbitrarily and capriciously in failing to provide inmates with a complete copy of the entire Federal Register, and that Defendants\u2019 decision not to provide complete copies of the Federal Register to inmates was rationally related to a legitimate penological interest of the institution. Finally, the court held that the First, Fifth and Fourteenth Amendments were not implicated in these claims. The court subsequently dismissed Plaintiff's complaint with prejudice and directed the Clerk to enter judgment in favor of Defendants.\n\nOn April 17, 2023, Plaintiff appealed the grant of summary judgment and the District Court\u2019s denial of his motions for recruitment of counsel. On June 30, 2024, the Seventh Circuit affirmed the final judgment, finding that the BOP\u2019s policy was reasonably related to its legitimate penological interest and that the District Court did not abuse its discretion in denying the request for recruitment of counsel. 109 F.4th 975.\n\nThis case is now closed.",
+    "target_paragraph": "On April 17, 2023, Plaintiff appealed the grant of summary judgment and the District Court\u2019s denial of his motions for recruitment of counsel. On June 30, 2024, the Seventh Circuit affirmed the final judgment, finding that the BOP\u2019s policy was reasonably related to its legitimate penological interest and that the District Court did not abuse its discretion in denying the request for recruitment of counsel. 109 F.4th 975.",
+    "target_paragraph_indices": [
+      3150,
+      3574
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3293,
+            3574
+          ]
+        ],
+        "annotation": {
+          "explanation": "109 F.4th 975",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            3293,
+            3574
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 30, 2024 \u2013 Seventh Circuit affirmed final judgment; citation: 109 F.4th 975.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            3150,
+            3292
+          ],
+          [
+            3293,
+            3559
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: Plaintiff appealed to the Seventh Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3293,
+            3574
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 30, 2024: the Seventh Circuit affirmed the final judgment.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3150,
+            3292
+          ],
+          [
+            3293,
+            3574
+          ]
+        ],
+        "annotation": {
+          "explanation": "On appeal, the Seventh Circuit affirmed, holding BOP\u2019s policy was reasonably related to legitimate penological interests and that denying appointed counsel was not an abuse of discretion.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3150,
+            3292
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff filed appeal on April 17, 2023, challenging the summary judgment and denial of recruitment of counsel.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "45647_p5",
+    "metadata": {
+      "case_id": "45647",
+      "paragraph_num": 5,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is now closed."
+    },
+    "source": "",
+    "target": "This is a case about access to the Federal Register in prison. The plaintiff, who was incarcerated in federal prison, filed this lawsuit on February 22, 2019, against the Federal Bureau of Prisons (\u201cBOP\u201d) in the U.S. District Court for the Southern District of Illinois. Though the plaintiff's initial complaint was about an unrelated issue, in a subsequent amended complaint (filed January 10, 2020) the plaintiff brought a claim under the Administrative Procedure Act against the US Attorney General and BOP officials. The plaintiff alleged that the BOP had violated his First, Fifth, and Fourteenth Amendment rights by denying him access to the Federal Register, and therefore preventing him from engaging in public comment on proposed rulemakings, including those of the BOP. The plaintiff, representing himself, sought a declaratory judgment, an injunction requiring BOP to make the Federal Register available in its prisons, and money damages. Judge Phil Gilbert presided.\n\nOn April 23, 2020, the court dismissed the amended complaint upon preliminary review as frivolous and meritless. 2020 WL 1955283. Plaintiff appealed to the Seventh Circuit on May 28, 2020. The Seventh Circuit appointed counsel to assist Plaintiff with his appeal. On March 29, 2021, the Seventh Circuit vacated the District Court\u2019s dismissal of the case and remanded it for further proceedings. 841 Fed.Appx. 1011. The Seventh Circuit held that the District Court erred by resolving a factual dispute\u2014whether the BOP had provided Plaintiff access to its proposed rulemakings\u2014in favor of Defendants. The District Court had also not properly addressed the broader issue of access to the Federal Register\u00a0for other agencies' rulemakings. The case was remanded, though the District Court subsequently dismissed any individual claims for monetary damages. 2021 WL 2333764.\n\nBack in the District Court, Plaintiff filed a series of motions requesting that the court appoint him counsel, but the district court denied these motions because he had not properly justified the need for appointed counsel. On November 10, 2022, Defendants filed a motion for summary judgment, arguing that Plaintiff had access to BOP's proposed rules and regulations via the inmate electronic bulletin board, and that not providing access to the broader Federal Register did not violate Plaintiff's rights.\n\nOn March 31, 2023, the District Court granted Defendants\u2019 motion for summary judgment. 2023 WL 2743584. First, the court found that Plaintiff did have access to the BOP\u2019s proposed regulatory rule changes. The court also found that Defendants were not acting arbitrarily and capriciously in failing to provide inmates with a complete copy of the entire Federal Register, and that Defendants\u2019 decision not to provide complete copies of the Federal Register to inmates was rationally related to a legitimate penological interest of the institution. Finally, the court held that the First, Fifth and Fourteenth Amendments were not implicated in these claims. The court subsequently dismissed Plaintiff's complaint with prejudice and directed the Clerk to enter judgment in favor of Defendants.\n\nOn April 17, 2023, Plaintiff appealed the grant of summary judgment and the District Court\u2019s denial of his motions for recruitment of counsel. On June 30, 2024, the Seventh Circuit affirmed the final judgment, finding that the BOP\u2019s policy was reasonably related to its legitimate penological interest and that the District Court did not abuse its discretion in denying the request for recruitment of counsel. 109 F.4th 975.\n\nThis case is now closed.",
+    "target_paragraph": "This case is now closed.",
+    "target_paragraph_indices": [
+      3576,
+      3600
+    ],
+    "edits": []
+  }
+]

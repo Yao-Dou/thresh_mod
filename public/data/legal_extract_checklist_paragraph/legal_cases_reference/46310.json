@@ -1,0 +1,963 @@
+[
+  {
+    "id": "46310_p0",
+    "metadata": {
+      "case_id": "46310",
+      "paragraph_num": 0,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On February 10, 2020, fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississi..."
+    },
+    "source": "",
+    "target": "On February 10, 2020, fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi, filed this putative class action lawsuit in the U.S. District Court for the Northern District of Mississippi. Press reports [https://www.cnn.com/2020/01/14/us/jay-z-yo-gotti-mississippi-prisons-lawsuit-trnd/index.html] connected this sue to entertainment mogul Jay-Z, who had the month before written an open letter to Mississippi Governor Phil Bryant decrying the conditions at state correctional facilities. The plaintiffs claimed that state officials were aware of and deliberately indifferent to inhumane conditions, in violation of the Eighth and Fourteenth Amendments. Specifically, the plaintiffs alleged that Parchman\u2019s chronic understaffing and overcrowding, frequent outbreaks of violence, and physical neglect to the facilities violated the constitutional ban on cruel and unusual punishment.\n\nThe plaintiffs sued the Commissioner of the Mississippi Department of Corrections and the Superintendent of the Mississippi Penitentiary under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought compensatory and punitive damages.\u00a0The plaintiffs outlined how Parchman\u2019s frequent outbreaks of violence culminated in eight deaths in the first month of 2020. The understaffing and overcrowding at Parchman led to severe failure to provide adequate living conditions, including exposure to raw sewage and extreme temperatures, denial of urgent medical care, and food and water unfit for human consumption. The case was assigned to District Judge Debra Brown.\n\nOn March 2, 2021, Judge Brown dismissed the plaintiffs\u2019 complaint for failure to provide adequate notice to the defendants of the claims against them. The plaintiffs filed their fifth amended complaint on March 16, 2021, resolving these issues.\n\nThe defendant moved to dismiss the amended complaint less than two weeks later on March 30, 2021, raising qualified immunity and asserting that the plaintiffs failed to state a claim or to allege physical injuries, as required by the Prison Litigation Reform Act.\n\nOn November 2, 2021, Judge Brown dismissed the plaintiffs\u2019 claims for compensatory damages to the extent that the claims were based on mental or emotional, rather than physical, injuries. \u00a0The court also dismissed the plaintiffs\u2019 allegation under 42 U.S.C. \u00a7 1985(3) that the defendants conspired to deprive plaintiffs of equal protection because the allegations failed to allege that racial animus motivated the conspiracy.\u00a0\u00a0In the same order, however, the court denied the defendants\u2019 motion to dismiss the lawsuit on the basis of qualified immunity, finding that the plaintiffs pleaded facts that, if proven, would amount to violation of clearly established constitutional rights.\n\nOn December 28, 2021, Judge Brown (who had become chief judge) reassigned the matter to Judge Sharion Aycock.\n\nDiscovery proceeded with several interruptions over the next several years with parties scheduling depositions and filing motions with respect to expert testimony. On March 4, 2022, defendants filed a motion to dismiss plaintiffs' fifth amended complaint. The motion was granted in part on March 22, dismissing the claims against Marshal Turner, superintendent of Parchman, but preserving all other claims.\n\nOn February 9, 2024, plaintiffs moved to certify their class. On September 23, 2024, Judge Aycock rejected certification of the class on the basis that the plaintiffs failed to establish that the putative class members\u2019 claims each depended upon a common issue such that its resolution would resolve the claims of all members of the class. \u00a0The order note that resolving claims challenged by qualified immunity required proof that each Defendant was aware of each specific allegedly unconstitutional condition that each Plaintiff faced and failed to respond as a reasonable officer would have done under the circumstances. The order also noted the length of the class period and the variations in violations raised by different plaintiffs.\n\nOn October 23, 2024, defendants moved to sever the plaintiffs' claims into separate civil actions, capitalizing on the court's opinion denying class certification in arguing that severing the Plaintiffs\u2019 claims into separate actions, or at least holding separate trials, would help the court to avoid prejudice and delay and ensure fairness of proceedings.\n\nOn November 13, 2024, the court held that the appropriate resolution was for each individual plaintiff to file their own lawsuit. \u00a0The court ordered the plaintiffs to limit their separate lawsuits to the claims raised in this lawsuit and to tailor each case to each respective plaintiff. \u00a0The parties expected to complete remaining discovery in the new cases.\n\nOn January 6, 2025, Justice Aycock dismissed plaintiffs' claims without prejudice. This case is now closed.",
+    "target_paragraph": "On February 10, 2020, fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi, filed this putative class action lawsuit in the U.S. District Court for the Northern District of Mississippi. Press reports [https://www.cnn.com/2020/01/14/us/jay-z-yo-gotti-mississippi-prisons-lawsuit-trnd/index.html] connected this sue to entertainment mogul Jay-Z, who had the month before written an open letter to Mississippi Governor Phil Bryant decrying the conditions at state correctional facilities. The plaintiffs claimed that state officials were aware of and deliberately indifferent to inhumane conditions, in violation of the Eighth and Fourteenth Amendments. Specifically, the plaintiffs alleged that Parchman\u2019s chronic understaffing and overcrowding, frequent outbreaks of violence, and physical neglect to the facilities violated the constitutional ban on cruel and unusual punishment.",
+    "target_paragraph_indices": [
+      0,
+      908
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            0,
+            214
+          ]
+        ],
+        "annotation": {
+          "explanation": "February 10, 2020",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            515,
+            679
+          ],
+          [
+            910,
+            1070
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1983 claim alleging Eighth and Fourteenth Amendment violations (deliberate indifference to inhumane prison conditions) against the MDOC Commissioner and Parchman Superintendent.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            515,
+            679
+          ],
+          [
+            680,
+            908
+          ]
+        ],
+        "annotation": {
+          "explanation": "Eighth Amendment \u2013 Cruel and Unusual Punishments Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            515,
+            679
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment (clause not specified in this portion of the summary)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            515,
+            679
+          ],
+          [
+            2285,
+            2520
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment \u2013 Equal Protection Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            4
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            22,
+            145
+          ],
+          [
+            3300,
+            3361
+          ],
+          [
+            3362,
+            3433
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Class Action",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            7
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            22,
+            103
+          ],
+          [
+            4399,
+            4528
+          ],
+          [
+            4530,
+            4686
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            9
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            214
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            214
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteen prisoners incarcerated at Parchman filed suit on February 10, 2020, in the Northern District of Mississippi, establishing who, when, and where.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            515,
+            908
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs allege state officials knew of and were deliberately indifferent to inhumane conditions at Parchman, including chronic understaffing, overcrowding, frequent violence, and physical neglect of facilities.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            215,
+            514
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background context: Public attention, including an open letter by Jay-Z in January 2020 criticizing Mississippi prison conditions, was linked by press reports to this lawsuit.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            0,
+            214
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed (putative class action) on Feb 10, 2020.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": "46310_p1",
+    "metadata": {
+      "case_id": "46310",
+      "paragraph_num": 1,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs sued the Commissioner of the Mississippi Department of Corrections and the Superinten..."
+    },
+    "source": "",
+    "target": "On February 10, 2020, fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi, filed this putative class action lawsuit in the U.S. District Court for the Northern District of Mississippi. Press reports [https://www.cnn.com/2020/01/14/us/jay-z-yo-gotti-mississippi-prisons-lawsuit-trnd/index.html] connected this sue to entertainment mogul Jay-Z, who had the month before written an open letter to Mississippi Governor Phil Bryant decrying the conditions at state correctional facilities. The plaintiffs claimed that state officials were aware of and deliberately indifferent to inhumane conditions, in violation of the Eighth and Fourteenth Amendments. Specifically, the plaintiffs alleged that Parchman\u2019s chronic understaffing and overcrowding, frequent outbreaks of violence, and physical neglect to the facilities violated the constitutional ban on cruel and unusual punishment.\n\nThe plaintiffs sued the Commissioner of the Mississippi Department of Corrections and the Superintendent of the Mississippi Penitentiary under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought compensatory and punitive damages.\u00a0The plaintiffs outlined how Parchman\u2019s frequent outbreaks of violence culminated in eight deaths in the first month of 2020. The understaffing and overcrowding at Parchman led to severe failure to provide adequate living conditions, including exposure to raw sewage and extreme temperatures, denial of urgent medical care, and food and water unfit for human consumption. The case was assigned to District Judge Debra Brown.\n\nOn March 2, 2021, Judge Brown dismissed the plaintiffs\u2019 complaint for failure to provide adequate notice to the defendants of the claims against them. The plaintiffs filed their fifth amended complaint on March 16, 2021, resolving these issues.\n\nThe defendant moved to dismiss the amended complaint less than two weeks later on March 30, 2021, raising qualified immunity and asserting that the plaintiffs failed to state a claim or to allege physical injuries, as required by the Prison Litigation Reform Act.\n\nOn November 2, 2021, Judge Brown dismissed the plaintiffs\u2019 claims for compensatory damages to the extent that the claims were based on mental or emotional, rather than physical, injuries. \u00a0The court also dismissed the plaintiffs\u2019 allegation under 42 U.S.C. \u00a7 1985(3) that the defendants conspired to deprive plaintiffs of equal protection because the allegations failed to allege that racial animus motivated the conspiracy.\u00a0\u00a0In the same order, however, the court denied the defendants\u2019 motion to dismiss the lawsuit on the basis of qualified immunity, finding that the plaintiffs pleaded facts that, if proven, would amount to violation of clearly established constitutional rights.\n\nOn December 28, 2021, Judge Brown (who had become chief judge) reassigned the matter to Judge Sharion Aycock.\n\nDiscovery proceeded with several interruptions over the next several years with parties scheduling depositions and filing motions with respect to expert testimony. On March 4, 2022, defendants filed a motion to dismiss plaintiffs' fifth amended complaint. The motion was granted in part on March 22, dismissing the claims against Marshal Turner, superintendent of Parchman, but preserving all other claims.\n\nOn February 9, 2024, plaintiffs moved to certify their class. On September 23, 2024, Judge Aycock rejected certification of the class on the basis that the plaintiffs failed to establish that the putative class members\u2019 claims each depended upon a common issue such that its resolution would resolve the claims of all members of the class. \u00a0The order note that resolving claims challenged by qualified immunity required proof that each Defendant was aware of each specific allegedly unconstitutional condition that each Plaintiff faced and failed to respond as a reasonable officer would have done under the circumstances. The order also noted the length of the class period and the variations in violations raised by different plaintiffs.\n\nOn October 23, 2024, defendants moved to sever the plaintiffs' claims into separate civil actions, capitalizing on the court's opinion denying class certification in arguing that severing the Plaintiffs\u2019 claims into separate actions, or at least holding separate trials, would help the court to avoid prejudice and delay and ensure fairness of proceedings.\n\nOn November 13, 2024, the court held that the appropriate resolution was for each individual plaintiff to file their own lawsuit. \u00a0The court ordered the plaintiffs to limit their separate lawsuits to the claims raised in this lawsuit and to tailor each case to each respective plaintiff. \u00a0The parties expected to complete remaining discovery in the new cases.\n\nOn January 6, 2025, Justice Aycock dismissed plaintiffs' claims without prejudice. This case is now closed.",
+    "target_paragraph": "The plaintiffs sued the Commissioner of the Mississippi Department of Corrections and the Superintendent of the Mississippi Penitentiary under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought compensatory and punitive damages.\u00a0The plaintiffs outlined how Parchman\u2019s frequent outbreaks of violence culminated in eight deaths in the first month of 2020. The understaffing and overcrowding at Parchman led to severe failure to provide adequate living conditions, including exposure to raw sewage and extreme temperatures, denial of urgent medical care, and food and water unfit for human consumption. The case was assigned to District Judge Debra Brown.",
+    "target_paragraph_indices": [
+      910,
+      1583
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            910,
+            1070
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1983",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1071,
+            1159
+          ]
+        ],
+        "annotation": {
+          "explanation": "compensatory damages",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1071,
+            1159
+          ]
+        ],
+        "annotation": {
+          "explanation": "punitive damages",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1071,
+            1159
+          ]
+        ],
+        "annotation": {
+          "explanation": "private counsel",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1531,
+            1583
+          ]
+        ],
+        "annotation": {
+          "explanation": "Debra Brown",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            910,
+            1070
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Commissioner of the Mississippi Department of Corrections",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            910,
+            1070
+          ],
+          [
+            3192,
+            3298
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Marshal Turner, Superintendent of the Mississippi Penitentiary (superintendent of Parchman)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            6
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1160,
+            1284
+          ]
+        ],
+        "annotation": {
+          "explanation": "Frequent violence allegedly culminated in eight inmate deaths in January 2020.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1285,
+            1530
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged conditions included exposure to raw sewage, extreme temperatures, denial of urgent medical care, and food and water unfit for consumption, attributed to understaffing and overcrowding.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            910,
+            1070
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants were the MDOC Commissioner and Parchman Superintendent, sued under 42 U.S.C. \u00a7 1983, indicating who was responsible for the alleged conditions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46310_p2",
+    "metadata": {
+      "case_id": "46310",
+      "paragraph_num": 2,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 2, 2021, Judge Brown dismissed the plaintiffs\u2019 complaint for failure to provide adequate no..."
+    },
+    "source": "",
+    "target": "On February 10, 2020, fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi, filed this putative class action lawsuit in the U.S. District Court for the Northern District of Mississippi. Press reports [https://www.cnn.com/2020/01/14/us/jay-z-yo-gotti-mississippi-prisons-lawsuit-trnd/index.html] connected this sue to entertainment mogul Jay-Z, who had the month before written an open letter to Mississippi Governor Phil Bryant decrying the conditions at state correctional facilities. The plaintiffs claimed that state officials were aware of and deliberately indifferent to inhumane conditions, in violation of the Eighth and Fourteenth Amendments. Specifically, the plaintiffs alleged that Parchman\u2019s chronic understaffing and overcrowding, frequent outbreaks of violence, and physical neglect to the facilities violated the constitutional ban on cruel and unusual punishment.\n\nThe plaintiffs sued the Commissioner of the Mississippi Department of Corrections and the Superintendent of the Mississippi Penitentiary under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought compensatory and punitive damages.\u00a0The plaintiffs outlined how Parchman\u2019s frequent outbreaks of violence culminated in eight deaths in the first month of 2020. The understaffing and overcrowding at Parchman led to severe failure to provide adequate living conditions, including exposure to raw sewage and extreme temperatures, denial of urgent medical care, and food and water unfit for human consumption. The case was assigned to District Judge Debra Brown.\n\nOn March 2, 2021, Judge Brown dismissed the plaintiffs\u2019 complaint for failure to provide adequate notice to the defendants of the claims against them. The plaintiffs filed their fifth amended complaint on March 16, 2021, resolving these issues.\n\nThe defendant moved to dismiss the amended complaint less than two weeks later on March 30, 2021, raising qualified immunity and asserting that the plaintiffs failed to state a claim or to allege physical injuries, as required by the Prison Litigation Reform Act.\n\nOn November 2, 2021, Judge Brown dismissed the plaintiffs\u2019 claims for compensatory damages to the extent that the claims were based on mental or emotional, rather than physical, injuries. \u00a0The court also dismissed the plaintiffs\u2019 allegation under 42 U.S.C. \u00a7 1985(3) that the defendants conspired to deprive plaintiffs of equal protection because the allegations failed to allege that racial animus motivated the conspiracy.\u00a0\u00a0In the same order, however, the court denied the defendants\u2019 motion to dismiss the lawsuit on the basis of qualified immunity, finding that the plaintiffs pleaded facts that, if proven, would amount to violation of clearly established constitutional rights.\n\nOn December 28, 2021, Judge Brown (who had become chief judge) reassigned the matter to Judge Sharion Aycock.\n\nDiscovery proceeded with several interruptions over the next several years with parties scheduling depositions and filing motions with respect to expert testimony. On March 4, 2022, defendants filed a motion to dismiss plaintiffs' fifth amended complaint. The motion was granted in part on March 22, dismissing the claims against Marshal Turner, superintendent of Parchman, but preserving all other claims.\n\nOn February 9, 2024, plaintiffs moved to certify their class. On September 23, 2024, Judge Aycock rejected certification of the class on the basis that the plaintiffs failed to establish that the putative class members\u2019 claims each depended upon a common issue such that its resolution would resolve the claims of all members of the class. \u00a0The order note that resolving claims challenged by qualified immunity required proof that each Defendant was aware of each specific allegedly unconstitutional condition that each Plaintiff faced and failed to respond as a reasonable officer would have done under the circumstances. The order also noted the length of the class period and the variations in violations raised by different plaintiffs.\n\nOn October 23, 2024, defendants moved to sever the plaintiffs' claims into separate civil actions, capitalizing on the court's opinion denying class certification in arguing that severing the Plaintiffs\u2019 claims into separate actions, or at least holding separate trials, would help the court to avoid prejudice and delay and ensure fairness of proceedings.\n\nOn November 13, 2024, the court held that the appropriate resolution was for each individual plaintiff to file their own lawsuit. \u00a0The court ordered the plaintiffs to limit their separate lawsuits to the claims raised in this lawsuit and to tailor each case to each respective plaintiff. \u00a0The parties expected to complete remaining discovery in the new cases.\n\nOn January 6, 2025, Justice Aycock dismissed plaintiffs' claims without prejudice. This case is now closed.",
+    "target_paragraph": "On March 2, 2021, Judge Brown dismissed the plaintiffs\u2019 complaint for failure to provide adequate notice to the defendants of the claims against them. The plaintiffs filed their fifth amended complaint on March 16, 2021, resolving these issues.",
+    "target_paragraph_indices": [
+      1585,
+      1829
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1585,
+            1735
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order dismissing complaint for inadequate notice on Mar 2, 2021.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1736,
+            1829
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amended Complaint filed on Mar 16, 2021.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1585,
+            1735
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 2, 2021 \u2014 Court dismissed the complaint for failure to provide adequate notice to defendants.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46310_p3",
+    "metadata": {
+      "case_id": "46310",
+      "paragraph_num": 3,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The defendant moved to dismiss the amended complaint less than two weeks later on March 30, 2021, ra..."
+    },
+    "source": "",
+    "target": "On February 10, 2020, fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi, filed this putative class action lawsuit in the U.S. District Court for the Northern District of Mississippi. Press reports [https://www.cnn.com/2020/01/14/us/jay-z-yo-gotti-mississippi-prisons-lawsuit-trnd/index.html] connected this sue to entertainment mogul Jay-Z, who had the month before written an open letter to Mississippi Governor Phil Bryant decrying the conditions at state correctional facilities. The plaintiffs claimed that state officials were aware of and deliberately indifferent to inhumane conditions, in violation of the Eighth and Fourteenth Amendments. Specifically, the plaintiffs alleged that Parchman\u2019s chronic understaffing and overcrowding, frequent outbreaks of violence, and physical neglect to the facilities violated the constitutional ban on cruel and unusual punishment.\n\nThe plaintiffs sued the Commissioner of the Mississippi Department of Corrections and the Superintendent of the Mississippi Penitentiary under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought compensatory and punitive damages.\u00a0The plaintiffs outlined how Parchman\u2019s frequent outbreaks of violence culminated in eight deaths in the first month of 2020. The understaffing and overcrowding at Parchman led to severe failure to provide adequate living conditions, including exposure to raw sewage and extreme temperatures, denial of urgent medical care, and food and water unfit for human consumption. The case was assigned to District Judge Debra Brown.\n\nOn March 2, 2021, Judge Brown dismissed the plaintiffs\u2019 complaint for failure to provide adequate notice to the defendants of the claims against them. The plaintiffs filed their fifth amended complaint on March 16, 2021, resolving these issues.\n\nThe defendant moved to dismiss the amended complaint less than two weeks later on March 30, 2021, raising qualified immunity and asserting that the plaintiffs failed to state a claim or to allege physical injuries, as required by the Prison Litigation Reform Act.\n\nOn November 2, 2021, Judge Brown dismissed the plaintiffs\u2019 claims for compensatory damages to the extent that the claims were based on mental or emotional, rather than physical, injuries. \u00a0The court also dismissed the plaintiffs\u2019 allegation under 42 U.S.C. \u00a7 1985(3) that the defendants conspired to deprive plaintiffs of equal protection because the allegations failed to allege that racial animus motivated the conspiracy.\u00a0\u00a0In the same order, however, the court denied the defendants\u2019 motion to dismiss the lawsuit on the basis of qualified immunity, finding that the plaintiffs pleaded facts that, if proven, would amount to violation of clearly established constitutional rights.\n\nOn December 28, 2021, Judge Brown (who had become chief judge) reassigned the matter to Judge Sharion Aycock.\n\nDiscovery proceeded with several interruptions over the next several years with parties scheduling depositions and filing motions with respect to expert testimony. On March 4, 2022, defendants filed a motion to dismiss plaintiffs' fifth amended complaint. The motion was granted in part on March 22, dismissing the claims against Marshal Turner, superintendent of Parchman, but preserving all other claims.\n\nOn February 9, 2024, plaintiffs moved to certify their class. On September 23, 2024, Judge Aycock rejected certification of the class on the basis that the plaintiffs failed to establish that the putative class members\u2019 claims each depended upon a common issue such that its resolution would resolve the claims of all members of the class. \u00a0The order note that resolving claims challenged by qualified immunity required proof that each Defendant was aware of each specific allegedly unconstitutional condition that each Plaintiff faced and failed to respond as a reasonable officer would have done under the circumstances. The order also noted the length of the class period and the variations in violations raised by different plaintiffs.\n\nOn October 23, 2024, defendants moved to sever the plaintiffs' claims into separate civil actions, capitalizing on the court's opinion denying class certification in arguing that severing the Plaintiffs\u2019 claims into separate actions, or at least holding separate trials, would help the court to avoid prejudice and delay and ensure fairness of proceedings.\n\nOn November 13, 2024, the court held that the appropriate resolution was for each individual plaintiff to file their own lawsuit. \u00a0The court ordered the plaintiffs to limit their separate lawsuits to the claims raised in this lawsuit and to tailor each case to each respective plaintiff. \u00a0The parties expected to complete remaining discovery in the new cases.\n\nOn January 6, 2025, Justice Aycock dismissed plaintiffs' claims without prejudice. This case is now closed.",
+    "target_paragraph": "The defendant moved to dismiss the amended complaint less than two weeks later on March 30, 2021, raising qualified immunity and asserting that the plaintiffs failed to state a claim or to allege physical injuries, as required by the Prison Litigation Reform Act.",
+    "target_paragraph_indices": [
+      1831,
+      2094
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1831,
+            2094
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants' motion to dismiss amended complaint filed Mar 30, 2021 (qualified immunity; failure to state a claim; PLRA physical-injury requirement).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1831,
+            2094
+          ]
+        ],
+        "annotation": {
+          "explanation": "November 2, 2021 \u2014 On defendants\u2019 March 30, 2021 motion to dismiss, the court: (a) dismissed compensatory-damages claims to the extent based on mental or emotional injuries; (b) dismissed the \u00a7 1985(3) conspiracy claim; and (c) denied dismissal on qualified-immunity grounds.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46310_p4",
+    "metadata": {
+      "case_id": "46310",
+      "paragraph_num": 4,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On November 2, 2021, Judge Brown dismissed the plaintiffs\u2019 claims for compensatory damages to the ex..."
+    },
+    "source": "",
+    "target": "On February 10, 2020, fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi, filed this putative class action lawsuit in the U.S. District Court for the Northern District of Mississippi. Press reports [https://www.cnn.com/2020/01/14/us/jay-z-yo-gotti-mississippi-prisons-lawsuit-trnd/index.html] connected this sue to entertainment mogul Jay-Z, who had the month before written an open letter to Mississippi Governor Phil Bryant decrying the conditions at state correctional facilities. The plaintiffs claimed that state officials were aware of and deliberately indifferent to inhumane conditions, in violation of the Eighth and Fourteenth Amendments. Specifically, the plaintiffs alleged that Parchman\u2019s chronic understaffing and overcrowding, frequent outbreaks of violence, and physical neglect to the facilities violated the constitutional ban on cruel and unusual punishment.\n\nThe plaintiffs sued the Commissioner of the Mississippi Department of Corrections and the Superintendent of the Mississippi Penitentiary under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought compensatory and punitive damages.\u00a0The plaintiffs outlined how Parchman\u2019s frequent outbreaks of violence culminated in eight deaths in the first month of 2020. The understaffing and overcrowding at Parchman led to severe failure to provide adequate living conditions, including exposure to raw sewage and extreme temperatures, denial of urgent medical care, and food and water unfit for human consumption. The case was assigned to District Judge Debra Brown.\n\nOn March 2, 2021, Judge Brown dismissed the plaintiffs\u2019 complaint for failure to provide adequate notice to the defendants of the claims against them. The plaintiffs filed their fifth amended complaint on March 16, 2021, resolving these issues.\n\nThe defendant moved to dismiss the amended complaint less than two weeks later on March 30, 2021, raising qualified immunity and asserting that the plaintiffs failed to state a claim or to allege physical injuries, as required by the Prison Litigation Reform Act.\n\nOn November 2, 2021, Judge Brown dismissed the plaintiffs\u2019 claims for compensatory damages to the extent that the claims were based on mental or emotional, rather than physical, injuries. \u00a0The court also dismissed the plaintiffs\u2019 allegation under 42 U.S.C. \u00a7 1985(3) that the defendants conspired to deprive plaintiffs of equal protection because the allegations failed to allege that racial animus motivated the conspiracy.\u00a0\u00a0In the same order, however, the court denied the defendants\u2019 motion to dismiss the lawsuit on the basis of qualified immunity, finding that the plaintiffs pleaded facts that, if proven, would amount to violation of clearly established constitutional rights.\n\nOn December 28, 2021, Judge Brown (who had become chief judge) reassigned the matter to Judge Sharion Aycock.\n\nDiscovery proceeded with several interruptions over the next several years with parties scheduling depositions and filing motions with respect to expert testimony. On March 4, 2022, defendants filed a motion to dismiss plaintiffs' fifth amended complaint. The motion was granted in part on March 22, dismissing the claims against Marshal Turner, superintendent of Parchman, but preserving all other claims.\n\nOn February 9, 2024, plaintiffs moved to certify their class. On September 23, 2024, Judge Aycock rejected certification of the class on the basis that the plaintiffs failed to establish that the putative class members\u2019 claims each depended upon a common issue such that its resolution would resolve the claims of all members of the class. \u00a0The order note that resolving claims challenged by qualified immunity required proof that each Defendant was aware of each specific allegedly unconstitutional condition that each Plaintiff faced and failed to respond as a reasonable officer would have done under the circumstances. The order also noted the length of the class period and the variations in violations raised by different plaintiffs.\n\nOn October 23, 2024, defendants moved to sever the plaintiffs' claims into separate civil actions, capitalizing on the court's opinion denying class certification in arguing that severing the Plaintiffs\u2019 claims into separate actions, or at least holding separate trials, would help the court to avoid prejudice and delay and ensure fairness of proceedings.\n\nOn November 13, 2024, the court held that the appropriate resolution was for each individual plaintiff to file their own lawsuit. \u00a0The court ordered the plaintiffs to limit their separate lawsuits to the claims raised in this lawsuit and to tailor each case to each respective plaintiff. \u00a0The parties expected to complete remaining discovery in the new cases.\n\nOn January 6, 2025, Justice Aycock dismissed plaintiffs' claims without prejudice. This case is now closed.",
+    "target_paragraph": "On November 2, 2021, Judge Brown dismissed the plaintiffs\u2019 claims for compensatory damages to the extent that the claims were based on mental or emotional, rather than physical, injuries. \u00a0The court also dismissed the plaintiffs\u2019 allegation under 42 U.S.C. \u00a7 1985(3) that the defendants conspired to deprive plaintiffs of equal protection because the allegations failed to allege that racial animus motivated the conspiracy.\u00a0\u00a0In the same order, however, the court denied the defendants\u2019 motion to dismiss the lawsuit on the basis of qualified immunity, finding that the plaintiffs pleaded facts that, if proven, would amount to violation of clearly established constitutional rights.",
+    "target_paragraph_indices": [
+      2096,
+      2779
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2285,
+            2520
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1985(3) conspiracy to deprive equal protection (dismissed for lack of racial-animus allegations).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2285,
+            2520
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1985(3)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2096,
+            2283
+          ],
+          [
+            2285,
+            2520
+          ],
+          [
+            2522,
+            2779
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order on motion to dismiss (Nov 2, 2021): dismissed mental/emotional damages and \u00a71985(3) conspiracy claim; denied dismissal based on qualified immunity.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2522,
+            2779
+          ]
+        ],
+        "annotation": {
+          "explanation": "11/02/2021 \u2013 Court denied defendants\u2019 qualified immunity-based motion to dismiss, allowing claims to proceed toward further litigation (pretrial posture relevant to potential trial).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46310_p5",
+    "metadata": {
+      "case_id": "46310",
+      "paragraph_num": 5,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On December 28, 2021, Judge Brown (who had become chief judge) reassigned the matter to Judge Shario..."
+    },
+    "source": "",
+    "target": "On February 10, 2020, fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi, filed this putative class action lawsuit in the U.S. District Court for the Northern District of Mississippi. Press reports [https://www.cnn.com/2020/01/14/us/jay-z-yo-gotti-mississippi-prisons-lawsuit-trnd/index.html] connected this sue to entertainment mogul Jay-Z, who had the month before written an open letter to Mississippi Governor Phil Bryant decrying the conditions at state correctional facilities. The plaintiffs claimed that state officials were aware of and deliberately indifferent to inhumane conditions, in violation of the Eighth and Fourteenth Amendments. Specifically, the plaintiffs alleged that Parchman\u2019s chronic understaffing and overcrowding, frequent outbreaks of violence, and physical neglect to the facilities violated the constitutional ban on cruel and unusual punishment.\n\nThe plaintiffs sued the Commissioner of the Mississippi Department of Corrections and the Superintendent of the Mississippi Penitentiary under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought compensatory and punitive damages.\u00a0The plaintiffs outlined how Parchman\u2019s frequent outbreaks of violence culminated in eight deaths in the first month of 2020. The understaffing and overcrowding at Parchman led to severe failure to provide adequate living conditions, including exposure to raw sewage and extreme temperatures, denial of urgent medical care, and food and water unfit for human consumption. The case was assigned to District Judge Debra Brown.\n\nOn March 2, 2021, Judge Brown dismissed the plaintiffs\u2019 complaint for failure to provide adequate notice to the defendants of the claims against them. The plaintiffs filed their fifth amended complaint on March 16, 2021, resolving these issues.\n\nThe defendant moved to dismiss the amended complaint less than two weeks later on March 30, 2021, raising qualified immunity and asserting that the plaintiffs failed to state a claim or to allege physical injuries, as required by the Prison Litigation Reform Act.\n\nOn November 2, 2021, Judge Brown dismissed the plaintiffs\u2019 claims for compensatory damages to the extent that the claims were based on mental or emotional, rather than physical, injuries. \u00a0The court also dismissed the plaintiffs\u2019 allegation under 42 U.S.C. \u00a7 1985(3) that the defendants conspired to deprive plaintiffs of equal protection because the allegations failed to allege that racial animus motivated the conspiracy.\u00a0\u00a0In the same order, however, the court denied the defendants\u2019 motion to dismiss the lawsuit on the basis of qualified immunity, finding that the plaintiffs pleaded facts that, if proven, would amount to violation of clearly established constitutional rights.\n\nOn December 28, 2021, Judge Brown (who had become chief judge) reassigned the matter to Judge Sharion Aycock.\n\nDiscovery proceeded with several interruptions over the next several years with parties scheduling depositions and filing motions with respect to expert testimony. On March 4, 2022, defendants filed a motion to dismiss plaintiffs' fifth amended complaint. The motion was granted in part on March 22, dismissing the claims against Marshal Turner, superintendent of Parchman, but preserving all other claims.\n\nOn February 9, 2024, plaintiffs moved to certify their class. On September 23, 2024, Judge Aycock rejected certification of the class on the basis that the plaintiffs failed to establish that the putative class members\u2019 claims each depended upon a common issue such that its resolution would resolve the claims of all members of the class. \u00a0The order note that resolving claims challenged by qualified immunity required proof that each Defendant was aware of each specific allegedly unconstitutional condition that each Plaintiff faced and failed to respond as a reasonable officer would have done under the circumstances. The order also noted the length of the class period and the variations in violations raised by different plaintiffs.\n\nOn October 23, 2024, defendants moved to sever the plaintiffs' claims into separate civil actions, capitalizing on the court's opinion denying class certification in arguing that severing the Plaintiffs\u2019 claims into separate actions, or at least holding separate trials, would help the court to avoid prejudice and delay and ensure fairness of proceedings.\n\nOn November 13, 2024, the court held that the appropriate resolution was for each individual plaintiff to file their own lawsuit. \u00a0The court ordered the plaintiffs to limit their separate lawsuits to the claims raised in this lawsuit and to tailor each case to each respective plaintiff. \u00a0The parties expected to complete remaining discovery in the new cases.\n\nOn January 6, 2025, Justice Aycock dismissed plaintiffs' claims without prejudice. This case is now closed.",
+    "target_paragraph": "On December 28, 2021, Judge Brown (who had become chief judge) reassigned the matter to Judge Sharion Aycock.",
+    "target_paragraph_indices": [
+      2781,
+      2890
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            2781,
+            2890
+          ]
+        ],
+        "annotation": {
+          "explanation": "Sharion Aycock",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2781,
+            2890
+          ]
+        ],
+        "annotation": {
+          "explanation": "12/28/2021 \u2013 Case reassigned to Judge Sharion Aycock, who later issued key trial-related rulings (class certification denial, severance order, dismissal without prejudice).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46310_p6",
+    "metadata": {
+      "case_id": "46310",
+      "paragraph_num": 6,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Discovery proceeded with several interruptions over the next several years with parties scheduling d..."
+    },
+    "source": "",
+    "target": "On February 10, 2020, fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi, filed this putative class action lawsuit in the U.S. District Court for the Northern District of Mississippi. Press reports [https://www.cnn.com/2020/01/14/us/jay-z-yo-gotti-mississippi-prisons-lawsuit-trnd/index.html] connected this sue to entertainment mogul Jay-Z, who had the month before written an open letter to Mississippi Governor Phil Bryant decrying the conditions at state correctional facilities. The plaintiffs claimed that state officials were aware of and deliberately indifferent to inhumane conditions, in violation of the Eighth and Fourteenth Amendments. Specifically, the plaintiffs alleged that Parchman\u2019s chronic understaffing and overcrowding, frequent outbreaks of violence, and physical neglect to the facilities violated the constitutional ban on cruel and unusual punishment.\n\nThe plaintiffs sued the Commissioner of the Mississippi Department of Corrections and the Superintendent of the Mississippi Penitentiary under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought compensatory and punitive damages.\u00a0The plaintiffs outlined how Parchman\u2019s frequent outbreaks of violence culminated in eight deaths in the first month of 2020. The understaffing and overcrowding at Parchman led to severe failure to provide adequate living conditions, including exposure to raw sewage and extreme temperatures, denial of urgent medical care, and food and water unfit for human consumption. The case was assigned to District Judge Debra Brown.\n\nOn March 2, 2021, Judge Brown dismissed the plaintiffs\u2019 complaint for failure to provide adequate notice to the defendants of the claims against them. The plaintiffs filed their fifth amended complaint on March 16, 2021, resolving these issues.\n\nThe defendant moved to dismiss the amended complaint less than two weeks later on March 30, 2021, raising qualified immunity and asserting that the plaintiffs failed to state a claim or to allege physical injuries, as required by the Prison Litigation Reform Act.\n\nOn November 2, 2021, Judge Brown dismissed the plaintiffs\u2019 claims for compensatory damages to the extent that the claims were based on mental or emotional, rather than physical, injuries. \u00a0The court also dismissed the plaintiffs\u2019 allegation under 42 U.S.C. \u00a7 1985(3) that the defendants conspired to deprive plaintiffs of equal protection because the allegations failed to allege that racial animus motivated the conspiracy.\u00a0\u00a0In the same order, however, the court denied the defendants\u2019 motion to dismiss the lawsuit on the basis of qualified immunity, finding that the plaintiffs pleaded facts that, if proven, would amount to violation of clearly established constitutional rights.\n\nOn December 28, 2021, Judge Brown (who had become chief judge) reassigned the matter to Judge Sharion Aycock.\n\nDiscovery proceeded with several interruptions over the next several years with parties scheduling depositions and filing motions with respect to expert testimony. On March 4, 2022, defendants filed a motion to dismiss plaintiffs' fifth amended complaint. The motion was granted in part on March 22, dismissing the claims against Marshal Turner, superintendent of Parchman, but preserving all other claims.\n\nOn February 9, 2024, plaintiffs moved to certify their class. On September 23, 2024, Judge Aycock rejected certification of the class on the basis that the plaintiffs failed to establish that the putative class members\u2019 claims each depended upon a common issue such that its resolution would resolve the claims of all members of the class. \u00a0The order note that resolving claims challenged by qualified immunity required proof that each Defendant was aware of each specific allegedly unconstitutional condition that each Plaintiff faced and failed to respond as a reasonable officer would have done under the circumstances. The order also noted the length of the class period and the variations in violations raised by different plaintiffs.\n\nOn October 23, 2024, defendants moved to sever the plaintiffs' claims into separate civil actions, capitalizing on the court's opinion denying class certification in arguing that severing the Plaintiffs\u2019 claims into separate actions, or at least holding separate trials, would help the court to avoid prejudice and delay and ensure fairness of proceedings.\n\nOn November 13, 2024, the court held that the appropriate resolution was for each individual plaintiff to file their own lawsuit. \u00a0The court ordered the plaintiffs to limit their separate lawsuits to the claims raised in this lawsuit and to tailor each case to each respective plaintiff. \u00a0The parties expected to complete remaining discovery in the new cases.\n\nOn January 6, 2025, Justice Aycock dismissed plaintiffs' claims without prejudice. This case is now closed.",
+    "target_paragraph": "Discovery proceeded with several interruptions over the next several years with parties scheduling depositions and filing motions with respect to expert testimony. On March 4, 2022, defendants filed a motion to dismiss plaintiffs' fifth amended complaint. The motion was granted in part on March 22, dismissing the claims against Marshal Turner, superintendent of Parchman, but preserving all other claims.",
+    "target_paragraph_indices": [
+      2892,
+      3298
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2892,
+            3055
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motions regarding expert testimony filed during discovery (dates unspecified).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3056,
+            3147
+          ],
+          [
+            3148,
+            3298
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants' motion to dismiss fifth amended complaint filed Mar 4, 2022; granted in part on Mar 22, 2022 (claims against Superintendent Marshal Turner dismissed; other claims preserved).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3056,
+            3298
+          ]
+        ],
+        "annotation": {
+          "explanation": "03/22/2022 \u2013 Motion to dismiss granted in part; claims against Superintendent Marshal Turner dismissed, all other claims preserved (affecting parties/issues for any future trials).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2892,
+            3055
+          ]
+        ],
+        "annotation": {
+          "explanation": "Discovery proceedings: depositions were scheduled and motions regarding expert testimony were filed over several years, with several interruptions (pretrial activity; no trial date mentioned).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3056,
+            3298
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 22, 2022 \u2014 On defendants\u2019 March 4, 2022 motion to dismiss the fifth amended complaint, granted in part: dismissed claims against Superintendent Marshal Turner; all other claims preserved.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46310_p7",
+    "metadata": {
+      "case_id": "46310",
+      "paragraph_num": 7,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On February 9, 2024, plaintiffs moved to certify their class. On September 23, 2024, Judge Aycock re..."
+    },
+    "source": "",
+    "target": "On February 10, 2020, fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi, filed this putative class action lawsuit in the U.S. District Court for the Northern District of Mississippi. Press reports [https://www.cnn.com/2020/01/14/us/jay-z-yo-gotti-mississippi-prisons-lawsuit-trnd/index.html] connected this sue to entertainment mogul Jay-Z, who had the month before written an open letter to Mississippi Governor Phil Bryant decrying the conditions at state correctional facilities. The plaintiffs claimed that state officials were aware of and deliberately indifferent to inhumane conditions, in violation of the Eighth and Fourteenth Amendments. Specifically, the plaintiffs alleged that Parchman\u2019s chronic understaffing and overcrowding, frequent outbreaks of violence, and physical neglect to the facilities violated the constitutional ban on cruel and unusual punishment.\n\nThe plaintiffs sued the Commissioner of the Mississippi Department of Corrections and the Superintendent of the Mississippi Penitentiary under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought compensatory and punitive damages.\u00a0The plaintiffs outlined how Parchman\u2019s frequent outbreaks of violence culminated in eight deaths in the first month of 2020. The understaffing and overcrowding at Parchman led to severe failure to provide adequate living conditions, including exposure to raw sewage and extreme temperatures, denial of urgent medical care, and food and water unfit for human consumption. The case was assigned to District Judge Debra Brown.\n\nOn March 2, 2021, Judge Brown dismissed the plaintiffs\u2019 complaint for failure to provide adequate notice to the defendants of the claims against them. The plaintiffs filed their fifth amended complaint on March 16, 2021, resolving these issues.\n\nThe defendant moved to dismiss the amended complaint less than two weeks later on March 30, 2021, raising qualified immunity and asserting that the plaintiffs failed to state a claim or to allege physical injuries, as required by the Prison Litigation Reform Act.\n\nOn November 2, 2021, Judge Brown dismissed the plaintiffs\u2019 claims for compensatory damages to the extent that the claims were based on mental or emotional, rather than physical, injuries. \u00a0The court also dismissed the plaintiffs\u2019 allegation under 42 U.S.C. \u00a7 1985(3) that the defendants conspired to deprive plaintiffs of equal protection because the allegations failed to allege that racial animus motivated the conspiracy.\u00a0\u00a0In the same order, however, the court denied the defendants\u2019 motion to dismiss the lawsuit on the basis of qualified immunity, finding that the plaintiffs pleaded facts that, if proven, would amount to violation of clearly established constitutional rights.\n\nOn December 28, 2021, Judge Brown (who had become chief judge) reassigned the matter to Judge Sharion Aycock.\n\nDiscovery proceeded with several interruptions over the next several years with parties scheduling depositions and filing motions with respect to expert testimony. On March 4, 2022, defendants filed a motion to dismiss plaintiffs' fifth amended complaint. The motion was granted in part on March 22, dismissing the claims against Marshal Turner, superintendent of Parchman, but preserving all other claims.\n\nOn February 9, 2024, plaintiffs moved to certify their class. On September 23, 2024, Judge Aycock rejected certification of the class on the basis that the plaintiffs failed to establish that the putative class members\u2019 claims each depended upon a common issue such that its resolution would resolve the claims of all members of the class. \u00a0The order note that resolving claims challenged by qualified immunity required proof that each Defendant was aware of each specific allegedly unconstitutional condition that each Plaintiff faced and failed to respond as a reasonable officer would have done under the circumstances. The order also noted the length of the class period and the variations in violations raised by different plaintiffs.\n\nOn October 23, 2024, defendants moved to sever the plaintiffs' claims into separate civil actions, capitalizing on the court's opinion denying class certification in arguing that severing the Plaintiffs\u2019 claims into separate actions, or at least holding separate trials, would help the court to avoid prejudice and delay and ensure fairness of proceedings.\n\nOn November 13, 2024, the court held that the appropriate resolution was for each individual plaintiff to file their own lawsuit. \u00a0The court ordered the plaintiffs to limit their separate lawsuits to the claims raised in this lawsuit and to tailor each case to each respective plaintiff. \u00a0The parties expected to complete remaining discovery in the new cases.\n\nOn January 6, 2025, Justice Aycock dismissed plaintiffs' claims without prejudice. This case is now closed.",
+    "target_paragraph": "On February 9, 2024, plaintiffs moved to certify their class. On September 23, 2024, Judge Aycock rejected certification of the class on the basis that the plaintiffs failed to establish that the putative class members\u2019 claims each depended upon a common issue such that its resolution would resolve the claims of all members of the class. \u00a0The order note that resolving claims challenged by qualified immunity required proof that each Defendant was aware of each specific allegedly unconstitutional condition that each Plaintiff faced and failed to respond as a reasonable officer would have done under the circumstances. The order also noted the length of the class period and the variations in violations raised by different plaintiffs.",
+    "target_paragraph_indices": [
+      3300,
+      4039
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3300,
+            3361
+          ],
+          [
+            3362,
+            3639
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs' motion for class certification filed Feb 9, 2024; denied Sept 23, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46310_p8",
+    "metadata": {
+      "case_id": "46310",
+      "paragraph_num": 8,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On October 23, 2024, defendants moved to sever the plaintiffs' claims into separate civil actions, c..."
+    },
+    "source": "",
+    "target": "On February 10, 2020, fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi, filed this putative class action lawsuit in the U.S. District Court for the Northern District of Mississippi. Press reports [https://www.cnn.com/2020/01/14/us/jay-z-yo-gotti-mississippi-prisons-lawsuit-trnd/index.html] connected this sue to entertainment mogul Jay-Z, who had the month before written an open letter to Mississippi Governor Phil Bryant decrying the conditions at state correctional facilities. The plaintiffs claimed that state officials were aware of and deliberately indifferent to inhumane conditions, in violation of the Eighth and Fourteenth Amendments. Specifically, the plaintiffs alleged that Parchman\u2019s chronic understaffing and overcrowding, frequent outbreaks of violence, and physical neglect to the facilities violated the constitutional ban on cruel and unusual punishment.\n\nThe plaintiffs sued the Commissioner of the Mississippi Department of Corrections and the Superintendent of the Mississippi Penitentiary under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought compensatory and punitive damages.\u00a0The plaintiffs outlined how Parchman\u2019s frequent outbreaks of violence culminated in eight deaths in the first month of 2020. The understaffing and overcrowding at Parchman led to severe failure to provide adequate living conditions, including exposure to raw sewage and extreme temperatures, denial of urgent medical care, and food and water unfit for human consumption. The case was assigned to District Judge Debra Brown.\n\nOn March 2, 2021, Judge Brown dismissed the plaintiffs\u2019 complaint for failure to provide adequate notice to the defendants of the claims against them. The plaintiffs filed their fifth amended complaint on March 16, 2021, resolving these issues.\n\nThe defendant moved to dismiss the amended complaint less than two weeks later on March 30, 2021, raising qualified immunity and asserting that the plaintiffs failed to state a claim or to allege physical injuries, as required by the Prison Litigation Reform Act.\n\nOn November 2, 2021, Judge Brown dismissed the plaintiffs\u2019 claims for compensatory damages to the extent that the claims were based on mental or emotional, rather than physical, injuries. \u00a0The court also dismissed the plaintiffs\u2019 allegation under 42 U.S.C. \u00a7 1985(3) that the defendants conspired to deprive plaintiffs of equal protection because the allegations failed to allege that racial animus motivated the conspiracy.\u00a0\u00a0In the same order, however, the court denied the defendants\u2019 motion to dismiss the lawsuit on the basis of qualified immunity, finding that the plaintiffs pleaded facts that, if proven, would amount to violation of clearly established constitutional rights.\n\nOn December 28, 2021, Judge Brown (who had become chief judge) reassigned the matter to Judge Sharion Aycock.\n\nDiscovery proceeded with several interruptions over the next several years with parties scheduling depositions and filing motions with respect to expert testimony. On March 4, 2022, defendants filed a motion to dismiss plaintiffs' fifth amended complaint. The motion was granted in part on March 22, dismissing the claims against Marshal Turner, superintendent of Parchman, but preserving all other claims.\n\nOn February 9, 2024, plaintiffs moved to certify their class. On September 23, 2024, Judge Aycock rejected certification of the class on the basis that the plaintiffs failed to establish that the putative class members\u2019 claims each depended upon a common issue such that its resolution would resolve the claims of all members of the class. \u00a0The order note that resolving claims challenged by qualified immunity required proof that each Defendant was aware of each specific allegedly unconstitutional condition that each Plaintiff faced and failed to respond as a reasonable officer would have done under the circumstances. The order also noted the length of the class period and the variations in violations raised by different plaintiffs.\n\nOn October 23, 2024, defendants moved to sever the plaintiffs' claims into separate civil actions, capitalizing on the court's opinion denying class certification in arguing that severing the Plaintiffs\u2019 claims into separate actions, or at least holding separate trials, would help the court to avoid prejudice and delay and ensure fairness of proceedings.\n\nOn November 13, 2024, the court held that the appropriate resolution was for each individual plaintiff to file their own lawsuit. \u00a0The court ordered the plaintiffs to limit their separate lawsuits to the claims raised in this lawsuit and to tailor each case to each respective plaintiff. \u00a0The parties expected to complete remaining discovery in the new cases.\n\nOn January 6, 2025, Justice Aycock dismissed plaintiffs' claims without prejudice. This case is now closed.",
+    "target_paragraph": "On October 23, 2024, defendants moved to sever the plaintiffs' claims into separate civil actions, capitalizing on the court's opinion denying class certification in arguing that severing the Plaintiffs\u2019 claims into separate actions, or at least holding separate trials, would help the court to avoid prejudice and delay and ensure fairness of proceedings.",
+    "target_paragraph_indices": [
+      4041,
+      4397
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4041,
+            4397
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants' motion to sever filed Oct 23, 2024; granted/implemented Nov 13, 2024 via order requiring each plaintiff to file a separate lawsuit.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4041,
+            4397
+          ]
+        ],
+        "annotation": {
+          "explanation": "10/23/2024 \u2013 Defendants moved to sever claims into separate civil actions, or at least to hold separate trials, citing the class certification denial and concerns about prejudice, delay, and fairness.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4041,
+            4397
+          ]
+        ],
+        "annotation": {
+          "explanation": "November 13, 2024 \u2014 On defendants\u2019 motion to sever, the court ordered each plaintiff to file a separate lawsuit (granting severance).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46310_p9",
+    "metadata": {
+      "case_id": "46310",
+      "paragraph_num": 9,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On November 13, 2024, the court held that the appropriate resolution was for each individual plainti..."
+    },
+    "source": "",
+    "target": "On February 10, 2020, fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi, filed this putative class action lawsuit in the U.S. District Court for the Northern District of Mississippi. Press reports [https://www.cnn.com/2020/01/14/us/jay-z-yo-gotti-mississippi-prisons-lawsuit-trnd/index.html] connected this sue to entertainment mogul Jay-Z, who had the month before written an open letter to Mississippi Governor Phil Bryant decrying the conditions at state correctional facilities. The plaintiffs claimed that state officials were aware of and deliberately indifferent to inhumane conditions, in violation of the Eighth and Fourteenth Amendments. Specifically, the plaintiffs alleged that Parchman\u2019s chronic understaffing and overcrowding, frequent outbreaks of violence, and physical neglect to the facilities violated the constitutional ban on cruel and unusual punishment.\n\nThe plaintiffs sued the Commissioner of the Mississippi Department of Corrections and the Superintendent of the Mississippi Penitentiary under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought compensatory and punitive damages.\u00a0The plaintiffs outlined how Parchman\u2019s frequent outbreaks of violence culminated in eight deaths in the first month of 2020. The understaffing and overcrowding at Parchman led to severe failure to provide adequate living conditions, including exposure to raw sewage and extreme temperatures, denial of urgent medical care, and food and water unfit for human consumption. The case was assigned to District Judge Debra Brown.\n\nOn March 2, 2021, Judge Brown dismissed the plaintiffs\u2019 complaint for failure to provide adequate notice to the defendants of the claims against them. The plaintiffs filed their fifth amended complaint on March 16, 2021, resolving these issues.\n\nThe defendant moved to dismiss the amended complaint less than two weeks later on March 30, 2021, raising qualified immunity and asserting that the plaintiffs failed to state a claim or to allege physical injuries, as required by the Prison Litigation Reform Act.\n\nOn November 2, 2021, Judge Brown dismissed the plaintiffs\u2019 claims for compensatory damages to the extent that the claims were based on mental or emotional, rather than physical, injuries. \u00a0The court also dismissed the plaintiffs\u2019 allegation under 42 U.S.C. \u00a7 1985(3) that the defendants conspired to deprive plaintiffs of equal protection because the allegations failed to allege that racial animus motivated the conspiracy.\u00a0\u00a0In the same order, however, the court denied the defendants\u2019 motion to dismiss the lawsuit on the basis of qualified immunity, finding that the plaintiffs pleaded facts that, if proven, would amount to violation of clearly established constitutional rights.\n\nOn December 28, 2021, Judge Brown (who had become chief judge) reassigned the matter to Judge Sharion Aycock.\n\nDiscovery proceeded with several interruptions over the next several years with parties scheduling depositions and filing motions with respect to expert testimony. On March 4, 2022, defendants filed a motion to dismiss plaintiffs' fifth amended complaint. The motion was granted in part on March 22, dismissing the claims against Marshal Turner, superintendent of Parchman, but preserving all other claims.\n\nOn February 9, 2024, plaintiffs moved to certify their class. On September 23, 2024, Judge Aycock rejected certification of the class on the basis that the plaintiffs failed to establish that the putative class members\u2019 claims each depended upon a common issue such that its resolution would resolve the claims of all members of the class. \u00a0The order note that resolving claims challenged by qualified immunity required proof that each Defendant was aware of each specific allegedly unconstitutional condition that each Plaintiff faced and failed to respond as a reasonable officer would have done under the circumstances. The order also noted the length of the class period and the variations in violations raised by different plaintiffs.\n\nOn October 23, 2024, defendants moved to sever the plaintiffs' claims into separate civil actions, capitalizing on the court's opinion denying class certification in arguing that severing the Plaintiffs\u2019 claims into separate actions, or at least holding separate trials, would help the court to avoid prejudice and delay and ensure fairness of proceedings.\n\nOn November 13, 2024, the court held that the appropriate resolution was for each individual plaintiff to file their own lawsuit. \u00a0The court ordered the plaintiffs to limit their separate lawsuits to the claims raised in this lawsuit and to tailor each case to each respective plaintiff. \u00a0The parties expected to complete remaining discovery in the new cases.\n\nOn January 6, 2025, Justice Aycock dismissed plaintiffs' claims without prejudice. This case is now closed.",
+    "target_paragraph": "On November 13, 2024, the court held that the appropriate resolution was for each individual plaintiff to file their own lawsuit. \u00a0The court ordered the plaintiffs to limit their separate lawsuits to the claims raised in this lawsuit and to tailor each case to each respective plaintiff. \u00a0The parties expected to complete remaining discovery in the new cases.",
+    "target_paragraph_indices": [
+      4399,
+      4758
+    ],
+    "edits": []
+  },
+  {
+    "id": "46310_p10",
+    "metadata": {
+      "case_id": "46310",
+      "paragraph_num": 10,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On January 6, 2025, Justice Aycock dismissed plaintiffs' claims without prejudice. This case is now ..."
+    },
+    "source": "",
+    "target": "On February 10, 2020, fourteen prisoners at the Mississippi State Penitentiary in Parchman, Mississippi, filed this putative class action lawsuit in the U.S. District Court for the Northern District of Mississippi. Press reports [https://www.cnn.com/2020/01/14/us/jay-z-yo-gotti-mississippi-prisons-lawsuit-trnd/index.html] connected this sue to entertainment mogul Jay-Z, who had the month before written an open letter to Mississippi Governor Phil Bryant decrying the conditions at state correctional facilities. The plaintiffs claimed that state officials were aware of and deliberately indifferent to inhumane conditions, in violation of the Eighth and Fourteenth Amendments. Specifically, the plaintiffs alleged that Parchman\u2019s chronic understaffing and overcrowding, frequent outbreaks of violence, and physical neglect to the facilities violated the constitutional ban on cruel and unusual punishment.\n\nThe plaintiffs sued the Commissioner of the Mississippi Department of Corrections and the Superintendent of the Mississippi Penitentiary under 42 U.S.C. \u00a7 1983. Represented by private counsel, the plaintiffs sought compensatory and punitive damages.\u00a0The plaintiffs outlined how Parchman\u2019s frequent outbreaks of violence culminated in eight deaths in the first month of 2020. The understaffing and overcrowding at Parchman led to severe failure to provide adequate living conditions, including exposure to raw sewage and extreme temperatures, denial of urgent medical care, and food and water unfit for human consumption. The case was assigned to District Judge Debra Brown.\n\nOn March 2, 2021, Judge Brown dismissed the plaintiffs\u2019 complaint for failure to provide adequate notice to the defendants of the claims against them. The plaintiffs filed their fifth amended complaint on March 16, 2021, resolving these issues.\n\nThe defendant moved to dismiss the amended complaint less than two weeks later on March 30, 2021, raising qualified immunity and asserting that the plaintiffs failed to state a claim or to allege physical injuries, as required by the Prison Litigation Reform Act.\n\nOn November 2, 2021, Judge Brown dismissed the plaintiffs\u2019 claims for compensatory damages to the extent that the claims were based on mental or emotional, rather than physical, injuries. \u00a0The court also dismissed the plaintiffs\u2019 allegation under 42 U.S.C. \u00a7 1985(3) that the defendants conspired to deprive plaintiffs of equal protection because the allegations failed to allege that racial animus motivated the conspiracy.\u00a0\u00a0In the same order, however, the court denied the defendants\u2019 motion to dismiss the lawsuit on the basis of qualified immunity, finding that the plaintiffs pleaded facts that, if proven, would amount to violation of clearly established constitutional rights.\n\nOn December 28, 2021, Judge Brown (who had become chief judge) reassigned the matter to Judge Sharion Aycock.\n\nDiscovery proceeded with several interruptions over the next several years with parties scheduling depositions and filing motions with respect to expert testimony. On March 4, 2022, defendants filed a motion to dismiss plaintiffs' fifth amended complaint. The motion was granted in part on March 22, dismissing the claims against Marshal Turner, superintendent of Parchman, but preserving all other claims.\n\nOn February 9, 2024, plaintiffs moved to certify their class. On September 23, 2024, Judge Aycock rejected certification of the class on the basis that the plaintiffs failed to establish that the putative class members\u2019 claims each depended upon a common issue such that its resolution would resolve the claims of all members of the class. \u00a0The order note that resolving claims challenged by qualified immunity required proof that each Defendant was aware of each specific allegedly unconstitutional condition that each Plaintiff faced and failed to respond as a reasonable officer would have done under the circumstances. The order also noted the length of the class period and the variations in violations raised by different plaintiffs.\n\nOn October 23, 2024, defendants moved to sever the plaintiffs' claims into separate civil actions, capitalizing on the court's opinion denying class certification in arguing that severing the Plaintiffs\u2019 claims into separate actions, or at least holding separate trials, would help the court to avoid prejudice and delay and ensure fairness of proceedings.\n\nOn November 13, 2024, the court held that the appropriate resolution was for each individual plaintiff to file their own lawsuit. \u00a0The court ordered the plaintiffs to limit their separate lawsuits to the claims raised in this lawsuit and to tailor each case to each respective plaintiff. \u00a0The parties expected to complete remaining discovery in the new cases.\n\nOn January 6, 2025, Justice Aycock dismissed plaintiffs' claims without prejudice. This case is now closed.",
+    "target_paragraph": "On January 6, 2025, Justice Aycock dismissed plaintiffs' claims without prejudice. This case is now closed.",
+    "target_paragraph_indices": [
+      4760,
+      4867
+    ],
+    "edits": [
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            4760,
+            4867
+          ]
+        ],
+        "annotation": {
+          "explanation": "[No].",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4760,
+            4867
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case dismissed without prejudice on Jan 6, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4760,
+            4867
+          ]
+        ],
+        "annotation": {
+          "explanation": "01/06/2025 \u2013 Case outcome: dismissed without prejudice; case closed (no trial described in the summary before closure).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4760,
+            4867
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 6, 2025 \u2014 Court dismissed plaintiffs\u2019 claims without prejudice; case closed.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  }
+]

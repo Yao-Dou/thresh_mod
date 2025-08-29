@@ -1,0 +1,897 @@
+[
+  {
+    "id": "46137_p0",
+    "metadata": {
+      "case_id": "46137",
+      "paragraph_num": 0,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The U.S. Attorney's Office in the Southern District of New indicted New York City Mayor Eric Adams f..."
+    },
+    "source": "",
+    "target": "The U.S. Attorney's Office in the Southern District of New indicted New York City Mayor Eric Adams for alleged corruption in September 2024, but after President Trump took office, his Department of Justice directed that charges be dropped.\u00a0 Acting Deputy Attorney General Emil Bove said the prosecution \u201cunduly restricted\u201d the mayor\u2019s ability to \u201cdevote full attention and resources to the illegal immigration and violent crime that has escalated under the policies of the prior Administration.\u201d\n\nSeveral DOJ leaders resigned rather than accept this instruction; the interim US attorney for the Southern District, Danielle Sassoon (a Republican), resigned, stating that the proposed dismissal was an illegitimate exchange for Adams' help with Trump\u2019s immigration policy. According to press reports [https://www.cnn.com/politics/live-news/trump-administration-russia-ukraine-02-18-25#cm7allb71000h3b6neqhr3n87], seven other DOJ officials also resigned, some immediately and others within the next several days.\n\nBove's responsive letter to Sassoon accused her of \u201cdisobeying direct orders implementing the policy of a duly elected President\u201d and \u201cpursuing a politically motivated prosecution despite an express instruction to dismiss the case. You lost sight of the oath that you took when you started at the Department of Justice.\u201d\n\nOn Feb. 14, 2025, Bove and two other prosecutors signed the request to the court to drop charges (without prejudice to their being refiled in the future).\u00a0 This request is under consideration by the court; the case is before Judge Dale Ho. Some former prosecutors and the organization Common Cause have sought to be heard on the appropriate next steps, opposing dismissal. A hearing is scheduled for Feb. 19, 2025; Judge Ho has asked the parties to \"be prepared to address, inter alia, the reasons for the Government\u2019s motion, the scope and effect of Mayor Adams\u2019s \u201cconsent[] in writing,\u201d and the procedure for resolution of the motion.\"\n\nOn Feb. 21, 2025, the court cancelled the scheduled trial, and--because the government and the defendant were in agreement about dismissing charges--appointed Paul Clement as amicus curiae to present additional arguments on the Government's Motion to Dismiss. Clement had served as U.S. Solicitor General in the George W. Bush Administration.\u00a0 His brief, filed March 7, took the position that the case should be dismissed--but with prejudice (that is, closing off the possibility of it being refiled) to avoid giving the federal government ongoing leverage over Mayor Adams' activities.\u00a0 He wrote: \"\u201cA dismissal without prejudice creates a palpable sense that the prosecution outlined in the indictment and approved by a grand jury could be renewed, a prospect that hangs like the proverbial sword of Damocles over the accused.\"\n\nIn the meanwhile, the defendant filed a motion asking the court for exactly the outcome Clement subsequently recommended--to dismiss his indictment with prejudice.\n\nOn April 2, 2025, the court issued its final opinion and order dismissing the case. The court dismissed the case with prejudice, finding that \"dismissing the case without prejudice would create the perception that the Mayor's freedom depends on his ability to carry out the immigration enforcement priorities of the administration, and that he might be more beholden to the demands of the federal government than to the wishes of his own constituents.\" Further, the court found that any \"appearances of impropriety\" in the case were pretextual and unmerited, waving away any concerns that any party had improper motives in dismissing the case. This result thus prevents any future suit alleging the same facts from being brought against the Mayor.\n\nThis case is now closed.",
+    "target_paragraph": "The U.S. Attorney's Office in the Southern District of New indicted New York City Mayor Eric Adams for alleged corruption in September 2024, but after President Trump took office, his Department of Justice directed that charges be dropped.\u00a0 Acting Deputy Attorney General Emil Bove said the prosecution \u201cunduly restricted\u201d the mayor\u2019s ability to \u201cdevote full attention and resources to the illegal immigration and violent crime that has escalated under the policies of the prior Administration.\u201d",
+    "target_paragraph_indices": [
+      0,
+      495
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            0,
+            140
+          ]
+        ],
+        "annotation": {
+          "explanation": "September 2024",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            0,
+            140
+          ],
+          [
+            1333,
+            1487
+          ],
+          [
+            2802,
+            2965
+          ],
+          [
+            2967,
+            3095
+          ]
+        ],
+        "annotation": {
+          "explanation": "Federal criminal prosecution/indictment for alleged corruption; specific statutes or case-based causes of action are not identified in the summary.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            3,
+            5,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            0,
+            98
+          ],
+          [
+            1351,
+            1429
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government prosecutors (U.S. Attorney's Office/DOJ)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            139
+          ],
+          [
+            180,
+            239
+          ],
+          [
+            2036,
+            2119
+          ],
+          [
+            2121,
+            2231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: The Government (Department of Justice), acting through the U.S. Attorney's Office in the Southern District",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            4
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            59,
+            139
+          ],
+          [
+            1860,
+            1921
+          ],
+          [
+            2820,
+            2965
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Eric Adams, New York City Mayor",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            3,
+            5
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            139
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mayor Eric Adams was indicted for alleged corruption by federal prosecutors in September 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            141,
+            239
+          ],
+          [
+            241,
+            495
+          ]
+        ],
+        "annotation": {
+          "explanation": "After President Trump took office, DOJ directed dismissal of the charges; Acting DAG Emil Bove\u2019s stated rationale was that the prosecution hindered the Mayor\u2019s focus on immigration enforcement and violent crime.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            0,
+            139
+          ]
+        ],
+        "annotation": {
+          "explanation": "Indictment filed against Mayor Eric Adams for alleged corruption (September 2024).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46137_p1",
+    "metadata": {
+      "case_id": "46137",
+      "paragraph_num": 1,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Several DOJ leaders resigned rather than accept this instruction; the interim US attorney for the So..."
+    },
+    "source": "",
+    "target": "The U.S. Attorney's Office in the Southern District of New indicted New York City Mayor Eric Adams for alleged corruption in September 2024, but after President Trump took office, his Department of Justice directed that charges be dropped.\u00a0 Acting Deputy Attorney General Emil Bove said the prosecution \u201cunduly restricted\u201d the mayor\u2019s ability to \u201cdevote full attention and resources to the illegal immigration and violent crime that has escalated under the policies of the prior Administration.\u201d\n\nSeveral DOJ leaders resigned rather than accept this instruction; the interim US attorney for the Southern District, Danielle Sassoon (a Republican), resigned, stating that the proposed dismissal was an illegitimate exchange for Adams' help with Trump\u2019s immigration policy. According to press reports [https://www.cnn.com/politics/live-news/trump-administration-russia-ukraine-02-18-25#cm7allb71000h3b6neqhr3n87], seven other DOJ officials also resigned, some immediately and others within the next several days.\n\nBove's responsive letter to Sassoon accused her of \u201cdisobeying direct orders implementing the policy of a duly elected President\u201d and \u201cpursuing a politically motivated prosecution despite an express instruction to dismiss the case. You lost sight of the oath that you took when you started at the Department of Justice.\u201d\n\nOn Feb. 14, 2025, Bove and two other prosecutors signed the request to the court to drop charges (without prejudice to their being refiled in the future).\u00a0 This request is under consideration by the court; the case is before Judge Dale Ho. Some former prosecutors and the organization Common Cause have sought to be heard on the appropriate next steps, opposing dismissal. A hearing is scheduled for Feb. 19, 2025; Judge Ho has asked the parties to \"be prepared to address, inter alia, the reasons for the Government\u2019s motion, the scope and effect of Mayor Adams\u2019s \u201cconsent[] in writing,\u201d and the procedure for resolution of the motion.\"\n\nOn Feb. 21, 2025, the court cancelled the scheduled trial, and--because the government and the defendant were in agreement about dismissing charges--appointed Paul Clement as amicus curiae to present additional arguments on the Government's Motion to Dismiss. Clement had served as U.S. Solicitor General in the George W. Bush Administration.\u00a0 His brief, filed March 7, took the position that the case should be dismissed--but with prejudice (that is, closing off the possibility of it being refiled) to avoid giving the federal government ongoing leverage over Mayor Adams' activities.\u00a0 He wrote: \"\u201cA dismissal without prejudice creates a palpable sense that the prosecution outlined in the indictment and approved by a grand jury could be renewed, a prospect that hangs like the proverbial sword of Damocles over the accused.\"\n\nIn the meanwhile, the defendant filed a motion asking the court for exactly the outcome Clement subsequently recommended--to dismiss his indictment with prejudice.\n\nOn April 2, 2025, the court issued its final opinion and order dismissing the case. The court dismissed the case with prejudice, finding that \"dismissing the case without prejudice would create the perception that the Mayor's freedom depends on his ability to carry out the immigration enforcement priorities of the administration, and that he might be more beholden to the demands of the federal government than to the wishes of his own constituents.\" Further, the court found that any \"appearances of impropriety\" in the case were pretextual and unmerited, waving away any concerns that any party had improper motives in dismissing the case. This result thus prevents any future suit alleging the same facts from being brought against the Mayor.\n\nThis case is now closed.",
+    "target_paragraph": "Several DOJ leaders resigned rather than accept this instruction; the interim US attorney for the Southern District, Danielle Sassoon (a Republican), resigned, stating that the proposed dismissal was an illegitimate exchange for Adams' help with Trump\u2019s immigration policy. According to press reports [https://www.cnn.com/politics/live-news/trump-administration-russia-ukraine-02-18-25#cm7allb71000h3b6neqhr3n87], seven other DOJ officials also resigned, some immediately and others within the next several days.",
+    "target_paragraph_indices": [
+      497,
+      1009
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            497,
+            770
+          ],
+          [
+            771,
+            1009
+          ]
+        ],
+        "annotation": {
+          "explanation": "Multiple DOJ officials, including interim U.S. Attorney Danielle Sassoon, resigned; Sassoon asserted the proposed dismissal was an illegitimate quid pro quo for Adams\u2019 help with Trump\u2019s immigration policy; press reports indicated seven additional DOJ resignations.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46137_p2",
+    "metadata": {
+      "case_id": "46137",
+      "paragraph_num": 2,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Bove's responsive letter to Sassoon accused her of \u201cdisobeying direct orders implementing the policy..."
+    },
+    "source": "",
+    "target": "The U.S. Attorney's Office in the Southern District of New indicted New York City Mayor Eric Adams for alleged corruption in September 2024, but after President Trump took office, his Department of Justice directed that charges be dropped.\u00a0 Acting Deputy Attorney General Emil Bove said the prosecution \u201cunduly restricted\u201d the mayor\u2019s ability to \u201cdevote full attention and resources to the illegal immigration and violent crime that has escalated under the policies of the prior Administration.\u201d\n\nSeveral DOJ leaders resigned rather than accept this instruction; the interim US attorney for the Southern District, Danielle Sassoon (a Republican), resigned, stating that the proposed dismissal was an illegitimate exchange for Adams' help with Trump\u2019s immigration policy. According to press reports [https://www.cnn.com/politics/live-news/trump-administration-russia-ukraine-02-18-25#cm7allb71000h3b6neqhr3n87], seven other DOJ officials also resigned, some immediately and others within the next several days.\n\nBove's responsive letter to Sassoon accused her of \u201cdisobeying direct orders implementing the policy of a duly elected President\u201d and \u201cpursuing a politically motivated prosecution despite an express instruction to dismiss the case. You lost sight of the oath that you took when you started at the Department of Justice.\u201d\n\nOn Feb. 14, 2025, Bove and two other prosecutors signed the request to the court to drop charges (without prejudice to their being refiled in the future).\u00a0 This request is under consideration by the court; the case is before Judge Dale Ho. Some former prosecutors and the organization Common Cause have sought to be heard on the appropriate next steps, opposing dismissal. A hearing is scheduled for Feb. 19, 2025; Judge Ho has asked the parties to \"be prepared to address, inter alia, the reasons for the Government\u2019s motion, the scope and effect of Mayor Adams\u2019s \u201cconsent[] in writing,\u201d and the procedure for resolution of the motion.\"\n\nOn Feb. 21, 2025, the court cancelled the scheduled trial, and--because the government and the defendant were in agreement about dismissing charges--appointed Paul Clement as amicus curiae to present additional arguments on the Government's Motion to Dismiss. Clement had served as U.S. Solicitor General in the George W. Bush Administration.\u00a0 His brief, filed March 7, took the position that the case should be dismissed--but with prejudice (that is, closing off the possibility of it being refiled) to avoid giving the federal government ongoing leverage over Mayor Adams' activities.\u00a0 He wrote: \"\u201cA dismissal without prejudice creates a palpable sense that the prosecution outlined in the indictment and approved by a grand jury could be renewed, a prospect that hangs like the proverbial sword of Damocles over the accused.\"\n\nIn the meanwhile, the defendant filed a motion asking the court for exactly the outcome Clement subsequently recommended--to dismiss his indictment with prejudice.\n\nOn April 2, 2025, the court issued its final opinion and order dismissing the case. The court dismissed the case with prejudice, finding that \"dismissing the case without prejudice would create the perception that the Mayor's freedom depends on his ability to carry out the immigration enforcement priorities of the administration, and that he might be more beholden to the demands of the federal government than to the wishes of his own constituents.\" Further, the court found that any \"appearances of impropriety\" in the case were pretextual and unmerited, waving away any concerns that any party had improper motives in dismissing the case. This result thus prevents any future suit alleging the same facts from being brought against the Mayor.\n\nThis case is now closed.",
+    "target_paragraph": "Bove's responsive letter to Sassoon accused her of \u201cdisobeying direct orders implementing the policy of a duly elected President\u201d and \u201cpursuing a politically motivated prosecution despite an express instruction to dismiss the case. You lost sight of the oath that you took when you started at the Department of Justice.\u201d",
+    "target_paragraph_indices": [
+      1011,
+      1331
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1011,
+            1331
+          ]
+        ],
+        "annotation": {
+          "explanation": "Bove accused Sassoon of disobeying presidential policy directives and pursuing a politically motivated prosecution despite instructions to dismiss.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46137_p3",
+    "metadata": {
+      "case_id": "46137",
+      "paragraph_num": 3,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On Feb. 14, 2025, Bove and two other prosecutors signed the request to the court to drop charges (wi..."
+    },
+    "source": "",
+    "target": "The U.S. Attorney's Office in the Southern District of New indicted New York City Mayor Eric Adams for alleged corruption in September 2024, but after President Trump took office, his Department of Justice directed that charges be dropped.\u00a0 Acting Deputy Attorney General Emil Bove said the prosecution \u201cunduly restricted\u201d the mayor\u2019s ability to \u201cdevote full attention and resources to the illegal immigration and violent crime that has escalated under the policies of the prior Administration.\u201d\n\nSeveral DOJ leaders resigned rather than accept this instruction; the interim US attorney for the Southern District, Danielle Sassoon (a Republican), resigned, stating that the proposed dismissal was an illegitimate exchange for Adams' help with Trump\u2019s immigration policy. According to press reports [https://www.cnn.com/politics/live-news/trump-administration-russia-ukraine-02-18-25#cm7allb71000h3b6neqhr3n87], seven other DOJ officials also resigned, some immediately and others within the next several days.\n\nBove's responsive letter to Sassoon accused her of \u201cdisobeying direct orders implementing the policy of a duly elected President\u201d and \u201cpursuing a politically motivated prosecution despite an express instruction to dismiss the case. You lost sight of the oath that you took when you started at the Department of Justice.\u201d\n\nOn Feb. 14, 2025, Bove and two other prosecutors signed the request to the court to drop charges (without prejudice to their being refiled in the future).\u00a0 This request is under consideration by the court; the case is before Judge Dale Ho. Some former prosecutors and the organization Common Cause have sought to be heard on the appropriate next steps, opposing dismissal. A hearing is scheduled for Feb. 19, 2025; Judge Ho has asked the parties to \"be prepared to address, inter alia, the reasons for the Government\u2019s motion, the scope and effect of Mayor Adams\u2019s \u201cconsent[] in writing,\u201d and the procedure for resolution of the motion.\"\n\nOn Feb. 21, 2025, the court cancelled the scheduled trial, and--because the government and the defendant were in agreement about dismissing charges--appointed Paul Clement as amicus curiae to present additional arguments on the Government's Motion to Dismiss. Clement had served as U.S. Solicitor General in the George W. Bush Administration.\u00a0 His brief, filed March 7, took the position that the case should be dismissed--but with prejudice (that is, closing off the possibility of it being refiled) to avoid giving the federal government ongoing leverage over Mayor Adams' activities.\u00a0 He wrote: \"\u201cA dismissal without prejudice creates a palpable sense that the prosecution outlined in the indictment and approved by a grand jury could be renewed, a prospect that hangs like the proverbial sword of Damocles over the accused.\"\n\nIn the meanwhile, the defendant filed a motion asking the court for exactly the outcome Clement subsequently recommended--to dismiss his indictment with prejudice.\n\nOn April 2, 2025, the court issued its final opinion and order dismissing the case. The court dismissed the case with prejudice, finding that \"dismissing the case without prejudice would create the perception that the Mayor's freedom depends on his ability to carry out the immigration enforcement priorities of the administration, and that he might be more beholden to the demands of the federal government than to the wishes of his own constituents.\" Further, the court found that any \"appearances of impropriety\" in the case were pretextual and unmerited, waving away any concerns that any party had improper motives in dismissing the case. This result thus prevents any future suit alleging the same facts from being brought against the Mayor.\n\nThis case is now closed.",
+    "target_paragraph": "On Feb. 14, 2025, Bove and two other prosecutors signed the request to the court to drop charges (without prejudice to their being refiled in the future).\u00a0 This request is under consideration by the court; the case is before Judge Dale Ho. Some former prosecutors and the organization Common Cause have sought to be heard on the appropriate next steps, opposing dismissal. A hearing is scheduled for Feb. 19, 2025; Judge Ho has asked the parties to \"be prepared to address, inter alia, the reasons for the Government\u2019s motion, the scope and effect of Mayor Adams\u2019s \u201cconsent[] in writing,\u201d and the procedure for resolution of the motion.\"",
+    "target_paragraph_indices": [
+      1333,
+      1970
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1333,
+            1487
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government sought dismissal of the indictment without prejudice.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1573,
+            1705
+          ]
+        ],
+        "annotation": {
+          "explanation": "Former prosecutors and Common Cause sought denial of the motion to dismiss (i.e., opposed dismissal).",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1539,
+            1572
+          ]
+        ],
+        "annotation": {
+          "explanation": "Dale Ho",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1333,
+            1487
+          ],
+          [
+            1489,
+            1572
+          ],
+          [
+            1573,
+            1705
+          ],
+          [
+            1706,
+            1970
+          ]
+        ],
+        "annotation": {
+          "explanation": "On Feb. 14, 2025, DOJ moved to dismiss without prejudice before Judge Dale Ho; former prosecutors and Common Cause opposed dismissal; a Feb. 19, 2025 hearing was set with issues including the Government\u2019s reasons, the effect of the Mayor\u2019s written consent, and procedure.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1706,
+            1970
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court scheduled a hearing on the Government\u2019s motion to dismiss for February 19, 2025, directing parties to address the motion\u2019s reasons, the Mayor\u2019s written consent, and procedure.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1573,
+            1705
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filings/requests by former prosecutors and Common Cause to be heard, opposing dismissal.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1573,
+            1705
+          ]
+        ],
+        "annotation": {
+          "explanation": "Former prosecutors and Common Cause sought to be heard opposing dismissal.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1706,
+            1970
+          ]
+        ],
+        "annotation": {
+          "explanation": "Hearing scheduled for Feb. 19, 2025 to address reasons for the Government\u2019s motion, scope/effect of the Mayor\u2019s written consent, and procedure for resolving the motion.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46137_p4",
+    "metadata": {
+      "case_id": "46137",
+      "paragraph_num": 4,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On Feb. 21, 2025, the court cancelled the scheduled trial, and--because the government and the defen..."
+    },
+    "source": "",
+    "target": "The U.S. Attorney's Office in the Southern District of New indicted New York City Mayor Eric Adams for alleged corruption in September 2024, but after President Trump took office, his Department of Justice directed that charges be dropped.\u00a0 Acting Deputy Attorney General Emil Bove said the prosecution \u201cunduly restricted\u201d the mayor\u2019s ability to \u201cdevote full attention and resources to the illegal immigration and violent crime that has escalated under the policies of the prior Administration.\u201d\n\nSeveral DOJ leaders resigned rather than accept this instruction; the interim US attorney for the Southern District, Danielle Sassoon (a Republican), resigned, stating that the proposed dismissal was an illegitimate exchange for Adams' help with Trump\u2019s immigration policy. According to press reports [https://www.cnn.com/politics/live-news/trump-administration-russia-ukraine-02-18-25#cm7allb71000h3b6neqhr3n87], seven other DOJ officials also resigned, some immediately and others within the next several days.\n\nBove's responsive letter to Sassoon accused her of \u201cdisobeying direct orders implementing the policy of a duly elected President\u201d and \u201cpursuing a politically motivated prosecution despite an express instruction to dismiss the case. You lost sight of the oath that you took when you started at the Department of Justice.\u201d\n\nOn Feb. 14, 2025, Bove and two other prosecutors signed the request to the court to drop charges (without prejudice to their being refiled in the future).\u00a0 This request is under consideration by the court; the case is before Judge Dale Ho. Some former prosecutors and the organization Common Cause have sought to be heard on the appropriate next steps, opposing dismissal. A hearing is scheduled for Feb. 19, 2025; Judge Ho has asked the parties to \"be prepared to address, inter alia, the reasons for the Government\u2019s motion, the scope and effect of Mayor Adams\u2019s \u201cconsent[] in writing,\u201d and the procedure for resolution of the motion.\"\n\nOn Feb. 21, 2025, the court cancelled the scheduled trial, and--because the government and the defendant were in agreement about dismissing charges--appointed Paul Clement as amicus curiae to present additional arguments on the Government's Motion to Dismiss. Clement had served as U.S. Solicitor General in the George W. Bush Administration.\u00a0 His brief, filed March 7, took the position that the case should be dismissed--but with prejudice (that is, closing off the possibility of it being refiled) to avoid giving the federal government ongoing leverage over Mayor Adams' activities.\u00a0 He wrote: \"\u201cA dismissal without prejudice creates a palpable sense that the prosecution outlined in the indictment and approved by a grand jury could be renewed, a prospect that hangs like the proverbial sword of Damocles over the accused.\"\n\nIn the meanwhile, the defendant filed a motion asking the court for exactly the outcome Clement subsequently recommended--to dismiss his indictment with prejudice.\n\nOn April 2, 2025, the court issued its final opinion and order dismissing the case. The court dismissed the case with prejudice, finding that \"dismissing the case without prejudice would create the perception that the Mayor's freedom depends on his ability to carry out the immigration enforcement priorities of the administration, and that he might be more beholden to the demands of the federal government than to the wishes of his own constituents.\" Further, the court found that any \"appearances of impropriety\" in the case were pretextual and unmerited, waving away any concerns that any party had improper motives in dismissing the case. This result thus prevents any future suit alleging the same facts from being brought against the Mayor.\n\nThis case is now closed.",
+    "target_paragraph": "On Feb. 21, 2025, the court cancelled the scheduled trial, and--because the government and the defendant were in agreement about dismissing charges--appointed Paul Clement as amicus curiae to present additional arguments on the Government's Motion to Dismiss. Clement had served as U.S. Solicitor General in the George W. Bush Administration.\u00a0 His brief, filed March 7, took the position that the case should be dismissed--but with prejudice (that is, closing off the possibility of it being refiled) to avoid giving the federal government ongoing leverage over Mayor Adams' activities.\u00a0 He wrote: \"\u201cA dismissal without prejudice creates a palpable sense that the prosecution outlined in the indictment and approved by a grand jury could be renewed, a prospect that hangs like the proverbial sword of Damocles over the accused.\"",
+    "target_paragraph_indices": [
+      1972,
+      2800
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2316,
+            2558
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amicus curiae Paul Clement urged dismissal with prejudice.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            2121,
+            2230
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court-appointed amicus curiae",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1972,
+            2231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Feb. 21, 2025: Court cancelled the scheduled trial and appointed Paul Clement as amicus curiae to present additional arguments on the Government's Motion to Dismiss.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1972,
+            2231
+          ],
+          [
+            2232,
+            2314
+          ],
+          [
+            2316,
+            2558
+          ],
+          [
+            2560,
+            2800
+          ]
+        ],
+        "annotation": {
+          "explanation": "On Feb. 21, 2025, the court canceled the trial and appointed Paul Clement as amicus; on March 7, Clement urged dismissal with prejudice to prevent DOJ leverage, warning that dismissal without prejudice would hang over the accused like a \u2018sword of Damocles.\u2019",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2036,
+            2119
+          ]
+        ],
+        "annotation": {
+          "explanation": "Both the Government and Mayor Adams agreed that the charges should be dismissed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1972,
+            2231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court order on February 21, 2025 cancelling the trial and appointing Paul Clement as amicus curiae to present arguments on the Government\u2019s motion to dismiss.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2316,
+            2558
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amicus brief by Paul Clement filed March 7, 2025, advocating dismissal with prejudice.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1972,
+            2231
+          ]
+        ],
+        "annotation": {
+          "explanation": "On Feb. 21, 2025, the court canceled the scheduled trial and appointed Paul Clement as amicus to present additional arguments on the Government\u2019s motion to dismiss.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1972,
+            2231
+          ],
+          [
+            2967,
+            3419
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government\u2019s Motion to Dismiss (seeking dismissal without prejudice): Granted only to the extent of dismissal; the court dismissed the case with prejudice on April 2, 2025 (Judge Dale Ho), denying the Government\u2019s request for dismissal without prejudice.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            4,
+            6
+          ]
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46137_p5",
+    "metadata": {
+      "case_id": "46137",
+      "paragraph_num": 5,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In the meanwhile, the defendant filed a motion asking the court for exactly the outcome Clement subs..."
+    },
+    "source": "",
+    "target": "The U.S. Attorney's Office in the Southern District of New indicted New York City Mayor Eric Adams for alleged corruption in September 2024, but after President Trump took office, his Department of Justice directed that charges be dropped.\u00a0 Acting Deputy Attorney General Emil Bove said the prosecution \u201cunduly restricted\u201d the mayor\u2019s ability to \u201cdevote full attention and resources to the illegal immigration and violent crime that has escalated under the policies of the prior Administration.\u201d\n\nSeveral DOJ leaders resigned rather than accept this instruction; the interim US attorney for the Southern District, Danielle Sassoon (a Republican), resigned, stating that the proposed dismissal was an illegitimate exchange for Adams' help with Trump\u2019s immigration policy. According to press reports [https://www.cnn.com/politics/live-news/trump-administration-russia-ukraine-02-18-25#cm7allb71000h3b6neqhr3n87], seven other DOJ officials also resigned, some immediately and others within the next several days.\n\nBove's responsive letter to Sassoon accused her of \u201cdisobeying direct orders implementing the policy of a duly elected President\u201d and \u201cpursuing a politically motivated prosecution despite an express instruction to dismiss the case. You lost sight of the oath that you took when you started at the Department of Justice.\u201d\n\nOn Feb. 14, 2025, Bove and two other prosecutors signed the request to the court to drop charges (without prejudice to their being refiled in the future).\u00a0 This request is under consideration by the court; the case is before Judge Dale Ho. Some former prosecutors and the organization Common Cause have sought to be heard on the appropriate next steps, opposing dismissal. A hearing is scheduled for Feb. 19, 2025; Judge Ho has asked the parties to \"be prepared to address, inter alia, the reasons for the Government\u2019s motion, the scope and effect of Mayor Adams\u2019s \u201cconsent[] in writing,\u201d and the procedure for resolution of the motion.\"\n\nOn Feb. 21, 2025, the court cancelled the scheduled trial, and--because the government and the defendant were in agreement about dismissing charges--appointed Paul Clement as amicus curiae to present additional arguments on the Government's Motion to Dismiss. Clement had served as U.S. Solicitor General in the George W. Bush Administration.\u00a0 His brief, filed March 7, took the position that the case should be dismissed--but with prejudice (that is, closing off the possibility of it being refiled) to avoid giving the federal government ongoing leverage over Mayor Adams' activities.\u00a0 He wrote: \"\u201cA dismissal without prejudice creates a palpable sense that the prosecution outlined in the indictment and approved by a grand jury could be renewed, a prospect that hangs like the proverbial sword of Damocles over the accused.\"\n\nIn the meanwhile, the defendant filed a motion asking the court for exactly the outcome Clement subsequently recommended--to dismiss his indictment with prejudice.\n\nOn April 2, 2025, the court issued its final opinion and order dismissing the case. The court dismissed the case with prejudice, finding that \"dismissing the case without prejudice would create the perception that the Mayor's freedom depends on his ability to carry out the immigration enforcement priorities of the administration, and that he might be more beholden to the demands of the federal government than to the wishes of his own constituents.\" Further, the court found that any \"appearances of impropriety\" in the case were pretextual and unmerited, waving away any concerns that any party had improper motives in dismissing the case. This result thus prevents any future suit alleging the same facts from being brought against the Mayor.\n\nThis case is now closed.",
+    "target_paragraph": "In the meanwhile, the defendant filed a motion asking the court for exactly the outcome Clement subsequently recommended--to dismiss his indictment with prejudice.",
+    "target_paragraph_indices": [
+      2802,
+      2965
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2802,
+            2965
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant sought dismissal of his indictment with prejudice.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2802,
+            2965
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mayor Adams moved to dismiss the indictment with prejudice.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2802,
+            2965
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant\u2019s motion to dismiss the indictment with prejudice (date not specified).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2802,
+            2965
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant moved to dismiss the indictment with prejudice.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2802,
+            2965
+          ],
+          [
+            2967,
+            3094
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant\u2019s Motion to Dismiss Indictment with Prejudice: Granted on April 2, 2025; case dismissed with prejudice.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46137_p6",
+    "metadata": {
+      "case_id": "46137",
+      "paragraph_num": 6,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 2, 2025, the court issued its final opinion and order dismissing the case. The court dismis..."
+    },
+    "source": "",
+    "target": "The U.S. Attorney's Office in the Southern District of New indicted New York City Mayor Eric Adams for alleged corruption in September 2024, but after President Trump took office, his Department of Justice directed that charges be dropped.\u00a0 Acting Deputy Attorney General Emil Bove said the prosecution \u201cunduly restricted\u201d the mayor\u2019s ability to \u201cdevote full attention and resources to the illegal immigration and violent crime that has escalated under the policies of the prior Administration.\u201d\n\nSeveral DOJ leaders resigned rather than accept this instruction; the interim US attorney for the Southern District, Danielle Sassoon (a Republican), resigned, stating that the proposed dismissal was an illegitimate exchange for Adams' help with Trump\u2019s immigration policy. According to press reports [https://www.cnn.com/politics/live-news/trump-administration-russia-ukraine-02-18-25#cm7allb71000h3b6neqhr3n87], seven other DOJ officials also resigned, some immediately and others within the next several days.\n\nBove's responsive letter to Sassoon accused her of \u201cdisobeying direct orders implementing the policy of a duly elected President\u201d and \u201cpursuing a politically motivated prosecution despite an express instruction to dismiss the case. You lost sight of the oath that you took when you started at the Department of Justice.\u201d\n\nOn Feb. 14, 2025, Bove and two other prosecutors signed the request to the court to drop charges (without prejudice to their being refiled in the future).\u00a0 This request is under consideration by the court; the case is before Judge Dale Ho. Some former prosecutors and the organization Common Cause have sought to be heard on the appropriate next steps, opposing dismissal. A hearing is scheduled for Feb. 19, 2025; Judge Ho has asked the parties to \"be prepared to address, inter alia, the reasons for the Government\u2019s motion, the scope and effect of Mayor Adams\u2019s \u201cconsent[] in writing,\u201d and the procedure for resolution of the motion.\"\n\nOn Feb. 21, 2025, the court cancelled the scheduled trial, and--because the government and the defendant were in agreement about dismissing charges--appointed Paul Clement as amicus curiae to present additional arguments on the Government's Motion to Dismiss. Clement had served as U.S. Solicitor General in the George W. Bush Administration.\u00a0 His brief, filed March 7, took the position that the case should be dismissed--but with prejudice (that is, closing off the possibility of it being refiled) to avoid giving the federal government ongoing leverage over Mayor Adams' activities.\u00a0 He wrote: \"\u201cA dismissal without prejudice creates a palpable sense that the prosecution outlined in the indictment and approved by a grand jury could be renewed, a prospect that hangs like the proverbial sword of Damocles over the accused.\"\n\nIn the meanwhile, the defendant filed a motion asking the court for exactly the outcome Clement subsequently recommended--to dismiss his indictment with prejudice.\n\nOn April 2, 2025, the court issued its final opinion and order dismissing the case. The court dismissed the case with prejudice, finding that \"dismissing the case without prejudice would create the perception that the Mayor's freedom depends on his ability to carry out the immigration enforcement priorities of the administration, and that he might be more beholden to the demands of the federal government than to the wishes of his own constituents.\" Further, the court found that any \"appearances of impropriety\" in the case were pretextual and unmerited, waving away any concerns that any party had improper motives in dismissing the case. This result thus prevents any future suit alleging the same facts from being brought against the Mayor.\n\nThis case is now closed.",
+    "target_paragraph": "On April 2, 2025, the court issued its final opinion and order dismissing the case. The court dismissed the case with prejudice, finding that \"dismissing the case without prejudice would create the perception that the Mayor's freedom depends on his ability to carry out the immigration enforcement priorities of the administration, and that he might be more beholden to the demands of the federal government than to the wishes of his own constituents.\" Further, the court found that any \"appearances of impropriety\" in the case were pretextual and unmerited, waving away any concerns that any party had improper motives in dismissing the case. This result thus prevents any future suit alleging the same facts from being brought against the Mayor.",
+    "target_paragraph_indices": [
+      2967,
+      3714
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2967,
+            3050
+          ],
+          [
+            3051,
+            3419
+          ],
+          [
+            3611,
+            3714
+          ],
+          [
+            3716,
+            3740
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent: Dismissal of the case with prejudice, preventing any future suit alleging the same facts.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2967,
+            3050
+          ],
+          [
+            3051,
+            3419
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 2, 2025: Court issued its final opinion and order dismissing the case with prejudice.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2967,
+            3050
+          ],
+          [
+            3051,
+            3419
+          ],
+          [
+            3420,
+            3610
+          ],
+          [
+            3611,
+            3714
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 2, 2025, the court dismissed the case with prejudice to avoid the perception that the Mayor\u2019s liberty depended on executing federal immigration priorities; the court deemed any appearances of impropriety pretextual and unmerited; dismissal with prejudice bars refiling on the same facts.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2967,
+            3419
+          ]
+        ],
+        "annotation": {
+          "explanation": "Final opinion and order issued April 2, 2025, dismissing the case with prejudice (granting dismissal and closing the case).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2967,
+            3419
+          ],
+          [
+            3611,
+            3714
+          ],
+          [
+            3716,
+            3740
+          ]
+        ],
+        "annotation": {
+          "explanation": "Final decree: case dismissed with prejudice; bars any future suit on the same facts; case closed.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2967,
+            3050
+          ],
+          [
+            3051,
+            3419
+          ],
+          [
+            3420,
+            3610
+          ],
+          [
+            3611,
+            3714
+          ],
+          [
+            3716,
+            3740
+          ]
+        ],
+        "annotation": {
+          "explanation": "Final disposition on April 2, 2025: case dismissed with prejudice; court\u2019s reasoning included avoiding perception of federal leverage and rejecting impropriety concerns; dismissal bars refiling on the same facts; case closed.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46137_p7",
+    "metadata": {
+      "case_id": "46137",
+      "paragraph_num": 7,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is now closed."
+    },
+    "source": "",
+    "target": "The U.S. Attorney's Office in the Southern District of New indicted New York City Mayor Eric Adams for alleged corruption in September 2024, but after President Trump took office, his Department of Justice directed that charges be dropped.\u00a0 Acting Deputy Attorney General Emil Bove said the prosecution \u201cunduly restricted\u201d the mayor\u2019s ability to \u201cdevote full attention and resources to the illegal immigration and violent crime that has escalated under the policies of the prior Administration.\u201d\n\nSeveral DOJ leaders resigned rather than accept this instruction; the interim US attorney for the Southern District, Danielle Sassoon (a Republican), resigned, stating that the proposed dismissal was an illegitimate exchange for Adams' help with Trump\u2019s immigration policy. According to press reports [https://www.cnn.com/politics/live-news/trump-administration-russia-ukraine-02-18-25#cm7allb71000h3b6neqhr3n87], seven other DOJ officials also resigned, some immediately and others within the next several days.\n\nBove's responsive letter to Sassoon accused her of \u201cdisobeying direct orders implementing the policy of a duly elected President\u201d and \u201cpursuing a politically motivated prosecution despite an express instruction to dismiss the case. You lost sight of the oath that you took when you started at the Department of Justice.\u201d\n\nOn Feb. 14, 2025, Bove and two other prosecutors signed the request to the court to drop charges (without prejudice to their being refiled in the future).\u00a0 This request is under consideration by the court; the case is before Judge Dale Ho. Some former prosecutors and the organization Common Cause have sought to be heard on the appropriate next steps, opposing dismissal. A hearing is scheduled for Feb. 19, 2025; Judge Ho has asked the parties to \"be prepared to address, inter alia, the reasons for the Government\u2019s motion, the scope and effect of Mayor Adams\u2019s \u201cconsent[] in writing,\u201d and the procedure for resolution of the motion.\"\n\nOn Feb. 21, 2025, the court cancelled the scheduled trial, and--because the government and the defendant were in agreement about dismissing charges--appointed Paul Clement as amicus curiae to present additional arguments on the Government's Motion to Dismiss. Clement had served as U.S. Solicitor General in the George W. Bush Administration.\u00a0 His brief, filed March 7, took the position that the case should be dismissed--but with prejudice (that is, closing off the possibility of it being refiled) to avoid giving the federal government ongoing leverage over Mayor Adams' activities.\u00a0 He wrote: \"\u201cA dismissal without prejudice creates a palpable sense that the prosecution outlined in the indictment and approved by a grand jury could be renewed, a prospect that hangs like the proverbial sword of Damocles over the accused.\"\n\nIn the meanwhile, the defendant filed a motion asking the court for exactly the outcome Clement subsequently recommended--to dismiss his indictment with prejudice.\n\nOn April 2, 2025, the court issued its final opinion and order dismissing the case. The court dismissed the case with prejudice, finding that \"dismissing the case without prejudice would create the perception that the Mayor's freedom depends on his ability to carry out the immigration enforcement priorities of the administration, and that he might be more beholden to the demands of the federal government than to the wishes of his own constituents.\" Further, the court found that any \"appearances of impropriety\" in the case were pretextual and unmerited, waving away any concerns that any party had improper motives in dismissing the case. This result thus prevents any future suit alleging the same facts from being brought against the Mayor.\n\nThis case is now closed.",
+    "target_paragraph": "This case is now closed.",
+    "target_paragraph_indices": [
+      3716,
+      3740
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3716,
+            3740
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case is closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

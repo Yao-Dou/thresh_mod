@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "17701_p0",
+    "metadata": {
+      "case_id": "17701",
+      "paragraph_num": 0,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This is a case about Houston police arresting individuals without warrants and detaining them withou..."
+    },
+    "source": "",
+    "target": "This is a case about Houston police arresting individuals without warrants and detaining them without probable cause. On December 5, 2016, two plaintiffs filed this lawsuit in the United States District Court for the Southern District of Texas. The plaintiffs on behalf of themselves and all others similarly situated sued the City of Houston under 42 U.S.C. \u00a7 1983, alleging violations of the Fourth and Fourteenth Amendments to the United States Constitution. Represented by private counsel and the Civil Rights Corps, the plaintiffs sought compensatory damages and attorneys\u2019 fees. They claimed that the City of Houston regularly arrested individuals without warrants and detained them without probable cause hearings for longer than permitted by the United States Constitution.\n\nThe case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismiss the initial complaint. One of the named plaintiffs withdrew from the case and on March 1, 2017, the plaintiffs amended the complaint to add three more named plaintiffs. As a result, on March 7, the court denied the City's motion to dismiss on grounds of mootness because the filing of an amended complaint renders a prior complaint void and moots any motion to dismiss.\n\nThe City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that the defendants had essentially admitted that the facts the plaintiffs pleaded were true.\n\nThe case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30, 2018, the District Court issued an order stating that the City of Houston had intentionally destroyed evidence pertinent to the lawsuit. As a result, the Court held that inferences were appropriate: (1) throughout the class period, the City of Houston had a policy of not releasing warrantless arrestees who had not received neutral determinations of probable cause within the constitutionally required period of time; (2) throughout the class period, the City\u2019s policymakers were aware of this policy; and (3) the City acted with deliberate indifference with respect to its unconstitutional policy of not releasing warrantless arrestees who hadn\u2019t received probable cause hearings in the appropriate amount of time.\n\nOn December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detailed a single class of plaintiffs seeking compensatory relief, which applied to all those arrested without warrant and held for more than 48 hours without a prompt judicial determination of probable cause.\n\nThe plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plaintiff. Additionally, this second amended complaint defined two classes seeking compensatory relief. The first subclass included all those arrested and held held by the City of Houston without a warrant or a judicial determination of probably cause for 48 hours or more, and the second subclass included those who were arrested and held between 24 and 48 hours.\n\nIn spring 2019, the District Court issued an order overruling a motion from the City that asked the Court to exclude certain documents that they claimed to be privileged from evidence. The plaintiffs filed a motion to compel the city to produce these documents, which was stayed by Judge Hoyt pending the City\u2019s appeal. The Fifth Circuit Court of Appeals then vacated the District Court\u2019s order with respect to one document, and denied the City\u2019s claim of privilege in all other respects. Upon remand, the District Court granted the plaintiffs\u2019 motion to compel.\n\nIn late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt granted the plaintiffs\u2019 earlier motion for class certification. One week later, the City filed a motion to stay the case pending interlocutory appeal regarding the class certification issue, which was denied by the district court in early August. And, shortly after on August 8, 2020 the Fifth Circuit denied the defendants leave to appeal the grant of class certification.\n\nAt some during the summer of 2019, the parties began going through mediation and started settlement negotiations, and on August 13, 2019, a joint order to stay the case pending the finalization of settlement was granted.\n\nIn July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity. The court granted a joint motion for preliminary approval of the settlement on October 22, 2020.\n\nOn March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, and adequate for the class. The settlement payment was $1.17 million.\n\nOn August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs. On September 7, 2022, the court granted the motion for fees and costs. Attorneys' fees were $93, 241.28 (part of the total $1.17 million settlement). On December 20, 2024, the case was formally closed.",
+    "target_paragraph": "This is a case about Houston police arresting individuals without warrants and detaining them without probable cause. On December 5, 2016, two plaintiffs filed this lawsuit in the United States District Court for the Southern District of Texas. The plaintiffs on behalf of themselves and all others similarly situated sued the City of Houston under 42 U.S.C. \u00a7 1983, alleging violations of the Fourth and Fourteenth Amendments to the United States Constitution. Represented by private counsel and the Civil Rights Corps, the plaintiffs sought compensatory damages and attorneys\u2019 fees. They claimed that the City of Houston regularly arrested individuals without warrants and detained them without probable cause hearings for longer than permitted by the United States Constitution.",
+    "target_paragraph_indices": [
+      0,
+      781
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            118,
+            244
+          ]
+        ],
+        "annotation": {
+          "explanation": "December 5, 2016",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            318,
+            461
+          ],
+          [
+            585,
+            781
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1983 claim alleging violations of the Fourth and Fourteenth Amendments (warrantless arrests and detention without timely probable cause hearings).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            318,
+            461
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1983",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            0,
+            117
+          ],
+          [
+            318,
+            461
+          ],
+          [
+            2484,
+            2570
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourth Amendment to the U.S. Constitution",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            4
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            318,
+            461
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment to the U.S. Constitution",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            462,
+            584
+          ],
+          [
+            2333,
+            2570
+          ],
+          [
+            2679,
+            2771
+          ]
+        ],
+        "annotation": {
+          "explanation": "Compensatory damages (class-wide compensatory relief)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            0,
+            4,
+            5
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            462,
+            584
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys\u2019 fees",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            462,
+            584
+          ]
+        ],
+        "annotation": {
+          "explanation": "Private counsel and Civil Rights Corps",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            245,
+            461
+          ],
+          [
+            2266,
+            2332
+          ],
+          [
+            3666,
+            3757
+          ],
+          [
+            4516,
+            4643
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Class Action",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            4,
+            7,
+            10
+          ]
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            139,
+            244
+          ],
+          [
+            245,
+            461
+          ],
+          [
+            908,
+            1053
+          ],
+          [
+            2572,
+            2678
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Unnamed individual arrestees (initially two, later five named plaintiffs) suing on behalf of themselves and all others similarly situated, alleging warrantless arrests and prolonged detention without prompt probable cause determinations.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1,
+            5
+          ]
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            245,
+            461
+          ],
+          [
+            850,
+            907
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: City of Houston (municipal government).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            117
+          ],
+          [
+            585,
+            781
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged pattern of Houston police arresting people without warrants and detaining them without timely probable cause hearings beyond constitutional limits.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            118,
+            244
+          ],
+          [
+            245,
+            461
+          ],
+          [
+            462,
+            584
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing and parties: Two plaintiffs filed in S.D. Tex. on Dec. 5, 2016 against the City of Houston under 42 U.S.C. \u00a7 1983 for alleged Fourth and Fourteenth Amendment violations, seeking compensatory damages and attorneys\u2019 fees.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            118,
+            244
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed initiating the case (Dec 5, 2016).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": "17701_p1",
+    "metadata": {
+      "case_id": "17701",
+      "paragraph_num": 1,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismis..."
+    },
+    "source": "",
+    "target": "This is a case about Houston police arresting individuals without warrants and detaining them without probable cause. On December 5, 2016, two plaintiffs filed this lawsuit in the United States District Court for the Southern District of Texas. The plaintiffs on behalf of themselves and all others similarly situated sued the City of Houston under 42 U.S.C. \u00a7 1983, alleging violations of the Fourth and Fourteenth Amendments to the United States Constitution. Represented by private counsel and the Civil Rights Corps, the plaintiffs sought compensatory damages and attorneys\u2019 fees. They claimed that the City of Houston regularly arrested individuals without warrants and detained them without probable cause hearings for longer than permitted by the United States Constitution.\n\nThe case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismiss the initial complaint. One of the named plaintiffs withdrew from the case and on March 1, 2017, the plaintiffs amended the complaint to add three more named plaintiffs. As a result, on March 7, the court denied the City's motion to dismiss on grounds of mootness because the filing of an amended complaint renders a prior complaint void and moots any motion to dismiss.\n\nThe City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that the defendants had essentially admitted that the facts the plaintiffs pleaded were true.\n\nThe case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30, 2018, the District Court issued an order stating that the City of Houston had intentionally destroyed evidence pertinent to the lawsuit. As a result, the Court held that inferences were appropriate: (1) throughout the class period, the City of Houston had a policy of not releasing warrantless arrestees who had not received neutral determinations of probable cause within the constitutionally required period of time; (2) throughout the class period, the City\u2019s policymakers were aware of this policy; and (3) the City acted with deliberate indifference with respect to its unconstitutional policy of not releasing warrantless arrestees who hadn\u2019t received probable cause hearings in the appropriate amount of time.\n\nOn December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detailed a single class of plaintiffs seeking compensatory relief, which applied to all those arrested without warrant and held for more than 48 hours without a prompt judicial determination of probable cause.\n\nThe plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plaintiff. Additionally, this second amended complaint defined two classes seeking compensatory relief. The first subclass included all those arrested and held held by the City of Houston without a warrant or a judicial determination of probably cause for 48 hours or more, and the second subclass included those who were arrested and held between 24 and 48 hours.\n\nIn spring 2019, the District Court issued an order overruling a motion from the City that asked the Court to exclude certain documents that they claimed to be privileged from evidence. The plaintiffs filed a motion to compel the city to produce these documents, which was stayed by Judge Hoyt pending the City\u2019s appeal. The Fifth Circuit Court of Appeals then vacated the District Court\u2019s order with respect to one document, and denied the City\u2019s claim of privilege in all other respects. Upon remand, the District Court granted the plaintiffs\u2019 motion to compel.\n\nIn late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt granted the plaintiffs\u2019 earlier motion for class certification. One week later, the City filed a motion to stay the case pending interlocutory appeal regarding the class certification issue, which was denied by the district court in early August. And, shortly after on August 8, 2020 the Fifth Circuit denied the defendants leave to appeal the grant of class certification.\n\nAt some during the summer of 2019, the parties began going through mediation and started settlement negotiations, and on August 13, 2019, a joint order to stay the case pending the finalization of settlement was granted.\n\nIn July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity. The court granted a joint motion for preliminary approval of the settlement on October 22, 2020.\n\nOn March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, and adequate for the class. The settlement payment was $1.17 million.\n\nOn August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs. On September 7, 2022, the court granted the motion for fees and costs. Attorneys' fees were $93, 241.28 (part of the total $1.17 million settlement). On December 20, 2024, the case was formally closed.",
+    "target_paragraph": "The case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismiss the initial complaint. One of the named plaintiffs withdrew from the case and on March 1, 2017, the plaintiffs amended the complaint to add three more named plaintiffs. As a result, on March 7, the court denied the City's motion to dismiss on grounds of mootness because the filing of an amended complaint renders a prior complaint void and moots any motion to dismiss.",
+    "target_paragraph_indices": [
+      783,
+      1254
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            783,
+            849
+          ],
+          [
+            3296,
+            3353
+          ],
+          [
+            3666,
+            3757
+          ]
+        ],
+        "annotation": {
+          "explanation": "Kennth M. Hoyt",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            1,
+            6,
+            7
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            963,
+            1053
+          ],
+          [
+            1054,
+            1254
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 7, 2017: the court denied the City's motion to dismiss on grounds of mootness.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            850,
+            907
+          ],
+          [
+            963,
+            1053
+          ],
+          [
+            1067,
+            1254
+          ]
+        ],
+        "annotation": {
+          "explanation": "City\u2019s motion to dismiss the initial complaint; denied as moot on Mar 7, 2017 following plaintiffs\u2019 Mar 1, 2017 amended complaint.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            963,
+            1053
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 first amended complaint filed (Mar 1, 2017), adding three named plaintiffs.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            850,
+            907
+          ],
+          [
+            1054,
+            1254
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 7, 2017: Court denied the City\u2019s initial motion to dismiss as moot due to the filing of an amended complaint.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "17701_p2",
+    "metadata": {
+      "case_id": "17701",
+      "paragraph_num": 2,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that ..."
+    },
+    "source": "",
+    "target": "This is a case about Houston police arresting individuals without warrants and detaining them without probable cause. On December 5, 2016, two plaintiffs filed this lawsuit in the United States District Court for the Southern District of Texas. The plaintiffs on behalf of themselves and all others similarly situated sued the City of Houston under 42 U.S.C. \u00a7 1983, alleging violations of the Fourth and Fourteenth Amendments to the United States Constitution. Represented by private counsel and the Civil Rights Corps, the plaintiffs sought compensatory damages and attorneys\u2019 fees. They claimed that the City of Houston regularly arrested individuals without warrants and detained them without probable cause hearings for longer than permitted by the United States Constitution.\n\nThe case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismiss the initial complaint. One of the named plaintiffs withdrew from the case and on March 1, 2017, the plaintiffs amended the complaint to add three more named plaintiffs. As a result, on March 7, the court denied the City's motion to dismiss on grounds of mootness because the filing of an amended complaint renders a prior complaint void and moots any motion to dismiss.\n\nThe City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that the defendants had essentially admitted that the facts the plaintiffs pleaded were true.\n\nThe case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30, 2018, the District Court issued an order stating that the City of Houston had intentionally destroyed evidence pertinent to the lawsuit. As a result, the Court held that inferences were appropriate: (1) throughout the class period, the City of Houston had a policy of not releasing warrantless arrestees who had not received neutral determinations of probable cause within the constitutionally required period of time; (2) throughout the class period, the City\u2019s policymakers were aware of this policy; and (3) the City acted with deliberate indifference with respect to its unconstitutional policy of not releasing warrantless arrestees who hadn\u2019t received probable cause hearings in the appropriate amount of time.\n\nOn December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detailed a single class of plaintiffs seeking compensatory relief, which applied to all those arrested without warrant and held for more than 48 hours without a prompt judicial determination of probable cause.\n\nThe plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plaintiff. Additionally, this second amended complaint defined two classes seeking compensatory relief. The first subclass included all those arrested and held held by the City of Houston without a warrant or a judicial determination of probably cause for 48 hours or more, and the second subclass included those who were arrested and held between 24 and 48 hours.\n\nIn spring 2019, the District Court issued an order overruling a motion from the City that asked the Court to exclude certain documents that they claimed to be privileged from evidence. The plaintiffs filed a motion to compel the city to produce these documents, which was stayed by Judge Hoyt pending the City\u2019s appeal. The Fifth Circuit Court of Appeals then vacated the District Court\u2019s order with respect to one document, and denied the City\u2019s claim of privilege in all other respects. Upon remand, the District Court granted the plaintiffs\u2019 motion to compel.\n\nIn late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt granted the plaintiffs\u2019 earlier motion for class certification. One week later, the City filed a motion to stay the case pending interlocutory appeal regarding the class certification issue, which was denied by the district court in early August. And, shortly after on August 8, 2020 the Fifth Circuit denied the defendants leave to appeal the grant of class certification.\n\nAt some during the summer of 2019, the parties began going through mediation and started settlement negotiations, and on August 13, 2019, a joint order to stay the case pending the finalization of settlement was granted.\n\nIn July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity. The court granted a joint motion for preliminary approval of the settlement on October 22, 2020.\n\nOn March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, and adequate for the class. The settlement payment was $1.17 million.\n\nOn August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs. On September 7, 2022, the court granted the motion for fees and costs. Attorneys' fees were $93, 241.28 (part of the total $1.17 million settlement). On December 20, 2024, the case was formally closed.",
+    "target_paragraph": "The City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that the defendants had essentially admitted that the facts the plaintiffs pleaded were true.",
+    "target_paragraph_indices": [
+      1256,
+      1444
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1256,
+            1334
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 6, 2017: the court denied the City's amended motion to dismiss.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1256,
+            1444
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court determined defendants had essentially admitted the factual allegations, supporting plaintiffs\u2019 claims.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1256,
+            1334
+          ],
+          [
+            1335,
+            1444
+          ]
+        ],
+        "annotation": {
+          "explanation": "City\u2019s amended motion to dismiss; denied on June 6, 2017 (court noted defendants essentially admitted plaintiffs\u2019 pleaded facts).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1256,
+            1334
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 6, 2017: Court denied the City\u2019s amended motion to dismiss.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "17701_p3",
+    "metadata": {
+      "case_id": "17701",
+      "paragraph_num": 3,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30..."
+    },
+    "source": "",
+    "target": "This is a case about Houston police arresting individuals without warrants and detaining them without probable cause. On December 5, 2016, two plaintiffs filed this lawsuit in the United States District Court for the Southern District of Texas. The plaintiffs on behalf of themselves and all others similarly situated sued the City of Houston under 42 U.S.C. \u00a7 1983, alleging violations of the Fourth and Fourteenth Amendments to the United States Constitution. Represented by private counsel and the Civil Rights Corps, the plaintiffs sought compensatory damages and attorneys\u2019 fees. They claimed that the City of Houston regularly arrested individuals without warrants and detained them without probable cause hearings for longer than permitted by the United States Constitution.\n\nThe case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismiss the initial complaint. One of the named plaintiffs withdrew from the case and on March 1, 2017, the plaintiffs amended the complaint to add three more named plaintiffs. As a result, on March 7, the court denied the City's motion to dismiss on grounds of mootness because the filing of an amended complaint renders a prior complaint void and moots any motion to dismiss.\n\nThe City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that the defendants had essentially admitted that the facts the plaintiffs pleaded were true.\n\nThe case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30, 2018, the District Court issued an order stating that the City of Houston had intentionally destroyed evidence pertinent to the lawsuit. As a result, the Court held that inferences were appropriate: (1) throughout the class period, the City of Houston had a policy of not releasing warrantless arrestees who had not received neutral determinations of probable cause within the constitutionally required period of time; (2) throughout the class period, the City\u2019s policymakers were aware of this policy; and (3) the City acted with deliberate indifference with respect to its unconstitutional policy of not releasing warrantless arrestees who hadn\u2019t received probable cause hearings in the appropriate amount of time.\n\nOn December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detailed a single class of plaintiffs seeking compensatory relief, which applied to all those arrested without warrant and held for more than 48 hours without a prompt judicial determination of probable cause.\n\nThe plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plaintiff. Additionally, this second amended complaint defined two classes seeking compensatory relief. The first subclass included all those arrested and held held by the City of Houston without a warrant or a judicial determination of probably cause for 48 hours or more, and the second subclass included those who were arrested and held between 24 and 48 hours.\n\nIn spring 2019, the District Court issued an order overruling a motion from the City that asked the Court to exclude certain documents that they claimed to be privileged from evidence. The plaintiffs filed a motion to compel the city to produce these documents, which was stayed by Judge Hoyt pending the City\u2019s appeal. The Fifth Circuit Court of Appeals then vacated the District Court\u2019s order with respect to one document, and denied the City\u2019s claim of privilege in all other respects. Upon remand, the District Court granted the plaintiffs\u2019 motion to compel.\n\nIn late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt granted the plaintiffs\u2019 earlier motion for class certification. One week later, the City filed a motion to stay the case pending interlocutory appeal regarding the class certification issue, which was denied by the district court in early August. And, shortly after on August 8, 2020 the Fifth Circuit denied the defendants leave to appeal the grant of class certification.\n\nAt some during the summer of 2019, the parties began going through mediation and started settlement negotiations, and on August 13, 2019, a joint order to stay the case pending the finalization of settlement was granted.\n\nIn July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity. The court granted a joint motion for preliminary approval of the settlement on October 22, 2020.\n\nOn March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, and adequate for the class. The settlement payment was $1.17 million.\n\nOn August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs. On September 7, 2022, the court granted the motion for fees and costs. Attorneys' fees were $93, 241.28 (part of the total $1.17 million settlement). On December 20, 2024, the case was formally closed.",
+    "target_paragraph": "The case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30, 2018, the District Court issued an order stating that the City of Houston had intentionally destroyed evidence pertinent to the lawsuit. As a result, the Court held that inferences were appropriate: (1) throughout the class period, the City of Houston had a policy of not releasing warrantless arrestees who had not received neutral determinations of probable cause within the constitutionally required period of time; (2) throughout the class period, the City\u2019s policymakers were aware of this policy; and (3) the City acted with deliberate indifference with respect to its unconstitutional policy of not releasing warrantless arrestees who hadn\u2019t received probable cause hearings in the appropriate amount of time.",
+    "target_paragraph_indices": [
+      1446,
+      2264
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1534,
+            1684
+          ],
+          [
+            1685,
+            2264
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 30, 2018: the District Court issued an order finding intentional destruction of evidence and holding adverse inferences appropriate.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1534,
+            1684
+          ],
+          [
+            1685,
+            2264
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court found the City intentionally destroyed evidence and drew adverse inferences that the City had a policy of not releasing warrantless arrestees without timely neutral probable cause determinations, that policymakers knew of it, and that the City acted with deliberate indifference.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1534,
+            1684
+          ],
+          [
+            1685,
+            2264
+          ]
+        ],
+        "annotation": {
+          "explanation": "Spoliation/adverse inference order issued (Aug 30, 2018) regarding intentional destruction of evidence.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "17701_p4",
+    "metadata": {
+      "case_id": "17701",
+      "paragraph_num": 4,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detai..."
+    },
+    "source": "",
+    "target": "This is a case about Houston police arresting individuals without warrants and detaining them without probable cause. On December 5, 2016, two plaintiffs filed this lawsuit in the United States District Court for the Southern District of Texas. The plaintiffs on behalf of themselves and all others similarly situated sued the City of Houston under 42 U.S.C. \u00a7 1983, alleging violations of the Fourth and Fourteenth Amendments to the United States Constitution. Represented by private counsel and the Civil Rights Corps, the plaintiffs sought compensatory damages and attorneys\u2019 fees. They claimed that the City of Houston regularly arrested individuals without warrants and detained them without probable cause hearings for longer than permitted by the United States Constitution.\n\nThe case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismiss the initial complaint. One of the named plaintiffs withdrew from the case and on March 1, 2017, the plaintiffs amended the complaint to add three more named plaintiffs. As a result, on March 7, the court denied the City's motion to dismiss on grounds of mootness because the filing of an amended complaint renders a prior complaint void and moots any motion to dismiss.\n\nThe City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that the defendants had essentially admitted that the facts the plaintiffs pleaded were true.\n\nThe case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30, 2018, the District Court issued an order stating that the City of Houston had intentionally destroyed evidence pertinent to the lawsuit. As a result, the Court held that inferences were appropriate: (1) throughout the class period, the City of Houston had a policy of not releasing warrantless arrestees who had not received neutral determinations of probable cause within the constitutionally required period of time; (2) throughout the class period, the City\u2019s policymakers were aware of this policy; and (3) the City acted with deliberate indifference with respect to its unconstitutional policy of not releasing warrantless arrestees who hadn\u2019t received probable cause hearings in the appropriate amount of time.\n\nOn December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detailed a single class of plaintiffs seeking compensatory relief, which applied to all those arrested without warrant and held for more than 48 hours without a prompt judicial determination of probable cause.\n\nThe plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plaintiff. Additionally, this second amended complaint defined two classes seeking compensatory relief. The first subclass included all those arrested and held held by the City of Houston without a warrant or a judicial determination of probably cause for 48 hours or more, and the second subclass included those who were arrested and held between 24 and 48 hours.\n\nIn spring 2019, the District Court issued an order overruling a motion from the City that asked the Court to exclude certain documents that they claimed to be privileged from evidence. The plaintiffs filed a motion to compel the city to produce these documents, which was stayed by Judge Hoyt pending the City\u2019s appeal. The Fifth Circuit Court of Appeals then vacated the District Court\u2019s order with respect to one document, and denied the City\u2019s claim of privilege in all other respects. Upon remand, the District Court granted the plaintiffs\u2019 motion to compel.\n\nIn late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt granted the plaintiffs\u2019 earlier motion for class certification. One week later, the City filed a motion to stay the case pending interlocutory appeal regarding the class certification issue, which was denied by the district court in early August. And, shortly after on August 8, 2020 the Fifth Circuit denied the defendants leave to appeal the grant of class certification.\n\nAt some during the summer of 2019, the parties began going through mediation and started settlement negotiations, and on August 13, 2019, a joint order to stay the case pending the finalization of settlement was granted.\n\nIn July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity. The court granted a joint motion for preliminary approval of the settlement on October 22, 2020.\n\nOn March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, and adequate for the class. The settlement payment was $1.17 million.\n\nOn August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs. On September 7, 2022, the court granted the motion for fees and costs. Attorneys' fees were $93, 241.28 (part of the total $1.17 million settlement). On December 20, 2024, the case was formally closed.",
+    "target_paragraph": "On December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detailed a single class of plaintiffs seeking compensatory relief, which applied to all those arrested without warrant and held for more than 48 hours without a prompt judicial determination of probable cause.",
+    "target_paragraph_indices": [
+      2266,
+      2570
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2333,
+            2570
+          ],
+          [
+            2772,
+            3032
+          ]
+        ],
+        "annotation": {
+          "explanation": "Affected individuals included those held more than 48 hours without a prompt judicial probable cause determination, with subclasses for 48 hours or more and for 24\u201348 hours.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2266,
+            2332
+          ],
+          [
+            3666,
+            3757
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for class certification filed (Dec 11, 2018); granted (July 3, 2019).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            4,
+            7
+          ]
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "17701_p5",
+    "metadata": {
+      "case_id": "17701",
+      "paragraph_num": 5,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plai..."
+    },
+    "source": "",
+    "target": "This is a case about Houston police arresting individuals without warrants and detaining them without probable cause. On December 5, 2016, two plaintiffs filed this lawsuit in the United States District Court for the Southern District of Texas. The plaintiffs on behalf of themselves and all others similarly situated sued the City of Houston under 42 U.S.C. \u00a7 1983, alleging violations of the Fourth and Fourteenth Amendments to the United States Constitution. Represented by private counsel and the Civil Rights Corps, the plaintiffs sought compensatory damages and attorneys\u2019 fees. They claimed that the City of Houston regularly arrested individuals without warrants and detained them without probable cause hearings for longer than permitted by the United States Constitution.\n\nThe case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismiss the initial complaint. One of the named plaintiffs withdrew from the case and on March 1, 2017, the plaintiffs amended the complaint to add three more named plaintiffs. As a result, on March 7, the court denied the City's motion to dismiss on grounds of mootness because the filing of an amended complaint renders a prior complaint void and moots any motion to dismiss.\n\nThe City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that the defendants had essentially admitted that the facts the plaintiffs pleaded were true.\n\nThe case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30, 2018, the District Court issued an order stating that the City of Houston had intentionally destroyed evidence pertinent to the lawsuit. As a result, the Court held that inferences were appropriate: (1) throughout the class period, the City of Houston had a policy of not releasing warrantless arrestees who had not received neutral determinations of probable cause within the constitutionally required period of time; (2) throughout the class period, the City\u2019s policymakers were aware of this policy; and (3) the City acted with deliberate indifference with respect to its unconstitutional policy of not releasing warrantless arrestees who hadn\u2019t received probable cause hearings in the appropriate amount of time.\n\nOn December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detailed a single class of plaintiffs seeking compensatory relief, which applied to all those arrested without warrant and held for more than 48 hours without a prompt judicial determination of probable cause.\n\nThe plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plaintiff. Additionally, this second amended complaint defined two classes seeking compensatory relief. The first subclass included all those arrested and held held by the City of Houston without a warrant or a judicial determination of probably cause for 48 hours or more, and the second subclass included those who were arrested and held between 24 and 48 hours.\n\nIn spring 2019, the District Court issued an order overruling a motion from the City that asked the Court to exclude certain documents that they claimed to be privileged from evidence. The plaintiffs filed a motion to compel the city to produce these documents, which was stayed by Judge Hoyt pending the City\u2019s appeal. The Fifth Circuit Court of Appeals then vacated the District Court\u2019s order with respect to one document, and denied the City\u2019s claim of privilege in all other respects. Upon remand, the District Court granted the plaintiffs\u2019 motion to compel.\n\nIn late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt granted the plaintiffs\u2019 earlier motion for class certification. One week later, the City filed a motion to stay the case pending interlocutory appeal regarding the class certification issue, which was denied by the district court in early August. And, shortly after on August 8, 2020 the Fifth Circuit denied the defendants leave to appeal the grant of class certification.\n\nAt some during the summer of 2019, the parties began going through mediation and started settlement negotiations, and on August 13, 2019, a joint order to stay the case pending the finalization of settlement was granted.\n\nIn July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity. The court granted a joint motion for preliminary approval of the settlement on October 22, 2020.\n\nOn March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, and adequate for the class. The settlement payment was $1.17 million.\n\nOn August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs. On September 7, 2022, the court granted the motion for fees and costs. Attorneys' fees were $93, 241.28 (part of the total $1.17 million settlement). On December 20, 2024, the case was formally closed.",
+    "target_paragraph": "The plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plaintiff. Additionally, this second amended complaint defined two classes seeking compensatory relief. The first subclass included all those arrested and held held by the City of Houston without a warrant or a judicial determination of probably cause for 48 hours or more, and the second subclass included those who were arrested and held between 24 and 48 hours.",
+    "target_paragraph_indices": [
+      2572,
+      3032
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2572,
+            3032
+          ]
+        ],
+        "annotation": {
+          "explanation": "Second amended complaint filed (Dec 13, 2018), adding a fifth named plaintiff and defining two subclasses.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "17701_p6",
+    "metadata": {
+      "case_id": "17701",
+      "paragraph_num": 6,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In spring 2019, the District Court issued an order overruling a motion from the City that asked the ..."
+    },
+    "source": "",
+    "target": "This is a case about Houston police arresting individuals without warrants and detaining them without probable cause. On December 5, 2016, two plaintiffs filed this lawsuit in the United States District Court for the Southern District of Texas. The plaintiffs on behalf of themselves and all others similarly situated sued the City of Houston under 42 U.S.C. \u00a7 1983, alleging violations of the Fourth and Fourteenth Amendments to the United States Constitution. Represented by private counsel and the Civil Rights Corps, the plaintiffs sought compensatory damages and attorneys\u2019 fees. They claimed that the City of Houston regularly arrested individuals without warrants and detained them without probable cause hearings for longer than permitted by the United States Constitution.\n\nThe case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismiss the initial complaint. One of the named plaintiffs withdrew from the case and on March 1, 2017, the plaintiffs amended the complaint to add three more named plaintiffs. As a result, on March 7, the court denied the City's motion to dismiss on grounds of mootness because the filing of an amended complaint renders a prior complaint void and moots any motion to dismiss.\n\nThe City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that the defendants had essentially admitted that the facts the plaintiffs pleaded were true.\n\nThe case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30, 2018, the District Court issued an order stating that the City of Houston had intentionally destroyed evidence pertinent to the lawsuit. As a result, the Court held that inferences were appropriate: (1) throughout the class period, the City of Houston had a policy of not releasing warrantless arrestees who had not received neutral determinations of probable cause within the constitutionally required period of time; (2) throughout the class period, the City\u2019s policymakers were aware of this policy; and (3) the City acted with deliberate indifference with respect to its unconstitutional policy of not releasing warrantless arrestees who hadn\u2019t received probable cause hearings in the appropriate amount of time.\n\nOn December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detailed a single class of plaintiffs seeking compensatory relief, which applied to all those arrested without warrant and held for more than 48 hours without a prompt judicial determination of probable cause.\n\nThe plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plaintiff. Additionally, this second amended complaint defined two classes seeking compensatory relief. The first subclass included all those arrested and held held by the City of Houston without a warrant or a judicial determination of probably cause for 48 hours or more, and the second subclass included those who were arrested and held between 24 and 48 hours.\n\nIn spring 2019, the District Court issued an order overruling a motion from the City that asked the Court to exclude certain documents that they claimed to be privileged from evidence. The plaintiffs filed a motion to compel the city to produce these documents, which was stayed by Judge Hoyt pending the City\u2019s appeal. The Fifth Circuit Court of Appeals then vacated the District Court\u2019s order with respect to one document, and denied the City\u2019s claim of privilege in all other respects. Upon remand, the District Court granted the plaintiffs\u2019 motion to compel.\n\nIn late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt granted the plaintiffs\u2019 earlier motion for class certification. One week later, the City filed a motion to stay the case pending interlocutory appeal regarding the class certification issue, which was denied by the district court in early August. And, shortly after on August 8, 2020 the Fifth Circuit denied the defendants leave to appeal the grant of class certification.\n\nAt some during the summer of 2019, the parties began going through mediation and started settlement negotiations, and on August 13, 2019, a joint order to stay the case pending the finalization of settlement was granted.\n\nIn July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity. The court granted a joint motion for preliminary approval of the settlement on October 22, 2020.\n\nOn March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, and adequate for the class. The settlement payment was $1.17 million.\n\nOn August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs. On September 7, 2022, the court granted the motion for fees and costs. Attorneys' fees were $93, 241.28 (part of the total $1.17 million settlement). On December 20, 2024, the case was formally closed.",
+    "target_paragraph": "In spring 2019, the District Court issued an order overruling a motion from the City that asked the Court to exclude certain documents that they claimed to be privileged from evidence. The plaintiffs filed a motion to compel the city to produce these documents, which was stayed by Judge Hoyt pending the City\u2019s appeal. The Fifth Circuit Court of Appeals then vacated the District Court\u2019s order with respect to one document, and denied the City\u2019s claim of privilege in all other respects. Upon remand, the District Court granted the plaintiffs\u2019 motion to compel.",
+    "target_paragraph_indices": [
+      3034,
+      3596
+    ],
+    "edits": [
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            3219,
+            3353
+          ],
+          [
+            3354,
+            3522
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: City of Houston appealed to the Fifth Circuit Court of Appeals.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3034,
+            3218
+          ]
+        ],
+        "annotation": {
+          "explanation": "Spring 2019: the District Court overruled the City's motion to exclude purportedly privileged documents.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3034,
+            3218
+          ],
+          [
+            3219,
+            3353
+          ],
+          [
+            3354,
+            3522
+          ],
+          [
+            3523,
+            3596
+          ]
+        ],
+        "annotation": {
+          "explanation": "Documentary evidence: most disputed documents were ordered produced after appellate review, with privilege sustained as to only one document.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3034,
+            3218
+          ]
+        ],
+        "annotation": {
+          "explanation": "City\u2019s motion to exclude documents as privileged; overruled by District Court (spring 2019).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3219,
+            3596
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion to compel production of documents; stayed pending appeal; Fifth Circuit vacated as to one document and denied privilege otherwise; on remand, motion to compel granted.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3219,
+            3353
+          ],
+          [
+            3354,
+            3522
+          ],
+          [
+            3523,
+            3596
+          ]
+        ],
+        "annotation": {
+          "explanation": "City of Houston ordered to produce the documents at issue in the motion to compel (following the Fifth Circuit\u2019s ruling denying privilege in all other respects).",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3034,
+            3218
+          ]
+        ],
+        "annotation": {
+          "explanation": "Spring 2019: District Court overruled the City\u2019s motion to exclude documents claimed as privileged.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3354,
+            3522
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Circuit: Vacated the district court\u2019s order as to one document and otherwise denied the City\u2019s privilege claims.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3523,
+            3596
+          ]
+        ],
+        "annotation": {
+          "explanation": "Upon remand: District Court granted plaintiffs\u2019 motion to compel.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "17701_p7",
+    "metadata": {
+      "case_id": "17701",
+      "paragraph_num": 7,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt gran..."
+    },
+    "source": "",
+    "target": "This is a case about Houston police arresting individuals without warrants and detaining them without probable cause. On December 5, 2016, two plaintiffs filed this lawsuit in the United States District Court for the Southern District of Texas. The plaintiffs on behalf of themselves and all others similarly situated sued the City of Houston under 42 U.S.C. \u00a7 1983, alleging violations of the Fourth and Fourteenth Amendments to the United States Constitution. Represented by private counsel and the Civil Rights Corps, the plaintiffs sought compensatory damages and attorneys\u2019 fees. They claimed that the City of Houston regularly arrested individuals without warrants and detained them without probable cause hearings for longer than permitted by the United States Constitution.\n\nThe case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismiss the initial complaint. One of the named plaintiffs withdrew from the case and on March 1, 2017, the plaintiffs amended the complaint to add three more named plaintiffs. As a result, on March 7, the court denied the City's motion to dismiss on grounds of mootness because the filing of an amended complaint renders a prior complaint void and moots any motion to dismiss.\n\nThe City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that the defendants had essentially admitted that the facts the plaintiffs pleaded were true.\n\nThe case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30, 2018, the District Court issued an order stating that the City of Houston had intentionally destroyed evidence pertinent to the lawsuit. As a result, the Court held that inferences were appropriate: (1) throughout the class period, the City of Houston had a policy of not releasing warrantless arrestees who had not received neutral determinations of probable cause within the constitutionally required period of time; (2) throughout the class period, the City\u2019s policymakers were aware of this policy; and (3) the City acted with deliberate indifference with respect to its unconstitutional policy of not releasing warrantless arrestees who hadn\u2019t received probable cause hearings in the appropriate amount of time.\n\nOn December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detailed a single class of plaintiffs seeking compensatory relief, which applied to all those arrested without warrant and held for more than 48 hours without a prompt judicial determination of probable cause.\n\nThe plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plaintiff. Additionally, this second amended complaint defined two classes seeking compensatory relief. The first subclass included all those arrested and held held by the City of Houston without a warrant or a judicial determination of probably cause for 48 hours or more, and the second subclass included those who were arrested and held between 24 and 48 hours.\n\nIn spring 2019, the District Court issued an order overruling a motion from the City that asked the Court to exclude certain documents that they claimed to be privileged from evidence. The plaintiffs filed a motion to compel the city to produce these documents, which was stayed by Judge Hoyt pending the City\u2019s appeal. The Fifth Circuit Court of Appeals then vacated the District Court\u2019s order with respect to one document, and denied the City\u2019s claim of privilege in all other respects. Upon remand, the District Court granted the plaintiffs\u2019 motion to compel.\n\nIn late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt granted the plaintiffs\u2019 earlier motion for class certification. One week later, the City filed a motion to stay the case pending interlocutory appeal regarding the class certification issue, which was denied by the district court in early August. And, shortly after on August 8, 2020 the Fifth Circuit denied the defendants leave to appeal the grant of class certification.\n\nAt some during the summer of 2019, the parties began going through mediation and started settlement negotiations, and on August 13, 2019, a joint order to stay the case pending the finalization of settlement was granted.\n\nIn July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity. The court granted a joint motion for preliminary approval of the settlement on October 22, 2020.\n\nOn March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, and adequate for the class. The settlement payment was $1.17 million.\n\nOn August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs. On September 7, 2022, the court granted the motion for fees and costs. Attorneys' fees were $93, 241.28 (part of the total $1.17 million settlement). On December 20, 2024, the case was formally closed.",
+    "target_paragraph": "In late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt granted the plaintiffs\u2019 earlier motion for class certification. One week later, the City filed a motion to stay the case pending interlocutory appeal regarding the class certification issue, which was denied by the district court in early August. And, shortly after on August 8, 2020 the Fifth Circuit denied the defendants leave to appeal the grant of class certification.",
+    "target_paragraph_indices": [
+      3598,
+      4067
+    ],
+    "edits": [
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            3758,
+            3940
+          ],
+          [
+            3941,
+            4067
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: Defendants (City of Houston) appealed to the Fifth Circuit Court of Appeals.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3666,
+            3757
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 3, 2019: Judge Hoyt granted class certification.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3666,
+            3757
+          ],
+          [
+            3758,
+            3940
+          ]
+        ],
+        "annotation": {
+          "explanation": "Early August 2019: the district court denied the City's motion to stay pending interlocutory appeal.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3941,
+            4067
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 8, 2020: the Fifth Circuit denied defendants leave to appeal the grant of class certification.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3666,
+            3757
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification was granted, confirming the case proceeded on behalf of a class of warrantless arrestees subjected to delayed probable cause determinations.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3598,
+            3665
+          ]
+        ],
+        "annotation": {
+          "explanation": "Cross-motions for summary judgment filed by both parties (late June 2019).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3758,
+            3940
+          ],
+          [
+            3941,
+            4067
+          ]
+        ],
+        "annotation": {
+          "explanation": "City\u2019s motion to stay pending interlocutory appeal of class certification; denied by district court (early Aug 2019). Fifth Circuit denied leave to appeal (Aug 8, 2020).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3666,
+            3757
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 3, 2019: Motion for class certification granted.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3758,
+            3940
+          ]
+        ],
+        "annotation": {
+          "explanation": "Early August 2019: City\u2019s motion to stay pending interlocutory appeal (re: class certification) denied.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3941,
+            4067
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 8, 2020: Fifth Circuit denied defendants leave to appeal the class certification order.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "17701_p8",
+    "metadata": {
+      "case_id": "17701",
+      "paragraph_num": 8,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "At some during the summer of 2019, the parties began going through mediation and started settlement ..."
+    },
+    "source": "",
+    "target": "This is a case about Houston police arresting individuals without warrants and detaining them without probable cause. On December 5, 2016, two plaintiffs filed this lawsuit in the United States District Court for the Southern District of Texas. The plaintiffs on behalf of themselves and all others similarly situated sued the City of Houston under 42 U.S.C. \u00a7 1983, alleging violations of the Fourth and Fourteenth Amendments to the United States Constitution. Represented by private counsel and the Civil Rights Corps, the plaintiffs sought compensatory damages and attorneys\u2019 fees. They claimed that the City of Houston regularly arrested individuals without warrants and detained them without probable cause hearings for longer than permitted by the United States Constitution.\n\nThe case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismiss the initial complaint. One of the named plaintiffs withdrew from the case and on March 1, 2017, the plaintiffs amended the complaint to add three more named plaintiffs. As a result, on March 7, the court denied the City's motion to dismiss on grounds of mootness because the filing of an amended complaint renders a prior complaint void and moots any motion to dismiss.\n\nThe City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that the defendants had essentially admitted that the facts the plaintiffs pleaded were true.\n\nThe case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30, 2018, the District Court issued an order stating that the City of Houston had intentionally destroyed evidence pertinent to the lawsuit. As a result, the Court held that inferences were appropriate: (1) throughout the class period, the City of Houston had a policy of not releasing warrantless arrestees who had not received neutral determinations of probable cause within the constitutionally required period of time; (2) throughout the class period, the City\u2019s policymakers were aware of this policy; and (3) the City acted with deliberate indifference with respect to its unconstitutional policy of not releasing warrantless arrestees who hadn\u2019t received probable cause hearings in the appropriate amount of time.\n\nOn December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detailed a single class of plaintiffs seeking compensatory relief, which applied to all those arrested without warrant and held for more than 48 hours without a prompt judicial determination of probable cause.\n\nThe plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plaintiff. Additionally, this second amended complaint defined two classes seeking compensatory relief. The first subclass included all those arrested and held held by the City of Houston without a warrant or a judicial determination of probably cause for 48 hours or more, and the second subclass included those who were arrested and held between 24 and 48 hours.\n\nIn spring 2019, the District Court issued an order overruling a motion from the City that asked the Court to exclude certain documents that they claimed to be privileged from evidence. The plaintiffs filed a motion to compel the city to produce these documents, which was stayed by Judge Hoyt pending the City\u2019s appeal. The Fifth Circuit Court of Appeals then vacated the District Court\u2019s order with respect to one document, and denied the City\u2019s claim of privilege in all other respects. Upon remand, the District Court granted the plaintiffs\u2019 motion to compel.\n\nIn late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt granted the plaintiffs\u2019 earlier motion for class certification. One week later, the City filed a motion to stay the case pending interlocutory appeal regarding the class certification issue, which was denied by the district court in early August. And, shortly after on August 8, 2020 the Fifth Circuit denied the defendants leave to appeal the grant of class certification.\n\nAt some during the summer of 2019, the parties began going through mediation and started settlement negotiations, and on August 13, 2019, a joint order to stay the case pending the finalization of settlement was granted.\n\nIn July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity. The court granted a joint motion for preliminary approval of the settlement on October 22, 2020.\n\nOn March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, and adequate for the class. The settlement payment was $1.17 million.\n\nOn August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs. On September 7, 2022, the court granted the motion for fees and costs. Attorneys' fees were $93, 241.28 (part of the total $1.17 million settlement). On December 20, 2024, the case was formally closed.",
+    "target_paragraph": "At some during the summer of 2019, the parties began going through mediation and started settlement negotiations, and on August 13, 2019, a joint order to stay the case pending the finalization of settlement was granted.",
+    "target_paragraph_indices": [
+      4069,
+      4289
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            4069,
+            4289
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 13, 2019: Joint order to stay the case pending the finalization of settlement was granted.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4069,
+            4289
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 13, 2019: the court granted a joint order to stay the case pending finalization of settlement.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4187,
+            4289
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint request/order to stay case pending settlement; granted (Aug 13, 2019).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4069,
+            4289
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 13, 2019: Court granted joint order to stay the case pending settlement finalization.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "17701_p9",
+    "metadata": {
+      "case_id": "17701",
+      "paragraph_num": 9,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million ..."
+    },
+    "source": "",
+    "target": "This is a case about Houston police arresting individuals without warrants and detaining them without probable cause. On December 5, 2016, two plaintiffs filed this lawsuit in the United States District Court for the Southern District of Texas. The plaintiffs on behalf of themselves and all others similarly situated sued the City of Houston under 42 U.S.C. \u00a7 1983, alleging violations of the Fourth and Fourteenth Amendments to the United States Constitution. Represented by private counsel and the Civil Rights Corps, the plaintiffs sought compensatory damages and attorneys\u2019 fees. They claimed that the City of Houston regularly arrested individuals without warrants and detained them without probable cause hearings for longer than permitted by the United States Constitution.\n\nThe case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismiss the initial complaint. One of the named plaintiffs withdrew from the case and on March 1, 2017, the plaintiffs amended the complaint to add three more named plaintiffs. As a result, on March 7, the court denied the City's motion to dismiss on grounds of mootness because the filing of an amended complaint renders a prior complaint void and moots any motion to dismiss.\n\nThe City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that the defendants had essentially admitted that the facts the plaintiffs pleaded were true.\n\nThe case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30, 2018, the District Court issued an order stating that the City of Houston had intentionally destroyed evidence pertinent to the lawsuit. As a result, the Court held that inferences were appropriate: (1) throughout the class period, the City of Houston had a policy of not releasing warrantless arrestees who had not received neutral determinations of probable cause within the constitutionally required period of time; (2) throughout the class period, the City\u2019s policymakers were aware of this policy; and (3) the City acted with deliberate indifference with respect to its unconstitutional policy of not releasing warrantless arrestees who hadn\u2019t received probable cause hearings in the appropriate amount of time.\n\nOn December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detailed a single class of plaintiffs seeking compensatory relief, which applied to all those arrested without warrant and held for more than 48 hours without a prompt judicial determination of probable cause.\n\nThe plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plaintiff. Additionally, this second amended complaint defined two classes seeking compensatory relief. The first subclass included all those arrested and held held by the City of Houston without a warrant or a judicial determination of probably cause for 48 hours or more, and the second subclass included those who were arrested and held between 24 and 48 hours.\n\nIn spring 2019, the District Court issued an order overruling a motion from the City that asked the Court to exclude certain documents that they claimed to be privileged from evidence. The plaintiffs filed a motion to compel the city to produce these documents, which was stayed by Judge Hoyt pending the City\u2019s appeal. The Fifth Circuit Court of Appeals then vacated the District Court\u2019s order with respect to one document, and denied the City\u2019s claim of privilege in all other respects. Upon remand, the District Court granted the plaintiffs\u2019 motion to compel.\n\nIn late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt granted the plaintiffs\u2019 earlier motion for class certification. One week later, the City filed a motion to stay the case pending interlocutory appeal regarding the class certification issue, which was denied by the district court in early August. And, shortly after on August 8, 2020 the Fifth Circuit denied the defendants leave to appeal the grant of class certification.\n\nAt some during the summer of 2019, the parties began going through mediation and started settlement negotiations, and on August 13, 2019, a joint order to stay the case pending the finalization of settlement was granted.\n\nIn July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity. The court granted a joint motion for preliminary approval of the settlement on October 22, 2020.\n\nOn March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, and adequate for the class. The settlement payment was $1.17 million.\n\nOn August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs. On September 7, 2022, the court granted the motion for fees and costs. Attorneys' fees were $93, 241.28 (part of the total $1.17 million settlement). On December 20, 2024, the case was formally closed.",
+    "target_paragraph": "In July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity. The court granted a joint motion for preliminary approval of the settlement on October 22, 2020.",
+    "target_paragraph_indices": [
+      4291,
+      4514
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            4291,
+            4417
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 2020: Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            4418,
+            4514
+          ]
+        ],
+        "annotation": {
+          "explanation": "October 22, 2020: The court granted a joint motion for preliminary approval of the settlement.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            4418,
+            4514
+          ],
+          [
+            4516,
+            4643
+          ]
+        ],
+        "annotation": {
+          "explanation": "Yes.",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4418,
+            4514
+          ]
+        ],
+        "annotation": {
+          "explanation": "October 22, 2020: the court granted preliminary approval of the settlement.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4291,
+            4417
+          ],
+          [
+            4516,
+            4685
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background resolution: The City settled for $1.17 million, approved by the court as fair, reasonable, and adequate.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4418,
+            4514
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint motion for preliminary approval of class settlement; granted (Oct 22, 2020).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4291,
+            4514
+          ],
+          [
+            4516,
+            4685
+          ]
+        ],
+        "annotation": {
+          "explanation": "City of Houston to pay $1.17 million to plaintiffs/class in exchange for indemnity (settlement approved by the court).",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4291,
+            4417
+          ],
+          [
+            4516,
+            4685
+          ]
+        ],
+        "annotation": {
+          "explanation": "City of Houston agreed to pay $1.17 million to the plaintiff class in settlement, in exchange for indemnity (settlement approved by the court).",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4418,
+            4514
+          ]
+        ],
+        "annotation": {
+          "explanation": "October 22, 2020: Court granted joint motion for preliminary approval of settlement.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "17701_p10",
+    "metadata": {
+      "case_id": "17701",
+      "paragraph_num": 10,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, ..."
+    },
+    "source": "",
+    "target": "This is a case about Houston police arresting individuals without warrants and detaining them without probable cause. On December 5, 2016, two plaintiffs filed this lawsuit in the United States District Court for the Southern District of Texas. The plaintiffs on behalf of themselves and all others similarly situated sued the City of Houston under 42 U.S.C. \u00a7 1983, alleging violations of the Fourth and Fourteenth Amendments to the United States Constitution. Represented by private counsel and the Civil Rights Corps, the plaintiffs sought compensatory damages and attorneys\u2019 fees. They claimed that the City of Houston regularly arrested individuals without warrants and detained them without probable cause hearings for longer than permitted by the United States Constitution.\n\nThe case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismiss the initial complaint. One of the named plaintiffs withdrew from the case and on March 1, 2017, the plaintiffs amended the complaint to add three more named plaintiffs. As a result, on March 7, the court denied the City's motion to dismiss on grounds of mootness because the filing of an amended complaint renders a prior complaint void and moots any motion to dismiss.\n\nThe City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that the defendants had essentially admitted that the facts the plaintiffs pleaded were true.\n\nThe case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30, 2018, the District Court issued an order stating that the City of Houston had intentionally destroyed evidence pertinent to the lawsuit. As a result, the Court held that inferences were appropriate: (1) throughout the class period, the City of Houston had a policy of not releasing warrantless arrestees who had not received neutral determinations of probable cause within the constitutionally required period of time; (2) throughout the class period, the City\u2019s policymakers were aware of this policy; and (3) the City acted with deliberate indifference with respect to its unconstitutional policy of not releasing warrantless arrestees who hadn\u2019t received probable cause hearings in the appropriate amount of time.\n\nOn December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detailed a single class of plaintiffs seeking compensatory relief, which applied to all those arrested without warrant and held for more than 48 hours without a prompt judicial determination of probable cause.\n\nThe plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plaintiff. Additionally, this second amended complaint defined two classes seeking compensatory relief. The first subclass included all those arrested and held held by the City of Houston without a warrant or a judicial determination of probably cause for 48 hours or more, and the second subclass included those who were arrested and held between 24 and 48 hours.\n\nIn spring 2019, the District Court issued an order overruling a motion from the City that asked the Court to exclude certain documents that they claimed to be privileged from evidence. The plaintiffs filed a motion to compel the city to produce these documents, which was stayed by Judge Hoyt pending the City\u2019s appeal. The Fifth Circuit Court of Appeals then vacated the District Court\u2019s order with respect to one document, and denied the City\u2019s claim of privilege in all other respects. Upon remand, the District Court granted the plaintiffs\u2019 motion to compel.\n\nIn late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt granted the plaintiffs\u2019 earlier motion for class certification. One week later, the City filed a motion to stay the case pending interlocutory appeal regarding the class certification issue, which was denied by the district court in early August. And, shortly after on August 8, 2020 the Fifth Circuit denied the defendants leave to appeal the grant of class certification.\n\nAt some during the summer of 2019, the parties began going through mediation and started settlement negotiations, and on August 13, 2019, a joint order to stay the case pending the finalization of settlement was granted.\n\nIn July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity. The court granted a joint motion for preliminary approval of the settlement on October 22, 2020.\n\nOn March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, and adequate for the class. The settlement payment was $1.17 million.\n\nOn August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs. On September 7, 2022, the court granted the motion for fees and costs. Attorneys' fees were $93, 241.28 (part of the total $1.17 million settlement). On December 20, 2024, the case was formally closed.",
+    "target_paragraph": "On March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, and adequate for the class. The settlement payment was $1.17 million.",
+    "target_paragraph_indices": [
+      4516,
+      4685
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            4516,
+            4643
+          ],
+          [
+            4644,
+            4685
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 18, 2021: The court approved the settlement agreement determining it was fair, reasonable, and adequate for the class; settlement payment was $1.17 million.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4516,
+            4643
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 18, 2021: the court approved the settlement agreement.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4516,
+            4643
+          ]
+        ],
+        "annotation": {
+          "explanation": "Final approval order for class settlement issued (Mar 18, 2021).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "17701_p11",
+    "metadata": {
+      "case_id": "17701",
+      "paragraph_num": 11,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs...."
+    },
+    "source": "",
+    "target": "This is a case about Houston police arresting individuals without warrants and detaining them without probable cause. On December 5, 2016, two plaintiffs filed this lawsuit in the United States District Court for the Southern District of Texas. The plaintiffs on behalf of themselves and all others similarly situated sued the City of Houston under 42 U.S.C. \u00a7 1983, alleging violations of the Fourth and Fourteenth Amendments to the United States Constitution. Represented by private counsel and the Civil Rights Corps, the plaintiffs sought compensatory damages and attorneys\u2019 fees. They claimed that the City of Houston regularly arrested individuals without warrants and detained them without probable cause hearings for longer than permitted by the United States Constitution.\n\nThe case was assigned to Judge Kennth M. Hoyt on December 7, 2016. The City filed a motion to dismiss the initial complaint. One of the named plaintiffs withdrew from the case and on March 1, 2017, the plaintiffs amended the complaint to add three more named plaintiffs. As a result, on March 7, the court denied the City's motion to dismiss on grounds of mootness because the filing of an amended complaint renders a prior complaint void and moots any motion to dismiss.\n\nThe City filed an amended motion to dismiss, which was denied on June 6, 2017. The court found that the defendants had essentially admitted that the facts the plaintiffs pleaded were true.\n\nThe case proceeded to discovery, and the parties engaged in lengthy discovery disputes. On August 30, 2018, the District Court issued an order stating that the City of Houston had intentionally destroyed evidence pertinent to the lawsuit. As a result, the Court held that inferences were appropriate: (1) throughout the class period, the City of Houston had a policy of not releasing warrantless arrestees who had not received neutral determinations of probable cause within the constitutionally required period of time; (2) throughout the class period, the City\u2019s policymakers were aware of this policy; and (3) the City acted with deliberate indifference with respect to its unconstitutional policy of not releasing warrantless arrestees who hadn\u2019t received probable cause hearings in the appropriate amount of time.\n\nOn December 11, 2018, the plaintiffs moved to certify their class. The first amended complaint detailed a single class of plaintiffs seeking compensatory relief, which applied to all those arrested without warrant and held for more than 48 hours without a prompt judicial determination of probable cause.\n\nThe plaintiffs filed a second amended complaint on December 13, 2018, which added a fifth named plaintiff. Additionally, this second amended complaint defined two classes seeking compensatory relief. The first subclass included all those arrested and held held by the City of Houston without a warrant or a judicial determination of probably cause for 48 hours or more, and the second subclass included those who were arrested and held between 24 and 48 hours.\n\nIn spring 2019, the District Court issued an order overruling a motion from the City that asked the Court to exclude certain documents that they claimed to be privileged from evidence. The plaintiffs filed a motion to compel the city to produce these documents, which was stayed by Judge Hoyt pending the City\u2019s appeal. The Fifth Circuit Court of Appeals then vacated the District Court\u2019s order with respect to one document, and denied the City\u2019s claim of privilege in all other respects. Upon remand, the District Court granted the plaintiffs\u2019 motion to compel.\n\nIn late June 2019, both parties filed motions for summary judgment. On July 3, 2019, Judge Hoyt granted the plaintiffs\u2019 earlier motion for class certification. One week later, the City filed a motion to stay the case pending interlocutory appeal regarding the class certification issue, which was denied by the district court in early August. And, shortly after on August 8, 2020 the Fifth Circuit denied the defendants leave to appeal the grant of class certification.\n\nAt some during the summer of 2019, the parties began going through mediation and started settlement negotiations, and on August 13, 2019, a joint order to stay the case pending the finalization of settlement was granted.\n\nIn July 2020, Houston City Council voted to pass a settlement awarding the plaintiffs $1.17 million in exchange for indemnity. The court granted a joint motion for preliminary approval of the settlement on October 22, 2020.\n\nOn March 18, 2021, the court approved the settlement agreement determining it was fair, reasonable, and adequate for the class. The settlement payment was $1.17 million.\n\nOn August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs. On September 7, 2022, the court granted the motion for fees and costs. Attorneys' fees were $93, 241.28 (part of the total $1.17 million settlement). On December 20, 2024, the case was formally closed.",
+    "target_paragraph": "On August 9, 2022, the plaintiffs' attorney filed an unopposed motion for attorneys' fees and costs. On September 7, 2022, the court granted the motion for fees and costs. Attorneys' fees were $93, 241.28 (part of the total $1.17 million settlement). On December 20, 2024, the case was formally closed.",
+    "target_paragraph_indices": [
+      4687,
+      4989
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4788,
+            4858
+          ]
+        ],
+        "annotation": {
+          "explanation": "September 7, 2022: the court granted the motion for attorneys' fees and costs.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4687,
+            4787
+          ],
+          [
+            4788,
+            4937
+          ]
+        ],
+        "annotation": {
+          "explanation": "Unopposed motion for attorneys\u2019 fees and costs filed (Aug 9, 2022); granted (Sep 7, 2022) in the amount of $93,241.28.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4687,
+            4937
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys\u2019 fees and costs of $93,241.28 awarded (paid from the $1.17 million settlement).",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4687,
+            4858
+          ],
+          [
+            4859,
+            4937
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys\u2019 fees and costs of $93,241.28 to be paid from the $1.17 million settlement fund.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4687,
+            4787
+          ],
+          [
+            4788,
+            4858
+          ],
+          [
+            4859,
+            4937
+          ]
+        ],
+        "annotation": {
+          "explanation": "September 7, 2022: Court granted unopposed motion for attorneys\u2019 fees and costs; fees awarded $93, 241.28.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  }
+]

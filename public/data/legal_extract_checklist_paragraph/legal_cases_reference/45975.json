@@ -1,0 +1,997 @@
+[
+  {
+    "id": "45975_p0",
+    "metadata": {
+      "case_id": "45975",
+      "paragraph_num": 0,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This is a case about sanctuary city policies in Illinois. On January 25, 2025, Organized Communities..."
+    },
+    "source": "",
+    "target": "This is a case about sanctuary city policies in Illinois. On January 25, 2025, Organized Communities Against Deportation, Brighton Park Neighborhood Council, Illinois Coalition for Immigrant and Refugee Rights, and Raise the Floor Alliance filed this lawsuit in the United States District Court for the Northern District of Illinois, Eastern Division. These plaintiffs are Chicago-based organizations that provide support to immigrant communities and are leaders in the national Sanctuary City Movement. They brought this action against the Acting Secretary of the U.S. Department of Homeland Security (DHS), Acting Director of Immigration and Customs Enforcement (ICE), and ICE under the First Amendment of the U.S. Constitution, 28 U.S.C. \u00a7 2201 (Declaration of Rights), and 5 U.S.C. \u00a7 706(2)(A), (B) (The Administrative Procedure Act). Plaintiffs sought a declaration that the federal actions here, including plans for ICE to raid Chicago and \u201csquash the Sanctuary City Movement,\u201d constituted a violation of Plaintiffs\u2019 First Amendment rights, an injunction permanently enjoining Defendants from threatening and/or executing Chicago-based immigration raids, and an order setting aside the Defendant\u2019s policy to conduct immigration raids in Chicago for the purpose of targeting and ultimately destroying the Sanctuary City Movement.\n\nOn that same day, Plaintiffs also filed a Motion for a Preliminary Injunction and Temporary Restraining Order to enjoin Defendants from threatening and/or executing Chicago-based immigration raids, claiming that they and the communities they represented would be irreparably harmed. Honorable Edmond E. Chang served as emergency judge before the case was assigned to the Honorable John F. Kness and the Honorable M. David Weisman as magistrate judge.\n\nIn an amended complaint, filed on January 26, 2025, Plaintiffs added the President of the U.S., new Secretary of DHS, Acting Deputy Attorney General, Border Czar, DHS, and the Department of Justice (DOJ) as Defendants in the lawsuit.\n\nHowever, on January 29, 2025, Plaintiffs filed a request for leave to withdraw pending motions for a temporary restraining order and preliminary injunction on the basis that the status quo had changed because Defendants had launched ongoing Chicago-based immigration enforcement raids on January 26, 2025. This motion was granted by Judge Kness on January 29, 2025.\n\nOn February 26, 2025, Plaintiffs filed a notice of Voluntary Dismissal, citing the above mentioned change in circumstances. The next day, on February 27, 2025, Judge Kness dismissed the case without prejudice.",
+    "target_paragraph": "This is a case about sanctuary city policies in Illinois. On January 25, 2025, Organized Communities Against Deportation, Brighton Park Neighborhood Council, Illinois Coalition for Immigrant and Refugee Rights, and Raise the Floor Alliance filed this lawsuit in the United States District Court for the Northern District of Illinois, Eastern Division. These plaintiffs are Chicago-based organizations that provide support to immigrant communities and are leaders in the national Sanctuary City Movement. They brought this action against the Acting Secretary of the U.S. Department of Homeland Security (DHS), Acting Director of Immigration and Customs Enforcement (ICE), and ICE under the First Amendment of the U.S. Constitution, 28 U.S.C. \u00a7 2201 (Declaration of Rights), and 5 U.S.C. \u00a7 706(2)(A), (B) (The Administrative Procedure Act). Plaintiffs sought a declaration that the federal actions here, including plans for ICE to raid Chicago and \u201csquash the Sanctuary City Movement,\u201d constituted a violation of Plaintiffs\u2019 First Amendment rights, an injunction permanently enjoining Defendants from threatening and/or executing Chicago-based immigration raids, and an order setting aside the Defendant\u2019s policy to conduct immigration raids in Chicago for the purpose of targeting and ultimately destroying the Sanctuary City Movement.",
+    "target_paragraph_indices": [
+      0,
+      1334
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            58,
+            351
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 25, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            504,
+            838
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment of the U.S. Constitution",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            504,
+            838
+          ]
+        ],
+        "annotation": {
+          "explanation": "28 U.S.C. \u00a7 2201 (Declaration of Rights)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            504,
+            838
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act, 5 U.S.C. \u00a7 706(2)(A), (B)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            504,
+            838
+          ],
+          [
+            839,
+            1334
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment of the U.S. Constitution",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            504,
+            838
+          ]
+        ],
+        "annotation": {
+          "explanation": "28 U.S.C. \u00a7 2201 (Declaration of Rights)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            504,
+            838
+          ],
+          [
+            839,
+            1334
+          ]
+        ],
+        "annotation": {
+          "explanation": "5 U.S.C. \u00a7 706(2)(A), (B) (The Administrative Procedure Act)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            839,
+            1334
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment: declaration that federal actions, including plans for ICE to raid Chicago and \u201csquash the Sanctuary City Movement,\u201d violated Plaintiffs\u2019 First Amendment rights.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            839,
+            1334
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunction enjoining Defendants from threatening and/or executing Chicago-based immigration raids.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            839,
+            1334
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order setting aside Defendants\u2019 policy to conduct immigration raids in Chicago aimed at targeting and destroying the Sanctuary City Movement.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            58,
+            351
+          ],
+          [
+            352,
+            503
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as Chicago-based organizations that provide support to immigrant communities and are leaders in the national Sanctuary City Movement.",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            58,
+            351
+          ],
+          [
+            352,
+            503
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Organized Communities Against Deportation (Chicago-based organization that provides support to immigrant communities; leader in the national Sanctuary City Movement)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            58,
+            351
+          ],
+          [
+            352,
+            503
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Brighton Park Neighborhood Council (Chicago-based organization that provides support to immigrant communities; leader in the national Sanctuary City Movement)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            58,
+            351
+          ],
+          [
+            352,
+            503
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Illinois Coalition for Immigrant and Refugee Rights (Chicago-based organization that provides support to immigrant communities; leader in the national Sanctuary City Movement)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            58,
+            351
+          ],
+          [
+            352,
+            503
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Raise the Floor Alliance (Chicago-based organization that provides support to immigrant communities; leader in the national Sanctuary City Movement)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            504,
+            838
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Secretary of the U.S. Department of Homeland Security (DHS)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            504,
+            838
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Director of Immigration and Customs Enforcement (ICE)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            504,
+            838
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: ICE",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            504,
+            838
+          ],
+          [
+            1788,
+            2021
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: DHS (U.S. Department of Homeland Security)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 18
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            57
+          ],
+          [
+            902,
+            983
+          ],
+          [
+            2224,
+            2328
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case centers on sanctuary city policies in Illinois and alleged federal plans to raid Chicago to suppress the Sanctuary City Movement, followed by ICE\u2019s launch of ongoing Chicago-based immigration enforcement raids on January 26, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 19
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            58,
+            351
+          ],
+          [
+            352,
+            503
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs are four Chicago-based immigrant support organizations and Sanctuary City Movement leaders who filed suit on January 25, 2025, in the U.S. District Court for the Northern District of Illinois, Eastern Division.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            504,
+            678
+          ]
+        ],
+        "annotation": {
+          "explanation": "Initial defendants were the Acting Secretary of DHS, the Acting Director of ICE, and ICE.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            679,
+            838
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims were brought under the First Amendment, the Declaratory Judgment Act (28 U.S.C. \u00a7 2201), and the APA (5 U.S.C. \u00a7 706(2)(A), (B)).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 22
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            839,
+            1334
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought included a declaration of First Amendment violations, a permanent injunction against Chicago-based immigration raids, and vacatur of the policy to conduct raids aimed at destroying the Sanctuary City Movement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 23
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            58,
+            351
+          ],
+          [
+            504,
+            838
+          ],
+          [
+            839,
+            1334
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on January 25, 2025 (N.D. Ill., Eastern Division), asserting First Amendment, Declaratory Judgment Act, and APA claims and seeking declaratory and permanent injunctive relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 24
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            58,
+            351
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case initiated on January 25, 2025 in the U.S. District Court for the Northern District of Illinois, Eastern Division.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 25
+      }
+    ]
+  },
+  {
+    "id": "45975_p1",
+    "metadata": {
+      "case_id": "45975",
+      "paragraph_num": 1,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On that same day, Plaintiffs also filed a Motion for a Preliminary Injunction and Temporary Restrain..."
+    },
+    "source": "",
+    "target": "This is a case about sanctuary city policies in Illinois. On January 25, 2025, Organized Communities Against Deportation, Brighton Park Neighborhood Council, Illinois Coalition for Immigrant and Refugee Rights, and Raise the Floor Alliance filed this lawsuit in the United States District Court for the Northern District of Illinois, Eastern Division. These plaintiffs are Chicago-based organizations that provide support to immigrant communities and are leaders in the national Sanctuary City Movement. They brought this action against the Acting Secretary of the U.S. Department of Homeland Security (DHS), Acting Director of Immigration and Customs Enforcement (ICE), and ICE under the First Amendment of the U.S. Constitution, 28 U.S.C. \u00a7 2201 (Declaration of Rights), and 5 U.S.C. \u00a7 706(2)(A), (B) (The Administrative Procedure Act). Plaintiffs sought a declaration that the federal actions here, including plans for ICE to raid Chicago and \u201csquash the Sanctuary City Movement,\u201d constituted a violation of Plaintiffs\u2019 First Amendment rights, an injunction permanently enjoining Defendants from threatening and/or executing Chicago-based immigration raids, and an order setting aside the Defendant\u2019s policy to conduct immigration raids in Chicago for the purpose of targeting and ultimately destroying the Sanctuary City Movement.\n\nOn that same day, Plaintiffs also filed a Motion for a Preliminary Injunction and Temporary Restraining Order to enjoin Defendants from threatening and/or executing Chicago-based immigration raids, claiming that they and the communities they represented would be irreparably harmed. Honorable Edmond E. Chang served as emergency judge before the case was assigned to the Honorable John F. Kness and the Honorable M. David Weisman as magistrate judge.\n\nIn an amended complaint, filed on January 26, 2025, Plaintiffs added the President of the U.S., new Secretary of DHS, Acting Deputy Attorney General, Border Czar, DHS, and the Department of Justice (DOJ) as Defendants in the lawsuit.\n\nHowever, on January 29, 2025, Plaintiffs filed a request for leave to withdraw pending motions for a temporary restraining order and preliminary injunction on the basis that the status quo had changed because Defendants had launched ongoing Chicago-based immigration enforcement raids on January 26, 2025. This motion was granted by Judge Kness on January 29, 2025.\n\nOn February 26, 2025, Plaintiffs filed a notice of Voluntary Dismissal, citing the above mentioned change in circumstances. The next day, on February 27, 2025, Judge Kness dismissed the case without prejudice.",
+    "target_paragraph": "On that same day, Plaintiffs also filed a Motion for a Preliminary Injunction and Temporary Restraining Order to enjoin Defendants from threatening and/or executing Chicago-based immigration raids, claiming that they and the communities they represented would be irreparably harmed. Honorable Edmond E. Chang served as emergency judge before the case was assigned to the Honorable John F. Kness and the Honorable M. David Weisman as magistrate judge.",
+    "target_paragraph_indices": [
+      1336,
+      1786
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1336,
+            1618
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction and temporary restraining order to enjoin Defendants from threatening and/or executing Chicago-based immigration raids.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1619,
+            1786
+          ]
+        ],
+        "annotation": {
+          "explanation": "Edmond E. Chang",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1619,
+            1786
+          ],
+          [
+            2329,
+            2388
+          ],
+          [
+            2514,
+            2599
+          ]
+        ],
+        "annotation": {
+          "explanation": "John F. Kness",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            1,
+            3,
+            4
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1619,
+            1786
+          ]
+        ],
+        "annotation": {
+          "explanation": "M. David Weisman",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1336,
+            1618
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs moved the same day for a TRO and preliminary injunction to stop Chicago-based raids, asserting irreparable harm to themselves and their communities.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1619,
+            1786
+          ]
+        ],
+        "annotation": {
+          "explanation": "Judge Edmond E. Chang served as emergency judge; the case was then assigned to Judge John F. Kness and Magistrate Judge M. David Weisman.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1336,
+            1618
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for Preliminary Injunction and Temporary Restraining Order filed on January 25, 2025 to enjoin Chicago-based immigration raids.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1336,
+            1618
+          ]
+        ],
+        "annotation": {
+          "explanation": "On January 25, 2025, plaintiffs filed a Motion for Preliminary Injunction and Temporary Restraining Order seeking to enjoin Chicago-based immigration raids, alleging irreparable harm.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1619,
+            1786
+          ]
+        ],
+        "annotation": {
+          "explanation": "Judicial assignment: Judge Edmond E. Chang served as emergency judge; case assigned to District Judge John F. Kness and Magistrate Judge M. David Weisman.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "45975_p2",
+    "metadata": {
+      "case_id": "45975",
+      "paragraph_num": 2,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In an amended complaint, filed on January 26, 2025, Plaintiffs added the President of the U.S., new ..."
+    },
+    "source": "",
+    "target": "This is a case about sanctuary city policies in Illinois. On January 25, 2025, Organized Communities Against Deportation, Brighton Park Neighborhood Council, Illinois Coalition for Immigrant and Refugee Rights, and Raise the Floor Alliance filed this lawsuit in the United States District Court for the Northern District of Illinois, Eastern Division. These plaintiffs are Chicago-based organizations that provide support to immigrant communities and are leaders in the national Sanctuary City Movement. They brought this action against the Acting Secretary of the U.S. Department of Homeland Security (DHS), Acting Director of Immigration and Customs Enforcement (ICE), and ICE under the First Amendment of the U.S. Constitution, 28 U.S.C. \u00a7 2201 (Declaration of Rights), and 5 U.S.C. \u00a7 706(2)(A), (B) (The Administrative Procedure Act). Plaintiffs sought a declaration that the federal actions here, including plans for ICE to raid Chicago and \u201csquash the Sanctuary City Movement,\u201d constituted a violation of Plaintiffs\u2019 First Amendment rights, an injunction permanently enjoining Defendants from threatening and/or executing Chicago-based immigration raids, and an order setting aside the Defendant\u2019s policy to conduct immigration raids in Chicago for the purpose of targeting and ultimately destroying the Sanctuary City Movement.\n\nOn that same day, Plaintiffs also filed a Motion for a Preliminary Injunction and Temporary Restraining Order to enjoin Defendants from threatening and/or executing Chicago-based immigration raids, claiming that they and the communities they represented would be irreparably harmed. Honorable Edmond E. Chang served as emergency judge before the case was assigned to the Honorable John F. Kness and the Honorable M. David Weisman as magistrate judge.\n\nIn an amended complaint, filed on January 26, 2025, Plaintiffs added the President of the U.S., new Secretary of DHS, Acting Deputy Attorney General, Border Czar, DHS, and the Department of Justice (DOJ) as Defendants in the lawsuit.\n\nHowever, on January 29, 2025, Plaintiffs filed a request for leave to withdraw pending motions for a temporary restraining order and preliminary injunction on the basis that the status quo had changed because Defendants had launched ongoing Chicago-based immigration enforcement raids on January 26, 2025. This motion was granted by Judge Kness on January 29, 2025.\n\nOn February 26, 2025, Plaintiffs filed a notice of Voluntary Dismissal, citing the above mentioned change in circumstances. The next day, on February 27, 2025, Judge Kness dismissed the case without prejudice.",
+    "target_paragraph": "In an amended complaint, filed on January 26, 2025, Plaintiffs added the President of the U.S., new Secretary of DHS, Acting Deputy Attorney General, Border Czar, DHS, and the Department of Justice (DOJ) as Defendants in the lawsuit.",
+    "target_paragraph_indices": [
+      1788,
+      2021
+    ],
+    "edits": [
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1788,
+            2021
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: President of the U.S.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1788,
+            2021
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: new Secretary of DHS",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1788,
+            2021
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Deputy Attorney General",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1788,
+            2021
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Border Czar",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1788,
+            2021
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Justice (DOJ)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1788,
+            2021
+          ]
+        ],
+        "annotation": {
+          "explanation": "On January 26, 2025, plaintiffs amended the complaint to add the President, new DHS Secretary, Acting Deputy Attorney General, the Border Czar, DHS, and DOJ as defendants.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1788,
+            2021
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint filed on January 26, 2025 adding additional federal defendants (President, new DHS Secretary, Acting DAG, Border Czar, DHS, DOJ).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1788,
+            2021
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint filed January 26, 2025 adding additional federal defendants (President, new DHS Secretary, Acting Deputy AG, Border Czar, DHS, DOJ).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "45975_p3",
+    "metadata": {
+      "case_id": "45975",
+      "paragraph_num": 3,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "However, on January 29, 2025, Plaintiffs filed a request for leave to withdraw pending motions for a..."
+    },
+    "source": "",
+    "target": "This is a case about sanctuary city policies in Illinois. On January 25, 2025, Organized Communities Against Deportation, Brighton Park Neighborhood Council, Illinois Coalition for Immigrant and Refugee Rights, and Raise the Floor Alliance filed this lawsuit in the United States District Court for the Northern District of Illinois, Eastern Division. These plaintiffs are Chicago-based organizations that provide support to immigrant communities and are leaders in the national Sanctuary City Movement. They brought this action against the Acting Secretary of the U.S. Department of Homeland Security (DHS), Acting Director of Immigration and Customs Enforcement (ICE), and ICE under the First Amendment of the U.S. Constitution, 28 U.S.C. \u00a7 2201 (Declaration of Rights), and 5 U.S.C. \u00a7 706(2)(A), (B) (The Administrative Procedure Act). Plaintiffs sought a declaration that the federal actions here, including plans for ICE to raid Chicago and \u201csquash the Sanctuary City Movement,\u201d constituted a violation of Plaintiffs\u2019 First Amendment rights, an injunction permanently enjoining Defendants from threatening and/or executing Chicago-based immigration raids, and an order setting aside the Defendant\u2019s policy to conduct immigration raids in Chicago for the purpose of targeting and ultimately destroying the Sanctuary City Movement.\n\nOn that same day, Plaintiffs also filed a Motion for a Preliminary Injunction and Temporary Restraining Order to enjoin Defendants from threatening and/or executing Chicago-based immigration raids, claiming that they and the communities they represented would be irreparably harmed. Honorable Edmond E. Chang served as emergency judge before the case was assigned to the Honorable John F. Kness and the Honorable M. David Weisman as magistrate judge.\n\nIn an amended complaint, filed on January 26, 2025, Plaintiffs added the President of the U.S., new Secretary of DHS, Acting Deputy Attorney General, Border Czar, DHS, and the Department of Justice (DOJ) as Defendants in the lawsuit.\n\nHowever, on January 29, 2025, Plaintiffs filed a request for leave to withdraw pending motions for a temporary restraining order and preliminary injunction on the basis that the status quo had changed because Defendants had launched ongoing Chicago-based immigration enforcement raids on January 26, 2025. This motion was granted by Judge Kness on January 29, 2025.\n\nOn February 26, 2025, Plaintiffs filed a notice of Voluntary Dismissal, citing the above mentioned change in circumstances. The next day, on February 27, 2025, Judge Kness dismissed the case without prejudice.",
+    "target_paragraph": "However, on January 29, 2025, Plaintiffs filed a request for leave to withdraw pending motions for a temporary restraining order and preliminary injunction on the basis that the status quo had changed because Defendants had launched ongoing Chicago-based immigration enforcement raids on January 26, 2025. This motion was granted by Judge Kness on January 29, 2025.",
+    "target_paragraph_indices": [
+      2023,
+      2388
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2032,
+            2178
+          ],
+          [
+            2329,
+            2388
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 29, 2025: Motion for leave to withdraw pending motions for a temporary restraining order and preliminary injunction granted by Judge Kness.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2023,
+            2328
+          ],
+          [
+            2329,
+            2388
+          ]
+        ],
+        "annotation": {
+          "explanation": "After ICE launched raids on January 26, 2025, plaintiffs moved on January 29 to withdraw their TRO/PI motions due to the changed status quo; Judge Kness granted the withdrawal the same day.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2023,
+            2328
+          ],
+          [
+            2329,
+            2388
+          ]
+        ],
+        "annotation": {
+          "explanation": "Request for leave to withdraw pending TRO and PI motions filed on January 29, 2025 (granted the same day).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2023,
+            2328
+          ],
+          [
+            2329,
+            2388
+          ]
+        ],
+        "annotation": {
+          "explanation": "On January 29, 2025, plaintiffs moved to withdraw the pending TRO/PI motions due to changed circumstances (raids commenced Jan 26); Judge Kness granted the withdrawal the same day.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2023,
+            2388
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 29, 2025: Judge John F. Kness granted plaintiffs' request to withdraw their pending motions for a temporary restraining order and preliminary injunction.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "45975_p4",
+    "metadata": {
+      "case_id": "45975",
+      "paragraph_num": 4,
+      "total_paragraphs": 5,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On February 26, 2025, Plaintiffs filed a notice of Voluntary Dismissal, citing the above mentioned c..."
+    },
+    "source": "",
+    "target": "This is a case about sanctuary city policies in Illinois. On January 25, 2025, Organized Communities Against Deportation, Brighton Park Neighborhood Council, Illinois Coalition for Immigrant and Refugee Rights, and Raise the Floor Alliance filed this lawsuit in the United States District Court for the Northern District of Illinois, Eastern Division. These plaintiffs are Chicago-based organizations that provide support to immigrant communities and are leaders in the national Sanctuary City Movement. They brought this action against the Acting Secretary of the U.S. Department of Homeland Security (DHS), Acting Director of Immigration and Customs Enforcement (ICE), and ICE under the First Amendment of the U.S. Constitution, 28 U.S.C. \u00a7 2201 (Declaration of Rights), and 5 U.S.C. \u00a7 706(2)(A), (B) (The Administrative Procedure Act). Plaintiffs sought a declaration that the federal actions here, including plans for ICE to raid Chicago and \u201csquash the Sanctuary City Movement,\u201d constituted a violation of Plaintiffs\u2019 First Amendment rights, an injunction permanently enjoining Defendants from threatening and/or executing Chicago-based immigration raids, and an order setting aside the Defendant\u2019s policy to conduct immigration raids in Chicago for the purpose of targeting and ultimately destroying the Sanctuary City Movement.\n\nOn that same day, Plaintiffs also filed a Motion for a Preliminary Injunction and Temporary Restraining Order to enjoin Defendants from threatening and/or executing Chicago-based immigration raids, claiming that they and the communities they represented would be irreparably harmed. Honorable Edmond E. Chang served as emergency judge before the case was assigned to the Honorable John F. Kness and the Honorable M. David Weisman as magistrate judge.\n\nIn an amended complaint, filed on January 26, 2025, Plaintiffs added the President of the U.S., new Secretary of DHS, Acting Deputy Attorney General, Border Czar, DHS, and the Department of Justice (DOJ) as Defendants in the lawsuit.\n\nHowever, on January 29, 2025, Plaintiffs filed a request for leave to withdraw pending motions for a temporary restraining order and preliminary injunction on the basis that the status quo had changed because Defendants had launched ongoing Chicago-based immigration enforcement raids on January 26, 2025. This motion was granted by Judge Kness on January 29, 2025.\n\nOn February 26, 2025, Plaintiffs filed a notice of Voluntary Dismissal, citing the above mentioned change in circumstances. The next day, on February 27, 2025, Judge Kness dismissed the case without prejudice.",
+    "target_paragraph": "On February 26, 2025, Plaintiffs filed a notice of Voluntary Dismissal, citing the above mentioned change in circumstances. The next day, on February 27, 2025, Judge Kness dismissed the case without prejudice.",
+    "target_paragraph_indices": [
+      2390,
+      2599
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2514,
+            2599
+          ]
+        ],
+        "annotation": {
+          "explanation": "February 27, 2025: Judge Kness dismissed the case without prejudice.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2390,
+            2513
+          ],
+          [
+            2514,
+            2599
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs voluntarily dismissed the case on February 26, 2025, due to changed circumstances; Judge Kness dismissed without prejudice on February 27, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2390,
+            2513
+          ]
+        ],
+        "annotation": {
+          "explanation": "Notice of Voluntary Dismissal filed on February 26, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2390,
+            2513
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a notice of voluntary dismissal on February 26, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2514,
+            2599
+          ]
+        ],
+        "annotation": {
+          "explanation": "On February 27, 2025, Judge Kness dismissed the case without prejudice.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2390,
+            2599
+          ]
+        ],
+        "annotation": {
+          "explanation": "February 27, 2025: Judge John F. Kness dismissed the case without prejudice following plaintiffs' notice of voluntary dismissal.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  }
+]

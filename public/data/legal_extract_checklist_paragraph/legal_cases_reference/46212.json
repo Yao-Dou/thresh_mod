@@ -1,0 +1,615 @@
+[
+  {
+    "id": "46212_p0",
+    "metadata": {
+      "case_id": "46212",
+      "paragraph_num": 0,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenges sexual abuse in shelter care facilities for unaccompanied minors."
+    },
+    "source": "",
+    "target": "This case challenges sexual abuse in shelter care facilities for unaccompanied minors.\n\nOn July 14, 2024, the United States of America filed this lawsuit in the Western District of Texas against Southwest Key Programs, Inc., a nonprofit organization that provides housing and services to unaccompanied children who have entered the United States. Plaintiff alleged that from at least 2015 through at least 2023, multiple Southwest Key employees subjected unaccompanied children in their care to repeated sexual abuse, harassment, and misconduct and a hostile housing environment, including severe sexual abuse and rape, solicitation of sex acts, solicitation of nude photos, sexual comments and gestures, and inappropriate touching. Plaintiff alleged that these actions constituted a pattern or practice of discrimination in housing because of sex in violation of the Fair Housing Act, 42 U.S.C. \u00a7 3604(a); discriminated in the terms, conditions, or privileges of the rental or sale of dwellings, or in the provision of services or facilities in connection therewith, because of sex, in violation of 42 U.S.C. \u00a7 3604(b); made statements with respect to the sale or rental of dwellings that indicate a preference, a limitation, or discrimination based on sex, in violation 42 U.S.C. \u00a7 3604(c); and coerced, intimidated, threatened, or interfered with persons in the exercise or enjoyment of, or on account of their having exercised or enjoyed, their rights granted or protected by the Fair Housing Act, in violation of 42 U.S.C. \u00a7 3617. 74. 75. \u00a7 3602(b).\n\nPlaintiff sought declaratory and injunctive relief enjoining Defendant from continuing to engage in any discriminatory housing practice and engaging in sexual harassment; interfering with or threatening to take any action against any person engaged in the exercise or enjoyment of rights granted or protected by the Fair Housing Act; failing or refusing to take such affirmative steps to restore the victims; and failing or refusing to take affirmative steps to prevent the recurrence of any discriminatory conduct. Plaintiff also sought monetary damages to each person aggrieved by Southwest Key\u2019s discriminatory conduct.\n\nThe case was assigned to Judge Alan D Albright.\n\nOn September 13, 2024, Defendant filed a motion to dismiss. Defendant argued that the Fair Housing Act does not apply to shelters; shelter care facilities are not \u201chomes\u201d under the definition of the Fair Housing Act; and the alleged conduct did not involve the initial provision of housing, or a \u201csale\u201d or \u201crental.\u201d\n\nBefore the court could rule on the motion to dismiss, on March 12, 2025, Plaintiff - now controlled by the Trump Administration - moved to dismiss the lawsuit with prejudice. This action followed the Department of Health and Human Services (HHS) decision to stop placing unaccompanied children in Southwest Key shelters and to review the organization's federal grants. HHS stated that all children had been moved to other shelters due to ongoing concerns. According to Attorney General Pam Bondi, \u201cSecuring our border and protecting children from abuse are among the most critical missions of the Department of Justice and the Trump administration\u2026under the border policies of the previous administration, bad actors were incentivized to exploit children and break our laws: this ends now\u201d (HHS, DOJ Move to End Sexual Abuse and Harassment of Unaccompanied Alien Children in Shelters Operated by Southwest Key Programs [https://www.justice.gov/opa/pr/hhs-doj-move-end-sexual-abuse-and-harassment-unaccompanied-alien-children-shelters-operated?utm_source=chatgpt.com]).\n\nThe case was closed on March 12, 2025.",
+    "target_paragraph": "This case challenges sexual abuse in shelter care facilities for unaccompanied minors.",
+    "target_paragraph_indices": [
+      0,
+      86
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            86
+          ],
+          [
+            88,
+            346
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 14, 2024, the United States filed suit in the Western District of Texas against Southwest Key Programs, Inc., a nonprofit operating shelter care facilities that provide housing and services to unaccompanied minors who have entered the United States.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46212_p1",
+    "metadata": {
+      "case_id": "46212",
+      "paragraph_num": 1,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 14, 2024, the United States of America filed this lawsuit in the Western District of Texas a..."
+    },
+    "source": "",
+    "target": "This case challenges sexual abuse in shelter care facilities for unaccompanied minors.\n\nOn July 14, 2024, the United States of America filed this lawsuit in the Western District of Texas against Southwest Key Programs, Inc., a nonprofit organization that provides housing and services to unaccompanied children who have entered the United States. Plaintiff alleged that from at least 2015 through at least 2023, multiple Southwest Key employees subjected unaccompanied children in their care to repeated sexual abuse, harassment, and misconduct and a hostile housing environment, including severe sexual abuse and rape, solicitation of sex acts, solicitation of nude photos, sexual comments and gestures, and inappropriate touching. Plaintiff alleged that these actions constituted a pattern or practice of discrimination in housing because of sex in violation of the Fair Housing Act, 42 U.S.C. \u00a7 3604(a); discriminated in the terms, conditions, or privileges of the rental or sale of dwellings, or in the provision of services or facilities in connection therewith, because of sex, in violation of 42 U.S.C. \u00a7 3604(b); made statements with respect to the sale or rental of dwellings that indicate a preference, a limitation, or discrimination based on sex, in violation 42 U.S.C. \u00a7 3604(c); and coerced, intimidated, threatened, or interfered with persons in the exercise or enjoyment of, or on account of their having exercised or enjoyed, their rights granted or protected by the Fair Housing Act, in violation of 42 U.S.C. \u00a7 3617. 74. 75. \u00a7 3602(b).\n\nPlaintiff sought declaratory and injunctive relief enjoining Defendant from continuing to engage in any discriminatory housing practice and engaging in sexual harassment; interfering with or threatening to take any action against any person engaged in the exercise or enjoyment of rights granted or protected by the Fair Housing Act; failing or refusing to take such affirmative steps to restore the victims; and failing or refusing to take affirmative steps to prevent the recurrence of any discriminatory conduct. Plaintiff also sought monetary damages to each person aggrieved by Southwest Key\u2019s discriminatory conduct.\n\nThe case was assigned to Judge Alan D Albright.\n\nOn September 13, 2024, Defendant filed a motion to dismiss. Defendant argued that the Fair Housing Act does not apply to shelters; shelter care facilities are not \u201chomes\u201d under the definition of the Fair Housing Act; and the alleged conduct did not involve the initial provision of housing, or a \u201csale\u201d or \u201crental.\u201d\n\nBefore the court could rule on the motion to dismiss, on March 12, 2025, Plaintiff - now controlled by the Trump Administration - moved to dismiss the lawsuit with prejudice. This action followed the Department of Health and Human Services (HHS) decision to stop placing unaccompanied children in Southwest Key shelters and to review the organization's federal grants. HHS stated that all children had been moved to other shelters due to ongoing concerns. According to Attorney General Pam Bondi, \u201cSecuring our border and protecting children from abuse are among the most critical missions of the Department of Justice and the Trump administration\u2026under the border policies of the previous administration, bad actors were incentivized to exploit children and break our laws: this ends now\u201d (HHS, DOJ Move to End Sexual Abuse and Harassment of Unaccompanied Alien Children in Shelters Operated by Southwest Key Programs [https://www.justice.gov/opa/pr/hhs-doj-move-end-sexual-abuse-and-harassment-unaccompanied-alien-children-shelters-operated?utm_source=chatgpt.com]).\n\nThe case was closed on March 12, 2025.",
+    "target_paragraph": "On July 14, 2024, the United States of America filed this lawsuit in the Western District of Texas against Southwest Key Programs, Inc., a nonprofit organization that provides housing and services to unaccompanied children who have entered the United States. Plaintiff alleged that from at least 2015 through at least 2023, multiple Southwest Key employees subjected unaccompanied children in their care to repeated sexual abuse, harassment, and misconduct and a hostile housing environment, including severe sexual abuse and rape, solicitation of sex acts, solicitation of nude photos, sexual comments and gestures, and inappropriate touching. Plaintiff alleged that these actions constituted a pattern or practice of discrimination in housing because of sex in violation of the Fair Housing Act, 42 U.S.C. \u00a7 3604(a); discriminated in the terms, conditions, or privileges of the rental or sale of dwellings, or in the provision of services or facilities in connection therewith, because of sex, in violation of 42 U.S.C. \u00a7 3604(b); made statements with respect to the sale or rental of dwellings that indicate a preference, a limitation, or discrimination based on sex, in violation 42 U.S.C. \u00a7 3604(c); and coerced, intimidated, threatened, or interfered with persons in the exercise or enjoyment of, or on account of their having exercised or enjoyed, their rights granted or protected by the Fair Housing Act, in violation of 42 U.S.C. \u00a7 3617. 74. 75. \u00a7 3602(b).",
+    "target_paragraph_indices": [
+      88,
+      1554
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            88,
+            346
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 14, 2024",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            733,
+            906
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fair Housing Act \u2014 42 U.S.C. \u00a7 3604(a) (sex discrimination in housing).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            907,
+            1120
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fair Housing Act \u2014 42 U.S.C. \u00a7 3604(b) (discrimination in terms, conditions, privileges, or services/facilities because of sex).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1121,
+            1292
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fair Housing Act \u2014 42 U.S.C. \u00a7 3604(c) (discriminatory statements indicating preference or limitation based on sex).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1293,
+            1535
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fair Housing Act \u2014 42 U.S.C. \u00a7 3617 (coercion, intimidation, threats, or interference with FHA rights).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            848,
+            906
+          ],
+          [
+            1084,
+            1120
+          ],
+          [
+            1259,
+            1292
+          ],
+          [
+            1502,
+            1535
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fair Housing Act (FHA), 42 U.S.C. \u00a7\u00a7 3604(a), 3604(b), 3604(c), 3617",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            88,
+            346
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: United States of America (filed the lawsuit in the Western District of Texas)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            88,
+            346
+          ],
+          [
+            2721,
+            2914
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Southwest Key Programs, Inc., a nonprofit organization that provides housing and services to unaccompanied children who have entered the United States",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            347,
+            732
+          ]
+        ],
+        "annotation": {
+          "explanation": "From at least 2015 to at least 2023, multiple Southwest Key employees allegedly subjected unaccompanied children in their care to repeated sexual abuse and harassment, including rape, solicitation of sex acts and nude photos, sexual comments/gestures, and inappropriate touching, creating a hostile housing environment.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            733,
+            1554
+          ]
+        ],
+        "annotation": {
+          "explanation": "The alleged abuse and harassment were asserted as a pattern or practice of sex-based discrimination in housing under the Fair Housing Act, including violations of 42 U.S.C. \u00a7\u00a7 3604(a), 3604(b), 3604(c), and 3617.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            88,
+            346
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed by the United States on July 14, 2024, initiating the case in the Western District of Texas against Southwest Key Programs, Inc.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "46212_p2",
+    "metadata": {
+      "case_id": "46212",
+      "paragraph_num": 2,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiff sought declaratory and injunctive relief enjoining Defendant from continuing to engage in ..."
+    },
+    "source": "",
+    "target": "This case challenges sexual abuse in shelter care facilities for unaccompanied minors.\n\nOn July 14, 2024, the United States of America filed this lawsuit in the Western District of Texas against Southwest Key Programs, Inc., a nonprofit organization that provides housing and services to unaccompanied children who have entered the United States. Plaintiff alleged that from at least 2015 through at least 2023, multiple Southwest Key employees subjected unaccompanied children in their care to repeated sexual abuse, harassment, and misconduct and a hostile housing environment, including severe sexual abuse and rape, solicitation of sex acts, solicitation of nude photos, sexual comments and gestures, and inappropriate touching. Plaintiff alleged that these actions constituted a pattern or practice of discrimination in housing because of sex in violation of the Fair Housing Act, 42 U.S.C. \u00a7 3604(a); discriminated in the terms, conditions, or privileges of the rental or sale of dwellings, or in the provision of services or facilities in connection therewith, because of sex, in violation of 42 U.S.C. \u00a7 3604(b); made statements with respect to the sale or rental of dwellings that indicate a preference, a limitation, or discrimination based on sex, in violation 42 U.S.C. \u00a7 3604(c); and coerced, intimidated, threatened, or interfered with persons in the exercise or enjoyment of, or on account of their having exercised or enjoyed, their rights granted or protected by the Fair Housing Act, in violation of 42 U.S.C. \u00a7 3617. 74. 75. \u00a7 3602(b).\n\nPlaintiff sought declaratory and injunctive relief enjoining Defendant from continuing to engage in any discriminatory housing practice and engaging in sexual harassment; interfering with or threatening to take any action against any person engaged in the exercise or enjoyment of rights granted or protected by the Fair Housing Act; failing or refusing to take such affirmative steps to restore the victims; and failing or refusing to take affirmative steps to prevent the recurrence of any discriminatory conduct. Plaintiff also sought monetary damages to each person aggrieved by Southwest Key\u2019s discriminatory conduct.\n\nThe case was assigned to Judge Alan D Albright.\n\nOn September 13, 2024, Defendant filed a motion to dismiss. Defendant argued that the Fair Housing Act does not apply to shelters; shelter care facilities are not \u201chomes\u201d under the definition of the Fair Housing Act; and the alleged conduct did not involve the initial provision of housing, or a \u201csale\u201d or \u201crental.\u201d\n\nBefore the court could rule on the motion to dismiss, on March 12, 2025, Plaintiff - now controlled by the Trump Administration - moved to dismiss the lawsuit with prejudice. This action followed the Department of Health and Human Services (HHS) decision to stop placing unaccompanied children in Southwest Key shelters and to review the organization's federal grants. HHS stated that all children had been moved to other shelters due to ongoing concerns. According to Attorney General Pam Bondi, \u201cSecuring our border and protecting children from abuse are among the most critical missions of the Department of Justice and the Trump administration\u2026under the border policies of the previous administration, bad actors were incentivized to exploit children and break our laws: this ends now\u201d (HHS, DOJ Move to End Sexual Abuse and Harassment of Unaccompanied Alien Children in Shelters Operated by Southwest Key Programs [https://www.justice.gov/opa/pr/hhs-doj-move-end-sexual-abuse-and-harassment-unaccompanied-alien-children-shelters-operated?utm_source=chatgpt.com]).\n\nThe case was closed on March 12, 2025.",
+    "target_paragraph": "Plaintiff sought declaratory and injunctive relief enjoining Defendant from continuing to engage in any discriminatory housing practice and engaging in sexual harassment; interfering with or threatening to take any action against any person engaged in the exercise or enjoyment of rights granted or protected by the Fair Housing Act; failing or refusing to take such affirmative steps to restore the victims; and failing or refusing to take affirmative steps to prevent the recurrence of any discriminatory conduct. Plaintiff also sought monetary damages to each person aggrieved by Southwest Key\u2019s discriminatory conduct.",
+    "target_paragraph_indices": [
+      1556,
+      2178
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1556,
+            2071
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1556,
+            2071
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief enjoining Defendant from: continuing discriminatory housing practices and sexual harassment; interfering with or threatening any person exercising Fair Housing Act rights; failing or refusing to take affirmative steps to restore victims; and failing or refusing to take affirmative steps to prevent recurrence of discriminatory conduct.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2072,
+            2178
+          ]
+        ],
+        "annotation": {
+          "explanation": "Monetary damages to each person aggrieved by Southwest Key\u2019s discriminatory conduct.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1556,
+            2178
+          ]
+        ],
+        "annotation": {
+          "explanation": "The United States sought declaratory and injunctive relief to stop discriminatory housing practices and sexual harassment, protect Fair Housing Act rights, require restorative and preventive measures, and sought monetary damages for each aggrieved person.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46212_p3",
+    "metadata": {
+      "case_id": "46212",
+      "paragraph_num": 3,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case was assigned to Judge Alan D Albright."
+    },
+    "source": "",
+    "target": "This case challenges sexual abuse in shelter care facilities for unaccompanied minors.\n\nOn July 14, 2024, the United States of America filed this lawsuit in the Western District of Texas against Southwest Key Programs, Inc., a nonprofit organization that provides housing and services to unaccompanied children who have entered the United States. Plaintiff alleged that from at least 2015 through at least 2023, multiple Southwest Key employees subjected unaccompanied children in their care to repeated sexual abuse, harassment, and misconduct and a hostile housing environment, including severe sexual abuse and rape, solicitation of sex acts, solicitation of nude photos, sexual comments and gestures, and inappropriate touching. Plaintiff alleged that these actions constituted a pattern or practice of discrimination in housing because of sex in violation of the Fair Housing Act, 42 U.S.C. \u00a7 3604(a); discriminated in the terms, conditions, or privileges of the rental or sale of dwellings, or in the provision of services or facilities in connection therewith, because of sex, in violation of 42 U.S.C. \u00a7 3604(b); made statements with respect to the sale or rental of dwellings that indicate a preference, a limitation, or discrimination based on sex, in violation 42 U.S.C. \u00a7 3604(c); and coerced, intimidated, threatened, or interfered with persons in the exercise or enjoyment of, or on account of their having exercised or enjoyed, their rights granted or protected by the Fair Housing Act, in violation of 42 U.S.C. \u00a7 3617. 74. 75. \u00a7 3602(b).\n\nPlaintiff sought declaratory and injunctive relief enjoining Defendant from continuing to engage in any discriminatory housing practice and engaging in sexual harassment; interfering with or threatening to take any action against any person engaged in the exercise or enjoyment of rights granted or protected by the Fair Housing Act; failing or refusing to take such affirmative steps to restore the victims; and failing or refusing to take affirmative steps to prevent the recurrence of any discriminatory conduct. Plaintiff also sought monetary damages to each person aggrieved by Southwest Key\u2019s discriminatory conduct.\n\nThe case was assigned to Judge Alan D Albright.\n\nOn September 13, 2024, Defendant filed a motion to dismiss. Defendant argued that the Fair Housing Act does not apply to shelters; shelter care facilities are not \u201chomes\u201d under the definition of the Fair Housing Act; and the alleged conduct did not involve the initial provision of housing, or a \u201csale\u201d or \u201crental.\u201d\n\nBefore the court could rule on the motion to dismiss, on March 12, 2025, Plaintiff - now controlled by the Trump Administration - moved to dismiss the lawsuit with prejudice. This action followed the Department of Health and Human Services (HHS) decision to stop placing unaccompanied children in Southwest Key shelters and to review the organization's federal grants. HHS stated that all children had been moved to other shelters due to ongoing concerns. According to Attorney General Pam Bondi, \u201cSecuring our border and protecting children from abuse are among the most critical missions of the Department of Justice and the Trump administration\u2026under the border policies of the previous administration, bad actors were incentivized to exploit children and break our laws: this ends now\u201d (HHS, DOJ Move to End Sexual Abuse and Harassment of Unaccompanied Alien Children in Shelters Operated by Southwest Key Programs [https://www.justice.gov/opa/pr/hhs-doj-move-end-sexual-abuse-and-harassment-unaccompanied-alien-children-shelters-operated?utm_source=chatgpt.com]).\n\nThe case was closed on March 12, 2025.",
+    "target_paragraph": "The case was assigned to Judge Alan D Albright.",
+    "target_paragraph_indices": [
+      2180,
+      2227
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            2180,
+            2227
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alan D Albright",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2180,
+            2227
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case was assigned to Judge Alan D. Albright.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46212_p4",
+    "metadata": {
+      "case_id": "46212",
+      "paragraph_num": 4,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On September 13, 2024, Defendant filed a motion to dismiss. Defendant argued that the Fair Housing A..."
+    },
+    "source": "",
+    "target": "This case challenges sexual abuse in shelter care facilities for unaccompanied minors.\n\nOn July 14, 2024, the United States of America filed this lawsuit in the Western District of Texas against Southwest Key Programs, Inc., a nonprofit organization that provides housing and services to unaccompanied children who have entered the United States. Plaintiff alleged that from at least 2015 through at least 2023, multiple Southwest Key employees subjected unaccompanied children in their care to repeated sexual abuse, harassment, and misconduct and a hostile housing environment, including severe sexual abuse and rape, solicitation of sex acts, solicitation of nude photos, sexual comments and gestures, and inappropriate touching. Plaintiff alleged that these actions constituted a pattern or practice of discrimination in housing because of sex in violation of the Fair Housing Act, 42 U.S.C. \u00a7 3604(a); discriminated in the terms, conditions, or privileges of the rental or sale of dwellings, or in the provision of services or facilities in connection therewith, because of sex, in violation of 42 U.S.C. \u00a7 3604(b); made statements with respect to the sale or rental of dwellings that indicate a preference, a limitation, or discrimination based on sex, in violation 42 U.S.C. \u00a7 3604(c); and coerced, intimidated, threatened, or interfered with persons in the exercise or enjoyment of, or on account of their having exercised or enjoyed, their rights granted or protected by the Fair Housing Act, in violation of 42 U.S.C. \u00a7 3617. 74. 75. \u00a7 3602(b).\n\nPlaintiff sought declaratory and injunctive relief enjoining Defendant from continuing to engage in any discriminatory housing practice and engaging in sexual harassment; interfering with or threatening to take any action against any person engaged in the exercise or enjoyment of rights granted or protected by the Fair Housing Act; failing or refusing to take such affirmative steps to restore the victims; and failing or refusing to take affirmative steps to prevent the recurrence of any discriminatory conduct. Plaintiff also sought monetary damages to each person aggrieved by Southwest Key\u2019s discriminatory conduct.\n\nThe case was assigned to Judge Alan D Albright.\n\nOn September 13, 2024, Defendant filed a motion to dismiss. Defendant argued that the Fair Housing Act does not apply to shelters; shelter care facilities are not \u201chomes\u201d under the definition of the Fair Housing Act; and the alleged conduct did not involve the initial provision of housing, or a \u201csale\u201d or \u201crental.\u201d\n\nBefore the court could rule on the motion to dismiss, on March 12, 2025, Plaintiff - now controlled by the Trump Administration - moved to dismiss the lawsuit with prejudice. This action followed the Department of Health and Human Services (HHS) decision to stop placing unaccompanied children in Southwest Key shelters and to review the organization's federal grants. HHS stated that all children had been moved to other shelters due to ongoing concerns. According to Attorney General Pam Bondi, \u201cSecuring our border and protecting children from abuse are among the most critical missions of the Department of Justice and the Trump administration\u2026under the border policies of the previous administration, bad actors were incentivized to exploit children and break our laws: this ends now\u201d (HHS, DOJ Move to End Sexual Abuse and Harassment of Unaccompanied Alien Children in Shelters Operated by Southwest Key Programs [https://www.justice.gov/opa/pr/hhs-doj-move-end-sexual-abuse-and-harassment-unaccompanied-alien-children-shelters-operated?utm_source=chatgpt.com]).\n\nThe case was closed on March 12, 2025.",
+    "target_paragraph": "On September 13, 2024, Defendant filed a motion to dismiss. Defendant argued that the Fair Housing Act does not apply to shelters; shelter care facilities are not \u201chomes\u201d under the definition of the Fair Housing Act; and the alleged conduct did not involve the initial provision of housing, or a \u201csale\u201d or \u201crental.\u201d",
+    "target_paragraph_indices": [
+      2229,
+      2544
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2229,
+            2288
+          ],
+          [
+            2289,
+            2544
+          ]
+        ],
+        "annotation": {
+          "explanation": "Southwest Key moved to dismiss, arguing the FHA does not apply to shelters because shelter care facilities are not homes and the alleged conduct did not involve a sale or rental.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2229,
+            2544
+          ],
+          [
+            2546,
+            2720
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant\u2019s motion to dismiss filed on September 13, 2024; arguments: FHA does not apply to shelters; shelters are not \u201chomes\u201d; alleged conduct did not involve initial provision of housing or a sale/rental. No ruling issued before the case was later dismissed.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2229,
+            2288
+          ],
+          [
+            2546,
+            2720
+          ]
+        ],
+        "annotation": {
+          "explanation": "No ruling was issued on Defendant\u2019s motion to dismiss (the court did not rule before the case ended).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46212_p5",
+    "metadata": {
+      "case_id": "46212",
+      "paragraph_num": 5,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Before the court could rule on the motion to dismiss, on March 12, 2025, Plaintiff - now controlled ..."
+    },
+    "source": "",
+    "target": "This case challenges sexual abuse in shelter care facilities for unaccompanied minors.\n\nOn July 14, 2024, the United States of America filed this lawsuit in the Western District of Texas against Southwest Key Programs, Inc., a nonprofit organization that provides housing and services to unaccompanied children who have entered the United States. Plaintiff alleged that from at least 2015 through at least 2023, multiple Southwest Key employees subjected unaccompanied children in their care to repeated sexual abuse, harassment, and misconduct and a hostile housing environment, including severe sexual abuse and rape, solicitation of sex acts, solicitation of nude photos, sexual comments and gestures, and inappropriate touching. Plaintiff alleged that these actions constituted a pattern or practice of discrimination in housing because of sex in violation of the Fair Housing Act, 42 U.S.C. \u00a7 3604(a); discriminated in the terms, conditions, or privileges of the rental or sale of dwellings, or in the provision of services or facilities in connection therewith, because of sex, in violation of 42 U.S.C. \u00a7 3604(b); made statements with respect to the sale or rental of dwellings that indicate a preference, a limitation, or discrimination based on sex, in violation 42 U.S.C. \u00a7 3604(c); and coerced, intimidated, threatened, or interfered with persons in the exercise or enjoyment of, or on account of their having exercised or enjoyed, their rights granted or protected by the Fair Housing Act, in violation of 42 U.S.C. \u00a7 3617. 74. 75. \u00a7 3602(b).\n\nPlaintiff sought declaratory and injunctive relief enjoining Defendant from continuing to engage in any discriminatory housing practice and engaging in sexual harassment; interfering with or threatening to take any action against any person engaged in the exercise or enjoyment of rights granted or protected by the Fair Housing Act; failing or refusing to take such affirmative steps to restore the victims; and failing or refusing to take affirmative steps to prevent the recurrence of any discriminatory conduct. Plaintiff also sought monetary damages to each person aggrieved by Southwest Key\u2019s discriminatory conduct.\n\nThe case was assigned to Judge Alan D Albright.\n\nOn September 13, 2024, Defendant filed a motion to dismiss. Defendant argued that the Fair Housing Act does not apply to shelters; shelter care facilities are not \u201chomes\u201d under the definition of the Fair Housing Act; and the alleged conduct did not involve the initial provision of housing, or a \u201csale\u201d or \u201crental.\u201d\n\nBefore the court could rule on the motion to dismiss, on March 12, 2025, Plaintiff - now controlled by the Trump Administration - moved to dismiss the lawsuit with prejudice. This action followed the Department of Health and Human Services (HHS) decision to stop placing unaccompanied children in Southwest Key shelters and to review the organization's federal grants. HHS stated that all children had been moved to other shelters due to ongoing concerns. According to Attorney General Pam Bondi, \u201cSecuring our border and protecting children from abuse are among the most critical missions of the Department of Justice and the Trump administration\u2026under the border policies of the previous administration, bad actors were incentivized to exploit children and break our laws: this ends now\u201d (HHS, DOJ Move to End Sexual Abuse and Harassment of Unaccompanied Alien Children in Shelters Operated by Southwest Key Programs [https://www.justice.gov/opa/pr/hhs-doj-move-end-sexual-abuse-and-harassment-unaccompanied-alien-children-shelters-operated?utm_source=chatgpt.com]).\n\nThe case was closed on March 12, 2025.",
+    "target_paragraph": "Before the court could rule on the motion to dismiss, on March 12, 2025, Plaintiff - now controlled by the Trump Administration - moved to dismiss the lawsuit with prejudice. This action followed the Department of Health and Human Services (HHS) decision to stop placing unaccompanied children in Southwest Key shelters and to review the organization's federal grants. HHS stated that all children had been moved to other shelters due to ongoing concerns. According to Attorney General Pam Bondi, \u201cSecuring our border and protecting children from abuse are among the most critical missions of the Department of Justice and the Trump administration\u2026under the border policies of the previous administration, bad actors were incentivized to exploit children and break our laws: this ends now\u201d (HHS, DOJ Move to End Sexual Abuse and Harassment of Unaccompanied Alien Children in Shelters Operated by Southwest Key Programs [https://www.justice.gov/opa/pr/hhs-doj-move-end-sexual-abuse-and-harassment-unaccompanied-alien-children-shelters-operated?utm_source=chatgpt.com]).",
+    "target_paragraph_indices": [
+      2546,
+      3614
+    ],
+    "edits": [
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            2546,
+            2720
+          ],
+          [
+            3616,
+            3654
+          ]
+        ],
+        "annotation": {
+          "explanation": "[No].",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2721,
+            2914
+          ],
+          [
+            2915,
+            3001
+          ]
+        ],
+        "annotation": {
+          "explanation": "HHS stopped placing unaccompanied children in Southwest Key shelters, initiated a review of the organization\u2019s federal grants, and moved all children to other shelters due to ongoing concerns.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3002,
+            3614
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorney General Pam Bondi publicly characterized the administration\u2019s actions as prioritizing protection of children and border security, criticizing prior policies as enabling exploitation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2546,
+            2720
+          ],
+          [
+            3616,
+            3654
+          ]
+        ],
+        "annotation": {
+          "explanation": "Before a ruling on the motion to dismiss, the United States moved to dismiss the case with prejudice on March 12, 2025, and the case closed the same day.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2546,
+            2720
+          ],
+          [
+            3616,
+            3654
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff\u2019s motion to dismiss with prejudice filed March 12, 2025; the case was closed the same day.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2600,
+            2720
+          ],
+          [
+            3616,
+            3654
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case closed on March 12, 2025 following Plaintiff\u2019s motion to dismiss with prejudice.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46212_p6",
+    "metadata": {
+      "case_id": "46212",
+      "paragraph_num": 6,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case was closed on March 12, 2025."
+    },
+    "source": "",
+    "target": "This case challenges sexual abuse in shelter care facilities for unaccompanied minors.\n\nOn July 14, 2024, the United States of America filed this lawsuit in the Western District of Texas against Southwest Key Programs, Inc., a nonprofit organization that provides housing and services to unaccompanied children who have entered the United States. Plaintiff alleged that from at least 2015 through at least 2023, multiple Southwest Key employees subjected unaccompanied children in their care to repeated sexual abuse, harassment, and misconduct and a hostile housing environment, including severe sexual abuse and rape, solicitation of sex acts, solicitation of nude photos, sexual comments and gestures, and inappropriate touching. Plaintiff alleged that these actions constituted a pattern or practice of discrimination in housing because of sex in violation of the Fair Housing Act, 42 U.S.C. \u00a7 3604(a); discriminated in the terms, conditions, or privileges of the rental or sale of dwellings, or in the provision of services or facilities in connection therewith, because of sex, in violation of 42 U.S.C. \u00a7 3604(b); made statements with respect to the sale or rental of dwellings that indicate a preference, a limitation, or discrimination based on sex, in violation 42 U.S.C. \u00a7 3604(c); and coerced, intimidated, threatened, or interfered with persons in the exercise or enjoyment of, or on account of their having exercised or enjoyed, their rights granted or protected by the Fair Housing Act, in violation of 42 U.S.C. \u00a7 3617. 74. 75. \u00a7 3602(b).\n\nPlaintiff sought declaratory and injunctive relief enjoining Defendant from continuing to engage in any discriminatory housing practice and engaging in sexual harassment; interfering with or threatening to take any action against any person engaged in the exercise or enjoyment of rights granted or protected by the Fair Housing Act; failing or refusing to take such affirmative steps to restore the victims; and failing or refusing to take affirmative steps to prevent the recurrence of any discriminatory conduct. Plaintiff also sought monetary damages to each person aggrieved by Southwest Key\u2019s discriminatory conduct.\n\nThe case was assigned to Judge Alan D Albright.\n\nOn September 13, 2024, Defendant filed a motion to dismiss. Defendant argued that the Fair Housing Act does not apply to shelters; shelter care facilities are not \u201chomes\u201d under the definition of the Fair Housing Act; and the alleged conduct did not involve the initial provision of housing, or a \u201csale\u201d or \u201crental.\u201d\n\nBefore the court could rule on the motion to dismiss, on March 12, 2025, Plaintiff - now controlled by the Trump Administration - moved to dismiss the lawsuit with prejudice. This action followed the Department of Health and Human Services (HHS) decision to stop placing unaccompanied children in Southwest Key shelters and to review the organization's federal grants. HHS stated that all children had been moved to other shelters due to ongoing concerns. According to Attorney General Pam Bondi, \u201cSecuring our border and protecting children from abuse are among the most critical missions of the Department of Justice and the Trump administration\u2026under the border policies of the previous administration, bad actors were incentivized to exploit children and break our laws: this ends now\u201d (HHS, DOJ Move to End Sexual Abuse and Harassment of Unaccompanied Alien Children in Shelters Operated by Southwest Key Programs [https://www.justice.gov/opa/pr/hhs-doj-move-end-sexual-abuse-and-harassment-unaccompanied-alien-children-shelters-operated?utm_source=chatgpt.com]).\n\nThe case was closed on March 12, 2025.",
+    "target_paragraph": "The case was closed on March 12, 2025.",
+    "target_paragraph_indices": [
+      3616,
+      3654
+    ],
+    "edits": []
+  }
+]

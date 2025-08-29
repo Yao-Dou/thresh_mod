@@ -1,0 +1,721 @@
+[
+  {
+    "id": "46014_p0",
+    "metadata": {
+      "case_id": "46014",
+      "paragraph_num": 0,
+      "total_paragraphs": 3,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is about alleged antisemitism at Harvard College. On May 22, 2024, the Louis D. Brandeis C..."
+    },
+    "source": "",
+    "target": "This case is about alleged antisemitism at Harvard College. On May 22, 2024, the Louis D. Brandeis Center for Human Rights (\u201cBrandeis Center\u201d), the Jewish Americans for Fairness in Education (\u201cJAFE\u201d) and Harvard graduate students brought this lawsuit in the United States District Court for the District of Massachusetts against Harvard. The plaintiffs alleged that Harvard failed to adequately protect its Jewish and Israeli students from discrimination; they brought claims under Title VI for direct discrimination, a hostile educational environment, and retaliation. The plaintiffs sought declaratory and injunctive relief. The case was assigned to Judge Richard E. Sterns.\n\nThe plaintiffs alleged that antisemitism had become widespread at Harvard in recent years, particularly following October 7, 2023, and that Harvard had not done enough to address it. Specifically, the complaint alleged that Harvard students and professors had frequently engaged in antisemitic speech, creating a hostile environment for Jewish and Israeli students, and that one student had been harassed and assaulted due to his Jewish and/or Israeli heritage. The complaint also alleged that an investigation commissioned by Harvard had concluded that a professor discriminated against several Jewish Israeli students because they submitted a project about the state of Israel. According to the complaint, the Brandeis Center and affected students had previously raised grievances with Harvard administrators, but Harvard had failed to respond effectively to these complaints.\n\nOn January 21, 2025, the parties reached a mutual agreement for dismissal and issued a joint press release outlining the terms of their private settlement. As part of the agreement, Harvard committed to implementing several measures aimed at reducing antisemitism on campus. Harvard agreed to adopt the International Holocaust Remembrance Alliance's definition of antisemitism and apply it when evaluating allegations of antisemitic discrimination. Furthermore, Harvard pledged to publish a Frequently Asked Questions (FAQ) document clarifying that Jewish and Israeli identities are protected under Harvard's Non-Discrimination and Anti-Bullying Policies. The document will also outline behaviors that may violate these policies. In addition to other provisions, Harvard committed to enhancing its reporting procedures for allegations of antisemitism on campus. To ensure the effective implementation of these measures, Harvard agreed to establish a new position within the Office for Community Conduct to oversee antisemitism complaints and manage the preparation of relevant annual reports. The settlement included additional undisclosed monetary terms. As part of the settlement, Harvard did not admit to any wrongdoing or liability. The case is now closed.",
+    "target_paragraph": "This case is about alleged antisemitism at Harvard College. On May 22, 2024, the Louis D. Brandeis Center for Human Rights (\u201cBrandeis Center\u201d), the Jewish Americans for Fairness in Education (\u201cJAFE\u201d) and Harvard graduate students brought this lawsuit in the United States District Court for the District of Massachusetts against Harvard. The plaintiffs alleged that Harvard failed to adequately protect its Jewish and Israeli students from discrimination; they brought claims under Title VI for direct discrimination, a hostile educational environment, and retaliation. The plaintiffs sought declaratory and injunctive relief. The case was assigned to Judge Richard E. Sterns.",
+    "target_paragraph_indices": [
+      0,
+      676
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            60,
+            337
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 22, 2024",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            456,
+            569
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statute: Title VI \u2014 claims for direct discrimination, hostile educational environment, and retaliation",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            456,
+            569
+          ]
+        ],
+        "annotation": {
+          "explanation": "Title VI",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            570,
+            626
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            570,
+            626
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            627,
+            676
+          ]
+        ],
+        "annotation": {
+          "explanation": "Richard E. Sterns",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            60,
+            337
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as the Louis D. Brandeis Center for Human Rights, the Jewish Americans for Fairness in Education, and Harvard graduate students",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            77,
+            143
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Louis D. Brandeis Center for Human Rights (Brandeis Center)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            144,
+            199
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Jewish Americans for Fairness in Education (JAFE)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            200,
+            250
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Harvard graduate students",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            230,
+            337
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Harvard",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            60,
+            337
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing details: On May 22, 2024, the Brandeis Center, JAFE, and Harvard graduate students sued Harvard in the U.S. District Court for the District of Massachusetts.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            338,
+            569
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims: Plaintiffs alleged failure to protect Jewish and Israeli students, bringing Title VI claims for direct discrimination, hostile educational environment, and retaliation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            570,
+            626
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: Declaratory and injunctive relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            627,
+            676
+          ]
+        ],
+        "annotation": {
+          "explanation": "Assignment: Case assigned to Judge Richard E. Sterns.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            60,
+            337
+          ],
+          [
+            456,
+            569
+          ],
+          [
+            570,
+            626
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on May 22, 2024 in the U.S. District Court for the District of Massachusetts against Harvard; Title VI claims (direct discrimination, hostile environment, retaliation); relief sought included declaratory and injunctive relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": "46014_p1",
+    "metadata": {
+      "case_id": "46014",
+      "paragraph_num": 1,
+      "total_paragraphs": 3,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs alleged that antisemitism had become widespread at Harvard in recent years, particula..."
+    },
+    "source": "",
+    "target": "This case is about alleged antisemitism at Harvard College. On May 22, 2024, the Louis D. Brandeis Center for Human Rights (\u201cBrandeis Center\u201d), the Jewish Americans for Fairness in Education (\u201cJAFE\u201d) and Harvard graduate students brought this lawsuit in the United States District Court for the District of Massachusetts against Harvard. The plaintiffs alleged that Harvard failed to adequately protect its Jewish and Israeli students from discrimination; they brought claims under Title VI for direct discrimination, a hostile educational environment, and retaliation. The plaintiffs sought declaratory and injunctive relief. The case was assigned to Judge Richard E. Sterns.\n\nThe plaintiffs alleged that antisemitism had become widespread at Harvard in recent years, particularly following October 7, 2023, and that Harvard had not done enough to address it. Specifically, the complaint alleged that Harvard students and professors had frequently engaged in antisemitic speech, creating a hostile environment for Jewish and Israeli students, and that one student had been harassed and assaulted due to his Jewish and/or Israeli heritage. The complaint also alleged that an investigation commissioned by Harvard had concluded that a professor discriminated against several Jewish Israeli students because they submitted a project about the state of Israel. According to the complaint, the Brandeis Center and affected students had previously raised grievances with Harvard administrators, but Harvard had failed to respond effectively to these complaints.\n\nOn January 21, 2025, the parties reached a mutual agreement for dismissal and issued a joint press release outlining the terms of their private settlement. As part of the agreement, Harvard committed to implementing several measures aimed at reducing antisemitism on campus. Harvard agreed to adopt the International Holocaust Remembrance Alliance's definition of antisemitism and apply it when evaluating allegations of antisemitic discrimination. Furthermore, Harvard pledged to publish a Frequently Asked Questions (FAQ) document clarifying that Jewish and Israeli identities are protected under Harvard's Non-Discrimination and Anti-Bullying Policies. The document will also outline behaviors that may violate these policies. In addition to other provisions, Harvard committed to enhancing its reporting procedures for allegations of antisemitism on campus. To ensure the effective implementation of these measures, Harvard agreed to establish a new position within the Office for Community Conduct to oversee antisemitism complaints and manage the preparation of relevant annual reports. The settlement included additional undisclosed monetary terms. As part of the settlement, Harvard did not admit to any wrongdoing or liability. The case is now closed.",
+    "target_paragraph": "The plaintiffs alleged that antisemitism had become widespread at Harvard in recent years, particularly following October 7, 2023, and that Harvard had not done enough to address it. Specifically, the complaint alleged that Harvard students and professors had frequently engaged in antisemitic speech, creating a hostile environment for Jewish and Israeli students, and that one student had been harassed and assaulted due to his Jewish and/or Israeli heritage. The complaint also alleged that an investigation commissioned by Harvard had concluded that a professor discriminated against several Jewish Israeli students because they submitted a project about the state of Israel. According to the complaint, the Brandeis Center and affected students had previously raised grievances with Harvard administrators, but Harvard had failed to respond effectively to these complaints.",
+    "target_paragraph_indices": [
+      678,
+      1556
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            678,
+            860
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background/context: Alleged widespread antisemitism at Harvard, especially after October 7, 2023; plaintiffs contend Harvard did not do enough to address it.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            861,
+            1139
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged incidents: Frequent antisemitic speech by students and professors creating a hostile environment; one student allegedly harassed and assaulted due to Jewish and/or Israeli heritage.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1140,
+            1357
+          ]
+        ],
+        "annotation": {
+          "explanation": "Evidence cited: A Harvard-commissioned investigation concluded a professor discriminated against several Jewish Israeli students due to their Israel-related project.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1358,
+            1556
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative history: Brandeis Center and affected students previously raised grievances with administrators; alleged ineffective response by Harvard.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46014_p2",
+    "metadata": {
+      "case_id": "46014",
+      "paragraph_num": 2,
+      "total_paragraphs": 3,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On January 21, 2025, the parties reached a mutual agreement for dismissal and issued a joint press r..."
+    },
+    "source": "",
+    "target": "This case is about alleged antisemitism at Harvard College. On May 22, 2024, the Louis D. Brandeis Center for Human Rights (\u201cBrandeis Center\u201d), the Jewish Americans for Fairness in Education (\u201cJAFE\u201d) and Harvard graduate students brought this lawsuit in the United States District Court for the District of Massachusetts against Harvard. The plaintiffs alleged that Harvard failed to adequately protect its Jewish and Israeli students from discrimination; they brought claims under Title VI for direct discrimination, a hostile educational environment, and retaliation. The plaintiffs sought declaratory and injunctive relief. The case was assigned to Judge Richard E. Sterns.\n\nThe plaintiffs alleged that antisemitism had become widespread at Harvard in recent years, particularly following October 7, 2023, and that Harvard had not done enough to address it. Specifically, the complaint alleged that Harvard students and professors had frequently engaged in antisemitic speech, creating a hostile environment for Jewish and Israeli students, and that one student had been harassed and assaulted due to his Jewish and/or Israeli heritage. The complaint also alleged that an investigation commissioned by Harvard had concluded that a professor discriminated against several Jewish Israeli students because they submitted a project about the state of Israel. According to the complaint, the Brandeis Center and affected students had previously raised grievances with Harvard administrators, but Harvard had failed to respond effectively to these complaints.\n\nOn January 21, 2025, the parties reached a mutual agreement for dismissal and issued a joint press release outlining the terms of their private settlement. As part of the agreement, Harvard committed to implementing several measures aimed at reducing antisemitism on campus. Harvard agreed to adopt the International Holocaust Remembrance Alliance's definition of antisemitism and apply it when evaluating allegations of antisemitic discrimination. Furthermore, Harvard pledged to publish a Frequently Asked Questions (FAQ) document clarifying that Jewish and Israeli identities are protected under Harvard's Non-Discrimination and Anti-Bullying Policies. The document will also outline behaviors that may violate these policies. In addition to other provisions, Harvard committed to enhancing its reporting procedures for allegations of antisemitism on campus. To ensure the effective implementation of these measures, Harvard agreed to establish a new position within the Office for Community Conduct to oversee antisemitism complaints and manage the preparation of relevant annual reports. The settlement included additional undisclosed monetary terms. As part of the settlement, Harvard did not admit to any wrongdoing or liability. The case is now closed.",
+    "target_paragraph": "On January 21, 2025, the parties reached a mutual agreement for dismissal and issued a joint press release outlining the terms of their private settlement. As part of the agreement, Harvard committed to implementing several measures aimed at reducing antisemitism on campus. Harvard agreed to adopt the International Holocaust Remembrance Alliance's definition of antisemitism and apply it when evaluating allegations of antisemitic discrimination. Furthermore, Harvard pledged to publish a Frequently Asked Questions (FAQ) document clarifying that Jewish and Israeli identities are protected under Harvard's Non-Discrimination and Anti-Bullying Policies. The document will also outline behaviors that may violate these policies. In addition to other provisions, Harvard committed to enhancing its reporting procedures for allegations of antisemitism on campus. To ensure the effective implementation of these measures, Harvard agreed to establish a new position within the Office for Community Conduct to oversee antisemitism complaints and manage the preparation of relevant annual reports. The settlement included additional undisclosed monetary terms. As part of the settlement, Harvard did not admit to any wrongdoing or liability. The case is now closed.",
+    "target_paragraph_indices": [
+      1558,
+      2818
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            1558,
+            1713
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 21, 2025: the parties reached a mutual agreement for dismissal and issued a joint press release outlining the terms of their private settlement.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            1558,
+            1713
+          ],
+          [
+            2795,
+            2818
+          ]
+        ],
+        "annotation": {
+          "explanation": "No.",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1558,
+            1713
+          ]
+        ],
+        "annotation": {
+          "explanation": "Outcome: On January 21, 2025, the parties agreed to dismiss the case and announced a private settlement via joint press release.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1833,
+            2006
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement term: Harvard to adopt the IHRA definition of antisemitism and use it in evaluating antisemitism allegations.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2007,
+            2213
+          ],
+          [
+            2214,
+            2287
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement term: Harvard will publish an FAQ clarifying protection of Jewish and Israeli identities under its policies and outlining potentially violative behaviors.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2288,
+            2419
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement term: Harvard to enhance reporting procedures for antisemitism allegations.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2420,
+            2650
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement term: Create a new Office for Community Conduct position to oversee antisemitism complaints and annual report preparation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2651,
+            2713
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement term: Additional undisclosed monetary terms.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2714,
+            2818
+          ]
+        ],
+        "annotation": {
+          "explanation": "No admission of liability; case closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1558,
+            1713
+          ],
+          [
+            2795,
+            2818
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mutual agreement for dismissal on January 21, 2025 pursuant to a private settlement; case closed.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1833,
+            2006
+          ]
+        ],
+        "annotation": {
+          "explanation": "Adopt the IHRA definition of antisemitism and use it to evaluate allegations of antisemitic discrimination.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2020,
+            2213
+          ],
+          [
+            2214,
+            2287
+          ]
+        ],
+        "annotation": {
+          "explanation": "Publish an FAQ that clarifies Jewish and Israeli identities are protected under Harvard\u2019s Non-Discrimination and Anti-Bullying Policies and that outlines behaviors that may violate these policies.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2288,
+            2419
+          ]
+        ],
+        "annotation": {
+          "explanation": "Enhance reporting procedures for allegations of antisemitism on campus.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2420,
+            2650
+          ]
+        ],
+        "annotation": {
+          "explanation": "Establish a new position within the Office for Community Conduct to oversee antisemitism complaints and manage preparation of relevant annual reports.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2651,
+            2713
+          ]
+        ],
+        "annotation": {
+          "explanation": "Provide monetary consideration on terms that are undisclosed.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1833,
+            2006
+          ]
+        ],
+        "annotation": {
+          "explanation": "Adopt the IHRA definition of antisemitism and apply it when evaluating allegations of antisemitic discrimination.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2007,
+            2213
+          ],
+          [
+            2214,
+            2287
+          ]
+        ],
+        "annotation": {
+          "explanation": "Publish an FAQ clarifying that Jewish and Israeli identities are protected under Harvard's Non-Discrimination and Anti-Bullying Policies and outlining behaviors that may violate these policies.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2288,
+            2419
+          ]
+        ],
+        "annotation": {
+          "explanation": "Enhance reporting procedures for allegations of antisemitism on campus.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2420,
+            2650
+          ]
+        ],
+        "annotation": {
+          "explanation": "Establish a new position in the Office for Community Conduct to oversee antisemitism complaints and manage preparation of relevant annual reports.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2651,
+            2713
+          ]
+        ],
+        "annotation": {
+          "explanation": "Additional undisclosed monetary terms.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2714,
+            2794
+          ]
+        ],
+        "annotation": {
+          "explanation": "No admission of wrongdoing or liability by Harvard.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1558,
+            1631
+          ],
+          [
+            2795,
+            2818
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mutual agreement to dismiss the case; case closed.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      }
+    ]
+  }
+]
