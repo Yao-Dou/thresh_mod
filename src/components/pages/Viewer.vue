@@ -73,8 +73,15 @@ export default {
             const isLegalRoute = window.location.pathname.endsWith('/legal') || window.location.pathname.endsWith('/legal/');
             if (isLegalRoute && !dParam) {
                 // Use cid parameter if provided, otherwise default to 46210
-                // Valid case IDs
-                const validCaseIds = ['45696', '46094', '46210', '46234', '46349'];
+                // Valid case IDs - 20 allowed files
+                const validCaseIds = [
+                    // Common 5
+                    '46210', '46094', '43840', '43417', '15426',
+                    // Rest groups
+                    '46083', '43972', '17762', '46239', '45157',
+                    '45858', '12429', '17701', '45737', '46114',
+                    '43966', '46226', '46071', '17268', '46310'
+                ];
                 let caseId = cidParam || '46210';
                 
                 // Validate the case ID
