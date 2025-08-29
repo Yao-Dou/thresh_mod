@@ -1,0 +1,1023 @@
+[
+  {
+    "id": "46114_p0",
+    "metadata": {
+      "case_id": "46114",
+      "paragraph_num": 0,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged the Trump Administration\u2019s shutdown of the Consumer Financial Protection Bureau..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s shutdown of the Consumer Financial Protection Bureau (CFPB). On February 8, 2025, the Acting Director of the CFPB instructed the agency\u2019s employees to \u201cstand down\u201d from performing any work and notified the Federal Reserve that the CFPB would be requesting $0 for the upcoming quarter. Elon Musk was also involved, posting \u201cCFPB RIP\u201d on social media one day before the announcement. This shutdown occurred within the broader context of the Trump Administration\u2019s efforts to dismantle several federal agencies and shrink others.\n\nOn February 12, 2025, the Mayor and City Council of Baltimore, along with the Economic Action Maryland Fund, initiated legal action in the U.S. District Court for the District of Maryland by filing a lawsuit against the CFPB and its Acting Director for violations of the Administrative Procedure Act (APA). The plaintiffs, represented by the Democracy Forward Foundation, sought a temporary restraining order, preliminary and permanent injunctions, and declaratory relief, with the goal of preventing the defunding of the CFPB. They argued that the government\u2019s actions were arbitrary, capricious, an abuse of discretion, and exceeded statutory authority. The plaintiffs also contended that they would be irreparably harmed by the Administration\u2019s unlawful action, as they heavily rely on the CFPB. The case was assigned to Judge Matthew J. Maddox on February 14, 2025.\n\nIn their motion for a temporary restraining order (filed on February 12, 2025), the plaintiffs asked the Court to enjoin the Administration from defunding the CFPB. They argued that such actions violated the APA and would cause imminent injury. With the loss of consumer protection benefits and resources provided by the CFPB, the plaintiffs claimed that they would need to divert resources from other essential functions. The next day, a joint motion was filed to convert the request for a temporary restraining order into a motion for a preliminary injunction, along with a proposed briefing schedule. The motion stipulated that the CFPB would refrain from taking any actions to defund the agency until the motion expires on February 28, 2025.\n\nOn February 19, 2025, 22 states and the District of Columbia filed an amicus brief in support of the plaintiff\u2019s motion for a preliminary injunction. The states argued that the absence of statutorily mandated services provided by the CFPB would harm consumers\u2019 wellbeing as well as states\u2019 own efforts to enforce consumer protection laws.\n\nOn March 14, 2025, the Court denied the plaintiff\u2019s motion for preliminary relief. Judge Maddox stated that because, \u201cPlaintiffs fail to demonstrate a likelihood of success on the merits of their claims, their motion for the extraordinary remedy of preliminary injunctive relief must be denied.\u201d He further explained:\n\nFor the Court to intervene and entangle itself in the Bureau\u2019s administrative processes before the agency has made any final decision about the disposition of its operating and reserve funds\u2014and without clear indication that an unlawful and injurious decision will be made imminently\u2014would exceed the bounds of the Court\u2019s proper role and jurisdiction. It would be especially improper for the Court to risk exceeding its limited role on a preliminary basis.\n\nOn May 29, 2025, the plaintiffs filed a notice of voluntary dismissal of the case. Given the defendants' representation that \"there is no mechanism by which Defendant Consumer Financial Protection Bureau can transfer away money from, or otherwise relinquish control over the money in, the Bureau Fund,\" except for \"internally transferring reserve funds to use for operations,\" the plaintiffs said they wished to dismiss their case. \"If Defendants later transfer Bureau funds in contradiction of their repeated representations about their lawful authorities, abilities, and intent, Plaintiffs will undertake further actions as appropriate.\"\n\nThis case is closed.",
+    "target_paragraph": "This case challenged the Trump Administration\u2019s shutdown of the Consumer Financial Protection Bureau (CFPB). On February 8, 2025, the Acting Director of the CFPB instructed the agency\u2019s employees to \u201cstand down\u201d from performing any work and notified the Federal Reserve that the CFPB would be requesting $0 for the upcoming quarter. Elon Musk was also involved, posting \u201cCFPB RIP\u201d on social media one day before the announcement. This shutdown occurred within the broader context of the Trump Administration\u2019s efforts to dismantle several federal agencies and shrink others.",
+    "target_paragraph_indices": [
+      0,
+      574
+    ],
+    "edits": [
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            108
+          ],
+          [
+            576,
+            882
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Consumer Financial Protection Bureau (CFPB)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            109,
+            332
+          ],
+          [
+            576,
+            882
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Director of the Consumer Financial Protection Bureau (CFPB)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            109,
+            332
+          ]
+        ],
+        "annotation": {
+          "explanation": "On Feb. 8, 2025, the CFPB Acting Director ordered a halt to agency work and told the Federal Reserve the CFPB would request $0 for the next quarter, initiating an effective shutdown/defunding move.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            333,
+            429
+          ]
+        ],
+        "annotation": {
+          "explanation": "Elon Musk posted \u201cCFPB RIP\u201d on social media one day before the Feb. 8, 2025 shutdown announcement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            430,
+            574
+          ]
+        ],
+        "annotation": {
+          "explanation": "The shutdown occurred amid the Trump Administration\u2019s broader efforts to dismantle and shrink federal agencies.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46114_p1",
+    "metadata": {
+      "case_id": "46114",
+      "paragraph_num": 1,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On February 12, 2025, the Mayor and City Council of Baltimore, along with the Economic Action Maryla..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s shutdown of the Consumer Financial Protection Bureau (CFPB). On February 8, 2025, the Acting Director of the CFPB instructed the agency\u2019s employees to \u201cstand down\u201d from performing any work and notified the Federal Reserve that the CFPB would be requesting $0 for the upcoming quarter. Elon Musk was also involved, posting \u201cCFPB RIP\u201d on social media one day before the announcement. This shutdown occurred within the broader context of the Trump Administration\u2019s efforts to dismantle several federal agencies and shrink others.\n\nOn February 12, 2025, the Mayor and City Council of Baltimore, along with the Economic Action Maryland Fund, initiated legal action in the U.S. District Court for the District of Maryland by filing a lawsuit against the CFPB and its Acting Director for violations of the Administrative Procedure Act (APA). The plaintiffs, represented by the Democracy Forward Foundation, sought a temporary restraining order, preliminary and permanent injunctions, and declaratory relief, with the goal of preventing the defunding of the CFPB. They argued that the government\u2019s actions were arbitrary, capricious, an abuse of discretion, and exceeded statutory authority. The plaintiffs also contended that they would be irreparably harmed by the Administration\u2019s unlawful action, as they heavily rely on the CFPB. The case was assigned to Judge Matthew J. Maddox on February 14, 2025.\n\nIn their motion for a temporary restraining order (filed on February 12, 2025), the plaintiffs asked the Court to enjoin the Administration from defunding the CFPB. They argued that such actions violated the APA and would cause imminent injury. With the loss of consumer protection benefits and resources provided by the CFPB, the plaintiffs claimed that they would need to divert resources from other essential functions. The next day, a joint motion was filed to convert the request for a temporary restraining order into a motion for a preliminary injunction, along with a proposed briefing schedule. The motion stipulated that the CFPB would refrain from taking any actions to defund the agency until the motion expires on February 28, 2025.\n\nOn February 19, 2025, 22 states and the District of Columbia filed an amicus brief in support of the plaintiff\u2019s motion for a preliminary injunction. The states argued that the absence of statutorily mandated services provided by the CFPB would harm consumers\u2019 wellbeing as well as states\u2019 own efforts to enforce consumer protection laws.\n\nOn March 14, 2025, the Court denied the plaintiff\u2019s motion for preliminary relief. Judge Maddox stated that because, \u201cPlaintiffs fail to demonstrate a likelihood of success on the merits of their claims, their motion for the extraordinary remedy of preliminary injunctive relief must be denied.\u201d He further explained:\n\nFor the Court to intervene and entangle itself in the Bureau\u2019s administrative processes before the agency has made any final decision about the disposition of its operating and reserve funds\u2014and without clear indication that an unlawful and injurious decision will be made imminently\u2014would exceed the bounds of the Court\u2019s proper role and jurisdiction. It would be especially improper for the Court to risk exceeding its limited role on a preliminary basis.\n\nOn May 29, 2025, the plaintiffs filed a notice of voluntary dismissal of the case. Given the defendants' representation that \"there is no mechanism by which Defendant Consumer Financial Protection Bureau can transfer away money from, or otherwise relinquish control over the money in, the Bureau Fund,\" except for \"internally transferring reserve funds to use for operations,\" the plaintiffs said they wished to dismiss their case. \"If Defendants later transfer Bureau funds in contradiction of their repeated representations about their lawful authorities, abilities, and intent, Plaintiffs will undertake further actions as appropriate.\"\n\nThis case is closed.",
+    "target_paragraph": "On February 12, 2025, the Mayor and City Council of Baltimore, along with the Economic Action Maryland Fund, initiated legal action in the U.S. District Court for the District of Maryland by filing a lawsuit against the CFPB and its Acting Director for violations of the Administrative Procedure Act (APA). The plaintiffs, represented by the Democracy Forward Foundation, sought a temporary restraining order, preliminary and permanent injunctions, and declaratory relief, with the goal of preventing the defunding of the CFPB. They argued that the government\u2019s actions were arbitrary, capricious, an abuse of discretion, and exceeded statutory authority. The plaintiffs also contended that they would be irreparably harmed by the Administration\u2019s unlawful action, as they heavily rely on the CFPB. The case was assigned to Judge Matthew J. Maddox on February 14, 2025.",
+    "target_paragraph_indices": [
+      576,
+      1445
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            576,
+            882
+          ]
+        ],
+        "annotation": {
+          "explanation": "February 12, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            767,
+            882
+          ],
+          [
+            1104,
+            1231
+          ],
+          [
+            1612,
+            1658
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) claim alleging the defunding actions were arbitrary and capricious, an abuse of discretion, and in excess of statutory authority.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            685,
+            882
+          ],
+          [
+            1104,
+            1231
+          ],
+          [
+            1612,
+            1691
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) \u2014 claims that the agency action was arbitrary, capricious, an abuse of discretion, and exceeded statutory authority.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            948,
+            1103
+          ],
+          [
+            1447,
+            1611
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order to enjoin the Administration from defunding the CFPB (preventing the defunding of the CFPB).",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            948,
+            1103
+          ],
+          [
+            1884,
+            2008
+          ],
+          [
+            2194,
+            2343
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction to prevent the defunding of the CFPB.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            1,
+            2,
+            3
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            948,
+            1103
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunction to prevent the defunding of the CFPB.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            948,
+            1103
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief, with the goal of preventing the defunding of the CFPB.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            883,
+            1047
+          ]
+        ],
+        "annotation": {
+          "explanation": "Democracy Forward Foundation",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1375,
+            1445
+          ],
+          [
+            2617,
+            2829
+          ]
+        ],
+        "annotation": {
+          "explanation": "Matthew J. Maddox",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            1,
+            4
+          ]
+        },
+        "id": 8
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            576,
+            882
+          ],
+          [
+            883,
+            1103
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as the Mayor and City Council of Baltimore and the Economic Action Maryland Fund",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            576,
+            882
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Mayor and City Council of Baltimore",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            576,
+            882
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Economic Action Maryland Fund",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            576,
+            882
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs (Mayor and City Council of Baltimore and Economic Action Maryland Fund) filed an APA lawsuit on Feb. 12, 2025 in the U.S. District Court for the District of Maryland against the CFPB and its Acting Director.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            883,
+            1103
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs, represented by Democracy Forward Foundation, sought a TRO, preliminary and permanent injunctions, and declaratory relief to prevent defunding of the CFPB.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1104,
+            1231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 APA claims asserted the actions were arbitrary, capricious, an abuse of discretion, and beyond statutory authority.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1232,
+            1374
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs alleged irreparable harm due to heavy reliance on the CFPB\u2019s functions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1375,
+            1445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assignment: Judge Matthew J. Maddox (Feb. 14, 2025).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            576,
+            882
+          ],
+          [
+            883,
+            1103
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on Feb 12, 2025 in the District of Maryland alleging APA violations; relief sought included a TRO, preliminary and permanent injunctions, and declaratory relief to prevent CFPB defunding.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            685,
+            882
+          ],
+          [
+            883,
+            1103
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed in the U.S. District Court for the District of Maryland seeking TRO, preliminary and permanent injunctions, and declaratory relief.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1375,
+            1445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assignment to Judge Matthew J. Maddox on February 14, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      }
+    ]
+  },
+  {
+    "id": "46114_p2",
+    "metadata": {
+      "case_id": "46114",
+      "paragraph_num": 2,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In their motion for a temporary restraining order (filed on February 12, 2025), the plaintiffs asked..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s shutdown of the Consumer Financial Protection Bureau (CFPB). On February 8, 2025, the Acting Director of the CFPB instructed the agency\u2019s employees to \u201cstand down\u201d from performing any work and notified the Federal Reserve that the CFPB would be requesting $0 for the upcoming quarter. Elon Musk was also involved, posting \u201cCFPB RIP\u201d on social media one day before the announcement. This shutdown occurred within the broader context of the Trump Administration\u2019s efforts to dismantle several federal agencies and shrink others.\n\nOn February 12, 2025, the Mayor and City Council of Baltimore, along with the Economic Action Maryland Fund, initiated legal action in the U.S. District Court for the District of Maryland by filing a lawsuit against the CFPB and its Acting Director for violations of the Administrative Procedure Act (APA). The plaintiffs, represented by the Democracy Forward Foundation, sought a temporary restraining order, preliminary and permanent injunctions, and declaratory relief, with the goal of preventing the defunding of the CFPB. They argued that the government\u2019s actions were arbitrary, capricious, an abuse of discretion, and exceeded statutory authority. The plaintiffs also contended that they would be irreparably harmed by the Administration\u2019s unlawful action, as they heavily rely on the CFPB. The case was assigned to Judge Matthew J. Maddox on February 14, 2025.\n\nIn their motion for a temporary restraining order (filed on February 12, 2025), the plaintiffs asked the Court to enjoin the Administration from defunding the CFPB. They argued that such actions violated the APA and would cause imminent injury. With the loss of consumer protection benefits and resources provided by the CFPB, the plaintiffs claimed that they would need to divert resources from other essential functions. The next day, a joint motion was filed to convert the request for a temporary restraining order into a motion for a preliminary injunction, along with a proposed briefing schedule. The motion stipulated that the CFPB would refrain from taking any actions to defund the agency until the motion expires on February 28, 2025.\n\nOn February 19, 2025, 22 states and the District of Columbia filed an amicus brief in support of the plaintiff\u2019s motion for a preliminary injunction. The states argued that the absence of statutorily mandated services provided by the CFPB would harm consumers\u2019 wellbeing as well as states\u2019 own efforts to enforce consumer protection laws.\n\nOn March 14, 2025, the Court denied the plaintiff\u2019s motion for preliminary relief. Judge Maddox stated that because, \u201cPlaintiffs fail to demonstrate a likelihood of success on the merits of their claims, their motion for the extraordinary remedy of preliminary injunctive relief must be denied.\u201d He further explained:\n\nFor the Court to intervene and entangle itself in the Bureau\u2019s administrative processes before the agency has made any final decision about the disposition of its operating and reserve funds\u2014and without clear indication that an unlawful and injurious decision will be made imminently\u2014would exceed the bounds of the Court\u2019s proper role and jurisdiction. It would be especially improper for the Court to risk exceeding its limited role on a preliminary basis.\n\nOn May 29, 2025, the plaintiffs filed a notice of voluntary dismissal of the case. Given the defendants' representation that \"there is no mechanism by which Defendant Consumer Financial Protection Bureau can transfer away money from, or otherwise relinquish control over the money in, the Bureau Fund,\" except for \"internally transferring reserve funds to use for operations,\" the plaintiffs said they wished to dismiss their case. \"If Defendants later transfer Bureau funds in contradiction of their repeated representations about their lawful authorities, abilities, and intent, Plaintiffs will undertake further actions as appropriate.\"\n\nThis case is closed.",
+    "target_paragraph": "In their motion for a temporary restraining order (filed on February 12, 2025), the plaintiffs asked the Court to enjoin the Administration from defunding the CFPB. They argued that such actions violated the APA and would cause imminent injury. With the loss of consumer protection benefits and resources provided by the CFPB, the plaintiffs claimed that they would need to divert resources from other essential functions. The next day, a joint motion was filed to convert the request for a temporary restraining order into a motion for a preliminary injunction, along with a proposed briefing schedule. The motion stipulated that the CFPB would refrain from taking any actions to defund the agency until the motion expires on February 28, 2025.",
+    "target_paragraph_indices": [
+      1447,
+      2192
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            1870,
+            2050
+          ],
+          [
+            2051,
+            2192
+          ]
+        ],
+        "annotation": {
+          "explanation": "Until February 28, 2025: CFPB would refrain from taking any actions to defund the agency.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1447,
+            1611
+          ],
+          [
+            1612,
+            1691
+          ],
+          [
+            1692,
+            1869
+          ]
+        ],
+        "annotation": {
+          "explanation": "In their Feb. 12 TRO motion, plaintiffs sought to enjoin CFPB defunding, arguing APA violations, imminent injury, and that loss of CFPB services would force resource diversion from other essential functions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1870,
+            2050
+          ],
+          [
+            2051,
+            2192
+          ]
+        ],
+        "annotation": {
+          "explanation": "By joint motion, the TRO request was converted to a preliminary injunction motion, with a stipulation that the CFPB would not take defunding actions until Feb. 28, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1447,
+            1611
+          ],
+          [
+            1612,
+            1691
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for temporary restraining order filed Feb 12, 2025 seeking to enjoin CFPB defunding; asserted APA violations and imminent injury.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1870,
+            2050
+          ],
+          [
+            2051,
+            2192
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint motion filed the next day to convert the TRO request into a motion for a preliminary injunction with a proposed briefing schedule; stipulated CFPB would take no defunding actions until Feb 28, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1870,
+            2192
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants (CFPB) agreed via joint stipulation to refrain from taking any actions to defund the agency until February 28, 2025.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1870,
+            2192
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants (CFPB/Acting Director) agreed to refrain from taking any actions to defund the CFPB until February 28, 2025.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1447,
+            1611
+          ],
+          [
+            1612,
+            1869
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a TRO on February 12, 2025, to enjoin defunding of the CFPB, arguing APA violations and imminent irreparable harm through diversion of resources.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1870,
+            2050
+          ],
+          [
+            2051,
+            2192
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint motion filed the next day converting the TRO request into a preliminary injunction motion, with a proposed briefing schedule and a stipulation that CFPB would take no defunding actions until February 28, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46114_p3",
+    "metadata": {
+      "case_id": "46114",
+      "paragraph_num": 3,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On February 19, 2025, 22 states and the District of Columbia filed an amicus brief in support of the..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s shutdown of the Consumer Financial Protection Bureau (CFPB). On February 8, 2025, the Acting Director of the CFPB instructed the agency\u2019s employees to \u201cstand down\u201d from performing any work and notified the Federal Reserve that the CFPB would be requesting $0 for the upcoming quarter. Elon Musk was also involved, posting \u201cCFPB RIP\u201d on social media one day before the announcement. This shutdown occurred within the broader context of the Trump Administration\u2019s efforts to dismantle several federal agencies and shrink others.\n\nOn February 12, 2025, the Mayor and City Council of Baltimore, along with the Economic Action Maryland Fund, initiated legal action in the U.S. District Court for the District of Maryland by filing a lawsuit against the CFPB and its Acting Director for violations of the Administrative Procedure Act (APA). The plaintiffs, represented by the Democracy Forward Foundation, sought a temporary restraining order, preliminary and permanent injunctions, and declaratory relief, with the goal of preventing the defunding of the CFPB. They argued that the government\u2019s actions were arbitrary, capricious, an abuse of discretion, and exceeded statutory authority. The plaintiffs also contended that they would be irreparably harmed by the Administration\u2019s unlawful action, as they heavily rely on the CFPB. The case was assigned to Judge Matthew J. Maddox on February 14, 2025.\n\nIn their motion for a temporary restraining order (filed on February 12, 2025), the plaintiffs asked the Court to enjoin the Administration from defunding the CFPB. They argued that such actions violated the APA and would cause imminent injury. With the loss of consumer protection benefits and resources provided by the CFPB, the plaintiffs claimed that they would need to divert resources from other essential functions. The next day, a joint motion was filed to convert the request for a temporary restraining order into a motion for a preliminary injunction, along with a proposed briefing schedule. The motion stipulated that the CFPB would refrain from taking any actions to defund the agency until the motion expires on February 28, 2025.\n\nOn February 19, 2025, 22 states and the District of Columbia filed an amicus brief in support of the plaintiff\u2019s motion for a preliminary injunction. The states argued that the absence of statutorily mandated services provided by the CFPB would harm consumers\u2019 wellbeing as well as states\u2019 own efforts to enforce consumer protection laws.\n\nOn March 14, 2025, the Court denied the plaintiff\u2019s motion for preliminary relief. Judge Maddox stated that because, \u201cPlaintiffs fail to demonstrate a likelihood of success on the merits of their claims, their motion for the extraordinary remedy of preliminary injunctive relief must be denied.\u201d He further explained:\n\nFor the Court to intervene and entangle itself in the Bureau\u2019s administrative processes before the agency has made any final decision about the disposition of its operating and reserve funds\u2014and without clear indication that an unlawful and injurious decision will be made imminently\u2014would exceed the bounds of the Court\u2019s proper role and jurisdiction. It would be especially improper for the Court to risk exceeding its limited role on a preliminary basis.\n\nOn May 29, 2025, the plaintiffs filed a notice of voluntary dismissal of the case. Given the defendants' representation that \"there is no mechanism by which Defendant Consumer Financial Protection Bureau can transfer away money from, or otherwise relinquish control over the money in, the Bureau Fund,\" except for \"internally transferring reserve funds to use for operations,\" the plaintiffs said they wished to dismiss their case. \"If Defendants later transfer Bureau funds in contradiction of their repeated representations about their lawful authorities, abilities, and intent, Plaintiffs will undertake further actions as appropriate.\"\n\nThis case is closed.",
+    "target_paragraph": "On February 19, 2025, 22 states and the District of Columbia filed an amicus brief in support of the plaintiff\u2019s motion for a preliminary injunction. The states argued that the absence of statutorily mandated services provided by the CFPB would harm consumers\u2019 wellbeing as well as states\u2019 own efforts to enforce consumer protection laws.",
+    "target_paragraph_indices": [
+      2194,
+      2532
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2194,
+            2343
+          ],
+          [
+            2344,
+            2532
+          ]
+        ],
+        "annotation": {
+          "explanation": "Twenty-two states and D.C. filed an amicus brief supporting a preliminary injunction, asserting that loss of CFPB\u2019s mandated services would harm consumers and impede state consumer protection enforcement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2194,
+            2343
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amicus brief filed Feb 19, 2025 by 22 states and the District of Columbia supporting the preliminary injunction motion.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2194,
+            2343
+          ],
+          [
+            2344,
+            2532
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amicus brief filed on February 19, 2025, by 22 states and DC supporting plaintiffs\u2019 preliminary injunction motion, citing harms from loss of CFPB services.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46114_p4",
+    "metadata": {
+      "case_id": "46114",
+      "paragraph_num": 4,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 14, 2025, the Court denied the plaintiff\u2019s motion for preliminary relief. Judge Maddox stat..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s shutdown of the Consumer Financial Protection Bureau (CFPB). On February 8, 2025, the Acting Director of the CFPB instructed the agency\u2019s employees to \u201cstand down\u201d from performing any work and notified the Federal Reserve that the CFPB would be requesting $0 for the upcoming quarter. Elon Musk was also involved, posting \u201cCFPB RIP\u201d on social media one day before the announcement. This shutdown occurred within the broader context of the Trump Administration\u2019s efforts to dismantle several federal agencies and shrink others.\n\nOn February 12, 2025, the Mayor and City Council of Baltimore, along with the Economic Action Maryland Fund, initiated legal action in the U.S. District Court for the District of Maryland by filing a lawsuit against the CFPB and its Acting Director for violations of the Administrative Procedure Act (APA). The plaintiffs, represented by the Democracy Forward Foundation, sought a temporary restraining order, preliminary and permanent injunctions, and declaratory relief, with the goal of preventing the defunding of the CFPB. They argued that the government\u2019s actions were arbitrary, capricious, an abuse of discretion, and exceeded statutory authority. The plaintiffs also contended that they would be irreparably harmed by the Administration\u2019s unlawful action, as they heavily rely on the CFPB. The case was assigned to Judge Matthew J. Maddox on February 14, 2025.\n\nIn their motion for a temporary restraining order (filed on February 12, 2025), the plaintiffs asked the Court to enjoin the Administration from defunding the CFPB. They argued that such actions violated the APA and would cause imminent injury. With the loss of consumer protection benefits and resources provided by the CFPB, the plaintiffs claimed that they would need to divert resources from other essential functions. The next day, a joint motion was filed to convert the request for a temporary restraining order into a motion for a preliminary injunction, along with a proposed briefing schedule. The motion stipulated that the CFPB would refrain from taking any actions to defund the agency until the motion expires on February 28, 2025.\n\nOn February 19, 2025, 22 states and the District of Columbia filed an amicus brief in support of the plaintiff\u2019s motion for a preliminary injunction. The states argued that the absence of statutorily mandated services provided by the CFPB would harm consumers\u2019 wellbeing as well as states\u2019 own efforts to enforce consumer protection laws.\n\nOn March 14, 2025, the Court denied the plaintiff\u2019s motion for preliminary relief. Judge Maddox stated that because, \u201cPlaintiffs fail to demonstrate a likelihood of success on the merits of their claims, their motion for the extraordinary remedy of preliminary injunctive relief must be denied.\u201d He further explained:\n\nFor the Court to intervene and entangle itself in the Bureau\u2019s administrative processes before the agency has made any final decision about the disposition of its operating and reserve funds\u2014and without clear indication that an unlawful and injurious decision will be made imminently\u2014would exceed the bounds of the Court\u2019s proper role and jurisdiction. It would be especially improper for the Court to risk exceeding its limited role on a preliminary basis.\n\nOn May 29, 2025, the plaintiffs filed a notice of voluntary dismissal of the case. Given the defendants' representation that \"there is no mechanism by which Defendant Consumer Financial Protection Bureau can transfer away money from, or otherwise relinquish control over the money in, the Bureau Fund,\" except for \"internally transferring reserve funds to use for operations,\" the plaintiffs said they wished to dismiss their case. \"If Defendants later transfer Bureau funds in contradiction of their repeated representations about their lawful authorities, abilities, and intent, Plaintiffs will undertake further actions as appropriate.\"\n\nThis case is closed.",
+    "target_paragraph": "On March 14, 2025, the Court denied the plaintiff\u2019s motion for preliminary relief. Judge Maddox stated that because, \u201cPlaintiffs fail to demonstrate a likelihood of success on the merits of their claims, their motion for the extraordinary remedy of preliminary injunctive relief must be denied.\u201d He further explained:",
+    "target_paragraph_indices": [
+      2534,
+      2851
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2534,
+            2616
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 14, 2025: The Court denied the plaintiff\u2019s motion for preliminary relief.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2534,
+            2829
+          ],
+          [
+            2853,
+            3310
+          ]
+        ],
+        "annotation": {
+          "explanation": "On Mar. 14, 2025, Judge Maddox denied preliminary relief, finding no likelihood of success and noting the agency had not made a final decision on its funds, making court intervention improper at that stage.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2534,
+            2616
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court order on March 14, 2025 denying plaintiffs\u2019 motion for preliminary injunctive relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2534,
+            2616
+          ],
+          [
+            2617,
+            2829
+          ],
+          [
+            2853,
+            3310
+          ]
+        ],
+        "annotation": {
+          "explanation": "On March 14, 2025, the Court denied preliminary injunctive relief, finding no likelihood of success on the merits and cautioning against premature judicial intervention.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2534,
+            2616
+          ],
+          [
+            2617,
+            2829
+          ]
+        ],
+        "annotation": {
+          "explanation": "On March 14, 2025, Judge Matthew J. Maddox denied the plaintiffs\u2019 motion for preliminary injunctive relief.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46114_p5",
+    "metadata": {
+      "case_id": "46114",
+      "paragraph_num": 5,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "For the Court to intervene and entangle itself in the Bureau\u2019s administrative processes before the a..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s shutdown of the Consumer Financial Protection Bureau (CFPB). On February 8, 2025, the Acting Director of the CFPB instructed the agency\u2019s employees to \u201cstand down\u201d from performing any work and notified the Federal Reserve that the CFPB would be requesting $0 for the upcoming quarter. Elon Musk was also involved, posting \u201cCFPB RIP\u201d on social media one day before the announcement. This shutdown occurred within the broader context of the Trump Administration\u2019s efforts to dismantle several federal agencies and shrink others.\n\nOn February 12, 2025, the Mayor and City Council of Baltimore, along with the Economic Action Maryland Fund, initiated legal action in the U.S. District Court for the District of Maryland by filing a lawsuit against the CFPB and its Acting Director for violations of the Administrative Procedure Act (APA). The plaintiffs, represented by the Democracy Forward Foundation, sought a temporary restraining order, preliminary and permanent injunctions, and declaratory relief, with the goal of preventing the defunding of the CFPB. They argued that the government\u2019s actions were arbitrary, capricious, an abuse of discretion, and exceeded statutory authority. The plaintiffs also contended that they would be irreparably harmed by the Administration\u2019s unlawful action, as they heavily rely on the CFPB. The case was assigned to Judge Matthew J. Maddox on February 14, 2025.\n\nIn their motion for a temporary restraining order (filed on February 12, 2025), the plaintiffs asked the Court to enjoin the Administration from defunding the CFPB. They argued that such actions violated the APA and would cause imminent injury. With the loss of consumer protection benefits and resources provided by the CFPB, the plaintiffs claimed that they would need to divert resources from other essential functions. The next day, a joint motion was filed to convert the request for a temporary restraining order into a motion for a preliminary injunction, along with a proposed briefing schedule. The motion stipulated that the CFPB would refrain from taking any actions to defund the agency until the motion expires on February 28, 2025.\n\nOn February 19, 2025, 22 states and the District of Columbia filed an amicus brief in support of the plaintiff\u2019s motion for a preliminary injunction. The states argued that the absence of statutorily mandated services provided by the CFPB would harm consumers\u2019 wellbeing as well as states\u2019 own efforts to enforce consumer protection laws.\n\nOn March 14, 2025, the Court denied the plaintiff\u2019s motion for preliminary relief. Judge Maddox stated that because, \u201cPlaintiffs fail to demonstrate a likelihood of success on the merits of their claims, their motion for the extraordinary remedy of preliminary injunctive relief must be denied.\u201d He further explained:\n\nFor the Court to intervene and entangle itself in the Bureau\u2019s administrative processes before the agency has made any final decision about the disposition of its operating and reserve funds\u2014and without clear indication that an unlawful and injurious decision will be made imminently\u2014would exceed the bounds of the Court\u2019s proper role and jurisdiction. It would be especially improper for the Court to risk exceeding its limited role on a preliminary basis.\n\nOn May 29, 2025, the plaintiffs filed a notice of voluntary dismissal of the case. Given the defendants' representation that \"there is no mechanism by which Defendant Consumer Financial Protection Bureau can transfer away money from, or otherwise relinquish control over the money in, the Bureau Fund,\" except for \"internally transferring reserve funds to use for operations,\" the plaintiffs said they wished to dismiss their case. \"If Defendants later transfer Bureau funds in contradiction of their repeated representations about their lawful authorities, abilities, and intent, Plaintiffs will undertake further actions as appropriate.\"\n\nThis case is closed.",
+    "target_paragraph": "For the Court to intervene and entangle itself in the Bureau\u2019s administrative processes before the agency has made any final decision about the disposition of its operating and reserve funds\u2014and without clear indication that an unlawful and injurious decision will be made imminently\u2014would exceed the bounds of the Court\u2019s proper role and jurisdiction. It would be especially improper for the Court to risk exceeding its limited role on a preliminary basis.",
+    "target_paragraph_indices": [
+      2853,
+      3310
+    ],
+    "edits": []
+  },
+  {
+    "id": "46114_p6",
+    "metadata": {
+      "case_id": "46114",
+      "paragraph_num": 6,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 29, 2025, the plaintiffs filed a notice of voluntary dismissal of the case. Given the defenda..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s shutdown of the Consumer Financial Protection Bureau (CFPB). On February 8, 2025, the Acting Director of the CFPB instructed the agency\u2019s employees to \u201cstand down\u201d from performing any work and notified the Federal Reserve that the CFPB would be requesting $0 for the upcoming quarter. Elon Musk was also involved, posting \u201cCFPB RIP\u201d on social media one day before the announcement. This shutdown occurred within the broader context of the Trump Administration\u2019s efforts to dismantle several federal agencies and shrink others.\n\nOn February 12, 2025, the Mayor and City Council of Baltimore, along with the Economic Action Maryland Fund, initiated legal action in the U.S. District Court for the District of Maryland by filing a lawsuit against the CFPB and its Acting Director for violations of the Administrative Procedure Act (APA). The plaintiffs, represented by the Democracy Forward Foundation, sought a temporary restraining order, preliminary and permanent injunctions, and declaratory relief, with the goal of preventing the defunding of the CFPB. They argued that the government\u2019s actions were arbitrary, capricious, an abuse of discretion, and exceeded statutory authority. The plaintiffs also contended that they would be irreparably harmed by the Administration\u2019s unlawful action, as they heavily rely on the CFPB. The case was assigned to Judge Matthew J. Maddox on February 14, 2025.\n\nIn their motion for a temporary restraining order (filed on February 12, 2025), the plaintiffs asked the Court to enjoin the Administration from defunding the CFPB. They argued that such actions violated the APA and would cause imminent injury. With the loss of consumer protection benefits and resources provided by the CFPB, the plaintiffs claimed that they would need to divert resources from other essential functions. The next day, a joint motion was filed to convert the request for a temporary restraining order into a motion for a preliminary injunction, along with a proposed briefing schedule. The motion stipulated that the CFPB would refrain from taking any actions to defund the agency until the motion expires on February 28, 2025.\n\nOn February 19, 2025, 22 states and the District of Columbia filed an amicus brief in support of the plaintiff\u2019s motion for a preliminary injunction. The states argued that the absence of statutorily mandated services provided by the CFPB would harm consumers\u2019 wellbeing as well as states\u2019 own efforts to enforce consumer protection laws.\n\nOn March 14, 2025, the Court denied the plaintiff\u2019s motion for preliminary relief. Judge Maddox stated that because, \u201cPlaintiffs fail to demonstrate a likelihood of success on the merits of their claims, their motion for the extraordinary remedy of preliminary injunctive relief must be denied.\u201d He further explained:\n\nFor the Court to intervene and entangle itself in the Bureau\u2019s administrative processes before the agency has made any final decision about the disposition of its operating and reserve funds\u2014and without clear indication that an unlawful and injurious decision will be made imminently\u2014would exceed the bounds of the Court\u2019s proper role and jurisdiction. It would be especially improper for the Court to risk exceeding its limited role on a preliminary basis.\n\nOn May 29, 2025, the plaintiffs filed a notice of voluntary dismissal of the case. Given the defendants' representation that \"there is no mechanism by which Defendant Consumer Financial Protection Bureau can transfer away money from, or otherwise relinquish control over the money in, the Bureau Fund,\" except for \"internally transferring reserve funds to use for operations,\" the plaintiffs said they wished to dismiss their case. \"If Defendants later transfer Bureau funds in contradiction of their repeated representations about their lawful authorities, abilities, and intent, Plaintiffs will undertake further actions as appropriate.\"\n\nThis case is closed.",
+    "target_paragraph": "On May 29, 2025, the plaintiffs filed a notice of voluntary dismissal of the case. Given the defendants' representation that \"there is no mechanism by which Defendant Consumer Financial Protection Bureau can transfer away money from, or otherwise relinquish control over the money in, the Bureau Fund,\" except for \"internally transferring reserve funds to use for operations,\" the plaintiffs said they wished to dismiss their case. \"If Defendants later transfer Bureau funds in contradiction of their repeated representations about their lawful authorities, abilities, and intent, Plaintiffs will undertake further actions as appropriate.\"",
+    "target_paragraph_indices": [
+      3312,
+      3951
+    ],
+    "edits": [
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            3312,
+            3394
+          ],
+          [
+            3953,
+            3973
+          ]
+        ],
+        "annotation": {
+          "explanation": "[No].",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3312,
+            3394
+          ],
+          [
+            3395,
+            3743
+          ],
+          [
+            3744,
+            3951
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 29, 2025, plaintiffs voluntarily dismissed the case based on defendants\u2019 representation that the CFPB cannot transfer away or relinquish control of Bureau Fund money (except internal transfers to operations), reserving the right to act if that changes.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3312,
+            3394
+          ]
+        ],
+        "annotation": {
+          "explanation": "Notice of voluntary dismissal filed by plaintiffs on May 29, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3395,
+            3743
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants represented that the CFPB cannot transfer away or relinquish control over money in the Bureau Fund, except for internally transferring reserve funds to use for operations.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3312,
+            3394
+          ],
+          [
+            3395,
+            3743
+          ],
+          [
+            3744,
+            3951
+          ],
+          [
+            3953,
+            3973
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs voluntarily dismissed the case on May 29, 2025, relying on defendants\u2019 representations about limits on transferring Bureau funds; case closed.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46114_p7",
+    "metadata": {
+      "case_id": "46114",
+      "paragraph_num": 7,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is closed."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s shutdown of the Consumer Financial Protection Bureau (CFPB). On February 8, 2025, the Acting Director of the CFPB instructed the agency\u2019s employees to \u201cstand down\u201d from performing any work and notified the Federal Reserve that the CFPB would be requesting $0 for the upcoming quarter. Elon Musk was also involved, posting \u201cCFPB RIP\u201d on social media one day before the announcement. This shutdown occurred within the broader context of the Trump Administration\u2019s efforts to dismantle several federal agencies and shrink others.\n\nOn February 12, 2025, the Mayor and City Council of Baltimore, along with the Economic Action Maryland Fund, initiated legal action in the U.S. District Court for the District of Maryland by filing a lawsuit against the CFPB and its Acting Director for violations of the Administrative Procedure Act (APA). The plaintiffs, represented by the Democracy Forward Foundation, sought a temporary restraining order, preliminary and permanent injunctions, and declaratory relief, with the goal of preventing the defunding of the CFPB. They argued that the government\u2019s actions were arbitrary, capricious, an abuse of discretion, and exceeded statutory authority. The plaintiffs also contended that they would be irreparably harmed by the Administration\u2019s unlawful action, as they heavily rely on the CFPB. The case was assigned to Judge Matthew J. Maddox on February 14, 2025.\n\nIn their motion for a temporary restraining order (filed on February 12, 2025), the plaintiffs asked the Court to enjoin the Administration from defunding the CFPB. They argued that such actions violated the APA and would cause imminent injury. With the loss of consumer protection benefits and resources provided by the CFPB, the plaintiffs claimed that they would need to divert resources from other essential functions. The next day, a joint motion was filed to convert the request for a temporary restraining order into a motion for a preliminary injunction, along with a proposed briefing schedule. The motion stipulated that the CFPB would refrain from taking any actions to defund the agency until the motion expires on February 28, 2025.\n\nOn February 19, 2025, 22 states and the District of Columbia filed an amicus brief in support of the plaintiff\u2019s motion for a preliminary injunction. The states argued that the absence of statutorily mandated services provided by the CFPB would harm consumers\u2019 wellbeing as well as states\u2019 own efforts to enforce consumer protection laws.\n\nOn March 14, 2025, the Court denied the plaintiff\u2019s motion for preliminary relief. Judge Maddox stated that because, \u201cPlaintiffs fail to demonstrate a likelihood of success on the merits of their claims, their motion for the extraordinary remedy of preliminary injunctive relief must be denied.\u201d He further explained:\n\nFor the Court to intervene and entangle itself in the Bureau\u2019s administrative processes before the agency has made any final decision about the disposition of its operating and reserve funds\u2014and without clear indication that an unlawful and injurious decision will be made imminently\u2014would exceed the bounds of the Court\u2019s proper role and jurisdiction. It would be especially improper for the Court to risk exceeding its limited role on a preliminary basis.\n\nOn May 29, 2025, the plaintiffs filed a notice of voluntary dismissal of the case. Given the defendants' representation that \"there is no mechanism by which Defendant Consumer Financial Protection Bureau can transfer away money from, or otherwise relinquish control over the money in, the Bureau Fund,\" except for \"internally transferring reserve funds to use for operations,\" the plaintiffs said they wished to dismiss their case. \"If Defendants later transfer Bureau funds in contradiction of their repeated representations about their lawful authorities, abilities, and intent, Plaintiffs will undertake further actions as appropriate.\"\n\nThis case is closed.",
+    "target_paragraph": "This case is closed.",
+    "target_paragraph_indices": [
+      3953,
+      3973
+    ],
+    "edits": []
+  }
+]

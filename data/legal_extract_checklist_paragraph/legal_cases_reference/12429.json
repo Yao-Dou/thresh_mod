@@ -1,0 +1,2019 @@
+[
+  {
+    "id": "12429_p0",
+    "metadata": {
+      "case_id": "12429",
+      "paragraph_num": 0,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs, represented by Children's Rights, filed this class action suit against the Oklahoma ..."
+    },
+    "source": "",
+    "target": "The plaintiffs, represented by Children's Rights, filed this class action suit against the Oklahoma Department of Human Services (DHS) in February 2008 in the U.S. District Court for the Northern District of Oklahoma. The complaint alleged violations of the First, Fifth, Ninth, and Fourteenth Amendments of the U.S. Constitution, the Adoption Assistance and Child Welfare Act of 1980, 42 U.S.C. \u00a7 621 et seq., the Adoption and Safe Families Act of 1997, 42 U.S.C. \u00a7 670 et seq., and Oklahoma state law. The complaint alleged that DHS placed children in dangerous and inappropriate placements, including extended stays in emergency shelters; failed to monitor the safety of children in DHS custody due to excessive case worker caseloads; failed to provide mental health and other behavioral services; and failed to provide legal representation. The plaintiffs sought declaratory relief and a permanent injunction enjoining defendants from subjecting plaintiffs to practices that violate their constitutional rights.\n\nIn April 2008, the defendants moved to dismiss the case and several Oklahoma-based children's agencies filed amici curiae briefs in response. In January 2009, Judge Gregory K. Frizzell granted the motion to dismiss claims under federal common law and the Adoption Assistance and Child Welfare Act of 1980, but denied the motion with regard to the other claims. D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okl. 2009).\n\nOn May 5, 2009, the court certified the class of the plaintiffs as all children who are or will be in the legal custody of the Oklahoma Department of Human Services (1) due to a report or suspicion of abuse or neglect; or (2) who are or will be adjudicated deprived due to abuse or neglect. The defendants appealed the ruling to the 10th Circuit Court of Appeals, but in February 2010, the appellate court upheld the class certification.\n\nThe parties then engaged in extensive and contested discovery. The plaintiffs provided five expert reports and filed numerous motions to compel the defendants to produce various items. The defendants moved for summary judgment and to decertify the class. In November and December 2011, the court denied the motion to decertify and granted the motion for summary judgment only as to claims pertaining to rights of familial association and procedural due process. 2011 WL 6009628. The case proceeded towards a trial scheduled for February 2012.\n\nMeanwhile, the parties engaged in court-supervised settlement conferences. By January 2012, they negotiated an agreement providing for structural reorganization of DHS and appointed experts to oversee the development and implementation of the Compromise Settlement Agreement (CSA). After a series of fairness hearings, the court approved the CSA on February 29, 2012.\n\nThe CSA implementation plans provided that the defendant DHS would restructure its agency; improve screening, investigating, and reporting of abuse; reduce the use of emergency shelters; and reduce workloads and improve training for caseworkers. The parties agreed to designate three individuals as Co-Neutrals to act as arbiters of any dispute arising out of the CSA and to evaluate and render judgments about DHS's ongoing compliance efforts. The implementation of the CSA would take at least five years. Additionally, on March 31, 2013, the Court ordered the defendants to pay attorneys' fees and expenses in the amount of about $6 million. 2013 WL 1343151.\n\nAlthough DHS originally planned to exit from the CSA in December 2016, it was unable to do so for failure to adequately comply with its terms. In their August 2018 report, the Co-Neutrals noted that although DHS had made important advancements over the course of its reform, those advances were not yet fully instituted, particularly with respect to manageable caseloads and an adequate array of placements for children. The report noted that in some areas, most critically safety for children in the care and custody of DHS, the department\u2019s efforts had been inadequate.\n\nIn May 2018, the Co-Neutrals requested that the Court suspend the operations of a particular children's center for failure to comply with the CSA. The Court granted this request and DHS complied by relocating the children from that center.\n\nOn June 5, 2018, the court entered a judgment and terminated the case. However, the case was reopened three years later when the parties moved to modify the settlement on December 13, 2021. This motion noted that unforeseen circumstances, namely the COVID-19 pandemic, seriously impacted the defendant\u2019s good faith efforts to comply with the settlement agreement. As a result, the parties agreed to suspend the previously scheduled biannual good faith determinations by the Co-Neutrals during the pandemic recovery period as to some of the defendant's obligations. The court granted the motion the following day.\n\nOn March 22, 2023, the Co-Neutrals determined that the Department had met the two-year continuous period of good faith requirements mandated by the CSA as to the obligations that had not been delayed by COVID-19. On April 24, 2023, the court issued an order terminating these obligations.\n\nTwo years later, on February 11, 2025, the Co-Neutrals filed a final report indicating the defendants had complied for two years with the remaining CSA obligations. A month later, on March 13, the court terminated the defendant's obligations under the CSA. The case is now closed.",
+    "target_paragraph": "The plaintiffs, represented by Children's Rights, filed this class action suit against the Oklahoma Department of Human Services (DHS) in February 2008 in the U.S. District Court for the Northern District of Oklahoma. The complaint alleged violations of the First, Fifth, Ninth, and Fourteenth Amendments of the U.S. Constitution, the Adoption Assistance and Child Welfare Act of 1980, 42 U.S.C. \u00a7 621 et seq., the Adoption and Safe Families Act of 1997, 42 U.S.C. \u00a7 670 et seq., and Oklahoma state law. The complaint alleged that DHS placed children in dangerous and inappropriate placements, including extended stays in emergency shelters; failed to monitor the safety of children in DHS custody due to excessive case worker caseloads; failed to provide mental health and other behavioral services; and failed to provide legal representation. The plaintiffs sought declaratory relief and a permanent injunction enjoining defendants from subjecting plaintiffs to practices that violate their constitutional rights.",
+    "target_paragraph_indices": [
+      0,
+      1015
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            0,
+            217
+          ]
+        ],
+        "annotation": {
+          "explanation": "February 2008",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            218,
+            329
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Constitution: First, Fifth, Ninth, and Fourteenth Amendments",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            331,
+            410
+          ]
+        ],
+        "annotation": {
+          "explanation": "Adoption Assistance and Child Welfare Act of 1980 (42 U.S.C. \u00a7 621 et seq.)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            411,
+            479
+          ]
+        ],
+        "annotation": {
+          "explanation": "Adoption and Safe Families Act of 1997 (42 U.S.C. \u00a7 670 et seq.)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            480,
+            503
+          ]
+        ],
+        "annotation": {
+          "explanation": "Oklahoma state law",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            218,
+            503
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Constitution: First, Fifth, Ninth, and Fourteenth Amendments",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            218,
+            503
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statute: Adoption Assistance and Child Welfare Act of 1980, 42 U.S.C. \u00a7 621 et seq.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            218,
+            503
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statute: Adoption and Safe Families Act of 1997, 42 U.S.C. \u00a7 670 et seq.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            218,
+            503
+          ]
+        ],
+        "annotation": {
+          "explanation": "Oklahoma state law",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            845,
+            1015
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief and a permanent injunction enjoining defendants from subjecting plaintiffs to practices that violate their constitutional rights.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            0,
+            78
+          ]
+        ],
+        "annotation": {
+          "explanation": "Children's Rights",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            0,
+            217
+          ],
+          [
+            1433,
+            1723
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Class Action",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            217
+          ],
+          [
+            2785,
+            3030
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Oklahoma Department of Human Services (DHS).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            5
+          ]
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            217
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties and filing: Children's Rights filed a class action on behalf of children against Oklahoma DHS in February 2008 in the Northern District of Oklahoma.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            504,
+            844
+          ]
+        ],
+        "annotation": {
+          "explanation": "Core factual allegations: DHS allegedly subjected children to dangerous/inappropriate placements (including extended emergency shelter stays), failed to monitor safety due to excessive caseloads, and failed to provide mental/behavioral services and legal representation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            218,
+            503
+          ]
+        ],
+        "annotation": {
+          "explanation": "Legal framework/context: Plaintiffs grounded their claims under multiple constitutional amendments, federal child welfare statutes, and Oklahoma state law.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            845,
+            1015
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: Declaratory and permanent injunctive relief to stop alleged unconstitutional practices.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            50,
+            217
+          ],
+          [
+            845,
+            1015
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed (Feb 2008), seeking declaratory relief and a permanent injunction.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      }
+    ]
+  },
+  {
+    "id": "12429_p1",
+    "metadata": {
+      "case_id": "12429",
+      "paragraph_num": 1,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In April 2008, the defendants moved to dismiss the case and several Oklahoma-based children's agenci..."
+    },
+    "source": "",
+    "target": "The plaintiffs, represented by Children's Rights, filed this class action suit against the Oklahoma Department of Human Services (DHS) in February 2008 in the U.S. District Court for the Northern District of Oklahoma. The complaint alleged violations of the First, Fifth, Ninth, and Fourteenth Amendments of the U.S. Constitution, the Adoption Assistance and Child Welfare Act of 1980, 42 U.S.C. \u00a7 621 et seq., the Adoption and Safe Families Act of 1997, 42 U.S.C. \u00a7 670 et seq., and Oklahoma state law. The complaint alleged that DHS placed children in dangerous and inappropriate placements, including extended stays in emergency shelters; failed to monitor the safety of children in DHS custody due to excessive case worker caseloads; failed to provide mental health and other behavioral services; and failed to provide legal representation. The plaintiffs sought declaratory relief and a permanent injunction enjoining defendants from subjecting plaintiffs to practices that violate their constitutional rights.\n\nIn April 2008, the defendants moved to dismiss the case and several Oklahoma-based children's agencies filed amici curiae briefs in response. In January 2009, Judge Gregory K. Frizzell granted the motion to dismiss claims under federal common law and the Adoption Assistance and Child Welfare Act of 1980, but denied the motion with regard to the other claims. D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okl. 2009).\n\nOn May 5, 2009, the court certified the class of the plaintiffs as all children who are or will be in the legal custody of the Oklahoma Department of Human Services (1) due to a report or suspicion of abuse or neglect; or (2) who are or will be adjudicated deprived due to abuse or neglect. The defendants appealed the ruling to the 10th Circuit Court of Appeals, but in February 2010, the appellate court upheld the class certification.\n\nThe parties then engaged in extensive and contested discovery. The plaintiffs provided five expert reports and filed numerous motions to compel the defendants to produce various items. The defendants moved for summary judgment and to decertify the class. In November and December 2011, the court denied the motion to decertify and granted the motion for summary judgment only as to claims pertaining to rights of familial association and procedural due process. 2011 WL 6009628. The case proceeded towards a trial scheduled for February 2012.\n\nMeanwhile, the parties engaged in court-supervised settlement conferences. By January 2012, they negotiated an agreement providing for structural reorganization of DHS and appointed experts to oversee the development and implementation of the Compromise Settlement Agreement (CSA). After a series of fairness hearings, the court approved the CSA on February 29, 2012.\n\nThe CSA implementation plans provided that the defendant DHS would restructure its agency; improve screening, investigating, and reporting of abuse; reduce the use of emergency shelters; and reduce workloads and improve training for caseworkers. The parties agreed to designate three individuals as Co-Neutrals to act as arbiters of any dispute arising out of the CSA and to evaluate and render judgments about DHS's ongoing compliance efforts. The implementation of the CSA would take at least five years. Additionally, on March 31, 2013, the Court ordered the defendants to pay attorneys' fees and expenses in the amount of about $6 million. 2013 WL 1343151.\n\nAlthough DHS originally planned to exit from the CSA in December 2016, it was unable to do so for failure to adequately comply with its terms. In their August 2018 report, the Co-Neutrals noted that although DHS had made important advancements over the course of its reform, those advances were not yet fully instituted, particularly with respect to manageable caseloads and an adequate array of placements for children. The report noted that in some areas, most critically safety for children in the care and custody of DHS, the department\u2019s efforts had been inadequate.\n\nIn May 2018, the Co-Neutrals requested that the Court suspend the operations of a particular children's center for failure to comply with the CSA. The Court granted this request and DHS complied by relocating the children from that center.\n\nOn June 5, 2018, the court entered a judgment and terminated the case. However, the case was reopened three years later when the parties moved to modify the settlement on December 13, 2021. This motion noted that unforeseen circumstances, namely the COVID-19 pandemic, seriously impacted the defendant\u2019s good faith efforts to comply with the settlement agreement. As a result, the parties agreed to suspend the previously scheduled biannual good faith determinations by the Co-Neutrals during the pandemic recovery period as to some of the defendant's obligations. The court granted the motion the following day.\n\nOn March 22, 2023, the Co-Neutrals determined that the Department had met the two-year continuous period of good faith requirements mandated by the CSA as to the obligations that had not been delayed by COVID-19. On April 24, 2023, the court issued an order terminating these obligations.\n\nTwo years later, on February 11, 2025, the Co-Neutrals filed a final report indicating the defendants had complied for two years with the remaining CSA obligations. A month later, on March 13, the court terminated the defendant's obligations under the CSA. The case is now closed.",
+    "target_paragraph": "In April 2008, the defendants moved to dismiss the case and several Oklahoma-based children's agencies filed amici curiae briefs in response. In January 2009, Judge Gregory K. Frizzell granted the motion to dismiss claims under federal common law and the Adoption Assistance and Child Welfare Act of 1980, but denied the motion with regard to the other claims. D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okl. 2009).",
+    "target_paragraph_indices": [
+      1017,
+      1431
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1176,
+            1377
+          ]
+        ],
+        "annotation": {
+          "explanation": "Federal common law (claims dismissed in January 2009)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1176,
+            1377
+          ]
+        ],
+        "annotation": {
+          "explanation": "Adoption Assistance and Child Welfare Act of 1980 (42 U.S.C. \u00a7 621 et seq.) \u2014 claims dismissed in January 2009",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1159,
+            1377
+          ]
+        ],
+        "annotation": {
+          "explanation": "Gregory K. Frizzell",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            1378,
+            1431
+          ]
+        ],
+        "annotation": {
+          "explanation": "594 F. Supp. 2d 1273 (N.D. Okl. 2009)",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            1159,
+            1431
+          ]
+        ],
+        "annotation": {
+          "explanation": "D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okla. 2009) \u2014 Order on motion to dismiss: dismissed federal common law and AACWA claims; denied dismissal of remaining claims.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1378,
+            1431
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: D.G.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1378,
+            1431
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Henry.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1159,
+            1431
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural background: Early motion to dismiss was granted in part (federal common law and AACWA claims dismissed) and denied as to other claims, allowing key allegations to proceed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1017,
+            1072
+          ],
+          [
+            1159,
+            1431
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion to dismiss (Apr 2008); granted in part and denied in part (Jan 2009).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1077,
+            1158
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amici curiae briefs filed by Oklahoma-based children's agencies in response to the motion to dismiss.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1159,
+            1431
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 2009 pretrial ruling: Motion to dismiss granted in part (federal common law and Adoption Assistance and Child Welfare Act claims) and denied in part (other claims proceed).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1017,
+            1158
+          ],
+          [
+            1159,
+            1431
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion to dismiss: granted in part (federal common law and AACWA claims) and denied in part (other claims) in January 2009; D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okl. 2009).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": "12429_p2",
+    "metadata": {
+      "case_id": "12429",
+      "paragraph_num": 2,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 5, 2009, the court certified the class of the plaintiffs as all children who are or will be i..."
+    },
+    "source": "",
+    "target": "The plaintiffs, represented by Children's Rights, filed this class action suit against the Oklahoma Department of Human Services (DHS) in February 2008 in the U.S. District Court for the Northern District of Oklahoma. The complaint alleged violations of the First, Fifth, Ninth, and Fourteenth Amendments of the U.S. Constitution, the Adoption Assistance and Child Welfare Act of 1980, 42 U.S.C. \u00a7 621 et seq., the Adoption and Safe Families Act of 1997, 42 U.S.C. \u00a7 670 et seq., and Oklahoma state law. The complaint alleged that DHS placed children in dangerous and inappropriate placements, including extended stays in emergency shelters; failed to monitor the safety of children in DHS custody due to excessive case worker caseloads; failed to provide mental health and other behavioral services; and failed to provide legal representation. The plaintiffs sought declaratory relief and a permanent injunction enjoining defendants from subjecting plaintiffs to practices that violate their constitutional rights.\n\nIn April 2008, the defendants moved to dismiss the case and several Oklahoma-based children's agencies filed amici curiae briefs in response. In January 2009, Judge Gregory K. Frizzell granted the motion to dismiss claims under federal common law and the Adoption Assistance and Child Welfare Act of 1980, but denied the motion with regard to the other claims. D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okl. 2009).\n\nOn May 5, 2009, the court certified the class of the plaintiffs as all children who are or will be in the legal custody of the Oklahoma Department of Human Services (1) due to a report or suspicion of abuse or neglect; or (2) who are or will be adjudicated deprived due to abuse or neglect. The defendants appealed the ruling to the 10th Circuit Court of Appeals, but in February 2010, the appellate court upheld the class certification.\n\nThe parties then engaged in extensive and contested discovery. The plaintiffs provided five expert reports and filed numerous motions to compel the defendants to produce various items. The defendants moved for summary judgment and to decertify the class. In November and December 2011, the court denied the motion to decertify and granted the motion for summary judgment only as to claims pertaining to rights of familial association and procedural due process. 2011 WL 6009628. The case proceeded towards a trial scheduled for February 2012.\n\nMeanwhile, the parties engaged in court-supervised settlement conferences. By January 2012, they negotiated an agreement providing for structural reorganization of DHS and appointed experts to oversee the development and implementation of the Compromise Settlement Agreement (CSA). After a series of fairness hearings, the court approved the CSA on February 29, 2012.\n\nThe CSA implementation plans provided that the defendant DHS would restructure its agency; improve screening, investigating, and reporting of abuse; reduce the use of emergency shelters; and reduce workloads and improve training for caseworkers. The parties agreed to designate three individuals as Co-Neutrals to act as arbiters of any dispute arising out of the CSA and to evaluate and render judgments about DHS's ongoing compliance efforts. The implementation of the CSA would take at least five years. Additionally, on March 31, 2013, the Court ordered the defendants to pay attorneys' fees and expenses in the amount of about $6 million. 2013 WL 1343151.\n\nAlthough DHS originally planned to exit from the CSA in December 2016, it was unable to do so for failure to adequately comply with its terms. In their August 2018 report, the Co-Neutrals noted that although DHS had made important advancements over the course of its reform, those advances were not yet fully instituted, particularly with respect to manageable caseloads and an adequate array of placements for children. The report noted that in some areas, most critically safety for children in the care and custody of DHS, the department\u2019s efforts had been inadequate.\n\nIn May 2018, the Co-Neutrals requested that the Court suspend the operations of a particular children's center for failure to comply with the CSA. The Court granted this request and DHS complied by relocating the children from that center.\n\nOn June 5, 2018, the court entered a judgment and terminated the case. However, the case was reopened three years later when the parties moved to modify the settlement on December 13, 2021. This motion noted that unforeseen circumstances, namely the COVID-19 pandemic, seriously impacted the defendant\u2019s good faith efforts to comply with the settlement agreement. As a result, the parties agreed to suspend the previously scheduled biannual good faith determinations by the Co-Neutrals during the pandemic recovery period as to some of the defendant's obligations. The court granted the motion the following day.\n\nOn March 22, 2023, the Co-Neutrals determined that the Department had met the two-year continuous period of good faith requirements mandated by the CSA as to the obligations that had not been delayed by COVID-19. On April 24, 2023, the court issued an order terminating these obligations.\n\nTwo years later, on February 11, 2025, the Co-Neutrals filed a final report indicating the defendants had complied for two years with the remaining CSA obligations. A month later, on March 13, the court terminated the defendant's obligations under the CSA. The case is now closed.",
+    "target_paragraph": "On May 5, 2009, the court certified the class of the plaintiffs as all children who are or will be in the legal custody of the Oklahoma Department of Human Services (1) due to a report or suspicion of abuse or neglect; or (2) who are or will be adjudicated deprived due to abuse or neglect. The defendants appealed the ruling to the 10th Circuit Court of Appeals, but in February 2010, the appellate court upheld the class certification.",
+    "target_paragraph_indices": [
+      1433,
+      1870
+    ],
+    "edits": [
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            1433,
+            1723
+          ],
+          [
+            1724,
+            1870
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: The defendants appealed to the 10th Circuit Court of Appeals.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1433,
+            1723
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: class of all children who are or will be in the legal custody of the Oklahoma Department of Human Services (1) due to a report or suspicion of abuse or neglect; or (2) who are or will be adjudicated deprived due to abuse or neglect.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1433,
+            1723
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class definition: All children in or entering DHS legal custody due to abuse/neglect reports or adjudications of deprivation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1433,
+            1597
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification order (May 5, 2009).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1724,
+            1870
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants appealed class certification; 10th Circuit upheld certification (Feb 2010).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1433,
+            1870
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification relevant to trial: certified on May 5, 2009; certification upheld by the 10th Circuit in February 2010.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1433,
+            1723
+          ],
+          [
+            1724,
+            1870
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification: granted on May 5, 2009; affirmed by the Tenth Circuit in February 2010.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "12429_p3",
+    "metadata": {
+      "case_id": "12429",
+      "paragraph_num": 3,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The parties then engaged in extensive and contested discovery. The plaintiffs provided five expert r..."
+    },
+    "source": "",
+    "target": "The plaintiffs, represented by Children's Rights, filed this class action suit against the Oklahoma Department of Human Services (DHS) in February 2008 in the U.S. District Court for the Northern District of Oklahoma. The complaint alleged violations of the First, Fifth, Ninth, and Fourteenth Amendments of the U.S. Constitution, the Adoption Assistance and Child Welfare Act of 1980, 42 U.S.C. \u00a7 621 et seq., the Adoption and Safe Families Act of 1997, 42 U.S.C. \u00a7 670 et seq., and Oklahoma state law. The complaint alleged that DHS placed children in dangerous and inappropriate placements, including extended stays in emergency shelters; failed to monitor the safety of children in DHS custody due to excessive case worker caseloads; failed to provide mental health and other behavioral services; and failed to provide legal representation. The plaintiffs sought declaratory relief and a permanent injunction enjoining defendants from subjecting plaintiffs to practices that violate their constitutional rights.\n\nIn April 2008, the defendants moved to dismiss the case and several Oklahoma-based children's agencies filed amici curiae briefs in response. In January 2009, Judge Gregory K. Frizzell granted the motion to dismiss claims under federal common law and the Adoption Assistance and Child Welfare Act of 1980, but denied the motion with regard to the other claims. D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okl. 2009).\n\nOn May 5, 2009, the court certified the class of the plaintiffs as all children who are or will be in the legal custody of the Oklahoma Department of Human Services (1) due to a report or suspicion of abuse or neglect; or (2) who are or will be adjudicated deprived due to abuse or neglect. The defendants appealed the ruling to the 10th Circuit Court of Appeals, but in February 2010, the appellate court upheld the class certification.\n\nThe parties then engaged in extensive and contested discovery. The plaintiffs provided five expert reports and filed numerous motions to compel the defendants to produce various items. The defendants moved for summary judgment and to decertify the class. In November and December 2011, the court denied the motion to decertify and granted the motion for summary judgment only as to claims pertaining to rights of familial association and procedural due process. 2011 WL 6009628. The case proceeded towards a trial scheduled for February 2012.\n\nMeanwhile, the parties engaged in court-supervised settlement conferences. By January 2012, they negotiated an agreement providing for structural reorganization of DHS and appointed experts to oversee the development and implementation of the Compromise Settlement Agreement (CSA). After a series of fairness hearings, the court approved the CSA on February 29, 2012.\n\nThe CSA implementation plans provided that the defendant DHS would restructure its agency; improve screening, investigating, and reporting of abuse; reduce the use of emergency shelters; and reduce workloads and improve training for caseworkers. The parties agreed to designate three individuals as Co-Neutrals to act as arbiters of any dispute arising out of the CSA and to evaluate and render judgments about DHS's ongoing compliance efforts. The implementation of the CSA would take at least five years. Additionally, on March 31, 2013, the Court ordered the defendants to pay attorneys' fees and expenses in the amount of about $6 million. 2013 WL 1343151.\n\nAlthough DHS originally planned to exit from the CSA in December 2016, it was unable to do so for failure to adequately comply with its terms. In their August 2018 report, the Co-Neutrals noted that although DHS had made important advancements over the course of its reform, those advances were not yet fully instituted, particularly with respect to manageable caseloads and an adequate array of placements for children. The report noted that in some areas, most critically safety for children in the care and custody of DHS, the department\u2019s efforts had been inadequate.\n\nIn May 2018, the Co-Neutrals requested that the Court suspend the operations of a particular children's center for failure to comply with the CSA. The Court granted this request and DHS complied by relocating the children from that center.\n\nOn June 5, 2018, the court entered a judgment and terminated the case. However, the case was reopened three years later when the parties moved to modify the settlement on December 13, 2021. This motion noted that unforeseen circumstances, namely the COVID-19 pandemic, seriously impacted the defendant\u2019s good faith efforts to comply with the settlement agreement. As a result, the parties agreed to suspend the previously scheduled biannual good faith determinations by the Co-Neutrals during the pandemic recovery period as to some of the defendant's obligations. The court granted the motion the following day.\n\nOn March 22, 2023, the Co-Neutrals determined that the Department had met the two-year continuous period of good faith requirements mandated by the CSA as to the obligations that had not been delayed by COVID-19. On April 24, 2023, the court issued an order terminating these obligations.\n\nTwo years later, on February 11, 2025, the Co-Neutrals filed a final report indicating the defendants had complied for two years with the remaining CSA obligations. A month later, on March 13, the court terminated the defendant's obligations under the CSA. The case is now closed.",
+    "target_paragraph": "The parties then engaged in extensive and contested discovery. The plaintiffs provided five expert reports and filed numerous motions to compel the defendants to produce various items. The defendants moved for summary judgment and to decertify the class. In November and December 2011, the court denied the motion to decertify and granted the motion for summary judgment only as to claims pertaining to rights of familial association and procedural due process. 2011 WL 6009628. The case proceeded towards a trial scheduled for February 2012.",
+    "target_paragraph_indices": [
+      1872,
+      2414
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2127,
+            2350
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional concept/claim: rights of familial association",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2127,
+            2350
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional clause: procedural due process",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            2127,
+            2350
+          ]
+        ],
+        "annotation": {
+          "explanation": "2011 WL 6009628",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            2127,
+            2350
+          ]
+        ],
+        "annotation": {
+          "explanation": "2011 WL 6009628 \u2014 Orders denying motion to decertify class and granting summary judgment only on familial association and procedural due process claims.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1872,
+            2056
+          ]
+        ],
+        "annotation": {
+          "explanation": "Evidence development: Plaintiffs supported their case with five expert reports and pursued extensive discovery through motions to compel.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2127,
+            2350
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural background: Class maintained; summary judgment granted only on certain due process/familial association claims, leaving the core safety and services claims for trial/settlement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1935,
+            2056
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed numerous motions to compel during discovery.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2057,
+            2126
+          ],
+          [
+            2127,
+            2350
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants moved for summary judgment and to decertify; court denied decertification and granted summary judgment only on familial association and procedural due process claims (Nov\u2013Dec 2011).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2351,
+            2414
+          ]
+        ],
+        "annotation": {
+          "explanation": "Trial scheduled for February 2012.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1872,
+            2126
+          ]
+        ],
+        "annotation": {
+          "explanation": "Pretrial proceedings: extensive discovery, five expert reports, numerous motions to compel; defendants filed motions for summary judgment and to decertify the class.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2127,
+            2350
+          ]
+        ],
+        "annotation": {
+          "explanation": "Pretrial rulings (Nov\u2013Dec 2011): Motion to decertify denied; summary judgment granted only on claims of familial association and procedural due process (remaining claims to proceed toward trial).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2057,
+            2350
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion to decertify class: denied (Nov\u2013Dec 2011).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2057,
+            2350
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for summary judgment: granted in part only as to claims regarding rights of familial association and procedural due process (Nov\u2013Dec 2011); 2011 WL 6009628.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": "12429_p4",
+    "metadata": {
+      "case_id": "12429",
+      "paragraph_num": 4,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Meanwhile, the parties engaged in court-supervised settlement conferences. By January 2012, they neg..."
+    },
+    "source": "",
+    "target": "The plaintiffs, represented by Children's Rights, filed this class action suit against the Oklahoma Department of Human Services (DHS) in February 2008 in the U.S. District Court for the Northern District of Oklahoma. The complaint alleged violations of the First, Fifth, Ninth, and Fourteenth Amendments of the U.S. Constitution, the Adoption Assistance and Child Welfare Act of 1980, 42 U.S.C. \u00a7 621 et seq., the Adoption and Safe Families Act of 1997, 42 U.S.C. \u00a7 670 et seq., and Oklahoma state law. The complaint alleged that DHS placed children in dangerous and inappropriate placements, including extended stays in emergency shelters; failed to monitor the safety of children in DHS custody due to excessive case worker caseloads; failed to provide mental health and other behavioral services; and failed to provide legal representation. The plaintiffs sought declaratory relief and a permanent injunction enjoining defendants from subjecting plaintiffs to practices that violate their constitutional rights.\n\nIn April 2008, the defendants moved to dismiss the case and several Oklahoma-based children's agencies filed amici curiae briefs in response. In January 2009, Judge Gregory K. Frizzell granted the motion to dismiss claims under federal common law and the Adoption Assistance and Child Welfare Act of 1980, but denied the motion with regard to the other claims. D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okl. 2009).\n\nOn May 5, 2009, the court certified the class of the plaintiffs as all children who are or will be in the legal custody of the Oklahoma Department of Human Services (1) due to a report or suspicion of abuse or neglect; or (2) who are or will be adjudicated deprived due to abuse or neglect. The defendants appealed the ruling to the 10th Circuit Court of Appeals, but in February 2010, the appellate court upheld the class certification.\n\nThe parties then engaged in extensive and contested discovery. The plaintiffs provided five expert reports and filed numerous motions to compel the defendants to produce various items. The defendants moved for summary judgment and to decertify the class. In November and December 2011, the court denied the motion to decertify and granted the motion for summary judgment only as to claims pertaining to rights of familial association and procedural due process. 2011 WL 6009628. The case proceeded towards a trial scheduled for February 2012.\n\nMeanwhile, the parties engaged in court-supervised settlement conferences. By January 2012, they negotiated an agreement providing for structural reorganization of DHS and appointed experts to oversee the development and implementation of the Compromise Settlement Agreement (CSA). After a series of fairness hearings, the court approved the CSA on February 29, 2012.\n\nThe CSA implementation plans provided that the defendant DHS would restructure its agency; improve screening, investigating, and reporting of abuse; reduce the use of emergency shelters; and reduce workloads and improve training for caseworkers. The parties agreed to designate three individuals as Co-Neutrals to act as arbiters of any dispute arising out of the CSA and to evaluate and render judgments about DHS's ongoing compliance efforts. The implementation of the CSA would take at least five years. Additionally, on March 31, 2013, the Court ordered the defendants to pay attorneys' fees and expenses in the amount of about $6 million. 2013 WL 1343151.\n\nAlthough DHS originally planned to exit from the CSA in December 2016, it was unable to do so for failure to adequately comply with its terms. In their August 2018 report, the Co-Neutrals noted that although DHS had made important advancements over the course of its reform, those advances were not yet fully instituted, particularly with respect to manageable caseloads and an adequate array of placements for children. The report noted that in some areas, most critically safety for children in the care and custody of DHS, the department\u2019s efforts had been inadequate.\n\nIn May 2018, the Co-Neutrals requested that the Court suspend the operations of a particular children's center for failure to comply with the CSA. The Court granted this request and DHS complied by relocating the children from that center.\n\nOn June 5, 2018, the court entered a judgment and terminated the case. However, the case was reopened three years later when the parties moved to modify the settlement on December 13, 2021. This motion noted that unforeseen circumstances, namely the COVID-19 pandemic, seriously impacted the defendant\u2019s good faith efforts to comply with the settlement agreement. As a result, the parties agreed to suspend the previously scheduled biannual good faith determinations by the Co-Neutrals during the pandemic recovery period as to some of the defendant's obligations. The court granted the motion the following day.\n\nOn March 22, 2023, the Co-Neutrals determined that the Department had met the two-year continuous period of good faith requirements mandated by the CSA as to the obligations that had not been delayed by COVID-19. On April 24, 2023, the court issued an order terminating these obligations.\n\nTwo years later, on February 11, 2025, the Co-Neutrals filed a final report indicating the defendants had complied for two years with the remaining CSA obligations. A month later, on March 13, the court terminated the defendant's obligations under the CSA. The case is now closed.",
+    "target_paragraph": "Meanwhile, the parties engaged in court-supervised settlement conferences. By January 2012, they negotiated an agreement providing for structural reorganization of DHS and appointed experts to oversee the development and implementation of the Compromise Settlement Agreement (CSA). After a series of fairness hearings, the court approved the CSA on February 29, 2012.",
+    "target_paragraph_indices": [
+      2416,
+      2783
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            2698,
+            2783
+          ]
+        ],
+        "annotation": {
+          "explanation": "February 29, 2012: The court approved the Compromise Settlement Agreement (CSA).",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            2491,
+            2697
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 2012: The parties negotiated an agreement providing for structural reorganization of DHS and appointed experts to oversee development and implementation of the CSA.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            2698,
+            2783
+          ],
+          [
+            4020,
+            4259
+          ],
+          [
+            4386,
+            4623
+          ],
+          [
+            4826,
+            4873
+          ],
+          [
+            5088,
+            5163
+          ],
+          [
+            5330,
+            5421
+          ]
+        ],
+        "annotation": {
+          "explanation": "[Yes].",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": [
+            4,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "monitor_name",
+        "output_idx": [
+          [
+            2588,
+            2697
+          ],
+          [
+            3031,
+            3229
+          ]
+        ],
+        "annotation": {
+          "explanation": "Yes\u2014three Co-Neutrals were appointed to oversee and evaluate compliance; names not provided.",
+          "checklist_item": "Name of the Monitor",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2491,
+            2783
+          ],
+          [
+            2785,
+            3030
+          ],
+          [
+            3031,
+            3229
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement framework and remedial measures: The court-approved CSA required DHS to reorganize, improve abuse screening/investigation/reporting, reduce emergency shelter use, and lower caseloads with better training, with compliance overseen by Co-Neutrals.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2698,
+            2783
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court approved Compromise Settlement Agreement after fairness hearings (Feb 29, 2012).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2491,
+            2583
+          ],
+          [
+            2785,
+            2875
+          ]
+        ],
+        "annotation": {
+          "explanation": "DHS must restructure its agency.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2508,
+            2697
+          ],
+          [
+            3031,
+            3229
+          ]
+        ],
+        "annotation": {
+          "explanation": "Oversight mechanism: appointment of experts/Co-Neutrals to arbitrate CSA disputes and evaluate DHS\u2019s compliance.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2491,
+            2697
+          ],
+          [
+            3031,
+            3229
+          ]
+        ],
+        "annotation": {
+          "explanation": "Independent oversight and dispute resolution: experts/Co-Neutrals are appointed to oversee development and implementation, arbitrate CSA disputes, and evaluate DHS\u2019s ongoing compliance.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2416,
+            2783
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement supplanted trial: parties negotiated the CSA by January 2012; after fairness hearings, the court approved the CSA on February 29, 2012 (no trial is described).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2698,
+            2783
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement approval: court approved the Compromise Settlement Agreement on February 29, 2012.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "12429_p5",
+    "metadata": {
+      "case_id": "12429",
+      "paragraph_num": 5,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The CSA implementation plans provided that the defendant DHS would restructure its agency; improve s..."
+    },
+    "source": "",
+    "target": "The plaintiffs, represented by Children's Rights, filed this class action suit against the Oklahoma Department of Human Services (DHS) in February 2008 in the U.S. District Court for the Northern District of Oklahoma. The complaint alleged violations of the First, Fifth, Ninth, and Fourteenth Amendments of the U.S. Constitution, the Adoption Assistance and Child Welfare Act of 1980, 42 U.S.C. \u00a7 621 et seq., the Adoption and Safe Families Act of 1997, 42 U.S.C. \u00a7 670 et seq., and Oklahoma state law. The complaint alleged that DHS placed children in dangerous and inappropriate placements, including extended stays in emergency shelters; failed to monitor the safety of children in DHS custody due to excessive case worker caseloads; failed to provide mental health and other behavioral services; and failed to provide legal representation. The plaintiffs sought declaratory relief and a permanent injunction enjoining defendants from subjecting plaintiffs to practices that violate their constitutional rights.\n\nIn April 2008, the defendants moved to dismiss the case and several Oklahoma-based children's agencies filed amici curiae briefs in response. In January 2009, Judge Gregory K. Frizzell granted the motion to dismiss claims under federal common law and the Adoption Assistance and Child Welfare Act of 1980, but denied the motion with regard to the other claims. D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okl. 2009).\n\nOn May 5, 2009, the court certified the class of the plaintiffs as all children who are or will be in the legal custody of the Oklahoma Department of Human Services (1) due to a report or suspicion of abuse or neglect; or (2) who are or will be adjudicated deprived due to abuse or neglect. The defendants appealed the ruling to the 10th Circuit Court of Appeals, but in February 2010, the appellate court upheld the class certification.\n\nThe parties then engaged in extensive and contested discovery. The plaintiffs provided five expert reports and filed numerous motions to compel the defendants to produce various items. The defendants moved for summary judgment and to decertify the class. In November and December 2011, the court denied the motion to decertify and granted the motion for summary judgment only as to claims pertaining to rights of familial association and procedural due process. 2011 WL 6009628. The case proceeded towards a trial scheduled for February 2012.\n\nMeanwhile, the parties engaged in court-supervised settlement conferences. By January 2012, they negotiated an agreement providing for structural reorganization of DHS and appointed experts to oversee the development and implementation of the Compromise Settlement Agreement (CSA). After a series of fairness hearings, the court approved the CSA on February 29, 2012.\n\nThe CSA implementation plans provided that the defendant DHS would restructure its agency; improve screening, investigating, and reporting of abuse; reduce the use of emergency shelters; and reduce workloads and improve training for caseworkers. The parties agreed to designate three individuals as Co-Neutrals to act as arbiters of any dispute arising out of the CSA and to evaluate and render judgments about DHS's ongoing compliance efforts. The implementation of the CSA would take at least five years. Additionally, on March 31, 2013, the Court ordered the defendants to pay attorneys' fees and expenses in the amount of about $6 million. 2013 WL 1343151.\n\nAlthough DHS originally planned to exit from the CSA in December 2016, it was unable to do so for failure to adequately comply with its terms. In their August 2018 report, the Co-Neutrals noted that although DHS had made important advancements over the course of its reform, those advances were not yet fully instituted, particularly with respect to manageable caseloads and an adequate array of placements for children. The report noted that in some areas, most critically safety for children in the care and custody of DHS, the department\u2019s efforts had been inadequate.\n\nIn May 2018, the Co-Neutrals requested that the Court suspend the operations of a particular children's center for failure to comply with the CSA. The Court granted this request and DHS complied by relocating the children from that center.\n\nOn June 5, 2018, the court entered a judgment and terminated the case. However, the case was reopened three years later when the parties moved to modify the settlement on December 13, 2021. This motion noted that unforeseen circumstances, namely the COVID-19 pandemic, seriously impacted the defendant\u2019s good faith efforts to comply with the settlement agreement. As a result, the parties agreed to suspend the previously scheduled biannual good faith determinations by the Co-Neutrals during the pandemic recovery period as to some of the defendant's obligations. The court granted the motion the following day.\n\nOn March 22, 2023, the Co-Neutrals determined that the Department had met the two-year continuous period of good faith requirements mandated by the CSA as to the obligations that had not been delayed by COVID-19. On April 24, 2023, the court issued an order terminating these obligations.\n\nTwo years later, on February 11, 2025, the Co-Neutrals filed a final report indicating the defendants had complied for two years with the remaining CSA obligations. A month later, on March 13, the court terminated the defendant's obligations under the CSA. The case is now closed.",
+    "target_paragraph": "The CSA implementation plans provided that the defendant DHS would restructure its agency; improve screening, investigating, and reporting of abuse; reduce the use of emergency shelters; and reduce workloads and improve training for caseworkers. The parties agreed to designate three individuals as Co-Neutrals to act as arbiters of any dispute arising out of the CSA and to evaluate and render judgments about DHS's ongoing compliance efforts. The implementation of the CSA would take at least five years. Additionally, on March 31, 2013, the Court ordered the defendants to pay attorneys' fees and expenses in the amount of about $6 million. 2013 WL 1343151.",
+    "target_paragraph_indices": [
+      2785,
+      3445
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3292,
+            3445
+          ]
+        ],
+        "annotation": {
+          "explanation": "2013 WL 1343151",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            3292,
+            3445
+          ]
+        ],
+        "annotation": {
+          "explanation": "2013 WL 1343151 \u2014 Order awarding approximately $6 million in attorneys' fees and expenses.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            3230,
+            3291
+          ]
+        ],
+        "annotation": {
+          "explanation": "at least five years: implementation of the Compromise Settlement Agreement (CSA).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            3230,
+            3291
+          ]
+        ],
+        "annotation": {
+          "explanation": "at least five years: implementation of the CSA.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3292,
+            3445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fee award context: Court awarded approximately $6 million in attorneys' fees and expenses.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3292,
+            3445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys\u2019 fees and expenses ordered (~$6 million) (Mar 31, 2013).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2785,
+            2851
+          ],
+          [
+            2876,
+            2933
+          ]
+        ],
+        "annotation": {
+          "explanation": "DHS must improve screening, investigating, and reporting of abuse.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2785,
+            2851
+          ],
+          [
+            2934,
+            2971
+          ]
+        ],
+        "annotation": {
+          "explanation": "DHS must reduce the use of emergency shelters.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2785,
+            2851
+          ],
+          [
+            2976,
+            3030
+          ]
+        ],
+        "annotation": {
+          "explanation": "DHS must reduce caseworker workloads and improve training for caseworkers.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3230,
+            3291
+          ]
+        ],
+        "annotation": {
+          "explanation": "CSA implementation period set to at least five years.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3292,
+            3445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants ordered to pay approximately $6 million in attorneys\u2019 fees and expenses.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2785,
+            3030
+          ]
+        ],
+        "annotation": {
+          "explanation": "DHS must: restructure its agency; improve screening, investigation, and reporting of abuse; reduce use of emergency shelters; reduce workloads and improve caseworker training.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3230,
+            3291
+          ]
+        ],
+        "annotation": {
+          "explanation": "CSA implementation period is at least five years.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3292,
+            3445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants ordered to pay approximately $6 million in attorneys\u2019 fees and expenses.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3292,
+            3445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys' fees: approximately $6 million awarded on March 31, 2013; 2013 WL 1343151.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "settlement_disputes",
+        "output_idx": [
+          [
+            3031,
+            3229
+          ]
+        ],
+        "annotation": {
+          "explanation": "CSA enforcement mechanism: Co\u2011Neutrals designated to arbitrate disputes and evaluate compliance.",
+          "checklist_item": "Disputes Over Settlement Enforcement",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": "12429_p6",
+    "metadata": {
+      "case_id": "12429",
+      "paragraph_num": 6,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Although DHS originally planned to exit from the CSA in December 2016, it was unable to do so for fa..."
+    },
+    "source": "",
+    "target": "The plaintiffs, represented by Children's Rights, filed this class action suit against the Oklahoma Department of Human Services (DHS) in February 2008 in the U.S. District Court for the Northern District of Oklahoma. The complaint alleged violations of the First, Fifth, Ninth, and Fourteenth Amendments of the U.S. Constitution, the Adoption Assistance and Child Welfare Act of 1980, 42 U.S.C. \u00a7 621 et seq., the Adoption and Safe Families Act of 1997, 42 U.S.C. \u00a7 670 et seq., and Oklahoma state law. The complaint alleged that DHS placed children in dangerous and inappropriate placements, including extended stays in emergency shelters; failed to monitor the safety of children in DHS custody due to excessive case worker caseloads; failed to provide mental health and other behavioral services; and failed to provide legal representation. The plaintiffs sought declaratory relief and a permanent injunction enjoining defendants from subjecting plaintiffs to practices that violate their constitutional rights.\n\nIn April 2008, the defendants moved to dismiss the case and several Oklahoma-based children's agencies filed amici curiae briefs in response. In January 2009, Judge Gregory K. Frizzell granted the motion to dismiss claims under federal common law and the Adoption Assistance and Child Welfare Act of 1980, but denied the motion with regard to the other claims. D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okl. 2009).\n\nOn May 5, 2009, the court certified the class of the plaintiffs as all children who are or will be in the legal custody of the Oklahoma Department of Human Services (1) due to a report or suspicion of abuse or neglect; or (2) who are or will be adjudicated deprived due to abuse or neglect. The defendants appealed the ruling to the 10th Circuit Court of Appeals, but in February 2010, the appellate court upheld the class certification.\n\nThe parties then engaged in extensive and contested discovery. The plaintiffs provided five expert reports and filed numerous motions to compel the defendants to produce various items. The defendants moved for summary judgment and to decertify the class. In November and December 2011, the court denied the motion to decertify and granted the motion for summary judgment only as to claims pertaining to rights of familial association and procedural due process. 2011 WL 6009628. The case proceeded towards a trial scheduled for February 2012.\n\nMeanwhile, the parties engaged in court-supervised settlement conferences. By January 2012, they negotiated an agreement providing for structural reorganization of DHS and appointed experts to oversee the development and implementation of the Compromise Settlement Agreement (CSA). After a series of fairness hearings, the court approved the CSA on February 29, 2012.\n\nThe CSA implementation plans provided that the defendant DHS would restructure its agency; improve screening, investigating, and reporting of abuse; reduce the use of emergency shelters; and reduce workloads and improve training for caseworkers. The parties agreed to designate three individuals as Co-Neutrals to act as arbiters of any dispute arising out of the CSA and to evaluate and render judgments about DHS's ongoing compliance efforts. The implementation of the CSA would take at least five years. Additionally, on March 31, 2013, the Court ordered the defendants to pay attorneys' fees and expenses in the amount of about $6 million. 2013 WL 1343151.\n\nAlthough DHS originally planned to exit from the CSA in December 2016, it was unable to do so for failure to adequately comply with its terms. In their August 2018 report, the Co-Neutrals noted that although DHS had made important advancements over the course of its reform, those advances were not yet fully instituted, particularly with respect to manageable caseloads and an adequate array of placements for children. The report noted that in some areas, most critically safety for children in the care and custody of DHS, the department\u2019s efforts had been inadequate.\n\nIn May 2018, the Co-Neutrals requested that the Court suspend the operations of a particular children's center for failure to comply with the CSA. The Court granted this request and DHS complied by relocating the children from that center.\n\nOn June 5, 2018, the court entered a judgment and terminated the case. However, the case was reopened three years later when the parties moved to modify the settlement on December 13, 2021. This motion noted that unforeseen circumstances, namely the COVID-19 pandemic, seriously impacted the defendant\u2019s good faith efforts to comply with the settlement agreement. As a result, the parties agreed to suspend the previously scheduled biannual good faith determinations by the Co-Neutrals during the pandemic recovery period as to some of the defendant's obligations. The court granted the motion the following day.\n\nOn March 22, 2023, the Co-Neutrals determined that the Department had met the two-year continuous period of good faith requirements mandated by the CSA as to the obligations that had not been delayed by COVID-19. On April 24, 2023, the court issued an order terminating these obligations.\n\nTwo years later, on February 11, 2025, the Co-Neutrals filed a final report indicating the defendants had complied for two years with the remaining CSA obligations. A month later, on March 13, the court terminated the defendant's obligations under the CSA. The case is now closed.",
+    "target_paragraph": "Although DHS originally planned to exit from the CSA in December 2016, it was unable to do so for failure to adequately comply with its terms. In their August 2018 report, the Co-Neutrals noted that although DHS had made important advancements over the course of its reform, those advances were not yet fully instituted, particularly with respect to manageable caseloads and an adequate array of placements for children. The report noted that in some areas, most critically safety for children in the care and custody of DHS, the department\u2019s efforts had been inadequate.",
+    "target_paragraph_indices": [
+      3447,
+      4018
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3447,
+            3589
+          ],
+          [
+            3590,
+            4018
+          ]
+        ],
+        "annotation": {
+          "explanation": "Compliance findings as evidence of ongoing deficiencies: Co-Neutrals found continued noncompliance, especially on caseloads, placements, and child safety, preventing DHS\u2019s exit from the CSA in 2016 and documented again in 2018.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "monitor_reports",
+        "output_idx": [
+          [
+            3590,
+            3867
+          ],
+          [
+            3868,
+            4018
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 2018 Co-Neutrals\u2019 report: DHS\u2019s reforms were not fully instituted\u2014especially manageable caseloads and placement array\u2014and child safety in DHS custody remained inadequate.",
+          "checklist_item": "Monitor Reports",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "settlement_disputes",
+        "output_idx": [
+          [
+            3447,
+            3589
+          ],
+          [
+            3590,
+            4018
+          ]
+        ],
+        "annotation": {
+          "explanation": "Noncompliance delayed DHS\u2019s exit from the CSA; Co\u2011Neutrals\u2019 Aug. 2018 report found inadequate safety and incomplete progress on caseloads and placements.",
+          "checklist_item": "Disputes Over Settlement Enforcement",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "12429_p7",
+    "metadata": {
+      "case_id": "12429",
+      "paragraph_num": 7,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In May 2018, the Co-Neutrals requested that the Court suspend the operations of a particular childre..."
+    },
+    "source": "",
+    "target": "The plaintiffs, represented by Children's Rights, filed this class action suit against the Oklahoma Department of Human Services (DHS) in February 2008 in the U.S. District Court for the Northern District of Oklahoma. The complaint alleged violations of the First, Fifth, Ninth, and Fourteenth Amendments of the U.S. Constitution, the Adoption Assistance and Child Welfare Act of 1980, 42 U.S.C. \u00a7 621 et seq., the Adoption and Safe Families Act of 1997, 42 U.S.C. \u00a7 670 et seq., and Oklahoma state law. The complaint alleged that DHS placed children in dangerous and inappropriate placements, including extended stays in emergency shelters; failed to monitor the safety of children in DHS custody due to excessive case worker caseloads; failed to provide mental health and other behavioral services; and failed to provide legal representation. The plaintiffs sought declaratory relief and a permanent injunction enjoining defendants from subjecting plaintiffs to practices that violate their constitutional rights.\n\nIn April 2008, the defendants moved to dismiss the case and several Oklahoma-based children's agencies filed amici curiae briefs in response. In January 2009, Judge Gregory K. Frizzell granted the motion to dismiss claims under federal common law and the Adoption Assistance and Child Welfare Act of 1980, but denied the motion with regard to the other claims. D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okl. 2009).\n\nOn May 5, 2009, the court certified the class of the plaintiffs as all children who are or will be in the legal custody of the Oklahoma Department of Human Services (1) due to a report or suspicion of abuse or neglect; or (2) who are or will be adjudicated deprived due to abuse or neglect. The defendants appealed the ruling to the 10th Circuit Court of Appeals, but in February 2010, the appellate court upheld the class certification.\n\nThe parties then engaged in extensive and contested discovery. The plaintiffs provided five expert reports and filed numerous motions to compel the defendants to produce various items. The defendants moved for summary judgment and to decertify the class. In November and December 2011, the court denied the motion to decertify and granted the motion for summary judgment only as to claims pertaining to rights of familial association and procedural due process. 2011 WL 6009628. The case proceeded towards a trial scheduled for February 2012.\n\nMeanwhile, the parties engaged in court-supervised settlement conferences. By January 2012, they negotiated an agreement providing for structural reorganization of DHS and appointed experts to oversee the development and implementation of the Compromise Settlement Agreement (CSA). After a series of fairness hearings, the court approved the CSA on February 29, 2012.\n\nThe CSA implementation plans provided that the defendant DHS would restructure its agency; improve screening, investigating, and reporting of abuse; reduce the use of emergency shelters; and reduce workloads and improve training for caseworkers. The parties agreed to designate three individuals as Co-Neutrals to act as arbiters of any dispute arising out of the CSA and to evaluate and render judgments about DHS's ongoing compliance efforts. The implementation of the CSA would take at least five years. Additionally, on March 31, 2013, the Court ordered the defendants to pay attorneys' fees and expenses in the amount of about $6 million. 2013 WL 1343151.\n\nAlthough DHS originally planned to exit from the CSA in December 2016, it was unable to do so for failure to adequately comply with its terms. In their August 2018 report, the Co-Neutrals noted that although DHS had made important advancements over the course of its reform, those advances were not yet fully instituted, particularly with respect to manageable caseloads and an adequate array of placements for children. The report noted that in some areas, most critically safety for children in the care and custody of DHS, the department\u2019s efforts had been inadequate.\n\nIn May 2018, the Co-Neutrals requested that the Court suspend the operations of a particular children's center for failure to comply with the CSA. The Court granted this request and DHS complied by relocating the children from that center.\n\nOn June 5, 2018, the court entered a judgment and terminated the case. However, the case was reopened three years later when the parties moved to modify the settlement on December 13, 2021. This motion noted that unforeseen circumstances, namely the COVID-19 pandemic, seriously impacted the defendant\u2019s good faith efforts to comply with the settlement agreement. As a result, the parties agreed to suspend the previously scheduled biannual good faith determinations by the Co-Neutrals during the pandemic recovery period as to some of the defendant's obligations. The court granted the motion the following day.\n\nOn March 22, 2023, the Co-Neutrals determined that the Department had met the two-year continuous period of good faith requirements mandated by the CSA as to the obligations that had not been delayed by COVID-19. On April 24, 2023, the court issued an order terminating these obligations.\n\nTwo years later, on February 11, 2025, the Co-Neutrals filed a final report indicating the defendants had complied for two years with the remaining CSA obligations. A month later, on March 13, the court terminated the defendant's obligations under the CSA. The case is now closed.",
+    "target_paragraph": "In May 2018, the Co-Neutrals requested that the Court suspend the operations of a particular children's center for failure to comply with the CSA. The Court granted this request and DHS complied by relocating the children from that center.",
+    "target_paragraph_indices": [
+      4020,
+      4259
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4020,
+            4259
+          ]
+        ],
+        "annotation": {
+          "explanation": "Specific safety action: Operations of a children\u2019s center were suspended for CSA noncompliance; children were relocated, evidencing concrete safety concerns.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4020,
+            4259
+          ]
+        ],
+        "annotation": {
+          "explanation": "Co-Neutrals\u2019 request to suspend operations of a children\u2019s center granted (May 2018).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4020,
+            4166
+          ],
+          [
+            4167,
+            4259
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court-ordered suspension of operations at a specific children\u2019s center; DHS to relocate the children from that center.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4020,
+            4259
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court ordered suspension of operations at a specific children\u2019s center; DHS required to relocate the children from that center.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "monitor_reports",
+        "output_idx": [
+          [
+            4020,
+            4166
+          ],
+          [
+            4167,
+            4259
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 2018 monitoring action: Co-Neutrals identified non-compliance at a specific children\u2019s center and successfully sought court-ordered suspension; children were relocated.",
+          "checklist_item": "Monitor Reports",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4020,
+            4259
+          ]
+        ],
+        "annotation": {
+          "explanation": "Request to suspend operations of a children's center: granted in May 2018.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "settlement_disputes",
+        "output_idx": [
+          [
+            4020,
+            4259
+          ]
+        ],
+        "annotation": {
+          "explanation": "Enforcement action: Court granted Co\u2011Neutrals\u2019 request to suspend a children\u2019s center for CSA noncompliance; DHS relocated the children.",
+          "checklist_item": "Disputes Over Settlement Enforcement",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "12429_p8",
+    "metadata": {
+      "case_id": "12429",
+      "paragraph_num": 8,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 5, 2018, the court entered a judgment and terminated the case. However, the case was reopene..."
+    },
+    "source": "",
+    "target": "The plaintiffs, represented by Children's Rights, filed this class action suit against the Oklahoma Department of Human Services (DHS) in February 2008 in the U.S. District Court for the Northern District of Oklahoma. The complaint alleged violations of the First, Fifth, Ninth, and Fourteenth Amendments of the U.S. Constitution, the Adoption Assistance and Child Welfare Act of 1980, 42 U.S.C. \u00a7 621 et seq., the Adoption and Safe Families Act of 1997, 42 U.S.C. \u00a7 670 et seq., and Oklahoma state law. The complaint alleged that DHS placed children in dangerous and inappropriate placements, including extended stays in emergency shelters; failed to monitor the safety of children in DHS custody due to excessive case worker caseloads; failed to provide mental health and other behavioral services; and failed to provide legal representation. The plaintiffs sought declaratory relief and a permanent injunction enjoining defendants from subjecting plaintiffs to practices that violate their constitutional rights.\n\nIn April 2008, the defendants moved to dismiss the case and several Oklahoma-based children's agencies filed amici curiae briefs in response. In January 2009, Judge Gregory K. Frizzell granted the motion to dismiss claims under federal common law and the Adoption Assistance and Child Welfare Act of 1980, but denied the motion with regard to the other claims. D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okl. 2009).\n\nOn May 5, 2009, the court certified the class of the plaintiffs as all children who are or will be in the legal custody of the Oklahoma Department of Human Services (1) due to a report or suspicion of abuse or neglect; or (2) who are or will be adjudicated deprived due to abuse or neglect. The defendants appealed the ruling to the 10th Circuit Court of Appeals, but in February 2010, the appellate court upheld the class certification.\n\nThe parties then engaged in extensive and contested discovery. The plaintiffs provided five expert reports and filed numerous motions to compel the defendants to produce various items. The defendants moved for summary judgment and to decertify the class. In November and December 2011, the court denied the motion to decertify and granted the motion for summary judgment only as to claims pertaining to rights of familial association and procedural due process. 2011 WL 6009628. The case proceeded towards a trial scheduled for February 2012.\n\nMeanwhile, the parties engaged in court-supervised settlement conferences. By January 2012, they negotiated an agreement providing for structural reorganization of DHS and appointed experts to oversee the development and implementation of the Compromise Settlement Agreement (CSA). After a series of fairness hearings, the court approved the CSA on February 29, 2012.\n\nThe CSA implementation plans provided that the defendant DHS would restructure its agency; improve screening, investigating, and reporting of abuse; reduce the use of emergency shelters; and reduce workloads and improve training for caseworkers. The parties agreed to designate three individuals as Co-Neutrals to act as arbiters of any dispute arising out of the CSA and to evaluate and render judgments about DHS's ongoing compliance efforts. The implementation of the CSA would take at least five years. Additionally, on March 31, 2013, the Court ordered the defendants to pay attorneys' fees and expenses in the amount of about $6 million. 2013 WL 1343151.\n\nAlthough DHS originally planned to exit from the CSA in December 2016, it was unable to do so for failure to adequately comply with its terms. In their August 2018 report, the Co-Neutrals noted that although DHS had made important advancements over the course of its reform, those advances were not yet fully instituted, particularly with respect to manageable caseloads and an adequate array of placements for children. The report noted that in some areas, most critically safety for children in the care and custody of DHS, the department\u2019s efforts had been inadequate.\n\nIn May 2018, the Co-Neutrals requested that the Court suspend the operations of a particular children's center for failure to comply with the CSA. The Court granted this request and DHS complied by relocating the children from that center.\n\nOn June 5, 2018, the court entered a judgment and terminated the case. However, the case was reopened three years later when the parties moved to modify the settlement on December 13, 2021. This motion noted that unforeseen circumstances, namely the COVID-19 pandemic, seriously impacted the defendant\u2019s good faith efforts to comply with the settlement agreement. As a result, the parties agreed to suspend the previously scheduled biannual good faith determinations by the Co-Neutrals during the pandemic recovery period as to some of the defendant's obligations. The court granted the motion the following day.\n\nOn March 22, 2023, the Co-Neutrals determined that the Department had met the two-year continuous period of good faith requirements mandated by the CSA as to the obligations that had not been delayed by COVID-19. On April 24, 2023, the court issued an order terminating these obligations.\n\nTwo years later, on February 11, 2025, the Co-Neutrals filed a final report indicating the defendants had complied for two years with the remaining CSA obligations. A month later, on March 13, the court terminated the defendant's obligations under the CSA. The case is now closed.",
+    "target_paragraph": "On June 5, 2018, the court entered a judgment and terminated the case. However, the case was reopened three years later when the parties moved to modify the settlement on December 13, 2021. This motion noted that unforeseen circumstances, namely the COVID-19 pandemic, seriously impacted the defendant\u2019s good faith efforts to comply with the settlement agreement. As a result, the parties agreed to suspend the previously scheduled biannual good faith determinations by the Co-Neutrals during the pandemic recovery period as to some of the defendant's obligations. The court granted the motion the following day.",
+    "target_paragraph_indices": [
+      4261,
+      4873
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4625,
+            4825
+          ]
+        ],
+        "annotation": {
+          "explanation": "biannual: good faith determinations by the Co-Neutrals.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4625,
+            4825
+          ]
+        ],
+        "annotation": {
+          "explanation": "during the pandemic recovery period: suspension of biannual good faith determinations by the Co-Neutrals as to some obligations.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            4341,
+            4450
+          ]
+        ],
+        "annotation": {
+          "explanation": "December 13, 2021: The parties moved to modify the settlement.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4261,
+            4331
+          ],
+          [
+            4332,
+            4873
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status and COVID-19 context: Case was terminated in 2018, then reopened in 2021 to modify settlement obligations due to COVID-19 impacts on compliance and to suspend certain good faith determinations.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4261,
+            4331
+          ]
+        ],
+        "annotation": {
+          "explanation": "Judgment entered; case terminated (June 5, 2018).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4341,
+            4450
+          ],
+          [
+            4826,
+            4873
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties moved to modify settlement (Dec 13, 2021); motion granted (Dec 14, 2021).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4625,
+            4873
+          ]
+        ],
+        "annotation": {
+          "explanation": "During COVID-19 recovery, biannual good-faith determinations by Co-Neutrals were suspended for some DHS obligations (per court-approved modification).",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4625,
+            4873
+          ]
+        ],
+        "annotation": {
+          "explanation": "During the COVID-19 recovery period, the parties (with court approval) suspended biannual Co-Neutral good-faith determinations for certain DHS obligations.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4332,
+            4450
+          ],
+          [
+            4826,
+            4873
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion to modify settlement: granted on December 14, 2021 (motion filed December 13, 2021).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "settlement_disputes",
+        "output_idx": [
+          [
+            4261,
+            4450
+          ],
+          [
+            4451,
+            4873
+          ]
+        ],
+        "annotation": {
+          "explanation": "Modification of enforcement due to COVID-19: Case reopened in 2021; biannual Co\u2011Neutral good\u2011faith determinations suspended for some obligations; court granted the modification.",
+          "checklist_item": "Disputes Over Settlement Enforcement",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "12429_p9",
+    "metadata": {
+      "case_id": "12429",
+      "paragraph_num": 9,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 22, 2023, the Co-Neutrals determined that the Department had met the two-year continuous pe..."
+    },
+    "source": "",
+    "target": "The plaintiffs, represented by Children's Rights, filed this class action suit against the Oklahoma Department of Human Services (DHS) in February 2008 in the U.S. District Court for the Northern District of Oklahoma. The complaint alleged violations of the First, Fifth, Ninth, and Fourteenth Amendments of the U.S. Constitution, the Adoption Assistance and Child Welfare Act of 1980, 42 U.S.C. \u00a7 621 et seq., the Adoption and Safe Families Act of 1997, 42 U.S.C. \u00a7 670 et seq., and Oklahoma state law. The complaint alleged that DHS placed children in dangerous and inappropriate placements, including extended stays in emergency shelters; failed to monitor the safety of children in DHS custody due to excessive case worker caseloads; failed to provide mental health and other behavioral services; and failed to provide legal representation. The plaintiffs sought declaratory relief and a permanent injunction enjoining defendants from subjecting plaintiffs to practices that violate their constitutional rights.\n\nIn April 2008, the defendants moved to dismiss the case and several Oklahoma-based children's agencies filed amici curiae briefs in response. In January 2009, Judge Gregory K. Frizzell granted the motion to dismiss claims under federal common law and the Adoption Assistance and Child Welfare Act of 1980, but denied the motion with regard to the other claims. D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okl. 2009).\n\nOn May 5, 2009, the court certified the class of the plaintiffs as all children who are or will be in the legal custody of the Oklahoma Department of Human Services (1) due to a report or suspicion of abuse or neglect; or (2) who are or will be adjudicated deprived due to abuse or neglect. The defendants appealed the ruling to the 10th Circuit Court of Appeals, but in February 2010, the appellate court upheld the class certification.\n\nThe parties then engaged in extensive and contested discovery. The plaintiffs provided five expert reports and filed numerous motions to compel the defendants to produce various items. The defendants moved for summary judgment and to decertify the class. In November and December 2011, the court denied the motion to decertify and granted the motion for summary judgment only as to claims pertaining to rights of familial association and procedural due process. 2011 WL 6009628. The case proceeded towards a trial scheduled for February 2012.\n\nMeanwhile, the parties engaged in court-supervised settlement conferences. By January 2012, they negotiated an agreement providing for structural reorganization of DHS and appointed experts to oversee the development and implementation of the Compromise Settlement Agreement (CSA). After a series of fairness hearings, the court approved the CSA on February 29, 2012.\n\nThe CSA implementation plans provided that the defendant DHS would restructure its agency; improve screening, investigating, and reporting of abuse; reduce the use of emergency shelters; and reduce workloads and improve training for caseworkers. The parties agreed to designate three individuals as Co-Neutrals to act as arbiters of any dispute arising out of the CSA and to evaluate and render judgments about DHS's ongoing compliance efforts. The implementation of the CSA would take at least five years. Additionally, on March 31, 2013, the Court ordered the defendants to pay attorneys' fees and expenses in the amount of about $6 million. 2013 WL 1343151.\n\nAlthough DHS originally planned to exit from the CSA in December 2016, it was unable to do so for failure to adequately comply with its terms. In their August 2018 report, the Co-Neutrals noted that although DHS had made important advancements over the course of its reform, those advances were not yet fully instituted, particularly with respect to manageable caseloads and an adequate array of placements for children. The report noted that in some areas, most critically safety for children in the care and custody of DHS, the department\u2019s efforts had been inadequate.\n\nIn May 2018, the Co-Neutrals requested that the Court suspend the operations of a particular children's center for failure to comply with the CSA. The Court granted this request and DHS complied by relocating the children from that center.\n\nOn June 5, 2018, the court entered a judgment and terminated the case. However, the case was reopened three years later when the parties moved to modify the settlement on December 13, 2021. This motion noted that unforeseen circumstances, namely the COVID-19 pandemic, seriously impacted the defendant\u2019s good faith efforts to comply with the settlement agreement. As a result, the parties agreed to suspend the previously scheduled biannual good faith determinations by the Co-Neutrals during the pandemic recovery period as to some of the defendant's obligations. The court granted the motion the following day.\n\nOn March 22, 2023, the Co-Neutrals determined that the Department had met the two-year continuous period of good faith requirements mandated by the CSA as to the obligations that had not been delayed by COVID-19. On April 24, 2023, the court issued an order terminating these obligations.\n\nTwo years later, on February 11, 2025, the Co-Neutrals filed a final report indicating the defendants had complied for two years with the remaining CSA obligations. A month later, on March 13, the court terminated the defendant's obligations under the CSA. The case is now closed.",
+    "target_paragraph": "On March 22, 2023, the Co-Neutrals determined that the Department had met the two-year continuous period of good faith requirements mandated by the CSA as to the obligations that had not been delayed by COVID-19. On April 24, 2023, the court issued an order terminating these obligations.",
+    "target_paragraph_indices": [
+      4875,
+      5163
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4875,
+            5087
+          ],
+          [
+            5165,
+            5329
+          ]
+        ],
+        "annotation": {
+          "explanation": "two-year continuous period: CSA-mandated good faith compliance requirement.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            4875,
+            5087
+          ]
+        ],
+        "annotation": {
+          "explanation": "two years: continuous period of good faith compliance required by the CSA for obligations not delayed by COVID-19.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4875,
+            5163
+          ],
+          [
+            5165,
+            5445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Final compliance and closure: Co-Neutrals and court confirmed two-year good-faith compliance (first for non-COVID-delayed obligations in 2023, then remaining obligations in 2025), after which all CSA obligations were terminated and the case closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5088,
+            5163
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order terminating certain CSA obligations (Apr 24, 2023).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4875,
+            5087
+          ]
+        ],
+        "annotation": {
+          "explanation": "CSA required a two-year continuous period of good-faith compliance on obligations as a condition toward termination of those obligations.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "monitor_reports",
+        "output_idx": [
+          [
+            4875,
+            5087
+          ],
+          [
+            5088,
+            5163
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 22, 2023 Co-Neutrals\u2019 determination: DHS satisfied a two-year continuous good-faith compliance period for CSA obligations not delayed by COVID-19; those obligations were terminated by court order on April 24, 2023.",
+          "checklist_item": "Monitor Reports",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "settlement_disputes",
+        "output_idx": [
+          [
+            4875,
+            5163
+          ]
+        ],
+        "annotation": {
+          "explanation": "Enforcement outcome: Co\u2011Neutrals found two years of good\u2011faith compliance on non\u2011COVID\u2011delayed obligations; court terminated those obligations.",
+          "checklist_item": "Disputes Over Settlement Enforcement",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "12429_p10",
+    "metadata": {
+      "case_id": "12429",
+      "paragraph_num": 10,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Two years later, on February 11, 2025, the Co-Neutrals filed a final report indicating the defendant..."
+    },
+    "source": "",
+    "target": "The plaintiffs, represented by Children's Rights, filed this class action suit against the Oklahoma Department of Human Services (DHS) in February 2008 in the U.S. District Court for the Northern District of Oklahoma. The complaint alleged violations of the First, Fifth, Ninth, and Fourteenth Amendments of the U.S. Constitution, the Adoption Assistance and Child Welfare Act of 1980, 42 U.S.C. \u00a7 621 et seq., the Adoption and Safe Families Act of 1997, 42 U.S.C. \u00a7 670 et seq., and Oklahoma state law. The complaint alleged that DHS placed children in dangerous and inappropriate placements, including extended stays in emergency shelters; failed to monitor the safety of children in DHS custody due to excessive case worker caseloads; failed to provide mental health and other behavioral services; and failed to provide legal representation. The plaintiffs sought declaratory relief and a permanent injunction enjoining defendants from subjecting plaintiffs to practices that violate their constitutional rights.\n\nIn April 2008, the defendants moved to dismiss the case and several Oklahoma-based children's agencies filed amici curiae briefs in response. In January 2009, Judge Gregory K. Frizzell granted the motion to dismiss claims under federal common law and the Adoption Assistance and Child Welfare Act of 1980, but denied the motion with regard to the other claims. D.G. v. Henry, 594 F. Supp. 2d 1273 (N.D. Okl. 2009).\n\nOn May 5, 2009, the court certified the class of the plaintiffs as all children who are or will be in the legal custody of the Oklahoma Department of Human Services (1) due to a report or suspicion of abuse or neglect; or (2) who are or will be adjudicated deprived due to abuse or neglect. The defendants appealed the ruling to the 10th Circuit Court of Appeals, but in February 2010, the appellate court upheld the class certification.\n\nThe parties then engaged in extensive and contested discovery. The plaintiffs provided five expert reports and filed numerous motions to compel the defendants to produce various items. The defendants moved for summary judgment and to decertify the class. In November and December 2011, the court denied the motion to decertify and granted the motion for summary judgment only as to claims pertaining to rights of familial association and procedural due process. 2011 WL 6009628. The case proceeded towards a trial scheduled for February 2012.\n\nMeanwhile, the parties engaged in court-supervised settlement conferences. By January 2012, they negotiated an agreement providing for structural reorganization of DHS and appointed experts to oversee the development and implementation of the Compromise Settlement Agreement (CSA). After a series of fairness hearings, the court approved the CSA on February 29, 2012.\n\nThe CSA implementation plans provided that the defendant DHS would restructure its agency; improve screening, investigating, and reporting of abuse; reduce the use of emergency shelters; and reduce workloads and improve training for caseworkers. The parties agreed to designate three individuals as Co-Neutrals to act as arbiters of any dispute arising out of the CSA and to evaluate and render judgments about DHS's ongoing compliance efforts. The implementation of the CSA would take at least five years. Additionally, on March 31, 2013, the Court ordered the defendants to pay attorneys' fees and expenses in the amount of about $6 million. 2013 WL 1343151.\n\nAlthough DHS originally planned to exit from the CSA in December 2016, it was unable to do so for failure to adequately comply with its terms. In their August 2018 report, the Co-Neutrals noted that although DHS had made important advancements over the course of its reform, those advances were not yet fully instituted, particularly with respect to manageable caseloads and an adequate array of placements for children. The report noted that in some areas, most critically safety for children in the care and custody of DHS, the department\u2019s efforts had been inadequate.\n\nIn May 2018, the Co-Neutrals requested that the Court suspend the operations of a particular children's center for failure to comply with the CSA. The Court granted this request and DHS complied by relocating the children from that center.\n\nOn June 5, 2018, the court entered a judgment and terminated the case. However, the case was reopened three years later when the parties moved to modify the settlement on December 13, 2021. This motion noted that unforeseen circumstances, namely the COVID-19 pandemic, seriously impacted the defendant\u2019s good faith efforts to comply with the settlement agreement. As a result, the parties agreed to suspend the previously scheduled biannual good faith determinations by the Co-Neutrals during the pandemic recovery period as to some of the defendant's obligations. The court granted the motion the following day.\n\nOn March 22, 2023, the Co-Neutrals determined that the Department had met the two-year continuous period of good faith requirements mandated by the CSA as to the obligations that had not been delayed by COVID-19. On April 24, 2023, the court issued an order terminating these obligations.\n\nTwo years later, on February 11, 2025, the Co-Neutrals filed a final report indicating the defendants had complied for two years with the remaining CSA obligations. A month later, on March 13, the court terminated the defendant's obligations under the CSA. The case is now closed.",
+    "target_paragraph": "Two years later, on February 11, 2025, the Co-Neutrals filed a final report indicating the defendants had complied for two years with the remaining CSA obligations. A month later, on March 13, the court terminated the defendant's obligations under the CSA. The case is now closed.",
+    "target_paragraph_indices": [
+      5165,
+      5445
+    ],
+    "edits": [
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            5165,
+            5329
+          ]
+        ],
+        "annotation": {
+          "explanation": "two years: compliance with the remaining CSA obligations.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5165,
+            5329
+          ]
+        ],
+        "annotation": {
+          "explanation": "Co-Neutrals filed final report indicating two-year compliance with remaining CSA obligations (Feb 11, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5330,
+            5445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order terminating remaining CSA obligations; case closed (Mar 13, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "monitor_reports",
+        "output_idx": [
+          [
+            5165,
+            5329
+          ],
+          [
+            5330,
+            5421
+          ]
+        ],
+        "annotation": {
+          "explanation": "February 11, 2025 final Co-Neutrals\u2019 report: DHS complied for two years with the remaining CSA obligations; court terminated all remaining obligations on March 13, 2025.",
+          "checklist_item": "Monitor Reports",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_disputes",
+        "output_idx": [
+          [
+            5165,
+            5445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Final enforcement resolution: Co\u2011Neutrals reported two-year compliance on remaining obligations; court terminated all remaining CSA obligations; case closed.",
+          "checklist_item": "Disputes Over Settlement Enforcement",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  }
+]

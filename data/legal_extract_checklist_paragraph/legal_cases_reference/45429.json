@@ -1,0 +1,591 @@
+[
+  {
+    "id": "45429_p0",
+    "metadata": {
+      "case_id": "45429",
+      "paragraph_num": 0,
+      "total_paragraphs": 4,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is about four non-profit corporations asserting that the City of Colorado Springs held its..."
+    },
+    "source": "",
+    "target": "This case is about four non-profit corporations asserting that the City of Colorado Springs held its elections off-cycle in April of odd-numbered years and alleged that this contributed to unlawful racial discrimination and ultimately violated the Voting Rights Act.\n\nOn June 1, 2022, the plaintiffs--the nonprofits Citizens Project, Colorado Latinos Vote, League of Women Voters of the Pikes Peak Region, and Black/Latino Leadership Coalition-- represented by the Election Law Clinic at Harvard Law School, commenced this action in the United States District Court for the District of Colorado. The plaintiffs argued that the City of Colorado Springs\u2019 timing choice of its elections remains in effect even though Colorado municipalities are now forbidden from adopting it in the first instance and that it is highly unusual among Colorado cities and towns. Additionally, the plaintiffs argued that the Voting Rights Act applies to election timing and may require changes to when elections are held. The plaintiffs argued that the April off-year timing of the Colorado Springs\u2019 municipal elections caused an enormous racial disparity in turnout. As relief, the plaintiffs requested that the Court enter judgment to declare that the timing of the Colorado Springs\u2019 April off-year municipal elections violated Section 2 of the Voting Rights Act, permanently enjoin Colorado Springs from holding future non-November municipal elections, and award plaintiffs\u2019 attorneys\u2019 fees and costs of suit.\n\nOn July 28, 2023, the defendants filed a motion for summary judgment and argued that the plaintiffs did not seek to change the City of Colorado Springs\u2019 election timing through democratic means, no Black or Hispanic resident of the City of Colorado Springs joined the lawsuit, and the City\u2019s Black mayor opposed plaintiffs\u2019 suit. The defendants argued that different election timing falls outside any Section 2 right or remedy. The defendants argued that the plaintiffs lacked a private right of action under Section 2. For these reasons, the defendants argued that the Court should grant defendants\u2019 motion for summary judgment.\n\nOn July 9, 2024, the Court issued an order dismissing plaintiff\u2019s claim for lack of Article III standing and finding as moot defendant\u2019s motion for summary judgment. The Court found that the Court lacked subject matter jurisdiction over the matter and dismissed it without prejudice. The Court reasoned that the four non-profit plaintiffs lacked standing because the injuries that they pled were insufficient to confer organizational standing. The Court argued that the plaintiffs have \u201cmanufactured their own standing.\u201d The Court concluded that the plaintiffs lacked Article III standing because they have failed to demonstrate injury in fact. The case is now closed.",
+    "target_paragraph": "This case is about four non-profit corporations asserting that the City of Colorado Springs held its elections off-cycle in April of odd-numbered years and alleged that this contributed to unlawful racial discrimination and ultimately violated the Voting Rights Act.",
+    "target_paragraph_indices": [
+      0,
+      266
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            224,
+            266
+          ],
+          [
+            1215,
+            1342
+          ],
+          [
+            1822,
+            2011
+          ]
+        ],
+        "annotation": {
+          "explanation": "Section 2 of the Voting Rights Act",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            1,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            0,
+            266
+          ],
+          [
+            268,
+            595
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as four non-profit corporations (Citizens Project, Colorado Latinos Vote, League of Women Voters of the Pikes Peak Region, and Black/Latino Leadership Coalition)",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            47
+          ],
+          [
+            285,
+            445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Citizens Project (non-profit corporation)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            47
+          ],
+          [
+            285,
+            445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Colorado Latinos Vote (non-profit corporation)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            47
+          ],
+          [
+            285,
+            445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: League of Women Voters of the Pikes Peak Region (non-profit corporation)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            47
+          ],
+          [
+            285,
+            445
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Black/Latino Leadership Coalition (non-profit corporation)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            63,
+            151
+          ],
+          [
+            1344,
+            1432
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: City of Colorado Springs",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            266
+          ]
+        ],
+        "annotation": {
+          "explanation": "Core allegation: Colorado Springs holds municipal elections off-cycle in April of odd-numbered years, allegedly contributing to unlawful racial discrimination and violating the Voting Rights Act.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "45429_p1",
+    "metadata": {
+      "case_id": "45429",
+      "paragraph_num": 1,
+      "total_paragraphs": 4,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 1, 2022, the plaintiffs--the nonprofits Citizens Project, Colorado Latinos Vote, League of W..."
+    },
+    "source": "",
+    "target": "This case is about four non-profit corporations asserting that the City of Colorado Springs held its elections off-cycle in April of odd-numbered years and alleged that this contributed to unlawful racial discrimination and ultimately violated the Voting Rights Act.\n\nOn June 1, 2022, the plaintiffs--the nonprofits Citizens Project, Colorado Latinos Vote, League of Women Voters of the Pikes Peak Region, and Black/Latino Leadership Coalition-- represented by the Election Law Clinic at Harvard Law School, commenced this action in the United States District Court for the District of Colorado. The plaintiffs argued that the City of Colorado Springs\u2019 timing choice of its elections remains in effect even though Colorado municipalities are now forbidden from adopting it in the first instance and that it is highly unusual among Colorado cities and towns. Additionally, the plaintiffs argued that the Voting Rights Act applies to election timing and may require changes to when elections are held. The plaintiffs argued that the April off-year timing of the Colorado Springs\u2019 municipal elections caused an enormous racial disparity in turnout. As relief, the plaintiffs requested that the Court enter judgment to declare that the timing of the Colorado Springs\u2019 April off-year municipal elections violated Section 2 of the Voting Rights Act, permanently enjoin Colorado Springs from holding future non-November municipal elections, and award plaintiffs\u2019 attorneys\u2019 fees and costs of suit.\n\nOn July 28, 2023, the defendants filed a motion for summary judgment and argued that the plaintiffs did not seek to change the City of Colorado Springs\u2019 election timing through democratic means, no Black or Hispanic resident of the City of Colorado Springs joined the lawsuit, and the City\u2019s Black mayor opposed plaintiffs\u2019 suit. The defendants argued that different election timing falls outside any Section 2 right or remedy. The defendants argued that the plaintiffs lacked a private right of action under Section 2. For these reasons, the defendants argued that the Court should grant defendants\u2019 motion for summary judgment.\n\nOn July 9, 2024, the Court issued an order dismissing plaintiff\u2019s claim for lack of Article III standing and finding as moot defendant\u2019s motion for summary judgment. The Court found that the Court lacked subject matter jurisdiction over the matter and dismissed it without prejudice. The Court reasoned that the four non-profit plaintiffs lacked standing because the injuries that they pled were insufficient to confer organizational standing. The Court argued that the plaintiffs have \u201cmanufactured their own standing.\u201d The Court concluded that the plaintiffs lacked Article III standing because they have failed to demonstrate injury in fact. The case is now closed.",
+    "target_paragraph": "On June 1, 2022, the plaintiffs--the nonprofits Citizens Project, Colorado Latinos Vote, League of Women Voters of the Pikes Peak Region, and Black/Latino Leadership Coalition-- represented by the Election Law Clinic at Harvard Law School, commenced this action in the United States District Court for the District of Colorado. The plaintiffs argued that the City of Colorado Springs\u2019 timing choice of its elections remains in effect even though Colorado municipalities are now forbidden from adopting it in the first instance and that it is highly unusual among Colorado cities and towns. Additionally, the plaintiffs argued that the Voting Rights Act applies to election timing and may require changes to when elections are held. The plaintiffs argued that the April off-year timing of the Colorado Springs\u2019 municipal elections caused an enormous racial disparity in turnout. As relief, the plaintiffs requested that the Court enter judgment to declare that the timing of the Colorado Springs\u2019 April off-year municipal elections violated Section 2 of the Voting Rights Act, permanently enjoin Colorado Springs from holding future non-November municipal elections, and award plaintiffs\u2019 attorneys\u2019 fees and costs of suit.",
+    "target_paragraph_indices": [
+      268,
+      1490
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            268,
+            595
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 1, 2022",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1157,
+            1342
+          ],
+          [
+            1822,
+            2011
+          ]
+        ],
+        "annotation": {
+          "explanation": "Section 2 of the Voting Rights Act (statutory cause of action)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1146,
+            1342
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment that the April off-year municipal election timing violates Section 2 of the Voting Rights Act.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1344,
+            1432
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunction prohibiting Colorado Springs from holding future non-November municipal elections.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1438,
+            1490
+          ]
+        ],
+        "annotation": {
+          "explanation": "Award of plaintiffs\u2019 attorneys\u2019 fees and costs of suit.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            446,
+            506
+          ]
+        ],
+        "annotation": {
+          "explanation": "Law school clinic (Election Law Clinic at Harvard Law School)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            268,
+            595
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties, counsel, filing date, and forum: Four nonprofit plaintiffs (Citizens Project, Colorado Latinos Vote, League of Women Voters of the Pikes Peak Region, Black/Latino Leadership Coalition), represented by the Election Law Clinic at Harvard Law School, filed suit on June 1, 2022, in the U.S. District Court for the District of Colorado.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            623,
+            857
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background context: The challenged election timing persists even though Colorado municipalities are now forbidden from newly adopting such timing and it is highly unusual among Colorado cities and towns.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            872,
+            999
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 legal contention: The Voting Rights Act applies to election timing and may require timing changes.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1000,
+            1145
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged harm/effect: The April off-year municipal election timing allegedly caused an enormous racial disparity in voter turnout.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1146,
+            1490
+          ]
+        ],
+        "annotation": {
+          "explanation": "Requested remedies: Declaration that April off-year election timing violates Section 2 of the VRA, a permanent injunction against future non-November municipal elections, and attorneys\u2019 fees and costs.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            268,
+            595
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed commencing the action on June 1, 2022.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": "45429_p2",
+    "metadata": {
+      "case_id": "45429",
+      "paragraph_num": 2,
+      "total_paragraphs": 4,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 28, 2023, the defendants filed a motion for summary judgment and argued that the plaintiffs ..."
+    },
+    "source": "",
+    "target": "This case is about four non-profit corporations asserting that the City of Colorado Springs held its elections off-cycle in April of odd-numbered years and alleged that this contributed to unlawful racial discrimination and ultimately violated the Voting Rights Act.\n\nOn June 1, 2022, the plaintiffs--the nonprofits Citizens Project, Colorado Latinos Vote, League of Women Voters of the Pikes Peak Region, and Black/Latino Leadership Coalition-- represented by the Election Law Clinic at Harvard Law School, commenced this action in the United States District Court for the District of Colorado. The plaintiffs argued that the City of Colorado Springs\u2019 timing choice of its elections remains in effect even though Colorado municipalities are now forbidden from adopting it in the first instance and that it is highly unusual among Colorado cities and towns. Additionally, the plaintiffs argued that the Voting Rights Act applies to election timing and may require changes to when elections are held. The plaintiffs argued that the April off-year timing of the Colorado Springs\u2019 municipal elections caused an enormous racial disparity in turnout. As relief, the plaintiffs requested that the Court enter judgment to declare that the timing of the Colorado Springs\u2019 April off-year municipal elections violated Section 2 of the Voting Rights Act, permanently enjoin Colorado Springs from holding future non-November municipal elections, and award plaintiffs\u2019 attorneys\u2019 fees and costs of suit.\n\nOn July 28, 2023, the defendants filed a motion for summary judgment and argued that the plaintiffs did not seek to change the City of Colorado Springs\u2019 election timing through democratic means, no Black or Hispanic resident of the City of Colorado Springs joined the lawsuit, and the City\u2019s Black mayor opposed plaintiffs\u2019 suit. The defendants argued that different election timing falls outside any Section 2 right or remedy. The defendants argued that the plaintiffs lacked a private right of action under Section 2. For these reasons, the defendants argued that the Court should grant defendants\u2019 motion for summary judgment.\n\nOn July 9, 2024, the Court issued an order dismissing plaintiff\u2019s claim for lack of Article III standing and finding as moot defendant\u2019s motion for summary judgment. The Court found that the Court lacked subject matter jurisdiction over the matter and dismissed it without prejudice. The Court reasoned that the four non-profit plaintiffs lacked standing because the injuries that they pled were insufficient to confer organizational standing. The Court argued that the plaintiffs have \u201cmanufactured their own standing.\u201d The Court concluded that the plaintiffs lacked Article III standing because they have failed to demonstrate injury in fact. The case is now closed.",
+    "target_paragraph": "On July 28, 2023, the defendants filed a motion for summary judgment and argued that the plaintiffs did not seek to change the City of Colorado Springs\u2019 election timing through democratic means, no Black or Hispanic resident of the City of Colorado Springs joined the lawsuit, and the City\u2019s Black mayor opposed plaintiffs\u2019 suit. The defendants argued that different election timing falls outside any Section 2 right or remedy. The defendants argued that the plaintiffs lacked a private right of action under Section 2. For these reasons, the defendants argued that the Court should grant defendants\u2019 motion for summary judgment.",
+    "target_paragraph_indices": [
+      1492,
+      2121
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1492,
+            1821
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 factual/contextual arguments: Plaintiffs did not pursue democratic change; no Black or Hispanic resident joined the suit; the City\u2019s Black mayor opposed the suit.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1822,
+            1919
+          ],
+          [
+            1920,
+            2011
+          ],
+          [
+            2012,
+            2121
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 legal arguments and request: Election timing is outside Section 2 rights/remedies; plaintiffs lack a private right of action under Section 2; sought summary judgment.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1492,
+            1821
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion for summary judgment filed on July 28, 2023.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1492,
+            1560
+          ],
+          [
+            2123,
+            2288
+          ],
+          [
+            2289,
+            2406
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion for summary judgment: found moot on July 9, 2024 (case dismissed without prejudice for lack of Article III standing).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "45429_p3",
+    "metadata": {
+      "case_id": "45429",
+      "paragraph_num": 3,
+      "total_paragraphs": 4,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 9, 2024, the Court issued an order dismissing plaintiff\u2019s claim for lack of Article III stan..."
+    },
+    "source": "",
+    "target": "This case is about four non-profit corporations asserting that the City of Colorado Springs held its elections off-cycle in April of odd-numbered years and alleged that this contributed to unlawful racial discrimination and ultimately violated the Voting Rights Act.\n\nOn June 1, 2022, the plaintiffs--the nonprofits Citizens Project, Colorado Latinos Vote, League of Women Voters of the Pikes Peak Region, and Black/Latino Leadership Coalition-- represented by the Election Law Clinic at Harvard Law School, commenced this action in the United States District Court for the District of Colorado. The plaintiffs argued that the City of Colorado Springs\u2019 timing choice of its elections remains in effect even though Colorado municipalities are now forbidden from adopting it in the first instance and that it is highly unusual among Colorado cities and towns. Additionally, the plaintiffs argued that the Voting Rights Act applies to election timing and may require changes to when elections are held. The plaintiffs argued that the April off-year timing of the Colorado Springs\u2019 municipal elections caused an enormous racial disparity in turnout. As relief, the plaintiffs requested that the Court enter judgment to declare that the timing of the Colorado Springs\u2019 April off-year municipal elections violated Section 2 of the Voting Rights Act, permanently enjoin Colorado Springs from holding future non-November municipal elections, and award plaintiffs\u2019 attorneys\u2019 fees and costs of suit.\n\nOn July 28, 2023, the defendants filed a motion for summary judgment and argued that the plaintiffs did not seek to change the City of Colorado Springs\u2019 election timing through democratic means, no Black or Hispanic resident of the City of Colorado Springs joined the lawsuit, and the City\u2019s Black mayor opposed plaintiffs\u2019 suit. The defendants argued that different election timing falls outside any Section 2 right or remedy. The defendants argued that the plaintiffs lacked a private right of action under Section 2. For these reasons, the defendants argued that the Court should grant defendants\u2019 motion for summary judgment.\n\nOn July 9, 2024, the Court issued an order dismissing plaintiff\u2019s claim for lack of Article III standing and finding as moot defendant\u2019s motion for summary judgment. The Court found that the Court lacked subject matter jurisdiction over the matter and dismissed it without prejudice. The Court reasoned that the four non-profit plaintiffs lacked standing because the injuries that they pled were insufficient to confer organizational standing. The Court argued that the plaintiffs have \u201cmanufactured their own standing.\u201d The Court concluded that the plaintiffs lacked Article III standing because they have failed to demonstrate injury in fact. The case is now closed.",
+    "target_paragraph": "On July 9, 2024, the Court issued an order dismissing plaintiff\u2019s claim for lack of Article III standing and finding as moot defendant\u2019s motion for summary judgment. The Court found that the Court lacked subject matter jurisdiction over the matter and dismissed it without prejudice. The Court reasoned that the four non-profit plaintiffs lacked standing because the injuries that they pled were insufficient to confer organizational standing. The Court argued that the plaintiffs have \u201cmanufactured their own standing.\u201d The Court concluded that the plaintiffs lacked Article III standing because they have failed to demonstrate injury in fact. The case is now closed.",
+    "target_paragraph_indices": [
+      2123,
+      2791
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2123,
+            2288
+          ],
+          [
+            2289,
+            2406
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 9, 2024: Court issued an order dismissing plaintiff\u2019s claim for lack of Article III standing and finding as moot defendant\u2019s motion for summary judgment; dismissed without prejudice.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2123,
+            2288
+          ],
+          [
+            2289,
+            2406
+          ],
+          [
+            2407,
+            2566
+          ],
+          [
+            2567,
+            2643
+          ],
+          [
+            2644,
+            2767
+          ],
+          [
+            2768,
+            2791
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural outcome: On July 9, 2024, the Court dismissed the case without prejudice for lack of Article III standing (no injury in fact; insufficient organizational injuries; manufactured standing), found defendants\u2019 summary-judgment motion moot, and closed the case for lack of subject matter jurisdiction.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2123,
+            2288
+          ],
+          [
+            2289,
+            2406
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court order on July 9, 2024 dismissing for lack of Article III standing; dismissal without prejudice; defendants\u2019 motion for summary judgment found moot.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  }
+]

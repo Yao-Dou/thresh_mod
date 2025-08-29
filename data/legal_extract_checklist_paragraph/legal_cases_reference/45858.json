@@ -1,0 +1,1773 @@
+[
+  {
+    "id": "45858_p0",
+    "metadata": {
+      "case_id": "45858",
+      "paragraph_num": 0,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Involuntarily unhoused residents of the City of San Rafael, California, filed this lawsuit pro se on..."
+    },
+    "source": "",
+    "target": "Involuntarily unhoused residents of the City of San Rafael, California, filed this lawsuit pro se on August 11, 2023, in the United States District Court for the Northern District of California, requested a temporary restraining order and preliminary injunction to stop the City of San Rafael from enforcing ordinances that the plaintiffs alleged criminalized homelessness by making \u201ccamping\u201d on public property a criminal offense. The plaintiffs were ten unhoused individuals and Camp Integrity, an unincorporated association of people and property where the unhoused individual plaintiffs lived. They sued the City of San Rafael and its Chief of Police under 42 U.S.C. \u00a7 1983 and the Americans with Disabilities Act. Plaintiffs alleged that the City\u2019s ordinance violated their rights under the First, Eighth, Fourteenth Amendments of the United States Constitution and the Americans with Disabilities Act. The plaintiffs argued that the ordinances criminalized survival activities, including eating and possessing public belongings in public spaces, and unconstitutionally targeted unhoused individuals while permitting identical conduct by people who had housing. They further argued that the ordinances criminalized homelessness by banning sleeping on public property while the City of San Rafael failed to provide enough alternative shelter for the City\u2019s homeless population. The case was assigned to Judge Edward M. Chen.\n\nOn August 15, 2023, Judge Trina Thompson held a hearing on the plaintiffs\u2019 request for a temporary restraining order. The following day, she granted the motion for a temporary restraining order, enjoining the city from enforcing the ordinance until a hearing on the preliminary injunction could be held. The court determined that the plaintiffs sufficiently showed that they were likely to suffer irreparable injury if the ordinance went into effect, that the plaintiffs would endure serious hardships under the ordinance, that temporary relief would serve the public interest, and that there were \u201cserious questions\u201d on the merits of the case. On September 6, 2023, the court held a non-evidentiary hearing on the preliminary injunction and the defendant officials of the City of San Rafael were served. The court extended the temporary restraining order on September 7, 2023.\n\nThe court held a settlement conference with the parties on September 20, 2023. The plaintiffs filed a first amended complaint on September 26, 2023, adding as plaintiffs two additional individuals and the San Rafael Homeless Union. The court held a hearing for the motion on the preliminary injunction on October 2 and 3 and granted in part and denied in part the preliminary injunction on October 19. The court permitted the City to enforce the ordinance but required the City to: allow 400 square feet campsites housing up to four people that were 100 feet apart; provide assistance to campers who needed to move to a designated space; provide replacements to plaintiffs who did not have tents or bedding that could fit within the compliant space; designate the permissible campsites that complied with the ordinance as modified by the preliminary injunction on street level maps; establish a registration process so campers could find permitted campsites; and not evict or prosecute any plaintiff who submitted a request for a reasonable accommodation based on disability unless they were provided with due process. There was also a mens rea requirement for violating camping regulations. The preliminary injunction applied only to residents of the encampment who had standing under this lawsuit as named plaintiffs or as members of the San Rafael Homeless Union.\n\nOn October 26, 2023, one of the named plaintiffs filed an ex parte motion seeking a temporary restraining order to stop the defendants from disrupting his campsite and arresting him for using a pallet under his tent as a foundation. The City opposed the plaintiff\u2019s motion. On November 1, 2023, the court held a status conference and a hearing on the temporary restraining order, which the court denied the following day.\n\nThe court held additional settlement conferences monthly from November 2023 until May 2024. On May 6, 2024, the City amended the ordinance in response to the Court\u2019s preliminary injunction. The amended ordinance allowed campties of 200 square feet for one person and 400 square feet for four individuals, a 10-foot setback from other campsites, and a mens rea requirement for violating camping regulations. Subsequently, the City filed a motion to dismiss the case, or alternatively, to dissolve the preliminary injunction, on May 10, 2024.\n\nThe City then filed a motion for limited relief from the injunction on June 12, 2024 under F.R.C.P. 60(b), as it sought to relocate ten to eleven individuals camping along Francisco Boulevard West in light of alleged fire risks to their encampment. The same day, the court, considering that notice had already been given that campers had 48 hours to relocate, scheduled a hearing on the motion for June 13, 2024. The court held hearings on June 13 and June 14, 2024, and on June 14, Judge Edward M. Chen issued an order conditionally granting the City\u2019s emergency motion for limited relief from the injunction. The court explained that it was an issue of fact whether any of the individuals whom the City sought to relocate from Francisco Boulevard West were covered by the preliminary injunction in this case, and after weighing the likelihood of irreparable injury, the balance of hardships, and the health and safety risks, the court concluded that moving the individuals from the encampment would be permissible.\n\nThe court held settlement conferences at the beginning and end of July 2024. On August 7, 2024, the court granted defendants\u2019 motion to dismiss and dissolved the preliminary injunction. The court determined that the plaintiffs had not shown a reasonable expectation that the government would reenact its regulation, that the ordinance as amended on May 6, 2024 did not raise the same issues as the original ordinance, and that because the amended ordinance had given the relief sought, the case was now moot. Therefore, the court no longer had jurisdiction to maintain the preliminary injunction, which was rendered moot as well. As of December 2024, this case is closed.",
+    "target_paragraph": "Involuntarily unhoused residents of the City of San Rafael, California, filed this lawsuit pro se on August 11, 2023, in the United States District Court for the Northern District of California, requested a temporary restraining order and preliminary injunction to stop the City of San Rafael from enforcing ordinances that the plaintiffs alleged criminalized homelessness by making \u201ccamping\u201d on public property a criminal offense. The plaintiffs were ten unhoused individuals and Camp Integrity, an unincorporated association of people and property where the unhoused individual plaintiffs lived. They sued the City of San Rafael and its Chief of Police under 42 U.S.C. \u00a7 1983 and the Americans with Disabilities Act. Plaintiffs alleged that the City\u2019s ordinance violated their rights under the First, Eighth, Fourteenth Amendments of the United States Constitution and the Americans with Disabilities Act. The plaintiffs argued that the ordinances criminalized survival activities, including eating and possessing public belongings in public spaces, and unconstitutionally targeted unhoused individuals while permitting identical conduct by people who had housing. They further argued that the ordinances criminalized homelessness by banning sleeping on public property while the City of San Rafael failed to provide enough alternative shelter for the City\u2019s homeless population. The case was assigned to Judge Edward M. Chen.",
+    "target_paragraph_indices": [
+      0,
+      1428
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            0,
+            431
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 11, 2023",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            598,
+            718
+          ],
+          [
+            719,
+            907
+          ]
+        ],
+        "annotation": {
+          "explanation": "Civil rights claim under 42 U.S.C. \u00a7 1983 alleging violations of the First, Eighth, and Fourteenth Amendments.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            598,
+            718
+          ],
+          [
+            719,
+            907
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claim under the Americans with Disabilities Act (ADA).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            598,
+            718
+          ]
+        ],
+        "annotation": {
+          "explanation": "42 U.S.C. \u00a7 1983",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            598,
+            718
+          ],
+          [
+            719,
+            907
+          ]
+        ],
+        "annotation": {
+          "explanation": "Americans with Disabilities Act",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            719,
+            907
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            719,
+            907
+          ]
+        ],
+        "annotation": {
+          "explanation": "Eighth Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            719,
+            907
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            0,
+            431
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order to stop the City from enforcing the anti-camping ordinances.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            0,
+            431
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction to stop the City from enforcing the anti-camping ordinances.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            0,
+            116
+          ]
+        ],
+        "annotation": {
+          "explanation": "Pro se (self-represented plaintiffs)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1382,
+            1428
+          ],
+          [
+            5113,
+            5252
+          ]
+        ],
+        "annotation": {
+          "explanation": "Edward Chen",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            0,
+            5
+          ]
+        },
+        "id": 11
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            432,
+            597
+          ],
+          [
+            2388,
+            2540
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as ten unhoused individuals and Camp Integrity (an unincorporated association); later, two additional individuals and the San Rafael Homeless Union were added",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            116
+          ],
+          [
+            432,
+            476
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Ten involuntarily unhoused individuals residing in the City of San Rafael (pro se filers; names not provided)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            432,
+            597
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Camp Integrity, an unincorporated association of people and property where the unhoused individual plaintiffs lived",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            598,
+            718
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: City of San Rafael",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            598,
+            718
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Chief of Police of the City of San Rafael",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            72,
+            193
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filed pro se on August 11, 2023, in the U.S. District Court for the Northern District of California.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            432,
+            597
+          ],
+          [
+            598,
+            654
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties: Plaintiffs were ten unhoused individuals and Camp Integrity; Defendants were the City of San Rafael and its Chief of Police.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            598,
+            718
+          ],
+          [
+            719,
+            907
+          ]
+        ],
+        "annotation": {
+          "explanation": "Legal bases: 42 U.S.C. \u00a7 1983 and ADA; alleged violations of the First, Eighth, and Fourteenth Amendments and the ADA.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            195,
+            431
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: TRO and preliminary injunction to halt enforcement of ordinances criminalizing camping on public property.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            908,
+            1166
+          ],
+          [
+            1167,
+            1381
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged facts: Ordinances criminalized survival activities and sleeping on public property without sufficient alternative shelter, and targeted unhoused people compared to housed individuals.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            481,
+            597
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: Plaintiffs lived at an encampment known as Camp Integrity.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 22
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1382,
+            1428
+          ],
+          [
+            1430,
+            1547
+          ]
+        ],
+        "annotation": {
+          "explanation": "Judicial assignment/background: case assigned to Judge Edward M. Chen; initial TRO hearing held by Judge Trina Thompson.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 23
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            0,
+            431
+          ]
+        ],
+        "annotation": {
+          "explanation": "Initial pro se complaint filed August 11, 2023, with a request for a temporary restraining order (TRO) and preliminary injunction (PI).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 24
+      }
+    ]
+  },
+  {
+    "id": "45858_p1",
+    "metadata": {
+      "case_id": "45858",
+      "paragraph_num": 1,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 15, 2023, Judge Trina Thompson held a hearing on the plaintiffs\u2019 request for a temporary r..."
+    },
+    "source": "",
+    "target": "Involuntarily unhoused residents of the City of San Rafael, California, filed this lawsuit pro se on August 11, 2023, in the United States District Court for the Northern District of California, requested a temporary restraining order and preliminary injunction to stop the City of San Rafael from enforcing ordinances that the plaintiffs alleged criminalized homelessness by making \u201ccamping\u201d on public property a criminal offense. The plaintiffs were ten unhoused individuals and Camp Integrity, an unincorporated association of people and property where the unhoused individual plaintiffs lived. They sued the City of San Rafael and its Chief of Police under 42 U.S.C. \u00a7 1983 and the Americans with Disabilities Act. Plaintiffs alleged that the City\u2019s ordinance violated their rights under the First, Eighth, Fourteenth Amendments of the United States Constitution and the Americans with Disabilities Act. The plaintiffs argued that the ordinances criminalized survival activities, including eating and possessing public belongings in public spaces, and unconstitutionally targeted unhoused individuals while permitting identical conduct by people who had housing. They further argued that the ordinances criminalized homelessness by banning sleeping on public property while the City of San Rafael failed to provide enough alternative shelter for the City\u2019s homeless population. The case was assigned to Judge Edward M. Chen.\n\nOn August 15, 2023, Judge Trina Thompson held a hearing on the plaintiffs\u2019 request for a temporary restraining order. The following day, she granted the motion for a temporary restraining order, enjoining the city from enforcing the ordinance until a hearing on the preliminary injunction could be held. The court determined that the plaintiffs sufficiently showed that they were likely to suffer irreparable injury if the ordinance went into effect, that the plaintiffs would endure serious hardships under the ordinance, that temporary relief would serve the public interest, and that there were \u201cserious questions\u201d on the merits of the case. On September 6, 2023, the court held a non-evidentiary hearing on the preliminary injunction and the defendant officials of the City of San Rafael were served. The court extended the temporary restraining order on September 7, 2023.\n\nThe court held a settlement conference with the parties on September 20, 2023. The plaintiffs filed a first amended complaint on September 26, 2023, adding as plaintiffs two additional individuals and the San Rafael Homeless Union. The court held a hearing for the motion on the preliminary injunction on October 2 and 3 and granted in part and denied in part the preliminary injunction on October 19. The court permitted the City to enforce the ordinance but required the City to: allow 400 square feet campsites housing up to four people that were 100 feet apart; provide assistance to campers who needed to move to a designated space; provide replacements to plaintiffs who did not have tents or bedding that could fit within the compliant space; designate the permissible campsites that complied with the ordinance as modified by the preliminary injunction on street level maps; establish a registration process so campers could find permitted campsites; and not evict or prosecute any plaintiff who submitted a request for a reasonable accommodation based on disability unless they were provided with due process. There was also a mens rea requirement for violating camping regulations. The preliminary injunction applied only to residents of the encampment who had standing under this lawsuit as named plaintiffs or as members of the San Rafael Homeless Union.\n\nOn October 26, 2023, one of the named plaintiffs filed an ex parte motion seeking a temporary restraining order to stop the defendants from disrupting his campsite and arresting him for using a pallet under his tent as a foundation. The City opposed the plaintiff\u2019s motion. On November 1, 2023, the court held a status conference and a hearing on the temporary restraining order, which the court denied the following day.\n\nThe court held additional settlement conferences monthly from November 2023 until May 2024. On May 6, 2024, the City amended the ordinance in response to the Court\u2019s preliminary injunction. The amended ordinance allowed campties of 200 square feet for one person and 400 square feet for four individuals, a 10-foot setback from other campsites, and a mens rea requirement for violating camping regulations. Subsequently, the City filed a motion to dismiss the case, or alternatively, to dissolve the preliminary injunction, on May 10, 2024.\n\nThe City then filed a motion for limited relief from the injunction on June 12, 2024 under F.R.C.P. 60(b), as it sought to relocate ten to eleven individuals camping along Francisco Boulevard West in light of alleged fire risks to their encampment. The same day, the court, considering that notice had already been given that campers had 48 hours to relocate, scheduled a hearing on the motion for June 13, 2024. The court held hearings on June 13 and June 14, 2024, and on June 14, Judge Edward M. Chen issued an order conditionally granting the City\u2019s emergency motion for limited relief from the injunction. The court explained that it was an issue of fact whether any of the individuals whom the City sought to relocate from Francisco Boulevard West were covered by the preliminary injunction in this case, and after weighing the likelihood of irreparable injury, the balance of hardships, and the health and safety risks, the court concluded that moving the individuals from the encampment would be permissible.\n\nThe court held settlement conferences at the beginning and end of July 2024. On August 7, 2024, the court granted defendants\u2019 motion to dismiss and dissolved the preliminary injunction. The court determined that the plaintiffs had not shown a reasonable expectation that the government would reenact its regulation, that the ordinance as amended on May 6, 2024 did not raise the same issues as the original ordinance, and that because the amended ordinance had given the relief sought, the case was now moot. Therefore, the court no longer had jurisdiction to maintain the preliminary injunction, which was rendered moot as well. As of December 2024, this case is closed.",
+    "target_paragraph": "On August 15, 2023, Judge Trina Thompson held a hearing on the plaintiffs\u2019 request for a temporary restraining order. The following day, she granted the motion for a temporary restraining order, enjoining the city from enforcing the ordinance until a hearing on the preliminary injunction could be held. The court determined that the plaintiffs sufficiently showed that they were likely to suffer irreparable injury if the ordinance went into effect, that the plaintiffs would endure serious hardships under the ordinance, that temporary relief would serve the public interest, and that there were \u201cserious questions\u201d on the merits of the case. On September 6, 2023, the court held a non-evidentiary hearing on the preliminary injunction and the defendant officials of the City of San Rafael were served. The court extended the temporary restraining order on September 7, 2023.",
+    "target_paragraph_indices": [
+      1430,
+      2307
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1430,
+            1547
+          ],
+          [
+            1548,
+            1733
+          ]
+        ],
+        "annotation": {
+          "explanation": "Trina Thompson",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            1548,
+            1733
+          ],
+          [
+            2235,
+            2307
+          ]
+        ],
+        "annotation": {
+          "explanation": "Until a hearing on the preliminary injunction could be held (later extended on September 7, 2023): Temporary restraining order enjoining the City from enforcing the ordinance.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1430,
+            1547
+          ],
+          [
+            1548,
+            1733
+          ]
+        ],
+        "annotation": {
+          "explanation": "The following day: granted the motion for a temporary restraining order, enjoining the city from enforcing the ordinance until a hearing on the preliminary injunction could be held.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2235,
+            2307
+          ]
+        ],
+        "annotation": {
+          "explanation": "September 7, 2023: extended the temporary restraining order.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1430,
+            1733
+          ],
+          [
+            1734,
+            2074
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO granted on August 16, 2023, enjoining enforcement; court found likely irreparable injury, serious hardships, public interest served, and serious questions on the merits.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2075,
+            2307
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction non-evidentiary hearing held on September 6, 2023; TRO extended on September 7, 2023.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1430,
+            1547
+          ],
+          [
+            1548,
+            1733
+          ],
+          [
+            2235,
+            2307
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO: Hearing held August 15, 2023; TRO granted August 16, 2023; TRO extended September 7, 2023.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1548,
+            1733
+          ],
+          [
+            2235,
+            2307
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporarily enjoined defendants from enforcing the ordinance until the preliminary injunction hearing; TRO later extended.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1548,
+            1733
+          ],
+          [
+            2235,
+            2307
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order: City enjoined from enforcing the ordinance until the preliminary injunction hearing; TRO extended on September 7, 2023.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1430,
+            1547
+          ],
+          [
+            1548,
+            1733
+          ],
+          [
+            1734,
+            2074
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO proceedings: Hearing held Aug 15, 2023 (Judge Trina Thompson); TRO granted Aug 16, 2023, enjoining enforcement pending a preliminary-injunction hearing, based on irreparable injury, hardships, public interest, and serious questions on the merits.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2075,
+            2234
+          ],
+          [
+            2235,
+            2307
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary-injunction scheduling and interim relief: Non-evidentiary PI hearing held Sep 6, 2023; TRO extended on Sep 7, 2023.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1430,
+            1547
+          ],
+          [
+            1548,
+            1733
+          ],
+          [
+            1734,
+            2074
+          ]
+        ],
+        "annotation": {
+          "explanation": "Aug 16, 2023: Judge Trina Thompson granted plaintiffs\u2019 motion for a temporary restraining order, enjoining enforcement of the ordinance until the preliminary-injunction hearing, based on irreparable harm, hardship to plaintiffs, public interest, and serious questions on the merits.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2235,
+            2307
+          ]
+        ],
+        "annotation": {
+          "explanation": "Sept 7, 2023: Court extended the temporary restraining order.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": "45858_p2",
+    "metadata": {
+      "case_id": "45858",
+      "paragraph_num": 2,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court held a settlement conference with the parties on September 20, 2023. The plaintiffs filed ..."
+    },
+    "source": "",
+    "target": "Involuntarily unhoused residents of the City of San Rafael, California, filed this lawsuit pro se on August 11, 2023, in the United States District Court for the Northern District of California, requested a temporary restraining order and preliminary injunction to stop the City of San Rafael from enforcing ordinances that the plaintiffs alleged criminalized homelessness by making \u201ccamping\u201d on public property a criminal offense. The plaintiffs were ten unhoused individuals and Camp Integrity, an unincorporated association of people and property where the unhoused individual plaintiffs lived. They sued the City of San Rafael and its Chief of Police under 42 U.S.C. \u00a7 1983 and the Americans with Disabilities Act. Plaintiffs alleged that the City\u2019s ordinance violated their rights under the First, Eighth, Fourteenth Amendments of the United States Constitution and the Americans with Disabilities Act. The plaintiffs argued that the ordinances criminalized survival activities, including eating and possessing public belongings in public spaces, and unconstitutionally targeted unhoused individuals while permitting identical conduct by people who had housing. They further argued that the ordinances criminalized homelessness by banning sleeping on public property while the City of San Rafael failed to provide enough alternative shelter for the City\u2019s homeless population. The case was assigned to Judge Edward M. Chen.\n\nOn August 15, 2023, Judge Trina Thompson held a hearing on the plaintiffs\u2019 request for a temporary restraining order. The following day, she granted the motion for a temporary restraining order, enjoining the city from enforcing the ordinance until a hearing on the preliminary injunction could be held. The court determined that the plaintiffs sufficiently showed that they were likely to suffer irreparable injury if the ordinance went into effect, that the plaintiffs would endure serious hardships under the ordinance, that temporary relief would serve the public interest, and that there were \u201cserious questions\u201d on the merits of the case. On September 6, 2023, the court held a non-evidentiary hearing on the preliminary injunction and the defendant officials of the City of San Rafael were served. The court extended the temporary restraining order on September 7, 2023.\n\nThe court held a settlement conference with the parties on September 20, 2023. The plaintiffs filed a first amended complaint on September 26, 2023, adding as plaintiffs two additional individuals and the San Rafael Homeless Union. The court held a hearing for the motion on the preliminary injunction on October 2 and 3 and granted in part and denied in part the preliminary injunction on October 19. The court permitted the City to enforce the ordinance but required the City to: allow 400 square feet campsites housing up to four people that were 100 feet apart; provide assistance to campers who needed to move to a designated space; provide replacements to plaintiffs who did not have tents or bedding that could fit within the compliant space; designate the permissible campsites that complied with the ordinance as modified by the preliminary injunction on street level maps; establish a registration process so campers could find permitted campsites; and not evict or prosecute any plaintiff who submitted a request for a reasonable accommodation based on disability unless they were provided with due process. There was also a mens rea requirement for violating camping regulations. The preliminary injunction applied only to residents of the encampment who had standing under this lawsuit as named plaintiffs or as members of the San Rafael Homeless Union.\n\nOn October 26, 2023, one of the named plaintiffs filed an ex parte motion seeking a temporary restraining order to stop the defendants from disrupting his campsite and arresting him for using a pallet under his tent as a foundation. The City opposed the plaintiff\u2019s motion. On November 1, 2023, the court held a status conference and a hearing on the temporary restraining order, which the court denied the following day.\n\nThe court held additional settlement conferences monthly from November 2023 until May 2024. On May 6, 2024, the City amended the ordinance in response to the Court\u2019s preliminary injunction. The amended ordinance allowed campties of 200 square feet for one person and 400 square feet for four individuals, a 10-foot setback from other campsites, and a mens rea requirement for violating camping regulations. Subsequently, the City filed a motion to dismiss the case, or alternatively, to dissolve the preliminary injunction, on May 10, 2024.\n\nThe City then filed a motion for limited relief from the injunction on June 12, 2024 under F.R.C.P. 60(b), as it sought to relocate ten to eleven individuals camping along Francisco Boulevard West in light of alleged fire risks to their encampment. The same day, the court, considering that notice had already been given that campers had 48 hours to relocate, scheduled a hearing on the motion for June 13, 2024. The court held hearings on June 13 and June 14, 2024, and on June 14, Judge Edward M. Chen issued an order conditionally granting the City\u2019s emergency motion for limited relief from the injunction. The court explained that it was an issue of fact whether any of the individuals whom the City sought to relocate from Francisco Boulevard West were covered by the preliminary injunction in this case, and after weighing the likelihood of irreparable injury, the balance of hardships, and the health and safety risks, the court concluded that moving the individuals from the encampment would be permissible.\n\nThe court held settlement conferences at the beginning and end of July 2024. On August 7, 2024, the court granted defendants\u2019 motion to dismiss and dissolved the preliminary injunction. The court determined that the plaintiffs had not shown a reasonable expectation that the government would reenact its regulation, that the ordinance as amended on May 6, 2024 did not raise the same issues as the original ordinance, and that because the amended ordinance had given the relief sought, the case was now moot. Therefore, the court no longer had jurisdiction to maintain the preliminary injunction, which was rendered moot as well. As of December 2024, this case is closed.",
+    "target_paragraph": "The court held a settlement conference with the parties on September 20, 2023. The plaintiffs filed a first amended complaint on September 26, 2023, adding as plaintiffs two additional individuals and the San Rafael Homeless Union. The court held a hearing for the motion on the preliminary injunction on October 2 and 3 and granted in part and denied in part the preliminary injunction on October 19. The court permitted the City to enforce the ordinance but required the City to: allow 400 square feet campsites housing up to four people that were 100 feet apart; provide assistance to campers who needed to move to a designated space; provide replacements to plaintiffs who did not have tents or bedding that could fit within the compliant space; designate the permissible campsites that complied with the ordinance as modified by the preliminary injunction on street level maps; establish a registration process so campers could find permitted campsites; and not evict or prosecute any plaintiff who submitted a request for a reasonable accommodation based on disability unless they were provided with due process. There was also a mens rea requirement for violating camping regulations. The preliminary injunction applied only to residents of the encampment who had standing under this lawsuit as named plaintiffs or as members of the San Rafael Homeless Union.",
+    "target_paragraph_indices": [
+      2309,
+      3675
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2541,
+            2710
+          ],
+          [
+            2711,
+            3675
+          ],
+          [
+            5737,
+            5845
+          ]
+        ],
+        "annotation": {
+          "explanation": "October 19, 2023 to August 7, 2024: Preliminary injunction (granted in part and denied in part) permitting the City to enforce the ordinance but requiring: 400 sq. ft. campsites for up to four people spaced 100 feet apart; assistance to campers to move to designated spaces; replacements for tents/bedding to fit within compliant space; designation of permissible campsites on street-level maps; a registration process; no eviction or prosecution of any plaintiff who submitted a reasonable accommodation request based on disability unless provided due process; and a mens rea requirement for violating camping regulations. Applied only to named plaintiffs and members of the San Rafael Homeless Union.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            2,
+            6
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            2309,
+            2387
+          ]
+        ],
+        "annotation": {
+          "explanation": "September 20, 2023: Settlement conference held with the parties.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            2388,
+            2505
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Two additional individual plaintiffs added on September 26, 2023 (names not provided)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            2388,
+            2540
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: San Rafael Homeless Union",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2541,
+            2710
+          ]
+        ],
+        "annotation": {
+          "explanation": "October 19: granted in part and denied in part the preliminary injunction.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2388,
+            2540
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint added two more individuals and the San Rafael Homeless Union as plaintiffs.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2711,
+            3427
+          ],
+          [
+            3428,
+            3500
+          ],
+          [
+            3501,
+            3675
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction (granted in part) allowed enforcement but imposed conditions: campsite size/spacing, relocation assistance, replacement tents/bedding, mapped designated sites, registration process, due process for ADA accommodations, and mens rea requirement; limited to named plaintiffs and SR Homeless Union members.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2541,
+            2710
+          ],
+          [
+            2711,
+            3427
+          ],
+          [
+            3428,
+            3500
+          ],
+          [
+            3501,
+            3675
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction: Heard October 2\u20133, 2023; granted in part and denied in part on October 19, 2023, with conditions (camp sizes/spacings, assistance, replacements, mapping, registration, due process for disability accommodations, mens rea requirement); applied only to named plaintiffs and San Rafael Homeless Union members.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2388,
+            2540
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amended Complaint filed September 26, 2023 (adding two individuals and the San Rafael Homeless Union).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2711,
+            2874
+          ]
+        ],
+        "annotation": {
+          "explanation": "Require City to allow 400 sq. ft. campsites for up to four people, spaced 100 feet apart.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2711,
+            2790
+          ],
+          [
+            2875,
+            2946
+          ]
+        ],
+        "annotation": {
+          "explanation": "Require City to provide assistance to campers who need to move to a designated space.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2711,
+            2790
+          ],
+          [
+            2947,
+            3058
+          ]
+        ],
+        "annotation": {
+          "explanation": "Require City to provide replacements (tents/bedding) to plaintiffs lacking items that fit within compliant space.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2711,
+            2790
+          ],
+          [
+            3059,
+            3191
+          ]
+        ],
+        "annotation": {
+          "explanation": "Require City to designate permissible campsites on street-level maps.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2711,
+            2790
+          ],
+          [
+            3192,
+            3267
+          ]
+        ],
+        "annotation": {
+          "explanation": "Require City to establish a registration process so campers can find permitted campsites.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2711,
+            2790
+          ],
+          [
+            3268,
+            3427
+          ]
+        ],
+        "annotation": {
+          "explanation": "Prohibit City from evicting or prosecuting any plaintiff who requested a disability-based reasonable accommodation unless due process is provided.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3428,
+            3500
+          ]
+        ],
+        "annotation": {
+          "explanation": "Impose mens rea requirement for enforcing camping regulations under the injunction.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2711,
+            3427
+          ],
+          [
+            3428,
+            3500
+          ],
+          [
+            3501,
+            3675
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction terms: City may enforce the ordinance only if it (1) allows 400 sq. ft. campsites for up to four people spaced 100 feet apart; (2) provides assistance to campers needing to move to a designated space; (3) provides replacement tents/bedding to plaintiffs whose gear cannot fit within compliant space; (4) designates permissible campsites on street-level maps; (5) establishes a registration process so campers can find permitted campsites; (6) refrains from evicting or prosecuting any plaintiff who requests a disability accommodation unless due process is provided; and (7) enforces camping regulations with a mens rea requirement. Scope limited to named plaintiffs and San Rafael Homeless Union members.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2309,
+            2387
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement conference: Held Sep 20, 2023.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2541,
+            2710
+          ],
+          [
+            2711,
+            3427
+          ],
+          [
+            3428,
+            3500
+          ],
+          [
+            3501,
+            3675
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction merits hearing and ruling: Hearings on Oct 2\u20133, 2023; order on Oct 19, 2023 granting in part/denying in part. City allowed to enforce ordinance but with conditions (400 sq. ft. campsites for up to four, 100-foot spacing, assistance with relocation, replacements for tents/bedding, mapping/designation of compliant sites, registration process, due process for disability accommodation requests), and a mens rea requirement. Injunction limited to named plaintiffs and San Rafael Homeless Union members.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2541,
+            2710
+          ],
+          [
+            2711,
+            3427
+          ],
+          [
+            3428,
+            3500
+          ],
+          [
+            3501,
+            3675
+          ]
+        ],
+        "annotation": {
+          "explanation": "Oct 19, 2023: Court granted in part and denied in part the preliminary injunction\u2014allowed City to enforce the ordinance but imposed conditions (e.g., 400 sq. ft. sites for up to 4 people spaced 100 ft apart, assistance to relocate, replacement tents/bedding to comply, mapping and registration of permissible sites, due process for those requesting ADA accommodations, and a mens rea requirement). Limited to named plaintiffs and San Rafael Homeless Union members.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      }
+    ]
+  },
+  {
+    "id": "45858_p3",
+    "metadata": {
+      "case_id": "45858",
+      "paragraph_num": 3,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On October 26, 2023, one of the named plaintiffs filed an ex parte motion seeking a temporary restra..."
+    },
+    "source": "",
+    "target": "Involuntarily unhoused residents of the City of San Rafael, California, filed this lawsuit pro se on August 11, 2023, in the United States District Court for the Northern District of California, requested a temporary restraining order and preliminary injunction to stop the City of San Rafael from enforcing ordinances that the plaintiffs alleged criminalized homelessness by making \u201ccamping\u201d on public property a criminal offense. The plaintiffs were ten unhoused individuals and Camp Integrity, an unincorporated association of people and property where the unhoused individual plaintiffs lived. They sued the City of San Rafael and its Chief of Police under 42 U.S.C. \u00a7 1983 and the Americans with Disabilities Act. Plaintiffs alleged that the City\u2019s ordinance violated their rights under the First, Eighth, Fourteenth Amendments of the United States Constitution and the Americans with Disabilities Act. The plaintiffs argued that the ordinances criminalized survival activities, including eating and possessing public belongings in public spaces, and unconstitutionally targeted unhoused individuals while permitting identical conduct by people who had housing. They further argued that the ordinances criminalized homelessness by banning sleeping on public property while the City of San Rafael failed to provide enough alternative shelter for the City\u2019s homeless population. The case was assigned to Judge Edward M. Chen.\n\nOn August 15, 2023, Judge Trina Thompson held a hearing on the plaintiffs\u2019 request for a temporary restraining order. The following day, she granted the motion for a temporary restraining order, enjoining the city from enforcing the ordinance until a hearing on the preliminary injunction could be held. The court determined that the plaintiffs sufficiently showed that they were likely to suffer irreparable injury if the ordinance went into effect, that the plaintiffs would endure serious hardships under the ordinance, that temporary relief would serve the public interest, and that there were \u201cserious questions\u201d on the merits of the case. On September 6, 2023, the court held a non-evidentiary hearing on the preliminary injunction and the defendant officials of the City of San Rafael were served. The court extended the temporary restraining order on September 7, 2023.\n\nThe court held a settlement conference with the parties on September 20, 2023. The plaintiffs filed a first amended complaint on September 26, 2023, adding as plaintiffs two additional individuals and the San Rafael Homeless Union. The court held a hearing for the motion on the preliminary injunction on October 2 and 3 and granted in part and denied in part the preliminary injunction on October 19. The court permitted the City to enforce the ordinance but required the City to: allow 400 square feet campsites housing up to four people that were 100 feet apart; provide assistance to campers who needed to move to a designated space; provide replacements to plaintiffs who did not have tents or bedding that could fit within the compliant space; designate the permissible campsites that complied with the ordinance as modified by the preliminary injunction on street level maps; establish a registration process so campers could find permitted campsites; and not evict or prosecute any plaintiff who submitted a request for a reasonable accommodation based on disability unless they were provided with due process. There was also a mens rea requirement for violating camping regulations. The preliminary injunction applied only to residents of the encampment who had standing under this lawsuit as named plaintiffs or as members of the San Rafael Homeless Union.\n\nOn October 26, 2023, one of the named plaintiffs filed an ex parte motion seeking a temporary restraining order to stop the defendants from disrupting his campsite and arresting him for using a pallet under his tent as a foundation. The City opposed the plaintiff\u2019s motion. On November 1, 2023, the court held a status conference and a hearing on the temporary restraining order, which the court denied the following day.\n\nThe court held additional settlement conferences monthly from November 2023 until May 2024. On May 6, 2024, the City amended the ordinance in response to the Court\u2019s preliminary injunction. The amended ordinance allowed campties of 200 square feet for one person and 400 square feet for four individuals, a 10-foot setback from other campsites, and a mens rea requirement for violating camping regulations. Subsequently, the City filed a motion to dismiss the case, or alternatively, to dissolve the preliminary injunction, on May 10, 2024.\n\nThe City then filed a motion for limited relief from the injunction on June 12, 2024 under F.R.C.P. 60(b), as it sought to relocate ten to eleven individuals camping along Francisco Boulevard West in light of alleged fire risks to their encampment. The same day, the court, considering that notice had already been given that campers had 48 hours to relocate, scheduled a hearing on the motion for June 13, 2024. The court held hearings on June 13 and June 14, 2024, and on June 14, Judge Edward M. Chen issued an order conditionally granting the City\u2019s emergency motion for limited relief from the injunction. The court explained that it was an issue of fact whether any of the individuals whom the City sought to relocate from Francisco Boulevard West were covered by the preliminary injunction in this case, and after weighing the likelihood of irreparable injury, the balance of hardships, and the health and safety risks, the court concluded that moving the individuals from the encampment would be permissible.\n\nThe court held settlement conferences at the beginning and end of July 2024. On August 7, 2024, the court granted defendants\u2019 motion to dismiss and dissolved the preliminary injunction. The court determined that the plaintiffs had not shown a reasonable expectation that the government would reenact its regulation, that the ordinance as amended on May 6, 2024 did not raise the same issues as the original ordinance, and that because the amended ordinance had given the relief sought, the case was now moot. Therefore, the court no longer had jurisdiction to maintain the preliminary injunction, which was rendered moot as well. As of December 2024, this case is closed.",
+    "target_paragraph": "On October 26, 2023, one of the named plaintiffs filed an ex parte motion seeking a temporary restraining order to stop the defendants from disrupting his campsite and arresting him for using a pallet under his tent as a foundation. The City opposed the plaintiff\u2019s motion. On November 1, 2023, the court held a status conference and a hearing on the temporary restraining order, which the court denied the following day.",
+    "target_paragraph_indices": [
+      3677,
+      4098
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3677,
+            3909
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ex parte temporary restraining order to prevent disruption of a plaintiff\u2019s campsite and arrest for using a pallet under his tent.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3951,
+            4098
+          ]
+        ],
+        "annotation": {
+          "explanation": "the following day: denied the temporary restraining order.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3677,
+            3950
+          ],
+          [
+            3951,
+            4098
+          ]
+        ],
+        "annotation": {
+          "explanation": "Named plaintiff alleged disruption/arrest threat over a pallet under his tent; court denied the requested TRO on November 2, 2023.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3677,
+            3909
+          ],
+          [
+            3910,
+            3950
+          ],
+          [
+            3951,
+            4098
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ex parte TRO motion by a named plaintiff filed October 26, 2023; opposed by the City; denied November 2, 2023.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3677,
+            3909
+          ],
+          [
+            3910,
+            3950
+          ],
+          [
+            3951,
+            4098
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ex parte TRO motion by a named plaintiff: Filed Oct 26, 2023 (City opposed); status conference and TRO hearing held Nov 1, 2023; TRO denied Nov 2, 2023.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3677,
+            3909
+          ],
+          [
+            3951,
+            4098
+          ]
+        ],
+        "annotation": {
+          "explanation": "Nov 2, 2023: Court denied a named plaintiff\u2019s ex parte motion for a temporary restraining order regarding alleged disruption/arrest over use of a pallet under his tent.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "45858_p4",
+    "metadata": {
+      "case_id": "45858",
+      "paragraph_num": 4,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court held additional settlement conferences monthly from November 2023 until May 2024. On May 6..."
+    },
+    "source": "",
+    "target": "Involuntarily unhoused residents of the City of San Rafael, California, filed this lawsuit pro se on August 11, 2023, in the United States District Court for the Northern District of California, requested a temporary restraining order and preliminary injunction to stop the City of San Rafael from enforcing ordinances that the plaintiffs alleged criminalized homelessness by making \u201ccamping\u201d on public property a criminal offense. The plaintiffs were ten unhoused individuals and Camp Integrity, an unincorporated association of people and property where the unhoused individual plaintiffs lived. They sued the City of San Rafael and its Chief of Police under 42 U.S.C. \u00a7 1983 and the Americans with Disabilities Act. Plaintiffs alleged that the City\u2019s ordinance violated their rights under the First, Eighth, Fourteenth Amendments of the United States Constitution and the Americans with Disabilities Act. The plaintiffs argued that the ordinances criminalized survival activities, including eating and possessing public belongings in public spaces, and unconstitutionally targeted unhoused individuals while permitting identical conduct by people who had housing. They further argued that the ordinances criminalized homelessness by banning sleeping on public property while the City of San Rafael failed to provide enough alternative shelter for the City\u2019s homeless population. The case was assigned to Judge Edward M. Chen.\n\nOn August 15, 2023, Judge Trina Thompson held a hearing on the plaintiffs\u2019 request for a temporary restraining order. The following day, she granted the motion for a temporary restraining order, enjoining the city from enforcing the ordinance until a hearing on the preliminary injunction could be held. The court determined that the plaintiffs sufficiently showed that they were likely to suffer irreparable injury if the ordinance went into effect, that the plaintiffs would endure serious hardships under the ordinance, that temporary relief would serve the public interest, and that there were \u201cserious questions\u201d on the merits of the case. On September 6, 2023, the court held a non-evidentiary hearing on the preliminary injunction and the defendant officials of the City of San Rafael were served. The court extended the temporary restraining order on September 7, 2023.\n\nThe court held a settlement conference with the parties on September 20, 2023. The plaintiffs filed a first amended complaint on September 26, 2023, adding as plaintiffs two additional individuals and the San Rafael Homeless Union. The court held a hearing for the motion on the preliminary injunction on October 2 and 3 and granted in part and denied in part the preliminary injunction on October 19. The court permitted the City to enforce the ordinance but required the City to: allow 400 square feet campsites housing up to four people that were 100 feet apart; provide assistance to campers who needed to move to a designated space; provide replacements to plaintiffs who did not have tents or bedding that could fit within the compliant space; designate the permissible campsites that complied with the ordinance as modified by the preliminary injunction on street level maps; establish a registration process so campers could find permitted campsites; and not evict or prosecute any plaintiff who submitted a request for a reasonable accommodation based on disability unless they were provided with due process. There was also a mens rea requirement for violating camping regulations. The preliminary injunction applied only to residents of the encampment who had standing under this lawsuit as named plaintiffs or as members of the San Rafael Homeless Union.\n\nOn October 26, 2023, one of the named plaintiffs filed an ex parte motion seeking a temporary restraining order to stop the defendants from disrupting his campsite and arresting him for using a pallet under his tent as a foundation. The City opposed the plaintiff\u2019s motion. On November 1, 2023, the court held a status conference and a hearing on the temporary restraining order, which the court denied the following day.\n\nThe court held additional settlement conferences monthly from November 2023 until May 2024. On May 6, 2024, the City amended the ordinance in response to the Court\u2019s preliminary injunction. The amended ordinance allowed campties of 200 square feet for one person and 400 square feet for four individuals, a 10-foot setback from other campsites, and a mens rea requirement for violating camping regulations. Subsequently, the City filed a motion to dismiss the case, or alternatively, to dissolve the preliminary injunction, on May 10, 2024.\n\nThe City then filed a motion for limited relief from the injunction on June 12, 2024 under F.R.C.P. 60(b), as it sought to relocate ten to eleven individuals camping along Francisco Boulevard West in light of alleged fire risks to their encampment. The same day, the court, considering that notice had already been given that campers had 48 hours to relocate, scheduled a hearing on the motion for June 13, 2024. The court held hearings on June 13 and June 14, 2024, and on June 14, Judge Edward M. Chen issued an order conditionally granting the City\u2019s emergency motion for limited relief from the injunction. The court explained that it was an issue of fact whether any of the individuals whom the City sought to relocate from Francisco Boulevard West were covered by the preliminary injunction in this case, and after weighing the likelihood of irreparable injury, the balance of hardships, and the health and safety risks, the court concluded that moving the individuals from the encampment would be permissible.\n\nThe court held settlement conferences at the beginning and end of July 2024. On August 7, 2024, the court granted defendants\u2019 motion to dismiss and dissolved the preliminary injunction. The court determined that the plaintiffs had not shown a reasonable expectation that the government would reenact its regulation, that the ordinance as amended on May 6, 2024 did not raise the same issues as the original ordinance, and that because the amended ordinance had given the relief sought, the case was now moot. Therefore, the court no longer had jurisdiction to maintain the preliminary injunction, which was rendered moot as well. As of December 2024, this case is closed.",
+    "target_paragraph": "The court held additional settlement conferences monthly from November 2023 until May 2024. On May 6, 2024, the City amended the ordinance in response to the Court\u2019s preliminary injunction. The amended ordinance allowed campties of 200 square feet for one person and 400 square feet for four individuals, a 10-foot setback from other campsites, and a mens rea requirement for violating camping regulations. Subsequently, the City filed a motion to dismiss the case, or alternatively, to dissolve the preliminary injunction, on May 10, 2024.",
+    "target_paragraph_indices": [
+      4100,
+      4640
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            4100,
+            4191
+          ]
+        ],
+        "annotation": {
+          "explanation": "November 2023\u2013May 2024: Additional settlement conferences held monthly.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4100,
+            4191
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement conferences occurred monthly from November 2023 to May 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4192,
+            4289
+          ],
+          [
+            4290,
+            4506
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 6, 2024, the City amended the ordinance to allow 200 sq ft for one person, 400 sq ft for four, a 10-foot setback, and a mens rea requirement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4507,
+            4640
+          ]
+        ],
+        "annotation": {
+          "explanation": "City moved to dismiss or dissolve the preliminary injunction on May 10, 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4507,
+            4640
+          ]
+        ],
+        "annotation": {
+          "explanation": "City\u2019s motion to dismiss, or alternatively to dissolve the preliminary injunction, filed May 10, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4100,
+            4191
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement conferences: Held monthly from Nov 2023 through May 2024.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4192,
+            4289
+          ],
+          [
+            4507,
+            4640
+          ]
+        ],
+        "annotation": {
+          "explanation": "Post-amendment dispositive motion: After the City\u2019s May 6, 2024 amendment, the City filed a motion to dismiss or, alternatively, to dissolve the PI on May 10, 2024.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4507,
+            4640
+          ],
+          [
+            5737,
+            5845
+          ],
+          [
+            5846,
+            6168
+          ],
+          [
+            6169,
+            6289
+          ]
+        ],
+        "annotation": {
+          "explanation": "Aug 7, 2024: Court granted defendants\u2019 motion to dismiss and dissolved the preliminary injunction on mootness grounds (amended ordinance provided relief; no reasonable expectation of reenactment), and thus lacked jurisdiction to maintain the PI.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            4,
+            6
+          ]
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "45858_p5",
+    "metadata": {
+      "case_id": "45858",
+      "paragraph_num": 5,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The City then filed a motion for limited relief from the injunction on June 12, 2024 under F.R.C.P. ..."
+    },
+    "source": "",
+    "target": "Involuntarily unhoused residents of the City of San Rafael, California, filed this lawsuit pro se on August 11, 2023, in the United States District Court for the Northern District of California, requested a temporary restraining order and preliminary injunction to stop the City of San Rafael from enforcing ordinances that the plaintiffs alleged criminalized homelessness by making \u201ccamping\u201d on public property a criminal offense. The plaintiffs were ten unhoused individuals and Camp Integrity, an unincorporated association of people and property where the unhoused individual plaintiffs lived. They sued the City of San Rafael and its Chief of Police under 42 U.S.C. \u00a7 1983 and the Americans with Disabilities Act. Plaintiffs alleged that the City\u2019s ordinance violated their rights under the First, Eighth, Fourteenth Amendments of the United States Constitution and the Americans with Disabilities Act. The plaintiffs argued that the ordinances criminalized survival activities, including eating and possessing public belongings in public spaces, and unconstitutionally targeted unhoused individuals while permitting identical conduct by people who had housing. They further argued that the ordinances criminalized homelessness by banning sleeping on public property while the City of San Rafael failed to provide enough alternative shelter for the City\u2019s homeless population. The case was assigned to Judge Edward M. Chen.\n\nOn August 15, 2023, Judge Trina Thompson held a hearing on the plaintiffs\u2019 request for a temporary restraining order. The following day, she granted the motion for a temporary restraining order, enjoining the city from enforcing the ordinance until a hearing on the preliminary injunction could be held. The court determined that the plaintiffs sufficiently showed that they were likely to suffer irreparable injury if the ordinance went into effect, that the plaintiffs would endure serious hardships under the ordinance, that temporary relief would serve the public interest, and that there were \u201cserious questions\u201d on the merits of the case. On September 6, 2023, the court held a non-evidentiary hearing on the preliminary injunction and the defendant officials of the City of San Rafael were served. The court extended the temporary restraining order on September 7, 2023.\n\nThe court held a settlement conference with the parties on September 20, 2023. The plaintiffs filed a first amended complaint on September 26, 2023, adding as plaintiffs two additional individuals and the San Rafael Homeless Union. The court held a hearing for the motion on the preliminary injunction on October 2 and 3 and granted in part and denied in part the preliminary injunction on October 19. The court permitted the City to enforce the ordinance but required the City to: allow 400 square feet campsites housing up to four people that were 100 feet apart; provide assistance to campers who needed to move to a designated space; provide replacements to plaintiffs who did not have tents or bedding that could fit within the compliant space; designate the permissible campsites that complied with the ordinance as modified by the preliminary injunction on street level maps; establish a registration process so campers could find permitted campsites; and not evict or prosecute any plaintiff who submitted a request for a reasonable accommodation based on disability unless they were provided with due process. There was also a mens rea requirement for violating camping regulations. The preliminary injunction applied only to residents of the encampment who had standing under this lawsuit as named plaintiffs or as members of the San Rafael Homeless Union.\n\nOn October 26, 2023, one of the named plaintiffs filed an ex parte motion seeking a temporary restraining order to stop the defendants from disrupting his campsite and arresting him for using a pallet under his tent as a foundation. The City opposed the plaintiff\u2019s motion. On November 1, 2023, the court held a status conference and a hearing on the temporary restraining order, which the court denied the following day.\n\nThe court held additional settlement conferences monthly from November 2023 until May 2024. On May 6, 2024, the City amended the ordinance in response to the Court\u2019s preliminary injunction. The amended ordinance allowed campties of 200 square feet for one person and 400 square feet for four individuals, a 10-foot setback from other campsites, and a mens rea requirement for violating camping regulations. Subsequently, the City filed a motion to dismiss the case, or alternatively, to dissolve the preliminary injunction, on May 10, 2024.\n\nThe City then filed a motion for limited relief from the injunction on June 12, 2024 under F.R.C.P. 60(b), as it sought to relocate ten to eleven individuals camping along Francisco Boulevard West in light of alleged fire risks to their encampment. The same day, the court, considering that notice had already been given that campers had 48 hours to relocate, scheduled a hearing on the motion for June 13, 2024. The court held hearings on June 13 and June 14, 2024, and on June 14, Judge Edward M. Chen issued an order conditionally granting the City\u2019s emergency motion for limited relief from the injunction. The court explained that it was an issue of fact whether any of the individuals whom the City sought to relocate from Francisco Boulevard West were covered by the preliminary injunction in this case, and after weighing the likelihood of irreparable injury, the balance of hardships, and the health and safety risks, the court concluded that moving the individuals from the encampment would be permissible.\n\nThe court held settlement conferences at the beginning and end of July 2024. On August 7, 2024, the court granted defendants\u2019 motion to dismiss and dissolved the preliminary injunction. The court determined that the plaintiffs had not shown a reasonable expectation that the government would reenact its regulation, that the ordinance as amended on May 6, 2024 did not raise the same issues as the original ordinance, and that because the amended ordinance had given the relief sought, the case was now moot. Therefore, the court no longer had jurisdiction to maintain the preliminary injunction, which was rendered moot as well. As of December 2024, this case is closed.",
+    "target_paragraph": "The City then filed a motion for limited relief from the injunction on June 12, 2024 under F.R.C.P. 60(b), as it sought to relocate ten to eleven individuals camping along Francisco Boulevard West in light of alleged fire risks to their encampment. The same day, the court, considering that notice had already been given that campers had 48 hours to relocate, scheduled a hearing on the motion for June 13, 2024. The court held hearings on June 13 and June 14, 2024, and on June 14, Judge Edward M. Chen issued an order conditionally granting the City\u2019s emergency motion for limited relief from the injunction. The court explained that it was an issue of fact whether any of the individuals whom the City sought to relocate from Francisco Boulevard West were covered by the preliminary injunction in this case, and after weighing the likelihood of irreparable injury, the balance of hardships, and the health and safety risks, the court concluded that moving the individuals from the encampment would be permissible.",
+    "target_paragraph_indices": [
+      4642,
+      5658
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            5055,
+            5252
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 14, 2024: issued an order conditionally granting the City\u2019s emergency motion for limited relief from the injunction.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4642,
+            4890
+          ],
+          [
+            5113,
+            5252
+          ],
+          [
+            5569,
+            5658
+          ]
+        ],
+        "annotation": {
+          "explanation": "In June 2024, due to alleged fire risks at Francisco Boulevard West, the City sought and obtained conditional relief to relocate 10\u201311 individuals; the court deemed relocation permissible after weighing harms and safety.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4642,
+            4890
+          ],
+          [
+            5055,
+            5252
+          ]
+        ],
+        "annotation": {
+          "explanation": "Rule 60(b) motion for limited relief from the injunction filed June 12, 2024; conditionally granted June 14, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4642,
+            4890
+          ],
+          [
+            5113,
+            5252
+          ],
+          [
+            5569,
+            5658
+          ]
+        ],
+        "annotation": {
+          "explanation": "Granted limited relief permitting the City to relocate ten to eleven individuals camping along Francisco Boulevard West due to fire risks, notwithstanding the preliminary injunction.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            5113,
+            5252
+          ],
+          [
+            5569,
+            5658
+          ]
+        ],
+        "annotation": {
+          "explanation": "Limited relief from injunction (June 14, 2024): City permitted to relocate 10\u201311 individuals camping along Francisco Boulevard West due to safety risks, notwithstanding the preliminary injunction.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4642,
+            4890
+          ],
+          [
+            4891,
+            5054
+          ],
+          [
+            5055,
+            5252
+          ],
+          [
+            5253,
+            5658
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency motion for limited relief (FRCP 60(b)): Filed June 12, 2024; hearing scheduled for June 13 due to 48-hour relocation notice; hearings held June 13\u201314; order conditionally granting relief issued June 14, 2024 (Judge Edward M. Chen), allowing relocation after weighing irreparable injury, hardships, and safety risks.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4642,
+            4890
+          ],
+          [
+            5055,
+            5252
+          ],
+          [
+            5253,
+            5658
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 14, 2024: Judge Edward M. Chen conditionally granted the City\u2019s emergency Rule 60(b) motion for limited relief from the preliminary injunction to relocate 10\u201311 individuals on Francisco Boulevard West due to fire risks, after weighing irreparable injury, hardships, and health/safety risks.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "45858_p6",
+    "metadata": {
+      "case_id": "45858",
+      "paragraph_num": 6,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court held settlement conferences at the beginning and end of July 2024. On August 7, 2024, the ..."
+    },
+    "source": "",
+    "target": "Involuntarily unhoused residents of the City of San Rafael, California, filed this lawsuit pro se on August 11, 2023, in the United States District Court for the Northern District of California, requested a temporary restraining order and preliminary injunction to stop the City of San Rafael from enforcing ordinances that the plaintiffs alleged criminalized homelessness by making \u201ccamping\u201d on public property a criminal offense. The plaintiffs were ten unhoused individuals and Camp Integrity, an unincorporated association of people and property where the unhoused individual plaintiffs lived. They sued the City of San Rafael and its Chief of Police under 42 U.S.C. \u00a7 1983 and the Americans with Disabilities Act. Plaintiffs alleged that the City\u2019s ordinance violated their rights under the First, Eighth, Fourteenth Amendments of the United States Constitution and the Americans with Disabilities Act. The plaintiffs argued that the ordinances criminalized survival activities, including eating and possessing public belongings in public spaces, and unconstitutionally targeted unhoused individuals while permitting identical conduct by people who had housing. They further argued that the ordinances criminalized homelessness by banning sleeping on public property while the City of San Rafael failed to provide enough alternative shelter for the City\u2019s homeless population. The case was assigned to Judge Edward M. Chen.\n\nOn August 15, 2023, Judge Trina Thompson held a hearing on the plaintiffs\u2019 request for a temporary restraining order. The following day, she granted the motion for a temporary restraining order, enjoining the city from enforcing the ordinance until a hearing on the preliminary injunction could be held. The court determined that the plaintiffs sufficiently showed that they were likely to suffer irreparable injury if the ordinance went into effect, that the plaintiffs would endure serious hardships under the ordinance, that temporary relief would serve the public interest, and that there were \u201cserious questions\u201d on the merits of the case. On September 6, 2023, the court held a non-evidentiary hearing on the preliminary injunction and the defendant officials of the City of San Rafael were served. The court extended the temporary restraining order on September 7, 2023.\n\nThe court held a settlement conference with the parties on September 20, 2023. The plaintiffs filed a first amended complaint on September 26, 2023, adding as plaintiffs two additional individuals and the San Rafael Homeless Union. The court held a hearing for the motion on the preliminary injunction on October 2 and 3 and granted in part and denied in part the preliminary injunction on October 19. The court permitted the City to enforce the ordinance but required the City to: allow 400 square feet campsites housing up to four people that were 100 feet apart; provide assistance to campers who needed to move to a designated space; provide replacements to plaintiffs who did not have tents or bedding that could fit within the compliant space; designate the permissible campsites that complied with the ordinance as modified by the preliminary injunction on street level maps; establish a registration process so campers could find permitted campsites; and not evict or prosecute any plaintiff who submitted a request for a reasonable accommodation based on disability unless they were provided with due process. There was also a mens rea requirement for violating camping regulations. The preliminary injunction applied only to residents of the encampment who had standing under this lawsuit as named plaintiffs or as members of the San Rafael Homeless Union.\n\nOn October 26, 2023, one of the named plaintiffs filed an ex parte motion seeking a temporary restraining order to stop the defendants from disrupting his campsite and arresting him for using a pallet under his tent as a foundation. The City opposed the plaintiff\u2019s motion. On November 1, 2023, the court held a status conference and a hearing on the temporary restraining order, which the court denied the following day.\n\nThe court held additional settlement conferences monthly from November 2023 until May 2024. On May 6, 2024, the City amended the ordinance in response to the Court\u2019s preliminary injunction. The amended ordinance allowed campties of 200 square feet for one person and 400 square feet for four individuals, a 10-foot setback from other campsites, and a mens rea requirement for violating camping regulations. Subsequently, the City filed a motion to dismiss the case, or alternatively, to dissolve the preliminary injunction, on May 10, 2024.\n\nThe City then filed a motion for limited relief from the injunction on June 12, 2024 under F.R.C.P. 60(b), as it sought to relocate ten to eleven individuals camping along Francisco Boulevard West in light of alleged fire risks to their encampment. The same day, the court, considering that notice had already been given that campers had 48 hours to relocate, scheduled a hearing on the motion for June 13, 2024. The court held hearings on June 13 and June 14, 2024, and on June 14, Judge Edward M. Chen issued an order conditionally granting the City\u2019s emergency motion for limited relief from the injunction. The court explained that it was an issue of fact whether any of the individuals whom the City sought to relocate from Francisco Boulevard West were covered by the preliminary injunction in this case, and after weighing the likelihood of irreparable injury, the balance of hardships, and the health and safety risks, the court concluded that moving the individuals from the encampment would be permissible.\n\nThe court held settlement conferences at the beginning and end of July 2024. On August 7, 2024, the court granted defendants\u2019 motion to dismiss and dissolved the preliminary injunction. The court determined that the plaintiffs had not shown a reasonable expectation that the government would reenact its regulation, that the ordinance as amended on May 6, 2024 did not raise the same issues as the original ordinance, and that because the amended ordinance had given the relief sought, the case was now moot. Therefore, the court no longer had jurisdiction to maintain the preliminary injunction, which was rendered moot as well. As of December 2024, this case is closed.",
+    "target_paragraph": "The court held settlement conferences at the beginning and end of July 2024. On August 7, 2024, the court granted defendants\u2019 motion to dismiss and dissolved the preliminary injunction. The court determined that the plaintiffs had not shown a reasonable expectation that the government would reenact its regulation, that the ordinance as amended on May 6, 2024 did not raise the same issues as the original ordinance, and that because the amended ordinance had given the relief sought, the case was now moot. Therefore, the court no longer had jurisdiction to maintain the preliminary injunction, which was rendered moot as well. As of December 2024, this case is closed.",
+    "target_paragraph_indices": [
+      5660,
+      6331
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            5660,
+            5736
+          ]
+        ],
+        "annotation": {
+          "explanation": "Beginning and end of July 2024: Settlement conferences held.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            5737,
+            5845
+          ],
+          [
+            5846,
+            6168
+          ],
+          [
+            6290,
+            6331
+          ]
+        ],
+        "annotation": {
+          "explanation": "No.",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            5737,
+            5845
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 7, 2024: granted defendants\u2019 motion to dismiss and dissolved the preliminary injunction.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5660,
+            5736
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement conferences were also held at the beginning and end of July 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5737,
+            5845
+          ],
+          [
+            5846,
+            6168
+          ],
+          [
+            6169,
+            6331
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case dismissed on August 7, 2024 as moot due to amended ordinance providing relief and no reasonable expectation of reenactment; preliminary injunction dissolved; case closed by December 2024.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5737,
+            5845
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion to dismiss granted August 7, 2024; preliminary injunction dissolved.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            5737,
+            5845
+          ]
+        ],
+        "annotation": {
+          "explanation": "Dissolved the preliminary injunction; defendants no longer bound by its terms.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            5737,
+            5845
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order dissolving the preliminary injunction (August 7, 2024): preliminary injunction terminated.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5660,
+            5736
+          ]
+        ],
+        "annotation": {
+          "explanation": "Settlement conferences: Held at the beginning and end of July 2024.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5737,
+            5845
+          ],
+          [
+            5846,
+            6168
+          ],
+          [
+            6169,
+            6289
+          ],
+          [
+            6290,
+            6331
+          ]
+        ],
+        "annotation": {
+          "explanation": "Disposition on dispositive motion: On Aug 7, 2024, the court granted the motion to dismiss and dissolved the preliminary injunction, finding mootness due to the amended ordinance and no reasonable expectation of reenactment; court lacked jurisdiction to maintain the PI. Case closed by Dec 2024.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  }
+]

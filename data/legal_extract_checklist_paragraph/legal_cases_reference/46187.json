@@ -1,0 +1,978 @@
+[
+  {
+    "id": "46187_p0",
+    "metadata": {
+      "case_id": "46187",
+      "paragraph_num": 0,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenges the second Trump Administration's transfer of immigrant detainees from the Unit..."
+    },
+    "source": "",
+    "target": "This case challenges the second Trump Administration's transfer of immigrant detainees from the United States to the U.S. Naval Station at Guant\u00e1namo Bay, Cuba. (To see the Clearinghouse's collection of legal challenges to actions by the second Trump Administration, click here [../../../../collections/38759].)\n\nPrior to this lawsuit, President Trump said he wanted to use Guant\u00e1namo\u2019s 30,000 beds \u201cto detain the worst criminal illegal aliens threatening the American people\u201d (reported here [https://www.npr.org/2025/01/30/g-s1-45454/trump-says-u-s-will-send-worst-criminal-illegal-aliens-to-guantanamo-bay]), and on January 29, 2025, he issued a memorandum [https://www.whitehouse.gov/presidential-actions/2025/01/expanding-migrant-operations-center-at-naval-station-guantanamo-bay-to-full-capacity/] to expand the Migrant Operations Center there. After migrants were sent to Guant\u00e1namo, a lawsuit directed at ensuring access to counsel for people detained there was filed on February 12, 2025. See Las Americas Immigr. Advoc. Ctr. v. Noem, No. 25-cv-418 (D.D.C. filed Feb. 12, 2025) (\u201cLas Americas\u201d) and the Clearinghouse's summary here [../../../../case/46109/].\n\nThen on March 1, 2025, this lawsuit was filed by ten noncitizens in immigration custody who were at imminent risk of transfer from the U.S. to Guant\u00e1namo. They were represented by the ACLU, ACLU of DC, International Refugee Assistance Project, and Center for Constitutional Rights. They sued the U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement, U.S. Department of Defense, and the heads of each agency in the U.S. District Court for the District of Columbia. The plaintiffs alleged that the transfers and detention at Guant\u00e1namo violated the Immigration and Nationality Act, the Administrative Procedure Act, and\u2014because the transfers are undertaken for punitive, illegitimate reasons and the conditions in which the detainees are housed are unconstitutional\u2014the Fifth Amendment's due process clause. They sought a declaratory judgment, injunctive relief, a writ of habeas corpus, and reasonable attorneys' fees and costs. The case was assigned to District Judge Carl J. Nichols, who already had Las Americas before him.\n\nSimultaneously with the complaint, the plaintiffs filed an emergency motion seeking to halt the transfers. This motion was denied during a hearing on March 14, 2025 (reported here [https://www.nytimes.com/2025/03/14/us/politics/judge-guantanamo-detention-migrants.html]).\n\nOn March 29, 2025, one of the plaintiffs (Mr. Espinoza Escalona) was transferred from the U.S. to Guant\u00e1namo, then the next day, they were transferred to El Salvador. Per the plaintiff's counsel, they did not receive any notice from the government of his transfer until approximately four days after his transport to Guant\u00e1namo. As such, they argued they had no opportunity to timely intervene during his detention at Guant\u00e1namo\u2014the entire purpose of the court's notice requirement\u2014and requested a court order that the defendants provide 24-hour advance notice prior to the transfer of any of the remaining plaintiffs to Guant\u00e1namo.\n\nOn May 19, defendants filed a motion to dismiss for mootness, lack of standing, lack of jurisdiction, failure to state a claim, improper venue, and failure to allege a substantive Due Process claim. The following week, on May 22, 2025, plaintiffs gave notice of voluntary dismissal on all charges and against all parties, stating that certain members of the plaintiffs had been deported by the defendants, rendering their claims moot, and that the remaining plaintiffs no longer wished to continue the litigation.\n\nThis case is dismissed.",
+    "target_paragraph": "This case challenges the second Trump Administration's transfer of immigrant detainees from the United States to the U.S. Naval Station at Guant\u00e1namo Bay, Cuba. (To see the Clearinghouse's collection of legal challenges to actions by the second Trump Administration, click here [../../../../collections/38759].)",
+    "target_paragraph_indices": [
+      0,
+      311
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            160
+          ]
+        ],
+        "annotation": {
+          "explanation": "Core challenged conduct: transferring immigrant detainees from the U.S. to Guant\u00e1namo Bay.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46187_p1",
+    "metadata": {
+      "case_id": "46187",
+      "paragraph_num": 1,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Prior to this lawsuit, President Trump said he wanted to use Guant\u00e1namo\u2019s 30,000 beds \u201cto detain the..."
+    },
+    "source": "",
+    "target": "This case challenges the second Trump Administration's transfer of immigrant detainees from the United States to the U.S. Naval Station at Guant\u00e1namo Bay, Cuba. (To see the Clearinghouse's collection of legal challenges to actions by the second Trump Administration, click here [../../../../collections/38759].)\n\nPrior to this lawsuit, President Trump said he wanted to use Guant\u00e1namo\u2019s 30,000 beds \u201cto detain the worst criminal illegal aliens threatening the American people\u201d (reported here [https://www.npr.org/2025/01/30/g-s1-45454/trump-says-u-s-will-send-worst-criminal-illegal-aliens-to-guantanamo-bay]), and on January 29, 2025, he issued a memorandum [https://www.whitehouse.gov/presidential-actions/2025/01/expanding-migrant-operations-center-at-naval-station-guantanamo-bay-to-full-capacity/] to expand the Migrant Operations Center there. After migrants were sent to Guant\u00e1namo, a lawsuit directed at ensuring access to counsel for people detained there was filed on February 12, 2025. See Las Americas Immigr. Advoc. Ctr. v. Noem, No. 25-cv-418 (D.D.C. filed Feb. 12, 2025) (\u201cLas Americas\u201d) and the Clearinghouse's summary here [../../../../case/46109/].\n\nThen on March 1, 2025, this lawsuit was filed by ten noncitizens in immigration custody who were at imminent risk of transfer from the U.S. to Guant\u00e1namo. They were represented by the ACLU, ACLU of DC, International Refugee Assistance Project, and Center for Constitutional Rights. They sued the U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement, U.S. Department of Defense, and the heads of each agency in the U.S. District Court for the District of Columbia. The plaintiffs alleged that the transfers and detention at Guant\u00e1namo violated the Immigration and Nationality Act, the Administrative Procedure Act, and\u2014because the transfers are undertaken for punitive, illegitimate reasons and the conditions in which the detainees are housed are unconstitutional\u2014the Fifth Amendment's due process clause. They sought a declaratory judgment, injunctive relief, a writ of habeas corpus, and reasonable attorneys' fees and costs. The case was assigned to District Judge Carl J. Nichols, who already had Las Americas before him.\n\nSimultaneously with the complaint, the plaintiffs filed an emergency motion seeking to halt the transfers. This motion was denied during a hearing on March 14, 2025 (reported here [https://www.nytimes.com/2025/03/14/us/politics/judge-guantanamo-detention-migrants.html]).\n\nOn March 29, 2025, one of the plaintiffs (Mr. Espinoza Escalona) was transferred from the U.S. to Guant\u00e1namo, then the next day, they were transferred to El Salvador. Per the plaintiff's counsel, they did not receive any notice from the government of his transfer until approximately four days after his transport to Guant\u00e1namo. As such, they argued they had no opportunity to timely intervene during his detention at Guant\u00e1namo\u2014the entire purpose of the court's notice requirement\u2014and requested a court order that the defendants provide 24-hour advance notice prior to the transfer of any of the remaining plaintiffs to Guant\u00e1namo.\n\nOn May 19, defendants filed a motion to dismiss for mootness, lack of standing, lack of jurisdiction, failure to state a claim, improper venue, and failure to allege a substantive Due Process claim. The following week, on May 22, 2025, plaintiffs gave notice of voluntary dismissal on all charges and against all parties, stating that certain members of the plaintiffs had been deported by the defendants, rendering their claims moot, and that the remaining plaintiffs no longer wished to continue the litigation.\n\nThis case is dismissed.",
+    "target_paragraph": "Prior to this lawsuit, President Trump said he wanted to use Guant\u00e1namo\u2019s 30,000 beds \u201cto detain the worst criminal illegal aliens threatening the American people\u201d (reported here [https://www.npr.org/2025/01/30/g-s1-45454/trump-says-u-s-will-send-worst-criminal-illegal-aliens-to-guantanamo-bay]), and on January 29, 2025, he issued a memorandum [https://www.whitehouse.gov/presidential-actions/2025/01/expanding-migrant-operations-center-at-naval-station-guantanamo-bay-to-full-capacity/] to expand the Migrant Operations Center there. After migrants were sent to Guant\u00e1namo, a lawsuit directed at ensuring access to counsel for people detained there was filed on February 12, 2025. See Las Americas Immigr. Advoc. Ctr. v. Noem, No. 25-cv-418 (D.D.C. filed Feb. 12, 2025) (\u201cLas Americas\u201d) and the Clearinghouse's summary here [../../../../case/46109/].",
+    "target_paragraph_indices": [
+      313,
+      1166
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            850,
+            1166
+          ],
+          [
+            2122,
+            2219
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: Las Americas Immigr. Advoc. Ctr. v. Noem, No. 25-cv-418 (D.D.C., filed Feb. 12, 2025) (\u201cLas Americas\u201d). Subject: lawsuit ensuring access to counsel for people detained at Guant\u00e1namo. It is before the same judge (District Judge Carl J. Nichols). Clearinghouse summary: ../../../../case/46109/.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            611,
+            849
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 29, 2025: President Trump issued a memorandum to expand the Migrant Operations Center there.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            313,
+            849
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background policy and documentary record: President Trump's public statement and a January 29, 2025 presidential memorandum expanding the Migrant Operations Center at Guant\u00e1namo.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            850,
+            1166
+          ]
+        ],
+        "annotation": {
+          "explanation": "Factual context: Migrants were sent to Guant\u00e1namo; related litigation (Las Americas) was filed to secure access to counsel for detainees.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46187_p2",
+    "metadata": {
+      "case_id": "46187",
+      "paragraph_num": 2,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Then on March 1, 2025, this lawsuit was filed by ten noncitizens in immigration custody who were at ..."
+    },
+    "source": "",
+    "target": "This case challenges the second Trump Administration's transfer of immigrant detainees from the United States to the U.S. Naval Station at Guant\u00e1namo Bay, Cuba. (To see the Clearinghouse's collection of legal challenges to actions by the second Trump Administration, click here [../../../../collections/38759].)\n\nPrior to this lawsuit, President Trump said he wanted to use Guant\u00e1namo\u2019s 30,000 beds \u201cto detain the worst criminal illegal aliens threatening the American people\u201d (reported here [https://www.npr.org/2025/01/30/g-s1-45454/trump-says-u-s-will-send-worst-criminal-illegal-aliens-to-guantanamo-bay]), and on January 29, 2025, he issued a memorandum [https://www.whitehouse.gov/presidential-actions/2025/01/expanding-migrant-operations-center-at-naval-station-guantanamo-bay-to-full-capacity/] to expand the Migrant Operations Center there. After migrants were sent to Guant\u00e1namo, a lawsuit directed at ensuring access to counsel for people detained there was filed on February 12, 2025. See Las Americas Immigr. Advoc. Ctr. v. Noem, No. 25-cv-418 (D.D.C. filed Feb. 12, 2025) (\u201cLas Americas\u201d) and the Clearinghouse's summary here [../../../../case/46109/].\n\nThen on March 1, 2025, this lawsuit was filed by ten noncitizens in immigration custody who were at imminent risk of transfer from the U.S. to Guant\u00e1namo. They were represented by the ACLU, ACLU of DC, International Refugee Assistance Project, and Center for Constitutional Rights. They sued the U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement, U.S. Department of Defense, and the heads of each agency in the U.S. District Court for the District of Columbia. The plaintiffs alleged that the transfers and detention at Guant\u00e1namo violated the Immigration and Nationality Act, the Administrative Procedure Act, and\u2014because the transfers are undertaken for punitive, illegitimate reasons and the conditions in which the detainees are housed are unconstitutional\u2014the Fifth Amendment's due process clause. They sought a declaratory judgment, injunctive relief, a writ of habeas corpus, and reasonable attorneys' fees and costs. The case was assigned to District Judge Carl J. Nichols, who already had Las Americas before him.\n\nSimultaneously with the complaint, the plaintiffs filed an emergency motion seeking to halt the transfers. This motion was denied during a hearing on March 14, 2025 (reported here [https://www.nytimes.com/2025/03/14/us/politics/judge-guantanamo-detention-migrants.html]).\n\nOn March 29, 2025, one of the plaintiffs (Mr. Espinoza Escalona) was transferred from the U.S. to Guant\u00e1namo, then the next day, they were transferred to El Salvador. Per the plaintiff's counsel, they did not receive any notice from the government of his transfer until approximately four days after his transport to Guant\u00e1namo. As such, they argued they had no opportunity to timely intervene during his detention at Guant\u00e1namo\u2014the entire purpose of the court's notice requirement\u2014and requested a court order that the defendants provide 24-hour advance notice prior to the transfer of any of the remaining plaintiffs to Guant\u00e1namo.\n\nOn May 19, defendants filed a motion to dismiss for mootness, lack of standing, lack of jurisdiction, failure to state a claim, improper venue, and failure to allege a substantive Due Process claim. The following week, on May 22, 2025, plaintiffs gave notice of voluntary dismissal on all charges and against all parties, stating that certain members of the plaintiffs had been deported by the defendants, rendering their claims moot, and that the remaining plaintiffs no longer wished to continue the litigation.\n\nThis case is dismissed.",
+    "target_paragraph": "Then on March 1, 2025, this lawsuit was filed by ten noncitizens in immigration custody who were at imminent risk of transfer from the U.S. to Guant\u00e1namo. They were represented by the ACLU, ACLU of DC, International Refugee Assistance Project, and Center for Constitutional Rights. They sued the U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement, U.S. Department of Defense, and the heads of each agency in the U.S. District Court for the District of Columbia. The plaintiffs alleged that the transfers and detention at Guant\u00e1namo violated the Immigration and Nationality Act, the Administrative Procedure Act, and\u2014because the transfers are undertaken for punitive, illegitimate reasons and the conditions in which the detainees are housed are unconstitutional\u2014the Fifth Amendment's due process clause. They sought a declaratory judgment, injunctive relief, a writ of habeas corpus, and reasonable attorneys' fees and costs. The case was assigned to District Judge Carl J. Nichols, who already had Las Americas before him.",
+    "target_paragraph_indices": [
+      1168,
+      2219
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            1168,
+            1322
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 1, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1658,
+            1772
+          ]
+        ],
+        "annotation": {
+          "explanation": "Immigration and Nationality Act (INA)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1658,
+            1736
+          ],
+          [
+            1774,
+            1806
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1658,
+            1736
+          ],
+          [
+            1958,
+            1999
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment Due Process Clause",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2000,
+            2121
+          ]
+        ],
+        "annotation": {
+          "explanation": "Writ of habeas corpus",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1686,
+            1772
+          ]
+        ],
+        "annotation": {
+          "explanation": "Immigration and Nationality Act",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1686,
+            1736
+          ],
+          [
+            1774,
+            1806
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1812,
+            1999
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment Due Process Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2000,
+            2121
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2000,
+            2121
+          ],
+          [
+            2221,
+            2327
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief (including an emergency motion to halt transfers)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 9
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2000,
+            2121
+          ]
+        ],
+        "annotation": {
+          "explanation": "Writ of habeas corpus",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2000,
+            2121
+          ]
+        ],
+        "annotation": {
+          "explanation": "Reasonable attorneys' fees and costs",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1323,
+            1449
+          ]
+        ],
+        "annotation": {
+          "explanation": "ACLU",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1323,
+            1449
+          ]
+        ],
+        "annotation": {
+          "explanation": "ACLU of DC",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1323,
+            1449
+          ]
+        ],
+        "annotation": {
+          "explanation": "International Refugee Assistance Project",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1323,
+            1449
+          ]
+        ],
+        "annotation": {
+          "explanation": "Center for Constitutional Rights",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            2122,
+            2219
+          ]
+        ],
+        "annotation": {
+          "explanation": "Carl J. Nichols",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            1168,
+            1322
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as ten noncitizens in immigration custody who were at imminent risk of transfer from the U.S. to Guant\u00e1namo",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1168,
+            1322
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Ten noncitizens in immigration custody at imminent risk of transfer from the U.S. to Guant\u00e1namo",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1168,
+            1322
+          ],
+          [
+            2494,
+            2660
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Mr. Espinoza Escalona (one of the ten noncitizen plaintiffs in immigration custody)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            2,
+            4
+          ]
+        },
+        "id": 19
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1450,
+            1657
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Homeland Security",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1450,
+            1657
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Immigration and Customs Enforcement",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1450,
+            1657
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Defense",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 22
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1450,
+            1657
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: The heads of each agency (DHS, ICE, and DOD)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 23
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1168,
+            1657
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing details: On March 1, 2025, ten noncitizens in immigration custody at imminent risk of transfer filed suit in D.D.C., represented by ACLU/ACLU-DC/IRAP/CCR, against DHS, ICE, DOD, and agency heads.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 24
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1658,
+            2121
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged factual basis and requested relief: Plaintiffs claimed transfers were punitive/illegitimate and conditions unconstitutional (supporting INA, APA, and Fifth Amendment due process claims), seeking declaratory and injunctive relief, habeas, and fees.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 25
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2122,
+            2219
+          ]
+        ],
+        "annotation": {
+          "explanation": "Judicial assignment: The case was assigned to Judge Carl J. Nichols, providing context due to related Las Americas case.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 26
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1168,
+            1322
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on March 1, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 27
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2122,
+            2219
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assigned to District Judge Carl J. Nichols.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 28
+      }
+    ]
+  },
+  {
+    "id": "46187_p3",
+    "metadata": {
+      "case_id": "46187",
+      "paragraph_num": 3,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Simultaneously with the complaint, the plaintiffs filed an emergency motion seeking to halt the tran..."
+    },
+    "source": "",
+    "target": "This case challenges the second Trump Administration's transfer of immigrant detainees from the United States to the U.S. Naval Station at Guant\u00e1namo Bay, Cuba. (To see the Clearinghouse's collection of legal challenges to actions by the second Trump Administration, click here [../../../../collections/38759].)\n\nPrior to this lawsuit, President Trump said he wanted to use Guant\u00e1namo\u2019s 30,000 beds \u201cto detain the worst criminal illegal aliens threatening the American people\u201d (reported here [https://www.npr.org/2025/01/30/g-s1-45454/trump-says-u-s-will-send-worst-criminal-illegal-aliens-to-guantanamo-bay]), and on January 29, 2025, he issued a memorandum [https://www.whitehouse.gov/presidential-actions/2025/01/expanding-migrant-operations-center-at-naval-station-guantanamo-bay-to-full-capacity/] to expand the Migrant Operations Center there. After migrants were sent to Guant\u00e1namo, a lawsuit directed at ensuring access to counsel for people detained there was filed on February 12, 2025. See Las Americas Immigr. Advoc. Ctr. v. Noem, No. 25-cv-418 (D.D.C. filed Feb. 12, 2025) (\u201cLas Americas\u201d) and the Clearinghouse's summary here [../../../../case/46109/].\n\nThen on March 1, 2025, this lawsuit was filed by ten noncitizens in immigration custody who were at imminent risk of transfer from the U.S. to Guant\u00e1namo. They were represented by the ACLU, ACLU of DC, International Refugee Assistance Project, and Center for Constitutional Rights. They sued the U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement, U.S. Department of Defense, and the heads of each agency in the U.S. District Court for the District of Columbia. The plaintiffs alleged that the transfers and detention at Guant\u00e1namo violated the Immigration and Nationality Act, the Administrative Procedure Act, and\u2014because the transfers are undertaken for punitive, illegitimate reasons and the conditions in which the detainees are housed are unconstitutional\u2014the Fifth Amendment's due process clause. They sought a declaratory judgment, injunctive relief, a writ of habeas corpus, and reasonable attorneys' fees and costs. The case was assigned to District Judge Carl J. Nichols, who already had Las Americas before him.\n\nSimultaneously with the complaint, the plaintiffs filed an emergency motion seeking to halt the transfers. This motion was denied during a hearing on March 14, 2025 (reported here [https://www.nytimes.com/2025/03/14/us/politics/judge-guantanamo-detention-migrants.html]).\n\nOn March 29, 2025, one of the plaintiffs (Mr. Espinoza Escalona) was transferred from the U.S. to Guant\u00e1namo, then the next day, they were transferred to El Salvador. Per the plaintiff's counsel, they did not receive any notice from the government of his transfer until approximately four days after his transport to Guant\u00e1namo. As such, they argued they had no opportunity to timely intervene during his detention at Guant\u00e1namo\u2014the entire purpose of the court's notice requirement\u2014and requested a court order that the defendants provide 24-hour advance notice prior to the transfer of any of the remaining plaintiffs to Guant\u00e1namo.\n\nOn May 19, defendants filed a motion to dismiss for mootness, lack of standing, lack of jurisdiction, failure to state a claim, improper venue, and failure to allege a substantive Due Process claim. The following week, on May 22, 2025, plaintiffs gave notice of voluntary dismissal on all charges and against all parties, stating that certain members of the plaintiffs had been deported by the defendants, rendering their claims moot, and that the remaining plaintiffs no longer wished to continue the litigation.\n\nThis case is dismissed.",
+    "target_paragraph": "Simultaneously with the complaint, the plaintiffs filed an emergency motion seeking to halt the transfers. This motion was denied during a hearing on March 14, 2025 (reported here [https://www.nytimes.com/2025/03/14/us/politics/judge-guantanamo-detention-migrants.html]).",
+    "target_paragraph_indices": [
+      2221,
+      2492
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2221,
+            2492
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 14, 2025: Plaintiffs' emergency motion seeking to halt the transfers was denied during a hearing.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2221,
+            2492
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural event and outcome: Plaintiffs\u2019 emergency motion to halt transfers was denied at a March 14, 2025 hearing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2221,
+            2327
+          ],
+          [
+            2328,
+            2492
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed an emergency motion to halt transfers on March 1, 2025; motion denied on March 14, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2221,
+            2327
+          ],
+          [
+            2328,
+            2492
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency motion to halt transfers was heard and denied on March 14, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2221,
+            2492
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency motion to halt transfers denied at hearing on March 14, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46187_p4",
+    "metadata": {
+      "case_id": "46187",
+      "paragraph_num": 4,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 29, 2025, one of the plaintiffs (Mr. Espinoza Escalona) was transferred from the U.S. to Gu..."
+    },
+    "source": "",
+    "target": "This case challenges the second Trump Administration's transfer of immigrant detainees from the United States to the U.S. Naval Station at Guant\u00e1namo Bay, Cuba. (To see the Clearinghouse's collection of legal challenges to actions by the second Trump Administration, click here [../../../../collections/38759].)\n\nPrior to this lawsuit, President Trump said he wanted to use Guant\u00e1namo\u2019s 30,000 beds \u201cto detain the worst criminal illegal aliens threatening the American people\u201d (reported here [https://www.npr.org/2025/01/30/g-s1-45454/trump-says-u-s-will-send-worst-criminal-illegal-aliens-to-guantanamo-bay]), and on January 29, 2025, he issued a memorandum [https://www.whitehouse.gov/presidential-actions/2025/01/expanding-migrant-operations-center-at-naval-station-guantanamo-bay-to-full-capacity/] to expand the Migrant Operations Center there. After migrants were sent to Guant\u00e1namo, a lawsuit directed at ensuring access to counsel for people detained there was filed on February 12, 2025. See Las Americas Immigr. Advoc. Ctr. v. Noem, No. 25-cv-418 (D.D.C. filed Feb. 12, 2025) (\u201cLas Americas\u201d) and the Clearinghouse's summary here [../../../../case/46109/].\n\nThen on March 1, 2025, this lawsuit was filed by ten noncitizens in immigration custody who were at imminent risk of transfer from the U.S. to Guant\u00e1namo. They were represented by the ACLU, ACLU of DC, International Refugee Assistance Project, and Center for Constitutional Rights. They sued the U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement, U.S. Department of Defense, and the heads of each agency in the U.S. District Court for the District of Columbia. The plaintiffs alleged that the transfers and detention at Guant\u00e1namo violated the Immigration and Nationality Act, the Administrative Procedure Act, and\u2014because the transfers are undertaken for punitive, illegitimate reasons and the conditions in which the detainees are housed are unconstitutional\u2014the Fifth Amendment's due process clause. They sought a declaratory judgment, injunctive relief, a writ of habeas corpus, and reasonable attorneys' fees and costs. The case was assigned to District Judge Carl J. Nichols, who already had Las Americas before him.\n\nSimultaneously with the complaint, the plaintiffs filed an emergency motion seeking to halt the transfers. This motion was denied during a hearing on March 14, 2025 (reported here [https://www.nytimes.com/2025/03/14/us/politics/judge-guantanamo-detention-migrants.html]).\n\nOn March 29, 2025, one of the plaintiffs (Mr. Espinoza Escalona) was transferred from the U.S. to Guant\u00e1namo, then the next day, they were transferred to El Salvador. Per the plaintiff's counsel, they did not receive any notice from the government of his transfer until approximately four days after his transport to Guant\u00e1namo. As such, they argued they had no opportunity to timely intervene during his detention at Guant\u00e1namo\u2014the entire purpose of the court's notice requirement\u2014and requested a court order that the defendants provide 24-hour advance notice prior to the transfer of any of the remaining plaintiffs to Guant\u00e1namo.\n\nOn May 19, defendants filed a motion to dismiss for mootness, lack of standing, lack of jurisdiction, failure to state a claim, improper venue, and failure to allege a substantive Due Process claim. The following week, on May 22, 2025, plaintiffs gave notice of voluntary dismissal on all charges and against all parties, stating that certain members of the plaintiffs had been deported by the defendants, rendering their claims moot, and that the remaining plaintiffs no longer wished to continue the litigation.\n\nThis case is dismissed.",
+    "target_paragraph": "On March 29, 2025, one of the plaintiffs (Mr. Espinoza Escalona) was transferred from the U.S. to Guant\u00e1namo, then the next day, they were transferred to El Salvador. Per the plaintiff's counsel, they did not receive any notice from the government of his transfer until approximately four days after his transport to Guant\u00e1namo. As such, they argued they had no opportunity to timely intervene during his detention at Guant\u00e1namo\u2014the entire purpose of the court's notice requirement\u2014and requested a court order that the defendants provide 24-hour advance notice prior to the transfer of any of the remaining plaintiffs to Guant\u00e1namo.",
+    "target_paragraph_indices": [
+      2494,
+      3126
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2980,
+            3126
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court order requiring 24-hour advance notice before transferring any remaining plaintiffs to Guant\u00e1namo",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2494,
+            3126
+          ]
+        ],
+        "annotation": {
+          "explanation": "Specific event and evidence of harm: Plaintiff Mr. Espinoza Escalona was transferred to Guant\u00e1namo on March 29, 2025, then to El Salvador the next day; counsel received no notice until about four days after, prompting a request for a 24-hour advance notice order.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2823,
+            3126
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs requested a court order requiring 24-hour advance notice before transferring any remaining plaintiffs to Guant\u00e1namo.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2494,
+            2660
+          ],
+          [
+            2661,
+            2822
+          ],
+          [
+            2823,
+            3126
+          ]
+        ],
+        "annotation": {
+          "explanation": "Following a plaintiff\u2019s transfer, plaintiffs requested a court order requiring 24-hour advance notice before transferring any remaining plaintiffs to Guant\u00e1namo; no ruling on this request is stated.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46187_p5",
+    "metadata": {
+      "case_id": "46187",
+      "paragraph_num": 5,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 19, defendants filed a motion to dismiss for mootness, lack of standing, lack of jurisdiction..."
+    },
+    "source": "",
+    "target": "This case challenges the second Trump Administration's transfer of immigrant detainees from the United States to the U.S. Naval Station at Guant\u00e1namo Bay, Cuba. (To see the Clearinghouse's collection of legal challenges to actions by the second Trump Administration, click here [../../../../collections/38759].)\n\nPrior to this lawsuit, President Trump said he wanted to use Guant\u00e1namo\u2019s 30,000 beds \u201cto detain the worst criminal illegal aliens threatening the American people\u201d (reported here [https://www.npr.org/2025/01/30/g-s1-45454/trump-says-u-s-will-send-worst-criminal-illegal-aliens-to-guantanamo-bay]), and on January 29, 2025, he issued a memorandum [https://www.whitehouse.gov/presidential-actions/2025/01/expanding-migrant-operations-center-at-naval-station-guantanamo-bay-to-full-capacity/] to expand the Migrant Operations Center there. After migrants were sent to Guant\u00e1namo, a lawsuit directed at ensuring access to counsel for people detained there was filed on February 12, 2025. See Las Americas Immigr. Advoc. Ctr. v. Noem, No. 25-cv-418 (D.D.C. filed Feb. 12, 2025) (\u201cLas Americas\u201d) and the Clearinghouse's summary here [../../../../case/46109/].\n\nThen on March 1, 2025, this lawsuit was filed by ten noncitizens in immigration custody who were at imminent risk of transfer from the U.S. to Guant\u00e1namo. They were represented by the ACLU, ACLU of DC, International Refugee Assistance Project, and Center for Constitutional Rights. They sued the U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement, U.S. Department of Defense, and the heads of each agency in the U.S. District Court for the District of Columbia. The plaintiffs alleged that the transfers and detention at Guant\u00e1namo violated the Immigration and Nationality Act, the Administrative Procedure Act, and\u2014because the transfers are undertaken for punitive, illegitimate reasons and the conditions in which the detainees are housed are unconstitutional\u2014the Fifth Amendment's due process clause. They sought a declaratory judgment, injunctive relief, a writ of habeas corpus, and reasonable attorneys' fees and costs. The case was assigned to District Judge Carl J. Nichols, who already had Las Americas before him.\n\nSimultaneously with the complaint, the plaintiffs filed an emergency motion seeking to halt the transfers. This motion was denied during a hearing on March 14, 2025 (reported here [https://www.nytimes.com/2025/03/14/us/politics/judge-guantanamo-detention-migrants.html]).\n\nOn March 29, 2025, one of the plaintiffs (Mr. Espinoza Escalona) was transferred from the U.S. to Guant\u00e1namo, then the next day, they were transferred to El Salvador. Per the plaintiff's counsel, they did not receive any notice from the government of his transfer until approximately four days after his transport to Guant\u00e1namo. As such, they argued they had no opportunity to timely intervene during his detention at Guant\u00e1namo\u2014the entire purpose of the court's notice requirement\u2014and requested a court order that the defendants provide 24-hour advance notice prior to the transfer of any of the remaining plaintiffs to Guant\u00e1namo.\n\nOn May 19, defendants filed a motion to dismiss for mootness, lack of standing, lack of jurisdiction, failure to state a claim, improper venue, and failure to allege a substantive Due Process claim. The following week, on May 22, 2025, plaintiffs gave notice of voluntary dismissal on all charges and against all parties, stating that certain members of the plaintiffs had been deported by the defendants, rendering their claims moot, and that the remaining plaintiffs no longer wished to continue the litigation.\n\nThis case is dismissed.",
+    "target_paragraph": "On May 19, defendants filed a motion to dismiss for mootness, lack of standing, lack of jurisdiction, failure to state a claim, improper venue, and failure to allege a substantive Due Process claim. The following week, on May 22, 2025, plaintiffs gave notice of voluntary dismissal on all charges and against all parties, stating that certain members of the plaintiffs had been deported by the defendants, rendering their claims moot, and that the remaining plaintiffs no longer wished to continue the litigation.",
+    "target_paragraph_indices": [
+      3128,
+      3641
+    ],
+    "edits": [
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            3364,
+            3448
+          ],
+          [
+            3643,
+            3666
+          ]
+        ],
+        "annotation": {
+          "explanation": "No.",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3128,
+            3326
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 procedural response: Motion to dismiss filed on multiple jurisdictional and merits grounds on May 19, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3327,
+            3641
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case development affecting justiciability: Plaintiffs reported some had been deported, mooting their claims, and others chose not to continue; they filed a voluntary dismissal on May 22, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3128,
+            3326
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a motion to dismiss on May 19, 2025, asserting mootness, lack of standing, lack of jurisdiction, failure to state a claim, improper venue, and failure to allege a substantive Due Process claim.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3327,
+            3641
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a notice of voluntary dismissal on May 22, 2025, dismissing all claims against all parties.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3128,
+            3326
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a motion to dismiss on May 19, 2025, asserting mootness, lack of standing, lack of jurisdiction, failure to state a claim, improper venue, and failure to allege a substantive due process claim.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3327,
+            3641
+          ],
+          [
+            3643,
+            3666
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 22, 2025, plaintiffs voluntarily dismissed all claims against all parties; the case was dismissed.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46187_p6",
+    "metadata": {
+      "case_id": "46187",
+      "paragraph_num": 6,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is dismissed."
+    },
+    "source": "",
+    "target": "This case challenges the second Trump Administration's transfer of immigrant detainees from the United States to the U.S. Naval Station at Guant\u00e1namo Bay, Cuba. (To see the Clearinghouse's collection of legal challenges to actions by the second Trump Administration, click here [../../../../collections/38759].)\n\nPrior to this lawsuit, President Trump said he wanted to use Guant\u00e1namo\u2019s 30,000 beds \u201cto detain the worst criminal illegal aliens threatening the American people\u201d (reported here [https://www.npr.org/2025/01/30/g-s1-45454/trump-says-u-s-will-send-worst-criminal-illegal-aliens-to-guantanamo-bay]), and on January 29, 2025, he issued a memorandum [https://www.whitehouse.gov/presidential-actions/2025/01/expanding-migrant-operations-center-at-naval-station-guantanamo-bay-to-full-capacity/] to expand the Migrant Operations Center there. After migrants were sent to Guant\u00e1namo, a lawsuit directed at ensuring access to counsel for people detained there was filed on February 12, 2025. See Las Americas Immigr. Advoc. Ctr. v. Noem, No. 25-cv-418 (D.D.C. filed Feb. 12, 2025) (\u201cLas Americas\u201d) and the Clearinghouse's summary here [../../../../case/46109/].\n\nThen on March 1, 2025, this lawsuit was filed by ten noncitizens in immigration custody who were at imminent risk of transfer from the U.S. to Guant\u00e1namo. They were represented by the ACLU, ACLU of DC, International Refugee Assistance Project, and Center for Constitutional Rights. They sued the U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement, U.S. Department of Defense, and the heads of each agency in the U.S. District Court for the District of Columbia. The plaintiffs alleged that the transfers and detention at Guant\u00e1namo violated the Immigration and Nationality Act, the Administrative Procedure Act, and\u2014because the transfers are undertaken for punitive, illegitimate reasons and the conditions in which the detainees are housed are unconstitutional\u2014the Fifth Amendment's due process clause. They sought a declaratory judgment, injunctive relief, a writ of habeas corpus, and reasonable attorneys' fees and costs. The case was assigned to District Judge Carl J. Nichols, who already had Las Americas before him.\n\nSimultaneously with the complaint, the plaintiffs filed an emergency motion seeking to halt the transfers. This motion was denied during a hearing on March 14, 2025 (reported here [https://www.nytimes.com/2025/03/14/us/politics/judge-guantanamo-detention-migrants.html]).\n\nOn March 29, 2025, one of the plaintiffs (Mr. Espinoza Escalona) was transferred from the U.S. to Guant\u00e1namo, then the next day, they were transferred to El Salvador. Per the plaintiff's counsel, they did not receive any notice from the government of his transfer until approximately four days after his transport to Guant\u00e1namo. As such, they argued they had no opportunity to timely intervene during his detention at Guant\u00e1namo\u2014the entire purpose of the court's notice requirement\u2014and requested a court order that the defendants provide 24-hour advance notice prior to the transfer of any of the remaining plaintiffs to Guant\u00e1namo.\n\nOn May 19, defendants filed a motion to dismiss for mootness, lack of standing, lack of jurisdiction, failure to state a claim, improper venue, and failure to allege a substantive Due Process claim. The following week, on May 22, 2025, plaintiffs gave notice of voluntary dismissal on all charges and against all parties, stating that certain members of the plaintiffs had been deported by the defendants, rendering their claims moot, and that the remaining plaintiffs no longer wished to continue the litigation.\n\nThis case is dismissed.",
+    "target_paragraph": "This case is dismissed.",
+    "target_paragraph_indices": [
+      3643,
+      3666
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3643,
+            3666
+          ]
+        ],
+        "annotation": {
+          "explanation": "Outcome: Case dismissed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3643,
+            3666
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case dismissed following plaintiffs\u2019 notice of voluntary dismissal on May 22, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

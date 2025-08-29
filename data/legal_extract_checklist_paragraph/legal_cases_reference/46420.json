@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "46420_p0",
+    "metadata": {
+      "case_id": "46420",
+      "paragraph_num": 0,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act [AEA]\u00a0 to detain and deport noncitizens without due process. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 14, 2025, a Venezuelan man filed this petition for writ of habeas corpus in the United States District Court for the Eastern District of California. He named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, and Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State.\n\nRepresented by the Lawyers Committee for Civil Rights of the San Francisco Bay, the petitioner challenged the Administration\u2019s invocation of the AEA to remove him from the United States without any opportunity for a hearing or judicial review.\u00a0\u00a0The petitioner alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. He sought a writ of habeas corpus releasing him from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Kirk E. Sherriff.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nDistrict Judge Kirk E. Sherriff granted an emergency TRO on April 15, enjoining Defendants from removing the petitioner from the jurisdiction of the court. Judge Sherriff affirmed the TRO following a hearing on April 16 and extended it until May 5. The court scheduled a hearing for May 5.\n\nJudge Sherriff granted the government's motion to dismiss the case on May 27 without prejudice on the grounds that the government detained Y.G.H. in the Northern District of Texas on April 14 when he filed this case and, therefore, the California court lacked jurisdiction.\u00a0 The petitioner's counsel requested that the court dismiss the case rather than ordering Transfer of the Petition to the appropriate court.\n\nSee W.M.M. (A.R.P.) v. Trump [../../../../cases/46411] for related litigation in the Northern District of Texas.",
+    "target_paragraph": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act [AEA]\u00a0 to detain and deport noncitizens without due process. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].",
+    "target_paragraph_indices": [
+      0,
+      660
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            308,
+            505
+          ],
+          [
+            1090,
+            1253
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alien Enemies Act (statutory authority invoked and challenged)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            289,
+            505
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 15, 2025: Presidential proclamation declaring the United States was 'under invasion' by Tren de Aragua and invoking the AEA.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            166,
+            288
+          ],
+          [
+            289,
+            505
+          ],
+          [
+            662,
+            819
+          ],
+          [
+            1010,
+            1253
+          ],
+          [
+            1593,
+            2051
+          ],
+          [
+            2053,
+            2208
+          ],
+          [
+            2344,
+            2617
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves the Trump administration\u2019s invocation of the Alien Enemies Act after a March 15, 2025 proclamation to detain and remove a Venezuelan petitioner without a hearing; the petitioner filed a habeas petition on April 14, 2025 in the Eastern District of California and obtained temporary orders against removal before the case was dismissed for lack of jurisdiction because he was detained in the Northern District of Texas, supported by the presidential proclamation, the TROs, and the dismissal order, with background information such as the AEA\u2019s wartime purpose and the Supreme Court\u2019s directive in J.G.G. v. Trump that AEA removal challenges must be brought via habeas in the district of confinement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            289,
+            505
+          ]
+        ],
+        "annotation": {
+          "explanation": "Event: Presidential proclamation on March 15, 2025 declaring an \u201cinvasion\u201d by Tren de Aragua and invoking the AEA.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            166,
+            288
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: The Alien Enemies Act is a wartime measure authorizing removal of citizens of countries at war with the U.S.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46420_p1",
+    "metadata": {
+      "case_id": "46420",
+      "paragraph_num": 1,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 14, 2025, a Venezuelan man filed this petition for writ of habeas corpus in the United Stat..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act [AEA]\u00a0 to detain and deport noncitizens without due process. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 14, 2025, a Venezuelan man filed this petition for writ of habeas corpus in the United States District Court for the Eastern District of California. He named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, and Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State.\n\nRepresented by the Lawyers Committee for Civil Rights of the San Francisco Bay, the petitioner challenged the Administration\u2019s invocation of the AEA to remove him from the United States without any opportunity for a hearing or judicial review.\u00a0\u00a0The petitioner alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. He sought a writ of habeas corpus releasing him from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Kirk E. Sherriff.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nDistrict Judge Kirk E. Sherriff granted an emergency TRO on April 15, enjoining Defendants from removing the petitioner from the jurisdiction of the court. Judge Sherriff affirmed the TRO following a hearing on April 16 and extended it until May 5. The court scheduled a hearing for May 5.\n\nJudge Sherriff granted the government's motion to dismiss the case on May 27 without prejudice on the grounds that the government detained Y.G.H. in the Northern District of Texas on April 14 when he filed this case and, therefore, the California court lacked jurisdiction.\u00a0 The petitioner's counsel requested that the court dismiss the case rather than ordering Transfer of the Petition to the appropriate court.\n\nSee W.M.M. (A.R.P.) v. Trump [../../../../cases/46411] for related litigation in the Northern District of Texas.",
+    "target_paragraph": "On April 14, 2025, a Venezuelan man filed this petition for writ of habeas corpus in the United States District Court for the Eastern District of California. He named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, and Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State.",
+    "target_paragraph_indices": [
+      662,
+      1008
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            662,
+            819
+          ],
+          [
+            2459,
+            2559
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 14, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            662,
+            819
+          ],
+          [
+            1010,
+            1253
+          ],
+          [
+            1424,
+            1533
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for writ of habeas corpus challenging detention and removal under the Alien Enemies Act (AEA).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            681,
+            743
+          ],
+          [
+            1424,
+            1533
+          ]
+        ],
+        "annotation": {
+          "explanation": "Writ of habeas corpus releasing him from detention",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            662,
+            819
+          ],
+          [
+            2344,
+            2617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as a Venezuelan man (identified as Y.G.H.) who filed a petition for writ of habeas corpus",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            662,
+            819
+          ],
+          [
+            2344,
+            2617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Y.G.H., a Venezuelan man who filed a petition for writ of habeas corpus",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            820,
+            1008
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: President Donald J. Trump",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            820,
+            1008
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Justice",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            820,
+            1008
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Homeland Security",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            820,
+            1008
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Immigration and Customs Enforcement (ICE)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            820,
+            1008
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of State",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            662,
+            819
+          ]
+        ],
+        "annotation": {
+          "explanation": "Event: On April 14, 2025, the petitioner (a Venezuelan man) filed a habeas petition in the Eastern District of California.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            820,
+            1008
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties: Respondents include President Donald J. Trump, DOJ, DHS, ICE, and the Department of State.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            662,
+            819
+          ],
+          [
+            1424,
+            1533
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for writ of habeas corpus filed on April 14, 2025 in the Eastern District of California; sought release plus injunctive and declaratory relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 12
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            662,
+            819
+          ],
+          [
+            1534,
+            1591
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case initiated on April 14, 2025 in the Eastern District of California and assigned to Judge Kirk E. Sherriff.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": "46420_p2",
+    "metadata": {
+      "case_id": "46420",
+      "paragraph_num": 2,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Represented by the Lawyers Committee for Civil Rights of the San Francisco Bay, the petitioner chall..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act [AEA]\u00a0 to detain and deport noncitizens without due process. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 14, 2025, a Venezuelan man filed this petition for writ of habeas corpus in the United States District Court for the Eastern District of California. He named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, and Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State.\n\nRepresented by the Lawyers Committee for Civil Rights of the San Francisco Bay, the petitioner challenged the Administration\u2019s invocation of the AEA to remove him from the United States without any opportunity for a hearing or judicial review.\u00a0\u00a0The petitioner alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. He sought a writ of habeas corpus releasing him from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Kirk E. Sherriff.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nDistrict Judge Kirk E. Sherriff granted an emergency TRO on April 15, enjoining Defendants from removing the petitioner from the jurisdiction of the court. Judge Sherriff affirmed the TRO following a hearing on April 16 and extended it until May 5. The court scheduled a hearing for May 5.\n\nJudge Sherriff granted the government's motion to dismiss the case on May 27 without prejudice on the grounds that the government detained Y.G.H. in the Northern District of Texas on April 14 when he filed this case and, therefore, the California court lacked jurisdiction.\u00a0 The petitioner's counsel requested that the court dismiss the case rather than ordering Transfer of the Petition to the appropriate court.\n\nSee W.M.M. (A.R.P.) v. Trump [../../../../cases/46411] for related litigation in the Northern District of Texas.",
+    "target_paragraph": "Represented by the Lawyers Committee for Civil Rights of the San Francisco Bay, the petitioner challenged the Administration\u2019s invocation of the AEA to remove him from the United States without any opportunity for a hearing or judicial review.\u00a0\u00a0The petitioner alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. He sought a writ of habeas corpus releasing him from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Kirk E. Sherriff.",
+    "target_paragraph_indices": [
+      1010,
+      1591
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1255,
+            1423
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims that the AEA-based detention/removal violated the Immigration and Nationality Act (INA), the Foreign Affairs Reform and Restructuring Act (FARRA), and the Fifth Amendment.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1255,
+            1347
+          ]
+        ],
+        "annotation": {
+          "explanation": "Immigration and Nationality Act (statutory violation alleged)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1255,
+            1397
+          ]
+        ],
+        "annotation": {
+          "explanation": "Foreign Affairs Reform and Restructuring Act (statutory violation alleged)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1255,
+            1423
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment (constitutional violation alleged)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1424,
+            1533
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1424,
+            1533
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1010,
+            1253
+          ]
+        ],
+        "annotation": {
+          "explanation": "Lawyers Committee for Civil Rights of the San Francisco Bay",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1534,
+            1591
+          ],
+          [
+            2053,
+            2208
+          ]
+        ],
+        "annotation": {
+          "explanation": "Kirk E. Sherriff",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            2,
+            4
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1010,
+            1253
+          ]
+        ],
+        "annotation": {
+          "explanation": "Representation and claim focus: Petitioner was represented by the Lawyers Committee for Civil Rights of the San Francisco Bay and challenged removal without a hearing under the AEA.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1255,
+            1423
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims: Alleged violations of the INA, FARRA, and the Fifth Amendment.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1424,
+            1533
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: Writ of habeas corpus (release from detention), injunctive relief, and declaratory relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1534,
+            1591
+          ]
+        ],
+        "annotation": {
+          "explanation": "Assignment: Case assigned to District Judge Kirk E. Sherriff in the Eastern District of California.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": "46420_p3",
+    "metadata": {
+      "case_id": "46420",
+      "paragraph_num": 3,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act [AEA]\u00a0 to detain and deport noncitizens without due process. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 14, 2025, a Venezuelan man filed this petition for writ of habeas corpus in the United States District Court for the Eastern District of California. He named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, and Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State.\n\nRepresented by the Lawyers Committee for Civil Rights of the San Francisco Bay, the petitioner challenged the Administration\u2019s invocation of the AEA to remove him from the United States without any opportunity for a hearing or judicial review.\u00a0\u00a0The petitioner alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. He sought a writ of habeas corpus releasing him from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Kirk E. Sherriff.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nDistrict Judge Kirk E. Sherriff granted an emergency TRO on April 15, enjoining Defendants from removing the petitioner from the jurisdiction of the court. Judge Sherriff affirmed the TRO following a hearing on April 16 and extended it until May 5. The court scheduled a hearing for May 5.\n\nJudge Sherriff granted the government's motion to dismiss the case on May 27 without prejudice on the grounds that the government detained Y.G.H. in the Northern District of Texas on April 14 when he filed this case and, therefore, the California court lacked jurisdiction.\u00a0 The petitioner's counsel requested that the court dismiss the case rather than ordering Transfer of the Petition to the appropriate court.\n\nSee W.M.M. (A.R.P.) v. Trump [../../../../cases/46411] for related litigation in the Northern District of Texas.",
+    "target_paragraph": "This action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.",
+    "target_paragraph_indices": [
+      1593,
+      2051
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1593,
+            1777
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case authority: J.G.G. v. Trump (U.S. Supreme Court) holding that challenges to removals under the AEA must be brought via habeas petition.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            1593,
+            1777
+          ],
+          [
+            1778,
+            2051
+          ]
+        ],
+        "annotation": {
+          "explanation": "J.G.G. v. Trump (case code 46232) \u2014 U.S. Supreme Court decision; stated that AEA removal challenges must be brought via habeas; vacated a TRO due to improper venue (habeas should be filed in the district of confinement).",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1593,
+            2051
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background/precedent: Supreme Court in J.G.G. v. Trump directed that AEA removal challenges be brought via habeas in the district of confinement; vacated a TRO for improper venue.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46420_p4",
+    "metadata": {
+      "case_id": "46420",
+      "paragraph_num": 4,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "District Judge Kirk E. Sherriff granted an emergency TRO on April 15, enjoining Defendants from remo..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act [AEA]\u00a0 to detain and deport noncitizens without due process. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 14, 2025, a Venezuelan man filed this petition for writ of habeas corpus in the United States District Court for the Eastern District of California. He named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, and Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State.\n\nRepresented by the Lawyers Committee for Civil Rights of the San Francisco Bay, the petitioner challenged the Administration\u2019s invocation of the AEA to remove him from the United States without any opportunity for a hearing or judicial review.\u00a0\u00a0The petitioner alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. He sought a writ of habeas corpus releasing him from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Kirk E. Sherriff.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nDistrict Judge Kirk E. Sherriff granted an emergency TRO on April 15, enjoining Defendants from removing the petitioner from the jurisdiction of the court. Judge Sherriff affirmed the TRO following a hearing on April 16 and extended it until May 5. The court scheduled a hearing for May 5.\n\nJudge Sherriff granted the government's motion to dismiss the case on May 27 without prejudice on the grounds that the government detained Y.G.H. in the Northern District of Texas on April 14 when he filed this case and, therefore, the California court lacked jurisdiction.\u00a0 The petitioner's counsel requested that the court dismiss the case rather than ordering Transfer of the Petition to the appropriate court.\n\nSee W.M.M. (A.R.P.) v. Trump [../../../../cases/46411] for related litigation in the Northern District of Texas.",
+    "target_paragraph": "District Judge Kirk E. Sherriff granted an emergency TRO on April 15, enjoining Defendants from removing the petitioner from the jurisdiction of the court. Judge Sherriff affirmed the TRO following a hearing on April 16 and extended it until May 5. The court scheduled a hearing for May 5.",
+    "target_paragraph_indices": [
+      2053,
+      2342
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2053,
+            2208
+          ],
+          [
+            2209,
+            2301
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 15 to May 5: Emergency TRO enjoining Defendants from removing the petitioner from the jurisdiction of the court.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2053,
+            2208
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order: Emergency TRO on April 15 enjoining removal from the court\u2019s jurisdiction.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2209,
+            2342
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order: TRO affirmed and extended on April 16 until May 5; hearing set for May 5.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2053,
+            2208
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency temporary restraining order granted on April 15, 2025, enjoining removal.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2209,
+            2301
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO affirmed after April 16 hearing and extended until May 5, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2053,
+            2208
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants are enjoined from removing the petitioner from the jurisdiction of the court (TRO issued April 15, 2025).",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2209,
+            2301
+          ]
+        ],
+        "annotation": {
+          "explanation": "The TRO was affirmed and its effect extended until May 5, 2025.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2053,
+            2208
+          ],
+          [
+            2209,
+            2301
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants are enjoined from removing the petitioner from the jurisdiction of the court, with the TRO extended to remain in effect until May 5, 2025.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2053,
+            2208
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency TRO granted on April 15, 2025, enjoining removal of the petitioner from the court's jurisdiction.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2209,
+            2301
+          ]
+        ],
+        "annotation": {
+          "explanation": "Hearing held on April 16, 2025; court affirmed the TRO and extended it until May 5, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2302,
+            2342
+          ]
+        ],
+        "annotation": {
+          "explanation": "Hearing scheduled for May 5, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2053,
+            2208
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency temporary restraining order granted on April 15, enjoining defendants from removing the petitioner from the court\u2019s jurisdiction.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2209,
+            2301
+          ]
+        ],
+        "annotation": {
+          "explanation": "After an April 16 hearing, the court affirmed the TRO and extended it until May 5.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": "46420_p5",
+    "metadata": {
+      "case_id": "46420",
+      "paragraph_num": 5,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Judge Sherriff granted the government's motion to dismiss the case on May 27 without prejudice on th..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act [AEA]\u00a0 to detain and deport noncitizens without due process. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 14, 2025, a Venezuelan man filed this petition for writ of habeas corpus in the United States District Court for the Eastern District of California. He named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, and Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State.\n\nRepresented by the Lawyers Committee for Civil Rights of the San Francisco Bay, the petitioner challenged the Administration\u2019s invocation of the AEA to remove him from the United States without any opportunity for a hearing or judicial review.\u00a0\u00a0The petitioner alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. He sought a writ of habeas corpus releasing him from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Kirk E. Sherriff.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nDistrict Judge Kirk E. Sherriff granted an emergency TRO on April 15, enjoining Defendants from removing the petitioner from the jurisdiction of the court. Judge Sherriff affirmed the TRO following a hearing on April 16 and extended it until May 5. The court scheduled a hearing for May 5.\n\nJudge Sherriff granted the government's motion to dismiss the case on May 27 without prejudice on the grounds that the government detained Y.G.H. in the Northern District of Texas on April 14 when he filed this case and, therefore, the California court lacked jurisdiction.\u00a0 The petitioner's counsel requested that the court dismiss the case rather than ordering Transfer of the Petition to the appropriate court.\n\nSee W.M.M. (A.R.P.) v. Trump [../../../../cases/46411] for related litigation in the Northern District of Texas.",
+    "target_paragraph": "Judge Sherriff granted the government's motion to dismiss the case on May 27 without prejudice on the grounds that the government detained Y.G.H. in the Northern District of Texas on April 14 when he filed this case and, therefore, the California court lacked jurisdiction.\u00a0 The petitioner's counsel requested that the court dismiss the case rather than ordering Transfer of the Petition to the appropriate court.",
+    "target_paragraph_indices": [
+      2344,
+      2757
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2344,
+            2617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Disposition: Case dismissed without prejudice on May 27 for lack of jurisdiction because petitioner was detained in the Northern District of Texas at filing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2619,
+            2757
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural note: Petitioner\u2019s counsel requested dismissal rather than transfer.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2344,
+            2617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Detention fact: Petitioner (Y.G.H.) was detained in the Northern District of Texas on April 14, 2025 when the case was filed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2344,
+            2617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government\u2019s motion to dismiss granted on May 27, 2025, without prejudice for lack of jurisdiction (detention in N.D. Texas at time of filing).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2619,
+            2757
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petitioner\u2019s counsel requested dismissal rather than transfer.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2344,
+            2617
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 27, 2025, the court granted the government's motion to dismiss without prejudice for lack of jurisdiction because petitioner was detained in the Northern District of Texas when the case was filed.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2619,
+            2757
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petitioner\u2019s counsel requested dismissal rather than transfer; the court dismissed accordingly.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2344,
+            2617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government\u2019s motion to dismiss granted on May 27 without prejudice for lack of jurisdiction (petitioner was detained in the Northern District of Texas at filing).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46420_p6",
+    "metadata": {
+      "case_id": "46420",
+      "paragraph_num": 6,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "See W.M.M. (A.R.P.) v. Trump [../../../../cases/46411] for related litigation in the Northern Distri..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act [AEA]\u00a0 to detain and deport noncitizens without due process. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 14, 2025, a Venezuelan man filed this petition for writ of habeas corpus in the United States District Court for the Eastern District of California. He named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, and Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State.\n\nRepresented by the Lawyers Committee for Civil Rights of the San Francisco Bay, the petitioner challenged the Administration\u2019s invocation of the AEA to remove him from the United States without any opportunity for a hearing or judicial review.\u00a0\u00a0The petitioner alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. He sought a writ of habeas corpus releasing him from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Kirk E. Sherriff.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nDistrict Judge Kirk E. Sherriff granted an emergency TRO on April 15, enjoining Defendants from removing the petitioner from the jurisdiction of the court. Judge Sherriff affirmed the TRO following a hearing on April 16 and extended it until May 5. The court scheduled a hearing for May 5.\n\nJudge Sherriff granted the government's motion to dismiss the case on May 27 without prejudice on the grounds that the government detained Y.G.H. in the Northern District of Texas on April 14 when he filed this case and, therefore, the California court lacked jurisdiction.\u00a0 The petitioner's counsel requested that the court dismiss the case rather than ordering Transfer of the Petition to the appropriate court.\n\nSee W.M.M. (A.R.P.) v. Trump [../../../../cases/46411] for related litigation in the Northern District of Texas.",
+    "target_paragraph": "See W.M.M. (A.R.P.) v. Trump [../../../../cases/46411] for related litigation in the Northern District of Texas.",
+    "target_paragraph_indices": [
+      2759,
+      2871
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            2759,
+            2871
+          ]
+        ],
+        "annotation": {
+          "explanation": "W.M.M. (A.R.P.) v. Trump (case code 46411) \u2014 Related litigation in the Northern District of Texas.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2759,
+            2871
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: W.M.M. (A.R.P.) v. Trump in the Northern District of Texas.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

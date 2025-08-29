@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "45160_p0",
+    "metadata": {
+      "case_id": "45160",
+      "paragraph_num": 0,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case involves a challenge to the constitutionality of a Washington state requirement that voter..."
+    },
+    "source": "",
+    "target": "This case involves a challenge to the constitutionality of a Washington state requirement that voters live at their address for at least 30 days before casting their ballot (the \"durational residency requirement\" or \"DRR\"). Washington state authorities reached an agreement to remove the durational residency requirement.\n\nOn the November 7, 2023 complaint (as amended on November 20, 2023), the Washington State Alliance for Retired Americans sued (i) Steve Hobbs in his official capacity as Washington Secretary of State, (ii) Mary Hall in her official capacity as Thurston County Auditor, and (iii) Julie Wise in her official capacity as King County Elections Director, in the U.S. District Court for the Western District of Washington, alleging that the Washington State DRR violates the Voting Rights Act and the U.S. Constitution's First and Fourteenth Amendments because the DRR prohibits any voter who has moved into or within the state within 30 days of an election from registering and voting at their address.\n\nOn March 15, 2024, the parties entered into a Consent Judgment and Decree, pursuant to which the Defendants agreed with the Alliance\u2019s claims that the state\u2019s 30-day pre-election durational residency requirement imposed on registrants and voters violates Section 202(c) of the Voting Rights Act Amendments of 1970 (\u201cVRA\u201d), 52 U.S.C. \u00a7 10502(c), and the First and Fourteenth Amendments to the U.S. Constitution, U.S. Const. amends. I, XIV.\n\nOn same date, the Court granted the join, unopposed motion to enter the proposed consent decree, which served as final judgment.\n\nOn September 16, 2024, Franklin County Auditor Matt Beaton and Washington State Republican Party chairman Jim Walsh moved to intervene as defendants in the case. In their motion, Beaton and Walsh argued primarily that they should be allowed to intervene based on their allegations that the underlying litigation was collusive and that Defendants failed to advance potentially meritorious arguments challenging Plaintiff\u2019s Article III standing.\n\nOn October 11, 2024, the Court denied the motion to intervene as defendants in the case from Beaton and Walsh as they have not met their burden to show that they timely moved to intervene.",
+    "target_paragraph": "This case involves a challenge to the constitutionality of a Washington state requirement that voters live at their address for at least 30 days before casting their ballot (the \"durational residency requirement\" or \"DRR\"). Washington state authorities reached an agreement to remove the durational residency requirement.",
+    "target_paragraph_indices": [
+      0,
+      321
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            34,
+            37
+          ],
+          [
+            110,
+            113
+          ],
+          [
+            160,
+            163
+          ],
+          [
+            174,
+            177
+          ],
+          [
+            284,
+            287
+          ],
+          [
+            326,
+            329
+          ],
+          [
+            392,
+            395
+          ],
+          [
+            676,
+            679
+          ],
+          [
+            704,
+            707
+          ],
+          [
+            740,
+            787
+          ],
+          [
+            788,
+            791
+          ],
+          [
+            814,
+            837
+          ],
+          [
+            848,
+            869
+          ],
+          [
+            878,
+            881
+          ],
+          [
+            935,
+            938
+          ],
+          [
+            1006,
+            1009
+          ],
+          [
+            1041,
+            1044
+          ],
+          [
+            1115,
+            1118
+          ],
+          [
+            1142,
+            1145
+          ],
+          [
+            1169,
+            1172
+          ],
+          [
+            1268,
+            1276
+          ],
+          [
+            1295,
+            1298
+          ],
+          [
+            1371,
+            1374
+          ],
+          [
+            1385,
+            1460
+          ],
+          [
+            1476,
+            1479
+          ],
+          [
+            1494,
+            1497
+          ],
+          [
+            1530,
+            1533
+          ],
+          [
+            1744,
+            1747
+          ],
+          [
+            1757,
+            1760
+          ],
+          [
+            1810,
+            1813
+          ],
+          [
+            1855,
+            1858
+          ],
+          [
+            1878,
+            1881
+          ],
+          [
+            2058,
+            2061
+          ],
+          [
+            2075,
+            2078
+          ],
+          [
+            2116,
+            2119
+          ],
+          [
+            2150,
+            2153
+          ],
+          [
+            2168,
+            2171
+          ],
+          [
+            2194,
+            2197
+          ]
+        ],
+        "annotation": {
+          "explanation": "Violation of the Fourteenth Amendment to the U.S. Constitution (U.S. Const. amend. XIV)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            224,
+            321
+          ]
+        ],
+        "annotation": {
+          "explanation": "Removal of the 30-day durational residency requirement.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            223
+          ],
+          [
+            224,
+            321
+          ],
+          [
+            740,
+            1020
+          ],
+          [
+            1022,
+            1460
+          ],
+          [
+            1462,
+            1590
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves a constitutional and VRA challenge to Washington\u2019s 30-day durational residency requirement that prevents voters who moved into or within the state within 30 days of an election from registering and voting at their new address, supported by documentary records including a consent judgment in which defendants agreed the DRR violates Section 202(c) of the VRA and the First and Fourteenth Amendments and a court order entering the decree as final judgment, with background information such as the state authorities\u2019 agreement to remove the requirement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            0,
+            1,
+            2,
+            3
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            61,
+            223
+          ],
+          [
+            878,
+            1020
+          ]
+        ],
+        "annotation": {
+          "explanation": "Durational residency requirement: voters must live at their address for at least 30 days before voting; it prevents voters who moved within 30 days from registering and voting at their new address.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            224,
+            321
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: State authorities agreed to remove the durational residency requirement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            224,
+            321
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants agreed to remove the 30-day durational residency requirement for voting.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            224,
+            321
+          ],
+          [
+            1022,
+            1095
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants agreed, via a March 15, 2024 Consent Judgment and Decree, to remove the 30-day durational residency requirement for voting.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "45160_p1",
+    "metadata": {
+      "case_id": "45160",
+      "paragraph_num": 1,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On the November 7, 2023 complaint (as amended on November 20, 2023), the Washington State Alliance f..."
+    },
+    "source": "",
+    "target": "This case involves a challenge to the constitutionality of a Washington state requirement that voters live at their address for at least 30 days before casting their ballot (the \"durational residency requirement\" or \"DRR\"). Washington state authorities reached an agreement to remove the durational residency requirement.\n\nOn the November 7, 2023 complaint (as amended on November 20, 2023), the Washington State Alliance for Retired Americans sued (i) Steve Hobbs in his official capacity as Washington Secretary of State, (ii) Mary Hall in her official capacity as Thurston County Auditor, and (iii) Julie Wise in her official capacity as King County Elections Director, in the U.S. District Court for the Western District of Washington, alleging that the Washington State DRR violates the Voting Rights Act and the U.S. Constitution's First and Fourteenth Amendments because the DRR prohibits any voter who has moved into or within the state within 30 days of an election from registering and voting at their address.\n\nOn March 15, 2024, the parties entered into a Consent Judgment and Decree, pursuant to which the Defendants agreed with the Alliance\u2019s claims that the state\u2019s 30-day pre-election durational residency requirement imposed on registrants and voters violates Section 202(c) of the Voting Rights Act Amendments of 1970 (\u201cVRA\u201d), 52 U.S.C. \u00a7 10502(c), and the First and Fourteenth Amendments to the U.S. Constitution, U.S. Const. amends. I, XIV.\n\nOn same date, the Court granted the join, unopposed motion to enter the proposed consent decree, which served as final judgment.\n\nOn September 16, 2024, Franklin County Auditor Matt Beaton and Washington State Republican Party chairman Jim Walsh moved to intervene as defendants in the case. In their motion, Beaton and Walsh argued primarily that they should be allowed to intervene based on their allegations that the underlying litigation was collusive and that Defendants failed to advance potentially meritorious arguments challenging Plaintiff\u2019s Article III standing.\n\nOn October 11, 2024, the Court denied the motion to intervene as defendants in the case from Beaton and Walsh as they have not met their burden to show that they timely moved to intervene.",
+    "target_paragraph": "On the November 7, 2023 complaint (as amended on November 20, 2023), the Washington State Alliance for Retired Americans sued (i) Steve Hobbs in his official capacity as Washington Secretary of State, (ii) Mary Hall in her official capacity as Thurston County Auditor, and (iii) Julie Wise in her official capacity as King County Elections Director, in the U.S. District Court for the Western District of Washington, alleging that the Washington State DRR violates the Voting Rights Act and the U.S. Constitution's First and Fourteenth Amendments because the DRR prohibits any voter who has moved into or within the state within 30 days of an election from registering and voting at their address.",
+    "target_paragraph_indices": [
+      323,
+      1020
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            323,
+            1020
+          ]
+        ],
+        "annotation": {
+          "explanation": "November 7, 2023",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            740,
+            809
+          ],
+          [
+            1268,
+            1365
+          ]
+        ],
+        "annotation": {
+          "explanation": "Violation of the Voting Rights Act, specifically Section 202(c) of the Voting Rights Act Amendments of 1970, 52 U.S.C. \u00a7 10502(c)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            740,
+            787
+          ],
+          [
+            814,
+            843
+          ],
+          [
+            859,
+            868
+          ],
+          [
+            1268,
+            1276
+          ],
+          [
+            1317,
+            1326
+          ],
+          [
+            1371,
+            1380
+          ],
+          [
+            1396,
+            1405
+          ]
+        ],
+        "annotation": {
+          "explanation": "Violation of the First Amendment to the U.S. Constitution (U.S. Const. amend. I)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            740,
+            809
+          ],
+          [
+            1268,
+            1365
+          ]
+        ],
+        "annotation": {
+          "explanation": "Section 202(c) of the Voting Rights Act Amendments of 1970, 52 U.S.C. \u00a7 10502(c)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            814,
+            869
+          ],
+          [
+            1367,
+            1460
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Constitution, First Amendment and Fourteenth Amendment (specific clauses not specified in the summary)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            392,
+            1020
+          ],
+          [
+            1142,
+            1163
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as Washington State Alliance for Retired Americans",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            323,
+            448
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Washington State Alliance for Retired Americans",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            449,
+            523
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Steve Hobbs, in his official capacity as Washington Secretary of State",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            524,
+            591
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Mary Hall, in her official capacity as Thurston County Auditor",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            596,
+            672
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Julie Wise, in her official capacity as King County Elections Director",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            323,
+            739
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties, forum, and filing: On November 7, 2023 (amended November 20, 2023), the Washington State Alliance for Retired Americans sued the Washington Secretary of State, Thurston County Auditor, and King County Elections Director in the U.S. District Court for the Western District of Washington.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            740,
+            1020
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims: The DRR allegedly violates the Voting Rights Act and the First and Fourteenth Amendments because it bars recent movers (within 30 days) from registering and voting at their address.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            323,
+            1020
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on November 7, 2023, by the Washington State Alliance for Retired Americans.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            323,
+            1020
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint filed on November 20, 2023.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": "45160_p2",
+    "metadata": {
+      "case_id": "45160",
+      "paragraph_num": 2,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 15, 2024, the parties entered into a Consent Judgment and Decree, pursuant to which the Def..."
+    },
+    "source": "",
+    "target": "This case involves a challenge to the constitutionality of a Washington state requirement that voters live at their address for at least 30 days before casting their ballot (the \"durational residency requirement\" or \"DRR\"). Washington state authorities reached an agreement to remove the durational residency requirement.\n\nOn the November 7, 2023 complaint (as amended on November 20, 2023), the Washington State Alliance for Retired Americans sued (i) Steve Hobbs in his official capacity as Washington Secretary of State, (ii) Mary Hall in her official capacity as Thurston County Auditor, and (iii) Julie Wise in her official capacity as King County Elections Director, in the U.S. District Court for the Western District of Washington, alleging that the Washington State DRR violates the Voting Rights Act and the U.S. Constitution's First and Fourteenth Amendments because the DRR prohibits any voter who has moved into or within the state within 30 days of an election from registering and voting at their address.\n\nOn March 15, 2024, the parties entered into a Consent Judgment and Decree, pursuant to which the Defendants agreed with the Alliance\u2019s claims that the state\u2019s 30-day pre-election durational residency requirement imposed on registrants and voters violates Section 202(c) of the Voting Rights Act Amendments of 1970 (\u201cVRA\u201d), 52 U.S.C. \u00a7 10502(c), and the First and Fourteenth Amendments to the U.S. Constitution, U.S. Const. amends. I, XIV.\n\nOn same date, the Court granted the join, unopposed motion to enter the proposed consent decree, which served as final judgment.\n\nOn September 16, 2024, Franklin County Auditor Matt Beaton and Washington State Republican Party chairman Jim Walsh moved to intervene as defendants in the case. In their motion, Beaton and Walsh argued primarily that they should be allowed to intervene based on their allegations that the underlying litigation was collusive and that Defendants failed to advance potentially meritorious arguments challenging Plaintiff\u2019s Article III standing.\n\nOn October 11, 2024, the Court denied the motion to intervene as defendants in the case from Beaton and Walsh as they have not met their burden to show that they timely moved to intervene.",
+    "target_paragraph": "On March 15, 2024, the parties entered into a Consent Judgment and Decree, pursuant to which the Defendants agreed with the Alliance\u2019s claims that the state\u2019s 30-day pre-election durational residency requirement imposed on registrants and voters violates Section 202(c) of the Voting Rights Act Amendments of 1970 (\u201cVRA\u201d), 52 U.S.C. \u00a7 10502(c), and the First and Fourteenth Amendments to the U.S. Constitution, U.S. Const. amends. I, XIV.",
+    "target_paragraph_indices": [
+      1022,
+      1460
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1022,
+            1095
+          ],
+          [
+            1462,
+            1590
+          ]
+        ],
+        "annotation": {
+          "explanation": "Entry of a Consent Judgment and Decree, which the Court entered as final judgment.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1097,
+            1460
+          ]
+        ],
+        "annotation": {
+          "explanation": "Consent decree reflecting agreement that the DRR violates Section 202(c) of the VRA and the First and Fourteenth Amendments.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            1022,
+            1460
+          ],
+          [
+            1462,
+            1590
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 15, 2024: Parties entered into a Consent Judgment and Decree, and the court granted the unopposed motion to enter it as a consent decree serving as final judgment.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            1022,
+            1096
+          ],
+          [
+            1462,
+            1590
+          ]
+        ],
+        "annotation": {
+          "explanation": "[Yes].",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1022,
+            1460
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 15, 2024: Parties entered into a Consent Judgment and Decree agreeing that the 30-day durational residency requirement violates 52 U.S.C. \u00a7 10502(c) and the First and Fourteenth Amendments.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1022,
+            1460
+          ]
+        ],
+        "annotation": {
+          "explanation": "Consent Judgment (Mar. 15, 2024): Defendants agreed the DRR violates VRA \u00a7202(c) (52 U.S.C. \u00a710502(c)) and the First and Fourteenth Amendments.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1022,
+            1460
+          ]
+        ],
+        "annotation": {
+          "explanation": "Consent Judgment and Decree entered on March 15, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1022,
+            1460
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants agreed that the 30-day durational residency requirement violates VRA \u00a7 202(c) (52 U.S.C. \u00a7 10502(c)) and the First and Fourteenth Amendments.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1022,
+            1460
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants stipulated in the Consent Judgment and Decree that the 30-day durational residency requirement violates Section 202(c) of the VRA and the First and Fourteenth Amendments.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1022,
+            1460
+          ],
+          [
+            1462,
+            1590
+          ]
+        ],
+        "annotation": {
+          "explanation": "No trial was held or scheduled; the case was resolved by a consent judgment on March 15, 2024, when the court granted the unopposed motion to enter the consent decree, which served as final judgment.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 9
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1022,
+            1460
+          ],
+          [
+            1462,
+            1590
+          ]
+        ],
+        "annotation": {
+          "explanation": "On March 15, 2024, the court granted the unopposed motion to enter the proposed consent decree; the decree served as final judgment.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "45160_p3",
+    "metadata": {
+      "case_id": "45160",
+      "paragraph_num": 3,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On same date, the Court granted the join, unopposed motion to enter the proposed consent decree, whi..."
+    },
+    "source": "",
+    "target": "This case involves a challenge to the constitutionality of a Washington state requirement that voters live at their address for at least 30 days before casting their ballot (the \"durational residency requirement\" or \"DRR\"). Washington state authorities reached an agreement to remove the durational residency requirement.\n\nOn the November 7, 2023 complaint (as amended on November 20, 2023), the Washington State Alliance for Retired Americans sued (i) Steve Hobbs in his official capacity as Washington Secretary of State, (ii) Mary Hall in her official capacity as Thurston County Auditor, and (iii) Julie Wise in her official capacity as King County Elections Director, in the U.S. District Court for the Western District of Washington, alleging that the Washington State DRR violates the Voting Rights Act and the U.S. Constitution's First and Fourteenth Amendments because the DRR prohibits any voter who has moved into or within the state within 30 days of an election from registering and voting at their address.\n\nOn March 15, 2024, the parties entered into a Consent Judgment and Decree, pursuant to which the Defendants agreed with the Alliance\u2019s claims that the state\u2019s 30-day pre-election durational residency requirement imposed on registrants and voters violates Section 202(c) of the Voting Rights Act Amendments of 1970 (\u201cVRA\u201d), 52 U.S.C. \u00a7 10502(c), and the First and Fourteenth Amendments to the U.S. Constitution, U.S. Const. amends. I, XIV.\n\nOn same date, the Court granted the join, unopposed motion to enter the proposed consent decree, which served as final judgment.\n\nOn September 16, 2024, Franklin County Auditor Matt Beaton and Washington State Republican Party chairman Jim Walsh moved to intervene as defendants in the case. In their motion, Beaton and Walsh argued primarily that they should be allowed to intervene based on their allegations that the underlying litigation was collusive and that Defendants failed to advance potentially meritorious arguments challenging Plaintiff\u2019s Article III standing.\n\nOn October 11, 2024, the Court denied the motion to intervene as defendants in the case from Beaton and Walsh as they have not met their burden to show that they timely moved to intervene.",
+    "target_paragraph": "On same date, the Court granted the join, unopposed motion to enter the proposed consent decree, which served as final judgment.",
+    "target_paragraph_indices": [
+      1462,
+      1590
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1462,
+            1590
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 15, 2024: Court granted the unopposed motion to enter the proposed consent decree, which served as final judgment.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1462,
+            1590
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court action: The court granted the unopposed motion to enter the consent decree on March 15, 2024, and it served as final judgment.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1462,
+            1590
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court granted the joint, unopposed motion to enter the proposed consent decree on March 15, 2024; the decree served as final judgment.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "45160_p4",
+    "metadata": {
+      "case_id": "45160",
+      "paragraph_num": 4,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On September 16, 2024, Franklin County Auditor Matt Beaton and Washington State Republican Party cha..."
+    },
+    "source": "",
+    "target": "This case involves a challenge to the constitutionality of a Washington state requirement that voters live at their address for at least 30 days before casting their ballot (the \"durational residency requirement\" or \"DRR\"). Washington state authorities reached an agreement to remove the durational residency requirement.\n\nOn the November 7, 2023 complaint (as amended on November 20, 2023), the Washington State Alliance for Retired Americans sued (i) Steve Hobbs in his official capacity as Washington Secretary of State, (ii) Mary Hall in her official capacity as Thurston County Auditor, and (iii) Julie Wise in her official capacity as King County Elections Director, in the U.S. District Court for the Western District of Washington, alleging that the Washington State DRR violates the Voting Rights Act and the U.S. Constitution's First and Fourteenth Amendments because the DRR prohibits any voter who has moved into or within the state within 30 days of an election from registering and voting at their address.\n\nOn March 15, 2024, the parties entered into a Consent Judgment and Decree, pursuant to which the Defendants agreed with the Alliance\u2019s claims that the state\u2019s 30-day pre-election durational residency requirement imposed on registrants and voters violates Section 202(c) of the Voting Rights Act Amendments of 1970 (\u201cVRA\u201d), 52 U.S.C. \u00a7 10502(c), and the First and Fourteenth Amendments to the U.S. Constitution, U.S. Const. amends. I, XIV.\n\nOn same date, the Court granted the join, unopposed motion to enter the proposed consent decree, which served as final judgment.\n\nOn September 16, 2024, Franklin County Auditor Matt Beaton and Washington State Republican Party chairman Jim Walsh moved to intervene as defendants in the case. In their motion, Beaton and Walsh argued primarily that they should be allowed to intervene based on their allegations that the underlying litigation was collusive and that Defendants failed to advance potentially meritorious arguments challenging Plaintiff\u2019s Article III standing.\n\nOn October 11, 2024, the Court denied the motion to intervene as defendants in the case from Beaton and Walsh as they have not met their burden to show that they timely moved to intervene.",
+    "target_paragraph": "On September 16, 2024, Franklin County Auditor Matt Beaton and Washington State Republican Party chairman Jim Walsh moved to intervene as defendants in the case. In their motion, Beaton and Walsh argued primarily that they should be allowed to intervene based on their allegations that the underlying litigation was collusive and that Defendants failed to advance potentially meritorious arguments challenging Plaintiff\u2019s Article III standing.",
+    "target_paragraph_indices": [
+      1592,
+      2035
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1592,
+            1753
+          ],
+          [
+            1754,
+            2035
+          ]
+        ],
+        "annotation": {
+          "explanation": "Post-judgment intervention attempt (Sept. 16, 2024): Matt Beaton and Jim Walsh sought to intervene, alleging collusive litigation and inadequate defense including failure to challenge Article III standing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1592,
+            1753
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion to intervene filed by Matt Beaton and Jim Walsh on September 16, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1592,
+            1753
+          ],
+          [
+            2037,
+            2225
+          ]
+        ],
+        "annotation": {
+          "explanation": "Post-judgment motion to intervene by Beaton and Walsh filed September 16, 2024, was denied on October 11, 2024, as untimely; this did not result in any trial or scheduling.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_disputes",
+        "output_idx": [
+          [
+            1592,
+            1753
+          ],
+          [
+            1754,
+            2035
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion by Franklin County Auditor Matt Beaton and WA GOP Chair Jim Walsh to intervene as defendants, alleging collusive litigation and failure by defendants to challenge plaintiff\u2019s Article III standing.",
+          "checklist_item": "Disputes Over Settlement Enforcement",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "45160_p5",
+    "metadata": {
+      "case_id": "45160",
+      "paragraph_num": 5,
+      "total_paragraphs": 6,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On October 11, 2024, the Court denied the motion to intervene as defendants in the case from Beaton ..."
+    },
+    "source": "",
+    "target": "This case involves a challenge to the constitutionality of a Washington state requirement that voters live at their address for at least 30 days before casting their ballot (the \"durational residency requirement\" or \"DRR\"). Washington state authorities reached an agreement to remove the durational residency requirement.\n\nOn the November 7, 2023 complaint (as amended on November 20, 2023), the Washington State Alliance for Retired Americans sued (i) Steve Hobbs in his official capacity as Washington Secretary of State, (ii) Mary Hall in her official capacity as Thurston County Auditor, and (iii) Julie Wise in her official capacity as King County Elections Director, in the U.S. District Court for the Western District of Washington, alleging that the Washington State DRR violates the Voting Rights Act and the U.S. Constitution's First and Fourteenth Amendments because the DRR prohibits any voter who has moved into or within the state within 30 days of an election from registering and voting at their address.\n\nOn March 15, 2024, the parties entered into a Consent Judgment and Decree, pursuant to which the Defendants agreed with the Alliance\u2019s claims that the state\u2019s 30-day pre-election durational residency requirement imposed on registrants and voters violates Section 202(c) of the Voting Rights Act Amendments of 1970 (\u201cVRA\u201d), 52 U.S.C. \u00a7 10502(c), and the First and Fourteenth Amendments to the U.S. Constitution, U.S. Const. amends. I, XIV.\n\nOn same date, the Court granted the join, unopposed motion to enter the proposed consent decree, which served as final judgment.\n\nOn September 16, 2024, Franklin County Auditor Matt Beaton and Washington State Republican Party chairman Jim Walsh moved to intervene as defendants in the case. In their motion, Beaton and Walsh argued primarily that they should be allowed to intervene based on their allegations that the underlying litigation was collusive and that Defendants failed to advance potentially meritorious arguments challenging Plaintiff\u2019s Article III standing.\n\nOn October 11, 2024, the Court denied the motion to intervene as defendants in the case from Beaton and Walsh as they have not met their burden to show that they timely moved to intervene.",
+    "target_paragraph": "On October 11, 2024, the Court denied the motion to intervene as defendants in the case from Beaton and Walsh as they have not met their burden to show that they timely moved to intervene.",
+    "target_paragraph_indices": [
+      2037,
+      2225
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2037,
+            2225
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ruling on intervention (Oct. 11, 2024): Court denied intervention for failure to show timely motion.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2037,
+            2225
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court denied Beaton and Walsh\u2019s motion to intervene on October 11, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2037,
+            2225
+          ]
+        ],
+        "annotation": {
+          "explanation": "On October 11, 2024, the court denied the motion to intervene by Matt Beaton and Jim Walsh for failure to show timeliness.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_disputes",
+        "output_idx": [
+          [
+            2037,
+            2225
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court denied Beaton and Walsh\u2019s motion to intervene for untimeliness.",
+          "checklist_item": "Disputes Over Settlement Enforcement",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  }
+]

@@ -1,0 +1,1509 @@
+[
+  {
+    "id": "17762_p0",
+    "metadata": {
+      "case_id": "17762",
+      "paragraph_num": 0,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "After a two-year investigation initiated in December 2016 under CRIPA and Title II of the Americans ..."
+    },
+    "source": "",
+    "target": "After a two-year investigation initiated in December 2016 under CRIPA and Title II of the Americans with Disabilities Act (ADA), the Department of Justice (DOJ) issued a Notice on December 19, 2018 concluding that the Hampton Roads Regional Jail Authority (\u201cHRRJ\u201d) failed to provide constitutionally adequate medical and mental health care to incarcerated peoples and placed people with serious mental illness in restrictive housing for prolonged periods of time. The DOJ also concluded that HRRJ\u2019s housing practices discriminate against incarcerated people with mental health disabilities in violation of the ADA.\n\nIn the Notice, the DOJ set forth factual findings about the conditions at HRRJ that violated incarcerated peoples\u2019 constitutional rights. Principally, the DOJ found that medical and mental health care at HRRJ was constitutionally inadequate. In all stages of medical and mental health care (including patient intake, chronic care and emergency care, treatment and therapy, continuity of care, and security and care for suicidal persons), the quality of care and access to care was found to be severely deficient, subjecting patients to a serious risk of harm due to delays and lack of care. The DOJ also found a lack of oversight and accountability and a deliberate indifference by HRRJ officials in identifying and mitigating risks. Furthermore, HRRJ utilized prolonged restrictive housing which disparately affects incarcerated people with mental illnesses, thereby denying them access to activities and programming that they would otherwise be eligible for, and putting them at risk for serious harm. Officials at HRRJ knew of these substantial shortcomings and the associated risks and failed to take appropriate action.\n\nOn August 5, 2020, the DOJ filed this lawsuit against HRRJ in the U.S. District Court for the Eastern District of Virginia based on the findings in the December 2018 report and HRRJ\u2019s subsequent failure to take sufficient remedial steps. The DOJ alleges that HRRJ\u2019s policies and practices violated the Eighth and Fourteenth Amendment rights of people incarcerated in the facility. As a result, the DOJ asked Judge Rebecca Beach Smith to declare that HRRJ\u2019s practices violated the constitutional rights of incarcerated persons and violated the ADA, and to enjoin HRRJ to take immediate action to amend its policies and practices to ensure lawful conditions of confinement.\n\nBy the time that the complaint was filed, the parties had already negotiated a settlement. On the same day as the complaint was filed, the parties filed a joint settlement motion. In the settlement agreement, HRRJ agreed to implement a comprehensive list of reforms including appropriate screening and assessment for medical and mental health needs by qualified professionals, adequate treatment planning for medical and mental health concerns, suicide prevention practices, specialized mental health housing units, oversight of restrictive housing placement, increased medical and mental health staff, increased training for staff, increased collaboration between mental health staff and jail leadership, and a Quality Assurance program to identify and correct deficiencies with the medical and mental health care system to be overseen by a Quality Assurance Committee providing monthly reports to the monitor and the DOJ.\n\nThe settlement agreement noted that HRRJ would designate an Agreement Coordinator to coordinate compliance with the agreement. HRRJ agreed to create annual Implementation Plans to describe how it will fulfill its obligations under the agreement, including deadlines within the first year by which HRRJ must draft or revise policies and procedures, complete a staffing plan, develop and deliver training to HRRJ staff, develop and implement a Quality Improvement Committee, and develop and implement monthly quality assurance mechanisms to report on data relevant to prevent to prevent or minimize harm to incarcerated persons.\n\nA key provision of the settlement agreement was the mandatory appointment of an independent third-party monitor, to oversee HRRJ\u2019s compliance with the agreement. The monitor was agreed to be retained for a period of three years and provide biannual status reports to the DOJ, HRRJ and the court. The monitor would also undertake compliance reviews, on-site inspections and issue monitor reports every six months to assess compliance and HRRJ\u2019s progress on the various reform efforts. The reports will also be filed with the court. In the event of noncompliance with the agreement, the District Court for the Eastern District of Virginia retained jurisdiction to enforce the agreement at the request of the DOJ.\n\nOn August 31, 2020, the court approved the settlement agreement and subsequently, on September 10, 2020, the court approved the appointment of James Conrad Welch to be the third-party monitor. The settlement agreement was effective as of August 31, 2020.\n\nBy the terms of the agreement, HRRJ was to implement all provisions of the agreement within four years and the agreement would terminate in five years, so long as HRRJ attained substantial compliance with the agreement and maintained that compliance for at least one year. HRRJ had the burden to prove that it has achieved and maintained substantial compliance with the agreement and has been operating in accordance with the requirements of the ADA and the U.S. Constitution continuously for one year. After the closure of the facility on April 1, 2024, and the filing of the final monitor\u2019s report on June 4, 2024, the parties filed a joint motion to dismiss the agreement on July 31, 2024. The court dismissed the agreement on the same day, and the case is now closed.",
+    "target_paragraph": "After a two-year investigation initiated in December 2016 under CRIPA and Title II of the Americans with Disabilities Act (ADA), the Department of Justice (DOJ) issued a Notice on December 19, 2018 concluding that the Hampton Roads Regional Jail Authority (\u201cHRRJ\u201d) failed to provide constitutionally adequate medical and mental health care to incarcerated peoples and placed people with serious mental illness in restrictive housing for prolonged periods of time. The DOJ also concluded that HRRJ\u2019s housing practices discriminate against incarcerated people with mental health disabilities in violation of the ADA.",
+    "target_paragraph_indices": [
+      0,
+      614
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            0,
+            197
+          ],
+          [
+            464,
+            614
+          ],
+          [
+            2123,
+            2413
+          ]
+        ],
+        "annotation": {
+          "explanation": "Violations of Title II of the Americans with Disabilities Act (ADA)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            0,
+            197
+          ]
+        ],
+        "annotation": {
+          "explanation": "CRIPA referenced as the statutory authority for the DOJ\u2019s investigation leading to the lawsuit",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            0,
+            127
+          ]
+        ],
+        "annotation": {
+          "explanation": "CRIPA (Civil Rights of Institutionalized Persons Act) \u2013 statutory basis",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            0,
+            127
+          ],
+          [
+            464,
+            614
+          ]
+        ],
+        "annotation": {
+          "explanation": "Title II of the Americans with Disabilities Act (ADA) \u2013 statutory basis",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            129,
+            197
+          ],
+          [
+            1742,
+            1864
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government counsel (U.S. Department of Justice)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            129,
+            197
+          ],
+          [
+            1742,
+            1864
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: U.S. Department of Justice (DOJ)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            218,
+            264
+          ],
+          [
+            1742,
+            1864
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Hampton Roads Regional Jail Authority (HRRJ)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            614
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves a DOJ investigation (Dec. 2016\u2013Dec. 2018) under CRIPA and ADA Title II, culminating in a Notice finding HRRJ provided constitutionally inadequate medical and mental health care, used prolonged restrictive housing for people with serious mental illness, and engaged in ADA-discriminatory housing practices.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            464,
+            614
+          ]
+        ],
+        "annotation": {
+          "explanation": "The DOJ concluded HRRJ\u2019s housing practices were discriminatory under the ADA against people with mental health disabilities.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "17762_p1",
+    "metadata": {
+      "case_id": "17762",
+      "paragraph_num": 1,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In the Notice, the DOJ set forth factual findings about the conditions at HRRJ that violated incarce..."
+    },
+    "source": "",
+    "target": "After a two-year investigation initiated in December 2016 under CRIPA and Title II of the Americans with Disabilities Act (ADA), the Department of Justice (DOJ) issued a Notice on December 19, 2018 concluding that the Hampton Roads Regional Jail Authority (\u201cHRRJ\u201d) failed to provide constitutionally adequate medical and mental health care to incarcerated peoples and placed people with serious mental illness in restrictive housing for prolonged periods of time. The DOJ also concluded that HRRJ\u2019s housing practices discriminate against incarcerated people with mental health disabilities in violation of the ADA.\n\nIn the Notice, the DOJ set forth factual findings about the conditions at HRRJ that violated incarcerated peoples\u2019 constitutional rights. Principally, the DOJ found that medical and mental health care at HRRJ was constitutionally inadequate. In all stages of medical and mental health care (including patient intake, chronic care and emergency care, treatment and therapy, continuity of care, and security and care for suicidal persons), the quality of care and access to care was found to be severely deficient, subjecting patients to a serious risk of harm due to delays and lack of care. The DOJ also found a lack of oversight and accountability and a deliberate indifference by HRRJ officials in identifying and mitigating risks. Furthermore, HRRJ utilized prolonged restrictive housing which disparately affects incarcerated people with mental illnesses, thereby denying them access to activities and programming that they would otherwise be eligible for, and putting them at risk for serious harm. Officials at HRRJ knew of these substantial shortcomings and the associated risks and failed to take appropriate action.\n\nOn August 5, 2020, the DOJ filed this lawsuit against HRRJ in the U.S. District Court for the Eastern District of Virginia based on the findings in the December 2018 report and HRRJ\u2019s subsequent failure to take sufficient remedial steps. The DOJ alleges that HRRJ\u2019s policies and practices violated the Eighth and Fourteenth Amendment rights of people incarcerated in the facility. As a result, the DOJ asked Judge Rebecca Beach Smith to declare that HRRJ\u2019s practices violated the constitutional rights of incarcerated persons and violated the ADA, and to enjoin HRRJ to take immediate action to amend its policies and practices to ensure lawful conditions of confinement.\n\nBy the time that the complaint was filed, the parties had already negotiated a settlement. On the same day as the complaint was filed, the parties filed a joint settlement motion. In the settlement agreement, HRRJ agreed to implement a comprehensive list of reforms including appropriate screening and assessment for medical and mental health needs by qualified professionals, adequate treatment planning for medical and mental health concerns, suicide prevention practices, specialized mental health housing units, oversight of restrictive housing placement, increased medical and mental health staff, increased training for staff, increased collaboration between mental health staff and jail leadership, and a Quality Assurance program to identify and correct deficiencies with the medical and mental health care system to be overseen by a Quality Assurance Committee providing monthly reports to the monitor and the DOJ.\n\nThe settlement agreement noted that HRRJ would designate an Agreement Coordinator to coordinate compliance with the agreement. HRRJ agreed to create annual Implementation Plans to describe how it will fulfill its obligations under the agreement, including deadlines within the first year by which HRRJ must draft or revise policies and procedures, complete a staffing plan, develop and deliver training to HRRJ staff, develop and implement a Quality Improvement Committee, and develop and implement monthly quality assurance mechanisms to report on data relevant to prevent to prevent or minimize harm to incarcerated persons.\n\nA key provision of the settlement agreement was the mandatory appointment of an independent third-party monitor, to oversee HRRJ\u2019s compliance with the agreement. The monitor was agreed to be retained for a period of three years and provide biannual status reports to the DOJ, HRRJ and the court. The monitor would also undertake compliance reviews, on-site inspections and issue monitor reports every six months to assess compliance and HRRJ\u2019s progress on the various reform efforts. The reports will also be filed with the court. In the event of noncompliance with the agreement, the District Court for the Eastern District of Virginia retained jurisdiction to enforce the agreement at the request of the DOJ.\n\nOn August 31, 2020, the court approved the settlement agreement and subsequently, on September 10, 2020, the court approved the appointment of James Conrad Welch to be the third-party monitor. The settlement agreement was effective as of August 31, 2020.\n\nBy the terms of the agreement, HRRJ was to implement all provisions of the agreement within four years and the agreement would terminate in five years, so long as HRRJ attained substantial compliance with the agreement and maintained that compliance for at least one year. HRRJ had the burden to prove that it has achieved and maintained substantial compliance with the agreement and has been operating in accordance with the requirements of the ADA and the U.S. Constitution continuously for one year. After the closure of the facility on April 1, 2024, and the filing of the final monitor\u2019s report on June 4, 2024, the parties filed a joint motion to dismiss the agreement on July 31, 2024. The court dismissed the agreement on the same day, and the case is now closed.",
+    "target_paragraph": "In the Notice, the DOJ set forth factual findings about the conditions at HRRJ that violated incarcerated peoples\u2019 constitutional rights. Principally, the DOJ found that medical and mental health care at HRRJ was constitutionally inadequate. In all stages of medical and mental health care (including patient intake, chronic care and emergency care, treatment and therapy, continuity of care, and security and care for suicidal persons), the quality of care and access to care was found to be severely deficient, subjecting patients to a serious risk of harm due to delays and lack of care. The DOJ also found a lack of oversight and accountability and a deliberate indifference by HRRJ officials in identifying and mitigating risks. Furthermore, HRRJ utilized prolonged restrictive housing which disparately affects incarcerated people with mental illnesses, thereby denying them access to activities and programming that they would otherwise be eligible for, and putting them at risk for serious harm. Officials at HRRJ knew of these substantial shortcomings and the associated risks and failed to take appropriate action.",
+    "target_paragraph_indices": [
+      616,
+      1740
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            616,
+            857
+          ],
+          [
+            858,
+            1206
+          ]
+        ],
+        "annotation": {
+          "explanation": "Supported by the DOJ\u2019s Notice, the factual basis includes systemic, constitutionally inadequate medical and mental health care at all stages (intake, chronic, emergency, treatment/therapy, continuity, and suicide care), causing serious risk of harm due to delays and lack of care.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1207,
+            1349
+          ],
+          [
+            1620,
+            1740
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case is supported by findings that HRRJ lacked oversight and accountability and that officials were deliberately indifferent\u2014knowing of substantial shortcomings and associated risks yet failing to act.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1350,
+            1619
+          ]
+        ],
+        "annotation": {
+          "explanation": "The factual basis includes HRRJ\u2019s use of prolonged restrictive housing that disparately impacted people with mental illnesses, denied them access to programming, and exposed them to serious harm.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "17762_p2",
+    "metadata": {
+      "case_id": "17762",
+      "paragraph_num": 2,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 5, 2020, the DOJ filed this lawsuit against HRRJ in the U.S. District Court for the Easter..."
+    },
+    "source": "",
+    "target": "After a two-year investigation initiated in December 2016 under CRIPA and Title II of the Americans with Disabilities Act (ADA), the Department of Justice (DOJ) issued a Notice on December 19, 2018 concluding that the Hampton Roads Regional Jail Authority (\u201cHRRJ\u201d) failed to provide constitutionally adequate medical and mental health care to incarcerated peoples and placed people with serious mental illness in restrictive housing for prolonged periods of time. The DOJ also concluded that HRRJ\u2019s housing practices discriminate against incarcerated people with mental health disabilities in violation of the ADA.\n\nIn the Notice, the DOJ set forth factual findings about the conditions at HRRJ that violated incarcerated peoples\u2019 constitutional rights. Principally, the DOJ found that medical and mental health care at HRRJ was constitutionally inadequate. In all stages of medical and mental health care (including patient intake, chronic care and emergency care, treatment and therapy, continuity of care, and security and care for suicidal persons), the quality of care and access to care was found to be severely deficient, subjecting patients to a serious risk of harm due to delays and lack of care. The DOJ also found a lack of oversight and accountability and a deliberate indifference by HRRJ officials in identifying and mitigating risks. Furthermore, HRRJ utilized prolonged restrictive housing which disparately affects incarcerated people with mental illnesses, thereby denying them access to activities and programming that they would otherwise be eligible for, and putting them at risk for serious harm. Officials at HRRJ knew of these substantial shortcomings and the associated risks and failed to take appropriate action.\n\nOn August 5, 2020, the DOJ filed this lawsuit against HRRJ in the U.S. District Court for the Eastern District of Virginia based on the findings in the December 2018 report and HRRJ\u2019s subsequent failure to take sufficient remedial steps. The DOJ alleges that HRRJ\u2019s policies and practices violated the Eighth and Fourteenth Amendment rights of people incarcerated in the facility. As a result, the DOJ asked Judge Rebecca Beach Smith to declare that HRRJ\u2019s practices violated the constitutional rights of incarcerated persons and violated the ADA, and to enjoin HRRJ to take immediate action to amend its policies and practices to ensure lawful conditions of confinement.\n\nBy the time that the complaint was filed, the parties had already negotiated a settlement. On the same day as the complaint was filed, the parties filed a joint settlement motion. In the settlement agreement, HRRJ agreed to implement a comprehensive list of reforms including appropriate screening and assessment for medical and mental health needs by qualified professionals, adequate treatment planning for medical and mental health concerns, suicide prevention practices, specialized mental health housing units, oversight of restrictive housing placement, increased medical and mental health staff, increased training for staff, increased collaboration between mental health staff and jail leadership, and a Quality Assurance program to identify and correct deficiencies with the medical and mental health care system to be overseen by a Quality Assurance Committee providing monthly reports to the monitor and the DOJ.\n\nThe settlement agreement noted that HRRJ would designate an Agreement Coordinator to coordinate compliance with the agreement. HRRJ agreed to create annual Implementation Plans to describe how it will fulfill its obligations under the agreement, including deadlines within the first year by which HRRJ must draft or revise policies and procedures, complete a staffing plan, develop and deliver training to HRRJ staff, develop and implement a Quality Improvement Committee, and develop and implement monthly quality assurance mechanisms to report on data relevant to prevent to prevent or minimize harm to incarcerated persons.\n\nA key provision of the settlement agreement was the mandatory appointment of an independent third-party monitor, to oversee HRRJ\u2019s compliance with the agreement. The monitor was agreed to be retained for a period of three years and provide biannual status reports to the DOJ, HRRJ and the court. The monitor would also undertake compliance reviews, on-site inspections and issue monitor reports every six months to assess compliance and HRRJ\u2019s progress on the various reform efforts. The reports will also be filed with the court. In the event of noncompliance with the agreement, the District Court for the Eastern District of Virginia retained jurisdiction to enforce the agreement at the request of the DOJ.\n\nOn August 31, 2020, the court approved the settlement agreement and subsequently, on September 10, 2020, the court approved the appointment of James Conrad Welch to be the third-party monitor. The settlement agreement was effective as of August 31, 2020.\n\nBy the terms of the agreement, HRRJ was to implement all provisions of the agreement within four years and the agreement would terminate in five years, so long as HRRJ attained substantial compliance with the agreement and maintained that compliance for at least one year. HRRJ had the burden to prove that it has achieved and maintained substantial compliance with the agreement and has been operating in accordance with the requirements of the ADA and the U.S. Constitution continuously for one year. After the closure of the facility on April 1, 2024, and the filing of the final monitor\u2019s report on June 4, 2024, the parties filed a joint motion to dismiss the agreement on July 31, 2024. The court dismissed the agreement on the same day, and the case is now closed.",
+    "target_paragraph": "On August 5, 2020, the DOJ filed this lawsuit against HRRJ in the U.S. District Court for the Eastern District of Virginia based on the findings in the December 2018 report and HRRJ\u2019s subsequent failure to take sufficient remedial steps. The DOJ alleges that HRRJ\u2019s policies and practices violated the Eighth and Fourteenth Amendment rights of people incarcerated in the facility. As a result, the DOJ asked Judge Rebecca Beach Smith to declare that HRRJ\u2019s practices violated the constitutional rights of incarcerated persons and violated the ADA, and to enjoin HRRJ to take immediate action to amend its policies and practices to ensure lawful conditions of confinement.",
+    "target_paragraph_indices": [
+      1742,
+      2413
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            1742,
+            1979
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 5, 2020",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1980,
+            2122
+          ]
+        ],
+        "annotation": {
+          "explanation": "Eighth and Fourteenth Amendment violations (conditions of confinement/medical and mental health care)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1980,
+            2122
+          ]
+        ],
+        "annotation": {
+          "explanation": "Eighth Amendment \u2013 constitutional basis",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1980,
+            2122
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourteenth Amendment \u2013 constitutional basis",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2123,
+            2289
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment that HRRJ\u2019s practices violated the constitutional rights of incarcerated persons and the ADA.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2290,
+            2413
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief requiring HRRJ to take immediate action to amend policies and practices to ensure lawful conditions of confinement.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            2123,
+            2413
+          ]
+        ],
+        "annotation": {
+          "explanation": "Rebecca Beach Smith",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            1742,
+            1979
+          ],
+          [
+            2415,
+            2505
+          ],
+          [
+            2506,
+            2594
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 5, 2020: Parties filed a joint settlement motion.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1742,
+            1979
+          ]
+        ],
+        "annotation": {
+          "explanation": "A key factual event: DOJ filed suit on Aug. 5, 2020 in the Eastern District of Virginia, predicated on the 2018 findings and HRRJ\u2019s failure to take sufficient remedial steps.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1980,
+            2122
+          ],
+          [
+            2123,
+            2413
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background/legal context: DOJ alleged violations of the Eighth and Fourteenth Amendments and ADA, seeking declaratory and injunctive relief before Judge Rebecca Beach Smith.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1742,
+            1979
+          ],
+          [
+            2123,
+            2413
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed by DOJ on August 5, 2020 in E.D. Va., alleging Eighth and Fourteenth Amendment and ADA violations and seeking declaratory and injunctive relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1742,
+            1864
+          ],
+          [
+            2506,
+            2594
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint settlement motion filed by both parties on August 5, 2020 (same day as the complaint).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 11
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1742,
+            1979
+          ],
+          [
+            2415,
+            2594
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint settlement motion filed the same day as the complaint (Aug 5, 2020).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 12
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2123,
+            2413
+          ]
+        ],
+        "annotation": {
+          "explanation": "Presiding judicial officer referenced: Judge Rebecca Beach Smith.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": "17762_p3",
+    "metadata": {
+      "case_id": "17762",
+      "paragraph_num": 3,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "By the time that the complaint was filed, the parties had already negotiated a settlement. On the sa..."
+    },
+    "source": "",
+    "target": "After a two-year investigation initiated in December 2016 under CRIPA and Title II of the Americans with Disabilities Act (ADA), the Department of Justice (DOJ) issued a Notice on December 19, 2018 concluding that the Hampton Roads Regional Jail Authority (\u201cHRRJ\u201d) failed to provide constitutionally adequate medical and mental health care to incarcerated peoples and placed people with serious mental illness in restrictive housing for prolonged periods of time. The DOJ also concluded that HRRJ\u2019s housing practices discriminate against incarcerated people with mental health disabilities in violation of the ADA.\n\nIn the Notice, the DOJ set forth factual findings about the conditions at HRRJ that violated incarcerated peoples\u2019 constitutional rights. Principally, the DOJ found that medical and mental health care at HRRJ was constitutionally inadequate. In all stages of medical and mental health care (including patient intake, chronic care and emergency care, treatment and therapy, continuity of care, and security and care for suicidal persons), the quality of care and access to care was found to be severely deficient, subjecting patients to a serious risk of harm due to delays and lack of care. The DOJ also found a lack of oversight and accountability and a deliberate indifference by HRRJ officials in identifying and mitigating risks. Furthermore, HRRJ utilized prolonged restrictive housing which disparately affects incarcerated people with mental illnesses, thereby denying them access to activities and programming that they would otherwise be eligible for, and putting them at risk for serious harm. Officials at HRRJ knew of these substantial shortcomings and the associated risks and failed to take appropriate action.\n\nOn August 5, 2020, the DOJ filed this lawsuit against HRRJ in the U.S. District Court for the Eastern District of Virginia based on the findings in the December 2018 report and HRRJ\u2019s subsequent failure to take sufficient remedial steps. The DOJ alleges that HRRJ\u2019s policies and practices violated the Eighth and Fourteenth Amendment rights of people incarcerated in the facility. As a result, the DOJ asked Judge Rebecca Beach Smith to declare that HRRJ\u2019s practices violated the constitutional rights of incarcerated persons and violated the ADA, and to enjoin HRRJ to take immediate action to amend its policies and practices to ensure lawful conditions of confinement.\n\nBy the time that the complaint was filed, the parties had already negotiated a settlement. On the same day as the complaint was filed, the parties filed a joint settlement motion. In the settlement agreement, HRRJ agreed to implement a comprehensive list of reforms including appropriate screening and assessment for medical and mental health needs by qualified professionals, adequate treatment planning for medical and mental health concerns, suicide prevention practices, specialized mental health housing units, oversight of restrictive housing placement, increased medical and mental health staff, increased training for staff, increased collaboration between mental health staff and jail leadership, and a Quality Assurance program to identify and correct deficiencies with the medical and mental health care system to be overseen by a Quality Assurance Committee providing monthly reports to the monitor and the DOJ.\n\nThe settlement agreement noted that HRRJ would designate an Agreement Coordinator to coordinate compliance with the agreement. HRRJ agreed to create annual Implementation Plans to describe how it will fulfill its obligations under the agreement, including deadlines within the first year by which HRRJ must draft or revise policies and procedures, complete a staffing plan, develop and deliver training to HRRJ staff, develop and implement a Quality Improvement Committee, and develop and implement monthly quality assurance mechanisms to report on data relevant to prevent to prevent or minimize harm to incarcerated persons.\n\nA key provision of the settlement agreement was the mandatory appointment of an independent third-party monitor, to oversee HRRJ\u2019s compliance with the agreement. The monitor was agreed to be retained for a period of three years and provide biannual status reports to the DOJ, HRRJ and the court. The monitor would also undertake compliance reviews, on-site inspections and issue monitor reports every six months to assess compliance and HRRJ\u2019s progress on the various reform efforts. The reports will also be filed with the court. In the event of noncompliance with the agreement, the District Court for the Eastern District of Virginia retained jurisdiction to enforce the agreement at the request of the DOJ.\n\nOn August 31, 2020, the court approved the settlement agreement and subsequently, on September 10, 2020, the court approved the appointment of James Conrad Welch to be the third-party monitor. The settlement agreement was effective as of August 31, 2020.\n\nBy the terms of the agreement, HRRJ was to implement all provisions of the agreement within four years and the agreement would terminate in five years, so long as HRRJ attained substantial compliance with the agreement and maintained that compliance for at least one year. HRRJ had the burden to prove that it has achieved and maintained substantial compliance with the agreement and has been operating in accordance with the requirements of the ADA and the U.S. Constitution continuously for one year. After the closure of the facility on April 1, 2024, and the filing of the final monitor\u2019s report on June 4, 2024, the parties filed a joint motion to dismiss the agreement on July 31, 2024. The court dismissed the agreement on the same day, and the case is now closed.",
+    "target_paragraph": "By the time that the complaint was filed, the parties had already negotiated a settlement. On the same day as the complaint was filed, the parties filed a joint settlement motion. In the settlement agreement, HRRJ agreed to implement a comprehensive list of reforms including appropriate screening and assessment for medical and mental health needs by qualified professionals, adequate treatment planning for medical and mental health concerns, suicide prevention practices, specialized mental health housing units, oversight of restrictive housing placement, increased medical and mental health staff, increased training for staff, increased collaboration between mental health staff and jail leadership, and a Quality Assurance program to identify and correct deficiencies with the medical and mental health care system to be overseen by a Quality Assurance Committee providing monthly reports to the monitor and the DOJ.",
+    "target_paragraph_indices": [
+      2415,
+      3338
+    ],
+    "edits": [
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            3285,
+            3338
+          ]
+        ],
+        "annotation": {
+          "explanation": "monthly: Quality Assurance Committee to provide reports to the monitor and the DOJ.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2415,
+            2594
+          ],
+          [
+            2595,
+            3338
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background context: Parties settled the same day the complaint was filed; HRRJ agreed to broad reforms (screening/assessment, treatment planning, suicide prevention, specialized mental health units, restrictive housing oversight, staffing, training, collaboration, and quality assurance with committee reporting).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2595,
+            3338
+          ]
+        ],
+        "annotation": {
+          "explanation": "Implement comprehensive reforms: screening/assessment by qualified professionals; adequate medical and mental health treatment planning; suicide prevention; specialized mental health housing units; oversight of restrictive housing placement; increased medical and mental health staffing; increased staff training; increased collaboration between mental health staff and jail leadership; and a Quality Assurance program with a Quality Assurance Committee providing monthly reports to the monitor and DOJ.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2595,
+            3338
+          ]
+        ],
+        "annotation": {
+          "explanation": "Implement comprehensive medical and mental health reforms, including: appropriate screening/assessment by qualified professionals; adequate treatment planning; suicide prevention; specialized mental health housing units; oversight of restrictive housing placement; increased medical and mental health staffing; increased staff training; increased collaboration between mental health staff and jail leadership; and a Quality Assurance program overseen by a QA Committee that provides monthly reports to the monitor and DOJ.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "monitor_reports",
+        "output_idx": [
+          [
+            3125,
+            3338
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related inputs to monitor: Quality Assurance Committee provides monthly reports to the monitor and DOJ.",
+          "checklist_item": "Monitor Reports",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2415,
+            2594
+          ],
+          [
+            4680,
+            4872
+          ],
+          [
+            5439,
+            5707
+          ]
+        ],
+        "annotation": {
+          "explanation": "No trial occurred; the case was resolved by settlement (approved Aug 31, 2020) and later dismissed on July 31, 2024.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            3,
+            6,
+            7
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2506,
+            2594
+          ],
+          [
+            4680,
+            4743
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court approved the settlement agreement (granting the joint settlement motion) on August 31, 2020.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            3,
+            6
+          ]
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "17762_p4",
+    "metadata": {
+      "case_id": "17762",
+      "paragraph_num": 4,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The settlement agreement noted that HRRJ would designate an Agreement Coordinator to coordinate comp..."
+    },
+    "source": "",
+    "target": "After a two-year investigation initiated in December 2016 under CRIPA and Title II of the Americans with Disabilities Act (ADA), the Department of Justice (DOJ) issued a Notice on December 19, 2018 concluding that the Hampton Roads Regional Jail Authority (\u201cHRRJ\u201d) failed to provide constitutionally adequate medical and mental health care to incarcerated peoples and placed people with serious mental illness in restrictive housing for prolonged periods of time. The DOJ also concluded that HRRJ\u2019s housing practices discriminate against incarcerated people with mental health disabilities in violation of the ADA.\n\nIn the Notice, the DOJ set forth factual findings about the conditions at HRRJ that violated incarcerated peoples\u2019 constitutional rights. Principally, the DOJ found that medical and mental health care at HRRJ was constitutionally inadequate. In all stages of medical and mental health care (including patient intake, chronic care and emergency care, treatment and therapy, continuity of care, and security and care for suicidal persons), the quality of care and access to care was found to be severely deficient, subjecting patients to a serious risk of harm due to delays and lack of care. The DOJ also found a lack of oversight and accountability and a deliberate indifference by HRRJ officials in identifying and mitigating risks. Furthermore, HRRJ utilized prolonged restrictive housing which disparately affects incarcerated people with mental illnesses, thereby denying them access to activities and programming that they would otherwise be eligible for, and putting them at risk for serious harm. Officials at HRRJ knew of these substantial shortcomings and the associated risks and failed to take appropriate action.\n\nOn August 5, 2020, the DOJ filed this lawsuit against HRRJ in the U.S. District Court for the Eastern District of Virginia based on the findings in the December 2018 report and HRRJ\u2019s subsequent failure to take sufficient remedial steps. The DOJ alleges that HRRJ\u2019s policies and practices violated the Eighth and Fourteenth Amendment rights of people incarcerated in the facility. As a result, the DOJ asked Judge Rebecca Beach Smith to declare that HRRJ\u2019s practices violated the constitutional rights of incarcerated persons and violated the ADA, and to enjoin HRRJ to take immediate action to amend its policies and practices to ensure lawful conditions of confinement.\n\nBy the time that the complaint was filed, the parties had already negotiated a settlement. On the same day as the complaint was filed, the parties filed a joint settlement motion. In the settlement agreement, HRRJ agreed to implement a comprehensive list of reforms including appropriate screening and assessment for medical and mental health needs by qualified professionals, adequate treatment planning for medical and mental health concerns, suicide prevention practices, specialized mental health housing units, oversight of restrictive housing placement, increased medical and mental health staff, increased training for staff, increased collaboration between mental health staff and jail leadership, and a Quality Assurance program to identify and correct deficiencies with the medical and mental health care system to be overseen by a Quality Assurance Committee providing monthly reports to the monitor and the DOJ.\n\nThe settlement agreement noted that HRRJ would designate an Agreement Coordinator to coordinate compliance with the agreement. HRRJ agreed to create annual Implementation Plans to describe how it will fulfill its obligations under the agreement, including deadlines within the first year by which HRRJ must draft or revise policies and procedures, complete a staffing plan, develop and deliver training to HRRJ staff, develop and implement a Quality Improvement Committee, and develop and implement monthly quality assurance mechanisms to report on data relevant to prevent to prevent or minimize harm to incarcerated persons.\n\nA key provision of the settlement agreement was the mandatory appointment of an independent third-party monitor, to oversee HRRJ\u2019s compliance with the agreement. The monitor was agreed to be retained for a period of three years and provide biannual status reports to the DOJ, HRRJ and the court. The monitor would also undertake compliance reviews, on-site inspections and issue monitor reports every six months to assess compliance and HRRJ\u2019s progress on the various reform efforts. The reports will also be filed with the court. In the event of noncompliance with the agreement, the District Court for the Eastern District of Virginia retained jurisdiction to enforce the agreement at the request of the DOJ.\n\nOn August 31, 2020, the court approved the settlement agreement and subsequently, on September 10, 2020, the court approved the appointment of James Conrad Welch to be the third-party monitor. The settlement agreement was effective as of August 31, 2020.\n\nBy the terms of the agreement, HRRJ was to implement all provisions of the agreement within four years and the agreement would terminate in five years, so long as HRRJ attained substantial compliance with the agreement and maintained that compliance for at least one year. HRRJ had the burden to prove that it has achieved and maintained substantial compliance with the agreement and has been operating in accordance with the requirements of the ADA and the U.S. Constitution continuously for one year. After the closure of the facility on April 1, 2024, and the filing of the final monitor\u2019s report on June 4, 2024, the parties filed a joint motion to dismiss the agreement on July 31, 2024. The court dismissed the agreement on the same day, and the case is now closed.",
+    "target_paragraph": "The settlement agreement noted that HRRJ would designate an Agreement Coordinator to coordinate compliance with the agreement. HRRJ agreed to create annual Implementation Plans to describe how it will fulfill its obligations under the agreement, including deadlines within the first year by which HRRJ must draft or revise policies and procedures, complete a staffing plan, develop and deliver training to HRRJ staff, develop and implement a Quality Improvement Committee, and develop and implement monthly quality assurance mechanisms to report on data relevant to prevent to prevent or minimize harm to incarcerated persons.",
+    "target_paragraph_indices": [
+      3340,
+      3966
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            3467,
+            3966
+          ]
+        ],
+        "annotation": {
+          "explanation": "within the first year: HRRJ must complete initial implementation steps (policy revisions, staffing plan, training, Quality Improvement Committee, and monthly QA mechanisms).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            3467,
+            3516
+          ]
+        ],
+        "annotation": {
+          "explanation": "annual: HRRJ to create Implementation Plans.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            3586,
+            3875
+          ]
+        ],
+        "annotation": {
+          "explanation": "within the first year: HRRJ to complete policy revisions, staffing plan, staff training, Quality Improvement Committee, and monthly quality assurance mechanisms.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3340,
+            3466
+          ],
+          [
+            3467,
+            3966
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: Compliance structure included an Agreement Coordinator and annual Implementation Plans with deadlines for policies, staffing, training, quality improvement, and monthly QA mechanisms to minimize harm.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3340,
+            3466
+          ]
+        ],
+        "annotation": {
+          "explanation": "Designate an Agreement Coordinator to coordinate compliance with the agreement.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3467,
+            3966
+          ]
+        ],
+        "annotation": {
+          "explanation": "Create annual Implementation Plans, including first-year deadlines to: draft/revise policies and procedures; complete a staffing plan; develop and deliver staff training; develop and implement a Quality Improvement Committee; and develop and implement monthly quality assurance mechanisms to report data to prevent or minimize harm.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3340,
+            3466
+          ]
+        ],
+        "annotation": {
+          "explanation": "Designate an Agreement Coordinator to coordinate compliance with the agreement.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3467,
+            3966
+          ]
+        ],
+        "annotation": {
+          "explanation": "Create annual Implementation Plans, including first-year deadlines to: draft/revise policies and procedures; complete a staffing plan; develop and deliver staff training; develop and implement a Quality Improvement Committee; and implement monthly quality assurance mechanisms to report data to prevent/minimize harm.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "17762_p5",
+    "metadata": {
+      "case_id": "17762",
+      "paragraph_num": 5,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "A key provision of the settlement agreement was the mandatory appointment of an independent third-pa..."
+    },
+    "source": "",
+    "target": "After a two-year investigation initiated in December 2016 under CRIPA and Title II of the Americans with Disabilities Act (ADA), the Department of Justice (DOJ) issued a Notice on December 19, 2018 concluding that the Hampton Roads Regional Jail Authority (\u201cHRRJ\u201d) failed to provide constitutionally adequate medical and mental health care to incarcerated peoples and placed people with serious mental illness in restrictive housing for prolonged periods of time. The DOJ also concluded that HRRJ\u2019s housing practices discriminate against incarcerated people with mental health disabilities in violation of the ADA.\n\nIn the Notice, the DOJ set forth factual findings about the conditions at HRRJ that violated incarcerated peoples\u2019 constitutional rights. Principally, the DOJ found that medical and mental health care at HRRJ was constitutionally inadequate. In all stages of medical and mental health care (including patient intake, chronic care and emergency care, treatment and therapy, continuity of care, and security and care for suicidal persons), the quality of care and access to care was found to be severely deficient, subjecting patients to a serious risk of harm due to delays and lack of care. The DOJ also found a lack of oversight and accountability and a deliberate indifference by HRRJ officials in identifying and mitigating risks. Furthermore, HRRJ utilized prolonged restrictive housing which disparately affects incarcerated people with mental illnesses, thereby denying them access to activities and programming that they would otherwise be eligible for, and putting them at risk for serious harm. Officials at HRRJ knew of these substantial shortcomings and the associated risks and failed to take appropriate action.\n\nOn August 5, 2020, the DOJ filed this lawsuit against HRRJ in the U.S. District Court for the Eastern District of Virginia based on the findings in the December 2018 report and HRRJ\u2019s subsequent failure to take sufficient remedial steps. The DOJ alleges that HRRJ\u2019s policies and practices violated the Eighth and Fourteenth Amendment rights of people incarcerated in the facility. As a result, the DOJ asked Judge Rebecca Beach Smith to declare that HRRJ\u2019s practices violated the constitutional rights of incarcerated persons and violated the ADA, and to enjoin HRRJ to take immediate action to amend its policies and practices to ensure lawful conditions of confinement.\n\nBy the time that the complaint was filed, the parties had already negotiated a settlement. On the same day as the complaint was filed, the parties filed a joint settlement motion. In the settlement agreement, HRRJ agreed to implement a comprehensive list of reforms including appropriate screening and assessment for medical and mental health needs by qualified professionals, adequate treatment planning for medical and mental health concerns, suicide prevention practices, specialized mental health housing units, oversight of restrictive housing placement, increased medical and mental health staff, increased training for staff, increased collaboration between mental health staff and jail leadership, and a Quality Assurance program to identify and correct deficiencies with the medical and mental health care system to be overseen by a Quality Assurance Committee providing monthly reports to the monitor and the DOJ.\n\nThe settlement agreement noted that HRRJ would designate an Agreement Coordinator to coordinate compliance with the agreement. HRRJ agreed to create annual Implementation Plans to describe how it will fulfill its obligations under the agreement, including deadlines within the first year by which HRRJ must draft or revise policies and procedures, complete a staffing plan, develop and deliver training to HRRJ staff, develop and implement a Quality Improvement Committee, and develop and implement monthly quality assurance mechanisms to report on data relevant to prevent to prevent or minimize harm to incarcerated persons.\n\nA key provision of the settlement agreement was the mandatory appointment of an independent third-party monitor, to oversee HRRJ\u2019s compliance with the agreement. The monitor was agreed to be retained for a period of three years and provide biannual status reports to the DOJ, HRRJ and the court. The monitor would also undertake compliance reviews, on-site inspections and issue monitor reports every six months to assess compliance and HRRJ\u2019s progress on the various reform efforts. The reports will also be filed with the court. In the event of noncompliance with the agreement, the District Court for the Eastern District of Virginia retained jurisdiction to enforce the agreement at the request of the DOJ.\n\nOn August 31, 2020, the court approved the settlement agreement and subsequently, on September 10, 2020, the court approved the appointment of James Conrad Welch to be the third-party monitor. The settlement agreement was effective as of August 31, 2020.\n\nBy the terms of the agreement, HRRJ was to implement all provisions of the agreement within four years and the agreement would terminate in five years, so long as HRRJ attained substantial compliance with the agreement and maintained that compliance for at least one year. HRRJ had the burden to prove that it has achieved and maintained substantial compliance with the agreement and has been operating in accordance with the requirements of the ADA and the U.S. Constitution continuously for one year. After the closure of the facility on April 1, 2024, and the filing of the final monitor\u2019s report on June 4, 2024, the parties filed a joint motion to dismiss the agreement on July 31, 2024. The court dismissed the agreement on the same day, and the case is now closed.",
+    "target_paragraph": "A key provision of the settlement agreement was the mandatory appointment of an independent third-party monitor, to oversee HRRJ\u2019s compliance with the agreement. The monitor was agreed to be retained for a period of three years and provide biannual status reports to the DOJ, HRRJ and the court. The monitor would also undertake compliance reviews, on-site inspections and issue monitor reports every six months to assess compliance and HRRJ\u2019s progress on the various reform efforts. The reports will also be filed with the court. In the event of noncompliance with the agreement, the District Court for the Eastern District of Virginia retained jurisdiction to enforce the agreement at the request of the DOJ.",
+    "target_paragraph_indices": [
+      3968,
+      4678
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4130,
+            4263
+          ]
+        ],
+        "annotation": {
+          "explanation": "three years: Independent third-party monitor retained to oversee compliance.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4130,
+            4263
+          ]
+        ],
+        "annotation": {
+          "explanation": "biannual: Monitor to provide status reports to the DOJ, HRRJ, and the court.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4264,
+            4451
+          ]
+        ],
+        "annotation": {
+          "explanation": "every six months: Monitor to issue reports assessing compliance and progress.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            4130,
+            4195
+          ]
+        ],
+        "annotation": {
+          "explanation": "three years: Independent third-party monitor retained.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            4200,
+            4262
+          ]
+        ],
+        "annotation": {
+          "explanation": "biannual: Monitor to provide status reports to the DOJ, HRRJ and the court.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            4341,
+            4451
+          ]
+        ],
+        "annotation": {
+          "explanation": "every six months: Monitor to issue reports assessing compliance and progress.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            4499,
+            4678
+          ],
+          [
+            4680,
+            4743
+          ]
+        ],
+        "annotation": {
+          "explanation": "[Yes].",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "monitor_name",
+        "output_idx": [
+          [
+            3968,
+            4129
+          ],
+          [
+            4680,
+            4872
+          ]
+        ],
+        "annotation": {
+          "explanation": "Monitor appointed: Yes; Monitor: James Conrad Welch",
+          "checklist_item": "Name of the Monitor",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3968,
+            4678
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: An independent third-party monitor (3-year term) was mandated to conduct compliance reviews, on-site inspections, and biannual reporting; the Eastern District of Virginia retained enforcement jurisdiction.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3968,
+            4129
+          ],
+          [
+            4130,
+            4263
+          ],
+          [
+            4264,
+            4498
+          ]
+        ],
+        "annotation": {
+          "explanation": "Retain an independent third-party monitor for three years to oversee compliance, with compliance reviews, on-site inspections, and six-month monitor reports (including biannual status reports) filed with the court.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3968,
+            4129
+          ],
+          [
+            4130,
+            4263
+          ],
+          [
+            4264,
+            4451
+          ],
+          [
+            4452,
+            4498
+          ]
+        ],
+        "annotation": {
+          "explanation": "Submit to independent monitoring: appointment of a third-party monitor for three years to oversee compliance, with biannual status reports to DOJ, HRRJ, and the court; compliance reviews and on-site inspections; and semiannual monitor reports filed with the court.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "monitor_reports",
+        "output_idx": [
+          [
+            4130,
+            4195
+          ]
+        ],
+        "annotation": {
+          "explanation": "Monitor retention period: three years.",
+          "checklist_item": "Monitor Reports",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "monitor_reports",
+        "output_idx": [
+          [
+            4200,
+            4263
+          ],
+          [
+            4341,
+            4379
+          ]
+        ],
+        "annotation": {
+          "explanation": "Reporting frequency: biannual (every six months) status reports.",
+          "checklist_item": "Monitor Reports",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "monitor_reports",
+        "output_idx": [
+          [
+            4200,
+            4263
+          ],
+          [
+            4452,
+            4498
+          ]
+        ],
+        "annotation": {
+          "explanation": "Report recipients and filing: reports to DOJ, HRRJ, and the court; reports filed with the court.",
+          "checklist_item": "Monitor Reports",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "monitor_reports",
+        "output_idx": [
+          [
+            4264,
+            4451
+          ]
+        ],
+        "annotation": {
+          "explanation": "Scope/methods: compliance reviews and on-site inspections; reports assess compliance and HRRJ\u2019s progress on reforms.",
+          "checklist_item": "Monitor Reports",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4499,
+            4678
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court retained jurisdiction to enforce the settlement agreement in the event of noncompliance.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": "17762_p6",
+    "metadata": {
+      "case_id": "17762",
+      "paragraph_num": 6,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 31, 2020, the court approved the settlement agreement and subsequently, on September 10, 2..."
+    },
+    "source": "",
+    "target": "After a two-year investigation initiated in December 2016 under CRIPA and Title II of the Americans with Disabilities Act (ADA), the Department of Justice (DOJ) issued a Notice on December 19, 2018 concluding that the Hampton Roads Regional Jail Authority (\u201cHRRJ\u201d) failed to provide constitutionally adequate medical and mental health care to incarcerated peoples and placed people with serious mental illness in restrictive housing for prolonged periods of time. The DOJ also concluded that HRRJ\u2019s housing practices discriminate against incarcerated people with mental health disabilities in violation of the ADA.\n\nIn the Notice, the DOJ set forth factual findings about the conditions at HRRJ that violated incarcerated peoples\u2019 constitutional rights. Principally, the DOJ found that medical and mental health care at HRRJ was constitutionally inadequate. In all stages of medical and mental health care (including patient intake, chronic care and emergency care, treatment and therapy, continuity of care, and security and care for suicidal persons), the quality of care and access to care was found to be severely deficient, subjecting patients to a serious risk of harm due to delays and lack of care. The DOJ also found a lack of oversight and accountability and a deliberate indifference by HRRJ officials in identifying and mitigating risks. Furthermore, HRRJ utilized prolonged restrictive housing which disparately affects incarcerated people with mental illnesses, thereby denying them access to activities and programming that they would otherwise be eligible for, and putting them at risk for serious harm. Officials at HRRJ knew of these substantial shortcomings and the associated risks and failed to take appropriate action.\n\nOn August 5, 2020, the DOJ filed this lawsuit against HRRJ in the U.S. District Court for the Eastern District of Virginia based on the findings in the December 2018 report and HRRJ\u2019s subsequent failure to take sufficient remedial steps. The DOJ alleges that HRRJ\u2019s policies and practices violated the Eighth and Fourteenth Amendment rights of people incarcerated in the facility. As a result, the DOJ asked Judge Rebecca Beach Smith to declare that HRRJ\u2019s practices violated the constitutional rights of incarcerated persons and violated the ADA, and to enjoin HRRJ to take immediate action to amend its policies and practices to ensure lawful conditions of confinement.\n\nBy the time that the complaint was filed, the parties had already negotiated a settlement. On the same day as the complaint was filed, the parties filed a joint settlement motion. In the settlement agreement, HRRJ agreed to implement a comprehensive list of reforms including appropriate screening and assessment for medical and mental health needs by qualified professionals, adequate treatment planning for medical and mental health concerns, suicide prevention practices, specialized mental health housing units, oversight of restrictive housing placement, increased medical and mental health staff, increased training for staff, increased collaboration between mental health staff and jail leadership, and a Quality Assurance program to identify and correct deficiencies with the medical and mental health care system to be overseen by a Quality Assurance Committee providing monthly reports to the monitor and the DOJ.\n\nThe settlement agreement noted that HRRJ would designate an Agreement Coordinator to coordinate compliance with the agreement. HRRJ agreed to create annual Implementation Plans to describe how it will fulfill its obligations under the agreement, including deadlines within the first year by which HRRJ must draft or revise policies and procedures, complete a staffing plan, develop and deliver training to HRRJ staff, develop and implement a Quality Improvement Committee, and develop and implement monthly quality assurance mechanisms to report on data relevant to prevent to prevent or minimize harm to incarcerated persons.\n\nA key provision of the settlement agreement was the mandatory appointment of an independent third-party monitor, to oversee HRRJ\u2019s compliance with the agreement. The monitor was agreed to be retained for a period of three years and provide biannual status reports to the DOJ, HRRJ and the court. The monitor would also undertake compliance reviews, on-site inspections and issue monitor reports every six months to assess compliance and HRRJ\u2019s progress on the various reform efforts. The reports will also be filed with the court. In the event of noncompliance with the agreement, the District Court for the Eastern District of Virginia retained jurisdiction to enforce the agreement at the request of the DOJ.\n\nOn August 31, 2020, the court approved the settlement agreement and subsequently, on September 10, 2020, the court approved the appointment of James Conrad Welch to be the third-party monitor. The settlement agreement was effective as of August 31, 2020.\n\nBy the terms of the agreement, HRRJ was to implement all provisions of the agreement within four years and the agreement would terminate in five years, so long as HRRJ attained substantial compliance with the agreement and maintained that compliance for at least one year. HRRJ had the burden to prove that it has achieved and maintained substantial compliance with the agreement and has been operating in accordance with the requirements of the ADA and the U.S. Constitution continuously for one year. After the closure of the facility on April 1, 2024, and the filing of the final monitor\u2019s report on June 4, 2024, the parties filed a joint motion to dismiss the agreement on July 31, 2024. The court dismissed the agreement on the same day, and the case is now closed.",
+    "target_paragraph": "On August 31, 2020, the court approved the settlement agreement and subsequently, on September 10, 2020, the court approved the appointment of James Conrad Welch to be the third-party monitor. The settlement agreement was effective as of August 31, 2020.",
+    "target_paragraph_indices": [
+      4680,
+      4934
+    ],
+    "edits": [
+      {
+        "category": "settlement_date",
+        "output_idx": [
+          [
+            4680,
+            4872
+          ],
+          [
+            4873,
+            4934
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 31, 2020: Court approved the settlement agreement; the settlement agreement was effective as of August 31, 2020.",
+          "checklist_item": "Date of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4680,
+            4934
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background dates: Court approved settlement on Aug. 31, 2020 (effective that date) and appointed James Conrad Welch as monitor on Sept. 10, 2020.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "monitor_reports",
+        "output_idx": [
+          [
+            4680,
+            4872
+          ]
+        ],
+        "annotation": {
+          "explanation": "James Conrad Welch appointed as third-party monitor on September 10, 2020.",
+          "checklist_item": "Monitor Reports",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4680,
+            4743
+          ],
+          [
+            4873,
+            4934
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court approved the settlement agreement on August 31, 2020 (effective the same day).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4762,
+            4872
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court approved appointment of third-party monitor (James Conrad Welch) on September 10, 2020.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4762,
+            4872
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court approved appointment of third-party monitor on September 10, 2020.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "17762_p7",
+    "metadata": {
+      "case_id": "17762",
+      "paragraph_num": 7,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "By the terms of the agreement, HRRJ was to implement all provisions of the agreement within four yea..."
+    },
+    "source": "",
+    "target": "After a two-year investigation initiated in December 2016 under CRIPA and Title II of the Americans with Disabilities Act (ADA), the Department of Justice (DOJ) issued a Notice on December 19, 2018 concluding that the Hampton Roads Regional Jail Authority (\u201cHRRJ\u201d) failed to provide constitutionally adequate medical and mental health care to incarcerated peoples and placed people with serious mental illness in restrictive housing for prolonged periods of time. The DOJ also concluded that HRRJ\u2019s housing practices discriminate against incarcerated people with mental health disabilities in violation of the ADA.\n\nIn the Notice, the DOJ set forth factual findings about the conditions at HRRJ that violated incarcerated peoples\u2019 constitutional rights. Principally, the DOJ found that medical and mental health care at HRRJ was constitutionally inadequate. In all stages of medical and mental health care (including patient intake, chronic care and emergency care, treatment and therapy, continuity of care, and security and care for suicidal persons), the quality of care and access to care was found to be severely deficient, subjecting patients to a serious risk of harm due to delays and lack of care. The DOJ also found a lack of oversight and accountability and a deliberate indifference by HRRJ officials in identifying and mitigating risks. Furthermore, HRRJ utilized prolonged restrictive housing which disparately affects incarcerated people with mental illnesses, thereby denying them access to activities and programming that they would otherwise be eligible for, and putting them at risk for serious harm. Officials at HRRJ knew of these substantial shortcomings and the associated risks and failed to take appropriate action.\n\nOn August 5, 2020, the DOJ filed this lawsuit against HRRJ in the U.S. District Court for the Eastern District of Virginia based on the findings in the December 2018 report and HRRJ\u2019s subsequent failure to take sufficient remedial steps. The DOJ alleges that HRRJ\u2019s policies and practices violated the Eighth and Fourteenth Amendment rights of people incarcerated in the facility. As a result, the DOJ asked Judge Rebecca Beach Smith to declare that HRRJ\u2019s practices violated the constitutional rights of incarcerated persons and violated the ADA, and to enjoin HRRJ to take immediate action to amend its policies and practices to ensure lawful conditions of confinement.\n\nBy the time that the complaint was filed, the parties had already negotiated a settlement. On the same day as the complaint was filed, the parties filed a joint settlement motion. In the settlement agreement, HRRJ agreed to implement a comprehensive list of reforms including appropriate screening and assessment for medical and mental health needs by qualified professionals, adequate treatment planning for medical and mental health concerns, suicide prevention practices, specialized mental health housing units, oversight of restrictive housing placement, increased medical and mental health staff, increased training for staff, increased collaboration between mental health staff and jail leadership, and a Quality Assurance program to identify and correct deficiencies with the medical and mental health care system to be overseen by a Quality Assurance Committee providing monthly reports to the monitor and the DOJ.\n\nThe settlement agreement noted that HRRJ would designate an Agreement Coordinator to coordinate compliance with the agreement. HRRJ agreed to create annual Implementation Plans to describe how it will fulfill its obligations under the agreement, including deadlines within the first year by which HRRJ must draft or revise policies and procedures, complete a staffing plan, develop and deliver training to HRRJ staff, develop and implement a Quality Improvement Committee, and develop and implement monthly quality assurance mechanisms to report on data relevant to prevent to prevent or minimize harm to incarcerated persons.\n\nA key provision of the settlement agreement was the mandatory appointment of an independent third-party monitor, to oversee HRRJ\u2019s compliance with the agreement. The monitor was agreed to be retained for a period of three years and provide biannual status reports to the DOJ, HRRJ and the court. The monitor would also undertake compliance reviews, on-site inspections and issue monitor reports every six months to assess compliance and HRRJ\u2019s progress on the various reform efforts. The reports will also be filed with the court. In the event of noncompliance with the agreement, the District Court for the Eastern District of Virginia retained jurisdiction to enforce the agreement at the request of the DOJ.\n\nOn August 31, 2020, the court approved the settlement agreement and subsequently, on September 10, 2020, the court approved the appointment of James Conrad Welch to be the third-party monitor. The settlement agreement was effective as of August 31, 2020.\n\nBy the terms of the agreement, HRRJ was to implement all provisions of the agreement within four years and the agreement would terminate in five years, so long as HRRJ attained substantial compliance with the agreement and maintained that compliance for at least one year. HRRJ had the burden to prove that it has achieved and maintained substantial compliance with the agreement and has been operating in accordance with the requirements of the ADA and the U.S. Constitution continuously for one year. After the closure of the facility on April 1, 2024, and the filing of the final monitor\u2019s report on June 4, 2024, the parties filed a joint motion to dismiss the agreement on July 31, 2024. The court dismissed the agreement on the same day, and the case is now closed.",
+    "target_paragraph": "By the terms of the agreement, HRRJ was to implement all provisions of the agreement within four years and the agreement would terminate in five years, so long as HRRJ attained substantial compliance with the agreement and maintained that compliance for at least one year. HRRJ had the burden to prove that it has achieved and maintained substantial compliance with the agreement and has been operating in accordance with the requirements of the ADA and the U.S. Constitution continuously for one year. After the closure of the facility on April 1, 2024, and the filing of the final monitor\u2019s report on June 4, 2024, the parties filed a joint motion to dismiss the agreement on July 31, 2024. The court dismissed the agreement on the same day, and the case is now closed.",
+    "target_paragraph_indices": [
+      4936,
+      5707
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4936,
+            5038
+          ]
+        ],
+        "annotation": {
+          "explanation": "four years: HRRJ to implement all provisions of the settlement agreement.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            5039,
+            5208
+          ]
+        ],
+        "annotation": {
+          "explanation": "five years: Agreement termination date, contingent on substantial compliance maintained for at least one year.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            5039,
+            5208
+          ],
+          [
+            5209,
+            5438
+          ]
+        ],
+        "annotation": {
+          "explanation": "at least one year: HRRJ must maintain substantial compliance (and operate in accordance with ADA and the Constitution) continuously for one year before termination.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            4967,
+            5038
+          ]
+        ],
+        "annotation": {
+          "explanation": "within four years: HRRJ to implement all provisions of the agreement.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            5043,
+            5208
+          ]
+        ],
+        "annotation": {
+          "explanation": "five years: Agreement termination period, contingent on substantial compliance.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            5159,
+            5208
+          ]
+        ],
+        "annotation": {
+          "explanation": "at least one year: HRRJ must maintain substantial compliance before termination.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "settlement_duration",
+        "output_idx": [
+          [
+            5320,
+            5438
+          ]
+        ],
+        "annotation": {
+          "explanation": "continuously for one year: HRRJ must operate in accordance with the ADA and U.S. Constitution to prove substantial compliance.",
+          "checklist_item": "How Long Settlement will Last",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4936,
+            5438
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background terms: Implementation within 4 years; termination after 5 years upon at least one year of substantial compliance; HRRJ bore the burden to prove sustained compliance with ADA and constitutional requirements.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5439,
+            5707
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background conclusion: Facility closed Apr. 1, 2024; final monitor\u2019s report filed June 4, 2024; joint motion to dismiss and dismissal on July 31, 2024; case closed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5439,
+            5628
+          ]
+        ],
+        "annotation": {
+          "explanation": "Final monitor\u2019s report filed on June 4, 2024.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5553,
+            5707
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint motion to dismiss the agreement filed July 31, 2024; granted the same day; case closed.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4936,
+            5208
+          ],
+          [
+            5209,
+            5438
+          ]
+        ],
+        "annotation": {
+          "explanation": "Implement all provisions within four years; agreement to terminate in five years only if HRRJ attains and maintains substantial compliance for at least one year; HRRJ bears the burden to prove one year of substantial compliance and operation consistent with the ADA and the U.S. Constitution.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4936,
+            5208
+          ],
+          [
+            5209,
+            5438
+          ]
+        ],
+        "annotation": {
+          "explanation": "Implement all provisions within four years; termination after five years only if HRRJ achieves and maintains substantial compliance for at least one year; HRRJ bears the burden to prove one year of continuous substantial compliance and operation in accordance with the ADA and the U.S. Constitution.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "monitor_reports",
+        "output_idx": [
+          [
+            5439,
+            5628
+          ]
+        ],
+        "annotation": {
+          "explanation": "Final monitor\u2019s report filed June 4, 2024.",
+          "checklist_item": "Monitor Reports",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5439,
+            5628
+          ],
+          [
+            5629,
+            5707
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint motion to dismiss filed July 31, 2024; court dismissed the agreement the same day and closed the case.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            5553,
+            5707
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court granted joint motion to dismiss the agreement on July 31, 2024 (case closed).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      }
+    ]
+  }
+]
