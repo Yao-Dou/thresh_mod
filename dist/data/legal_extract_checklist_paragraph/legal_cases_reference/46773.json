@@ -1,0 +1,1277 @@
+[
+  {
+    "id": "46773_p0",
+    "metadata": {
+      "case_id": "46773",
+      "paragraph_num": 0,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is about the federal government\u2019s termination of Temporary Protected Status (TPS) for Hond..."
+    },
+    "source": "",
+    "target": "This case is about the federal government\u2019s termination of Temporary Protected Status (TPS) for Honduras, Nepal, and Nicaragua. On July 7, 2025, the National TPS Alliance and private plaintiffs who are individual TPS holders filed this lawsuit in the U.S. District Court for the Northern District of California against the Department of Homeland Security (DHS), its Secretary, and the United States under the Administrative Procedure Act and the Fifth Amendment. The case was assigned to Judge Trina L. Thompson.\n\nThe complaint provided extensive background on the TPS program\u2019s purpose and statutory framework. Congress created TPS in 1990 to replace politically driven discretionary programs like \u201cextended voluntary departure\u201d with decisions based on clear humanitarian standards. TPS designations confer work authorization and protection from deportation. By statute, the Secretary must review country conditions before terminating any designation, with extensions effectively the default absent timely notice. Honduras and Nicaragua were designated in 1999 following Hurricane Mitch; Nepal in 2015 after a major earthquake. These designations were repeatedly extended due to ongoing humanitarian crises.\n\nDuring the first Trump administration, DHS announced TPS terminations between 2017 and 2018, affecting over 400,000 people. Federal courts blocked those terminations, finding they stemmed from a predetermined agenda to end TPS and were tainted by discriminatory animus against non-white immigrants. DHS rescinded those terminations in 2023.\n\nPlaintiffs alleged that the second Trump administration renewed this agenda under Executive Order 14159, titled \u201cProtecting the American People Against Invasion,\u201d which directed DHS to rescind prior TPS-related policies and prioritize the removal of non-citizens. Plaintiffs asserted that Secretary Noem\u2019s TPS terminations were preordained, based on a superficial review, and motivated by racial and national-origin animus, citing public statements by Noem, President Trump, and Vice President Vance. Plaintiffs challenged the truncated 60-day transition period\u2014the minimum statutory notice before TPS termination became effective, a significant departure from historical practice\u2014as violating the equal protection guarantee implicit in the Due Process Clause of the Fifth Amendment and alleged that DHS breached statutory requirements and the Administrative Procedure Act.\n\nRepresented by nonprofit immigrant rights attorneys, plaintiffs sought an injunction barring DHS from enforcing the terminations and an order maintaining TPS protections. They also sought to have the court set aside, postpone, or stay the terminations, enjoin enforcement, and award attorneys\u2019 fees and costs.\n\nOn July 11, 2025, Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the effective date of the TPS terminations.\n\nOn July 31, 2025, the court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until a hearing on the merits scheduled for November 18, 2025. In its order, the court wrote, \u201cThe freedom to live fearlessly, the opportunity of liberty, and the American dream. That is all Plaintiffs seek. Instead, they are told to atone for their race, leave because of their names, and purify their blood. The Court disagrees.\u201d\n\nThe court found that the plaintiffs were likely to succeed on the merits of their claims that the TPS terminations were preordained and not based on an objective assessment of country conditions. The court cited comments made by Secretary Noem before she reviewed any country conditions reports, which suggested a predetermined intent to end the TPS program. The court also found that the terminations failed to address data previously considered relevant, including political violence and crime in Honduras and recurring weather events in Nicaragua. The court determined that terminating TPS would cause irreparable harm to the plaintiffs and that the balance of harms and the public interest weighed in favor of postponement. Judge Thompson concluded that the court had jurisdiction to review the case and that the requested relief to postpone the terminations fell within the scope of the Administrative Procedure Act.\n\nThat same day, the defendants filed an emergency motion to stay the court\u2019s July 31 order. The defendants argued that they were likely to prevail on appeal, citing the Supreme Court\u2019s decision in Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.), where the district court had erroneously concluded that the Secretary\u2019s action vacating a prior extension of TPS for certain Venezuelans exceeded her statutory authority. The defendants also contended that the court lacked jurisdiction to grant the plaintiffs\u2019 requested relief because the TPS statute explicitly barred judicial review of any decision to terminate a TPS designation. The defendants further argued that the balance of harms favored a stay, asserting that the government suffered irreparable harm when its policies were enjoined. Finally, the defendants maintained that the plaintiffs\u2019 claims were without merit.\n\nOn August 1, 2025, the defendants appealed the July 31 order to the Ninth Circuit.\n\nThis case is ongoing.",
+    "target_paragraph": "This case is about the federal government\u2019s termination of Temporary Protected Status (TPS) for Honduras, Nepal, and Nicaragua. On July 7, 2025, the National TPS Alliance and private plaintiffs who are individual TPS holders filed this lawsuit in the U.S. District Court for the Northern District of California against the Department of Homeland Security (DHS), its Secretary, and the United States under the Administrative Procedure Act and the Fifth Amendment. The case was assigned to Judge Trina L. Thompson.",
+    "target_paragraph_indices": [
+      0,
+      512
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            128,
+            462
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 7, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            225,
+            462
+          ],
+          [
+            2053,
+            2425
+          ],
+          [
+            4115,
+            4308
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) claim challenging the TPS terminations and seeking set-aside/postponement under the APA.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            3,
+            7
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            225,
+            462
+          ],
+          [
+            2053,
+            2334
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment claim\u2014equal protection component via the Due Process Clause\u2014challenging the TPS terminations.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            225,
+            462
+          ],
+          [
+            2236,
+            2334
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment\u2014Equal Protection component via the Due Process Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            225,
+            462
+          ],
+          [
+            2339,
+            2425
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            463,
+            512
+          ],
+          [
+            2738,
+            2903
+          ]
+        ],
+        "annotation": {
+          "explanation": "Trina L. Thompson",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            0,
+            5
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            128,
+            310
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as National TPS Alliance and private plaintiffs who are individual TPS holders",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            145,
+            462
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: National TPS Alliance",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            145,
+            462
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: private plaintiffs who are individual TPS holders",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            311,
+            398
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Homeland Security (DHS)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            311,
+            398
+          ],
+          [
+            1816,
+            1891
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary Noem, Secretary of the Department of Homeland Security",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            311,
+            398
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: the United States",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            128,
+            512
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs (National TPS Alliance and individual TPS holders) filed suit on July 7, 2025 in the Northern District of California against DHS, the Secretary, and the United States under the APA and the Fifth Amendment; assigned to Judge Trina L. Thompson.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            128,
+            462
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on July 7, 2025 in the N.D. Cal. under the APA and the Fifth Amendment.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            128,
+            462
+          ],
+          [
+            463,
+            512
+          ]
+        ],
+        "annotation": {
+          "explanation": "Trial court and judge: U.S. District Court for the Northern District of California; Judge Trina L. Thompson.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": "46773_p1",
+    "metadata": {
+      "case_id": "46773",
+      "paragraph_num": 1,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The complaint provided extensive background on the TPS program\u2019s purpose and statutory framework. Co..."
+    },
+    "source": "",
+    "target": "This case is about the federal government\u2019s termination of Temporary Protected Status (TPS) for Honduras, Nepal, and Nicaragua. On July 7, 2025, the National TPS Alliance and private plaintiffs who are individual TPS holders filed this lawsuit in the U.S. District Court for the Northern District of California against the Department of Homeland Security (DHS), its Secretary, and the United States under the Administrative Procedure Act and the Fifth Amendment. The case was assigned to Judge Trina L. Thompson.\n\nThe complaint provided extensive background on the TPS program\u2019s purpose and statutory framework. Congress created TPS in 1990 to replace politically driven discretionary programs like \u201cextended voluntary departure\u201d with decisions based on clear humanitarian standards. TPS designations confer work authorization and protection from deportation. By statute, the Secretary must review country conditions before terminating any designation, with extensions effectively the default absent timely notice. Honduras and Nicaragua were designated in 1999 following Hurricane Mitch; Nepal in 2015 after a major earthquake. These designations were repeatedly extended due to ongoing humanitarian crises.\n\nDuring the first Trump administration, DHS announced TPS terminations between 2017 and 2018, affecting over 400,000 people. Federal courts blocked those terminations, finding they stemmed from a predetermined agenda to end TPS and were tainted by discriminatory animus against non-white immigrants. DHS rescinded those terminations in 2023.\n\nPlaintiffs alleged that the second Trump administration renewed this agenda under Executive Order 14159, titled \u201cProtecting the American People Against Invasion,\u201d which directed DHS to rescind prior TPS-related policies and prioritize the removal of non-citizens. Plaintiffs asserted that Secretary Noem\u2019s TPS terminations were preordained, based on a superficial review, and motivated by racial and national-origin animus, citing public statements by Noem, President Trump, and Vice President Vance. Plaintiffs challenged the truncated 60-day transition period\u2014the minimum statutory notice before TPS termination became effective, a significant departure from historical practice\u2014as violating the equal protection guarantee implicit in the Due Process Clause of the Fifth Amendment and alleged that DHS breached statutory requirements and the Administrative Procedure Act.\n\nRepresented by nonprofit immigrant rights attorneys, plaintiffs sought an injunction barring DHS from enforcing the terminations and an order maintaining TPS protections. They also sought to have the court set aside, postpone, or stay the terminations, enjoin enforcement, and award attorneys\u2019 fees and costs.\n\nOn July 11, 2025, Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the effective date of the TPS terminations.\n\nOn July 31, 2025, the court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until a hearing on the merits scheduled for November 18, 2025. In its order, the court wrote, \u201cThe freedom to live fearlessly, the opportunity of liberty, and the American dream. That is all Plaintiffs seek. Instead, they are told to atone for their race, leave because of their names, and purify their blood. The Court disagrees.\u201d\n\nThe court found that the plaintiffs were likely to succeed on the merits of their claims that the TPS terminations were preordained and not based on an objective assessment of country conditions. The court cited comments made by Secretary Noem before she reviewed any country conditions reports, which suggested a predetermined intent to end the TPS program. The court also found that the terminations failed to address data previously considered relevant, including political violence and crime in Honduras and recurring weather events in Nicaragua. The court determined that terminating TPS would cause irreparable harm to the plaintiffs and that the balance of harms and the public interest weighed in favor of postponement. Judge Thompson concluded that the court had jurisdiction to review the case and that the requested relief to postpone the terminations fell within the scope of the Administrative Procedure Act.\n\nThat same day, the defendants filed an emergency motion to stay the court\u2019s July 31 order. The defendants argued that they were likely to prevail on appeal, citing the Supreme Court\u2019s decision in Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.), where the district court had erroneously concluded that the Secretary\u2019s action vacating a prior extension of TPS for certain Venezuelans exceeded her statutory authority. The defendants also contended that the court lacked jurisdiction to grant the plaintiffs\u2019 requested relief because the TPS statute explicitly barred judicial review of any decision to terminate a TPS designation. The defendants further argued that the balance of harms favored a stay, asserting that the government suffered irreparable harm when its policies were enjoined. Finally, the defendants maintained that the plaintiffs\u2019 claims were without merit.\n\nOn August 1, 2025, the defendants appealed the July 31 order to the Ninth Circuit.\n\nThis case is ongoing.",
+    "target_paragraph": "The complaint provided extensive background on the TPS program\u2019s purpose and statutory framework. Congress created TPS in 1990 to replace politically driven discretionary programs like \u201cextended voluntary departure\u201d with decisions based on clear humanitarian standards. TPS designations confer work authorization and protection from deportation. By statute, the Secretary must review country conditions before terminating any designation, with extensions effectively the default absent timely notice. Honduras and Nicaragua were designated in 1999 following Hurricane Mitch; Nepal in 2015 after a major earthquake. These designations were repeatedly extended due to ongoing humanitarian crises.",
+    "target_paragraph_indices": [
+      514,
+      1208
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            860,
+            1014
+          ],
+          [
+            2053,
+            2425
+          ]
+        ],
+        "annotation": {
+          "explanation": "Violation of statutory requirements governing TPS terminations (breach of TPS-related statutory mandates).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            860,
+            1014
+          ],
+          [
+            2339,
+            2425
+          ]
+        ],
+        "annotation": {
+          "explanation": "TPS statute\u2019s statutory requirements governing termination (including review of country conditions and notice)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            612,
+            783
+          ],
+          [
+            784,
+            859
+          ],
+          [
+            860,
+            1014
+          ]
+        ],
+        "annotation": {
+          "explanation": "TPS statutory background: created in 1990 to ensure humanitarian, non-political decisions; provides work authorization and protection from deportation; termination requires review of country conditions and extensions are default absent timely notice.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1015,
+            1128
+          ],
+          [
+            1129,
+            1208
+          ]
+        ],
+        "annotation": {
+          "explanation": "Country designations: Honduras and Nicaragua (1999, post\u2013Hurricane Mitch) and Nepal (2015, post\u2013earthquake), repeatedly extended due to ongoing crises.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46773_p2",
+    "metadata": {
+      "case_id": "46773",
+      "paragraph_num": 2,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "During the first Trump administration, DHS announced TPS terminations between 2017 and 2018, affecti..."
+    },
+    "source": "",
+    "target": "This case is about the federal government\u2019s termination of Temporary Protected Status (TPS) for Honduras, Nepal, and Nicaragua. On July 7, 2025, the National TPS Alliance and private plaintiffs who are individual TPS holders filed this lawsuit in the U.S. District Court for the Northern District of California against the Department of Homeland Security (DHS), its Secretary, and the United States under the Administrative Procedure Act and the Fifth Amendment. The case was assigned to Judge Trina L. Thompson.\n\nThe complaint provided extensive background on the TPS program\u2019s purpose and statutory framework. Congress created TPS in 1990 to replace politically driven discretionary programs like \u201cextended voluntary departure\u201d with decisions based on clear humanitarian standards. TPS designations confer work authorization and protection from deportation. By statute, the Secretary must review country conditions before terminating any designation, with extensions effectively the default absent timely notice. Honduras and Nicaragua were designated in 1999 following Hurricane Mitch; Nepal in 2015 after a major earthquake. These designations were repeatedly extended due to ongoing humanitarian crises.\n\nDuring the first Trump administration, DHS announced TPS terminations between 2017 and 2018, affecting over 400,000 people. Federal courts blocked those terminations, finding they stemmed from a predetermined agenda to end TPS and were tainted by discriminatory animus against non-white immigrants. DHS rescinded those terminations in 2023.\n\nPlaintiffs alleged that the second Trump administration renewed this agenda under Executive Order 14159, titled \u201cProtecting the American People Against Invasion,\u201d which directed DHS to rescind prior TPS-related policies and prioritize the removal of non-citizens. Plaintiffs asserted that Secretary Noem\u2019s TPS terminations were preordained, based on a superficial review, and motivated by racial and national-origin animus, citing public statements by Noem, President Trump, and Vice President Vance. Plaintiffs challenged the truncated 60-day transition period\u2014the minimum statutory notice before TPS termination became effective, a significant departure from historical practice\u2014as violating the equal protection guarantee implicit in the Due Process Clause of the Fifth Amendment and alleged that DHS breached statutory requirements and the Administrative Procedure Act.\n\nRepresented by nonprofit immigrant rights attorneys, plaintiffs sought an injunction barring DHS from enforcing the terminations and an order maintaining TPS protections. They also sought to have the court set aside, postpone, or stay the terminations, enjoin enforcement, and award attorneys\u2019 fees and costs.\n\nOn July 11, 2025, Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the effective date of the TPS terminations.\n\nOn July 31, 2025, the court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until a hearing on the merits scheduled for November 18, 2025. In its order, the court wrote, \u201cThe freedom to live fearlessly, the opportunity of liberty, and the American dream. That is all Plaintiffs seek. Instead, they are told to atone for their race, leave because of their names, and purify their blood. The Court disagrees.\u201d\n\nThe court found that the plaintiffs were likely to succeed on the merits of their claims that the TPS terminations were preordained and not based on an objective assessment of country conditions. The court cited comments made by Secretary Noem before she reviewed any country conditions reports, which suggested a predetermined intent to end the TPS program. The court also found that the terminations failed to address data previously considered relevant, including political violence and crime in Honduras and recurring weather events in Nicaragua. The court determined that terminating TPS would cause irreparable harm to the plaintiffs and that the balance of harms and the public interest weighed in favor of postponement. Judge Thompson concluded that the court had jurisdiction to review the case and that the requested relief to postpone the terminations fell within the scope of the Administrative Procedure Act.\n\nThat same day, the defendants filed an emergency motion to stay the court\u2019s July 31 order. The defendants argued that they were likely to prevail on appeal, citing the Supreme Court\u2019s decision in Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.), where the district court had erroneously concluded that the Secretary\u2019s action vacating a prior extension of TPS for certain Venezuelans exceeded her statutory authority. The defendants also contended that the court lacked jurisdiction to grant the plaintiffs\u2019 requested relief because the TPS statute explicitly barred judicial review of any decision to terminate a TPS designation. The defendants further argued that the balance of harms favored a stay, asserting that the government suffered irreparable harm when its policies were enjoined. Finally, the defendants maintained that the plaintiffs\u2019 claims were without merit.\n\nOn August 1, 2025, the defendants appealed the July 31 order to the Ninth Circuit.\n\nThis case is ongoing.",
+    "target_paragraph": "During the first Trump administration, DHS announced TPS terminations between 2017 and 2018, affecting over 400,000 people. Federal courts blocked those terminations, finding they stemmed from a predetermined agenda to end TPS and were tainted by discriminatory animus against non-white immigrants. DHS rescinded those terminations in 2023.",
+    "target_paragraph_indices": [
+      1210,
+      1550
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1210,
+            1333
+          ],
+          [
+            1334,
+            1508
+          ],
+          [
+            1509,
+            1550
+          ]
+        ],
+        "annotation": {
+          "explanation": "Prior related events: 2017\u20132018 TPS terminations affecting over 400,000 were blocked by courts as pretextual and discriminatory; DHS rescinded those terminations in 2023.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46773_p3",
+    "metadata": {
+      "case_id": "46773",
+      "paragraph_num": 3,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs alleged that the second Trump administration renewed this agenda under Executive Order 14..."
+    },
+    "source": "",
+    "target": "This case is about the federal government\u2019s termination of Temporary Protected Status (TPS) for Honduras, Nepal, and Nicaragua. On July 7, 2025, the National TPS Alliance and private plaintiffs who are individual TPS holders filed this lawsuit in the U.S. District Court for the Northern District of California against the Department of Homeland Security (DHS), its Secretary, and the United States under the Administrative Procedure Act and the Fifth Amendment. The case was assigned to Judge Trina L. Thompson.\n\nThe complaint provided extensive background on the TPS program\u2019s purpose and statutory framework. Congress created TPS in 1990 to replace politically driven discretionary programs like \u201cextended voluntary departure\u201d with decisions based on clear humanitarian standards. TPS designations confer work authorization and protection from deportation. By statute, the Secretary must review country conditions before terminating any designation, with extensions effectively the default absent timely notice. Honduras and Nicaragua were designated in 1999 following Hurricane Mitch; Nepal in 2015 after a major earthquake. These designations were repeatedly extended due to ongoing humanitarian crises.\n\nDuring the first Trump administration, DHS announced TPS terminations between 2017 and 2018, affecting over 400,000 people. Federal courts blocked those terminations, finding they stemmed from a predetermined agenda to end TPS and were tainted by discriminatory animus against non-white immigrants. DHS rescinded those terminations in 2023.\n\nPlaintiffs alleged that the second Trump administration renewed this agenda under Executive Order 14159, titled \u201cProtecting the American People Against Invasion,\u201d which directed DHS to rescind prior TPS-related policies and prioritize the removal of non-citizens. Plaintiffs asserted that Secretary Noem\u2019s TPS terminations were preordained, based on a superficial review, and motivated by racial and national-origin animus, citing public statements by Noem, President Trump, and Vice President Vance. Plaintiffs challenged the truncated 60-day transition period\u2014the minimum statutory notice before TPS termination became effective, a significant departure from historical practice\u2014as violating the equal protection guarantee implicit in the Due Process Clause of the Fifth Amendment and alleged that DHS breached statutory requirements and the Administrative Procedure Act.\n\nRepresented by nonprofit immigrant rights attorneys, plaintiffs sought an injunction barring DHS from enforcing the terminations and an order maintaining TPS protections. They also sought to have the court set aside, postpone, or stay the terminations, enjoin enforcement, and award attorneys\u2019 fees and costs.\n\nOn July 11, 2025, Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the effective date of the TPS terminations.\n\nOn July 31, 2025, the court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until a hearing on the merits scheduled for November 18, 2025. In its order, the court wrote, \u201cThe freedom to live fearlessly, the opportunity of liberty, and the American dream. That is all Plaintiffs seek. Instead, they are told to atone for their race, leave because of their names, and purify their blood. The Court disagrees.\u201d\n\nThe court found that the plaintiffs were likely to succeed on the merits of their claims that the TPS terminations were preordained and not based on an objective assessment of country conditions. The court cited comments made by Secretary Noem before she reviewed any country conditions reports, which suggested a predetermined intent to end the TPS program. The court also found that the terminations failed to address data previously considered relevant, including political violence and crime in Honduras and recurring weather events in Nicaragua. The court determined that terminating TPS would cause irreparable harm to the plaintiffs and that the balance of harms and the public interest weighed in favor of postponement. Judge Thompson concluded that the court had jurisdiction to review the case and that the requested relief to postpone the terminations fell within the scope of the Administrative Procedure Act.\n\nThat same day, the defendants filed an emergency motion to stay the court\u2019s July 31 order. The defendants argued that they were likely to prevail on appeal, citing the Supreme Court\u2019s decision in Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.), where the district court had erroneously concluded that the Secretary\u2019s action vacating a prior extension of TPS for certain Venezuelans exceeded her statutory authority. The defendants also contended that the court lacked jurisdiction to grant the plaintiffs\u2019 requested relief because the TPS statute explicitly barred judicial review of any decision to terminate a TPS designation. The defendants further argued that the balance of harms favored a stay, asserting that the government suffered irreparable harm when its policies were enjoined. Finally, the defendants maintained that the plaintiffs\u2019 claims were without merit.\n\nOn August 1, 2025, the defendants appealed the July 31 order to the Ninth Circuit.\n\nThis case is ongoing.",
+    "target_paragraph": "Plaintiffs alleged that the second Trump administration renewed this agenda under Executive Order 14159, titled \u201cProtecting the American People Against Invasion,\u201d which directed DHS to rescind prior TPS-related policies and prioritize the removal of non-citizens. Plaintiffs asserted that Secretary Noem\u2019s TPS terminations were preordained, based on a superficial review, and motivated by racial and national-origin animus, citing public statements by Noem, President Trump, and Vice President Vance. Plaintiffs challenged the truncated 60-day transition period\u2014the minimum statutory notice before TPS termination became effective, a significant departure from historical practice\u2014as violating the equal protection guarantee implicit in the Due Process Clause of the Fifth Amendment and alleged that DHS breached statutory requirements and the Administrative Procedure Act.",
+    "target_paragraph_indices": [
+      1552,
+      2425
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1552,
+            1815
+          ]
+        ],
+        "annotation": {
+          "explanation": "Executive Order 14159 allegedly directed DHS to rescind prior TPS-related policies and prioritize removals, forming part of the challenged actions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1816,
+            2052
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs allege TPS terminations were preordained, superficially reviewed, and motivated by racial/national-origin animus, supported by public statements from Secretary Noem, President Trump, and Vice President Vance.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2053,
+            2425
+          ]
+        ],
+        "annotation": {
+          "explanation": "Challenge to minimum 60-day transition period (a departure from historical practice) as violating equal protection and breaching statutory and APA requirements.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46773_p4",
+    "metadata": {
+      "case_id": "46773",
+      "paragraph_num": 4,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Represented by nonprofit immigrant rights attorneys, plaintiffs sought an injunction barring DHS fro..."
+    },
+    "source": "",
+    "target": "This case is about the federal government\u2019s termination of Temporary Protected Status (TPS) for Honduras, Nepal, and Nicaragua. On July 7, 2025, the National TPS Alliance and private plaintiffs who are individual TPS holders filed this lawsuit in the U.S. District Court for the Northern District of California against the Department of Homeland Security (DHS), its Secretary, and the United States under the Administrative Procedure Act and the Fifth Amendment. The case was assigned to Judge Trina L. Thompson.\n\nThe complaint provided extensive background on the TPS program\u2019s purpose and statutory framework. Congress created TPS in 1990 to replace politically driven discretionary programs like \u201cextended voluntary departure\u201d with decisions based on clear humanitarian standards. TPS designations confer work authorization and protection from deportation. By statute, the Secretary must review country conditions before terminating any designation, with extensions effectively the default absent timely notice. Honduras and Nicaragua were designated in 1999 following Hurricane Mitch; Nepal in 2015 after a major earthquake. These designations were repeatedly extended due to ongoing humanitarian crises.\n\nDuring the first Trump administration, DHS announced TPS terminations between 2017 and 2018, affecting over 400,000 people. Federal courts blocked those terminations, finding they stemmed from a predetermined agenda to end TPS and were tainted by discriminatory animus against non-white immigrants. DHS rescinded those terminations in 2023.\n\nPlaintiffs alleged that the second Trump administration renewed this agenda under Executive Order 14159, titled \u201cProtecting the American People Against Invasion,\u201d which directed DHS to rescind prior TPS-related policies and prioritize the removal of non-citizens. Plaintiffs asserted that Secretary Noem\u2019s TPS terminations were preordained, based on a superficial review, and motivated by racial and national-origin animus, citing public statements by Noem, President Trump, and Vice President Vance. Plaintiffs challenged the truncated 60-day transition period\u2014the minimum statutory notice before TPS termination became effective, a significant departure from historical practice\u2014as violating the equal protection guarantee implicit in the Due Process Clause of the Fifth Amendment and alleged that DHS breached statutory requirements and the Administrative Procedure Act.\n\nRepresented by nonprofit immigrant rights attorneys, plaintiffs sought an injunction barring DHS from enforcing the terminations and an order maintaining TPS protections. They also sought to have the court set aside, postpone, or stay the terminations, enjoin enforcement, and award attorneys\u2019 fees and costs.\n\nOn July 11, 2025, Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the effective date of the TPS terminations.\n\nOn July 31, 2025, the court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until a hearing on the merits scheduled for November 18, 2025. In its order, the court wrote, \u201cThe freedom to live fearlessly, the opportunity of liberty, and the American dream. That is all Plaintiffs seek. Instead, they are told to atone for their race, leave because of their names, and purify their blood. The Court disagrees.\u201d\n\nThe court found that the plaintiffs were likely to succeed on the merits of their claims that the TPS terminations were preordained and not based on an objective assessment of country conditions. The court cited comments made by Secretary Noem before she reviewed any country conditions reports, which suggested a predetermined intent to end the TPS program. The court also found that the terminations failed to address data previously considered relevant, including political violence and crime in Honduras and recurring weather events in Nicaragua. The court determined that terminating TPS would cause irreparable harm to the plaintiffs and that the balance of harms and the public interest weighed in favor of postponement. Judge Thompson concluded that the court had jurisdiction to review the case and that the requested relief to postpone the terminations fell within the scope of the Administrative Procedure Act.\n\nThat same day, the defendants filed an emergency motion to stay the court\u2019s July 31 order. The defendants argued that they were likely to prevail on appeal, citing the Supreme Court\u2019s decision in Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.), where the district court had erroneously concluded that the Secretary\u2019s action vacating a prior extension of TPS for certain Venezuelans exceeded her statutory authority. The defendants also contended that the court lacked jurisdiction to grant the plaintiffs\u2019 requested relief because the TPS statute explicitly barred judicial review of any decision to terminate a TPS designation. The defendants further argued that the balance of harms favored a stay, asserting that the government suffered irreparable harm when its policies were enjoined. Finally, the defendants maintained that the plaintiffs\u2019 claims were without merit.\n\nOn August 1, 2025, the defendants appealed the July 31 order to the Ninth Circuit.\n\nThis case is ongoing.",
+    "target_paragraph": "Represented by nonprofit immigrant rights attorneys, plaintiffs sought an injunction barring DHS from enforcing the terminations and an order maintaining TPS protections. They also sought to have the court set aside, postpone, or stay the terminations, enjoin enforcement, and award attorneys\u2019 fees and costs.",
+    "target_paragraph_indices": [
+      2427,
+      2736
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2480,
+            2555
+          ]
+        ],
+        "annotation": {
+          "explanation": "injunction barring DHS from enforcing the terminations",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2556,
+            2597
+          ]
+        ],
+        "annotation": {
+          "explanation": "order maintaining TPS protections",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2598,
+            2736
+          ]
+        ],
+        "annotation": {
+          "explanation": "set aside the terminations",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2598,
+            2736
+          ]
+        ],
+        "annotation": {
+          "explanation": "postpone the terminations",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2598,
+            2736
+          ]
+        ],
+        "annotation": {
+          "explanation": "stay the terminations",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2598,
+            2736
+          ]
+        ],
+        "annotation": {
+          "explanation": "enjoin enforcement of the terminations",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2598,
+            2736
+          ]
+        ],
+        "annotation": {
+          "explanation": "attorneys\u2019 fees and costs",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            2427,
+            2597
+          ]
+        ],
+        "annotation": {
+          "explanation": "Nonprofit immigrant rights attorneys",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2427,
+            2597
+          ],
+          [
+            2598,
+            2736
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: injunction against enforcement, maintain TPS protections, set aside/postpone/stay terminations, enjoin enforcement, and attorneys\u2019 fees and costs.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46773_p5",
+    "metadata": {
+      "case_id": "46773",
+      "paragraph_num": 5,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 11, 2025, Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on thei..."
+    },
+    "source": "",
+    "target": "This case is about the federal government\u2019s termination of Temporary Protected Status (TPS) for Honduras, Nepal, and Nicaragua. On July 7, 2025, the National TPS Alliance and private plaintiffs who are individual TPS holders filed this lawsuit in the U.S. District Court for the Northern District of California against the Department of Homeland Security (DHS), its Secretary, and the United States under the Administrative Procedure Act and the Fifth Amendment. The case was assigned to Judge Trina L. Thompson.\n\nThe complaint provided extensive background on the TPS program\u2019s purpose and statutory framework. Congress created TPS in 1990 to replace politically driven discretionary programs like \u201cextended voluntary departure\u201d with decisions based on clear humanitarian standards. TPS designations confer work authorization and protection from deportation. By statute, the Secretary must review country conditions before terminating any designation, with extensions effectively the default absent timely notice. Honduras and Nicaragua were designated in 1999 following Hurricane Mitch; Nepal in 2015 after a major earthquake. These designations were repeatedly extended due to ongoing humanitarian crises.\n\nDuring the first Trump administration, DHS announced TPS terminations between 2017 and 2018, affecting over 400,000 people. Federal courts blocked those terminations, finding they stemmed from a predetermined agenda to end TPS and were tainted by discriminatory animus against non-white immigrants. DHS rescinded those terminations in 2023.\n\nPlaintiffs alleged that the second Trump administration renewed this agenda under Executive Order 14159, titled \u201cProtecting the American People Against Invasion,\u201d which directed DHS to rescind prior TPS-related policies and prioritize the removal of non-citizens. Plaintiffs asserted that Secretary Noem\u2019s TPS terminations were preordained, based on a superficial review, and motivated by racial and national-origin animus, citing public statements by Noem, President Trump, and Vice President Vance. Plaintiffs challenged the truncated 60-day transition period\u2014the minimum statutory notice before TPS termination became effective, a significant departure from historical practice\u2014as violating the equal protection guarantee implicit in the Due Process Clause of the Fifth Amendment and alleged that DHS breached statutory requirements and the Administrative Procedure Act.\n\nRepresented by nonprofit immigrant rights attorneys, plaintiffs sought an injunction barring DHS from enforcing the terminations and an order maintaining TPS protections. They also sought to have the court set aside, postpone, or stay the terminations, enjoin enforcement, and award attorneys\u2019 fees and costs.\n\nOn July 11, 2025, Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the effective date of the TPS terminations.\n\nOn July 31, 2025, the court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until a hearing on the merits scheduled for November 18, 2025. In its order, the court wrote, \u201cThe freedom to live fearlessly, the opportunity of liberty, and the American dream. That is all Plaintiffs seek. Instead, they are told to atone for their race, leave because of their names, and purify their blood. The Court disagrees.\u201d\n\nThe court found that the plaintiffs were likely to succeed on the merits of their claims that the TPS terminations were preordained and not based on an objective assessment of country conditions. The court cited comments made by Secretary Noem before she reviewed any country conditions reports, which suggested a predetermined intent to end the TPS program. The court also found that the terminations failed to address data previously considered relevant, including political violence and crime in Honduras and recurring weather events in Nicaragua. The court determined that terminating TPS would cause irreparable harm to the plaintiffs and that the balance of harms and the public interest weighed in favor of postponement. Judge Thompson concluded that the court had jurisdiction to review the case and that the requested relief to postpone the terminations fell within the scope of the Administrative Procedure Act.\n\nThat same day, the defendants filed an emergency motion to stay the court\u2019s July 31 order. The defendants argued that they were likely to prevail on appeal, citing the Supreme Court\u2019s decision in Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.), where the district court had erroneously concluded that the Secretary\u2019s action vacating a prior extension of TPS for certain Venezuelans exceeded her statutory authority. The defendants also contended that the court lacked jurisdiction to grant the plaintiffs\u2019 requested relief because the TPS statute explicitly barred judicial review of any decision to terminate a TPS designation. The defendants further argued that the balance of harms favored a stay, asserting that the government suffered irreparable harm when its policies were enjoined. Finally, the defendants maintained that the plaintiffs\u2019 claims were without merit.\n\nOn August 1, 2025, the defendants appealed the July 31 order to the Ninth Circuit.\n\nThis case is ongoing.",
+    "target_paragraph": "On July 11, 2025, Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the effective date of the TPS terminations.",
+    "target_paragraph_indices": [
+      2738,
+      2903
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2738,
+            2903
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 11, 2025: Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the effective date of the TPS terminations.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2738,
+            2903
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural step: court granted expedited briefing and hearing on July 11, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2738,
+            2903
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion to expedite briefing and hearing on request to postpone TPS termination effective date; granted on July 11, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2738,
+            2903
+          ]
+        ],
+        "annotation": {
+          "explanation": "Expedite briefing and the hearing on the motion to postpone the effective date of the TPS terminations.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2738,
+            2903
+          ]
+        ],
+        "annotation": {
+          "explanation": "Expedited briefing and hearing schedule on plaintiffs\u2019 request to postpone the effective date of TPS terminations.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2738,
+            2903
+          ]
+        ],
+        "annotation": {
+          "explanation": "Scheduling/procedural order: On July 11, 2025, the court granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the TPS terminations\u2019 effective date.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2738,
+            2903
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 11, 2025: The court granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the TPS terminations\u2019 effective date.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46773_p6",
+    "metadata": {
+      "case_id": "46773",
+      "paragraph_num": 6,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 31, 2025, the court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS..."
+    },
+    "source": "",
+    "target": "This case is about the federal government\u2019s termination of Temporary Protected Status (TPS) for Honduras, Nepal, and Nicaragua. On July 7, 2025, the National TPS Alliance and private plaintiffs who are individual TPS holders filed this lawsuit in the U.S. District Court for the Northern District of California against the Department of Homeland Security (DHS), its Secretary, and the United States under the Administrative Procedure Act and the Fifth Amendment. The case was assigned to Judge Trina L. Thompson.\n\nThe complaint provided extensive background on the TPS program\u2019s purpose and statutory framework. Congress created TPS in 1990 to replace politically driven discretionary programs like \u201cextended voluntary departure\u201d with decisions based on clear humanitarian standards. TPS designations confer work authorization and protection from deportation. By statute, the Secretary must review country conditions before terminating any designation, with extensions effectively the default absent timely notice. Honduras and Nicaragua were designated in 1999 following Hurricane Mitch; Nepal in 2015 after a major earthquake. These designations were repeatedly extended due to ongoing humanitarian crises.\n\nDuring the first Trump administration, DHS announced TPS terminations between 2017 and 2018, affecting over 400,000 people. Federal courts blocked those terminations, finding they stemmed from a predetermined agenda to end TPS and were tainted by discriminatory animus against non-white immigrants. DHS rescinded those terminations in 2023.\n\nPlaintiffs alleged that the second Trump administration renewed this agenda under Executive Order 14159, titled \u201cProtecting the American People Against Invasion,\u201d which directed DHS to rescind prior TPS-related policies and prioritize the removal of non-citizens. Plaintiffs asserted that Secretary Noem\u2019s TPS terminations were preordained, based on a superficial review, and motivated by racial and national-origin animus, citing public statements by Noem, President Trump, and Vice President Vance. Plaintiffs challenged the truncated 60-day transition period\u2014the minimum statutory notice before TPS termination became effective, a significant departure from historical practice\u2014as violating the equal protection guarantee implicit in the Due Process Clause of the Fifth Amendment and alleged that DHS breached statutory requirements and the Administrative Procedure Act.\n\nRepresented by nonprofit immigrant rights attorneys, plaintiffs sought an injunction barring DHS from enforcing the terminations and an order maintaining TPS protections. They also sought to have the court set aside, postpone, or stay the terminations, enjoin enforcement, and award attorneys\u2019 fees and costs.\n\nOn July 11, 2025, Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the effective date of the TPS terminations.\n\nOn July 31, 2025, the court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until a hearing on the merits scheduled for November 18, 2025. In its order, the court wrote, \u201cThe freedom to live fearlessly, the opportunity of liberty, and the American dream. That is all Plaintiffs seek. Instead, they are told to atone for their race, leave because of their names, and purify their blood. The Court disagrees.\u201d\n\nThe court found that the plaintiffs were likely to succeed on the merits of their claims that the TPS terminations were preordained and not based on an objective assessment of country conditions. The court cited comments made by Secretary Noem before she reviewed any country conditions reports, which suggested a predetermined intent to end the TPS program. The court also found that the terminations failed to address data previously considered relevant, including political violence and crime in Honduras and recurring weather events in Nicaragua. The court determined that terminating TPS would cause irreparable harm to the plaintiffs and that the balance of harms and the public interest weighed in favor of postponement. Judge Thompson concluded that the court had jurisdiction to review the case and that the requested relief to postpone the terminations fell within the scope of the Administrative Procedure Act.\n\nThat same day, the defendants filed an emergency motion to stay the court\u2019s July 31 order. The defendants argued that they were likely to prevail on appeal, citing the Supreme Court\u2019s decision in Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.), where the district court had erroneously concluded that the Secretary\u2019s action vacating a prior extension of TPS for certain Venezuelans exceeded her statutory authority. The defendants also contended that the court lacked jurisdiction to grant the plaintiffs\u2019 requested relief because the TPS statute explicitly barred judicial review of any decision to terminate a TPS designation. The defendants further argued that the balance of harms favored a stay, asserting that the government suffered irreparable harm when its policies were enjoined. Finally, the defendants maintained that the plaintiffs\u2019 claims were without merit.\n\nOn August 1, 2025, the defendants appealed the July 31 order to the Ninth Circuit.\n\nThis case is ongoing.",
+    "target_paragraph": "On July 31, 2025, the court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until a hearing on the merits scheduled for November 18, 2025. In its order, the court wrote, \u201cThe freedom to live fearlessly, the opportunity of liberty, and the American dream. That is all Plaintiffs seek. Instead, they are told to atone for their race, leave because of their names, and purify their blood. The Court disagrees.\u201d",
+    "target_paragraph_indices": [
+      2905,
+      3385
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2905,
+            3116
+          ]
+        ],
+        "annotation": {
+          "explanation": "until November 18, 2025: Order granting plaintiffs\u2019 motion to postpone the effective date of TPS terminations for Honduras, Nicaragua, and Nepal (entered July 31, 2025).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2905,
+            3116
+          ],
+          [
+            4310,
+            4400
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 31, 2025: The court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until a hearing on the merits scheduled for November 18, 2025.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": [
+            6,
+            8
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2905,
+            3116
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary relief: court postponed the effective date of TPS terminations for Honduras, Nicaragua, and Nepal until November 18, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3117,
+            3385
+          ],
+          [
+            3387,
+            3582
+          ],
+          [
+            3583,
+            3745
+          ],
+          [
+            3746,
+            3937
+          ],
+          [
+            3938,
+            4114
+          ],
+          [
+            4115,
+            4308
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court\u2019s factual findings supporting postponement: likely success on claims that terminations were preordained and not based on objective country-condition assessments; reliance on pre-review comments by Secretary Noem indicating predetermined intent; failure to address relevant data (political violence/crime in Honduras, recurring weather in Nicaragua); irreparable harm to plaintiffs; balance of harms and public interest favor postponement; court has APA jurisdiction to grant postponement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2905,
+            3116
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion to postpone the effective date of the TPS terminations; granted on July 31, 2025, postponing terminations until the November 18, 2025 merits hearing.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2905,
+            3116
+          ]
+        ],
+        "annotation": {
+          "explanation": "Postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until the merits hearing on November 18, 2025.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2905,
+            3116
+          ]
+        ],
+        "annotation": {
+          "explanation": "Postpone the effective date of TPS terminations for Honduras, Nicaragua, and Nepal until the merits hearing on November 18, 2025 (defendants may not implement the terminations before that date).",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2905,
+            3116
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ruling and schedule: On July 31, 2025, the court postponed the effective date of TPS terminations for Honduras, Nicaragua, and Nepal until a merits hearing scheduled for November 18, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2905,
+            3116
+          ],
+          [
+            3387,
+            3582
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 31, 2025: The court granted plaintiffs\u2019 motion to postpone the effective date of TPS terminations for Honduras, Nicaragua, and Nepal until the November 18, 2025 merits hearing.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46773_p7",
+    "metadata": {
+      "case_id": "46773",
+      "paragraph_num": 7,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court found that the plaintiffs were likely to succeed on the merits of their claims that the TP..."
+    },
+    "source": "",
+    "target": "This case is about the federal government\u2019s termination of Temporary Protected Status (TPS) for Honduras, Nepal, and Nicaragua. On July 7, 2025, the National TPS Alliance and private plaintiffs who are individual TPS holders filed this lawsuit in the U.S. District Court for the Northern District of California against the Department of Homeland Security (DHS), its Secretary, and the United States under the Administrative Procedure Act and the Fifth Amendment. The case was assigned to Judge Trina L. Thompson.\n\nThe complaint provided extensive background on the TPS program\u2019s purpose and statutory framework. Congress created TPS in 1990 to replace politically driven discretionary programs like \u201cextended voluntary departure\u201d with decisions based on clear humanitarian standards. TPS designations confer work authorization and protection from deportation. By statute, the Secretary must review country conditions before terminating any designation, with extensions effectively the default absent timely notice. Honduras and Nicaragua were designated in 1999 following Hurricane Mitch; Nepal in 2015 after a major earthquake. These designations were repeatedly extended due to ongoing humanitarian crises.\n\nDuring the first Trump administration, DHS announced TPS terminations between 2017 and 2018, affecting over 400,000 people. Federal courts blocked those terminations, finding they stemmed from a predetermined agenda to end TPS and were tainted by discriminatory animus against non-white immigrants. DHS rescinded those terminations in 2023.\n\nPlaintiffs alleged that the second Trump administration renewed this agenda under Executive Order 14159, titled \u201cProtecting the American People Against Invasion,\u201d which directed DHS to rescind prior TPS-related policies and prioritize the removal of non-citizens. Plaintiffs asserted that Secretary Noem\u2019s TPS terminations were preordained, based on a superficial review, and motivated by racial and national-origin animus, citing public statements by Noem, President Trump, and Vice President Vance. Plaintiffs challenged the truncated 60-day transition period\u2014the minimum statutory notice before TPS termination became effective, a significant departure from historical practice\u2014as violating the equal protection guarantee implicit in the Due Process Clause of the Fifth Amendment and alleged that DHS breached statutory requirements and the Administrative Procedure Act.\n\nRepresented by nonprofit immigrant rights attorneys, plaintiffs sought an injunction barring DHS from enforcing the terminations and an order maintaining TPS protections. They also sought to have the court set aside, postpone, or stay the terminations, enjoin enforcement, and award attorneys\u2019 fees and costs.\n\nOn July 11, 2025, Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the effective date of the TPS terminations.\n\nOn July 31, 2025, the court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until a hearing on the merits scheduled for November 18, 2025. In its order, the court wrote, \u201cThe freedom to live fearlessly, the opportunity of liberty, and the American dream. That is all Plaintiffs seek. Instead, they are told to atone for their race, leave because of their names, and purify their blood. The Court disagrees.\u201d\n\nThe court found that the plaintiffs were likely to succeed on the merits of their claims that the TPS terminations were preordained and not based on an objective assessment of country conditions. The court cited comments made by Secretary Noem before she reviewed any country conditions reports, which suggested a predetermined intent to end the TPS program. The court also found that the terminations failed to address data previously considered relevant, including political violence and crime in Honduras and recurring weather events in Nicaragua. The court determined that terminating TPS would cause irreparable harm to the plaintiffs and that the balance of harms and the public interest weighed in favor of postponement. Judge Thompson concluded that the court had jurisdiction to review the case and that the requested relief to postpone the terminations fell within the scope of the Administrative Procedure Act.\n\nThat same day, the defendants filed an emergency motion to stay the court\u2019s July 31 order. The defendants argued that they were likely to prevail on appeal, citing the Supreme Court\u2019s decision in Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.), where the district court had erroneously concluded that the Secretary\u2019s action vacating a prior extension of TPS for certain Venezuelans exceeded her statutory authority. The defendants also contended that the court lacked jurisdiction to grant the plaintiffs\u2019 requested relief because the TPS statute explicitly barred judicial review of any decision to terminate a TPS designation. The defendants further argued that the balance of harms favored a stay, asserting that the government suffered irreparable harm when its policies were enjoined. Finally, the defendants maintained that the plaintiffs\u2019 claims were without merit.\n\nOn August 1, 2025, the defendants appealed the July 31 order to the Ninth Circuit.\n\nThis case is ongoing.",
+    "target_paragraph": "The court found that the plaintiffs were likely to succeed on the merits of their claims that the TPS terminations were preordained and not based on an objective assessment of country conditions. The court cited comments made by Secretary Noem before she reviewed any country conditions reports, which suggested a predetermined intent to end the TPS program. The court also found that the terminations failed to address data previously considered relevant, including political violence and crime in Honduras and recurring weather events in Nicaragua. The court determined that terminating TPS would cause irreparable harm to the plaintiffs and that the balance of harms and the public interest weighed in favor of postponement. Judge Thompson concluded that the court had jurisdiction to review the case and that the requested relief to postpone the terminations fell within the scope of the Administrative Procedure Act.",
+    "target_paragraph_indices": [
+      3387,
+      4308
+    ],
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3387,
+            3582
+          ],
+          [
+            3583,
+            3745
+          ],
+          [
+            3746,
+            3937
+          ],
+          [
+            3938,
+            4114
+          ],
+          [
+            4115,
+            4308
+          ]
+        ],
+        "annotation": {
+          "explanation": "Findings supporting postponement order: likely success on merits; evidence of preordination; failure to address relevant data; irreparable harm; balance of harms and public interest favor postponement; court has jurisdiction and relief fits within the APA.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46773_p8",
+    "metadata": {
+      "case_id": "46773",
+      "paragraph_num": 8,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "That same day, the defendants filed an emergency motion to stay the court\u2019s July 31 order. The defen..."
+    },
+    "source": "",
+    "target": "This case is about the federal government\u2019s termination of Temporary Protected Status (TPS) for Honduras, Nepal, and Nicaragua. On July 7, 2025, the National TPS Alliance and private plaintiffs who are individual TPS holders filed this lawsuit in the U.S. District Court for the Northern District of California against the Department of Homeland Security (DHS), its Secretary, and the United States under the Administrative Procedure Act and the Fifth Amendment. The case was assigned to Judge Trina L. Thompson.\n\nThe complaint provided extensive background on the TPS program\u2019s purpose and statutory framework. Congress created TPS in 1990 to replace politically driven discretionary programs like \u201cextended voluntary departure\u201d with decisions based on clear humanitarian standards. TPS designations confer work authorization and protection from deportation. By statute, the Secretary must review country conditions before terminating any designation, with extensions effectively the default absent timely notice. Honduras and Nicaragua were designated in 1999 following Hurricane Mitch; Nepal in 2015 after a major earthquake. These designations were repeatedly extended due to ongoing humanitarian crises.\n\nDuring the first Trump administration, DHS announced TPS terminations between 2017 and 2018, affecting over 400,000 people. Federal courts blocked those terminations, finding they stemmed from a predetermined agenda to end TPS and were tainted by discriminatory animus against non-white immigrants. DHS rescinded those terminations in 2023.\n\nPlaintiffs alleged that the second Trump administration renewed this agenda under Executive Order 14159, titled \u201cProtecting the American People Against Invasion,\u201d which directed DHS to rescind prior TPS-related policies and prioritize the removal of non-citizens. Plaintiffs asserted that Secretary Noem\u2019s TPS terminations were preordained, based on a superficial review, and motivated by racial and national-origin animus, citing public statements by Noem, President Trump, and Vice President Vance. Plaintiffs challenged the truncated 60-day transition period\u2014the minimum statutory notice before TPS termination became effective, a significant departure from historical practice\u2014as violating the equal protection guarantee implicit in the Due Process Clause of the Fifth Amendment and alleged that DHS breached statutory requirements and the Administrative Procedure Act.\n\nRepresented by nonprofit immigrant rights attorneys, plaintiffs sought an injunction barring DHS from enforcing the terminations and an order maintaining TPS protections. They also sought to have the court set aside, postpone, or stay the terminations, enjoin enforcement, and award attorneys\u2019 fees and costs.\n\nOn July 11, 2025, Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the effective date of the TPS terminations.\n\nOn July 31, 2025, the court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until a hearing on the merits scheduled for November 18, 2025. In its order, the court wrote, \u201cThe freedom to live fearlessly, the opportunity of liberty, and the American dream. That is all Plaintiffs seek. Instead, they are told to atone for their race, leave because of their names, and purify their blood. The Court disagrees.\u201d\n\nThe court found that the plaintiffs were likely to succeed on the merits of their claims that the TPS terminations were preordained and not based on an objective assessment of country conditions. The court cited comments made by Secretary Noem before she reviewed any country conditions reports, which suggested a predetermined intent to end the TPS program. The court also found that the terminations failed to address data previously considered relevant, including political violence and crime in Honduras and recurring weather events in Nicaragua. The court determined that terminating TPS would cause irreparable harm to the plaintiffs and that the balance of harms and the public interest weighed in favor of postponement. Judge Thompson concluded that the court had jurisdiction to review the case and that the requested relief to postpone the terminations fell within the scope of the Administrative Procedure Act.\n\nThat same day, the defendants filed an emergency motion to stay the court\u2019s July 31 order. The defendants argued that they were likely to prevail on appeal, citing the Supreme Court\u2019s decision in Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.), where the district court had erroneously concluded that the Secretary\u2019s action vacating a prior extension of TPS for certain Venezuelans exceeded her statutory authority. The defendants also contended that the court lacked jurisdiction to grant the plaintiffs\u2019 requested relief because the TPS statute explicitly barred judicial review of any decision to terminate a TPS designation. The defendants further argued that the balance of harms favored a stay, asserting that the government suffered irreparable harm when its policies were enjoined. Finally, the defendants maintained that the plaintiffs\u2019 claims were without merit.\n\nOn August 1, 2025, the defendants appealed the July 31 order to the Ninth Circuit.\n\nThis case is ongoing.",
+    "target_paragraph": "That same day, the defendants filed an emergency motion to stay the court\u2019s July 31 order. The defendants argued that they were likely to prevail on appeal, citing the Supreme Court\u2019s decision in Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.), where the district court had erroneously concluded that the Secretary\u2019s action vacating a prior extension of TPS for certain Venezuelans exceeded her statutory authority. The defendants also contended that the court lacked jurisdiction to grant the plaintiffs\u2019 requested relief because the TPS statute explicitly barred judicial review of any decision to terminate a TPS designation. The defendants further argued that the balance of harms favored a stay, asserting that the government suffered irreparable harm when its policies were enjoined. Finally, the defendants maintained that the plaintiffs\u2019 claims were without merit.",
+    "target_paragraph_indices": [
+      4310,
+      5196
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            4474,
+            4739
+          ]
+        ],
+        "annotation": {
+          "explanation": "Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.)",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            4401,
+            4739
+          ]
+        ],
+        "annotation": {
+          "explanation": "Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.) \u2014 cited by defendants in their emergency motion to stay as a Supreme Court decision; involved whether the Secretary exceeded statutory authority by vacating a prior TPS extension for certain Venezuelans.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4310,
+            4400
+          ],
+          [
+            4401,
+            4739
+          ],
+          [
+            4740,
+            4952
+          ],
+          [
+            4953,
+            5113
+          ],
+          [
+            5114,
+            5196
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 emergency stay motion: argued likely success on appeal citing Noem v. National TPS Alliance; claimed TPS statute bars judicial review of termination decisions; asserted government irreparable harm from injunctions; and contended plaintiffs\u2019 claims lack merit.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4310,
+            4400
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 emergency motion to stay the July 31, 2025 order; filed July 31, 2025 (no ruling stated).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4310,
+            4400
+          ],
+          [
+            4401,
+            4739
+          ],
+          [
+            4740,
+            4952
+          ],
+          [
+            4953,
+            5113
+          ],
+          [
+            5114,
+            5196
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related motion: On July 31, 2025, defendants filed an emergency motion to stay the order, arguing likely success on appeal (citing Noem v. National TPS Alliance), lack of jurisdiction under the TPS statute, balance of harms favoring a stay due to government irreparable harm, and that plaintiffs\u2019 claims lack merit.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46773_p9",
+    "metadata": {
+      "case_id": "46773",
+      "paragraph_num": 9,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 1, 2025, the defendants appealed the July 31 order to the Ninth Circuit."
+    },
+    "source": "",
+    "target": "This case is about the federal government\u2019s termination of Temporary Protected Status (TPS) for Honduras, Nepal, and Nicaragua. On July 7, 2025, the National TPS Alliance and private plaintiffs who are individual TPS holders filed this lawsuit in the U.S. District Court for the Northern District of California against the Department of Homeland Security (DHS), its Secretary, and the United States under the Administrative Procedure Act and the Fifth Amendment. The case was assigned to Judge Trina L. Thompson.\n\nThe complaint provided extensive background on the TPS program\u2019s purpose and statutory framework. Congress created TPS in 1990 to replace politically driven discretionary programs like \u201cextended voluntary departure\u201d with decisions based on clear humanitarian standards. TPS designations confer work authorization and protection from deportation. By statute, the Secretary must review country conditions before terminating any designation, with extensions effectively the default absent timely notice. Honduras and Nicaragua were designated in 1999 following Hurricane Mitch; Nepal in 2015 after a major earthquake. These designations were repeatedly extended due to ongoing humanitarian crises.\n\nDuring the first Trump administration, DHS announced TPS terminations between 2017 and 2018, affecting over 400,000 people. Federal courts blocked those terminations, finding they stemmed from a predetermined agenda to end TPS and were tainted by discriminatory animus against non-white immigrants. DHS rescinded those terminations in 2023.\n\nPlaintiffs alleged that the second Trump administration renewed this agenda under Executive Order 14159, titled \u201cProtecting the American People Against Invasion,\u201d which directed DHS to rescind prior TPS-related policies and prioritize the removal of non-citizens. Plaintiffs asserted that Secretary Noem\u2019s TPS terminations were preordained, based on a superficial review, and motivated by racial and national-origin animus, citing public statements by Noem, President Trump, and Vice President Vance. Plaintiffs challenged the truncated 60-day transition period\u2014the minimum statutory notice before TPS termination became effective, a significant departure from historical practice\u2014as violating the equal protection guarantee implicit in the Due Process Clause of the Fifth Amendment and alleged that DHS breached statutory requirements and the Administrative Procedure Act.\n\nRepresented by nonprofit immigrant rights attorneys, plaintiffs sought an injunction barring DHS from enforcing the terminations and an order maintaining TPS protections. They also sought to have the court set aside, postpone, or stay the terminations, enjoin enforcement, and award attorneys\u2019 fees and costs.\n\nOn July 11, 2025, Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the effective date of the TPS terminations.\n\nOn July 31, 2025, the court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until a hearing on the merits scheduled for November 18, 2025. In its order, the court wrote, \u201cThe freedom to live fearlessly, the opportunity of liberty, and the American dream. That is all Plaintiffs seek. Instead, they are told to atone for their race, leave because of their names, and purify their blood. The Court disagrees.\u201d\n\nThe court found that the plaintiffs were likely to succeed on the merits of their claims that the TPS terminations were preordained and not based on an objective assessment of country conditions. The court cited comments made by Secretary Noem before she reviewed any country conditions reports, which suggested a predetermined intent to end the TPS program. The court also found that the terminations failed to address data previously considered relevant, including political violence and crime in Honduras and recurring weather events in Nicaragua. The court determined that terminating TPS would cause irreparable harm to the plaintiffs and that the balance of harms and the public interest weighed in favor of postponement. Judge Thompson concluded that the court had jurisdiction to review the case and that the requested relief to postpone the terminations fell within the scope of the Administrative Procedure Act.\n\nThat same day, the defendants filed an emergency motion to stay the court\u2019s July 31 order. The defendants argued that they were likely to prevail on appeal, citing the Supreme Court\u2019s decision in Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.), where the district court had erroneously concluded that the Secretary\u2019s action vacating a prior extension of TPS for certain Venezuelans exceeded her statutory authority. The defendants also contended that the court lacked jurisdiction to grant the plaintiffs\u2019 requested relief because the TPS statute explicitly barred judicial review of any decision to terminate a TPS designation. The defendants further argued that the balance of harms favored a stay, asserting that the government suffered irreparable harm when its policies were enjoined. Finally, the defendants maintained that the plaintiffs\u2019 claims were without merit.\n\nOn August 1, 2025, the defendants appealed the July 31 order to the Ninth Circuit.\n\nThis case is ongoing.",
+    "target_paragraph": "On August 1, 2025, the defendants appealed the July 31 order to the Ninth Circuit.",
+    "target_paragraph_indices": [
+      5198,
+      5280
+    ],
+    "edits": [
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            5198,
+            5280
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: Defendants appealed to the Ninth Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5198,
+            5280
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants appealed the postponement order to the Ninth Circuit on August 1, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5198,
+            5280
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a notice of appeal on August 1, 2025, appealing the July 31 order to the Ninth Circuit.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5198,
+            5280
+          ],
+          [
+            5282,
+            5303
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal/status: Defendants appealed the July 31, 2025 order to the Ninth Circuit on August 1, 2025; the case remains ongoing.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46773_p10",
+    "metadata": {
+      "case_id": "46773",
+      "paragraph_num": 10,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "This case is about the federal government\u2019s termination of Temporary Protected Status (TPS) for Honduras, Nepal, and Nicaragua. On July 7, 2025, the National TPS Alliance and private plaintiffs who are individual TPS holders filed this lawsuit in the U.S. District Court for the Northern District of California against the Department of Homeland Security (DHS), its Secretary, and the United States under the Administrative Procedure Act and the Fifth Amendment. The case was assigned to Judge Trina L. Thompson.\n\nThe complaint provided extensive background on the TPS program\u2019s purpose and statutory framework. Congress created TPS in 1990 to replace politically driven discretionary programs like \u201cextended voluntary departure\u201d with decisions based on clear humanitarian standards. TPS designations confer work authorization and protection from deportation. By statute, the Secretary must review country conditions before terminating any designation, with extensions effectively the default absent timely notice. Honduras and Nicaragua were designated in 1999 following Hurricane Mitch; Nepal in 2015 after a major earthquake. These designations were repeatedly extended due to ongoing humanitarian crises.\n\nDuring the first Trump administration, DHS announced TPS terminations between 2017 and 2018, affecting over 400,000 people. Federal courts blocked those terminations, finding they stemmed from a predetermined agenda to end TPS and were tainted by discriminatory animus against non-white immigrants. DHS rescinded those terminations in 2023.\n\nPlaintiffs alleged that the second Trump administration renewed this agenda under Executive Order 14159, titled \u201cProtecting the American People Against Invasion,\u201d which directed DHS to rescind prior TPS-related policies and prioritize the removal of non-citizens. Plaintiffs asserted that Secretary Noem\u2019s TPS terminations were preordained, based on a superficial review, and motivated by racial and national-origin animus, citing public statements by Noem, President Trump, and Vice President Vance. Plaintiffs challenged the truncated 60-day transition period\u2014the minimum statutory notice before TPS termination became effective, a significant departure from historical practice\u2014as violating the equal protection guarantee implicit in the Due Process Clause of the Fifth Amendment and alleged that DHS breached statutory requirements and the Administrative Procedure Act.\n\nRepresented by nonprofit immigrant rights attorneys, plaintiffs sought an injunction barring DHS from enforcing the terminations and an order maintaining TPS protections. They also sought to have the court set aside, postpone, or stay the terminations, enjoin enforcement, and award attorneys\u2019 fees and costs.\n\nOn July 11, 2025, Judge Thompson granted plaintiffs\u2019 motion to expedite briefing and hearing on their request to postpone the effective date of the TPS terminations.\n\nOn July 31, 2025, the court granted the plaintiffs\u2019 motion to postpone the effective date of the TPS terminations for Honduras, Nicaragua, and Nepal until a hearing on the merits scheduled for November 18, 2025. In its order, the court wrote, \u201cThe freedom to live fearlessly, the opportunity of liberty, and the American dream. That is all Plaintiffs seek. Instead, they are told to atone for their race, leave because of their names, and purify their blood. The Court disagrees.\u201d\n\nThe court found that the plaintiffs were likely to succeed on the merits of their claims that the TPS terminations were preordained and not based on an objective assessment of country conditions. The court cited comments made by Secretary Noem before she reviewed any country conditions reports, which suggested a predetermined intent to end the TPS program. The court also found that the terminations failed to address data previously considered relevant, including political violence and crime in Honduras and recurring weather events in Nicaragua. The court determined that terminating TPS would cause irreparable harm to the plaintiffs and that the balance of harms and the public interest weighed in favor of postponement. Judge Thompson concluded that the court had jurisdiction to review the case and that the requested relief to postpone the terminations fell within the scope of the Administrative Procedure Act.\n\nThat same day, the defendants filed an emergency motion to stay the court\u2019s July 31 order. The defendants argued that they were likely to prevail on appeal, citing the Supreme Court\u2019s decision in Noem v. National TPS Alliance, No. 25 cv 1766 EMC (N.D. Cal.), where the district court had erroneously concluded that the Secretary\u2019s action vacating a prior extension of TPS for certain Venezuelans exceeded her statutory authority. The defendants also contended that the court lacked jurisdiction to grant the plaintiffs\u2019 requested relief because the TPS statute explicitly barred judicial review of any decision to terminate a TPS designation. The defendants further argued that the balance of harms favored a stay, asserting that the government suffered irreparable harm when its policies were enjoined. Finally, the defendants maintained that the plaintiffs\u2019 claims were without merit.\n\nOn August 1, 2025, the defendants appealed the July 31 order to the Ninth Circuit.\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      5282,
+      5303
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5282,
+            5303
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

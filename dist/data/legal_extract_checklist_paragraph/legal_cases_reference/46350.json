@@ -1,0 +1,1516 @@
+[
+  {
+    "id": "46350_p0",
+    "metadata": {
+      "case_id": "46350",
+      "paragraph_num": 0,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, Count..."
+    },
+    "source": "",
+    "target": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) filed this lawsuit in the U.S. District Court for the District of Columbia, challenging the Trump administration\u2019s attempt to dismantle the Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide. The defendants include the Institute of Museum and Library Services and its Acting Director, President Trump, DOGE, and the U.S. Office of Management and Budget and its Director.\n\nThe plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureaucracy,\" and signed on March 14, 2025, which directed the Institute of Museum and Library Services and other federal agencies to eliminate all programs and terminate all staff not required by statute. After the EO was issued, the Department of Government Efficiency (DOGE) gutted the Institute of Museum and Library Services, terminating nearly all employees and canceling its grants. The plaintiffs allege that the defendant's actions violated the Separation of Powers, the Take Care Clause, the Administrative Procedure Act, and the First Amendment. The plaintiffs seek declaratory and injunctive relief to stop the dismantling of IMLS, reinstate its grants and staff, restore agency functions and access to appropriated funds, and bar the defendants from dissolving IMLS absent Congress's authorization. The case is assigned to District Judge Richard J. Leon.\n\nThe plaintiffs sought a preliminary injunction; the court decided to consider a temporary restraining order first, while it consider the preliminary injunction request.\u00a0 After a hearing on April 30, 2025, the court granted a temporary restraining order on May 1, finding:\n\n\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear statutory mandates outlined in the MLSA [Museum and Library Services Act] See, e.g., 20 U.S.C. \u00a7 9103(a)(3) (The Director \"shall be appointed from among individuals who have special competence with regard to library and information services\" or \"special competence with regard to museum services\"); id. \u00a7 9108(a) (\"The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation's museum, library, and information services.\"); id.\u00a7 9131(b) (\"From the sums appropriated ... the Director shall award grants from minimum allotments [ of $680,000] . . . to each State.\"); id. \u00a7 9161 (\"[T]he Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians.\"); id. \u00a7 9162(a) (\"[T]he Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums .... \"). Moreover, defendants' conduct contravenes Congress's appropriation of almost $300 million to IMLS. Plaintiffs are therefore likely to succeed in showing that defendants' actions to unilaterally shutter IMLS violate, at minimum, the Administrative Procedure Act.\n\nMoreover, the court found that plaintiffs have provided evidence of significant and irreparable injury -- \"that the grant terminations, loss of access to IMLS expertise and services, and loss of access to IMLS data have forced libraries to end programs midstream, fire employees, and, in some cases, completely shutter.\"\n\nAccordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injunction request was pending. On May 6, defendants filed a motion for reconsideration of the court's TRO order, citing the D.C. Circuit's May 3 decision to stay an analogous order in a similar case, Widakuswara v. Lake. [../../../../case/46275/]\n\nThe following day, the court extended the TRO until May 29 to allow additional time for briefing and argument.\n\nOn May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved issues directly relevant to this case. To avoid issuing a premature ruling on the PI, the court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion. The parties submitted their respective responses, with defendants objecting to the extension and plaintiffs consenting to it. The TRO expired on May 29, 2025.\n\nOn June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, canceling, or otherwise terminating IMLS grants or contracts, or from withholding disbursement of funds in accordance with such grants or contracts. In the alternative, plaintiffs requested that the court rule on their motion for a PI within seven days.\n\nOn June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme Court and Circuit Judges that actions seeking reinstatement of federal grants fall within the jurisdiction of the Court of Federal Claims rather than the district courts. It further ordered the parties to file a joint status report proposing next steps by June 13, 2025, and denied plaintiffs' June 2 motion as moot.\n\nThe parties filed a joint status report on June 13, outlining defendants' intention to file a motion to dismiss and plaintiffs' proposal to proceed with expedited summary judgment briefing.\n\nThis case is ongoing.",
+    "target_paragraph": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) filed this lawsuit in the U.S. District Court for the District of Columbia, challenging the Trump administration\u2019s attempt to dismantle the Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide. The defendants include the Institute of Museum and Library Services and its Acting Director, President Trump, DOGE, and the U.S. Office of Management and Budget and its Director.",
+    "target_paragraph_indices": [
+      0,
+      592
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            0,
+            220
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 7, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            0,
+            413
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME)",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            219
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: American Library Association (ALA)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            219
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            281,
+            413
+          ],
+          [
+            414,
+            592
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            414,
+            592
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Director of the Institute of Museum and Library Services",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            414,
+            592
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: President Trump",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            414,
+            592
+          ],
+          [
+            893,
+            1076
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Government Efficiency (DOGE)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            414,
+            592
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Office of Management and Budget (OMB)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            414,
+            592
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Director of the U.S. Office of Management and Budget",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            413
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs ALA and AFSCME filed suit on April 7, 2025 in the U.S. District Court for the District of Columbia challenging efforts to dismantle IMLS.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            414,
+            592
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants are IMLS and its Acting Director, President Trump, the Department of Government Efficiency (DOGE), and the Office of Management and Budget and its Director.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            0,
+            220
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on April 7, 2025, in the U.S. District Court for the District of Columbia.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            0,
+            413
+          ],
+          [
+            1499,
+            1554
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed April 7, 2025 in the U.S. District Court for the District of Columbia; assigned to District Judge Richard J. Leon.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": "46350_p1",
+    "metadata": {
+      "case_id": "46350",
+      "paragraph_num": 1,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureauc..."
+    },
+    "source": "",
+    "target": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) filed this lawsuit in the U.S. District Court for the District of Columbia, challenging the Trump administration\u2019s attempt to dismantle the Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide. The defendants include the Institute of Museum and Library Services and its Acting Director, President Trump, DOGE, and the U.S. Office of Management and Budget and its Director.\n\nThe plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureaucracy,\" and signed on March 14, 2025, which directed the Institute of Museum and Library Services and other federal agencies to eliminate all programs and terminate all staff not required by statute. After the EO was issued, the Department of Government Efficiency (DOGE) gutted the Institute of Museum and Library Services, terminating nearly all employees and canceling its grants. The plaintiffs allege that the defendant's actions violated the Separation of Powers, the Take Care Clause, the Administrative Procedure Act, and the First Amendment. The plaintiffs seek declaratory and injunctive relief to stop the dismantling of IMLS, reinstate its grants and staff, restore agency functions and access to appropriated funds, and bar the defendants from dissolving IMLS absent Congress's authorization. The case is assigned to District Judge Richard J. Leon.\n\nThe plaintiffs sought a preliminary injunction; the court decided to consider a temporary restraining order first, while it consider the preliminary injunction request.\u00a0 After a hearing on April 30, 2025, the court granted a temporary restraining order on May 1, finding:\n\n\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear statutory mandates outlined in the MLSA [Museum and Library Services Act] See, e.g., 20 U.S.C. \u00a7 9103(a)(3) (The Director \"shall be appointed from among individuals who have special competence with regard to library and information services\" or \"special competence with regard to museum services\"); id. \u00a7 9108(a) (\"The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation's museum, library, and information services.\"); id.\u00a7 9131(b) (\"From the sums appropriated ... the Director shall award grants from minimum allotments [ of $680,000] . . . to each State.\"); id. \u00a7 9161 (\"[T]he Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians.\"); id. \u00a7 9162(a) (\"[T]he Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums .... \"). Moreover, defendants' conduct contravenes Congress's appropriation of almost $300 million to IMLS. Plaintiffs are therefore likely to succeed in showing that defendants' actions to unilaterally shutter IMLS violate, at minimum, the Administrative Procedure Act.\n\nMoreover, the court found that plaintiffs have provided evidence of significant and irreparable injury -- \"that the grant terminations, loss of access to IMLS expertise and services, and loss of access to IMLS data have forced libraries to end programs midstream, fire employees, and, in some cases, completely shutter.\"\n\nAccordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injunction request was pending. On May 6, defendants filed a motion for reconsideration of the court's TRO order, citing the D.C. Circuit's May 3 decision to stay an analogous order in a similar case, Widakuswara v. Lake. [../../../../case/46275/]\n\nThe following day, the court extended the TRO until May 29 to allow additional time for briefing and argument.\n\nOn May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved issues directly relevant to this case. To avoid issuing a premature ruling on the PI, the court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion. The parties submitted their respective responses, with defendants objecting to the extension and plaintiffs consenting to it. The TRO expired on May 29, 2025.\n\nOn June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, canceling, or otherwise terminating IMLS grants or contracts, or from withholding disbursement of funds in accordance with such grants or contracts. In the alternative, plaintiffs requested that the court rule on their motion for a PI within seven days.\n\nOn June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme Court and Circuit Judges that actions seeking reinstatement of federal grants fall within the jurisdiction of the Court of Federal Claims rather than the district courts. It further ordered the parties to file a joint status report proposing next steps by June 13, 2025, and denied plaintiffs' June 2 motion as moot.\n\nThe parties filed a joint status report on June 13, outlining defendants' intention to file a motion to dismiss and plaintiffs' proposal to proceed with expedited summary judgment briefing.\n\nThis case is ongoing.",
+    "target_paragraph": "The plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureaucracy,\" and signed on March 14, 2025, which directed the Institute of Museum and Library Services and other federal agencies to eliminate all programs and terminate all staff not required by statute. After the EO was issued, the Department of Government Efficiency (DOGE) gutted the Institute of Museum and Library Services, terminating nearly all employees and canceling its grants. The plaintiffs allege that the defendant's actions violated the Separation of Powers, the Take Care Clause, the Administrative Procedure Act, and the First Amendment. The plaintiffs seek declaratory and injunctive relief to stop the dismantling of IMLS, reinstate its grants and staff, restore agency functions and access to appropriated funds, and bar the defendants from dissolving IMLS absent Congress's authorization. The case is assigned to District Judge Richard J. Leon.",
+    "target_paragraph_indices": [
+      594,
+      1554
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1077,
+            1243
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) claim, premised on violations of the Museum and Library Services Act (20 U.S.C. \u00a7\u00a7 9103(a)(3), 9108(a), 9131(b), 9161, 9162(a))",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1077,
+            1243
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim: Separation of Powers",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1077,
+            1243
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim: Take Care Clause",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1077,
+            1243
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim: First Amendment",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1077,
+            1243
+          ],
+          [
+            3065,
+            3227
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1077,
+            1243
+          ]
+        ],
+        "annotation": {
+          "explanation": "Separation of Powers (constitutional principle)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1077,
+            1243
+          ]
+        ],
+        "annotation": {
+          "explanation": "Take Care Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1077,
+            1243
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1244,
+            1498
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory and injunctive relief to stop dismantling IMLS; reinstate IMLS grants and staff; restore agency functions and access to appropriated funds; and bar defendants from dissolving IMLS absent congressional authorization.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1499,
+            1554
+          ]
+        ],
+        "annotation": {
+          "explanation": "Richard J. Leon",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            620,
+            892
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 14, 2025: Executive Order 14238 (\u201cContinuing Reduction of the Federal Bureaucracy\u201d) signed.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            594,
+            892
+          ]
+        ],
+        "annotation": {
+          "explanation": "Executive Order 14238 (signed March 14, 2025) directed IMLS and other agencies to eliminate all programs and terminate all staff not required by statute.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            893,
+            1076
+          ]
+        ],
+        "annotation": {
+          "explanation": "Following the EO, DOGE gutted IMLS by terminating nearly all employees and canceling its grants.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1244,
+            1498
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: stop dismantling of IMLS, reinstate grants and staff, restore agency operations and access to appropriated funds, and prevent dissolution of IMLS without congressional authorization.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1077,
+            1243
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background legal context: plaintiffs allege violations of the Separation of Powers, Take Care Clause, Administrative Procedure Act, and First Amendment.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1499,
+            1554
+          ]
+        ],
+        "annotation": {
+          "explanation": "Assigned judge: District Judge Richard J. Leon.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": "46350_p2",
+    "metadata": {
+      "case_id": "46350",
+      "paragraph_num": 2,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs sought a preliminary injunction; the court decided to consider a temporary restrainin..."
+    },
+    "source": "",
+    "target": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) filed this lawsuit in the U.S. District Court for the District of Columbia, challenging the Trump administration\u2019s attempt to dismantle the Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide. The defendants include the Institute of Museum and Library Services and its Acting Director, President Trump, DOGE, and the U.S. Office of Management and Budget and its Director.\n\nThe plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureaucracy,\" and signed on March 14, 2025, which directed the Institute of Museum and Library Services and other federal agencies to eliminate all programs and terminate all staff not required by statute. After the EO was issued, the Department of Government Efficiency (DOGE) gutted the Institute of Museum and Library Services, terminating nearly all employees and canceling its grants. The plaintiffs allege that the defendant's actions violated the Separation of Powers, the Take Care Clause, the Administrative Procedure Act, and the First Amendment. The plaintiffs seek declaratory and injunctive relief to stop the dismantling of IMLS, reinstate its grants and staff, restore agency functions and access to appropriated funds, and bar the defendants from dissolving IMLS absent Congress's authorization. The case is assigned to District Judge Richard J. Leon.\n\nThe plaintiffs sought a preliminary injunction; the court decided to consider a temporary restraining order first, while it consider the preliminary injunction request.\u00a0 After a hearing on April 30, 2025, the court granted a temporary restraining order on May 1, finding:\n\n\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear statutory mandates outlined in the MLSA [Museum and Library Services Act] See, e.g., 20 U.S.C. \u00a7 9103(a)(3) (The Director \"shall be appointed from among individuals who have special competence with regard to library and information services\" or \"special competence with regard to museum services\"); id. \u00a7 9108(a) (\"The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation's museum, library, and information services.\"); id.\u00a7 9131(b) (\"From the sums appropriated ... the Director shall award grants from minimum allotments [ of $680,000] . . . to each State.\"); id. \u00a7 9161 (\"[T]he Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians.\"); id. \u00a7 9162(a) (\"[T]he Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums .... \"). Moreover, defendants' conduct contravenes Congress's appropriation of almost $300 million to IMLS. Plaintiffs are therefore likely to succeed in showing that defendants' actions to unilaterally shutter IMLS violate, at minimum, the Administrative Procedure Act.\n\nMoreover, the court found that plaintiffs have provided evidence of significant and irreparable injury -- \"that the grant terminations, loss of access to IMLS expertise and services, and loss of access to IMLS data have forced libraries to end programs midstream, fire employees, and, in some cases, completely shutter.\"\n\nAccordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injunction request was pending. On May 6, defendants filed a motion for reconsideration of the court's TRO order, citing the D.C. Circuit's May 3 decision to stay an analogous order in a similar case, Widakuswara v. Lake. [../../../../case/46275/]\n\nThe following day, the court extended the TRO until May 29 to allow additional time for briefing and argument.\n\nOn May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved issues directly relevant to this case. To avoid issuing a premature ruling on the PI, the court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion. The parties submitted their respective responses, with defendants objecting to the extension and plaintiffs consenting to it. The TRO expired on May 29, 2025.\n\nOn June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, canceling, or otherwise terminating IMLS grants or contracts, or from withholding disbursement of funds in accordance with such grants or contracts. In the alternative, plaintiffs requested that the court rule on their motion for a PI within seven days.\n\nOn June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme Court and Circuit Judges that actions seeking reinstatement of federal grants fall within the jurisdiction of the Court of Federal Claims rather than the district courts. It further ordered the parties to file a joint status report proposing next steps by June 13, 2025, and denied plaintiffs' June 2 motion as moot.\n\nThe parties filed a joint status report on June 13, outlining defendants' intention to file a motion to dismiss and plaintiffs' proposal to proceed with expedited summary judgment briefing.\n\nThis case is ongoing.",
+    "target_paragraph": "The plaintiffs sought a preliminary injunction; the court decided to consider a temporary restraining order first, while it consider the preliminary injunction request.\u00a0 After a hearing on April 30, 2025, the court granted a temporary restraining order on May 1, finding:",
+    "target_paragraph_indices": [
+      1556,
+      1827
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1556,
+            1724
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            1726,
+            1827
+          ],
+          [
+            3551,
+            3677
+          ],
+          [
+            3895,
+            4005
+          ],
+          [
+            4465,
+            4497
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 1, 2025\u2013May 29, 2025: Temporary restraining order enjoining any further diminution of MLS's capacity while the preliminary injunction request was pending; extended on May 7, 2025, to remain in effect until May 29, 2025; expired May 29, 2025.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            2,
+            5,
+            6,
+            7
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1726,
+            1827
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 1, 2025: Court granted a temporary restraining order.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1556,
+            1724
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs moved for a preliminary injunction; the court prioritized addressing a TRO first while the PI motion remained pending.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1726,
+            1827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order granted on May 1, 2025 (after an April 30 hearing).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1726,
+            1827
+          ],
+          [
+            3551,
+            3677
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants are enjoined from any further diminution of MLS's capacity while the preliminary injunction request is pending.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": [
+            2,
+            5
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1556,
+            1724
+          ]
+        ],
+        "annotation": {
+          "explanation": "Scheduling decision: Court elected to address a TRO before the preliminary injunction.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1726,
+            1827
+          ],
+          [
+            1829,
+            2035
+          ],
+          [
+            3065,
+            3227
+          ],
+          [
+            3229,
+            3549
+          ],
+          [
+            3551,
+            3677
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO hearing held April 30, 2025; TRO granted May 1, 2025. Court found likely success (statutory and APA violations) and irreparable harm, and enjoined further diminution of the agency\u2019s capacity pending the PI.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1726,
+            1827
+          ],
+          [
+            3551,
+            3677
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order granted on May 1, 2025, enjoining further diminution of IMLS\u2019s capacity (finding likely APA violation and irreparable harm).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            2,
+            5
+          ]
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46350_p3",
+    "metadata": {
+      "case_id": "46350",
+      "paragraph_num": 3,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear s..."
+    },
+    "source": "",
+    "target": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) filed this lawsuit in the U.S. District Court for the District of Columbia, challenging the Trump administration\u2019s attempt to dismantle the Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide. The defendants include the Institute of Museum and Library Services and its Acting Director, President Trump, DOGE, and the U.S. Office of Management and Budget and its Director.\n\nThe plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureaucracy,\" and signed on March 14, 2025, which directed the Institute of Museum and Library Services and other federal agencies to eliminate all programs and terminate all staff not required by statute. After the EO was issued, the Department of Government Efficiency (DOGE) gutted the Institute of Museum and Library Services, terminating nearly all employees and canceling its grants. The plaintiffs allege that the defendant's actions violated the Separation of Powers, the Take Care Clause, the Administrative Procedure Act, and the First Amendment. The plaintiffs seek declaratory and injunctive relief to stop the dismantling of IMLS, reinstate its grants and staff, restore agency functions and access to appropriated funds, and bar the defendants from dissolving IMLS absent Congress's authorization. The case is assigned to District Judge Richard J. Leon.\n\nThe plaintiffs sought a preliminary injunction; the court decided to consider a temporary restraining order first, while it consider the preliminary injunction request.\u00a0 After a hearing on April 30, 2025, the court granted a temporary restraining order on May 1, finding:\n\n\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear statutory mandates outlined in the MLSA [Museum and Library Services Act] See, e.g., 20 U.S.C. \u00a7 9103(a)(3) (The Director \"shall be appointed from among individuals who have special competence with regard to library and information services\" or \"special competence with regard to museum services\"); id. \u00a7 9108(a) (\"The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation's museum, library, and information services.\"); id.\u00a7 9131(b) (\"From the sums appropriated ... the Director shall award grants from minimum allotments [ of $680,000] . . . to each State.\"); id. \u00a7 9161 (\"[T]he Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians.\"); id. \u00a7 9162(a) (\"[T]he Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums .... \"). Moreover, defendants' conduct contravenes Congress's appropriation of almost $300 million to IMLS. Plaintiffs are therefore likely to succeed in showing that defendants' actions to unilaterally shutter IMLS violate, at minimum, the Administrative Procedure Act.\n\nMoreover, the court found that plaintiffs have provided evidence of significant and irreparable injury -- \"that the grant terminations, loss of access to IMLS expertise and services, and loss of access to IMLS data have forced libraries to end programs midstream, fire employees, and, in some cases, completely shutter.\"\n\nAccordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injunction request was pending. On May 6, defendants filed a motion for reconsideration of the court's TRO order, citing the D.C. Circuit's May 3 decision to stay an analogous order in a similar case, Widakuswara v. Lake. [../../../../case/46275/]\n\nThe following day, the court extended the TRO until May 29 to allow additional time for briefing and argument.\n\nOn May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved issues directly relevant to this case. To avoid issuing a premature ruling on the PI, the court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion. The parties submitted their respective responses, with defendants objecting to the extension and plaintiffs consenting to it. The TRO expired on May 29, 2025.\n\nOn June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, canceling, or otherwise terminating IMLS grants or contracts, or from withholding disbursement of funds in accordance with such grants or contracts. In the alternative, plaintiffs requested that the court rule on their motion for a PI within seven days.\n\nOn June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme Court and Circuit Judges that actions seeking reinstatement of federal grants fall within the jurisdiction of the Court of Federal Claims rather than the district courts. It further ordered the parties to file a joint status report proposing next steps by June 13, 2025, and denied plaintiffs' June 2 motion as moot.\n\nThe parties filed a joint status report on June 13, outlining defendants' intention to file a motion to dismiss and plaintiffs' proposal to proceed with expedited summary judgment briefing.\n\nThis case is ongoing.",
+    "target_paragraph": "\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear statutory mandates outlined in the MLSA [Museum and Library Services Act] See, e.g., 20 U.S.C. \u00a7 9103(a)(3) (The Director \"shall be appointed from among individuals who have special competence with regard to library and information services\" or \"special competence with regard to museum services\"); id. \u00a7 9108(a) (\"The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation's museum, library, and information services.\"); id.\u00a7 9131(b) (\"From the sums appropriated ... the Director shall award grants from minimum allotments [ of $680,000] . . . to each State.\"); id. \u00a7 9161 (\"[T]he Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians.\"); id. \u00a7 9162(a) (\"[T]he Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums .... \"). Moreover, defendants' conduct contravenes Congress's appropriation of almost $300 million to IMLS. Plaintiffs are therefore likely to succeed in showing that defendants' actions to unilaterally shutter IMLS violate, at minimum, the Administrative Procedure Act.",
+    "target_paragraph_indices": [
+      1829,
+      3227
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1829,
+            2533
+          ],
+          [
+            2538,
+            2956
+          ],
+          [
+            2960,
+            2965
+          ]
+        ],
+        "annotation": {
+          "explanation": "Museum and Library Services Act (MLSA), 20 U.S.C. \u00a7\u00a7 9103(a)(3), 9108(a), 9131(b), 9161, 9162(a)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1830,
+            2533
+          ],
+          [
+            2538,
+            2956
+          ],
+          [
+            2960,
+            2965
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory mandates under the Museum and Library Services Act require IMLS to maintain leadership, conduct research and data functions, and award grants (including minimum state allotments and grants to tribes and Native Hawaiian-serving organizations), which the mass layoffs and grant terminations appear to contravene.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2966,
+            3064
+          ]
+        ],
+        "annotation": {
+          "explanation": "Congress appropriated almost $300 million to IMLS; defendants\u2019 actions were found to contravene that appropriation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3065,
+            3227
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court found plaintiffs likely to succeed on the merits that unilaterally shuttering IMLS violates the Administrative Procedure Act.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46350_p4",
+    "metadata": {
+      "case_id": "46350",
+      "paragraph_num": 4,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Moreover, the court found that plaintiffs have provided evidence of significant and irreparable inju..."
+    },
+    "source": "",
+    "target": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) filed this lawsuit in the U.S. District Court for the District of Columbia, challenging the Trump administration\u2019s attempt to dismantle the Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide. The defendants include the Institute of Museum and Library Services and its Acting Director, President Trump, DOGE, and the U.S. Office of Management and Budget and its Director.\n\nThe plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureaucracy,\" and signed on March 14, 2025, which directed the Institute of Museum and Library Services and other federal agencies to eliminate all programs and terminate all staff not required by statute. After the EO was issued, the Department of Government Efficiency (DOGE) gutted the Institute of Museum and Library Services, terminating nearly all employees and canceling its grants. The plaintiffs allege that the defendant's actions violated the Separation of Powers, the Take Care Clause, the Administrative Procedure Act, and the First Amendment. The plaintiffs seek declaratory and injunctive relief to stop the dismantling of IMLS, reinstate its grants and staff, restore agency functions and access to appropriated funds, and bar the defendants from dissolving IMLS absent Congress's authorization. The case is assigned to District Judge Richard J. Leon.\n\nThe plaintiffs sought a preliminary injunction; the court decided to consider a temporary restraining order first, while it consider the preliminary injunction request.\u00a0 After a hearing on April 30, 2025, the court granted a temporary restraining order on May 1, finding:\n\n\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear statutory mandates outlined in the MLSA [Museum and Library Services Act] See, e.g., 20 U.S.C. \u00a7 9103(a)(3) (The Director \"shall be appointed from among individuals who have special competence with regard to library and information services\" or \"special competence with regard to museum services\"); id. \u00a7 9108(a) (\"The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation's museum, library, and information services.\"); id.\u00a7 9131(b) (\"From the sums appropriated ... the Director shall award grants from minimum allotments [ of $680,000] . . . to each State.\"); id. \u00a7 9161 (\"[T]he Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians.\"); id. \u00a7 9162(a) (\"[T]he Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums .... \"). Moreover, defendants' conduct contravenes Congress's appropriation of almost $300 million to IMLS. Plaintiffs are therefore likely to succeed in showing that defendants' actions to unilaterally shutter IMLS violate, at minimum, the Administrative Procedure Act.\n\nMoreover, the court found that plaintiffs have provided evidence of significant and irreparable injury -- \"that the grant terminations, loss of access to IMLS expertise and services, and loss of access to IMLS data have forced libraries to end programs midstream, fire employees, and, in some cases, completely shutter.\"\n\nAccordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injunction request was pending. On May 6, defendants filed a motion for reconsideration of the court's TRO order, citing the D.C. Circuit's May 3 decision to stay an analogous order in a similar case, Widakuswara v. Lake. [../../../../case/46275/]\n\nThe following day, the court extended the TRO until May 29 to allow additional time for briefing and argument.\n\nOn May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved issues directly relevant to this case. To avoid issuing a premature ruling on the PI, the court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion. The parties submitted their respective responses, with defendants objecting to the extension and plaintiffs consenting to it. The TRO expired on May 29, 2025.\n\nOn June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, canceling, or otherwise terminating IMLS grants or contracts, or from withholding disbursement of funds in accordance with such grants or contracts. In the alternative, plaintiffs requested that the court rule on their motion for a PI within seven days.\n\nOn June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme Court and Circuit Judges that actions seeking reinstatement of federal grants fall within the jurisdiction of the Court of Federal Claims rather than the district courts. It further ordered the parties to file a joint status report proposing next steps by June 13, 2025, and denied plaintiffs' June 2 motion as moot.\n\nThe parties filed a joint status report on June 13, outlining defendants' intention to file a motion to dismiss and plaintiffs' proposal to proceed with expedited summary judgment briefing.\n\nThis case is ongoing.",
+    "target_paragraph": "Moreover, the court found that plaintiffs have provided evidence of significant and irreparable injury -- \"that the grant terminations, loss of access to IMLS expertise and services, and loss of access to IMLS data have forced libraries to end programs midstream, fire employees, and, in some cases, completely shutter.\"",
+    "target_paragraph_indices": [
+      3229,
+      3549
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3229,
+            3549
+          ]
+        ],
+        "annotation": {
+          "explanation": "Evidence of irreparable harm includes terminated grants, loss of IMLS expertise/services/data, resulting in libraries ending programs midstream, firing employees, and in some cases completely shuttering.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46350_p5",
+    "metadata": {
+      "case_id": "46350",
+      "paragraph_num": 5,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Accordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injun..."
+    },
+    "source": "",
+    "target": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) filed this lawsuit in the U.S. District Court for the District of Columbia, challenging the Trump administration\u2019s attempt to dismantle the Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide. The defendants include the Institute of Museum and Library Services and its Acting Director, President Trump, DOGE, and the U.S. Office of Management and Budget and its Director.\n\nThe plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureaucracy,\" and signed on March 14, 2025, which directed the Institute of Museum and Library Services and other federal agencies to eliminate all programs and terminate all staff not required by statute. After the EO was issued, the Department of Government Efficiency (DOGE) gutted the Institute of Museum and Library Services, terminating nearly all employees and canceling its grants. The plaintiffs allege that the defendant's actions violated the Separation of Powers, the Take Care Clause, the Administrative Procedure Act, and the First Amendment. The plaintiffs seek declaratory and injunctive relief to stop the dismantling of IMLS, reinstate its grants and staff, restore agency functions and access to appropriated funds, and bar the defendants from dissolving IMLS absent Congress's authorization. The case is assigned to District Judge Richard J. Leon.\n\nThe plaintiffs sought a preliminary injunction; the court decided to consider a temporary restraining order first, while it consider the preliminary injunction request.\u00a0 After a hearing on April 30, 2025, the court granted a temporary restraining order on May 1, finding:\n\n\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear statutory mandates outlined in the MLSA [Museum and Library Services Act] See, e.g., 20 U.S.C. \u00a7 9103(a)(3) (The Director \"shall be appointed from among individuals who have special competence with regard to library and information services\" or \"special competence with regard to museum services\"); id. \u00a7 9108(a) (\"The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation's museum, library, and information services.\"); id.\u00a7 9131(b) (\"From the sums appropriated ... the Director shall award grants from minimum allotments [ of $680,000] . . . to each State.\"); id. \u00a7 9161 (\"[T]he Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians.\"); id. \u00a7 9162(a) (\"[T]he Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums .... \"). Moreover, defendants' conduct contravenes Congress's appropriation of almost $300 million to IMLS. Plaintiffs are therefore likely to succeed in showing that defendants' actions to unilaterally shutter IMLS violate, at minimum, the Administrative Procedure Act.\n\nMoreover, the court found that plaintiffs have provided evidence of significant and irreparable injury -- \"that the grant terminations, loss of access to IMLS expertise and services, and loss of access to IMLS data have forced libraries to end programs midstream, fire employees, and, in some cases, completely shutter.\"\n\nAccordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injunction request was pending. On May 6, defendants filed a motion for reconsideration of the court's TRO order, citing the D.C. Circuit's May 3 decision to stay an analogous order in a similar case, Widakuswara v. Lake. [../../../../case/46275/]\n\nThe following day, the court extended the TRO until May 29 to allow additional time for briefing and argument.\n\nOn May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved issues directly relevant to this case. To avoid issuing a premature ruling on the PI, the court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion. The parties submitted their respective responses, with defendants objecting to the extension and plaintiffs consenting to it. The TRO expired on May 29, 2025.\n\nOn June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, canceling, or otherwise terminating IMLS grants or contracts, or from withholding disbursement of funds in accordance with such grants or contracts. In the alternative, plaintiffs requested that the court rule on their motion for a PI within seven days.\n\nOn June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme Court and Circuit Judges that actions seeking reinstatement of federal grants fall within the jurisdiction of the Court of Federal Claims rather than the district courts. It further ordered the parties to file a joint status report proposing next steps by June 13, 2025, and denied plaintiffs' June 2 motion as moot.\n\nThe parties filed a joint status report on June 13, outlining defendants' intention to file a motion to dismiss and plaintiffs' proposal to proceed with expedited summary judgment briefing.\n\nThis case is ongoing.",
+    "target_paragraph": "Accordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injunction request was pending. On May 6, defendants filed a motion for reconsideration of the court's TRO order, citing the D.C. Circuit's May 3 decision to stay an analogous order in a similar case, Widakuswara v. Lake. [../../../../case/46275/]",
+    "target_paragraph_indices": [
+      3551,
+      3893
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3678,
+            3893
+          ],
+          [
+            4007,
+            4143
+          ]
+        ],
+        "annotation": {
+          "explanation": "Widakuswara v. Lake (D.C. Cir. May 3)",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": [
+            5,
+            7
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            3678,
+            3893
+          ],
+          [
+            4007,
+            4143
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: Widakuswara v. Lake (case code 46275). The D.C. Circuit stayed an analogous order (May 3) and later took the case en banc; defendants cited it for reconsideration, and the district court recognized it as directly relevant.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": [
+            5,
+            7
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3678,
+            3893
+          ],
+          [
+            3895,
+            4005
+          ],
+          [
+            4465,
+            4497
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 7, 2025: Court extended the temporary restraining order until May 29, 2025.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": [
+            5,
+            6,
+            7
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3678,
+            3893
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 3, 2025: D.C. Circuit decision to stay an analogous order in Widakuswara v. Lake.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3551,
+            3677
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court issued a TRO enjoining any further diminution of IMLS\u2019s capacity pending the PI decision.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3551,
+            3677
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO relief: the court enjoined any further diminution of IMLS\u2019s capacity pending the PI.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3678,
+            3893
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a motion for reconsideration of the TRO on May 6, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3551,
+            3677
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants are enjoined from any further diminution of IMLS\u2019s capacity while the preliminary injunction request is pending.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3678,
+            3893
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants moved for reconsideration of the TRO on May 6, 2025, citing the D.C. Circuit\u2019s stay in Widakuswara v. Lake.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46350_p6",
+    "metadata": {
+      "case_id": "46350",
+      "paragraph_num": 6,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The following day, the court extended the TRO until May 29 to allow additional time for briefing and..."
+    },
+    "source": "",
+    "target": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) filed this lawsuit in the U.S. District Court for the District of Columbia, challenging the Trump administration\u2019s attempt to dismantle the Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide. The defendants include the Institute of Museum and Library Services and its Acting Director, President Trump, DOGE, and the U.S. Office of Management and Budget and its Director.\n\nThe plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureaucracy,\" and signed on March 14, 2025, which directed the Institute of Museum and Library Services and other federal agencies to eliminate all programs and terminate all staff not required by statute. After the EO was issued, the Department of Government Efficiency (DOGE) gutted the Institute of Museum and Library Services, terminating nearly all employees and canceling its grants. The plaintiffs allege that the defendant's actions violated the Separation of Powers, the Take Care Clause, the Administrative Procedure Act, and the First Amendment. The plaintiffs seek declaratory and injunctive relief to stop the dismantling of IMLS, reinstate its grants and staff, restore agency functions and access to appropriated funds, and bar the defendants from dissolving IMLS absent Congress's authorization. The case is assigned to District Judge Richard J. Leon.\n\nThe plaintiffs sought a preliminary injunction; the court decided to consider a temporary restraining order first, while it consider the preliminary injunction request.\u00a0 After a hearing on April 30, 2025, the court granted a temporary restraining order on May 1, finding:\n\n\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear statutory mandates outlined in the MLSA [Museum and Library Services Act] See, e.g., 20 U.S.C. \u00a7 9103(a)(3) (The Director \"shall be appointed from among individuals who have special competence with regard to library and information services\" or \"special competence with regard to museum services\"); id. \u00a7 9108(a) (\"The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation's museum, library, and information services.\"); id.\u00a7 9131(b) (\"From the sums appropriated ... the Director shall award grants from minimum allotments [ of $680,000] . . . to each State.\"); id. \u00a7 9161 (\"[T]he Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians.\"); id. \u00a7 9162(a) (\"[T]he Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums .... \"). Moreover, defendants' conduct contravenes Congress's appropriation of almost $300 million to IMLS. Plaintiffs are therefore likely to succeed in showing that defendants' actions to unilaterally shutter IMLS violate, at minimum, the Administrative Procedure Act.\n\nMoreover, the court found that plaintiffs have provided evidence of significant and irreparable injury -- \"that the grant terminations, loss of access to IMLS expertise and services, and loss of access to IMLS data have forced libraries to end programs midstream, fire employees, and, in some cases, completely shutter.\"\n\nAccordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injunction request was pending. On May 6, defendants filed a motion for reconsideration of the court's TRO order, citing the D.C. Circuit's May 3 decision to stay an analogous order in a similar case, Widakuswara v. Lake. [../../../../case/46275/]\n\nThe following day, the court extended the TRO until May 29 to allow additional time for briefing and argument.\n\nOn May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved issues directly relevant to this case. To avoid issuing a premature ruling on the PI, the court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion. The parties submitted their respective responses, with defendants objecting to the extension and plaintiffs consenting to it. The TRO expired on May 29, 2025.\n\nOn June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, canceling, or otherwise terminating IMLS grants or contracts, or from withholding disbursement of funds in accordance with such grants or contracts. In the alternative, plaintiffs requested that the court rule on their motion for a PI within seven days.\n\nOn June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme Court and Circuit Judges that actions seeking reinstatement of federal grants fall within the jurisdiction of the Court of Federal Claims rather than the district courts. It further ordered the parties to file a joint status report proposing next steps by June 13, 2025, and denied plaintiffs' June 2 motion as moot.\n\nThe parties filed a joint status report on June 13, outlining defendants' intention to file a motion to dismiss and plaintiffs' proposal to proceed with expedited summary judgment briefing.\n\nThis case is ongoing.",
+    "target_paragraph": "The following day, the court extended the TRO until May 29 to allow additional time for briefing and argument.",
+    "target_paragraph_indices": [
+      3895,
+      4005
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3895,
+            4005
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court order extending the TRO until May 29, 2025 (issued May 7, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3895,
+            4005
+          ]
+        ],
+        "annotation": {
+          "explanation": "The TRO\u2019s injunctive restraint remained in effect through May 29, 2025.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3895,
+            4005
+          ],
+          [
+            4465,
+            4497
+          ]
+        ],
+        "annotation": {
+          "explanation": "The TRO remained in effect through May 29, 2025.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3895,
+            4005
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 7, 2025, the court extended the TRO to May 29, 2025 for additional briefing and argument.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3895,
+            4005
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO extended until May 29, 2025, to allow additional time for briefing and argument.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46350_p7",
+    "metadata": {
+      "case_id": "46350",
+      "paragraph_num": 7,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved is..."
+    },
+    "source": "",
+    "target": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) filed this lawsuit in the U.S. District Court for the District of Columbia, challenging the Trump administration\u2019s attempt to dismantle the Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide. The defendants include the Institute of Museum and Library Services and its Acting Director, President Trump, DOGE, and the U.S. Office of Management and Budget and its Director.\n\nThe plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureaucracy,\" and signed on March 14, 2025, which directed the Institute of Museum and Library Services and other federal agencies to eliminate all programs and terminate all staff not required by statute. After the EO was issued, the Department of Government Efficiency (DOGE) gutted the Institute of Museum and Library Services, terminating nearly all employees and canceling its grants. The plaintiffs allege that the defendant's actions violated the Separation of Powers, the Take Care Clause, the Administrative Procedure Act, and the First Amendment. The plaintiffs seek declaratory and injunctive relief to stop the dismantling of IMLS, reinstate its grants and staff, restore agency functions and access to appropriated funds, and bar the defendants from dissolving IMLS absent Congress's authorization. The case is assigned to District Judge Richard J. Leon.\n\nThe plaintiffs sought a preliminary injunction; the court decided to consider a temporary restraining order first, while it consider the preliminary injunction request.\u00a0 After a hearing on April 30, 2025, the court granted a temporary restraining order on May 1, finding:\n\n\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear statutory mandates outlined in the MLSA [Museum and Library Services Act] See, e.g., 20 U.S.C. \u00a7 9103(a)(3) (The Director \"shall be appointed from among individuals who have special competence with regard to library and information services\" or \"special competence with regard to museum services\"); id. \u00a7 9108(a) (\"The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation's museum, library, and information services.\"); id.\u00a7 9131(b) (\"From the sums appropriated ... the Director shall award grants from minimum allotments [ of $680,000] . . . to each State.\"); id. \u00a7 9161 (\"[T]he Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians.\"); id. \u00a7 9162(a) (\"[T]he Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums .... \"). Moreover, defendants' conduct contravenes Congress's appropriation of almost $300 million to IMLS. Plaintiffs are therefore likely to succeed in showing that defendants' actions to unilaterally shutter IMLS violate, at minimum, the Administrative Procedure Act.\n\nMoreover, the court found that plaintiffs have provided evidence of significant and irreparable injury -- \"that the grant terminations, loss of access to IMLS expertise and services, and loss of access to IMLS data have forced libraries to end programs midstream, fire employees, and, in some cases, completely shutter.\"\n\nAccordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injunction request was pending. On May 6, defendants filed a motion for reconsideration of the court's TRO order, citing the D.C. Circuit's May 3 decision to stay an analogous order in a similar case, Widakuswara v. Lake. [../../../../case/46275/]\n\nThe following day, the court extended the TRO until May 29 to allow additional time for briefing and argument.\n\nOn May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved issues directly relevant to this case. To avoid issuing a premature ruling on the PI, the court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion. The parties submitted their respective responses, with defendants objecting to the extension and plaintiffs consenting to it. The TRO expired on May 29, 2025.\n\nOn June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, canceling, or otherwise terminating IMLS grants or contracts, or from withholding disbursement of funds in accordance with such grants or contracts. In the alternative, plaintiffs requested that the court rule on their motion for a PI within seven days.\n\nOn June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme Court and Circuit Judges that actions seeking reinstatement of federal grants fall within the jurisdiction of the Court of Federal Claims rather than the district courts. It further ordered the parties to file a joint status report proposing next steps by June 13, 2025, and denied plaintiffs' June 2 motion as moot.\n\nThe parties filed a joint status report on June 13, outlining defendants' intention to file a motion to dismiss and plaintiffs' proposal to proceed with expedited summary judgment briefing.\n\nThis case is ongoing.",
+    "target_paragraph": "On May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved issues directly relevant to this case. To avoid issuing a premature ruling on the PI, the court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion. The parties submitted their respective responses, with defendants objecting to the extension and plaintiffs consenting to it. The TRO expired on May 29, 2025.",
+    "target_paragraph_indices": [
+      4007,
+      4497
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4007,
+            4143
+          ],
+          [
+            4144,
+            4338
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 21, 2025: Court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4007,
+            4497
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court ordered party submissions on extending the TRO (May 21 order; responses by May 23); defendants objected, plaintiffs consented; TRO expired May 29, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4144,
+            4338
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties (including defendants) were ordered to inform the court by May 23, 2025 whether they consented to extending the TRO pending resolution of the injunction motion.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4007,
+            4143
+          ],
+          [
+            4144,
+            4338
+          ],
+          [
+            4339,
+            4464
+          ],
+          [
+            4465,
+            4497
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 21, 2025, the court flagged related en banc issues in Widakuswara, ordered the parties to indicate by May 23 whether they consented to extending the TRO; plaintiffs consented, defendants objected; the TRO expired May 29, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46350_p8",
+    "metadata": {
+      "case_id": "46350",
+      "paragraph_num": 8,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, c..."
+    },
+    "source": "",
+    "target": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) filed this lawsuit in the U.S. District Court for the District of Columbia, challenging the Trump administration\u2019s attempt to dismantle the Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide. The defendants include the Institute of Museum and Library Services and its Acting Director, President Trump, DOGE, and the U.S. Office of Management and Budget and its Director.\n\nThe plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureaucracy,\" and signed on March 14, 2025, which directed the Institute of Museum and Library Services and other federal agencies to eliminate all programs and terminate all staff not required by statute. After the EO was issued, the Department of Government Efficiency (DOGE) gutted the Institute of Museum and Library Services, terminating nearly all employees and canceling its grants. The plaintiffs allege that the defendant's actions violated the Separation of Powers, the Take Care Clause, the Administrative Procedure Act, and the First Amendment. The plaintiffs seek declaratory and injunctive relief to stop the dismantling of IMLS, reinstate its grants and staff, restore agency functions and access to appropriated funds, and bar the defendants from dissolving IMLS absent Congress's authorization. The case is assigned to District Judge Richard J. Leon.\n\nThe plaintiffs sought a preliminary injunction; the court decided to consider a temporary restraining order first, while it consider the preliminary injunction request.\u00a0 After a hearing on April 30, 2025, the court granted a temporary restraining order on May 1, finding:\n\n\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear statutory mandates outlined in the MLSA [Museum and Library Services Act] See, e.g., 20 U.S.C. \u00a7 9103(a)(3) (The Director \"shall be appointed from among individuals who have special competence with regard to library and information services\" or \"special competence with regard to museum services\"); id. \u00a7 9108(a) (\"The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation's museum, library, and information services.\"); id.\u00a7 9131(b) (\"From the sums appropriated ... the Director shall award grants from minimum allotments [ of $680,000] . . . to each State.\"); id. \u00a7 9161 (\"[T]he Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians.\"); id. \u00a7 9162(a) (\"[T]he Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums .... \"). Moreover, defendants' conduct contravenes Congress's appropriation of almost $300 million to IMLS. Plaintiffs are therefore likely to succeed in showing that defendants' actions to unilaterally shutter IMLS violate, at minimum, the Administrative Procedure Act.\n\nMoreover, the court found that plaintiffs have provided evidence of significant and irreparable injury -- \"that the grant terminations, loss of access to IMLS expertise and services, and loss of access to IMLS data have forced libraries to end programs midstream, fire employees, and, in some cases, completely shutter.\"\n\nAccordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injunction request was pending. On May 6, defendants filed a motion for reconsideration of the court's TRO order, citing the D.C. Circuit's May 3 decision to stay an analogous order in a similar case, Widakuswara v. Lake. [../../../../case/46275/]\n\nThe following day, the court extended the TRO until May 29 to allow additional time for briefing and argument.\n\nOn May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved issues directly relevant to this case. To avoid issuing a premature ruling on the PI, the court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion. The parties submitted their respective responses, with defendants objecting to the extension and plaintiffs consenting to it. The TRO expired on May 29, 2025.\n\nOn June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, canceling, or otherwise terminating IMLS grants or contracts, or from withholding disbursement of funds in accordance with such grants or contracts. In the alternative, plaintiffs requested that the court rule on their motion for a PI within seven days.\n\nOn June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme Court and Circuit Judges that actions seeking reinstatement of federal grants fall within the jurisdiction of the Court of Federal Claims rather than the district courts. It further ordered the parties to file a joint status report proposing next steps by June 13, 2025, and denied plaintiffs' June 2 motion as moot.\n\nThe parties filed a joint status report on June 13, outlining defendants' intention to file a motion to dismiss and plaintiffs' proposal to proceed with expedited summary judgment briefing.\n\nThis case is ongoing.",
+    "target_paragraph": "On June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, canceling, or otherwise terminating IMLS grants or contracts, or from withholding disbursement of funds in accordance with such grants or contracts. In the alternative, plaintiffs requested that the court rule on their motion for a PI within seven days.",
+    "target_paragraph_indices": [
+      4499,
+      4851
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            4499,
+            4746
+          ]
+        ],
+        "annotation": {
+          "explanation": "Narrow temporary restraining order prohibiting further pausing, canceling, or terminating IMLS grants or contracts, and prohibiting withholding disbursements under such grants or contracts.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            4747,
+            4851
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alternative request for a ruling on the preliminary injunction within seven days.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4499,
+            4851
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a motion for a narrow TRO on June 2, 2025; alternatively requested a ruling on the PI within seven days.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4499,
+            4746
+          ],
+          [
+            4747,
+            4851
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 2, 2025, plaintiffs moved for a narrow TRO to bar further grant pauses/cancellations/withholding, or alternatively sought a PI ruling within seven days.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4499,
+            4851
+          ],
+          [
+            4853,
+            5269
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 June 2, 2025 motion for a narrow TRO denied as moot on June 6, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            8,
+            9
+          ]
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46350_p9",
+    "metadata": {
+      "case_id": "46350",
+      "paragraph_num": 9,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme ..."
+    },
+    "source": "",
+    "target": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) filed this lawsuit in the U.S. District Court for the District of Columbia, challenging the Trump administration\u2019s attempt to dismantle the Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide. The defendants include the Institute of Museum and Library Services and its Acting Director, President Trump, DOGE, and the U.S. Office of Management and Budget and its Director.\n\nThe plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureaucracy,\" and signed on March 14, 2025, which directed the Institute of Museum and Library Services and other federal agencies to eliminate all programs and terminate all staff not required by statute. After the EO was issued, the Department of Government Efficiency (DOGE) gutted the Institute of Museum and Library Services, terminating nearly all employees and canceling its grants. The plaintiffs allege that the defendant's actions violated the Separation of Powers, the Take Care Clause, the Administrative Procedure Act, and the First Amendment. The plaintiffs seek declaratory and injunctive relief to stop the dismantling of IMLS, reinstate its grants and staff, restore agency functions and access to appropriated funds, and bar the defendants from dissolving IMLS absent Congress's authorization. The case is assigned to District Judge Richard J. Leon.\n\nThe plaintiffs sought a preliminary injunction; the court decided to consider a temporary restraining order first, while it consider the preliminary injunction request.\u00a0 After a hearing on April 30, 2025, the court granted a temporary restraining order on May 1, finding:\n\n\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear statutory mandates outlined in the MLSA [Museum and Library Services Act] See, e.g., 20 U.S.C. \u00a7 9103(a)(3) (The Director \"shall be appointed from among individuals who have special competence with regard to library and information services\" or \"special competence with regard to museum services\"); id. \u00a7 9108(a) (\"The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation's museum, library, and information services.\"); id.\u00a7 9131(b) (\"From the sums appropriated ... the Director shall award grants from minimum allotments [ of $680,000] . . . to each State.\"); id. \u00a7 9161 (\"[T]he Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians.\"); id. \u00a7 9162(a) (\"[T]he Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums .... \"). Moreover, defendants' conduct contravenes Congress's appropriation of almost $300 million to IMLS. Plaintiffs are therefore likely to succeed in showing that defendants' actions to unilaterally shutter IMLS violate, at minimum, the Administrative Procedure Act.\n\nMoreover, the court found that plaintiffs have provided evidence of significant and irreparable injury -- \"that the grant terminations, loss of access to IMLS expertise and services, and loss of access to IMLS data have forced libraries to end programs midstream, fire employees, and, in some cases, completely shutter.\"\n\nAccordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injunction request was pending. On May 6, defendants filed a motion for reconsideration of the court's TRO order, citing the D.C. Circuit's May 3 decision to stay an analogous order in a similar case, Widakuswara v. Lake. [../../../../case/46275/]\n\nThe following day, the court extended the TRO until May 29 to allow additional time for briefing and argument.\n\nOn May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved issues directly relevant to this case. To avoid issuing a premature ruling on the PI, the court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion. The parties submitted their respective responses, with defendants objecting to the extension and plaintiffs consenting to it. The TRO expired on May 29, 2025.\n\nOn June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, canceling, or otherwise terminating IMLS grants or contracts, or from withholding disbursement of funds in accordance with such grants or contracts. In the alternative, plaintiffs requested that the court rule on their motion for a PI within seven days.\n\nOn June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme Court and Circuit Judges that actions seeking reinstatement of federal grants fall within the jurisdiction of the Court of Federal Claims rather than the district courts. It further ordered the parties to file a joint status report proposing next steps by June 13, 2025, and denied plaintiffs' June 2 motion as moot.\n\nThe parties filed a joint status report on June 13, outlining defendants' intention to file a motion to dismiss and plaintiffs' proposal to proceed with expedited summary judgment briefing.\n\nThis case is ongoing.",
+    "target_paragraph": "On June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme Court and Circuit Judges that actions seeking reinstatement of federal grants fall within the jurisdiction of the Court of Federal Claims rather than the district courts. It further ordered the parties to file a joint status report proposing next steps by June 13, 2025, and denied plaintiffs' June 2 motion as moot.",
+    "target_paragraph_indices": [
+      4853,
+      5269
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4853,
+            5123
+          ],
+          [
+            5124,
+            5269
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 6, 2025: Court denied plaintiffs' motion for a preliminary injunction; ordered the parties to file a joint status report by June 13, 2025; and denied plaintiffs' June 2 motion as moot.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4853,
+            5269
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court denied the motion for a preliminary injunction on June 6, 2025; denied the June 2 narrow TRO motion as moot; ordered a joint status report by June 13.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            5124,
+            5269
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties (including defendants) were ordered to file a joint status report proposing next steps by June 13, 2025.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4853,
+            5123
+          ],
+          [
+            5124,
+            5269
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 6, 2025, the court denied the preliminary injunction (jurisdictional concerns pointing to the Court of Federal Claims), ordered a joint status report by June 13, and denied the June 2 TRO motion as moot.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4853,
+            5123
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction denied on June 6, 2025; court reasoned that claims seeking reinstatement of federal grants belong in the Court of Federal Claims.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46350_p10",
+    "metadata": {
+      "case_id": "46350",
+      "paragraph_num": 10,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The parties filed a joint status report on June 13, outlining defendants' intention to file a motion..."
+    },
+    "source": "",
+    "target": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) filed this lawsuit in the U.S. District Court for the District of Columbia, challenging the Trump administration\u2019s attempt to dismantle the Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide. The defendants include the Institute of Museum and Library Services and its Acting Director, President Trump, DOGE, and the U.S. Office of Management and Budget and its Director.\n\nThe plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureaucracy,\" and signed on March 14, 2025, which directed the Institute of Museum and Library Services and other federal agencies to eliminate all programs and terminate all staff not required by statute. After the EO was issued, the Department of Government Efficiency (DOGE) gutted the Institute of Museum and Library Services, terminating nearly all employees and canceling its grants. The plaintiffs allege that the defendant's actions violated the Separation of Powers, the Take Care Clause, the Administrative Procedure Act, and the First Amendment. The plaintiffs seek declaratory and injunctive relief to stop the dismantling of IMLS, reinstate its grants and staff, restore agency functions and access to appropriated funds, and bar the defendants from dissolving IMLS absent Congress's authorization. The case is assigned to District Judge Richard J. Leon.\n\nThe plaintiffs sought a preliminary injunction; the court decided to consider a temporary restraining order first, while it consider the preliminary injunction request.\u00a0 After a hearing on April 30, 2025, the court granted a temporary restraining order on May 1, finding:\n\n\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear statutory mandates outlined in the MLSA [Museum and Library Services Act] See, e.g., 20 U.S.C. \u00a7 9103(a)(3) (The Director \"shall be appointed from among individuals who have special competence with regard to library and information services\" or \"special competence with regard to museum services\"); id. \u00a7 9108(a) (\"The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation's museum, library, and information services.\"); id.\u00a7 9131(b) (\"From the sums appropriated ... the Director shall award grants from minimum allotments [ of $680,000] . . . to each State.\"); id. \u00a7 9161 (\"[T]he Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians.\"); id. \u00a7 9162(a) (\"[T]he Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums .... \"). Moreover, defendants' conduct contravenes Congress's appropriation of almost $300 million to IMLS. Plaintiffs are therefore likely to succeed in showing that defendants' actions to unilaterally shutter IMLS violate, at minimum, the Administrative Procedure Act.\n\nMoreover, the court found that plaintiffs have provided evidence of significant and irreparable injury -- \"that the grant terminations, loss of access to IMLS expertise and services, and loss of access to IMLS data have forced libraries to end programs midstream, fire employees, and, in some cases, completely shutter.\"\n\nAccordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injunction request was pending. On May 6, defendants filed a motion for reconsideration of the court's TRO order, citing the D.C. Circuit's May 3 decision to stay an analogous order in a similar case, Widakuswara v. Lake. [../../../../case/46275/]\n\nThe following day, the court extended the TRO until May 29 to allow additional time for briefing and argument.\n\nOn May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved issues directly relevant to this case. To avoid issuing a premature ruling on the PI, the court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion. The parties submitted their respective responses, with defendants objecting to the extension and plaintiffs consenting to it. The TRO expired on May 29, 2025.\n\nOn June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, canceling, or otherwise terminating IMLS grants or contracts, or from withholding disbursement of funds in accordance with such grants or contracts. In the alternative, plaintiffs requested that the court rule on their motion for a PI within seven days.\n\nOn June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme Court and Circuit Judges that actions seeking reinstatement of federal grants fall within the jurisdiction of the Court of Federal Claims rather than the district courts. It further ordered the parties to file a joint status report proposing next steps by June 13, 2025, and denied plaintiffs' June 2 motion as moot.\n\nThe parties filed a joint status report on June 13, outlining defendants' intention to file a motion to dismiss and plaintiffs' proposal to proceed with expedited summary judgment briefing.\n\nThis case is ongoing.",
+    "target_paragraph": "The parties filed a joint status report on June 13, outlining defendants' intention to file a motion to dismiss and plaintiffs' proposal to proceed with expedited summary judgment briefing.",
+    "target_paragraph_indices": [
+      5271,
+      5460
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5271,
+            5460
+          ]
+        ],
+        "annotation": {
+          "explanation": "Joint status report filed June 13, 2025, noting defendants\u2019 intent to move to dismiss and plaintiffs\u2019 proposal for expedited summary judgment briefing.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5271,
+            5460
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 13, 2025, the parties filed a joint status report: defendants intend to move to dismiss; plaintiffs propose expedited summary judgment.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46350_p11",
+    "metadata": {
+      "case_id": "46350",
+      "paragraph_num": 11,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "On April 7, 2025, the American Library Association (ALA) and the American Federation of State, County, and Municipal Employees, AFL-CIO (AFSCME) filed this lawsuit in the U.S. District Court for the District of Columbia, challenging the Trump administration\u2019s attempt to dismantle the Institute of Museum and Library Services (IMLS), a federal agency tasked with supporting library and museum services nationwide. The defendants include the Institute of Museum and Library Services and its Acting Director, President Trump, DOGE, and the U.S. Office of Management and Budget and its Director.\n\nThe plaintiffs challenged Executive Order 14238, titled \u201cContinuing Reduction of the Federal Bureaucracy,\" and signed on March 14, 2025, which directed the Institute of Museum and Library Services and other federal agencies to eliminate all programs and terminate all staff not required by statute. After the EO was issued, the Department of Government Efficiency (DOGE) gutted the Institute of Museum and Library Services, terminating nearly all employees and canceling its grants. The plaintiffs allege that the defendant's actions violated the Separation of Powers, the Take Care Clause, the Administrative Procedure Act, and the First Amendment. The plaintiffs seek declaratory and injunctive relief to stop the dismantling of IMLS, reinstate its grants and staff, restore agency functions and access to appropriated funds, and bar the defendants from dissolving IMLS absent Congress's authorization. The case is assigned to District Judge Richard J. Leon.\n\nThe plaintiffs sought a preliminary injunction; the court decided to consider a temporary restraining order first, while it consider the preliminary injunction request.\u00a0 After a hearing on April 30, 2025, the court granted a temporary restraining order on May 1, finding:\n\n\"the wholesale termination of grants and services and the mass layoffs appear to violate the clear statutory mandates outlined in the MLSA [Museum and Library Services Act] See, e.g., 20 U.S.C. \u00a7 9103(a)(3) (The Director \"shall be appointed from among individuals who have special competence with regard to library and information services\" or \"special competence with regard to museum services\"); id. \u00a7 9108(a) (\"The Director shall regularly support and conduct, as appropriate, policy research, data collection, analysis and modeling, evaluation, and dissemination of information to extend and improve the Nation's museum, library, and information services.\"); id.\u00a7 9131(b) (\"From the sums appropriated ... the Director shall award grants from minimum allotments [ of $680,000] . . . to each State.\"); id. \u00a7 9161 (\"[T]he Director shall award grants to Indian tribes and to organizations that primarily serve and represent Native Hawaiians.\"); id. \u00a7 9162(a) (\"[T]he Director shall establish and carry out a program to enhance the quality of library services nationwide and to provide coordination between libraries and museums .... \"). Moreover, defendants' conduct contravenes Congress's appropriation of almost $300 million to IMLS. Plaintiffs are therefore likely to succeed in showing that defendants' actions to unilaterally shutter IMLS violate, at minimum, the Administrative Procedure Act.\n\nMoreover, the court found that plaintiffs have provided evidence of significant and irreparable injury -- \"that the grant terminations, loss of access to IMLS expertise and services, and loss of access to IMLS data have forced libraries to end programs midstream, fire employees, and, in some cases, completely shutter.\"\n\nAccordingly, the court enjoined any further diminution of MLS's capacity while the preliminary injunction request was pending. On May 6, defendants filed a motion for reconsideration of the court's TRO order, citing the D.C. Circuit's May 3 decision to stay an analogous order in a similar case, Widakuswara v. Lake. [../../../../case/46275/]\n\nThe following day, the court extended the TRO until May 29 to allow additional time for briefing and argument.\n\nOn May 21, the court noted that the D.C. Circuit's pending en banc review in Widakuswara involved issues directly relevant to this case. To avoid issuing a premature ruling on the PI, the court ordered the parties to indicate by May 23, 2025, whether they consented to extending the TRO pending resolution of the injunction motion. The parties submitted their respective responses, with defendants objecting to the extension and plaintiffs consenting to it. The TRO expired on May 29, 2025.\n\nOn June 2, plaintiffs filed a motion for a narrow TRO prohibiting defendants from further pausing, canceling, or otherwise terminating IMLS grants or contracts, or from withholding disbursement of funds in accordance with such grants or contracts. In the alternative, plaintiffs requested that the court rule on their motion for a PI within seven days.\n\nOn June 6, the court denied plaintiffs' motion for a PI, citing recent indications from the Supreme Court and Circuit Judges that actions seeking reinstatement of federal grants fall within the jurisdiction of the Court of Federal Claims rather than the district courts. It further ordered the parties to file a joint status report proposing next steps by June 13, 2025, and denied plaintiffs' June 2 motion as moot.\n\nThe parties filed a joint status report on June 13, outlining defendants' intention to file a motion to dismiss and plaintiffs' proposal to proceed with expedited summary judgment briefing.\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      5462,
+      5483
+    ],
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5462,
+            5483
+          ]
+        ],
+        "annotation": {
+          "explanation": "No final judgment or trial has occurred; proceedings continue.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

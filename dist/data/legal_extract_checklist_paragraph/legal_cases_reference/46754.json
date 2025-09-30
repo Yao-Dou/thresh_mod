@@ -1,0 +1,1268 @@
+[
+  {
+    "id": "46754_p0",
+    "metadata": {
+      "case_id": "46754",
+      "paragraph_num": 0,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged the Trump administration\u2019s disclosure of confidential Medicaid beneficiary data..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump administration\u2019s disclosure of confidential Medicaid beneficiary data to the Department of Homeland Security (DHS) for immigration enforcement. On July 1, 2025, twenty-one states and the District of Columbia filed this lawsuit in the U.S. District Court for the Northern District of California against the U.S. Department of Health and Human Services (HHS), Secretary Robert F. Kennedy Jr., the U.S. Department of Homeland Security (DHS), and Secretary Kristi Noem. The plaintiffs, represented by their respective state attorneys general, sought declaratory and injunctive relief, alleging violations of the Administrative Procedure Act (APA), the Privacy Act, the Health Insurance Portability and Accountability Act (HIPAA), the Federal Information Security Management Act (FISMA), and constitutional claims under the Spending Clause and separation-of-powers principles.\n\nThe case was assigned to Judge Vince Chhabria.\n\nPlaintiffs alleged that in early June 2025, HHS\u2019s Centers for Medicare and Medicaid Services (CMS) secretly transferred Medicaid beneficiary data\u2014including names, addresses, Medicaid IDs, immigration status, and potentially protected health information\u2014to DHS. Following internal agency objections, HHS and Immigration and Customs Enforcement (ICE) formalized this arrangement on July 9, 2025, through an Interagency Exchange Agreement (IEA), granting ICE direct access to CMS\u2019s Integrated Data Repository and the Transformed Medicaid Statistical Information System (T-MSIS), containing over 78 million Medicaid beneficiaries\u2019 personal records. Plaintiffs claimed this unprecedented transfer violated federal statutes strictly limiting disclosure of Medicaid data to purposes directly connected to Medicaid administration, and undermined decades of federal assurances regarding patient privacy.\n\nPlaintiffs also alleged procedural and constitutional violations. They asserted that HHS\u2019s decision constituted a final agency action requiring notice-and-comment rulemaking under the APA, that it was arbitrary and capricious for failing to consider reliance interests and severe public health consequences, and that the new data-sharing policy retroactively imposed ambiguous, coercive conditions on federal Medicaid funding contrary to the Spending Clause.\n\nOn July 11, plaintiffs filed a motion for a preliminary injunction, seeking to prohibit HHS from further transferring Medicaid data to DHS, the Department of Government Efficiency (DOGE), or other federal agencies, and to bar DHS from using the data for immigration enforcement or population surveillance. In support, plaintiffs submitted declarations from senior Medicaid officials in California, Washington, Maryland, Delaware, and representatives of healthcare providers. These declarations detailed irreparable harms already suffered, including widespread fear and disenrollment from Medicaid programs among immigrant communities; reduced use of necessary emergency and preventive healthcare services; and substantial financial burdens on healthcare providers and states due to uncompensated care and lost federal funding.\n\nOn July 14, the parties stipulated to expedite briefing on the preliminary injunction, and the court scheduled oral argument for August 7, 2025. On August 12, 2025, the court granted in part and denied in part the motion for a preliminary injunction. 2025 WL 2356224. At the outset, it noted that there did not appear to be anything categorically unlawful about DHS obtaining data from agencies like HHS for immigration enforcement purposes, and that several federal statutes appeared to permit, and sometimes even require, such disclosures. Nonetheless, in light of existing, longstanding ICE policy against using Medicaid data for immigration enforcement, and reliance on that policy by states, providers, and patients, \"it was incumbent upon the agencies to carry out a reasoned decisionmaking process before changing them.\"\u00a0 The record in this case suggested that no such process occurred, and that the defendants did not consider important policy tradeoffs before making the challenged changes. Thus, the court concluded that, on the record before it, the states had demonstrated a likelihood of success on their \u201carbitrary and capricious\u201d claim under the APA, which would require HHS and DHS to go back and engage in a reasoned decisionmaking process.\u00a0 Moreover, the states were likely to suffer irreparable harm from the way the agencies implemented the change, and the balance of hardships and public interest further warranted preliminary relief. The court therefore preliminarily enjoined DHS from using Medicaid data obtained from the plaintiff states for immigration enforcement purposes, including data already acquired from CMS, and preliminarily enjoined HHS from sharing Medicaid data obtained from the plaintiff states with DHS for immigration enforcement purposes. The preliminary injunction was to remain in place until the shorter of: (1) the termination of this litigation; or (2) 14 days after both DHS and HHS have completed a reasoned decisionmaking process or rulemaking, if necessary. The court declined, however, to require the agencies to undertake notice and comment rulemaking, holding that the states had not demonstrated that such rulemaking was required. It noted that this was without prejudice to re-raising the issue later. It further noted its skepticism on the merits of the plaintiffs' Spending Clause claim, but denied it as moot in light of the ruling under the APA which would enable the agencies to consider the Spending Clause issue as part of the reasoned decisionmaking process.\n\nThis case is ongoing.",
+    "target_paragraph": "This case challenged the Trump administration\u2019s disclosure of confidential Medicaid beneficiary data to the Department of Homeland Security (DHS) for immigration enforcement. On July 1, 2025, twenty-one states and the District of Columbia filed this lawsuit in the U.S. District Court for the Northern District of California against the U.S. Department of Health and Human Services (HHS), Secretary Robert F. Kennedy Jr., the U.S. Department of Homeland Security (DHS), and Secretary Kristi Noem. The plaintiffs, represented by their respective state attorneys general, sought declaratory and injunctive relief, alleging violations of the Administrative Procedure Act (APA), the Privacy Act, the Health Insurance Portability and Accountability Act (HIPAA), the Federal Information Security Management Act (FISMA), and constitutional claims under the Spending Clause and separation-of-powers principles.",
+    "target_paragraph_indices": [
+      0,
+      902
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            175,
+            496
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 1, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            570,
+            673
+          ],
+          [
+            1914,
+            2035
+          ],
+          [
+            4193,
+            4300
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) violations, including claims of arbitrary and capricious action and failure to undertake notice-and-comment rulemaking for a final agency action",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            3,
+            5
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            570,
+            690
+          ]
+        ],
+        "annotation": {
+          "explanation": "Privacy Act violations",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            570,
+            755
+          ]
+        ],
+        "annotation": {
+          "explanation": "Health Insurance Portability and Accountability Act (HIPAA) violations",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            570,
+            812
+          ]
+        ],
+        "annotation": {
+          "explanation": "Federal Information Security Management Act (FISMA) violations",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            814,
+            865
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim under the Spending Clause",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            814,
+            902
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim under separation-of-powers principles",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            612,
+            673
+          ],
+          [
+            1914,
+            2154
+          ],
+          [
+            4193,
+            4300
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) \u2014 arbitrary and capricious and notice-and-comment rulemaking claims",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            3,
+            5
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            612,
+            638
+          ],
+          [
+            679,
+            690
+          ]
+        ],
+        "annotation": {
+          "explanation": "Privacy Act",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            612,
+            638
+          ],
+          [
+            696,
+            755
+          ]
+        ],
+        "annotation": {
+          "explanation": "Health Insurance Portability and Accountability Act (HIPAA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            612,
+            638
+          ],
+          [
+            761,
+            812
+          ]
+        ],
+        "annotation": {
+          "explanation": "Federal Information Security Management Act (FISMA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            814,
+            865
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Constitution \u2014 Spending Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            814,
+            849
+          ],
+          [
+            870,
+            902
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Constitution \u2014 separation-of-powers principles",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            497,
+            902
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory and injunctive relief for alleged violations of the APA, Privacy Act, HIPAA, FISMA, and constitutional claims under the Spending Clause and separation of powers.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            497,
+            569
+          ]
+        ],
+        "annotation": {
+          "explanation": "State attorneys general",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            175,
+            324
+          ],
+          [
+            497,
+            568
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Neither (governmental plaintiffs: twenty-one states and the District of Columbia)",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            175,
+            257
+          ],
+          [
+            497,
+            569
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Twenty-one states (collective; individual states not specified in the summary)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            175,
+            257
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: District of Columbia",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            325,
+            388
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Health and Human Services (HHS)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            389,
+            421
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary Robert F. Kennedy Jr.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            422,
+            469
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Homeland Security (DHS)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            470,
+            496
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary Kristi Noem",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            175,
+            496
+          ],
+          [
+            497,
+            902
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing details: On July 1, 2025, 21 states and DC sued HHS (and Secretary Robert F. Kennedy Jr.) and DHS (and Secretary Kristi Noem) in the Northern District of California, seeking declaratory and injunctive relief for alleged APA, Privacy Act, HIPAA, FISMA, Spending Clause, and separation-of-powers violations.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 22
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            175,
+            496
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on July 1, 2025, by 21 states and D.C. in the N.D. Cal. against HHS (Sec. Robert F. Kennedy Jr.) and DHS (Sec. Kristi Noem), seeking declaratory and injunctive relief for alleged APA, Privacy Act, HIPAA, FISMA, and constitutional violations.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 23
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            175,
+            324
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed July 1, 2025 in the U.S. District Court for the Northern District of California.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 24
+      }
+    ]
+  },
+  {
+    "id": "46754_p1",
+    "metadata": {
+      "case_id": "46754",
+      "paragraph_num": 1,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case was assigned to Judge Vince Chhabria."
+    },
+    "source": "",
+    "target": "This case challenged the Trump administration\u2019s disclosure of confidential Medicaid beneficiary data to the Department of Homeland Security (DHS) for immigration enforcement. On July 1, 2025, twenty-one states and the District of Columbia filed this lawsuit in the U.S. District Court for the Northern District of California against the U.S. Department of Health and Human Services (HHS), Secretary Robert F. Kennedy Jr., the U.S. Department of Homeland Security (DHS), and Secretary Kristi Noem. The plaintiffs, represented by their respective state attorneys general, sought declaratory and injunctive relief, alleging violations of the Administrative Procedure Act (APA), the Privacy Act, the Health Insurance Portability and Accountability Act (HIPAA), the Federal Information Security Management Act (FISMA), and constitutional claims under the Spending Clause and separation-of-powers principles.\n\nThe case was assigned to Judge Vince Chhabria.\n\nPlaintiffs alleged that in early June 2025, HHS\u2019s Centers for Medicare and Medicaid Services (CMS) secretly transferred Medicaid beneficiary data\u2014including names, addresses, Medicaid IDs, immigration status, and potentially protected health information\u2014to DHS. Following internal agency objections, HHS and Immigration and Customs Enforcement (ICE) formalized this arrangement on July 9, 2025, through an Interagency Exchange Agreement (IEA), granting ICE direct access to CMS\u2019s Integrated Data Repository and the Transformed Medicaid Statistical Information System (T-MSIS), containing over 78 million Medicaid beneficiaries\u2019 personal records. Plaintiffs claimed this unprecedented transfer violated federal statutes strictly limiting disclosure of Medicaid data to purposes directly connected to Medicaid administration, and undermined decades of federal assurances regarding patient privacy.\n\nPlaintiffs also alleged procedural and constitutional violations. They asserted that HHS\u2019s decision constituted a final agency action requiring notice-and-comment rulemaking under the APA, that it was arbitrary and capricious for failing to consider reliance interests and severe public health consequences, and that the new data-sharing policy retroactively imposed ambiguous, coercive conditions on federal Medicaid funding contrary to the Spending Clause.\n\nOn July 11, plaintiffs filed a motion for a preliminary injunction, seeking to prohibit HHS from further transferring Medicaid data to DHS, the Department of Government Efficiency (DOGE), or other federal agencies, and to bar DHS from using the data for immigration enforcement or population surveillance. In support, plaintiffs submitted declarations from senior Medicaid officials in California, Washington, Maryland, Delaware, and representatives of healthcare providers. These declarations detailed irreparable harms already suffered, including widespread fear and disenrollment from Medicaid programs among immigrant communities; reduced use of necessary emergency and preventive healthcare services; and substantial financial burdens on healthcare providers and states due to uncompensated care and lost federal funding.\n\nOn July 14, the parties stipulated to expedite briefing on the preliminary injunction, and the court scheduled oral argument for August 7, 2025. On August 12, 2025, the court granted in part and denied in part the motion for a preliminary injunction. 2025 WL 2356224. At the outset, it noted that there did not appear to be anything categorically unlawful about DHS obtaining data from agencies like HHS for immigration enforcement purposes, and that several federal statutes appeared to permit, and sometimes even require, such disclosures. Nonetheless, in light of existing, longstanding ICE policy against using Medicaid data for immigration enforcement, and reliance on that policy by states, providers, and patients, \"it was incumbent upon the agencies to carry out a reasoned decisionmaking process before changing them.\"\u00a0 The record in this case suggested that no such process occurred, and that the defendants did not consider important policy tradeoffs before making the challenged changes. Thus, the court concluded that, on the record before it, the states had demonstrated a likelihood of success on their \u201carbitrary and capricious\u201d claim under the APA, which would require HHS and DHS to go back and engage in a reasoned decisionmaking process.\u00a0 Moreover, the states were likely to suffer irreparable harm from the way the agencies implemented the change, and the balance of hardships and public interest further warranted preliminary relief. The court therefore preliminarily enjoined DHS from using Medicaid data obtained from the plaintiff states for immigration enforcement purposes, including data already acquired from CMS, and preliminarily enjoined HHS from sharing Medicaid data obtained from the plaintiff states with DHS for immigration enforcement purposes. The preliminary injunction was to remain in place until the shorter of: (1) the termination of this litigation; or (2) 14 days after both DHS and HHS have completed a reasoned decisionmaking process or rulemaking, if necessary. The court declined, however, to require the agencies to undertake notice and comment rulemaking, holding that the states had not demonstrated that such rulemaking was required. It noted that this was without prejudice to re-raising the issue later. It further noted its skepticism on the merits of the plaintiffs' Spending Clause claim, but denied it as moot in light of the ruling under the APA which would enable the agencies to consider the Spending Clause issue as part of the reasoned decisionmaking process.\n\nThis case is ongoing.",
+    "target_paragraph": "The case was assigned to Judge Vince Chhabria.",
+    "target_paragraph_indices": [
+      904,
+      950
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            904,
+            950
+          ]
+        ],
+        "annotation": {
+          "explanation": "[Vince Chhabria]",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            904,
+            950
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assigned to Judge Vince Chhabria.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            904,
+            950
+          ]
+        ],
+        "annotation": {
+          "explanation": "Assigned judge: Vince Chhabria.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46754_p2",
+    "metadata": {
+      "case_id": "46754",
+      "paragraph_num": 2,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs alleged that in early June 2025, HHS\u2019s Centers for Medicare and Medicaid Services (CMS) s..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump administration\u2019s disclosure of confidential Medicaid beneficiary data to the Department of Homeland Security (DHS) for immigration enforcement. On July 1, 2025, twenty-one states and the District of Columbia filed this lawsuit in the U.S. District Court for the Northern District of California against the U.S. Department of Health and Human Services (HHS), Secretary Robert F. Kennedy Jr., the U.S. Department of Homeland Security (DHS), and Secretary Kristi Noem. The plaintiffs, represented by their respective state attorneys general, sought declaratory and injunctive relief, alleging violations of the Administrative Procedure Act (APA), the Privacy Act, the Health Insurance Portability and Accountability Act (HIPAA), the Federal Information Security Management Act (FISMA), and constitutional claims under the Spending Clause and separation-of-powers principles.\n\nThe case was assigned to Judge Vince Chhabria.\n\nPlaintiffs alleged that in early June 2025, HHS\u2019s Centers for Medicare and Medicaid Services (CMS) secretly transferred Medicaid beneficiary data\u2014including names, addresses, Medicaid IDs, immigration status, and potentially protected health information\u2014to DHS. Following internal agency objections, HHS and Immigration and Customs Enforcement (ICE) formalized this arrangement on July 9, 2025, through an Interagency Exchange Agreement (IEA), granting ICE direct access to CMS\u2019s Integrated Data Repository and the Transformed Medicaid Statistical Information System (T-MSIS), containing over 78 million Medicaid beneficiaries\u2019 personal records. Plaintiffs claimed this unprecedented transfer violated federal statutes strictly limiting disclosure of Medicaid data to purposes directly connected to Medicaid administration, and undermined decades of federal assurances regarding patient privacy.\n\nPlaintiffs also alleged procedural and constitutional violations. They asserted that HHS\u2019s decision constituted a final agency action requiring notice-and-comment rulemaking under the APA, that it was arbitrary and capricious for failing to consider reliance interests and severe public health consequences, and that the new data-sharing policy retroactively imposed ambiguous, coercive conditions on federal Medicaid funding contrary to the Spending Clause.\n\nOn July 11, plaintiffs filed a motion for a preliminary injunction, seeking to prohibit HHS from further transferring Medicaid data to DHS, the Department of Government Efficiency (DOGE), or other federal agencies, and to bar DHS from using the data for immigration enforcement or population surveillance. In support, plaintiffs submitted declarations from senior Medicaid officials in California, Washington, Maryland, Delaware, and representatives of healthcare providers. These declarations detailed irreparable harms already suffered, including widespread fear and disenrollment from Medicaid programs among immigrant communities; reduced use of necessary emergency and preventive healthcare services; and substantial financial burdens on healthcare providers and states due to uncompensated care and lost federal funding.\n\nOn July 14, the parties stipulated to expedite briefing on the preliminary injunction, and the court scheduled oral argument for August 7, 2025. On August 12, 2025, the court granted in part and denied in part the motion for a preliminary injunction. 2025 WL 2356224. At the outset, it noted that there did not appear to be anything categorically unlawful about DHS obtaining data from agencies like HHS for immigration enforcement purposes, and that several federal statutes appeared to permit, and sometimes even require, such disclosures. Nonetheless, in light of existing, longstanding ICE policy against using Medicaid data for immigration enforcement, and reliance on that policy by states, providers, and patients, \"it was incumbent upon the agencies to carry out a reasoned decisionmaking process before changing them.\"\u00a0 The record in this case suggested that no such process occurred, and that the defendants did not consider important policy tradeoffs before making the challenged changes. Thus, the court concluded that, on the record before it, the states had demonstrated a likelihood of success on their \u201carbitrary and capricious\u201d claim under the APA, which would require HHS and DHS to go back and engage in a reasoned decisionmaking process.\u00a0 Moreover, the states were likely to suffer irreparable harm from the way the agencies implemented the change, and the balance of hardships and public interest further warranted preliminary relief. The court therefore preliminarily enjoined DHS from using Medicaid data obtained from the plaintiff states for immigration enforcement purposes, including data already acquired from CMS, and preliminarily enjoined HHS from sharing Medicaid data obtained from the plaintiff states with DHS for immigration enforcement purposes. The preliminary injunction was to remain in place until the shorter of: (1) the termination of this litigation; or (2) 14 days after both DHS and HHS have completed a reasoned decisionmaking process or rulemaking, if necessary. The court declined, however, to require the agencies to undertake notice and comment rulemaking, holding that the states had not demonstrated that such rulemaking was required. It noted that this was without prejudice to re-raising the issue later. It further noted its skepticism on the merits of the plaintiffs' Spending Clause claim, but denied it as moot in light of the ruling under the APA which would enable the agencies to consider the Spending Clause issue as part of the reasoned decisionmaking process.\n\nThis case is ongoing.",
+    "target_paragraph": "Plaintiffs alleged that in early June 2025, HHS\u2019s Centers for Medicare and Medicaid Services (CMS) secretly transferred Medicaid beneficiary data\u2014including names, addresses, Medicaid IDs, immigration status, and potentially protected health information\u2014to DHS. Following internal agency objections, HHS and Immigration and Customs Enforcement (ICE) formalized this arrangement on July 9, 2025, through an Interagency Exchange Agreement (IEA), granting ICE direct access to CMS\u2019s Integrated Data Repository and the Transformed Medicaid Statistical Information System (T-MSIS), containing over 78 million Medicaid beneficiaries\u2019 personal records. Plaintiffs claimed this unprecedented transfer violated federal statutes strictly limiting disclosure of Medicaid data to purposes directly connected to Medicaid administration, and undermined decades of federal assurances regarding patient privacy.",
+    "target_paragraph_indices": [
+      952,
+      1846
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1597,
+            1773
+          ]
+        ],
+        "annotation": {
+          "explanation": "Federal statutes strictly limiting disclosure of Medicaid data to purposes directly connected to Medicaid administration",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            952,
+            1212
+          ]
+        ],
+        "annotation": {
+          "explanation": "Core event: In early June 2025, CMS allegedly secretly transferred Medicaid beneficiary data (including identifiers, addresses, Medicaid IDs, immigration status, and potential PHI) to DHS.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1213,
+            1596
+          ]
+        ],
+        "annotation": {
+          "explanation": "Formalization: On July 9, 2025, HHS and ICE executed an Interagency Exchange Agreement granting ICE direct access to CMS\u2019s IDR and T-MSIS databases covering over 78 million beneficiaries.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1597,
+            1846
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory and policy backdrop: Plaintiffs contend federal law strictly limits Medicaid data disclosure to Medicaid administration and that the transfer undermined longstanding federal privacy assurances.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46754_p3",
+    "metadata": {
+      "case_id": "46754",
+      "paragraph_num": 3,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs also alleged procedural and constitutional violations. They asserted that HHS\u2019s decision ..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump administration\u2019s disclosure of confidential Medicaid beneficiary data to the Department of Homeland Security (DHS) for immigration enforcement. On July 1, 2025, twenty-one states and the District of Columbia filed this lawsuit in the U.S. District Court for the Northern District of California against the U.S. Department of Health and Human Services (HHS), Secretary Robert F. Kennedy Jr., the U.S. Department of Homeland Security (DHS), and Secretary Kristi Noem. The plaintiffs, represented by their respective state attorneys general, sought declaratory and injunctive relief, alleging violations of the Administrative Procedure Act (APA), the Privacy Act, the Health Insurance Portability and Accountability Act (HIPAA), the Federal Information Security Management Act (FISMA), and constitutional claims under the Spending Clause and separation-of-powers principles.\n\nThe case was assigned to Judge Vince Chhabria.\n\nPlaintiffs alleged that in early June 2025, HHS\u2019s Centers for Medicare and Medicaid Services (CMS) secretly transferred Medicaid beneficiary data\u2014including names, addresses, Medicaid IDs, immigration status, and potentially protected health information\u2014to DHS. Following internal agency objections, HHS and Immigration and Customs Enforcement (ICE) formalized this arrangement on July 9, 2025, through an Interagency Exchange Agreement (IEA), granting ICE direct access to CMS\u2019s Integrated Data Repository and the Transformed Medicaid Statistical Information System (T-MSIS), containing over 78 million Medicaid beneficiaries\u2019 personal records. Plaintiffs claimed this unprecedented transfer violated federal statutes strictly limiting disclosure of Medicaid data to purposes directly connected to Medicaid administration, and undermined decades of federal assurances regarding patient privacy.\n\nPlaintiffs also alleged procedural and constitutional violations. They asserted that HHS\u2019s decision constituted a final agency action requiring notice-and-comment rulemaking under the APA, that it was arbitrary and capricious for failing to consider reliance interests and severe public health consequences, and that the new data-sharing policy retroactively imposed ambiguous, coercive conditions on federal Medicaid funding contrary to the Spending Clause.\n\nOn July 11, plaintiffs filed a motion for a preliminary injunction, seeking to prohibit HHS from further transferring Medicaid data to DHS, the Department of Government Efficiency (DOGE), or other federal agencies, and to bar DHS from using the data for immigration enforcement or population surveillance. In support, plaintiffs submitted declarations from senior Medicaid officials in California, Washington, Maryland, Delaware, and representatives of healthcare providers. These declarations detailed irreparable harms already suffered, including widespread fear and disenrollment from Medicaid programs among immigrant communities; reduced use of necessary emergency and preventive healthcare services; and substantial financial burdens on healthcare providers and states due to uncompensated care and lost federal funding.\n\nOn July 14, the parties stipulated to expedite briefing on the preliminary injunction, and the court scheduled oral argument for August 7, 2025. On August 12, 2025, the court granted in part and denied in part the motion for a preliminary injunction. 2025 WL 2356224. At the outset, it noted that there did not appear to be anything categorically unlawful about DHS obtaining data from agencies like HHS for immigration enforcement purposes, and that several federal statutes appeared to permit, and sometimes even require, such disclosures. Nonetheless, in light of existing, longstanding ICE policy against using Medicaid data for immigration enforcement, and reliance on that policy by states, providers, and patients, \"it was incumbent upon the agencies to carry out a reasoned decisionmaking process before changing them.\"\u00a0 The record in this case suggested that no such process occurred, and that the defendants did not consider important policy tradeoffs before making the challenged changes. Thus, the court concluded that, on the record before it, the states had demonstrated a likelihood of success on their \u201carbitrary and capricious\u201d claim under the APA, which would require HHS and DHS to go back and engage in a reasoned decisionmaking process.\u00a0 Moreover, the states were likely to suffer irreparable harm from the way the agencies implemented the change, and the balance of hardships and public interest further warranted preliminary relief. The court therefore preliminarily enjoined DHS from using Medicaid data obtained from the plaintiff states for immigration enforcement purposes, including data already acquired from CMS, and preliminarily enjoined HHS from sharing Medicaid data obtained from the plaintiff states with DHS for immigration enforcement purposes. The preliminary injunction was to remain in place until the shorter of: (1) the termination of this litigation; or (2) 14 days after both DHS and HHS have completed a reasoned decisionmaking process or rulemaking, if necessary. The court declined, however, to require the agencies to undertake notice and comment rulemaking, holding that the states had not demonstrated that such rulemaking was required. It noted that this was without prejudice to re-raising the issue later. It further noted its skepticism on the merits of the plaintiffs' Spending Clause claim, but denied it as moot in light of the ruling under the APA which would enable the agencies to consider the Spending Clause issue as part of the reasoned decisionmaking process.\n\nThis case is ongoing.",
+    "target_paragraph": "Plaintiffs also alleged procedural and constitutional violations. They asserted that HHS\u2019s decision constituted a final agency action requiring notice-and-comment rulemaking under the APA, that it was arbitrary and capricious for failing to consider reliance interests and severe public health consequences, and that the new data-sharing policy retroactively imposed ambiguous, coercive conditions on federal Medicaid funding contrary to the Spending Clause.",
+    "target_paragraph_indices": [
+      1848,
+      2306
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1914,
+            2306
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural/constitutional allegations: Plaintiffs allege the decision was final agency action requiring notice-and-comment, was arbitrary and capricious for ignoring reliance interests and health consequences, and imposed retroactive, coercive funding conditions violating the Spending Clause.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46754_p4",
+    "metadata": {
+      "case_id": "46754",
+      "paragraph_num": 4,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 11, plaintiffs filed a motion for a preliminary injunction, seeking to prohibit HHS from fur..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump administration\u2019s disclosure of confidential Medicaid beneficiary data to the Department of Homeland Security (DHS) for immigration enforcement. On July 1, 2025, twenty-one states and the District of Columbia filed this lawsuit in the U.S. District Court for the Northern District of California against the U.S. Department of Health and Human Services (HHS), Secretary Robert F. Kennedy Jr., the U.S. Department of Homeland Security (DHS), and Secretary Kristi Noem. The plaintiffs, represented by their respective state attorneys general, sought declaratory and injunctive relief, alleging violations of the Administrative Procedure Act (APA), the Privacy Act, the Health Insurance Portability and Accountability Act (HIPAA), the Federal Information Security Management Act (FISMA), and constitutional claims under the Spending Clause and separation-of-powers principles.\n\nThe case was assigned to Judge Vince Chhabria.\n\nPlaintiffs alleged that in early June 2025, HHS\u2019s Centers for Medicare and Medicaid Services (CMS) secretly transferred Medicaid beneficiary data\u2014including names, addresses, Medicaid IDs, immigration status, and potentially protected health information\u2014to DHS. Following internal agency objections, HHS and Immigration and Customs Enforcement (ICE) formalized this arrangement on July 9, 2025, through an Interagency Exchange Agreement (IEA), granting ICE direct access to CMS\u2019s Integrated Data Repository and the Transformed Medicaid Statistical Information System (T-MSIS), containing over 78 million Medicaid beneficiaries\u2019 personal records. Plaintiffs claimed this unprecedented transfer violated federal statutes strictly limiting disclosure of Medicaid data to purposes directly connected to Medicaid administration, and undermined decades of federal assurances regarding patient privacy.\n\nPlaintiffs also alleged procedural and constitutional violations. They asserted that HHS\u2019s decision constituted a final agency action requiring notice-and-comment rulemaking under the APA, that it was arbitrary and capricious for failing to consider reliance interests and severe public health consequences, and that the new data-sharing policy retroactively imposed ambiguous, coercive conditions on federal Medicaid funding contrary to the Spending Clause.\n\nOn July 11, plaintiffs filed a motion for a preliminary injunction, seeking to prohibit HHS from further transferring Medicaid data to DHS, the Department of Government Efficiency (DOGE), or other federal agencies, and to bar DHS from using the data for immigration enforcement or population surveillance. In support, plaintiffs submitted declarations from senior Medicaid officials in California, Washington, Maryland, Delaware, and representatives of healthcare providers. These declarations detailed irreparable harms already suffered, including widespread fear and disenrollment from Medicaid programs among immigrant communities; reduced use of necessary emergency and preventive healthcare services; and substantial financial burdens on healthcare providers and states due to uncompensated care and lost federal funding.\n\nOn July 14, the parties stipulated to expedite briefing on the preliminary injunction, and the court scheduled oral argument for August 7, 2025. On August 12, 2025, the court granted in part and denied in part the motion for a preliminary injunction. 2025 WL 2356224. At the outset, it noted that there did not appear to be anything categorically unlawful about DHS obtaining data from agencies like HHS for immigration enforcement purposes, and that several federal statutes appeared to permit, and sometimes even require, such disclosures. Nonetheless, in light of existing, longstanding ICE policy against using Medicaid data for immigration enforcement, and reliance on that policy by states, providers, and patients, \"it was incumbent upon the agencies to carry out a reasoned decisionmaking process before changing them.\"\u00a0 The record in this case suggested that no such process occurred, and that the defendants did not consider important policy tradeoffs before making the challenged changes. Thus, the court concluded that, on the record before it, the states had demonstrated a likelihood of success on their \u201carbitrary and capricious\u201d claim under the APA, which would require HHS and DHS to go back and engage in a reasoned decisionmaking process.\u00a0 Moreover, the states were likely to suffer irreparable harm from the way the agencies implemented the change, and the balance of hardships and public interest further warranted preliminary relief. The court therefore preliminarily enjoined DHS from using Medicaid data obtained from the plaintiff states for immigration enforcement purposes, including data already acquired from CMS, and preliminarily enjoined HHS from sharing Medicaid data obtained from the plaintiff states with DHS for immigration enforcement purposes. The preliminary injunction was to remain in place until the shorter of: (1) the termination of this litigation; or (2) 14 days after both DHS and HHS have completed a reasoned decisionmaking process or rulemaking, if necessary. The court declined, however, to require the agencies to undertake notice and comment rulemaking, holding that the states had not demonstrated that such rulemaking was required. It noted that this was without prejudice to re-raising the issue later. It further noted its skepticism on the merits of the plaintiffs' Spending Clause claim, but denied it as moot in light of the ruling under the APA which would enable the agencies to consider the Spending Clause issue as part of the reasoned decisionmaking process.\n\nThis case is ongoing.",
+    "target_paragraph": "On July 11, plaintiffs filed a motion for a preliminary injunction, seeking to prohibit HHS from further transferring Medicaid data to DHS, the Department of Government Efficiency (DOGE), or other federal agencies, and to bar DHS from using the data for immigration enforcement or population surveillance. In support, plaintiffs submitted declarations from senior Medicaid officials in California, Washington, Maryland, Delaware, and representatives of healthcare providers. These declarations detailed irreparable harms already suffered, including widespread fear and disenrollment from Medicaid programs among immigrant communities; reduced use of necessary emergency and preventive healthcare services; and substantial financial burdens on healthcare providers and states due to uncompensated care and lost federal funding.",
+    "target_paragraph_indices": [
+      2308,
+      3134
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2308,
+            2613
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction to prohibit HHS from further transferring Medicaid data to DHS, DOGE, or other federal agencies, and to bar DHS from using the data for immigration enforcement or population surveillance.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2308,
+            2613
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 sought preliminary relief to stop further HHS transfers to DHS/DOGE/other agencies and to bar DHS from using the data for immigration enforcement or surveillance.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2614,
+            2782
+          ],
+          [
+            2783,
+            3134
+          ]
+        ],
+        "annotation": {
+          "explanation": "Evidence of harm: Declarations from senior Medicaid officials (CA, WA, MD, DE) and provider representatives described fear and disenrollment among immigrants, reduced use of emergency/preventive care, and financial burdens from uncompensated care and lost federal funding.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2308,
+            2613
+          ],
+          [
+            2614,
+            3134
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for preliminary injunction filed July 11, 2025, seeking to halt HHS\u2019s transfer of Medicaid data to DHS/DOGE/other agencies and to bar DHS\u2019s use of the data for immigration enforcement or surveillance; supported by declarations from state Medicaid officials and providers detailing irreparable harms.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2308,
+            2613
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a preliminary injunction motion on July 11, 2025, seeking to bar further HHS transfers and DHS use of Medicaid data for immigration enforcement or surveillance.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2308,
+            2613
+          ],
+          [
+            3281,
+            3403
+          ],
+          [
+            4592,
+            4918
+          ],
+          [
+            4919,
+            5146
+          ],
+          [
+            5147,
+            5395
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction: Filed July 11, 2025; on August 12, 2025, the court granted in part and denied in part (2025 WL 2356224). The court enjoined DHS from using Medicaid data obtained from the plaintiff states for immigration enforcement (including data already acquired from CMS) and enjoined HHS from sharing plaintiff states\u2019 Medicaid data with DHS for immigration enforcement. The injunction remains until the earlier of the case\u2019s termination or 14 days after both DHS and HHS complete a reasoned decisionmaking process or rulemaking, if necessary. The court declined to require notice-and-comment rulemaking at this stage (without prejudice).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46754_p5",
+    "metadata": {
+      "case_id": "46754",
+      "paragraph_num": 5,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 14, the parties stipulated to expedite briefing on the preliminary injunction, and the court..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump administration\u2019s disclosure of confidential Medicaid beneficiary data to the Department of Homeland Security (DHS) for immigration enforcement. On July 1, 2025, twenty-one states and the District of Columbia filed this lawsuit in the U.S. District Court for the Northern District of California against the U.S. Department of Health and Human Services (HHS), Secretary Robert F. Kennedy Jr., the U.S. Department of Homeland Security (DHS), and Secretary Kristi Noem. The plaintiffs, represented by their respective state attorneys general, sought declaratory and injunctive relief, alleging violations of the Administrative Procedure Act (APA), the Privacy Act, the Health Insurance Portability and Accountability Act (HIPAA), the Federal Information Security Management Act (FISMA), and constitutional claims under the Spending Clause and separation-of-powers principles.\n\nThe case was assigned to Judge Vince Chhabria.\n\nPlaintiffs alleged that in early June 2025, HHS\u2019s Centers for Medicare and Medicaid Services (CMS) secretly transferred Medicaid beneficiary data\u2014including names, addresses, Medicaid IDs, immigration status, and potentially protected health information\u2014to DHS. Following internal agency objections, HHS and Immigration and Customs Enforcement (ICE) formalized this arrangement on July 9, 2025, through an Interagency Exchange Agreement (IEA), granting ICE direct access to CMS\u2019s Integrated Data Repository and the Transformed Medicaid Statistical Information System (T-MSIS), containing over 78 million Medicaid beneficiaries\u2019 personal records. Plaintiffs claimed this unprecedented transfer violated federal statutes strictly limiting disclosure of Medicaid data to purposes directly connected to Medicaid administration, and undermined decades of federal assurances regarding patient privacy.\n\nPlaintiffs also alleged procedural and constitutional violations. They asserted that HHS\u2019s decision constituted a final agency action requiring notice-and-comment rulemaking under the APA, that it was arbitrary and capricious for failing to consider reliance interests and severe public health consequences, and that the new data-sharing policy retroactively imposed ambiguous, coercive conditions on federal Medicaid funding contrary to the Spending Clause.\n\nOn July 11, plaintiffs filed a motion for a preliminary injunction, seeking to prohibit HHS from further transferring Medicaid data to DHS, the Department of Government Efficiency (DOGE), or other federal agencies, and to bar DHS from using the data for immigration enforcement or population surveillance. In support, plaintiffs submitted declarations from senior Medicaid officials in California, Washington, Maryland, Delaware, and representatives of healthcare providers. These declarations detailed irreparable harms already suffered, including widespread fear and disenrollment from Medicaid programs among immigrant communities; reduced use of necessary emergency and preventive healthcare services; and substantial financial burdens on healthcare providers and states due to uncompensated care and lost federal funding.\n\nOn July 14, the parties stipulated to expedite briefing on the preliminary injunction, and the court scheduled oral argument for August 7, 2025. On August 12, 2025, the court granted in part and denied in part the motion for a preliminary injunction. 2025 WL 2356224. At the outset, it noted that there did not appear to be anything categorically unlawful about DHS obtaining data from agencies like HHS for immigration enforcement purposes, and that several federal statutes appeared to permit, and sometimes even require, such disclosures. Nonetheless, in light of existing, longstanding ICE policy against using Medicaid data for immigration enforcement, and reliance on that policy by states, providers, and patients, \"it was incumbent upon the agencies to carry out a reasoned decisionmaking process before changing them.\"\u00a0 The record in this case suggested that no such process occurred, and that the defendants did not consider important policy tradeoffs before making the challenged changes. Thus, the court concluded that, on the record before it, the states had demonstrated a likelihood of success on their \u201carbitrary and capricious\u201d claim under the APA, which would require HHS and DHS to go back and engage in a reasoned decisionmaking process.\u00a0 Moreover, the states were likely to suffer irreparable harm from the way the agencies implemented the change, and the balance of hardships and public interest further warranted preliminary relief. The court therefore preliminarily enjoined DHS from using Medicaid data obtained from the plaintiff states for immigration enforcement purposes, including data already acquired from CMS, and preliminarily enjoined HHS from sharing Medicaid data obtained from the plaintiff states with DHS for immigration enforcement purposes. The preliminary injunction was to remain in place until the shorter of: (1) the termination of this litigation; or (2) 14 days after both DHS and HHS have completed a reasoned decisionmaking process or rulemaking, if necessary. The court declined, however, to require the agencies to undertake notice and comment rulemaking, holding that the states had not demonstrated that such rulemaking was required. It noted that this was without prejudice to re-raising the issue later. It further noted its skepticism on the merits of the plaintiffs' Spending Clause claim, but denied it as moot in light of the ruling under the APA which would enable the agencies to consider the Spending Clause issue as part of the reasoned decisionmaking process.\n\nThis case is ongoing.",
+    "target_paragraph": "On July 14, the parties stipulated to expedite briefing on the preliminary injunction, and the court scheduled oral argument for August 7, 2025. On August 12, 2025, the court granted in part and denied in part the motion for a preliminary injunction. 2025 WL 2356224. At the outset, it noted that there did not appear to be anything categorically unlawful about DHS obtaining data from agencies like HHS for immigration enforcement purposes, and that several federal statutes appeared to permit, and sometimes even require, such disclosures. Nonetheless, in light of existing, longstanding ICE policy against using Medicaid data for immigration enforcement, and reliance on that policy by states, providers, and patients, \"it was incumbent upon the agencies to carry out a reasoned decisionmaking process before changing them.\"\u00a0 The record in this case suggested that no such process occurred, and that the defendants did not consider important policy tradeoffs before making the challenged changes. Thus, the court concluded that, on the record before it, the states had demonstrated a likelihood of success on their \u201carbitrary and capricious\u201d claim under the APA, which would require HHS and DHS to go back and engage in a reasoned decisionmaking process.\u00a0 Moreover, the states were likely to suffer irreparable harm from the way the agencies implemented the change, and the balance of hardships and public interest further warranted preliminary relief. The court therefore preliminarily enjoined DHS from using Medicaid data obtained from the plaintiff states for immigration enforcement purposes, including data already acquired from CMS, and preliminarily enjoined HHS from sharing Medicaid data obtained from the plaintiff states with DHS for immigration enforcement purposes. The preliminary injunction was to remain in place until the shorter of: (1) the termination of this litigation; or (2) 14 days after both DHS and HHS have completed a reasoned decisionmaking process or rulemaking, if necessary. The court declined, however, to require the agencies to undertake notice and comment rulemaking, holding that the states had not demonstrated that such rulemaking was required. It noted that this was without prejudice to re-raising the issue later. It further noted its skepticism on the merits of the plaintiffs' Spending Clause claim, but denied it as moot in light of the ruling under the APA which would enable the agencies to consider the Spending Clause issue as part of the reasoned decisionmaking process.",
+    "target_paragraph_indices": [
+      3136,
+      5660
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3281,
+            3403
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025 WL 2356224",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            3281,
+            3386
+          ],
+          [
+            4592,
+            4918
+          ],
+          [
+            4919,
+            5146
+          ]
+        ],
+        "annotation": {
+          "explanation": "until the shorter of: (1) the termination of this litigation; or (2) 14 days after both DHS and HHS have completed a reasoned decisionmaking process or rulemaking, if necessary: The court preliminarily enjoined DHS from using Medicaid data obtained from the plaintiff states for immigration enforcement purposes, including data already acquired from CMS, and preliminarily enjoined HHS from sharing Medicaid data obtained from the plaintiff states with DHS for immigration enforcement purposes (preliminary injunction entered Aug. 12, 2025).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3136,
+            3280
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 14, 2025: Court scheduled oral argument on the preliminary injunction for August 7, 2025 (following the parties\u2019 stipulation to expedite briefing).",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3281,
+            3403
+          ],
+          [
+            4592,
+            4918
+          ],
+          [
+            4919,
+            5146
+          ],
+          [
+            5147,
+            5323
+          ],
+          [
+            5396,
+            5660
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 12, 2025: Court granted in part and denied in part the motion for a preliminary injunction; preliminarily enjoined DHS from using Medicaid data obtained from the plaintiff states for immigration enforcement (including data already acquired) and enjoined HHS from sharing such data with DHS for immigration enforcement; injunction to remain until the earlier of case termination or 14 days after both DHS and HHS complete a reasoned decisionmaking process or rulemaking; declined to require notice-and-comment rulemaking; denied Spending Clause claim as moot.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3136,
+            3280
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural background: Briefing was expedited and oral argument set for August 7, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3419,
+            3677
+          ],
+          [
+            3691,
+            3963
+          ],
+          [
+            3965,
+            4135
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court\u2019s factual findings for preliminary relief: Although disclosures may be statutorily permitted, agencies changed course from longstanding ICE policy without a reasoned decisionmaking process and without considering important tradeoffs and reliance interests.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4136,
+            4393
+          ],
+          [
+            4395,
+            4591
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court\u2019s conclusions: States showed likely success on the APA arbitrary-and-capricious claim and likely irreparable harm, warranting preliminary relief and requiring agencies to engage in reasoned decisionmaking.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4592,
+            4918
+          ],
+          [
+            4919,
+            5146
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction terms: DHS is enjoined from using Medicaid data from plaintiff states (including data already acquired); HHS is enjoined from sharing such data for immigration enforcement; injunction lasts until case ends or 14 days after agencies complete reasoned decisionmaking/rulemaking.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5147,
+            5323
+          ],
+          [
+            5396,
+            5660
+          ]
+        ],
+        "annotation": {
+          "explanation": "Additional rulings: Court did not require notice-and-comment at this stage; expressed skepticism about the Spending Clause claim, which it denied as moot given the APA ruling.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3136,
+            3280
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties\u2019 stipulation filed July 14, 2025, to expedite briefing on the preliminary injunction; court set oral argument for August 7, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3281,
+            3403
+          ],
+          [
+            4592,
+            4918
+          ],
+          [
+            4919,
+            5146
+          ],
+          [
+            5147,
+            5323
+          ],
+          [
+            5396,
+            5660
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order dated August 12, 2025 (2025 WL 2356224) granting in part and denying in part the preliminary injunction: enjoining DHS from using Medicaid data from plaintiff states for immigration enforcement (including data already acquired) and enjoining HHS from sharing such data for immigration enforcement; injunction to last until case termination or 14 days after DHS and HHS complete a reasoned decisionmaking process or rulemaking, if necessary; court declined to require notice-and-comment rulemaking and denied Spending Clause claim as moot.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4592,
+            4778
+          ]
+        ],
+        "annotation": {
+          "explanation": "DHS is preliminarily enjoined from using Medicaid data obtained from the plaintiff states for immigration enforcement, including data already acquired from CMS.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4779,
+            4918
+          ]
+        ],
+        "annotation": {
+          "explanation": "HHS is preliminarily enjoined from sharing Medicaid data obtained from the plaintiff states with DHS for immigration enforcement purposes.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4919,
+            5146
+          ]
+        ],
+        "annotation": {
+          "explanation": "The injunction remains in effect until the earlier of case termination or 14 days after both DHS and HHS complete a reasoned decisionmaking process or, if necessary, rulemaking.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4779,
+            4918
+          ]
+        ],
+        "annotation": {
+          "explanation": "HHS is preliminarily enjoined from sharing Medicaid data obtained from the plaintiff states with DHS for immigration enforcement purposes.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4919,
+            5146
+          ]
+        ],
+        "annotation": {
+          "explanation": "Duration: Injunction remains until the earlier of (1) termination of the litigation, or (2) 14 days after both DHS and HHS complete a reasoned decisionmaking process or rulemaking, if necessary.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            5147,
+            5323
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court did not require notice-and-comment rulemaking at this stage.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3136,
+            3280
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties stipulated to expedited briefing on July 14, 2025; court scheduled oral argument for August 7, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3281,
+            3403
+          ]
+        ],
+        "annotation": {
+          "explanation": "On August 12, 2025, the court granted in part and denied in part the preliminary injunction (citation: 2025 WL 2356224).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4136,
+            4393
+          ],
+          [
+            4395,
+            4591
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court\u2019s reasoning: likelihood of success on APA arbitrary-and-capricious claim; irreparable harm; balance of hardships and public interest favored relief.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4592,
+            4918
+          ]
+        ],
+        "annotation": {
+          "explanation": "Scope of injunction: DHS enjoined from using plaintiff states\u2019 Medicaid data for immigration enforcement (including data already acquired from CMS); HHS enjoined from sharing plaintiff states\u2019 Medicaid data with DHS for immigration enforcement purposes.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4919,
+            5146
+          ]
+        ],
+        "annotation": {
+          "explanation": "Duration of injunction: until the earlier of case termination or 14 days after both DHS and HHS complete a reasoned decisionmaking process or rulemaking, if necessary.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5147,
+            5395
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related ruling: Court declined to require notice-and-comment rulemaking at this stage, without prejudice to re-raising.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 22
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5396,
+            5660
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related ruling: Court expressed skepticism about the Spending Clause claim and denied it as moot in light of the APA ruling.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 23
+      }
+    ]
+  },
+  {
+    "id": "46754_p6",
+    "metadata": {
+      "case_id": "46754",
+      "paragraph_num": 6,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "This case challenged the Trump administration\u2019s disclosure of confidential Medicaid beneficiary data to the Department of Homeland Security (DHS) for immigration enforcement. On July 1, 2025, twenty-one states and the District of Columbia filed this lawsuit in the U.S. District Court for the Northern District of California against the U.S. Department of Health and Human Services (HHS), Secretary Robert F. Kennedy Jr., the U.S. Department of Homeland Security (DHS), and Secretary Kristi Noem. The plaintiffs, represented by their respective state attorneys general, sought declaratory and injunctive relief, alleging violations of the Administrative Procedure Act (APA), the Privacy Act, the Health Insurance Portability and Accountability Act (HIPAA), the Federal Information Security Management Act (FISMA), and constitutional claims under the Spending Clause and separation-of-powers principles.\n\nThe case was assigned to Judge Vince Chhabria.\n\nPlaintiffs alleged that in early June 2025, HHS\u2019s Centers for Medicare and Medicaid Services (CMS) secretly transferred Medicaid beneficiary data\u2014including names, addresses, Medicaid IDs, immigration status, and potentially protected health information\u2014to DHS. Following internal agency objections, HHS and Immigration and Customs Enforcement (ICE) formalized this arrangement on July 9, 2025, through an Interagency Exchange Agreement (IEA), granting ICE direct access to CMS\u2019s Integrated Data Repository and the Transformed Medicaid Statistical Information System (T-MSIS), containing over 78 million Medicaid beneficiaries\u2019 personal records. Plaintiffs claimed this unprecedented transfer violated federal statutes strictly limiting disclosure of Medicaid data to purposes directly connected to Medicaid administration, and undermined decades of federal assurances regarding patient privacy.\n\nPlaintiffs also alleged procedural and constitutional violations. They asserted that HHS\u2019s decision constituted a final agency action requiring notice-and-comment rulemaking under the APA, that it was arbitrary and capricious for failing to consider reliance interests and severe public health consequences, and that the new data-sharing policy retroactively imposed ambiguous, coercive conditions on federal Medicaid funding contrary to the Spending Clause.\n\nOn July 11, plaintiffs filed a motion for a preliminary injunction, seeking to prohibit HHS from further transferring Medicaid data to DHS, the Department of Government Efficiency (DOGE), or other federal agencies, and to bar DHS from using the data for immigration enforcement or population surveillance. In support, plaintiffs submitted declarations from senior Medicaid officials in California, Washington, Maryland, Delaware, and representatives of healthcare providers. These declarations detailed irreparable harms already suffered, including widespread fear and disenrollment from Medicaid programs among immigrant communities; reduced use of necessary emergency and preventive healthcare services; and substantial financial burdens on healthcare providers and states due to uncompensated care and lost federal funding.\n\nOn July 14, the parties stipulated to expedite briefing on the preliminary injunction, and the court scheduled oral argument for August 7, 2025. On August 12, 2025, the court granted in part and denied in part the motion for a preliminary injunction. 2025 WL 2356224. At the outset, it noted that there did not appear to be anything categorically unlawful about DHS obtaining data from agencies like HHS for immigration enforcement purposes, and that several federal statutes appeared to permit, and sometimes even require, such disclosures. Nonetheless, in light of existing, longstanding ICE policy against using Medicaid data for immigration enforcement, and reliance on that policy by states, providers, and patients, \"it was incumbent upon the agencies to carry out a reasoned decisionmaking process before changing them.\"\u00a0 The record in this case suggested that no such process occurred, and that the defendants did not consider important policy tradeoffs before making the challenged changes. Thus, the court concluded that, on the record before it, the states had demonstrated a likelihood of success on their \u201carbitrary and capricious\u201d claim under the APA, which would require HHS and DHS to go back and engage in a reasoned decisionmaking process.\u00a0 Moreover, the states were likely to suffer irreparable harm from the way the agencies implemented the change, and the balance of hardships and public interest further warranted preliminary relief. The court therefore preliminarily enjoined DHS from using Medicaid data obtained from the plaintiff states for immigration enforcement purposes, including data already acquired from CMS, and preliminarily enjoined HHS from sharing Medicaid data obtained from the plaintiff states with DHS for immigration enforcement purposes. The preliminary injunction was to remain in place until the shorter of: (1) the termination of this litigation; or (2) 14 days after both DHS and HHS have completed a reasoned decisionmaking process or rulemaking, if necessary. The court declined, however, to require the agencies to undertake notice and comment rulemaking, holding that the states had not demonstrated that such rulemaking was required. It noted that this was without prejudice to re-raising the issue later. It further noted its skepticism on the merits of the plaintiffs' Spending Clause claim, but denied it as moot in light of the ruling under the APA which would enable the agencies to consider the Spending Clause issue as part of the reasoned decisionmaking process.\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      5662,
+      5683
+    ],
+    "edits": [
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            5662,
+            5683
+          ]
+        ],
+        "annotation": {
+          "explanation": "No.",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5662,
+            5683
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: Ongoing litigation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5662,
+            5683
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  }
+]

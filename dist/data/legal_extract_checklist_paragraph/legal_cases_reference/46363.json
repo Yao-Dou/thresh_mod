@@ -1,0 +1,1574 @@
+[
+  {
+    "id": "46363_p0",
+    "metadata": {
+      "case_id": "46363",
+      "paragraph_num": 0,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemie..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of Texas. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Fernando Rodriguez.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded. A hearing was held on April 11, after which the Court issued a TRO set to expire on April 25, 2025. In addition, Judge Rodriguez ordered the plaintiffs to file a motion for a preliminary injunction by April 16, with briefing set to conclude on April 23 and a hearing scheduled for April 24, 2025.\n\nOn Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2.\n\nOn Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habeas, and then certified a class of Venezuelan aliens, 14 years old or older, who have not been naturalized, who Respondents have designated or in the future designate as alien enemies under [President's March 15 Executive Order], and who are detained or reside in the Southern District of Texas.\"\n\nThen he entered a permanent injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order. He held:\n\nWhile the [President's] Proclamation references that TdA members have harmed lives in the United States and engage in crime, the Proclamation does not suggest that they have done so through an organized armed attack, or that Venezuela has threatened or attempted such an attack through TdA members. \u00a0As a result, the Proclamation also falls short of describing a \u201cpredatory incursion\u201d as that concept was understood at the time of the AEA\u2019s enactment. . . . For these reasons, the Court concludes that the President\u2019s invocation of the AEA through the Proclamation exceeds the scope of the statute and, as a result, is unlawful. \u00a0Respondents do not possess the lawful authority under the AEA, and based on the Proclamation, to detain Venezuelan aliens, transfer them within the United States, or remove them from the country.\n\nOn June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (Case No. 25-40400).\n\nThis case is ongoing",
+    "target_paragraph": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].",
+    "target_paragraph_indices": [
+      0,
+      354
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            77,
+            199
+          ],
+          [
+            1336,
+            1505
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment's Due Process Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            77,
+            199
+          ],
+          [
+            3920,
+            4090
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alien Enemies Act (AEA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            9
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            0,
+            199
+          ],
+          [
+            2141,
+            2275
+          ],
+          [
+            2832,
+            3225
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Class Action",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            5,
+            7
+          ]
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46363_p1",
+    "metadata": {
+      "case_id": "46363",
+      "paragraph_num": 1,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United Stat..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of Texas. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Fernando Rodriguez.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded. A hearing was held on April 11, after which the Court issued a TRO set to expire on April 25, 2025. In addition, Judge Rodriguez ordered the plaintiffs to file a motion for a preliminary injunction by April 16, with briefing set to conclude on April 23 and a hearing scheduled for April 24, 2025.\n\nOn Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2.\n\nOn Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habeas, and then certified a class of Venezuelan aliens, 14 years old or older, who have not been naturalized, who Respondents have designated or in the future designate as alien enemies under [President's March 15 Executive Order], and who are detained or reside in the Southern District of Texas.\"\n\nThen he entered a permanent injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order. He held:\n\nWhile the [President's] Proclamation references that TdA members have harmed lives in the United States and engage in crime, the Proclamation does not suggest that they have done so through an organized armed attack, or that Venezuela has threatened or attempted such an attack through TdA members. \u00a0As a result, the Proclamation also falls short of describing a \u201cpredatory incursion\u201d as that concept was understood at the time of the AEA\u2019s enactment. . . . For these reasons, the Court concludes that the President\u2019s invocation of the AEA through the Proclamation exceeds the scope of the statute and, as a result, is unlawful. \u00a0Respondents do not possess the lawful authority under the AEA, and based on the Proclamation, to detain Venezuelan aliens, transfer them within the United States, or remove them from the country.\n\nOn June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (Case No. 25-40400).\n\nThis case is ongoing",
+    "target_paragraph": "On April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of Texas. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.",
+    "target_paragraph_indices": [
+      356,
+      802
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            356,
+            509
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 9, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            356,
+            509
+          ],
+          [
+            1680,
+            1865
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for writ of habeas corpus to challenge detention/removal under the Alien Enemies Act (habeas as the required vehicle per J.G.G. v. Trump).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            4
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            510,
+            802
+          ],
+          [
+            4289,
+            4407
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: Respondents (President Donald J. Trump, the Department of Justice, the Department of Homeland Security (DHS), Immigration and Customs Enforcement (ICE), the Department of State, and the El Valle Detention Facility) appealed to the U.S. Court of Appeals for the Fifth Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": [
+            1,
+            10
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            356,
+            509
+          ],
+          [
+            709,
+            802
+          ],
+          [
+            3228,
+            3451
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: J.A.V., a Venezuelan man and habeas petitioner held at the El Valle Detention Facility (a Texas ICE facility).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            8
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            356,
+            509
+          ],
+          [
+            709,
+            802
+          ],
+          [
+            3228,
+            3451
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: J.G.G., a Venezuelan man and habeas petitioner held at the El Valle Detention Facility (a Texas ICE facility).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            8
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            356,
+            509
+          ],
+          [
+            709,
+            802
+          ],
+          [
+            3228,
+            3451
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: W.G.H., a Venezuelan man and habeas petitioner held at the El Valle Detention Facility (a Texas ICE facility).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            8
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            510,
+            802
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: President Donald J. Trump.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            510,
+            802
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Justice.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            510,
+            802
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Homeland Security (DHS).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            510,
+            802
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Immigration and Customs Enforcement (ICE).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            510,
+            802
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of State.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            510,
+            802
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            356,
+            509
+          ],
+          [
+            2141,
+            2433
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 9, 2025: The Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            356,
+            509
+          ],
+          [
+            510,
+            802
+          ],
+          [
+            804,
+            994
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 9, 2025, three Venezuelan detainees at El Valle Detention Facility filed an ACLU-represented habeas petition in the Southern District of Texas against the President, DOJ, DHS/ICE, State, and the detention facility.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 13
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            356,
+            509
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for writ of habeas corpus filed on April 9, 2025 (S.D. Tex.).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": "46363_p2",
+    "metadata": {
+      "case_id": "46363",
+      "paragraph_num": 2,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Represented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to re..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of Texas. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Fernando Rodriguez.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded. A hearing was held on April 11, after which the Court issued a TRO set to expire on April 25, 2025. In addition, Judge Rodriguez ordered the plaintiffs to file a motion for a preliminary injunction by April 16, with briefing set to conclude on April 23 and a hearing scheduled for April 24, 2025.\n\nOn Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2.\n\nOn Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habeas, and then certified a class of Venezuelan aliens, 14 years old or older, who have not been naturalized, who Respondents have designated or in the future designate as alien enemies under [President's March 15 Executive Order], and who are detained or reside in the Southern District of Texas.\"\n\nThen he entered a permanent injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order. He held:\n\nWhile the [President's] Proclamation references that TdA members have harmed lives in the United States and engage in crime, the Proclamation does not suggest that they have done so through an organized armed attack, or that Venezuela has threatened or attempted such an attack through TdA members. \u00a0As a result, the Proclamation also falls short of describing a \u201cpredatory incursion\u201d as that concept was understood at the time of the AEA\u2019s enactment. . . . For these reasons, the Court concludes that the President\u2019s invocation of the AEA through the Proclamation exceeds the scope of the statute and, as a result, is unlawful. \u00a0Respondents do not possess the lawful authority under the AEA, and based on the Proclamation, to detain Venezuelan aliens, transfer them within the United States, or remove them from the country.\n\nOn June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (Case No. 25-40400).\n\nThis case is ongoing",
+    "target_paragraph": "Represented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.",
+    "target_paragraph_indices": [
+      804,
+      1334
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            829,
+            994
+          ]
+        ],
+        "annotation": {
+          "explanation": "Challenge to the Administration's invocation of the Alien Enemies Act and related Presidential Proclamation as unlawful (ultra vires).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            804,
+            994
+          ]
+        ],
+        "annotation": {
+          "explanation": "ACLU",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1118,
+            1334
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 15, 2025: President Trump issued a proclamation declaring the United States was \u201cunder invasion\u201d by Tren de Aragua and invoking the AEA.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            995,
+            1117
+          ],
+          [
+            1118,
+            1334
+          ]
+        ],
+        "annotation": {
+          "explanation": "The Administration\u2019s actions were based on a March 15, 2025 presidential proclamation invoking the AEA due to an asserted invasion by Tren de Aragua; the AEA is described as a wartime removal authority.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46363_p3",
+    "metadata": {
+      "case_id": "46363",
+      "paragraph_num": 3,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the F..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of Texas. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Fernando Rodriguez.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded. A hearing was held on April 11, after which the Court issued a TRO set to expire on April 25, 2025. In addition, Judge Rodriguez ordered the plaintiffs to file a motion for a preliminary injunction by April 16, with briefing set to conclude on April 23 and a hearing scheduled for April 24, 2025.\n\nOn Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2.\n\nOn Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habeas, and then certified a class of Venezuelan aliens, 14 years old or older, who have not been naturalized, who Respondents have designated or in the future designate as alien enemies under [President's March 15 Executive Order], and who are detained or reside in the Southern District of Texas.\"\n\nThen he entered a permanent injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order. He held:\n\nWhile the [President's] Proclamation references that TdA members have harmed lives in the United States and engage in crime, the Proclamation does not suggest that they have done so through an organized armed attack, or that Venezuela has threatened or attempted such an attack through TdA members. \u00a0As a result, the Proclamation also falls short of describing a \u201cpredatory incursion\u201d as that concept was understood at the time of the AEA\u2019s enactment. . . . For these reasons, the Court concludes that the President\u2019s invocation of the AEA through the Proclamation exceeds the scope of the statute and, as a result, is unlawful. \u00a0Respondents do not possess the lawful authority under the AEA, and based on the Proclamation, to detain Venezuelan aliens, transfer them within the United States, or remove them from the country.\n\nOn June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (Case No. 25-40400).\n\nThis case is ongoing",
+    "target_paragraph": "The petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Fernando Rodriguez.",
+    "target_paragraph_indices": [
+      1336,
+      1678
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1336,
+            1505
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims alleging violations of the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1336,
+            1505
+          ]
+        ],
+        "annotation": {
+          "explanation": "Immigration and Nationality Act (INA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1336,
+            1505
+          ]
+        ],
+        "annotation": {
+          "explanation": "Foreign Affairs Reform and Restructuring Act (FARRA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1506,
+            1618
+          ]
+        ],
+        "annotation": {
+          "explanation": "Writ of habeas corpus releasing petitioners from detention",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1506,
+            1618
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1506,
+            1618
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1619,
+            1678
+          ],
+          [
+            2534,
+            2730
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fernando Rodriguez",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            3,
+            5
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1336,
+            1505
+          ],
+          [
+            1506,
+            1618
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petitioners claim AEA invocation violates the INA, FARRA, and the Fifth Amendment and seek release via habeas plus injunctive and declaratory relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1619,
+            1678
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case is before District Judge Fernando Rodriguez.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1619,
+            1678
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assigned to District Judge Fernando Rodriguez in the Southern District of Texas.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46363_p4",
+    "metadata": {
+      "case_id": "46363",
+      "paragraph_num": 4,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of Texas. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Fernando Rodriguez.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded. A hearing was held on April 11, after which the Court issued a TRO set to expire on April 25, 2025. In addition, Judge Rodriguez ordered the plaintiffs to file a motion for a preliminary injunction by April 16, with briefing set to conclude on April 23 and a hearing scheduled for April 24, 2025.\n\nOn Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2.\n\nOn Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habeas, and then certified a class of Venezuelan aliens, 14 years old or older, who have not been naturalized, who Respondents have designated or in the future designate as alien enemies under [President's March 15 Executive Order], and who are detained or reside in the Southern District of Texas.\"\n\nThen he entered a permanent injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order. He held:\n\nWhile the [President's] Proclamation references that TdA members have harmed lives in the United States and engage in crime, the Proclamation does not suggest that they have done so through an organized armed attack, or that Venezuela has threatened or attempted such an attack through TdA members. \u00a0As a result, the Proclamation also falls short of describing a \u201cpredatory incursion\u201d as that concept was understood at the time of the AEA\u2019s enactment. . . . For these reasons, the Court concludes that the President\u2019s invocation of the AEA through the Proclamation exceeds the scope of the statute and, as a result, is unlawful. \u00a0Respondents do not possess the lawful authority under the AEA, and based on the Proclamation, to detain Venezuelan aliens, transfer them within the United States, or remove them from the country.\n\nOn June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (Case No. 25-40400).\n\nThis case is ongoing",
+    "target_paragraph": "This action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.",
+    "target_paragraph_indices": [
+      1680,
+      2139
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            1680,
+            1865
+          ]
+        ],
+        "annotation": {
+          "explanation": "J.G.G. v. Trump",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            1680,
+            1785
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: J.G.G. v. Trump; case code number: 46232",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1680,
+            1865
+          ],
+          [
+            1866,
+            2139
+          ]
+        ],
+        "annotation": {
+          "explanation": "The filing strategy followed the Supreme Court\u2019s J.G.G. v. Trump decision requiring AEA removal challenges be brought via habeas in the district of confinement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46363_p5",
+    "metadata": {
+      "case_id": "46363",
+      "paragraph_num": 5,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Along with their habeas petition, the petitioners also filed an emergency motion for a TRO and a sep..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of Texas. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Fernando Rodriguez.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded. A hearing was held on April 11, after which the Court issued a TRO set to expire on April 25, 2025. In addition, Judge Rodriguez ordered the plaintiffs to file a motion for a preliminary injunction by April 16, with briefing set to conclude on April 23 and a hearing scheduled for April 24, 2025.\n\nOn Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2.\n\nOn Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habeas, and then certified a class of Venezuelan aliens, 14 years old or older, who have not been naturalized, who Respondents have designated or in the future designate as alien enemies under [President's March 15 Executive Order], and who are detained or reside in the Southern District of Texas.\"\n\nThen he entered a permanent injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order. He held:\n\nWhile the [President's] Proclamation references that TdA members have harmed lives in the United States and engage in crime, the Proclamation does not suggest that they have done so through an organized armed attack, or that Venezuela has threatened or attempted such an attack through TdA members. \u00a0As a result, the Proclamation also falls short of describing a \u201cpredatory incursion\u201d as that concept was understood at the time of the AEA\u2019s enactment. . . . For these reasons, the Court concludes that the President\u2019s invocation of the AEA through the Proclamation exceeds the scope of the statute and, as a result, is unlawful. \u00a0Respondents do not possess the lawful authority under the AEA, and based on the Proclamation, to detain Venezuelan aliens, transfer them within the United States, or remove them from the country.\n\nOn June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (Case No. 25-40400).\n\nThis case is ongoing",
+    "target_paragraph": "Along with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded. A hearing was held on April 11, after which the Court issued a TRO set to expire on April 25, 2025. In addition, Judge Rodriguez ordered the plaintiffs to file a motion for a preliminary injunction by April 16, with briefing set to conclude on April 23 and a hearing scheduled for April 24, 2025.",
+    "target_paragraph_indices": [
+      2141,
+      2730
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2141,
+            2275
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency temporary restraining order (TRO)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2276,
+            2433
+          ]
+        ],
+        "annotation": {
+          "explanation": "While the case proceeded: The Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2434,
+            2533
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 11, 2025\u2013April 25, 2025: Temporary restraining order (TRO) set to expire on April 25, 2025.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2434,
+            2533
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 11, 2025: The Court issued a temporary restraining order (TRO).",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2434,
+            2533
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 25, 2025: TRO expiration date.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2141,
+            2275
+          ],
+          [
+            2276,
+            2433
+          ],
+          [
+            2434,
+            2533
+          ],
+          [
+            2534,
+            2730
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petitioners sought an emergency TRO and class certification; the court immediately barred removal, held an April 11 hearing, issued a TRO through April 25, and scheduled preliminary injunction briefing and a hearing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2141,
+            2275
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency motion for a temporary restraining order (TRO) and a motion to certify the class filed along with the habeas petition (April 9, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2276,
+            2433
+          ]
+        ],
+        "annotation": {
+          "explanation": "Same-day order temporarily prohibiting removal from the United States or the Southern District of Texas (April 9, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2434,
+            2533
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO issued after April 11, 2025 hearing; set to expire April 25, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2534,
+            2730
+          ]
+        ],
+        "annotation": {
+          "explanation": "Scheduling order directing plaintiffs to file a motion for preliminary injunction by April 16, 2025; briefing to conclude by April 23; hearing set for April 24, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2276,
+            2433
+          ]
+        ],
+        "annotation": {
+          "explanation": "Respondents are ordered not to remove the petitioners from the United States or from the Southern District of Texas while the case proceeds.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2276,
+            2433
+          ]
+        ],
+        "annotation": {
+          "explanation": "Respondents are ordered not to remove the petitioners from the United States or from the Southern District of Texas while the case is pending.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2141,
+            2275
+          ],
+          [
+            2276,
+            2433
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 9, 2025, petitioners filed an emergency TRO motion and a motion for class certification; the court immediately ordered that petitioners not be removed from the U.S. or the Southern District of Texas while the case proceeded.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2434,
+            2533
+          ]
+        ],
+        "annotation": {
+          "explanation": "Hearing held April 11, 2025; court issued a TRO expiring April 25, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2534,
+            2730
+          ]
+        ],
+        "annotation": {
+          "explanation": "Scheduling order: plaintiffs to file preliminary injunction motion by April 16, 2025; briefing to conclude April 23; preliminary injunction hearing scheduled for April 24, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2141,
+            2433
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 9, 2025: Same day the emergency TRO motion was filed, the Court ordered that petitioners not be removed from the U.S. or the Southern District of Texas while the case proceeded (immediate non-removal order).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2434,
+            2533
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 11, 2025: Court issued a temporary restraining order (TRO) after a hearing, set to expire April 25, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      }
+    ]
+  },
+  {
+    "id": "46363_p6",
+    "metadata": {
+      "case_id": "46363",
+      "paragraph_num": 6,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of Texas. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Fernando Rodriguez.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded. A hearing was held on April 11, after which the Court issued a TRO set to expire on April 25, 2025. In addition, Judge Rodriguez ordered the plaintiffs to file a motion for a preliminary injunction by April 16, with briefing set to conclude on April 23 and a hearing scheduled for April 24, 2025.\n\nOn Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2.\n\nOn Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habeas, and then certified a class of Venezuelan aliens, 14 years old or older, who have not been naturalized, who Respondents have designated or in the future designate as alien enemies under [President's March 15 Executive Order], and who are detained or reside in the Southern District of Texas.\"\n\nThen he entered a permanent injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order. He held:\n\nWhile the [President's] Proclamation references that TdA members have harmed lives in the United States and engage in crime, the Proclamation does not suggest that they have done so through an organized armed attack, or that Venezuela has threatened or attempted such an attack through TdA members. \u00a0As a result, the Proclamation also falls short of describing a \u201cpredatory incursion\u201d as that concept was understood at the time of the AEA\u2019s enactment. . . . For these reasons, the Court concludes that the President\u2019s invocation of the AEA through the Proclamation exceeds the scope of the statute and, as a result, is unlawful. \u00a0Respondents do not possess the lawful authority under the AEA, and based on the Proclamation, to detain Venezuelan aliens, transfer them within the United States, or remove them from the country.\n\nOn June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (Case No. 25-40400).\n\nThis case is ongoing",
+    "target_paragraph": "On Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2.",
+    "target_paragraph_indices": [
+      2732,
+      2830
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2732,
+            2830
+          ]
+        ],
+        "annotation": {
+          "explanation": "Through May 2, 2025: TRO extended.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2732,
+            2830
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 24, 2025: Judge Rodriguez extended the TRO to Friday, May 2.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2732,
+            2830
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 2: Extended TRO expiration date.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2732,
+            2830
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 24, 2025, the court extended the TRO to May 2.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2732,
+            2830
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO extended on April 24, 2025 to May 2, 2025, following a hearing.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2732,
+            2830
+          ]
+        ],
+        "annotation": {
+          "explanation": "Hearing held April 24, 2025; TRO extended to May 2, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2732,
+            2830
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 24, 2025: Court extended the TRO to May 2, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46363_p7",
+    "metadata": {
+      "case_id": "46363",
+      "paragraph_num": 7,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habea..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of Texas. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Fernando Rodriguez.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded. A hearing was held on April 11, after which the Court issued a TRO set to expire on April 25, 2025. In addition, Judge Rodriguez ordered the plaintiffs to file a motion for a preliminary injunction by April 16, with briefing set to conclude on April 23 and a hearing scheduled for April 24, 2025.\n\nOn Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2.\n\nOn Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habeas, and then certified a class of Venezuelan aliens, 14 years old or older, who have not been naturalized, who Respondents have designated or in the future designate as alien enemies under [President's March 15 Executive Order], and who are detained or reside in the Southern District of Texas.\"\n\nThen he entered a permanent injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order. He held:\n\nWhile the [President's] Proclamation references that TdA members have harmed lives in the United States and engage in crime, the Proclamation does not suggest that they have done so through an organized armed attack, or that Venezuela has threatened or attempted such an attack through TdA members. \u00a0As a result, the Proclamation also falls short of describing a \u201cpredatory incursion\u201d as that concept was understood at the time of the AEA\u2019s enactment. . . . For these reasons, the Court concludes that the President\u2019s invocation of the AEA through the Proclamation exceeds the scope of the statute and, as a result, is unlawful. \u00a0Respondents do not possess the lawful authority under the AEA, and based on the Proclamation, to detain Venezuelan aliens, transfer them within the United States, or remove them from the country.\n\nOn June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (Case No. 25-40400).\n\nThis case is ongoing",
+    "target_paragraph": "On Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habeas, and then certified a class of Venezuelan aliens, 14 years old or older, who have not been naturalized, who Respondents have designated or in the future designate as alien enemies under [President's March 15 Executive Order], and who are detained or reside in the Southern District of Texas.\"",
+    "target_paragraph_indices": [
+      2832,
+      3226
+    ],
+    "edits": [
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            2852,
+            3225
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Certified class of Venezuelan aliens, 14 years old or older, not naturalized, designated (now or in future) as alien enemies under [President's March 15 Executive Order], and detained or residing in the Southern District of Texas.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2832,
+            3226
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 1: Judge Rodriguez certified a class of Venezuelan aliens as described.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2832,
+            3226
+          ],
+          [
+            3228,
+            3451
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 1: Judge Rodriguez entered a permanent injunction preventing the government from detaining, transferring, or removing the named petitioners and class members under the Alien Enemies Act and the Executive Order.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": [
+            7,
+            8
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2832,
+            3225
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 1, the court allowed a habeas class-like procedure and certified a class of non-naturalized Venezuelans age 14+ designated as alien enemies under the March 15 order and detained or residing in SDTX.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2832,
+            3225
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order on May 1, 2025: court recognized class-like procedure under habeas and certified a class (Venezuelan aliens meeting specified criteria).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2852,
+            3225
+          ]
+        ],
+        "annotation": {
+          "explanation": "Scope of relief: Class certified consisting of Venezuelan aliens (age 14+), not naturalized, designated or to be designated as alien enemies under the March 15 Executive Order, and who are detained or reside in the Southern District of Texas.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2832,
+            3225
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 1, 2025, the court held that a class-like procedure is available in habeas and certified a class defined as Venezuelan aliens (14+ years, not naturalized) designated as alien enemies under the March 15 Executive Order and detained or residing in the Southern District of Texas.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2832,
+            3225
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 1, 2025: Court granted class certification (after holding a class-like procedure is available in habeas), certifying a class of Venezuelan aliens 14+ not naturalized, designated as alien enemies under the March 15 Executive Order, detained or residing in the Southern District of Texas.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46363_p8",
+    "metadata": {
+      "case_id": "46363",
+      "paragraph_num": 8,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Then he entered a permanent injunction preventing the government from detaining, transferring, or re..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of Texas. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Fernando Rodriguez.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded. A hearing was held on April 11, after which the Court issued a TRO set to expire on April 25, 2025. In addition, Judge Rodriguez ordered the plaintiffs to file a motion for a preliminary injunction by April 16, with briefing set to conclude on April 23 and a hearing scheduled for April 24, 2025.\n\nOn Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2.\n\nOn Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habeas, and then certified a class of Venezuelan aliens, 14 years old or older, who have not been naturalized, who Respondents have designated or in the future designate as alien enemies under [President's March 15 Executive Order], and who are detained or reside in the Southern District of Texas.\"\n\nThen he entered a permanent injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order. He held:\n\nWhile the [President's] Proclamation references that TdA members have harmed lives in the United States and engage in crime, the Proclamation does not suggest that they have done so through an organized armed attack, or that Venezuela has threatened or attempted such an attack through TdA members. \u00a0As a result, the Proclamation also falls short of describing a \u201cpredatory incursion\u201d as that concept was understood at the time of the AEA\u2019s enactment. . . . For these reasons, the Court concludes that the President\u2019s invocation of the AEA through the Proclamation exceeds the scope of the statute and, as a result, is unlawful. \u00a0Respondents do not possess the lawful authority under the AEA, and based on the Proclamation, to detain Venezuelan aliens, transfer them within the United States, or remove them from the country.\n\nOn June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (Case No. 25-40400).\n\nThis case is ongoing",
+    "target_paragraph": "Then he entered a permanent injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order. He held:",
+    "target_paragraph_indices": [
+      3228,
+      3460
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            3228,
+            3451
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent: Injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3228,
+            3451
+          ],
+          [
+            3462,
+            4287
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court issued a permanent injunction against detention, transfer, or removal under the AEA/Executive Order, finding the Proclamation exceeded the AEA\u2019s scope because it did not describe an organized armed attack or predatory incursion.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            8,
+            9
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3228,
+            3451
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunction entered on May 1, 2025 preventing detention, transfer, or removal under the Alien Enemies Act and the Executive Order.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3228,
+            3451
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunction: Respondents are prohibited from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and all members of the certified class under the Alien Enemies Act and the March 15 Executive Order.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3228,
+            3451
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunction prohibiting the government from detaining, transferring, or removing the named petitioners and members of the certified class under the Alien Enemies Act and the President\u2019s March 15 Executive Order.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3228,
+            3451
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 1, 2025, the court entered a permanent injunction barring the government from detaining, transferring, or removing the named petitioners and the certified class under the AEA and the Executive Order.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3228,
+            3451
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 1, 2025: Court entered a permanent injunction barring the government from detaining, transferring, or removing the named petitioners and class members under the AEA and the Executive Order, holding the Proclamation exceeded the AEA\u2019s scope.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46363_p9",
+    "metadata": {
+      "case_id": "46363",
+      "paragraph_num": 9,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "While the [President's] Proclamation references that TdA members have harmed lives in the United Sta..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of Texas. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Fernando Rodriguez.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded. A hearing was held on April 11, after which the Court issued a TRO set to expire on April 25, 2025. In addition, Judge Rodriguez ordered the plaintiffs to file a motion for a preliminary injunction by April 16, with briefing set to conclude on April 23 and a hearing scheduled for April 24, 2025.\n\nOn Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2.\n\nOn Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habeas, and then certified a class of Venezuelan aliens, 14 years old or older, who have not been naturalized, who Respondents have designated or in the future designate as alien enemies under [President's March 15 Executive Order], and who are detained or reside in the Southern District of Texas.\"\n\nThen he entered a permanent injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order. He held:\n\nWhile the [President's] Proclamation references that TdA members have harmed lives in the United States and engage in crime, the Proclamation does not suggest that they have done so through an organized armed attack, or that Venezuela has threatened or attempted such an attack through TdA members. \u00a0As a result, the Proclamation also falls short of describing a \u201cpredatory incursion\u201d as that concept was understood at the time of the AEA\u2019s enactment. . . . For these reasons, the Court concludes that the President\u2019s invocation of the AEA through the Proclamation exceeds the scope of the statute and, as a result, is unlawful. \u00a0Respondents do not possess the lawful authority under the AEA, and based on the Proclamation, to detain Venezuelan aliens, transfer them within the United States, or remove them from the country.\n\nOn June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (Case No. 25-40400).\n\nThis case is ongoing",
+    "target_paragraph": "While the [President's] Proclamation references that TdA members have harmed lives in the United States and engage in crime, the Proclamation does not suggest that they have done so through an organized armed attack, or that Venezuela has threatened or attempted such an attack through TdA members. \u00a0As a result, the Proclamation also falls short of describing a \u201cpredatory incursion\u201d as that concept was understood at the time of the AEA\u2019s enactment. . . . For these reasons, the Court concludes that the President\u2019s invocation of the AEA through the Proclamation exceeds the scope of the statute and, as a result, is unlawful. \u00a0Respondents do not possess the lawful authority under the AEA, and based on the Proclamation, to detain Venezuelan aliens, transfer them within the United States, or remove them from the country.",
+    "target_paragraph_indices": [
+      3462,
+      4287
+    ],
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3920,
+            4090
+          ],
+          [
+            4092,
+            4287
+          ]
+        ],
+        "annotation": {
+          "explanation": "Merits ruling: The court held the President\u2019s invocation of the AEA via the Proclamation exceeds the statute\u2019s scope and is unlawful; respondents lack authority under the AEA/Proclamation to detain, transfer, or remove Venezuelan aliens.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46363_p10",
+    "metadata": {
+      "case_id": "46363",
+      "paragraph_num": 10,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (C..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of Texas. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Fernando Rodriguez.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded. A hearing was held on April 11, after which the Court issued a TRO set to expire on April 25, 2025. In addition, Judge Rodriguez ordered the plaintiffs to file a motion for a preliminary injunction by April 16, with briefing set to conclude on April 23 and a hearing scheduled for April 24, 2025.\n\nOn Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2.\n\nOn Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habeas, and then certified a class of Venezuelan aliens, 14 years old or older, who have not been naturalized, who Respondents have designated or in the future designate as alien enemies under [President's March 15 Executive Order], and who are detained or reside in the Southern District of Texas.\"\n\nThen he entered a permanent injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order. He held:\n\nWhile the [President's] Proclamation references that TdA members have harmed lives in the United States and engage in crime, the Proclamation does not suggest that they have done so through an organized armed attack, or that Venezuela has threatened or attempted such an attack through TdA members. \u00a0As a result, the Proclamation also falls short of describing a \u201cpredatory incursion\u201d as that concept was understood at the time of the AEA\u2019s enactment. . . . For these reasons, the Court concludes that the President\u2019s invocation of the AEA through the Proclamation exceeds the scope of the statute and, as a result, is unlawful. \u00a0Respondents do not possess the lawful authority under the AEA, and based on the Proclamation, to detain Venezuelan aliens, transfer them within the United States, or remove them from the country.\n\nOn June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (Case No. 25-40400).\n\nThis case is ongoing",
+    "target_paragraph": "On June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (Case No. 25-40400).",
+    "target_paragraph_indices": [
+      4289,
+      4407
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            4289,
+            4407
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal case number (5th Cir.): 25-40400",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4289,
+            4407
+          ]
+        ],
+        "annotation": {
+          "explanation": "Respondents appealed to the Fifth Circuit on June 27, 2025 (No. 25-40400).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4289,
+            4407
+          ]
+        ],
+        "annotation": {
+          "explanation": "Notice of appeal filed on June 27, 2025 to the Fifth Circuit (Case No. 25-40400).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4289,
+            4407
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal noticed on June 27, 2025, to the Fifth Circuit, Case No. 25-40400.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46363_p11",
+    "metadata": {
+      "case_id": "46363",
+      "paragraph_num": 11,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing"
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 9, 2025, three Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of Texas. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the El Valle Detention Facility, the Texas ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Fernando Rodriguez.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of Texas while the case proceeded. A hearing was held on April 11, after which the Court issued a TRO set to expire on April 25, 2025. In addition, Judge Rodriguez ordered the plaintiffs to file a motion for a preliminary injunction by April 16, with briefing set to conclude on April 23 and a hearing scheduled for April 24, 2025.\n\nOn Thursday, April 24, 2025, Judge Rodriguez held a hearing and extended the TRO to Friday, May 2.\n\nOn Thursday, May 1, Judge Rodriguez first held that a class-like procedure was available under habeas, and then certified a class of Venezuelan aliens, 14 years old or older, who have not been naturalized, who Respondents have designated or in the future designate as alien enemies under [President's March 15 Executive Order], and who are detained or reside in the Southern District of Texas.\"\n\nThen he entered a permanent injunction preventing the government from detaining, transferring, or removing J.A.V., J.G.G., W.G.H., and the members of the certified class, under the Alien Enemies Act and the Executive Order. He held:\n\nWhile the [President's] Proclamation references that TdA members have harmed lives in the United States and engage in crime, the Proclamation does not suggest that they have done so through an organized armed attack, or that Venezuela has threatened or attempted such an attack through TdA members. \u00a0As a result, the Proclamation also falls short of describing a \u201cpredatory incursion\u201d as that concept was understood at the time of the AEA\u2019s enactment. . . . For these reasons, the Court concludes that the President\u2019s invocation of the AEA through the Proclamation exceeds the scope of the statute and, as a result, is unlawful. \u00a0Respondents do not possess the lawful authority under the AEA, and based on the Proclamation, to detain Venezuelan aliens, transfer them within the United States, or remove them from the country.\n\nOn June 27, respondents appealed this decision to the U.S. Court of Appeals for the Fifth Circuit (Case No. 25-40400).\n\nThis case is ongoing",
+    "target_paragraph": "This case is ongoing",
+    "target_paragraph_indices": [
+      4409,
+      4429
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4409,
+            4429
+          ]
+        ],
+        "annotation": {
+          "explanation": "The litigation remains ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

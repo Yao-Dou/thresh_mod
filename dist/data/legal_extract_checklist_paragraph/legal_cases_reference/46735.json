@@ -1,0 +1,1049 @@
+[
+  {
+    "id": "46735_p0",
+    "metadata": {
+      "case_id": "46735",
+      "paragraph_num": 0,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged the termination of a $6 million award under the Bipartisan Safer Communities Ac..."
+    },
+    "source": "",
+    "target": "This case challenged the termination of a $6 million award under the Bipartisan Safer Communities Act to the Board of Education for the Silver Consolidated Schools (Board). On February 14, 2025, the Department of Education (DOE), by and through its Acting Assistant Secretary for Civil Rights, issued a Dear Colleague Letter (DCL) threatening schools and colleges across the country with the loss of federal funding if these education institutions continued to pursue ambiguously defined \"DEI programs\" that \"teach students that certain racial groups bear unique moral burdens that others do not\" and/or \"stigmatize students who belong to racial groups.\" The Department of Education canceled the grants to the Board on April 29, 2025, announcing that the grants \"violate the letter or purpose of Federal civil rights law; conflict with the Department\u2019s policy of prioritizing merit, fairness, and excellence in education; undermine the well-being of the students these programs are intended to help; or constitute an inappropriate use of federal funds.\"\n\nThe Board sued on June 20, 2025, in the District Court for the District of New Mexico. The Board alleged that the termination of the grants violated the First Amendment's Free Speech Clause, violated the Fifth Amendment's Due Process Clause, and violated the Spending Clause. The Board also claimed that the termination was void for vagueness, was ultra vires, and was contrary to law and arbitrary and capricious under the Administrative Procedure Act. The Board asked the court to declare the DOE's actions unlawful and to enjoin the DOE from terminating the grants.\n\nThe case was assigned to District Judge William P. Johnson. On June 23, the plaintiffs filed a motion for a temporary restraining order (TRO), or in the alternative, for a preliminary injunction barring the defendants from terminating the Board's grants.\n\nJudge Johnson denied the plaintiffs' motion on July 21 and dismissed the case without prejudice. The court first found that the plaintiffs' claims were, in essence, contract claims that belonged exclusively in the Court of Federal Claims. \"The non-continuation of Plaintiff\u2019s grant funding is the type of contract claim that gives rise to Tucker Act jurisdiction.\" \"Rather than challenging a regulatory action with some monetary implications, Plaintiff seeks payment of 'the grant monies' it claims entitlement to,\" which is the essence of a contract claim.\n\nThe court also conducted a preliminary injunction analysis on the supposition that the case was not one that belonged exclusively in the Court of Federal Claims. The court held that the plaintiffs were unlikely to succeed on the merits of their claims. On the First Amendment claim, the court ruled that \"discontinuation of grant money does not infringe on free speech because Defendants\u2019 actions do not prohibit or compel private speech.\" Turning to the Due Process claim, the court said that the plaintiffs had \"not identified a protected property or liberty interest in a continuation of the grant funding (which is fatal to the void-for-vagueness due process claim).\"\n\nThe court also rejected the plaintiffs' Spending Clause claim, since under the statutory framework, the Secretary is required to determine whether the continuation of the grant is in the \"best interests of the Federal Government.\" The Secretary made that determination here, and the decision to terminate the plaintiffs' grant was within that discretion. This discretion also doomed the plaintiffs' ultra vires claim, since the defendants did not act outside of their authority. Finally, on the plaintiffs' APA claims, the court held that the defendants' decision on how to allocate a grant award \"seems like a quintessential decision committed to agency discretion by law,\" meaning that it would not be reviewable under the APA.\n\nBased on these findings, the court said that the plaintiffs could not succeed on their request for preliminary injunction, given that they were unlikely to succeed on the merits of their claims. Therefore, the court rejected the plaintiffs' request and, based on its holding that the claims were contractual in nature, dismissed the case for lack of jurisdiction.\n\nThe case is ongoing.",
+    "target_paragraph": "This case challenged the termination of a $6 million award under the Bipartisan Safer Communities Act to the Board of Education for the Silver Consolidated Schools (Board). On February 14, 2025, the Department of Education (DOE), by and through its Acting Assistant Secretary for Civil Rights, issued a Dear Colleague Letter (DCL) threatening schools and colleges across the country with the loss of federal funding if these education institutions continued to pursue ambiguously defined \"DEI programs\" that \"teach students that certain racial groups bear unique moral burdens that others do not\" and/or \"stigmatize students who belong to racial groups.\" The Department of Education canceled the grants to the Board on April 29, 2025, announcing that the grants \"violate the letter or purpose of Federal civil rights law; conflict with the Department\u2019s policy of prioritizing merit, fairness, and excellence in education; undermine the well-being of the students these programs are intended to help; or constitute an inappropriate use of federal funds.\"",
+    "target_paragraph_indices": [
+      0,
+      1053
+    ],
+    "edits": [
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            0,
+            172
+          ],
+          [
+            1055,
+            1141
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as Board of Education for the Silver Consolidated Schools (Board)",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            172
+          ],
+          [
+            1055,
+            1141
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Board of Education for the Silver Consolidated Schools (Board), recipient of a $6 million award and challenger of the grant termination.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            173,
+            330
+          ],
+          [
+            655,
+            734
+          ],
+          [
+            1509,
+            1623
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Education (DOE), the federal agency that issued the DCL and canceled the Board's grants.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            172
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves termination of a $6 million Bipartisan Safer Communities Act grant to the Board of Education for the Silver Consolidated Schools, supported by the stated funding amount and program, with background information such as the grantee being the Board of Education for the Silver Consolidated Schools.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            173,
+            654
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves DOE\u2019s issuance of a Dear Colleague Letter on February 14, 2025 threatening loss of federal funding for certain DEI programs, supported by the DCL\u2019s quoted language, with background information such as the Acting Assistant Secretary for Civil Rights issuing the letter.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            655,
+            1053
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves DOE cancelling the Board\u2019s grants on April 29, 2025, supported by DOE\u2019s stated reasons for termination, with background information such as the stated policy concerns and civil rights compliance rationale.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46735_p1",
+    "metadata": {
+      "case_id": "46735",
+      "paragraph_num": 1,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The Board sued on June 20, 2025, in the District Court for the District of New Mexico. The Board all..."
+    },
+    "source": "",
+    "target": "This case challenged the termination of a $6 million award under the Bipartisan Safer Communities Act to the Board of Education for the Silver Consolidated Schools (Board). On February 14, 2025, the Department of Education (DOE), by and through its Acting Assistant Secretary for Civil Rights, issued a Dear Colleague Letter (DCL) threatening schools and colleges across the country with the loss of federal funding if these education institutions continued to pursue ambiguously defined \"DEI programs\" that \"teach students that certain racial groups bear unique moral burdens that others do not\" and/or \"stigmatize students who belong to racial groups.\" The Department of Education canceled the grants to the Board on April 29, 2025, announcing that the grants \"violate the letter or purpose of Federal civil rights law; conflict with the Department\u2019s policy of prioritizing merit, fairness, and excellence in education; undermine the well-being of the students these programs are intended to help; or constitute an inappropriate use of federal funds.\"\n\nThe Board sued on June 20, 2025, in the District Court for the District of New Mexico. The Board alleged that the termination of the grants violated the First Amendment's Free Speech Clause, violated the Fifth Amendment's Due Process Clause, and violated the Spending Clause. The Board also claimed that the termination was void for vagueness, was ultra vires, and was contrary to law and arbitrary and capricious under the Administrative Procedure Act. The Board asked the court to declare the DOE's actions unlawful and to enjoin the DOE from terminating the grants.\n\nThe case was assigned to District Judge William P. Johnson. On June 23, the plaintiffs filed a motion for a temporary restraining order (TRO), or in the alternative, for a preliminary injunction barring the defendants from terminating the Board's grants.\n\nJudge Johnson denied the plaintiffs' motion on July 21 and dismissed the case without prejudice. The court first found that the plaintiffs' claims were, in essence, contract claims that belonged exclusively in the Court of Federal Claims. \"The non-continuation of Plaintiff\u2019s grant funding is the type of contract claim that gives rise to Tucker Act jurisdiction.\" \"Rather than challenging a regulatory action with some monetary implications, Plaintiff seeks payment of 'the grant monies' it claims entitlement to,\" which is the essence of a contract claim.\n\nThe court also conducted a preliminary injunction analysis on the supposition that the case was not one that belonged exclusively in the Court of Federal Claims. The court held that the plaintiffs were unlikely to succeed on the merits of their claims. On the First Amendment claim, the court ruled that \"discontinuation of grant money does not infringe on free speech because Defendants\u2019 actions do not prohibit or compel private speech.\" Turning to the Due Process claim, the court said that the plaintiffs had \"not identified a protected property or liberty interest in a continuation of the grant funding (which is fatal to the void-for-vagueness due process claim).\"\n\nThe court also rejected the plaintiffs' Spending Clause claim, since under the statutory framework, the Secretary is required to determine whether the continuation of the grant is in the \"best interests of the Federal Government.\" The Secretary made that determination here, and the decision to terminate the plaintiffs' grant was within that discretion. This discretion also doomed the plaintiffs' ultra vires claim, since the defendants did not act outside of their authority. Finally, on the plaintiffs' APA claims, the court held that the defendants' decision on how to allocate a grant award \"seems like a quintessential decision committed to agency discretion by law,\" meaning that it would not be reviewable under the APA.\n\nBased on these findings, the court said that the plaintiffs could not succeed on their request for preliminary injunction, given that they were unlikely to succeed on the merits of their claims. Therefore, the court rejected the plaintiffs' request and, based on its holding that the claims were contractual in nature, dismissed the case for lack of jurisdiction.\n\nThe case is ongoing.",
+    "target_paragraph": "The Board sued on June 20, 2025, in the District Court for the District of New Mexico. The Board alleged that the termination of the grants violated the First Amendment's Free Speech Clause, violated the Fifth Amendment's Due Process Clause, and violated the Spending Clause. The Board also claimed that the termination was void for vagueness, was ultra vires, and was contrary to law and arbitrary and capricious under the Administrative Procedure Act. The Board asked the court to declare the DOE's actions unlawful and to enjoin the DOE from terminating the grants.",
+    "target_paragraph_indices": [
+      1055,
+      1623
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            1055,
+            1141
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 20, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1142,
+            1244
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment Free Speech Clause claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1142,
+            1194
+          ],
+          [
+            1246,
+            1295
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment Due Process Clause claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1331,
+            1397
+          ],
+          [
+            3050,
+            3108
+          ]
+        ],
+        "annotation": {
+          "explanation": "Void-for-vagueness due process claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            4
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1142,
+            1194
+          ],
+          [
+            1301,
+            1330
+          ]
+        ],
+        "annotation": {
+          "explanation": "Spending Clause claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1331,
+            1374
+          ],
+          [
+            1420,
+            1508
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act claims (arbitrary and capricious; contrary to law)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1331,
+            1374
+          ],
+          [
+            1399,
+            1414
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ultra vires claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1142,
+            1244
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment \u2014 Free Speech Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1142,
+            1194
+          ],
+          [
+            1246,
+            1295
+          ],
+          [
+            1331,
+            1397
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment \u2014 Due Process Clause (including void-for-vagueness)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1142,
+            1194
+          ],
+          [
+            1301,
+            1330
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Constitution \u2014 Spending Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1331,
+            1378
+          ],
+          [
+            1424,
+            1508
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act \u2014 arbitrary and capricious; contrary to law",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1509,
+            1623
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief: a declaration that DOE's actions are unlawful.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1509,
+            1623
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief: an injunction enjoining DOE from terminating the grants.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1055,
+            1141
+          ],
+          [
+            1142,
+            1330
+          ],
+          [
+            1331,
+            1508
+          ],
+          [
+            1509,
+            1623
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves the Board filing suit on June 20, 2025 in the District of New Mexico asserting First Amendment, Due Process, Spending Clause, void-for-vagueness, ultra vires, and APA claims and seeking declaratory and injunctive relief, supported by the detailed allegations and requested relief, with background information such as the filing date and forum.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1055,
+            1141
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on June 20, 2025, in the District of New Mexico.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1055,
+            1141
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed on June 20, 2025, in the U.S. District Court for the District of New Mexico.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": "46735_p2",
+    "metadata": {
+      "case_id": "46735",
+      "paragraph_num": 2,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case was assigned to District Judge William P. Johnson. On June 23, the plaintiffs filed a motio..."
+    },
+    "source": "",
+    "target": "This case challenged the termination of a $6 million award under the Bipartisan Safer Communities Act to the Board of Education for the Silver Consolidated Schools (Board). On February 14, 2025, the Department of Education (DOE), by and through its Acting Assistant Secretary for Civil Rights, issued a Dear Colleague Letter (DCL) threatening schools and colleges across the country with the loss of federal funding if these education institutions continued to pursue ambiguously defined \"DEI programs\" that \"teach students that certain racial groups bear unique moral burdens that others do not\" and/or \"stigmatize students who belong to racial groups.\" The Department of Education canceled the grants to the Board on April 29, 2025, announcing that the grants \"violate the letter or purpose of Federal civil rights law; conflict with the Department\u2019s policy of prioritizing merit, fairness, and excellence in education; undermine the well-being of the students these programs are intended to help; or constitute an inappropriate use of federal funds.\"\n\nThe Board sued on June 20, 2025, in the District Court for the District of New Mexico. The Board alleged that the termination of the grants violated the First Amendment's Free Speech Clause, violated the Fifth Amendment's Due Process Clause, and violated the Spending Clause. The Board also claimed that the termination was void for vagueness, was ultra vires, and was contrary to law and arbitrary and capricious under the Administrative Procedure Act. The Board asked the court to declare the DOE's actions unlawful and to enjoin the DOE from terminating the grants.\n\nThe case was assigned to District Judge William P. Johnson. On June 23, the plaintiffs filed a motion for a temporary restraining order (TRO), or in the alternative, for a preliminary injunction barring the defendants from terminating the Board's grants.\n\nJudge Johnson denied the plaintiffs' motion on July 21 and dismissed the case without prejudice. The court first found that the plaintiffs' claims were, in essence, contract claims that belonged exclusively in the Court of Federal Claims. \"The non-continuation of Plaintiff\u2019s grant funding is the type of contract claim that gives rise to Tucker Act jurisdiction.\" \"Rather than challenging a regulatory action with some monetary implications, Plaintiff seeks payment of 'the grant monies' it claims entitlement to,\" which is the essence of a contract claim.\n\nThe court also conducted a preliminary injunction analysis on the supposition that the case was not one that belonged exclusively in the Court of Federal Claims. The court held that the plaintiffs were unlikely to succeed on the merits of their claims. On the First Amendment claim, the court ruled that \"discontinuation of grant money does not infringe on free speech because Defendants\u2019 actions do not prohibit or compel private speech.\" Turning to the Due Process claim, the court said that the plaintiffs had \"not identified a protected property or liberty interest in a continuation of the grant funding (which is fatal to the void-for-vagueness due process claim).\"\n\nThe court also rejected the plaintiffs' Spending Clause claim, since under the statutory framework, the Secretary is required to determine whether the continuation of the grant is in the \"best interests of the Federal Government.\" The Secretary made that determination here, and the decision to terminate the plaintiffs' grant was within that discretion. This discretion also doomed the plaintiffs' ultra vires claim, since the defendants did not act outside of their authority. Finally, on the plaintiffs' APA claims, the court held that the defendants' decision on how to allocate a grant award \"seems like a quintessential decision committed to agency discretion by law,\" meaning that it would not be reviewable under the APA.\n\nBased on these findings, the court said that the plaintiffs could not succeed on their request for preliminary injunction, given that they were unlikely to succeed on the merits of their claims. Therefore, the court rejected the plaintiffs' request and, based on its holding that the claims were contractual in nature, dismissed the case for lack of jurisdiction.\n\nThe case is ongoing.",
+    "target_paragraph": "The case was assigned to District Judge William P. Johnson. On June 23, the plaintiffs filed a motion for a temporary restraining order (TRO), or in the alternative, for a preliminary injunction barring the defendants from terminating the Board's grants.",
+    "target_paragraph_indices": [
+      1625,
+      1879
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1685,
+            1879
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunctive relief: a temporary restraining order (TRO) or, alternatively, a preliminary injunction to bar termination of the grants.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1625,
+            1684
+          ],
+          [
+            1881,
+            1977
+          ]
+        ],
+        "annotation": {
+          "explanation": "William P. Johnson",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1685,
+            1879
+          ],
+          [
+            1881,
+            1977
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 21: Judge Johnson denied the plaintiffs\u2019 motion for a temporary restraining order (TRO) or, in the alternative, a preliminary injunction, and dismissed the case without prejudice.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1625,
+            1684
+          ],
+          [
+            1685,
+            1879
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves assignment to Judge William P. Johnson and a June 23 motion for TRO or preliminary injunction to prevent grant termination, supported by the assignment and motion filing details, with background information such as the relief sought (to bar termination).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1685,
+            1879
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a motion for a TRO or, alternatively, a preliminary injunction on June 23, 2025, seeking to bar termination of the grants.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1625,
+            1684
+          ]
+        ],
+        "annotation": {
+          "explanation": "Assigned to District Judge William P. Johnson.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1685,
+            1879
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 23, plaintiffs moved for a TRO or, alternatively, a preliminary injunction to bar termination of the grants.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1685,
+            1879
+          ],
+          [
+            1881,
+            1977
+          ],
+          [
+            3844,
+            4038
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 21, 2025, Judge William P. Johnson denied plaintiffs\u2019 motion for a TRO or, in the alternative, a preliminary injunction.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            2,
+            3,
+            6
+          ]
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46735_p3",
+    "metadata": {
+      "case_id": "46735",
+      "paragraph_num": 3,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Judge Johnson denied the plaintiffs' motion on July 21 and dismissed the case without prejudice. The..."
+    },
+    "source": "",
+    "target": "This case challenged the termination of a $6 million award under the Bipartisan Safer Communities Act to the Board of Education for the Silver Consolidated Schools (Board). On February 14, 2025, the Department of Education (DOE), by and through its Acting Assistant Secretary for Civil Rights, issued a Dear Colleague Letter (DCL) threatening schools and colleges across the country with the loss of federal funding if these education institutions continued to pursue ambiguously defined \"DEI programs\" that \"teach students that certain racial groups bear unique moral burdens that others do not\" and/or \"stigmatize students who belong to racial groups.\" The Department of Education canceled the grants to the Board on April 29, 2025, announcing that the grants \"violate the letter or purpose of Federal civil rights law; conflict with the Department\u2019s policy of prioritizing merit, fairness, and excellence in education; undermine the well-being of the students these programs are intended to help; or constitute an inappropriate use of federal funds.\"\n\nThe Board sued on June 20, 2025, in the District Court for the District of New Mexico. The Board alleged that the termination of the grants violated the First Amendment's Free Speech Clause, violated the Fifth Amendment's Due Process Clause, and violated the Spending Clause. The Board also claimed that the termination was void for vagueness, was ultra vires, and was contrary to law and arbitrary and capricious under the Administrative Procedure Act. The Board asked the court to declare the DOE's actions unlawful and to enjoin the DOE from terminating the grants.\n\nThe case was assigned to District Judge William P. Johnson. On June 23, the plaintiffs filed a motion for a temporary restraining order (TRO), or in the alternative, for a preliminary injunction barring the defendants from terminating the Board's grants.\n\nJudge Johnson denied the plaintiffs' motion on July 21 and dismissed the case without prejudice. The court first found that the plaintiffs' claims were, in essence, contract claims that belonged exclusively in the Court of Federal Claims. \"The non-continuation of Plaintiff\u2019s grant funding is the type of contract claim that gives rise to Tucker Act jurisdiction.\" \"Rather than challenging a regulatory action with some monetary implications, Plaintiff seeks payment of 'the grant monies' it claims entitlement to,\" which is the essence of a contract claim.\n\nThe court also conducted a preliminary injunction analysis on the supposition that the case was not one that belonged exclusively in the Court of Federal Claims. The court held that the plaintiffs were unlikely to succeed on the merits of their claims. On the First Amendment claim, the court ruled that \"discontinuation of grant money does not infringe on free speech because Defendants\u2019 actions do not prohibit or compel private speech.\" Turning to the Due Process claim, the court said that the plaintiffs had \"not identified a protected property or liberty interest in a continuation of the grant funding (which is fatal to the void-for-vagueness due process claim).\"\n\nThe court also rejected the plaintiffs' Spending Clause claim, since under the statutory framework, the Secretary is required to determine whether the continuation of the grant is in the \"best interests of the Federal Government.\" The Secretary made that determination here, and the decision to terminate the plaintiffs' grant was within that discretion. This discretion also doomed the plaintiffs' ultra vires claim, since the defendants did not act outside of their authority. Finally, on the plaintiffs' APA claims, the court held that the defendants' decision on how to allocate a grant award \"seems like a quintessential decision committed to agency discretion by law,\" meaning that it would not be reviewable under the APA.\n\nBased on these findings, the court said that the plaintiffs could not succeed on their request for preliminary injunction, given that they were unlikely to succeed on the merits of their claims. Therefore, the court rejected the plaintiffs' request and, based on its holding that the claims were contractual in nature, dismissed the case for lack of jurisdiction.\n\nThe case is ongoing.",
+    "target_paragraph": "Judge Johnson denied the plaintiffs' motion on July 21 and dismissed the case without prejudice. The court first found that the plaintiffs' claims were, in essence, contract claims that belonged exclusively in the Court of Federal Claims. \"The non-continuation of Plaintiff\u2019s grant funding is the type of contract claim that gives rise to Tucker Act jurisdiction.\" \"Rather than challenging a regulatory action with some monetary implications, Plaintiff seeks payment of 'the grant monies' it claims entitlement to,\" which is the essence of a contract claim.",
+    "target_paragraph_indices": [
+      1881,
+      2438
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1881,
+            1977
+          ],
+          [
+            1978,
+            2119
+          ],
+          [
+            2120,
+            2245
+          ],
+          [
+            2246,
+            2438
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves the court\u2019s July 21 denial of injunctive relief and dismissal without prejudice for lack of jurisdiction, supported by the court\u2019s finding that the claims are contract claims within Tucker Act jurisdiction of the Court of Federal Claims, with background information such as the court\u2019s characterization of the relief sought as payment of the grant monies.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1881,
+            1977
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 21, 2025, the court denied the plaintiffs\u2019 TRO/PI motion.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1881,
+            1977
+          ],
+          [
+            1978,
+            2119
+          ],
+          [
+            4039,
+            4207
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 21, 2025, the court dismissed the case without prejudice for lack of jurisdiction (claims deemed contractual and within the Court of Federal Claims\u2019 exclusive jurisdiction).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            3,
+            6
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1881,
+            1977
+          ],
+          [
+            4039,
+            4207
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 21, the court denied the TRO/preliminary injunction and dismissed the case without prejudice for lack of jurisdiction.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            3,
+            6
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1978,
+            2119
+          ],
+          [
+            2121,
+            2244
+          ],
+          [
+            2246,
+            2438
+          ]
+        ],
+        "annotation": {
+          "explanation": "Jurisdictional ruling: claims deemed contract claims within exclusive Court of Federal Claims jurisdiction under the Tucker Act.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1881,
+            1977
+          ],
+          [
+            1978,
+            2119
+          ],
+          [
+            4039,
+            4207
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 21, 2025, the court dismissed the case without prejudice for lack of jurisdiction, holding the claims belonged in the Court of Federal Claims.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            3,
+            6
+          ]
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46735_p4",
+    "metadata": {
+      "case_id": "46735",
+      "paragraph_num": 4,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court also conducted a preliminary injunction analysis on the supposition that the case was not ..."
+    },
+    "source": "",
+    "target": "This case challenged the termination of a $6 million award under the Bipartisan Safer Communities Act to the Board of Education for the Silver Consolidated Schools (Board). On February 14, 2025, the Department of Education (DOE), by and through its Acting Assistant Secretary for Civil Rights, issued a Dear Colleague Letter (DCL) threatening schools and colleges across the country with the loss of federal funding if these education institutions continued to pursue ambiguously defined \"DEI programs\" that \"teach students that certain racial groups bear unique moral burdens that others do not\" and/or \"stigmatize students who belong to racial groups.\" The Department of Education canceled the grants to the Board on April 29, 2025, announcing that the grants \"violate the letter or purpose of Federal civil rights law; conflict with the Department\u2019s policy of prioritizing merit, fairness, and excellence in education; undermine the well-being of the students these programs are intended to help; or constitute an inappropriate use of federal funds.\"\n\nThe Board sued on June 20, 2025, in the District Court for the District of New Mexico. The Board alleged that the termination of the grants violated the First Amendment's Free Speech Clause, violated the Fifth Amendment's Due Process Clause, and violated the Spending Clause. The Board also claimed that the termination was void for vagueness, was ultra vires, and was contrary to law and arbitrary and capricious under the Administrative Procedure Act. The Board asked the court to declare the DOE's actions unlawful and to enjoin the DOE from terminating the grants.\n\nThe case was assigned to District Judge William P. Johnson. On June 23, the plaintiffs filed a motion for a temporary restraining order (TRO), or in the alternative, for a preliminary injunction barring the defendants from terminating the Board's grants.\n\nJudge Johnson denied the plaintiffs' motion on July 21 and dismissed the case without prejudice. The court first found that the plaintiffs' claims were, in essence, contract claims that belonged exclusively in the Court of Federal Claims. \"The non-continuation of Plaintiff\u2019s grant funding is the type of contract claim that gives rise to Tucker Act jurisdiction.\" \"Rather than challenging a regulatory action with some monetary implications, Plaintiff seeks payment of 'the grant monies' it claims entitlement to,\" which is the essence of a contract claim.\n\nThe court also conducted a preliminary injunction analysis on the supposition that the case was not one that belonged exclusively in the Court of Federal Claims. The court held that the plaintiffs were unlikely to succeed on the merits of their claims. On the First Amendment claim, the court ruled that \"discontinuation of grant money does not infringe on free speech because Defendants\u2019 actions do not prohibit or compel private speech.\" Turning to the Due Process claim, the court said that the plaintiffs had \"not identified a protected property or liberty interest in a continuation of the grant funding (which is fatal to the void-for-vagueness due process claim).\"\n\nThe court also rejected the plaintiffs' Spending Clause claim, since under the statutory framework, the Secretary is required to determine whether the continuation of the grant is in the \"best interests of the Federal Government.\" The Secretary made that determination here, and the decision to terminate the plaintiffs' grant was within that discretion. This discretion also doomed the plaintiffs' ultra vires claim, since the defendants did not act outside of their authority. Finally, on the plaintiffs' APA claims, the court held that the defendants' decision on how to allocate a grant award \"seems like a quintessential decision committed to agency discretion by law,\" meaning that it would not be reviewable under the APA.\n\nBased on these findings, the court said that the plaintiffs could not succeed on their request for preliminary injunction, given that they were unlikely to succeed on the merits of their claims. Therefore, the court rejected the plaintiffs' request and, based on its holding that the claims were contractual in nature, dismissed the case for lack of jurisdiction.\n\nThe case is ongoing.",
+    "target_paragraph": "The court also conducted a preliminary injunction analysis on the supposition that the case was not one that belonged exclusively in the Court of Federal Claims. The court held that the plaintiffs were unlikely to succeed on the merits of their claims. On the First Amendment claim, the court ruled that \"discontinuation of grant money does not infringe on free speech because Defendants\u2019 actions do not prohibit or compel private speech.\" Turning to the Due Process claim, the court said that the plaintiffs had \"not identified a protected property or liberty interest in a continuation of the grant funding (which is fatal to the void-for-vagueness due process claim).\"",
+    "target_paragraph_indices": [
+      2440,
+      3111
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2440,
+            2601
+          ],
+          [
+            2602,
+            2692
+          ],
+          [
+            2693,
+            2879
+          ],
+          [
+            2880,
+            3111
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves the court\u2019s alternative merits analysis finding plaintiffs unlikely to succeed, supported by the rulings that discontinuation of grant money does not infringe free speech and that no protected property or liberty interest in continued grant funding was identified, with background information such as the analysis being conducted in the preliminary injunction context.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2440,
+            2692
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction analysis: court found plaintiffs unlikely to succeed on the merits.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2693,
+            2879
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment ruling (for PI analysis): discontinuation of grant money does not infringe free speech.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2880,
+            3111
+          ]
+        ],
+        "annotation": {
+          "explanation": "Due Process ruling (for PI analysis): no protected property or liberty interest in continued grant funding; void-for-vagueness claim fails.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46735_p5",
+    "metadata": {
+      "case_id": "46735",
+      "paragraph_num": 5,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court also rejected the plaintiffs' Spending Clause claim, since under the statutory framework, ..."
+    },
+    "source": "",
+    "target": "This case challenged the termination of a $6 million award under the Bipartisan Safer Communities Act to the Board of Education for the Silver Consolidated Schools (Board). On February 14, 2025, the Department of Education (DOE), by and through its Acting Assistant Secretary for Civil Rights, issued a Dear Colleague Letter (DCL) threatening schools and colleges across the country with the loss of federal funding if these education institutions continued to pursue ambiguously defined \"DEI programs\" that \"teach students that certain racial groups bear unique moral burdens that others do not\" and/or \"stigmatize students who belong to racial groups.\" The Department of Education canceled the grants to the Board on April 29, 2025, announcing that the grants \"violate the letter or purpose of Federal civil rights law; conflict with the Department\u2019s policy of prioritizing merit, fairness, and excellence in education; undermine the well-being of the students these programs are intended to help; or constitute an inappropriate use of federal funds.\"\n\nThe Board sued on June 20, 2025, in the District Court for the District of New Mexico. The Board alleged that the termination of the grants violated the First Amendment's Free Speech Clause, violated the Fifth Amendment's Due Process Clause, and violated the Spending Clause. The Board also claimed that the termination was void for vagueness, was ultra vires, and was contrary to law and arbitrary and capricious under the Administrative Procedure Act. The Board asked the court to declare the DOE's actions unlawful and to enjoin the DOE from terminating the grants.\n\nThe case was assigned to District Judge William P. Johnson. On June 23, the plaintiffs filed a motion for a temporary restraining order (TRO), or in the alternative, for a preliminary injunction barring the defendants from terminating the Board's grants.\n\nJudge Johnson denied the plaintiffs' motion on July 21 and dismissed the case without prejudice. The court first found that the plaintiffs' claims were, in essence, contract claims that belonged exclusively in the Court of Federal Claims. \"The non-continuation of Plaintiff\u2019s grant funding is the type of contract claim that gives rise to Tucker Act jurisdiction.\" \"Rather than challenging a regulatory action with some monetary implications, Plaintiff seeks payment of 'the grant monies' it claims entitlement to,\" which is the essence of a contract claim.\n\nThe court also conducted a preliminary injunction analysis on the supposition that the case was not one that belonged exclusively in the Court of Federal Claims. The court held that the plaintiffs were unlikely to succeed on the merits of their claims. On the First Amendment claim, the court ruled that \"discontinuation of grant money does not infringe on free speech because Defendants\u2019 actions do not prohibit or compel private speech.\" Turning to the Due Process claim, the court said that the plaintiffs had \"not identified a protected property or liberty interest in a continuation of the grant funding (which is fatal to the void-for-vagueness due process claim).\"\n\nThe court also rejected the plaintiffs' Spending Clause claim, since under the statutory framework, the Secretary is required to determine whether the continuation of the grant is in the \"best interests of the Federal Government.\" The Secretary made that determination here, and the decision to terminate the plaintiffs' grant was within that discretion. This discretion also doomed the plaintiffs' ultra vires claim, since the defendants did not act outside of their authority. Finally, on the plaintiffs' APA claims, the court held that the defendants' decision on how to allocate a grant award \"seems like a quintessential decision committed to agency discretion by law,\" meaning that it would not be reviewable under the APA.\n\nBased on these findings, the court said that the plaintiffs could not succeed on their request for preliminary injunction, given that they were unlikely to succeed on the merits of their claims. Therefore, the court rejected the plaintiffs' request and, based on its holding that the claims were contractual in nature, dismissed the case for lack of jurisdiction.\n\nThe case is ongoing.",
+    "target_paragraph": "The court also rejected the plaintiffs' Spending Clause claim, since under the statutory framework, the Secretary is required to determine whether the continuation of the grant is in the \"best interests of the Federal Government.\" The Secretary made that determination here, and the decision to terminate the plaintiffs' grant was within that discretion. This discretion also doomed the plaintiffs' ultra vires claim, since the defendants did not act outside of their authority. Finally, on the plaintiffs' APA claims, the court held that the defendants' decision on how to allocate a grant award \"seems like a quintessential decision committed to agency discretion by law,\" meaning that it would not be reviewable under the APA.",
+    "target_paragraph_indices": [
+      3113,
+      3842
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3113,
+            3467
+          ],
+          [
+            3468,
+            3591
+          ],
+          [
+            3592,
+            3842
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves the court\u2019s rejection of Spending Clause, ultra vires, and APA claims, supported by findings that the Secretary has discretion to determine the Federal Government\u2019s best interests and that grant allocation decisions are committed to agency discretion, with background information such as the Secretary\u2019s discretionary determination being made here.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3113,
+            3467
+          ]
+        ],
+        "annotation": {
+          "explanation": "Spending Clause ruling (for PI analysis): Secretary\u2019s discretion to determine best interests supported termination.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3468,
+            3591
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ultra vires ruling (for PI analysis): defendants acted within their authority.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3592,
+            3842
+          ]
+        ],
+        "annotation": {
+          "explanation": "APA ruling (for PI analysis): allocation decision committed to agency discretion and not reviewable.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46735_p6",
+    "metadata": {
+      "case_id": "46735",
+      "paragraph_num": 6,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Based on these findings, the court said that the plaintiffs could not succeed on their request for p..."
+    },
+    "source": "",
+    "target": "This case challenged the termination of a $6 million award under the Bipartisan Safer Communities Act to the Board of Education for the Silver Consolidated Schools (Board). On February 14, 2025, the Department of Education (DOE), by and through its Acting Assistant Secretary for Civil Rights, issued a Dear Colleague Letter (DCL) threatening schools and colleges across the country with the loss of federal funding if these education institutions continued to pursue ambiguously defined \"DEI programs\" that \"teach students that certain racial groups bear unique moral burdens that others do not\" and/or \"stigmatize students who belong to racial groups.\" The Department of Education canceled the grants to the Board on April 29, 2025, announcing that the grants \"violate the letter or purpose of Federal civil rights law; conflict with the Department\u2019s policy of prioritizing merit, fairness, and excellence in education; undermine the well-being of the students these programs are intended to help; or constitute an inappropriate use of federal funds.\"\n\nThe Board sued on June 20, 2025, in the District Court for the District of New Mexico. The Board alleged that the termination of the grants violated the First Amendment's Free Speech Clause, violated the Fifth Amendment's Due Process Clause, and violated the Spending Clause. The Board also claimed that the termination was void for vagueness, was ultra vires, and was contrary to law and arbitrary and capricious under the Administrative Procedure Act. The Board asked the court to declare the DOE's actions unlawful and to enjoin the DOE from terminating the grants.\n\nThe case was assigned to District Judge William P. Johnson. On June 23, the plaintiffs filed a motion for a temporary restraining order (TRO), or in the alternative, for a preliminary injunction barring the defendants from terminating the Board's grants.\n\nJudge Johnson denied the plaintiffs' motion on July 21 and dismissed the case without prejudice. The court first found that the plaintiffs' claims were, in essence, contract claims that belonged exclusively in the Court of Federal Claims. \"The non-continuation of Plaintiff\u2019s grant funding is the type of contract claim that gives rise to Tucker Act jurisdiction.\" \"Rather than challenging a regulatory action with some monetary implications, Plaintiff seeks payment of 'the grant monies' it claims entitlement to,\" which is the essence of a contract claim.\n\nThe court also conducted a preliminary injunction analysis on the supposition that the case was not one that belonged exclusively in the Court of Federal Claims. The court held that the plaintiffs were unlikely to succeed on the merits of their claims. On the First Amendment claim, the court ruled that \"discontinuation of grant money does not infringe on free speech because Defendants\u2019 actions do not prohibit or compel private speech.\" Turning to the Due Process claim, the court said that the plaintiffs had \"not identified a protected property or liberty interest in a continuation of the grant funding (which is fatal to the void-for-vagueness due process claim).\"\n\nThe court also rejected the plaintiffs' Spending Clause claim, since under the statutory framework, the Secretary is required to determine whether the continuation of the grant is in the \"best interests of the Federal Government.\" The Secretary made that determination here, and the decision to terminate the plaintiffs' grant was within that discretion. This discretion also doomed the plaintiffs' ultra vires claim, since the defendants did not act outside of their authority. Finally, on the plaintiffs' APA claims, the court held that the defendants' decision on how to allocate a grant award \"seems like a quintessential decision committed to agency discretion by law,\" meaning that it would not be reviewable under the APA.\n\nBased on these findings, the court said that the plaintiffs could not succeed on their request for preliminary injunction, given that they were unlikely to succeed on the merits of their claims. Therefore, the court rejected the plaintiffs' request and, based on its holding that the claims were contractual in nature, dismissed the case for lack of jurisdiction.\n\nThe case is ongoing.",
+    "target_paragraph": "Based on these findings, the court said that the plaintiffs could not succeed on their request for preliminary injunction, given that they were unlikely to succeed on the merits of their claims. Therefore, the court rejected the plaintiffs' request and, based on its holding that the claims were contractual in nature, dismissed the case for lack of jurisdiction.",
+    "target_paragraph_indices": [
+      3844,
+      4207
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3844,
+            4207
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves denial of a preliminary injunction and dismissal for lack of jurisdiction, supported by the court\u2019s explanation tying the denial to likelihood of success and the dismissal to contractual nature under Tucker Act jurisdiction, with background information such as the dual basis (merits and jurisdiction).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3844,
+            4038
+          ]
+        ],
+        "annotation": {
+          "explanation": "Outcome of preliminary injunction request: denied due to lack of likelihood of success on the merits.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46735_p7",
+    "metadata": {
+      "case_id": "46735",
+      "paragraph_num": 7,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case is ongoing."
+    },
+    "source": "",
+    "target": "This case challenged the termination of a $6 million award under the Bipartisan Safer Communities Act to the Board of Education for the Silver Consolidated Schools (Board). On February 14, 2025, the Department of Education (DOE), by and through its Acting Assistant Secretary for Civil Rights, issued a Dear Colleague Letter (DCL) threatening schools and colleges across the country with the loss of federal funding if these education institutions continued to pursue ambiguously defined \"DEI programs\" that \"teach students that certain racial groups bear unique moral burdens that others do not\" and/or \"stigmatize students who belong to racial groups.\" The Department of Education canceled the grants to the Board on April 29, 2025, announcing that the grants \"violate the letter or purpose of Federal civil rights law; conflict with the Department\u2019s policy of prioritizing merit, fairness, and excellence in education; undermine the well-being of the students these programs are intended to help; or constitute an inappropriate use of federal funds.\"\n\nThe Board sued on June 20, 2025, in the District Court for the District of New Mexico. The Board alleged that the termination of the grants violated the First Amendment's Free Speech Clause, violated the Fifth Amendment's Due Process Clause, and violated the Spending Clause. The Board also claimed that the termination was void for vagueness, was ultra vires, and was contrary to law and arbitrary and capricious under the Administrative Procedure Act. The Board asked the court to declare the DOE's actions unlawful and to enjoin the DOE from terminating the grants.\n\nThe case was assigned to District Judge William P. Johnson. On June 23, the plaintiffs filed a motion for a temporary restraining order (TRO), or in the alternative, for a preliminary injunction barring the defendants from terminating the Board's grants.\n\nJudge Johnson denied the plaintiffs' motion on July 21 and dismissed the case without prejudice. The court first found that the plaintiffs' claims were, in essence, contract claims that belonged exclusively in the Court of Federal Claims. \"The non-continuation of Plaintiff\u2019s grant funding is the type of contract claim that gives rise to Tucker Act jurisdiction.\" \"Rather than challenging a regulatory action with some monetary implications, Plaintiff seeks payment of 'the grant monies' it claims entitlement to,\" which is the essence of a contract claim.\n\nThe court also conducted a preliminary injunction analysis on the supposition that the case was not one that belonged exclusively in the Court of Federal Claims. The court held that the plaintiffs were unlikely to succeed on the merits of their claims. On the First Amendment claim, the court ruled that \"discontinuation of grant money does not infringe on free speech because Defendants\u2019 actions do not prohibit or compel private speech.\" Turning to the Due Process claim, the court said that the plaintiffs had \"not identified a protected property or liberty interest in a continuation of the grant funding (which is fatal to the void-for-vagueness due process claim).\"\n\nThe court also rejected the plaintiffs' Spending Clause claim, since under the statutory framework, the Secretary is required to determine whether the continuation of the grant is in the \"best interests of the Federal Government.\" The Secretary made that determination here, and the decision to terminate the plaintiffs' grant was within that discretion. This discretion also doomed the plaintiffs' ultra vires claim, since the defendants did not act outside of their authority. Finally, on the plaintiffs' APA claims, the court held that the defendants' decision on how to allocate a grant award \"seems like a quintessential decision committed to agency discretion by law,\" meaning that it would not be reviewable under the APA.\n\nBased on these findings, the court said that the plaintiffs could not succeed on their request for preliminary injunction, given that they were unlikely to succeed on the merits of their claims. Therefore, the court rejected the plaintiffs' request and, based on its holding that the claims were contractual in nature, dismissed the case for lack of jurisdiction.\n\nThe case is ongoing.",
+    "target_paragraph": "The case is ongoing.",
+    "target_paragraph_indices": [
+      4209,
+      4229
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4209,
+            4229
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves ongoing proceedings post-dismissal, supported by the status note that the case is ongoing, with background information such as the dismissal being without prejudice.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4209,
+            4229
+          ]
+        ],
+        "annotation": {
+          "explanation": "Current status: case is ongoing.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

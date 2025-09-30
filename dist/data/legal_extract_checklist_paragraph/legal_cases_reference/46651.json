@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "46651_p0",
+    "metadata": {
+      "case_id": "46651",
+      "paragraph_num": 0,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged multiple actions taken by the Department of Labor (DOL) to shut down the Job Co..."
+    },
+    "source": "",
+    "target": "This case challenged multiple actions taken by the Department of Labor (DOL) to shut down the Job Corps. The Job Corps trains and educates disadvantaged young people with additional career and technical instruction in order to assist them in attaining and retaining employment. Through career technical programs, career counseling, and apprenticeship programs, the Job Corps currently serves around 25,000 students.\n\nOn June 3, 2025, the plaintiffs, including national trade organizations and unions, companies with contracts with DOL relating to the Job Corps, Job Corps training center operators, and one current Job Corps student, filed suit in the District Court for the Southern District of New York. The plaintiffs challenged multiple actions taken by the DOL that the plaintiffs allege were intended to shut down the Job Corps, such as halting background checks as required for new students, canceling pending or outstanding Job Corps procurements, terminating the provision of internet services, drastically reducing DOL's budget for Job Corps, and canceling contracts with Job Corps center operators. The notices of contract cancellation directed the centers to send students home and to begin the shutdown of the centers.\n\nRepresented by private and in-house general counsel, the plaintiffs alleged that the DOL's actions exceeded its statutory authority, were contrary to law, and were arbitrary and capricious under the Administrative Procedure Act, and also that they were ultra vires and a violation of the Constitution's separation of powers. The plaintiffs asked the court to declare the defendants' actions unlawful, to enjoin the defendants from taking any steps to eliminate the Job Corps program, and to award the plaintiffs their court costs.\n\nThe plaintiffs also filed a motion for a temporary restraining order (TRO) on June 3. The case was assigned to District Judge Andrew L. Carter Jr., who granted the plaintiffs' motion on June 4. The court enjoined the defendants from giving effect to the elimination of the Job Corps program, or from taking any further actions to eliminate the program without Congressional authorization. The court also set a hearing for June 17 on the plaintiffs' motion for a preliminary injunction. After the hearing, the court extended the TRO until June 25 and ordered the parties to file a status report on June 20.\n\nThe court granted a preliminary injunction on June 25. The court found that at least some of the plaintiffs had standing and that it had subject matter jurisdiction over the suit. Turning to the merits, the court found that the defendants' actions effectively closed, rather than terminated, the centers. Because the defendants had attempted to close the centers, the court held that they were required by statute to meet certain procedural requirements, which were not met here. Therefore, the court announced that the plaintiffs were likely to succeed on their claim that the defendants had acted to contrary to law. As to the scope of the injunction, the court ruled that the injunction would be nationwide, but \"will not supersede any contrary ruling by the court in the District of Columbia or any other federal circuit or district courts outside of the Second Circuit.\" Finally, the court rejected the defendants' request to immediately stay its ruling pending appeal since the request was not fully briefed at the time of its ruling.\n\nOn June 27, the court ordered the parties to file letters discussing how, if at all, the Supreme Court's decision in\u00a0Casa Inc. v. Trump, which held that that universal injunctions \"likely exceed the authority conferred [on District Courts] by the Judiciary Act,\" impacted the injunction issued by the court in this case. The plaintiffs filed their letter on June 30, arguing that Casa should have no effect in this case since (1) the injunction here was based on the APA, which was not addressed in the Supreme Court's decision; and (2) the injunction here was not overbroad since \"setting aside Defendants\u2019 decision to eliminate Job Corps is necessary to accord complete relief to the plaintiffs in this case.\" The defendants filed their letter on July 11, arguing that \"this Court\u2019s injunction is impermissibly overbroad because it extends beyond the plaintiffs to preclude the government from acting with respect to non-parties.\" The defendants also claimed that the injunction was not entered under the APA; instead, the court \"granted a preliminary injunction under its traditional equitable authority, an authority that CASA made clear is limited to providing relief to the parties themselves.\"\n\nOn July 11 and July 17, two pro se individuals, students who were either attending or planning to attend Job Corps Centers, moved to intervene in the case.\n\nAfter hearing oral argument on July 23, the court amended the preliminary injunction on July 24. The court ruled that the injunction applied \"to the 31 centers covered by the Operator Plaintiffs and the 5 additional centers at which Plaintiff Transportation Communications Union/IAM provides training services.\" The court enjoined the defendants \"from enforcing, implementing, maintaining or giving effect to the closure of the private Job Corps centers, including the stop work orders and termination and non-renewal notices delivered to Job Corps center operators starting May 29, 2025, from issuing, enforcing, implementing, maintaining or giving effect to any shutdown tasks, job terminations, or student removals; and from taking any further action to close any Job Corps Centers.\" The court ordered the parties to file a schedule on how to proceed in the case on August 1.\n\nThe case is ongoing.",
+    "target_paragraph": "This case challenged multiple actions taken by the Department of Labor (DOL) to shut down the Job Corps. The Job Corps trains and educates disadvantaged young people with additional career and technical instruction in order to assist them in attaining and retaining employment. Through career technical programs, career counseling, and apprenticeship programs, the Job Corps currently serves around 25,000 students.",
+    "target_paragraph_indices": [
+      0,
+      415
+    ],
+    "edits": [
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            104
+          ],
+          [
+            1558,
+            1715
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Labor (DOL)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            105,
+            415
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: Job Corps serves disadvantaged youth with career and technical training, counseling, and apprenticeships, reaching about 25,000 students.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46651_p1",
+    "metadata": {
+      "case_id": "46651",
+      "paragraph_num": 1,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 3, 2025, the plaintiffs, including national trade organizations and unions, companies with c..."
+    },
+    "source": "",
+    "target": "This case challenged multiple actions taken by the Department of Labor (DOL) to shut down the Job Corps. The Job Corps trains and educates disadvantaged young people with additional career and technical instruction in order to assist them in attaining and retaining employment. Through career technical programs, career counseling, and apprenticeship programs, the Job Corps currently serves around 25,000 students.\n\nOn June 3, 2025, the plaintiffs, including national trade organizations and unions, companies with contracts with DOL relating to the Job Corps, Job Corps training center operators, and one current Job Corps student, filed suit in the District Court for the Southern District of New York. The plaintiffs challenged multiple actions taken by the DOL that the plaintiffs allege were intended to shut down the Job Corps, such as halting background checks as required for new students, canceling pending or outstanding Job Corps procurements, terminating the provision of internet services, drastically reducing DOL's budget for Job Corps, and canceling contracts with Job Corps center operators. The notices of contract cancellation directed the centers to send students home and to begin the shutdown of the centers.\n\nRepresented by private and in-house general counsel, the plaintiffs alleged that the DOL's actions exceeded its statutory authority, were contrary to law, and were arbitrary and capricious under the Administrative Procedure Act, and also that they were ultra vires and a violation of the Constitution's separation of powers. The plaintiffs asked the court to declare the defendants' actions unlawful, to enjoin the defendants from taking any steps to eliminate the Job Corps program, and to award the plaintiffs their court costs.\n\nThe plaintiffs also filed a motion for a temporary restraining order (TRO) on June 3. The case was assigned to District Judge Andrew L. Carter Jr., who granted the plaintiffs' motion on June 4. The court enjoined the defendants from giving effect to the elimination of the Job Corps program, or from taking any further actions to eliminate the program without Congressional authorization. The court also set a hearing for June 17 on the plaintiffs' motion for a preliminary injunction. After the hearing, the court extended the TRO until June 25 and ordered the parties to file a status report on June 20.\n\nThe court granted a preliminary injunction on June 25. The court found that at least some of the plaintiffs had standing and that it had subject matter jurisdiction over the suit. Turning to the merits, the court found that the defendants' actions effectively closed, rather than terminated, the centers. Because the defendants had attempted to close the centers, the court held that they were required by statute to meet certain procedural requirements, which were not met here. Therefore, the court announced that the plaintiffs were likely to succeed on their claim that the defendants had acted to contrary to law. As to the scope of the injunction, the court ruled that the injunction would be nationwide, but \"will not supersede any contrary ruling by the court in the District of Columbia or any other federal circuit or district courts outside of the Second Circuit.\" Finally, the court rejected the defendants' request to immediately stay its ruling pending appeal since the request was not fully briefed at the time of its ruling.\n\nOn June 27, the court ordered the parties to file letters discussing how, if at all, the Supreme Court's decision in\u00a0Casa Inc. v. Trump, which held that that universal injunctions \"likely exceed the authority conferred [on District Courts] by the Judiciary Act,\" impacted the injunction issued by the court in this case. The plaintiffs filed their letter on June 30, arguing that Casa should have no effect in this case since (1) the injunction here was based on the APA, which was not addressed in the Supreme Court's decision; and (2) the injunction here was not overbroad since \"setting aside Defendants\u2019 decision to eliminate Job Corps is necessary to accord complete relief to the plaintiffs in this case.\" The defendants filed their letter on July 11, arguing that \"this Court\u2019s injunction is impermissibly overbroad because it extends beyond the plaintiffs to preclude the government from acting with respect to non-parties.\" The defendants also claimed that the injunction was not entered under the APA; instead, the court \"granted a preliminary injunction under its traditional equitable authority, an authority that CASA made clear is limited to providing relief to the parties themselves.\"\n\nOn July 11 and July 17, two pro se individuals, students who were either attending or planning to attend Job Corps Centers, moved to intervene in the case.\n\nAfter hearing oral argument on July 23, the court amended the preliminary injunction on July 24. The court ruled that the injunction applied \"to the 31 centers covered by the Operator Plaintiffs and the 5 additional centers at which Plaintiff Transportation Communications Union/IAM provides training services.\" The court enjoined the defendants \"from enforcing, implementing, maintaining or giving effect to the closure of the private Job Corps centers, including the stop work orders and termination and non-renewal notices delivered to Job Corps center operators starting May 29, 2025, from issuing, enforcing, implementing, maintaining or giving effect to any shutdown tasks, job terminations, or student removals; and from taking any further action to close any Job Corps Centers.\" The court ordered the parties to file a schedule on how to proceed in the case on August 1.\n\nThe case is ongoing.",
+    "target_paragraph": "On June 3, 2025, the plaintiffs, including national trade organizations and unions, companies with contracts with DOL relating to the Job Corps, Job Corps training center operators, and one current Job Corps student, filed suit in the District Court for the Southern District of New York. The plaintiffs challenged multiple actions taken by the DOL that the plaintiffs allege were intended to shut down the Job Corps, such as halting background checks as required for new students, canceling pending or outstanding Job Corps procurements, terminating the provision of internet services, drastically reducing DOL's budget for Job Corps, and canceling contracts with Job Corps center operators. The notices of contract cancellation directed the centers to send students home and to begin the shutdown of the centers.",
+    "target_paragraph_indices": [
+      417,
+      1231
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            417,
+            705
+          ],
+          [
+            1765,
+            1850
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 3, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            417,
+            705
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as national trade organizations and unions, companies with contracts with DOL relating to the Job Corps, Job Corps training center operators, and one current Job Corps student",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            434,
+            499
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: national trade organizations and unions",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            434,
+            459
+          ],
+          [
+            501,
+            560
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: companies with contracts with DOL relating to the Job Corps",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            434,
+            459
+          ],
+          [
+            562,
+            597
+          ],
+          [
+            4918,
+            4967
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Job Corps training center operators (Operator Plaintiffs)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            7
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            434,
+            459
+          ],
+          [
+            603,
+            632
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: one current Job Corps student",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            417,
+            705
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing details: On June 3, 2025, national trade organizations, unions, Job Corps contractors, training center operators, and a current student sued in the Southern District of New York.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            706,
+            1109
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged shutdown actions: DOL halted new-student background checks, canceled procurements, terminated internet services, drastically reduced the Job Corps budget, and canceled center operator contracts.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1110,
+            1231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Documentary evidence of shutdown: Contract-cancellation notices instructed centers to send students home and begin shutting down.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            417,
+            705
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed in S.D.N.Y. on June 3, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            417,
+            705
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 3, 2025: Complaint filed in the Southern District of New York initiating the case.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "46651_p2",
+    "metadata": {
+      "case_id": "46651",
+      "paragraph_num": 2,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Represented by private and in-house general counsel, the plaintiffs alleged that the DOL's actions e..."
+    },
+    "source": "",
+    "target": "This case challenged multiple actions taken by the Department of Labor (DOL) to shut down the Job Corps. The Job Corps trains and educates disadvantaged young people with additional career and technical instruction in order to assist them in attaining and retaining employment. Through career technical programs, career counseling, and apprenticeship programs, the Job Corps currently serves around 25,000 students.\n\nOn June 3, 2025, the plaintiffs, including national trade organizations and unions, companies with contracts with DOL relating to the Job Corps, Job Corps training center operators, and one current Job Corps student, filed suit in the District Court for the Southern District of New York. The plaintiffs challenged multiple actions taken by the DOL that the plaintiffs allege were intended to shut down the Job Corps, such as halting background checks as required for new students, canceling pending or outstanding Job Corps procurements, terminating the provision of internet services, drastically reducing DOL's budget for Job Corps, and canceling contracts with Job Corps center operators. The notices of contract cancellation directed the centers to send students home and to begin the shutdown of the centers.\n\nRepresented by private and in-house general counsel, the plaintiffs alleged that the DOL's actions exceeded its statutory authority, were contrary to law, and were arbitrary and capricious under the Administrative Procedure Act, and also that they were ultra vires and a violation of the Constitution's separation of powers. The plaintiffs asked the court to declare the defendants' actions unlawful, to enjoin the defendants from taking any steps to eliminate the Job Corps program, and to award the plaintiffs their court costs.\n\nThe plaintiffs also filed a motion for a temporary restraining order (TRO) on June 3. The case was assigned to District Judge Andrew L. Carter Jr., who granted the plaintiffs' motion on June 4. The court enjoined the defendants from giving effect to the elimination of the Job Corps program, or from taking any further actions to eliminate the program without Congressional authorization. The court also set a hearing for June 17 on the plaintiffs' motion for a preliminary injunction. After the hearing, the court extended the TRO until June 25 and ordered the parties to file a status report on June 20.\n\nThe court granted a preliminary injunction on June 25. The court found that at least some of the plaintiffs had standing and that it had subject matter jurisdiction over the suit. Turning to the merits, the court found that the defendants' actions effectively closed, rather than terminated, the centers. Because the defendants had attempted to close the centers, the court held that they were required by statute to meet certain procedural requirements, which were not met here. Therefore, the court announced that the plaintiffs were likely to succeed on their claim that the defendants had acted to contrary to law. As to the scope of the injunction, the court ruled that the injunction would be nationwide, but \"will not supersede any contrary ruling by the court in the District of Columbia or any other federal circuit or district courts outside of the Second Circuit.\" Finally, the court rejected the defendants' request to immediately stay its ruling pending appeal since the request was not fully briefed at the time of its ruling.\n\nOn June 27, the court ordered the parties to file letters discussing how, if at all, the Supreme Court's decision in\u00a0Casa Inc. v. Trump, which held that that universal injunctions \"likely exceed the authority conferred [on District Courts] by the Judiciary Act,\" impacted the injunction issued by the court in this case. The plaintiffs filed their letter on June 30, arguing that Casa should have no effect in this case since (1) the injunction here was based on the APA, which was not addressed in the Supreme Court's decision; and (2) the injunction here was not overbroad since \"setting aside Defendants\u2019 decision to eliminate Job Corps is necessary to accord complete relief to the plaintiffs in this case.\" The defendants filed their letter on July 11, arguing that \"this Court\u2019s injunction is impermissibly overbroad because it extends beyond the plaintiffs to preclude the government from acting with respect to non-parties.\" The defendants also claimed that the injunction was not entered under the APA; instead, the court \"granted a preliminary injunction under its traditional equitable authority, an authority that CASA made clear is limited to providing relief to the parties themselves.\"\n\nOn July 11 and July 17, two pro se individuals, students who were either attending or planning to attend Job Corps Centers, moved to intervene in the case.\n\nAfter hearing oral argument on July 23, the court amended the preliminary injunction on July 24. The court ruled that the injunction applied \"to the 31 centers covered by the Operator Plaintiffs and the 5 additional centers at which Plaintiff Transportation Communications Union/IAM provides training services.\" The court enjoined the defendants \"from enforcing, implementing, maintaining or giving effect to the closure of the private Job Corps centers, including the stop work orders and termination and non-renewal notices delivered to Job Corps center operators starting May 29, 2025, from issuing, enforcing, implementing, maintaining or giving effect to any shutdown tasks, job terminations, or student removals; and from taking any further action to close any Job Corps Centers.\" The court ordered the parties to file a schedule on how to proceed in the case on August 1.\n\nThe case is ongoing.",
+    "target_paragraph": "Represented by private and in-house general counsel, the plaintiffs alleged that the DOL's actions exceeded its statutory authority, were contrary to law, and were arbitrary and capricious under the Administrative Procedure Act, and also that they were ultra vires and a violation of the Constitution's separation of powers. The plaintiffs asked the court to declare the defendants' actions unlawful, to enjoin the defendants from taking any steps to eliminate the Job Corps program, and to award the plaintiffs their court costs.",
+    "target_paragraph_indices": [
+      1233,
+      1763
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1286,
+            1460
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) claim: agency action exceeded statutory authority, was contrary to law, and arbitrary and capricious.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1462,
+            1497
+          ]
+        ],
+        "annotation": {
+          "explanation": "Nonstatutory ultra vires claim.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1498,
+            1557
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim: violation of the separation of powers.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1286,
+            1460
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA): claims that the actions exceeded statutory authority, were contrary to law, and were arbitrary and capricious.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1462,
+            1557
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Constitution: separation of powers.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1558,
+            1632
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief: declaration that defendants' actions are unlawful",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1558,
+            1588
+          ],
+          [
+            1634,
+            1715
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief: enjoin defendants from taking any steps to eliminate the Job Corps program",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1558,
+            1588
+          ],
+          [
+            1721,
+            1763
+          ]
+        ],
+        "annotation": {
+          "explanation": "Costs: award of plaintiffs' court costs",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1233,
+            1557
+          ]
+        ],
+        "annotation": {
+          "explanation": "private counsel",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1233,
+            1557
+          ]
+        ],
+        "annotation": {
+          "explanation": "in-house general counsel",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1558,
+            1763
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: Declaration that DOL\u2019s actions are unlawful, injunction against eliminating Job Corps, and costs.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "46651_p3",
+    "metadata": {
+      "case_id": "46651",
+      "paragraph_num": 3,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs also filed a motion for a temporary restraining order (TRO) on June 3. The case was a..."
+    },
+    "source": "",
+    "target": "This case challenged multiple actions taken by the Department of Labor (DOL) to shut down the Job Corps. The Job Corps trains and educates disadvantaged young people with additional career and technical instruction in order to assist them in attaining and retaining employment. Through career technical programs, career counseling, and apprenticeship programs, the Job Corps currently serves around 25,000 students.\n\nOn June 3, 2025, the plaintiffs, including national trade organizations and unions, companies with contracts with DOL relating to the Job Corps, Job Corps training center operators, and one current Job Corps student, filed suit in the District Court for the Southern District of New York. The plaintiffs challenged multiple actions taken by the DOL that the plaintiffs allege were intended to shut down the Job Corps, such as halting background checks as required for new students, canceling pending or outstanding Job Corps procurements, terminating the provision of internet services, drastically reducing DOL's budget for Job Corps, and canceling contracts with Job Corps center operators. The notices of contract cancellation directed the centers to send students home and to begin the shutdown of the centers.\n\nRepresented by private and in-house general counsel, the plaintiffs alleged that the DOL's actions exceeded its statutory authority, were contrary to law, and were arbitrary and capricious under the Administrative Procedure Act, and also that they were ultra vires and a violation of the Constitution's separation of powers. The plaintiffs asked the court to declare the defendants' actions unlawful, to enjoin the defendants from taking any steps to eliminate the Job Corps program, and to award the plaintiffs their court costs.\n\nThe plaintiffs also filed a motion for a temporary restraining order (TRO) on June 3. The case was assigned to District Judge Andrew L. Carter Jr., who granted the plaintiffs' motion on June 4. The court enjoined the defendants from giving effect to the elimination of the Job Corps program, or from taking any further actions to eliminate the program without Congressional authorization. The court also set a hearing for June 17 on the plaintiffs' motion for a preliminary injunction. After the hearing, the court extended the TRO until June 25 and ordered the parties to file a status report on June 20.\n\nThe court granted a preliminary injunction on June 25. The court found that at least some of the plaintiffs had standing and that it had subject matter jurisdiction over the suit. Turning to the merits, the court found that the defendants' actions effectively closed, rather than terminated, the centers. Because the defendants had attempted to close the centers, the court held that they were required by statute to meet certain procedural requirements, which were not met here. Therefore, the court announced that the plaintiffs were likely to succeed on their claim that the defendants had acted to contrary to law. As to the scope of the injunction, the court ruled that the injunction would be nationwide, but \"will not supersede any contrary ruling by the court in the District of Columbia or any other federal circuit or district courts outside of the Second Circuit.\" Finally, the court rejected the defendants' request to immediately stay its ruling pending appeal since the request was not fully briefed at the time of its ruling.\n\nOn June 27, the court ordered the parties to file letters discussing how, if at all, the Supreme Court's decision in\u00a0Casa Inc. v. Trump, which held that that universal injunctions \"likely exceed the authority conferred [on District Courts] by the Judiciary Act,\" impacted the injunction issued by the court in this case. The plaintiffs filed their letter on June 30, arguing that Casa should have no effect in this case since (1) the injunction here was based on the APA, which was not addressed in the Supreme Court's decision; and (2) the injunction here was not overbroad since \"setting aside Defendants\u2019 decision to eliminate Job Corps is necessary to accord complete relief to the plaintiffs in this case.\" The defendants filed their letter on July 11, arguing that \"this Court\u2019s injunction is impermissibly overbroad because it extends beyond the plaintiffs to preclude the government from acting with respect to non-parties.\" The defendants also claimed that the injunction was not entered under the APA; instead, the court \"granted a preliminary injunction under its traditional equitable authority, an authority that CASA made clear is limited to providing relief to the parties themselves.\"\n\nOn July 11 and July 17, two pro se individuals, students who were either attending or planning to attend Job Corps Centers, moved to intervene in the case.\n\nAfter hearing oral argument on July 23, the court amended the preliminary injunction on July 24. The court ruled that the injunction applied \"to the 31 centers covered by the Operator Plaintiffs and the 5 additional centers at which Plaintiff Transportation Communications Union/IAM provides training services.\" The court enjoined the defendants \"from enforcing, implementing, maintaining or giving effect to the closure of the private Job Corps centers, including the stop work orders and termination and non-renewal notices delivered to Job Corps center operators starting May 29, 2025, from issuing, enforcing, implementing, maintaining or giving effect to any shutdown tasks, job terminations, or student removals; and from taking any further action to close any Job Corps Centers.\" The court ordered the parties to file a schedule on how to proceed in the case on August 1.\n\nThe case is ongoing.",
+    "target_paragraph": "The plaintiffs also filed a motion for a temporary restraining order (TRO) on June 3. The case was assigned to District Judge Andrew L. Carter Jr., who granted the plaintiffs' motion on June 4. The court enjoined the defendants from giving effect to the elimination of the Job Corps program, or from taking any further actions to eliminate the program without Congressional authorization. The court also set a hearing for June 17 on the plaintiffs' motion for a preliminary injunction. After the hearing, the court extended the TRO until June 25 and ordered the parties to file a status report on June 20.",
+    "target_paragraph_indices": [
+      1765,
+      2370
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1765,
+            1850
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order (TRO)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2154,
+            2250
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1851,
+            1958
+          ]
+        ],
+        "annotation": {
+          "explanation": "Andrew L. Carter Jr.",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            1913,
+            1958
+          ],
+          [
+            1959,
+            2153
+          ],
+          [
+            2251,
+            2310
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 4\u2013June 25, 2025: Temporary restraining order enjoining defendants from giving effect to the elimination of the Job Corps program, or from taking any further actions to eliminate the program without Congressional authorization (extended until June 25).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1851,
+            1958
+          ],
+          [
+            1959,
+            2153
+          ],
+          [
+            2154,
+            2250
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 4: Court granted plaintiffs' TRO motion; enjoined defendants from giving effect to eliminating Job Corps or taking any further actions to eliminate the program without Congressional authorization; set a June 17 hearing on the preliminary injunction motion.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1765,
+            1850
+          ],
+          [
+            1851,
+            1958
+          ],
+          [
+            1959,
+            2153
+          ]
+        ],
+        "annotation": {
+          "explanation": "Immediate court action: TRO granted June 4, enjoining DOL from giving effect to eliminating Job Corps or taking further elimination steps absent Congressional authorization.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2154,
+            2370
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural timeline: PI hearing set for June 17; TRO extended to June 25; status report due June 20.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1765,
+            1850
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for temporary restraining order filed June 3, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1851,
+            1958
+          ],
+          [
+            1959,
+            2153
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO granted June 4, 2025; court enjoined DOL from actions to eliminate Job Corps absent Congressional authorization.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2154,
+            2250
+          ]
+        ],
+        "annotation": {
+          "explanation": "Hearing set for June 17, 2025 on plaintiffs\u2019 motion for preliminary injunction.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2251,
+            2370
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO extended until June 25, 2025; parties ordered to file a status report on June 20, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            1959,
+            2153
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 4, 2025 TRO: Defendants are enjoined from giving effect to the elimination of the Job Corps program and from taking any further actions to eliminate the program without Congressional authorization.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            1885,
+            1958
+          ],
+          [
+            1959,
+            2153
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 4, 2025 TRO: Defendants are enjoined from giving effect to eliminating the Job Corps program and from taking any further actions to eliminate the program without Congressional authorization.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1765,
+            1850
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 3, 2025: Plaintiffs filed a motion for a temporary restraining order (TRO).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1851,
+            1958
+          ],
+          [
+            1959,
+            2153
+          ],
+          [
+            2154,
+            2250
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 4, 2025: TRO granted by Judge Andrew L. Carter Jr.; defendants enjoined from actions to eliminate Job Corps; preliminary injunction hearing set for June 17, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2251,
+            2370
+          ]
+        ],
+        "annotation": {
+          "explanation": "Post\u2013June 17, 2025 hearing: TRO extended to June 25, 2025; parties ordered to file a status report by June 20, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1765,
+            1958
+          ],
+          [
+            1959,
+            2153
+          ],
+          [
+            2154,
+            2250
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order granted on June 4, 2025; defendants enjoined from giving effect to eliminating the Job Corps or taking further steps without Congressional authorization; preliminary injunction hearing set for June 17, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2251,
+            2370
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO extended until June 25, 2025; status report ordered for June 20, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      }
+    ]
+  },
+  {
+    "id": "46651_p4",
+    "metadata": {
+      "case_id": "46651",
+      "paragraph_num": 4,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court granted a preliminary injunction on June 25. The court found that at least some of the pla..."
+    },
+    "source": "",
+    "target": "This case challenged multiple actions taken by the Department of Labor (DOL) to shut down the Job Corps. The Job Corps trains and educates disadvantaged young people with additional career and technical instruction in order to assist them in attaining and retaining employment. Through career technical programs, career counseling, and apprenticeship programs, the Job Corps currently serves around 25,000 students.\n\nOn June 3, 2025, the plaintiffs, including national trade organizations and unions, companies with contracts with DOL relating to the Job Corps, Job Corps training center operators, and one current Job Corps student, filed suit in the District Court for the Southern District of New York. The plaintiffs challenged multiple actions taken by the DOL that the plaintiffs allege were intended to shut down the Job Corps, such as halting background checks as required for new students, canceling pending or outstanding Job Corps procurements, terminating the provision of internet services, drastically reducing DOL's budget for Job Corps, and canceling contracts with Job Corps center operators. The notices of contract cancellation directed the centers to send students home and to begin the shutdown of the centers.\n\nRepresented by private and in-house general counsel, the plaintiffs alleged that the DOL's actions exceeded its statutory authority, were contrary to law, and were arbitrary and capricious under the Administrative Procedure Act, and also that they were ultra vires and a violation of the Constitution's separation of powers. The plaintiffs asked the court to declare the defendants' actions unlawful, to enjoin the defendants from taking any steps to eliminate the Job Corps program, and to award the plaintiffs their court costs.\n\nThe plaintiffs also filed a motion for a temporary restraining order (TRO) on June 3. The case was assigned to District Judge Andrew L. Carter Jr., who granted the plaintiffs' motion on June 4. The court enjoined the defendants from giving effect to the elimination of the Job Corps program, or from taking any further actions to eliminate the program without Congressional authorization. The court also set a hearing for June 17 on the plaintiffs' motion for a preliminary injunction. After the hearing, the court extended the TRO until June 25 and ordered the parties to file a status report on June 20.\n\nThe court granted a preliminary injunction on June 25. The court found that at least some of the plaintiffs had standing and that it had subject matter jurisdiction over the suit. Turning to the merits, the court found that the defendants' actions effectively closed, rather than terminated, the centers. Because the defendants had attempted to close the centers, the court held that they were required by statute to meet certain procedural requirements, which were not met here. Therefore, the court announced that the plaintiffs were likely to succeed on their claim that the defendants had acted to contrary to law. As to the scope of the injunction, the court ruled that the injunction would be nationwide, but \"will not supersede any contrary ruling by the court in the District of Columbia or any other federal circuit or district courts outside of the Second Circuit.\" Finally, the court rejected the defendants' request to immediately stay its ruling pending appeal since the request was not fully briefed at the time of its ruling.\n\nOn June 27, the court ordered the parties to file letters discussing how, if at all, the Supreme Court's decision in\u00a0Casa Inc. v. Trump, which held that that universal injunctions \"likely exceed the authority conferred [on District Courts] by the Judiciary Act,\" impacted the injunction issued by the court in this case. The plaintiffs filed their letter on June 30, arguing that Casa should have no effect in this case since (1) the injunction here was based on the APA, which was not addressed in the Supreme Court's decision; and (2) the injunction here was not overbroad since \"setting aside Defendants\u2019 decision to eliminate Job Corps is necessary to accord complete relief to the plaintiffs in this case.\" The defendants filed their letter on July 11, arguing that \"this Court\u2019s injunction is impermissibly overbroad because it extends beyond the plaintiffs to preclude the government from acting with respect to non-parties.\" The defendants also claimed that the injunction was not entered under the APA; instead, the court \"granted a preliminary injunction under its traditional equitable authority, an authority that CASA made clear is limited to providing relief to the parties themselves.\"\n\nOn July 11 and July 17, two pro se individuals, students who were either attending or planning to attend Job Corps Centers, moved to intervene in the case.\n\nAfter hearing oral argument on July 23, the court amended the preliminary injunction on July 24. The court ruled that the injunction applied \"to the 31 centers covered by the Operator Plaintiffs and the 5 additional centers at which Plaintiff Transportation Communications Union/IAM provides training services.\" The court enjoined the defendants \"from enforcing, implementing, maintaining or giving effect to the closure of the private Job Corps centers, including the stop work orders and termination and non-renewal notices delivered to Job Corps center operators starting May 29, 2025, from issuing, enforcing, implementing, maintaining or giving effect to any shutdown tasks, job terminations, or student removals; and from taking any further action to close any Job Corps Centers.\" The court ordered the parties to file a schedule on how to proceed in the case on August 1.\n\nThe case is ongoing.",
+    "target_paragraph": "The court granted a preliminary injunction on June 25. The court found that at least some of the plaintiffs had standing and that it had subject matter jurisdiction over the suit. Turning to the merits, the court found that the defendants' actions effectively closed, rather than terminated, the centers. Because the defendants had attempted to close the centers, the court held that they were required by statute to meet certain procedural requirements, which were not met here. Therefore, the court announced that the plaintiffs were likely to succeed on their claim that the defendants had acted to contrary to law. As to the scope of the injunction, the court ruled that the injunction would be nationwide, but \"will not supersede any contrary ruling by the court in the District of Columbia or any other federal circuit or district courts outside of the Second Circuit.\" Finally, the court rejected the defendants' request to immediately stay its ruling pending appeal since the request was not fully briefed at the time of its ruling.",
+    "target_paragraph_indices": [
+      2372,
+      3412
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2372,
+            2426
+          ],
+          [
+            3047,
+            3247
+          ],
+          [
+            4773,
+            4869
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 25\u2013July 24, 2025: Preliminary injunction (nationwide, but not superseding any contrary ruling by courts outside the Second Circuit).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            4,
+            7
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2372,
+            2426
+          ],
+          [
+            2991,
+            3247
+          ],
+          [
+            3248,
+            3412
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 25: Court granted a preliminary injunction (nationwide but not superseding contrary rulings by courts outside the Second Circuit) and denied defendants' request to immediately stay the ruling pending appeal.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2372,
+            2426
+          ],
+          [
+            2427,
+            2551
+          ],
+          [
+            2552,
+            2676
+          ],
+          [
+            2677,
+            2851
+          ],
+          [
+            2852,
+            2990
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction and factual findings: On June 25, the court found standing and jurisdiction, determined DOL\u2019s actions effectively closed centers, noted statutory procedural requirements for closures were unmet, and concluded plaintiffs were likely to succeed on the contrary-to-law claim.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2991,
+            3247
+          ],
+          [
+            3248,
+            3412
+          ]
+        ],
+        "annotation": {
+          "explanation": "Initial injunction scope and stay: Nationwide scope with comity caveat; immediate stay request denied as not fully briefed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2372,
+            2426
+          ],
+          [
+            2991,
+            3247
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted June 25, 2025; nationwide in scope with limitation not to supersede contrary rulings outside the Second Circuit.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3248,
+            3412
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 request to immediately stay the preliminary injunction pending appeal denied (not fully briefed).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2372,
+            2426
+          ],
+          [
+            2991,
+            3247
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 25, 2025 Preliminary Injunction: Entered and made nationwide in scope, with a limitation that it will not supersede any contrary ruling by the District of Columbia court or any other federal courts outside the Second Circuit.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2372,
+            2426
+          ],
+          [
+            2991,
+            3247
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 25, 2025 preliminary injunction: Nationwide in scope, with a carve-out that it will not supersede contrary rulings by the D.C. court or other federal courts outside the Second Circuit.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2372,
+            2426
+          ],
+          [
+            2427,
+            2551
+          ],
+          [
+            2552,
+            2676
+          ],
+          [
+            2677,
+            2851
+          ],
+          [
+            2852,
+            2990
+          ],
+          [
+            2991,
+            3247
+          ],
+          [
+            3248,
+            3412
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 25, 2025: Preliminary injunction granted; court found standing and subject-matter jurisdiction; held plaintiffs likely to succeed because DOL effectively closed centers without required procedures; injunction nationwide but yields to contrary rulings outside the Second Circuit; request for immediate stay pending appeal denied.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2372,
+            2426
+          ],
+          [
+            2991,
+            3247
+          ],
+          [
+            3248,
+            3412
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted on June 25, 2025; nationwide in scope with a proviso that it does not supersede contrary rulings by courts outside the Second Circuit; request to immediately stay pending appeal denied.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46651_p5",
+    "metadata": {
+      "case_id": "46651",
+      "paragraph_num": 5,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 27, the court ordered the parties to file letters discussing how, if at all, the Supreme Cou..."
+    },
+    "source": "",
+    "target": "This case challenged multiple actions taken by the Department of Labor (DOL) to shut down the Job Corps. The Job Corps trains and educates disadvantaged young people with additional career and technical instruction in order to assist them in attaining and retaining employment. Through career technical programs, career counseling, and apprenticeship programs, the Job Corps currently serves around 25,000 students.\n\nOn June 3, 2025, the plaintiffs, including national trade organizations and unions, companies with contracts with DOL relating to the Job Corps, Job Corps training center operators, and one current Job Corps student, filed suit in the District Court for the Southern District of New York. The plaintiffs challenged multiple actions taken by the DOL that the plaintiffs allege were intended to shut down the Job Corps, such as halting background checks as required for new students, canceling pending or outstanding Job Corps procurements, terminating the provision of internet services, drastically reducing DOL's budget for Job Corps, and canceling contracts with Job Corps center operators. The notices of contract cancellation directed the centers to send students home and to begin the shutdown of the centers.\n\nRepresented by private and in-house general counsel, the plaintiffs alleged that the DOL's actions exceeded its statutory authority, were contrary to law, and were arbitrary and capricious under the Administrative Procedure Act, and also that they were ultra vires and a violation of the Constitution's separation of powers. The plaintiffs asked the court to declare the defendants' actions unlawful, to enjoin the defendants from taking any steps to eliminate the Job Corps program, and to award the plaintiffs their court costs.\n\nThe plaintiffs also filed a motion for a temporary restraining order (TRO) on June 3. The case was assigned to District Judge Andrew L. Carter Jr., who granted the plaintiffs' motion on June 4. The court enjoined the defendants from giving effect to the elimination of the Job Corps program, or from taking any further actions to eliminate the program without Congressional authorization. The court also set a hearing for June 17 on the plaintiffs' motion for a preliminary injunction. After the hearing, the court extended the TRO until June 25 and ordered the parties to file a status report on June 20.\n\nThe court granted a preliminary injunction on June 25. The court found that at least some of the plaintiffs had standing and that it had subject matter jurisdiction over the suit. Turning to the merits, the court found that the defendants' actions effectively closed, rather than terminated, the centers. Because the defendants had attempted to close the centers, the court held that they were required by statute to meet certain procedural requirements, which were not met here. Therefore, the court announced that the plaintiffs were likely to succeed on their claim that the defendants had acted to contrary to law. As to the scope of the injunction, the court ruled that the injunction would be nationwide, but \"will not supersede any contrary ruling by the court in the District of Columbia or any other federal circuit or district courts outside of the Second Circuit.\" Finally, the court rejected the defendants' request to immediately stay its ruling pending appeal since the request was not fully briefed at the time of its ruling.\n\nOn June 27, the court ordered the parties to file letters discussing how, if at all, the Supreme Court's decision in\u00a0Casa Inc. v. Trump, which held that that universal injunctions \"likely exceed the authority conferred [on District Courts] by the Judiciary Act,\" impacted the injunction issued by the court in this case. The plaintiffs filed their letter on June 30, arguing that Casa should have no effect in this case since (1) the injunction here was based on the APA, which was not addressed in the Supreme Court's decision; and (2) the injunction here was not overbroad since \"setting aside Defendants\u2019 decision to eliminate Job Corps is necessary to accord complete relief to the plaintiffs in this case.\" The defendants filed their letter on July 11, arguing that \"this Court\u2019s injunction is impermissibly overbroad because it extends beyond the plaintiffs to preclude the government from acting with respect to non-parties.\" The defendants also claimed that the injunction was not entered under the APA; instead, the court \"granted a preliminary injunction under its traditional equitable authority, an authority that CASA made clear is limited to providing relief to the parties themselves.\"\n\nOn July 11 and July 17, two pro se individuals, students who were either attending or planning to attend Job Corps Centers, moved to intervene in the case.\n\nAfter hearing oral argument on July 23, the court amended the preliminary injunction on July 24. The court ruled that the injunction applied \"to the 31 centers covered by the Operator Plaintiffs and the 5 additional centers at which Plaintiff Transportation Communications Union/IAM provides training services.\" The court enjoined the defendants \"from enforcing, implementing, maintaining or giving effect to the closure of the private Job Corps centers, including the stop work orders and termination and non-renewal notices delivered to Job Corps center operators starting May 29, 2025, from issuing, enforcing, implementing, maintaining or giving effect to any shutdown tasks, job terminations, or student removals; and from taking any further action to close any Job Corps Centers.\" The court ordered the parties to file a schedule on how to proceed in the case on August 1.\n\nThe case is ongoing.",
+    "target_paragraph": "On June 27, the court ordered the parties to file letters discussing how, if at all, the Supreme Court's decision in\u00a0Casa Inc. v. Trump, which held that that universal injunctions \"likely exceed the authority conferred [on District Courts] by the Judiciary Act,\" impacted the injunction issued by the court in this case. The plaintiffs filed their letter on June 30, arguing that Casa should have no effect in this case since (1) the injunction here was based on the APA, which was not addressed in the Supreme Court's decision; and (2) the injunction here was not overbroad since \"setting aside Defendants\u2019 decision to eliminate Job Corps is necessary to accord complete relief to the plaintiffs in this case.\" The defendants filed their letter on July 11, arguing that \"this Court\u2019s injunction is impermissibly overbroad because it extends beyond the plaintiffs to preclude the government from acting with respect to non-parties.\" The defendants also claimed that the injunction was not entered under the APA; instead, the court \"granted a preliminary injunction under its traditional equitable authority, an authority that CASA made clear is limited to providing relief to the parties themselves.\"",
+    "target_paragraph_indices": [
+      3414,
+      4614
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3735,
+            4125
+          ],
+          [
+            4126,
+            4614
+          ]
+        ],
+        "annotation": {
+          "explanation": "Post-CASA briefing facts: Court solicited letters on CASA\u2019s effect; plaintiffs argued APA basis and necessity for complete relief; defendants argued overbreadth and non-APA equitable basis.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3735,
+            3780
+          ],
+          [
+            4126,
+            4171
+          ],
+          [
+            4347,
+            4614
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court-ordered supplemental briefing re Casa Inc. v. Trump: parties ordered June 27, 2025 to file letters; plaintiffs filed June 30, 2025; defendants filed July 11, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3735,
+            4125
+          ],
+          [
+            4126,
+            4614
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 27, 2025: Court ordered supplemental letters on the impact of Casa Inc. v. Trump; plaintiffs filed June 30 arguing no effect; defendants filed July 11 arguing the injunction is overbroad and not under the APA.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46651_p6",
+    "metadata": {
+      "case_id": "46651",
+      "paragraph_num": 6,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 11 and July 17, two pro se individuals, students who were either attending or planning to at..."
+    },
+    "source": "",
+    "target": "This case challenged multiple actions taken by the Department of Labor (DOL) to shut down the Job Corps. The Job Corps trains and educates disadvantaged young people with additional career and technical instruction in order to assist them in attaining and retaining employment. Through career technical programs, career counseling, and apprenticeship programs, the Job Corps currently serves around 25,000 students.\n\nOn June 3, 2025, the plaintiffs, including national trade organizations and unions, companies with contracts with DOL relating to the Job Corps, Job Corps training center operators, and one current Job Corps student, filed suit in the District Court for the Southern District of New York. The plaintiffs challenged multiple actions taken by the DOL that the plaintiffs allege were intended to shut down the Job Corps, such as halting background checks as required for new students, canceling pending or outstanding Job Corps procurements, terminating the provision of internet services, drastically reducing DOL's budget for Job Corps, and canceling contracts with Job Corps center operators. The notices of contract cancellation directed the centers to send students home and to begin the shutdown of the centers.\n\nRepresented by private and in-house general counsel, the plaintiffs alleged that the DOL's actions exceeded its statutory authority, were contrary to law, and were arbitrary and capricious under the Administrative Procedure Act, and also that they were ultra vires and a violation of the Constitution's separation of powers. The plaintiffs asked the court to declare the defendants' actions unlawful, to enjoin the defendants from taking any steps to eliminate the Job Corps program, and to award the plaintiffs their court costs.\n\nThe plaintiffs also filed a motion for a temporary restraining order (TRO) on June 3. The case was assigned to District Judge Andrew L. Carter Jr., who granted the plaintiffs' motion on June 4. The court enjoined the defendants from giving effect to the elimination of the Job Corps program, or from taking any further actions to eliminate the program without Congressional authorization. The court also set a hearing for June 17 on the plaintiffs' motion for a preliminary injunction. After the hearing, the court extended the TRO until June 25 and ordered the parties to file a status report on June 20.\n\nThe court granted a preliminary injunction on June 25. The court found that at least some of the plaintiffs had standing and that it had subject matter jurisdiction over the suit. Turning to the merits, the court found that the defendants' actions effectively closed, rather than terminated, the centers. Because the defendants had attempted to close the centers, the court held that they were required by statute to meet certain procedural requirements, which were not met here. Therefore, the court announced that the plaintiffs were likely to succeed on their claim that the defendants had acted to contrary to law. As to the scope of the injunction, the court ruled that the injunction would be nationwide, but \"will not supersede any contrary ruling by the court in the District of Columbia or any other federal circuit or district courts outside of the Second Circuit.\" Finally, the court rejected the defendants' request to immediately stay its ruling pending appeal since the request was not fully briefed at the time of its ruling.\n\nOn June 27, the court ordered the parties to file letters discussing how, if at all, the Supreme Court's decision in\u00a0Casa Inc. v. Trump, which held that that universal injunctions \"likely exceed the authority conferred [on District Courts] by the Judiciary Act,\" impacted the injunction issued by the court in this case. The plaintiffs filed their letter on June 30, arguing that Casa should have no effect in this case since (1) the injunction here was based on the APA, which was not addressed in the Supreme Court's decision; and (2) the injunction here was not overbroad since \"setting aside Defendants\u2019 decision to eliminate Job Corps is necessary to accord complete relief to the plaintiffs in this case.\" The defendants filed their letter on July 11, arguing that \"this Court\u2019s injunction is impermissibly overbroad because it extends beyond the plaintiffs to preclude the government from acting with respect to non-parties.\" The defendants also claimed that the injunction was not entered under the APA; instead, the court \"granted a preliminary injunction under its traditional equitable authority, an authority that CASA made clear is limited to providing relief to the parties themselves.\"\n\nOn July 11 and July 17, two pro se individuals, students who were either attending or planning to attend Job Corps Centers, moved to intervene in the case.\n\nAfter hearing oral argument on July 23, the court amended the preliminary injunction on July 24. The court ruled that the injunction applied \"to the 31 centers covered by the Operator Plaintiffs and the 5 additional centers at which Plaintiff Transportation Communications Union/IAM provides training services.\" The court enjoined the defendants \"from enforcing, implementing, maintaining or giving effect to the closure of the private Job Corps centers, including the stop work orders and termination and non-renewal notices delivered to Job Corps center operators starting May 29, 2025, from issuing, enforcing, implementing, maintaining or giving effect to any shutdown tasks, job terminations, or student removals; and from taking any further action to close any Job Corps Centers.\" The court ordered the parties to file a schedule on how to proceed in the case on August 1.\n\nThe case is ongoing.",
+    "target_paragraph": "On July 11 and July 17, two pro se individuals, students who were either attending or planning to attend Job Corps Centers, moved to intervene in the case.",
+    "target_paragraph_indices": [
+      4616,
+      4771
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4616,
+            4771
+          ]
+        ],
+        "annotation": {
+          "explanation": "Intervention attempts: Two pro se Job Corps students moved to intervene on July 11 and July 17.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4616,
+            4771
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motions to intervene filed by two pro se students on July 11, 2025 and July 17, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4616,
+            4771
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 11 and July 17, 2025: Two pro se students moved to intervene.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46651_p7",
+    "metadata": {
+      "case_id": "46651",
+      "paragraph_num": 7,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "After hearing oral argument on July 23, the court amended the preliminary injunction on July 24. The..."
+    },
+    "source": "",
+    "target": "This case challenged multiple actions taken by the Department of Labor (DOL) to shut down the Job Corps. The Job Corps trains and educates disadvantaged young people with additional career and technical instruction in order to assist them in attaining and retaining employment. Through career technical programs, career counseling, and apprenticeship programs, the Job Corps currently serves around 25,000 students.\n\nOn June 3, 2025, the plaintiffs, including national trade organizations and unions, companies with contracts with DOL relating to the Job Corps, Job Corps training center operators, and one current Job Corps student, filed suit in the District Court for the Southern District of New York. The plaintiffs challenged multiple actions taken by the DOL that the plaintiffs allege were intended to shut down the Job Corps, such as halting background checks as required for new students, canceling pending or outstanding Job Corps procurements, terminating the provision of internet services, drastically reducing DOL's budget for Job Corps, and canceling contracts with Job Corps center operators. The notices of contract cancellation directed the centers to send students home and to begin the shutdown of the centers.\n\nRepresented by private and in-house general counsel, the plaintiffs alleged that the DOL's actions exceeded its statutory authority, were contrary to law, and were arbitrary and capricious under the Administrative Procedure Act, and also that they were ultra vires and a violation of the Constitution's separation of powers. The plaintiffs asked the court to declare the defendants' actions unlawful, to enjoin the defendants from taking any steps to eliminate the Job Corps program, and to award the plaintiffs their court costs.\n\nThe plaintiffs also filed a motion for a temporary restraining order (TRO) on June 3. The case was assigned to District Judge Andrew L. Carter Jr., who granted the plaintiffs' motion on June 4. The court enjoined the defendants from giving effect to the elimination of the Job Corps program, or from taking any further actions to eliminate the program without Congressional authorization. The court also set a hearing for June 17 on the plaintiffs' motion for a preliminary injunction. After the hearing, the court extended the TRO until June 25 and ordered the parties to file a status report on June 20.\n\nThe court granted a preliminary injunction on June 25. The court found that at least some of the plaintiffs had standing and that it had subject matter jurisdiction over the suit. Turning to the merits, the court found that the defendants' actions effectively closed, rather than terminated, the centers. Because the defendants had attempted to close the centers, the court held that they were required by statute to meet certain procedural requirements, which were not met here. Therefore, the court announced that the plaintiffs were likely to succeed on their claim that the defendants had acted to contrary to law. As to the scope of the injunction, the court ruled that the injunction would be nationwide, but \"will not supersede any contrary ruling by the court in the District of Columbia or any other federal circuit or district courts outside of the Second Circuit.\" Finally, the court rejected the defendants' request to immediately stay its ruling pending appeal since the request was not fully briefed at the time of its ruling.\n\nOn June 27, the court ordered the parties to file letters discussing how, if at all, the Supreme Court's decision in\u00a0Casa Inc. v. Trump, which held that that universal injunctions \"likely exceed the authority conferred [on District Courts] by the Judiciary Act,\" impacted the injunction issued by the court in this case. The plaintiffs filed their letter on June 30, arguing that Casa should have no effect in this case since (1) the injunction here was based on the APA, which was not addressed in the Supreme Court's decision; and (2) the injunction here was not overbroad since \"setting aside Defendants\u2019 decision to eliminate Job Corps is necessary to accord complete relief to the plaintiffs in this case.\" The defendants filed their letter on July 11, arguing that \"this Court\u2019s injunction is impermissibly overbroad because it extends beyond the plaintiffs to preclude the government from acting with respect to non-parties.\" The defendants also claimed that the injunction was not entered under the APA; instead, the court \"granted a preliminary injunction under its traditional equitable authority, an authority that CASA made clear is limited to providing relief to the parties themselves.\"\n\nOn July 11 and July 17, two pro se individuals, students who were either attending or planning to attend Job Corps Centers, moved to intervene in the case.\n\nAfter hearing oral argument on July 23, the court amended the preliminary injunction on July 24. The court ruled that the injunction applied \"to the 31 centers covered by the Operator Plaintiffs and the 5 additional centers at which Plaintiff Transportation Communications Union/IAM provides training services.\" The court enjoined the defendants \"from enforcing, implementing, maintaining or giving effect to the closure of the private Job Corps centers, including the stop work orders and termination and non-renewal notices delivered to Job Corps center operators starting May 29, 2025, from issuing, enforcing, implementing, maintaining or giving effect to any shutdown tasks, job terminations, or student removals; and from taking any further action to close any Job Corps Centers.\" The court ordered the parties to file a schedule on how to proceed in the case on August 1.\n\nThe case is ongoing.",
+    "target_paragraph": "After hearing oral argument on July 23, the court amended the preliminary injunction on July 24. The court ruled that the injunction applied \"to the 31 centers covered by the Operator Plaintiffs and the 5 additional centers at which Plaintiff Transportation Communications Union/IAM provides training services.\" The court enjoined the defendants \"from enforcing, implementing, maintaining or giving effect to the closure of the private Job Corps centers, including the stop work orders and termination and non-renewal notices delivered to Job Corps center operators starting May 29, 2025, from issuing, enforcing, implementing, maintaining or giving effect to any shutdown tasks, job terminations, or student removals; and from taking any further action to close any Job Corps Centers.\" The court ordered the parties to file a schedule on how to proceed in the case on August 1.",
+    "target_paragraph_indices": [
+      4773,
+      5651
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4773,
+            4869
+          ],
+          [
+            4870,
+            5084
+          ],
+          [
+            5085,
+            5559
+          ],
+          [
+            5653,
+            5673
+          ]
+        ],
+        "annotation": {
+          "explanation": "From July 24, 2025 (ongoing): Amended preliminary injunction applying to the 31 Operator Plaintiffs\u2019 centers and 5 additional TCU/IAM centers; enjoining enforcement or effect of closures, stop work orders, termination/non-renewal notices, shutdown tasks, job terminations, student removals, and any further action to close any Job Corps Centers.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            7,
+            8
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            4972,
+            5083
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Transportation Communications Union/IAM (union providing training services at five Job Corps centers)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4773,
+            4869
+          ],
+          [
+            4870,
+            5084
+          ],
+          [
+            5085,
+            5559
+          ],
+          [
+            5560,
+            5651
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 24: Court amended the preliminary injunction; applied it to the 31 centers covered by the Operator Plaintiffs and the 5 additional centers at which Plaintiff Transportation Communications Union/IAM provides training services; enjoined defendants from enforcing closures and related actions; ordered the parties to file a schedule on how to proceed by August 1.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4773,
+            4869
+          ],
+          [
+            4870,
+            5084
+          ],
+          [
+            5085,
+            5559
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended injunction scope and specifics: On July 24, the injunction was limited to 31 operator-plaintiff centers plus 5 TCU/IAM centers, and barred enforcement of closures, stop work orders, termination/non-renewal notices (delivered starting May 29, 2025), shutdown tasks, job terminations, student removals, or further closure actions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5560,
+            5651
+          ],
+          [
+            5653,
+            5673
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural status: Parties to propose schedule by August 1; case remains ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            7,
+            8
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4773,
+            4869
+          ],
+          [
+            4870,
+            5084
+          ],
+          [
+            5085,
+            5559
+          ],
+          [
+            5560,
+            5651
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended preliminary injunction entered July 24, 2025 (after July 23 oral argument); applies to specified 36 centers; detailed prohibitions on closure-related actions; parties ordered to file schedule by August 1, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4773,
+            4869
+          ],
+          [
+            4870,
+            5084
+          ],
+          [
+            5085,
+            5559
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 24, 2025 Amended Preliminary Injunction: Applies to 31 centers operated by Operator Plaintiffs and 5 additional centers with TCU/IAM training. Defendants are enjoined from: (a) enforcing, implementing, maintaining, or giving effect to the closure of private Job Corps centers, including stop work orders and termination/non-renewal notices issued starting May 29, 2025; (b) issuing, enforcing, implementing, maintaining, or giving effect to any shutdown tasks, job terminations, or student removals; and (c) taking any further action to close any Job Corps Centers.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4773,
+            4869
+          ],
+          [
+            4870,
+            5084
+          ],
+          [
+            5085,
+            5559
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 24, 2025 amended preliminary injunction: Applies to the 31 centers of the Operator Plaintiffs and 5 additional centers where TCU/IAM provides training. Defendants are enjoined from enforcing, implementing, maintaining, or giving effect to closure of private Job Corps centers (including stop work orders and termination/non-renewal notices delivered starting May 29, 2025); from issuing or giving effect to any shutdown tasks, job terminations, or student removals; and from taking any further action to close any Job Corps Centers.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4773,
+            4869
+          ],
+          [
+            4870,
+            5084
+          ],
+          [
+            5085,
+            5559
+          ],
+          [
+            5560,
+            5651
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 24, 2025 (after July 23 oral argument): Court amended preliminary injunction to apply to 31 operator-plaintiff centers plus 5 additional centers; enjoined various closure-related actions; ordered parties to file a schedule by August 1, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4773,
+            4869
+          ],
+          [
+            4870,
+            5084
+          ],
+          [
+            5085,
+            5559
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction amended on July 24, 2025; applies to 31 operator-plaintiff centers and 5 additional TCU/IAM centers; enjoins enforcement of closures, stop work orders, termination and non-renewal notices, shutdown tasks, job terminations, student removals, and any further actions to close Job Corps centers.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46651_p8",
+    "metadata": {
+      "case_id": "46651",
+      "paragraph_num": 8,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case is ongoing."
+    },
+    "source": "",
+    "target": "This case challenged multiple actions taken by the Department of Labor (DOL) to shut down the Job Corps. The Job Corps trains and educates disadvantaged young people with additional career and technical instruction in order to assist them in attaining and retaining employment. Through career technical programs, career counseling, and apprenticeship programs, the Job Corps currently serves around 25,000 students.\n\nOn June 3, 2025, the plaintiffs, including national trade organizations and unions, companies with contracts with DOL relating to the Job Corps, Job Corps training center operators, and one current Job Corps student, filed suit in the District Court for the Southern District of New York. The plaintiffs challenged multiple actions taken by the DOL that the plaintiffs allege were intended to shut down the Job Corps, such as halting background checks as required for new students, canceling pending or outstanding Job Corps procurements, terminating the provision of internet services, drastically reducing DOL's budget for Job Corps, and canceling contracts with Job Corps center operators. The notices of contract cancellation directed the centers to send students home and to begin the shutdown of the centers.\n\nRepresented by private and in-house general counsel, the plaintiffs alleged that the DOL's actions exceeded its statutory authority, were contrary to law, and were arbitrary and capricious under the Administrative Procedure Act, and also that they were ultra vires and a violation of the Constitution's separation of powers. The plaintiffs asked the court to declare the defendants' actions unlawful, to enjoin the defendants from taking any steps to eliminate the Job Corps program, and to award the plaintiffs their court costs.\n\nThe plaintiffs also filed a motion for a temporary restraining order (TRO) on June 3. The case was assigned to District Judge Andrew L. Carter Jr., who granted the plaintiffs' motion on June 4. The court enjoined the defendants from giving effect to the elimination of the Job Corps program, or from taking any further actions to eliminate the program without Congressional authorization. The court also set a hearing for June 17 on the plaintiffs' motion for a preliminary injunction. After the hearing, the court extended the TRO until June 25 and ordered the parties to file a status report on June 20.\n\nThe court granted a preliminary injunction on June 25. The court found that at least some of the plaintiffs had standing and that it had subject matter jurisdiction over the suit. Turning to the merits, the court found that the defendants' actions effectively closed, rather than terminated, the centers. Because the defendants had attempted to close the centers, the court held that they were required by statute to meet certain procedural requirements, which were not met here. Therefore, the court announced that the plaintiffs were likely to succeed on their claim that the defendants had acted to contrary to law. As to the scope of the injunction, the court ruled that the injunction would be nationwide, but \"will not supersede any contrary ruling by the court in the District of Columbia or any other federal circuit or district courts outside of the Second Circuit.\" Finally, the court rejected the defendants' request to immediately stay its ruling pending appeal since the request was not fully briefed at the time of its ruling.\n\nOn June 27, the court ordered the parties to file letters discussing how, if at all, the Supreme Court's decision in\u00a0Casa Inc. v. Trump, which held that that universal injunctions \"likely exceed the authority conferred [on District Courts] by the Judiciary Act,\" impacted the injunction issued by the court in this case. The plaintiffs filed their letter on June 30, arguing that Casa should have no effect in this case since (1) the injunction here was based on the APA, which was not addressed in the Supreme Court's decision; and (2) the injunction here was not overbroad since \"setting aside Defendants\u2019 decision to eliminate Job Corps is necessary to accord complete relief to the plaintiffs in this case.\" The defendants filed their letter on July 11, arguing that \"this Court\u2019s injunction is impermissibly overbroad because it extends beyond the plaintiffs to preclude the government from acting with respect to non-parties.\" The defendants also claimed that the injunction was not entered under the APA; instead, the court \"granted a preliminary injunction under its traditional equitable authority, an authority that CASA made clear is limited to providing relief to the parties themselves.\"\n\nOn July 11 and July 17, two pro se individuals, students who were either attending or planning to attend Job Corps Centers, moved to intervene in the case.\n\nAfter hearing oral argument on July 23, the court amended the preliminary injunction on July 24. The court ruled that the injunction applied \"to the 31 centers covered by the Operator Plaintiffs and the 5 additional centers at which Plaintiff Transportation Communications Union/IAM provides training services.\" The court enjoined the defendants \"from enforcing, implementing, maintaining or giving effect to the closure of the private Job Corps centers, including the stop work orders and termination and non-renewal notices delivered to Job Corps center operators starting May 29, 2025, from issuing, enforcing, implementing, maintaining or giving effect to any shutdown tasks, job terminations, or student removals; and from taking any further action to close any Job Corps Centers.\" The court ordered the parties to file a schedule on how to proceed in the case on August 1.\n\nThe case is ongoing.",
+    "target_paragraph": "The case is ongoing.",
+    "target_paragraph_indices": [
+      5653,
+      5673
+    ],
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5653,
+            5673
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing; no merits trial scheduled or concluded yet.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

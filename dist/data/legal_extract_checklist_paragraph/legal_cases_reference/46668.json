@@ -1,0 +1,1111 @@
+[
+  {
+    "id": "46668_p0",
+    "metadata": {
+      "case_id": "46668",
+      "paragraph_num": 0,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This is a class action lawsuit challenging the detention of immigrants at Guant\u00e1namo Bay. On January..."
+    },
+    "source": "",
+    "target": "This is a class action lawsuit challenging the detention of immigrants at Guant\u00e1namo Bay. On January 29, 2025, President Trump issued a presidential memorandum titled \u201cExpanding the Migrant Operations Center at Naval Station Guant\u00e1namo Bay to Full Capacity,\u201d directing the U.S. Departments of Defense and Homeland Security to prepare the facility to detain up to 30,000 migrants. The memorandum eliminated procedural safeguards such as bond hearings, individualized custody reviews, and access to immigration courts. It also authorized the transfer of noncitizens\u2014many initially apprehended and detained in the United States\u2014to both the Migrant Operations Center and the military-run Camp 6. These directives marked a significant departure from the statutory requirements of the Immigration and Nationality Act, which mandates notice, custody hearings, and removal procedures before prolonged detention. Guant\u00e1namo Bay Naval Base was originally established as a military detention facility for enemy combatants captured during the U.S. \u201cWar on Terror.\u201d Its use for immigration detention represents a significant shift from its historical purpose, raising concerns about subjecting immigrants to conditions designed for wartime detainees.\n\nOn June 4, 2025, two individual plaintiffs filed this class action lawsuit and petition for writ of habeas corpus in the U.S. District Court for the District of Columbia against the U.S. Department of Homeland Security and its Secretary, U.S. Immigration and Customs Enforcement and its Secretary, the U.S. Department of Defense and its Secretary, and the U.S. State Department and its Secretary. The case was initially assigned to U.S. District Judge Carl J. Nichols but reassigned to Judge Sparkle L. Sooknanan on June 18, 2025.\n\nThe plaintiffs alleged that their detention at Guant\u00e1namo Bay exceeded the defendants\u2019 statutory authority and violated the Administrative Procedure Act and the Fifth Amendment. They challenged their prolonged detention without notice or bond hearings, citing harsh and unlawful conditions and a lack of procedural protections. They further alleged that they were apprehended and detained solely because of their foreign status, without individualized assessments or due process, effectively criminalizing their origin in violation of constitutional protections. The complaint detailed punitive conditions at Guant\u00e1namo Bay, including solitary confinement, limited recreation, inadequate hygiene, denial of legal and religious materials, physical abuse, and family separation. It also referenced government press releases and statements by President Trump describing Guant\u00e1namo as a \u201cdetention center for illegal immigrants\u201d and expressing the administration\u2019s intent to \u201censure strict enforcement\u201d of immigration laws by expanding Guant\u00e1namo\u2019s use as a detention site.\n\nRepresented by private counsel from the ACLU, ACLU-DC, Center for Constitutional Rights, and the International Refugee Assistance Project, the plaintiffs sought a writ of habeas corpus for immediate release, declaratory relief recognizing violations of their constitutional and statutory rights, and injunctive relief to prevent detention of them or others in the proposed class without proper notice, individualized custody determinations, and bond hearings. They also sought an order requiring compliance with immigration statutes and regulations, as well as attorneys\u2019 fees and costs.\n\nAlso on June 4, 2025, the plaintiffs filed a motion for class certification, seeking to represent all similarly situated immigration detainees at Guant\u00e1namo. The proposed class was defined as \u201cAll immigration detainees originally apprehended and detained in the United States, and who are, or will be, held at Naval Station Guant\u00e1namo Bay, Cuba.\u201d\n\nOn August 4, 2025, the defendants filed a motion to dismiss the case. The defendants claimed the case was moot because the named plaintiffs were no longer in U.S. custody and were unlikely to be detained again under the challenged policies. They also argued the court lacked jurisdiction because the Immigration and Nationality Act barred judicial review of the defendants\u2019 decision to transfer an alien to a detention facility. Finally, they contended that the plaintiffs\u2019 claims failed to state a cause of action, arguing that the Administrative Procedure Act claims challenged a presidential order and non-final actions, the Secretary of Homeland Security had statutory authority to detain individuals overseas, and the presidential memorandum was not arbitrary or capricious. They further argued that the plaintiffs had not plausibly alleged a Fifth Amendment due process violation and that adequate safeguards ensured acceptable detention conditions.\n\nThe case remains ongoing.",
+    "target_paragraph": "This is a class action lawsuit challenging the detention of immigrants at Guant\u00e1namo Bay. On January 29, 2025, President Trump issued a presidential memorandum titled \u201cExpanding the Migrant Operations Center at Naval Station Guant\u00e1namo Bay to Full Capacity,\u201d directing the U.S. Departments of Defense and Homeland Security to prepare the facility to detain up to 30,000 migrants. The memorandum eliminated procedural safeguards such as bond hearings, individualized custody reviews, and access to immigration courts. It also authorized the transfer of noncitizens\u2014many initially apprehended and detained in the United States\u2014to both the Migrant Operations Center and the military-run Camp 6. These directives marked a significant departure from the statutory requirements of the Immigration and Nationality Act, which mandates notice, custody hearings, and removal procedures before prolonged detention. Guant\u00e1namo Bay Naval Base was originally established as a military detention facility for enemy combatants captured during the U.S. \u201cWar on Terror.\u201d Its use for immigration detention represents a significant shift from its historical purpose, raising concerns about subjecting immigrants to conditions designed for wartime detainees.",
+    "target_paragraph_indices": [
+      0,
+      1237
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            692,
+            903
+          ],
+          [
+            1771,
+            1877
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory/ultra vires claim under the Immigration and Nationality Act (INA) alleging detention exceeded statutory authority",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            692,
+            903
+          ],
+          [
+            1771,
+            1877
+          ]
+        ],
+        "annotation": {
+          "explanation": "Immigration and Nationality Act (INA) \u2014 alleged departure from statutory requirements and detention exceeding statutory authority",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            0,
+            89
+          ],
+          [
+            1239,
+            1408
+          ],
+          [
+            3431,
+            3588
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Class Action",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            1,
+            4
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            90,
+            379
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 29, 2025: Presidential memorandum titled \u201cExpanding the Migrant Operations Center at Naval Station Guant\u00e1namo Bay to Full Capacity,\u201d directing the U.S. Departments of Defense and Homeland Security to prepare the facility to detain up to 30,000 migrants.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            89
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class action challenging the detention of immigrants at Guant\u00e1namo Bay.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            90,
+            379
+          ],
+          [
+            380,
+            516
+          ],
+          [
+            517,
+            691
+          ],
+          [
+            692,
+            903
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 29, 2025 presidential memorandum expanded Guant\u00e1namo capacity to 30,000, eliminated bond hearings and other safeguards, and authorized transfer of noncitizens (including those first detained in the U.S.) to the Migrant Operations Center and Camp 6, departing from INA requirements.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            904,
+            1237
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: Guant\u00e1namo\u2019s historical role as a wartime enemy combatant facility contrasts with its new use for immigration detention, raising concerns about wartime conditions applied to immigrants.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            517,
+            691
+          ]
+        ],
+        "annotation": {
+          "explanation": "Transfer authority included moving noncitizens, many first apprehended in the U.S., to the Migrant Operations Center and Camp 6 at Guant\u00e1namo.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46668_p1",
+    "metadata": {
+      "case_id": "46668",
+      "paragraph_num": 1,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 4, 2025, two individual plaintiffs filed this class action lawsuit and petition for writ of ..."
+    },
+    "source": "",
+    "target": "This is a class action lawsuit challenging the detention of immigrants at Guant\u00e1namo Bay. On January 29, 2025, President Trump issued a presidential memorandum titled \u201cExpanding the Migrant Operations Center at Naval Station Guant\u00e1namo Bay to Full Capacity,\u201d directing the U.S. Departments of Defense and Homeland Security to prepare the facility to detain up to 30,000 migrants. The memorandum eliminated procedural safeguards such as bond hearings, individualized custody reviews, and access to immigration courts. It also authorized the transfer of noncitizens\u2014many initially apprehended and detained in the United States\u2014to both the Migrant Operations Center and the military-run Camp 6. These directives marked a significant departure from the statutory requirements of the Immigration and Nationality Act, which mandates notice, custody hearings, and removal procedures before prolonged detention. Guant\u00e1namo Bay Naval Base was originally established as a military detention facility for enemy combatants captured during the U.S. \u201cWar on Terror.\u201d Its use for immigration detention represents a significant shift from its historical purpose, raising concerns about subjecting immigrants to conditions designed for wartime detainees.\n\nOn June 4, 2025, two individual plaintiffs filed this class action lawsuit and petition for writ of habeas corpus in the U.S. District Court for the District of Columbia against the U.S. Department of Homeland Security and its Secretary, U.S. Immigration and Customs Enforcement and its Secretary, the U.S. Department of Defense and its Secretary, and the U.S. State Department and its Secretary. The case was initially assigned to U.S. District Judge Carl J. Nichols but reassigned to Judge Sparkle L. Sooknanan on June 18, 2025.\n\nThe plaintiffs alleged that their detention at Guant\u00e1namo Bay exceeded the defendants\u2019 statutory authority and violated the Administrative Procedure Act and the Fifth Amendment. They challenged their prolonged detention without notice or bond hearings, citing harsh and unlawful conditions and a lack of procedural protections. They further alleged that they were apprehended and detained solely because of their foreign status, without individualized assessments or due process, effectively criminalizing their origin in violation of constitutional protections. The complaint detailed punitive conditions at Guant\u00e1namo Bay, including solitary confinement, limited recreation, inadequate hygiene, denial of legal and religious materials, physical abuse, and family separation. It also referenced government press releases and statements by President Trump describing Guant\u00e1namo as a \u201cdetention center for illegal immigrants\u201d and expressing the administration\u2019s intent to \u201censure strict enforcement\u201d of immigration laws by expanding Guant\u00e1namo\u2019s use as a detention site.\n\nRepresented by private counsel from the ACLU, ACLU-DC, Center for Constitutional Rights, and the International Refugee Assistance Project, the plaintiffs sought a writ of habeas corpus for immediate release, declaratory relief recognizing violations of their constitutional and statutory rights, and injunctive relief to prevent detention of them or others in the proposed class without proper notice, individualized custody determinations, and bond hearings. They also sought an order requiring compliance with immigration statutes and regulations, as well as attorneys\u2019 fees and costs.\n\nAlso on June 4, 2025, the plaintiffs filed a motion for class certification, seeking to represent all similarly situated immigration detainees at Guant\u00e1namo. The proposed class was defined as \u201cAll immigration detainees originally apprehended and detained in the United States, and who are, or will be, held at Naval Station Guant\u00e1namo Bay, Cuba.\u201d\n\nOn August 4, 2025, the defendants filed a motion to dismiss the case. The defendants claimed the case was moot because the named plaintiffs were no longer in U.S. custody and were unlikely to be detained again under the challenged policies. They also argued the court lacked jurisdiction because the Immigration and Nationality Act barred judicial review of the defendants\u2019 decision to transfer an alien to a detention facility. Finally, they contended that the plaintiffs\u2019 claims failed to state a cause of action, arguing that the Administrative Procedure Act claims challenged a presidential order and non-final actions, the Secretary of Homeland Security had statutory authority to detain individuals overseas, and the presidential memorandum was not arbitrary or capricious. They further argued that the plaintiffs had not plausibly alleged a Fifth Amendment due process violation and that adequate safeguards ensured acceptable detention conditions.\n\nThe case remains ongoing.",
+    "target_paragraph": "On June 4, 2025, two individual plaintiffs filed this class action lawsuit and petition for writ of habeas corpus in the U.S. District Court for the District of Columbia against the U.S. Department of Homeland Security and its Secretary, U.S. Immigration and Customs Enforcement and its Secretary, the U.S. Department of Defense and its Secretary, and the U.S. State Department and its Secretary. The case was initially assigned to U.S. District Judge Carl J. Nichols but reassigned to Judge Sparkle L. Sooknanan on June 18, 2025.",
+    "target_paragraph_indices": [
+      1239,
+      1769
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            1239,
+            1408
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 4, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1239,
+            1408
+          ],
+          [
+            2981,
+            3048
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for writ of habeas corpus",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1239,
+            1408
+          ],
+          [
+            2981,
+            3048
+          ]
+        ],
+        "annotation": {
+          "explanation": "Writ of habeas corpus for immediate release",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1636,
+            1769
+          ]
+        ],
+        "annotation": {
+          "explanation": "Carl J. Nichols",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1636,
+            1769
+          ]
+        ],
+        "annotation": {
+          "explanation": "Sparkle L. Sooknanan",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1239,
+            1635
+          ],
+          [
+            1771,
+            1948
+          ],
+          [
+            3431,
+            3588
+          ],
+          [
+            3589,
+            3777
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Individual immigration detainee detained at Guant\u00e1namo Bay (one of two named plaintiffs)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            2,
+            4
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1239,
+            1635
+          ],
+          [
+            1771,
+            1948
+          ],
+          [
+            3431,
+            3588
+          ],
+          [
+            3589,
+            3777
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Individual immigration detainee detained at Guant\u00e1namo Bay (one of two named plaintiffs)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            2,
+            4
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1239,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Homeland Security",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1239,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of the U.S. Department of Homeland Security",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1239,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Immigration and Customs Enforcement",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1239,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of U.S. Immigration and Customs Enforcement",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1239,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Defense",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1239,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of the U.S. Department of Defense",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1239,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. State Department",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1239,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of the U.S. State Department",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1239,
+            1635
+          ],
+          [
+            1636,
+            1769
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing details: On June 4, 2025, two plaintiffs filed in D.D.C. against DHS, ICE, DOD, and State and their leaders; case reassigned from Judge Carl J. Nichols to Judge Sparkle L. Sooknanan on June 18, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1239,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint and petition for writ of habeas corpus filed by plaintiffs on June 4, 2025, in the U.S. District Court for the District of Columbia against DHS, ICE, DoD, and State (and their Secretaries).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1239,
+            1635
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case initiated on June 4, 2025 in the U.S. District Court for the District of Columbia (class action and habeas).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1636,
+            1769
+          ]
+        ],
+        "annotation": {
+          "explanation": "Judicial assignment: initially Judge Carl J. Nichols; reassigned to Judge Sparkle L. Sooknanan on June 18, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      }
+    ]
+  },
+  {
+    "id": "46668_p2",
+    "metadata": {
+      "case_id": "46668",
+      "paragraph_num": 2,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs alleged that their detention at Guant\u00e1namo Bay exceeded the defendants\u2019 statutory aut..."
+    },
+    "source": "",
+    "target": "This is a class action lawsuit challenging the detention of immigrants at Guant\u00e1namo Bay. On January 29, 2025, President Trump issued a presidential memorandum titled \u201cExpanding the Migrant Operations Center at Naval Station Guant\u00e1namo Bay to Full Capacity,\u201d directing the U.S. Departments of Defense and Homeland Security to prepare the facility to detain up to 30,000 migrants. The memorandum eliminated procedural safeguards such as bond hearings, individualized custody reviews, and access to immigration courts. It also authorized the transfer of noncitizens\u2014many initially apprehended and detained in the United States\u2014to both the Migrant Operations Center and the military-run Camp 6. These directives marked a significant departure from the statutory requirements of the Immigration and Nationality Act, which mandates notice, custody hearings, and removal procedures before prolonged detention. Guant\u00e1namo Bay Naval Base was originally established as a military detention facility for enemy combatants captured during the U.S. \u201cWar on Terror.\u201d Its use for immigration detention represents a significant shift from its historical purpose, raising concerns about subjecting immigrants to conditions designed for wartime detainees.\n\nOn June 4, 2025, two individual plaintiffs filed this class action lawsuit and petition for writ of habeas corpus in the U.S. District Court for the District of Columbia against the U.S. Department of Homeland Security and its Secretary, U.S. Immigration and Customs Enforcement and its Secretary, the U.S. Department of Defense and its Secretary, and the U.S. State Department and its Secretary. The case was initially assigned to U.S. District Judge Carl J. Nichols but reassigned to Judge Sparkle L. Sooknanan on June 18, 2025.\n\nThe plaintiffs alleged that their detention at Guant\u00e1namo Bay exceeded the defendants\u2019 statutory authority and violated the Administrative Procedure Act and the Fifth Amendment. They challenged their prolonged detention without notice or bond hearings, citing harsh and unlawful conditions and a lack of procedural protections. They further alleged that they were apprehended and detained solely because of their foreign status, without individualized assessments or due process, effectively criminalizing their origin in violation of constitutional protections. The complaint detailed punitive conditions at Guant\u00e1namo Bay, including solitary confinement, limited recreation, inadequate hygiene, denial of legal and religious materials, physical abuse, and family separation. It also referenced government press releases and statements by President Trump describing Guant\u00e1namo as a \u201cdetention center for illegal immigrants\u201d and expressing the administration\u2019s intent to \u201censure strict enforcement\u201d of immigration laws by expanding Guant\u00e1namo\u2019s use as a detention site.\n\nRepresented by private counsel from the ACLU, ACLU-DC, Center for Constitutional Rights, and the International Refugee Assistance Project, the plaintiffs sought a writ of habeas corpus for immediate release, declaratory relief recognizing violations of their constitutional and statutory rights, and injunctive relief to prevent detention of them or others in the proposed class without proper notice, individualized custody determinations, and bond hearings. They also sought an order requiring compliance with immigration statutes and regulations, as well as attorneys\u2019 fees and costs.\n\nAlso on June 4, 2025, the plaintiffs filed a motion for class certification, seeking to represent all similarly situated immigration detainees at Guant\u00e1namo. The proposed class was defined as \u201cAll immigration detainees originally apprehended and detained in the United States, and who are, or will be, held at Naval Station Guant\u00e1namo Bay, Cuba.\u201d\n\nOn August 4, 2025, the defendants filed a motion to dismiss the case. The defendants claimed the case was moot because the named plaintiffs were no longer in U.S. custody and were unlikely to be detained again under the challenged policies. They also argued the court lacked jurisdiction because the Immigration and Nationality Act barred judicial review of the defendants\u2019 decision to transfer an alien to a detention facility. Finally, they contended that the plaintiffs\u2019 claims failed to state a cause of action, arguing that the Administrative Procedure Act claims challenged a presidential order and non-final actions, the Secretary of Homeland Security had statutory authority to detain individuals overseas, and the presidential memorandum was not arbitrary or capricious. They further argued that the plaintiffs had not plausibly alleged a Fifth Amendment due process violation and that adequate safeguards ensured acceptable detention conditions.\n\nThe case remains ongoing.",
+    "target_paragraph": "The plaintiffs alleged that their detention at Guant\u00e1namo Bay exceeded the defendants\u2019 statutory authority and violated the Administrative Procedure Act and the Fifth Amendment. They challenged their prolonged detention without notice or bond hearings, citing harsh and unlawful conditions and a lack of procedural protections. They further alleged that they were apprehended and detained solely because of their foreign status, without individualized assessments or due process, effectively criminalizing their origin in violation of constitutional protections. The complaint detailed punitive conditions at Guant\u00e1namo Bay, including solitary confinement, limited recreation, inadequate hygiene, denial of legal and religious materials, physical abuse, and family separation. It also referenced government press releases and statements by President Trump describing Guant\u00e1namo as a \u201cdetention center for illegal immigrants\u201d and expressing the administration\u2019s intent to \u201censure strict enforcement\u201d of immigration laws by expanding Guant\u00e1namo\u2019s use as a detention site.",
+    "target_paragraph_indices": [
+      1771,
+      2840
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1771,
+            1948
+          ],
+          [
+            4295,
+            4401
+          ],
+          [
+            4498,
+            4558
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            5
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1771,
+            1948
+          ],
+          [
+            4559,
+            4664
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment due process claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            5
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1882,
+            1923
+          ],
+          [
+            4498,
+            4558
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            2,
+            5
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1882,
+            1948
+          ],
+          [
+            2200,
+            2249
+          ],
+          [
+            4584,
+            4664
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Constitution, Fifth Amendment \u2014 Due Process Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            2,
+            5
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1771,
+            1948
+          ],
+          [
+            1949,
+            2098
+          ],
+          [
+            2099,
+            2333
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs allege detention exceeded statutory authority and violated the APA and Fifth Amendment, including prolonged detention without notice or bond hearings and discriminatory detention based on foreign status without individualized assessments.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2334,
+            2547
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged conditions of confinement: solitary confinement, limited recreation, inadequate hygiene, denial of legal and religious materials, physical abuse, and family separation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2548,
+            2840
+          ]
+        ],
+        "annotation": {
+          "explanation": "Evidence of policy intent: government press releases and President Trump\u2019s statements describing Guant\u00e1namo as a \u201cdetention center for illegal immigrants\u201d and aiming to \u201censure strict enforcement\u201d of immigration laws via expanded use.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46668_p3",
+    "metadata": {
+      "case_id": "46668",
+      "paragraph_num": 3,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Represented by private counsel from the ACLU, ACLU-DC, Center for Constitutional Rights, and the Int..."
+    },
+    "source": "",
+    "target": "This is a class action lawsuit challenging the detention of immigrants at Guant\u00e1namo Bay. On January 29, 2025, President Trump issued a presidential memorandum titled \u201cExpanding the Migrant Operations Center at Naval Station Guant\u00e1namo Bay to Full Capacity,\u201d directing the U.S. Departments of Defense and Homeland Security to prepare the facility to detain up to 30,000 migrants. The memorandum eliminated procedural safeguards such as bond hearings, individualized custody reviews, and access to immigration courts. It also authorized the transfer of noncitizens\u2014many initially apprehended and detained in the United States\u2014to both the Migrant Operations Center and the military-run Camp 6. These directives marked a significant departure from the statutory requirements of the Immigration and Nationality Act, which mandates notice, custody hearings, and removal procedures before prolonged detention. Guant\u00e1namo Bay Naval Base was originally established as a military detention facility for enemy combatants captured during the U.S. \u201cWar on Terror.\u201d Its use for immigration detention represents a significant shift from its historical purpose, raising concerns about subjecting immigrants to conditions designed for wartime detainees.\n\nOn June 4, 2025, two individual plaintiffs filed this class action lawsuit and petition for writ of habeas corpus in the U.S. District Court for the District of Columbia against the U.S. Department of Homeland Security and its Secretary, U.S. Immigration and Customs Enforcement and its Secretary, the U.S. Department of Defense and its Secretary, and the U.S. State Department and its Secretary. The case was initially assigned to U.S. District Judge Carl J. Nichols but reassigned to Judge Sparkle L. Sooknanan on June 18, 2025.\n\nThe plaintiffs alleged that their detention at Guant\u00e1namo Bay exceeded the defendants\u2019 statutory authority and violated the Administrative Procedure Act and the Fifth Amendment. They challenged their prolonged detention without notice or bond hearings, citing harsh and unlawful conditions and a lack of procedural protections. They further alleged that they were apprehended and detained solely because of their foreign status, without individualized assessments or due process, effectively criminalizing their origin in violation of constitutional protections. The complaint detailed punitive conditions at Guant\u00e1namo Bay, including solitary confinement, limited recreation, inadequate hygiene, denial of legal and religious materials, physical abuse, and family separation. It also referenced government press releases and statements by President Trump describing Guant\u00e1namo as a \u201cdetention center for illegal immigrants\u201d and expressing the administration\u2019s intent to \u201censure strict enforcement\u201d of immigration laws by expanding Guant\u00e1namo\u2019s use as a detention site.\n\nRepresented by private counsel from the ACLU, ACLU-DC, Center for Constitutional Rights, and the International Refugee Assistance Project, the plaintiffs sought a writ of habeas corpus for immediate release, declaratory relief recognizing violations of their constitutional and statutory rights, and injunctive relief to prevent detention of them or others in the proposed class without proper notice, individualized custody determinations, and bond hearings. They also sought an order requiring compliance with immigration statutes and regulations, as well as attorneys\u2019 fees and costs.\n\nAlso on June 4, 2025, the plaintiffs filed a motion for class certification, seeking to represent all similarly situated immigration detainees at Guant\u00e1namo. The proposed class was defined as \u201cAll immigration detainees originally apprehended and detained in the United States, and who are, or will be, held at Naval Station Guant\u00e1namo Bay, Cuba.\u201d\n\nOn August 4, 2025, the defendants filed a motion to dismiss the case. The defendants claimed the case was moot because the named plaintiffs were no longer in U.S. custody and were unlikely to be detained again under the challenged policies. They also argued the court lacked jurisdiction because the Immigration and Nationality Act barred judicial review of the defendants\u2019 decision to transfer an alien to a detention facility. Finally, they contended that the plaintiffs\u2019 claims failed to state a cause of action, arguing that the Administrative Procedure Act claims challenged a presidential order and non-final actions, the Secretary of Homeland Security had statutory authority to detain individuals overseas, and the presidential memorandum was not arbitrary or capricious. They further argued that the plaintiffs had not plausibly alleged a Fifth Amendment due process violation and that adequate safeguards ensured acceptable detention conditions.\n\nThe case remains ongoing.",
+    "target_paragraph": "Represented by private counsel from the ACLU, ACLU-DC, Center for Constitutional Rights, and the International Refugee Assistance Project, the plaintiffs sought a writ of habeas corpus for immediate release, declaratory relief recognizing violations of their constitutional and statutory rights, and injunctive relief to prevent detention of them or others in the proposed class without proper notice, individualized custody determinations, and bond hearings. They also sought an order requiring compliance with immigration statutes and regulations, as well as attorneys\u2019 fees and costs.",
+    "target_paragraph_indices": [
+      2842,
+      3429
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3050,
+            3136
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief recognizing violations of constitutional and statutory rights",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3142,
+            3300
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief to prevent detention without proper notice, individualized custody determinations, and bond hearings (class-wide)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3302,
+            3390
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order requiring compliance with immigration statutes and regulations",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3392,
+            3429
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys\u2019 fees and costs",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            2842,
+            3026
+          ]
+        ],
+        "annotation": {
+          "explanation": "Private counsel",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            2842,
+            3026
+          ]
+        ],
+        "annotation": {
+          "explanation": "ACLU",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            2842,
+            3026
+          ]
+        ],
+        "annotation": {
+          "explanation": "ACLU-DC",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            2842,
+            3026
+          ]
+        ],
+        "annotation": {
+          "explanation": "Center for Constitutional Rights",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            2842,
+            3026
+          ]
+        ],
+        "annotation": {
+          "explanation": "International Refugee Assistance Project",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2842,
+            3301
+          ],
+          [
+            3302,
+            3429
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: habeas for immediate release; declaratory and injunctive relief to require notice, individualized custody determinations, bond hearings; compliance with immigration statutes; attorneys\u2019 fees. Representation by ACLU, ACLU-DC, CCR, and IRAP.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46668_p4",
+    "metadata": {
+      "case_id": "46668",
+      "paragraph_num": 4,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Also on June 4, 2025, the plaintiffs filed a motion for class certification, seeking to represent al..."
+    },
+    "source": "",
+    "target": "This is a class action lawsuit challenging the detention of immigrants at Guant\u00e1namo Bay. On January 29, 2025, President Trump issued a presidential memorandum titled \u201cExpanding the Migrant Operations Center at Naval Station Guant\u00e1namo Bay to Full Capacity,\u201d directing the U.S. Departments of Defense and Homeland Security to prepare the facility to detain up to 30,000 migrants. The memorandum eliminated procedural safeguards such as bond hearings, individualized custody reviews, and access to immigration courts. It also authorized the transfer of noncitizens\u2014many initially apprehended and detained in the United States\u2014to both the Migrant Operations Center and the military-run Camp 6. These directives marked a significant departure from the statutory requirements of the Immigration and Nationality Act, which mandates notice, custody hearings, and removal procedures before prolonged detention. Guant\u00e1namo Bay Naval Base was originally established as a military detention facility for enemy combatants captured during the U.S. \u201cWar on Terror.\u201d Its use for immigration detention represents a significant shift from its historical purpose, raising concerns about subjecting immigrants to conditions designed for wartime detainees.\n\nOn June 4, 2025, two individual plaintiffs filed this class action lawsuit and petition for writ of habeas corpus in the U.S. District Court for the District of Columbia against the U.S. Department of Homeland Security and its Secretary, U.S. Immigration and Customs Enforcement and its Secretary, the U.S. Department of Defense and its Secretary, and the U.S. State Department and its Secretary. The case was initially assigned to U.S. District Judge Carl J. Nichols but reassigned to Judge Sparkle L. Sooknanan on June 18, 2025.\n\nThe plaintiffs alleged that their detention at Guant\u00e1namo Bay exceeded the defendants\u2019 statutory authority and violated the Administrative Procedure Act and the Fifth Amendment. They challenged their prolonged detention without notice or bond hearings, citing harsh and unlawful conditions and a lack of procedural protections. They further alleged that they were apprehended and detained solely because of their foreign status, without individualized assessments or due process, effectively criminalizing their origin in violation of constitutional protections. The complaint detailed punitive conditions at Guant\u00e1namo Bay, including solitary confinement, limited recreation, inadequate hygiene, denial of legal and religious materials, physical abuse, and family separation. It also referenced government press releases and statements by President Trump describing Guant\u00e1namo as a \u201cdetention center for illegal immigrants\u201d and expressing the administration\u2019s intent to \u201censure strict enforcement\u201d of immigration laws by expanding Guant\u00e1namo\u2019s use as a detention site.\n\nRepresented by private counsel from the ACLU, ACLU-DC, Center for Constitutional Rights, and the International Refugee Assistance Project, the plaintiffs sought a writ of habeas corpus for immediate release, declaratory relief recognizing violations of their constitutional and statutory rights, and injunctive relief to prevent detention of them or others in the proposed class without proper notice, individualized custody determinations, and bond hearings. They also sought an order requiring compliance with immigration statutes and regulations, as well as attorneys\u2019 fees and costs.\n\nAlso on June 4, 2025, the plaintiffs filed a motion for class certification, seeking to represent all similarly situated immigration detainees at Guant\u00e1namo. The proposed class was defined as \u201cAll immigration detainees originally apprehended and detained in the United States, and who are, or will be, held at Naval Station Guant\u00e1namo Bay, Cuba.\u201d\n\nOn August 4, 2025, the defendants filed a motion to dismiss the case. The defendants claimed the case was moot because the named plaintiffs were no longer in U.S. custody and were unlikely to be detained again under the challenged policies. They also argued the court lacked jurisdiction because the Immigration and Nationality Act barred judicial review of the defendants\u2019 decision to transfer an alien to a detention facility. Finally, they contended that the plaintiffs\u2019 claims failed to state a cause of action, arguing that the Administrative Procedure Act claims challenged a presidential order and non-final actions, the Secretary of Homeland Security had statutory authority to detain individuals overseas, and the presidential memorandum was not arbitrary or capricious. They further argued that the plaintiffs had not plausibly alleged a Fifth Amendment due process violation and that adequate safeguards ensured acceptable detention conditions.\n\nThe case remains ongoing.",
+    "target_paragraph": "Also on June 4, 2025, the plaintiffs filed a motion for class certification, seeking to represent all similarly situated immigration detainees at Guant\u00e1namo. The proposed class was defined as \u201cAll immigration detainees originally apprehended and detained in the United States, and who are, or will be, held at Naval Station Guant\u00e1namo Bay, Cuba.\u201d",
+    "target_paragraph_indices": [
+      3431,
+      3777
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3431,
+            3588
+          ],
+          [
+            3589,
+            3777
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification sought June 4, 2025; proposed class: all immigration detainees originally apprehended and detained in the U.S. who are or will be held at Guant\u00e1namo Bay.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3431,
+            3588
+          ],
+          [
+            3589,
+            3777
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs' motion for class certification filed on June 4, 2025, proposing a class of all immigration detainees originally apprehended and detained in the U.S. who are, or will be, held at Guant\u00e1namo.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3431,
+            3588
+          ],
+          [
+            3589,
+            3777
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a motion for class certification on June 4, 2025; proposed class: all immigration detainees originally apprehended and detained in the U.S. who are or will be held at Guant\u00e1namo.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46668_p5",
+    "metadata": {
+      "case_id": "46668",
+      "paragraph_num": 5,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 4, 2025, the defendants filed a motion to dismiss the case. The defendants claimed the cas..."
+    },
+    "source": "",
+    "target": "This is a class action lawsuit challenging the detention of immigrants at Guant\u00e1namo Bay. On January 29, 2025, President Trump issued a presidential memorandum titled \u201cExpanding the Migrant Operations Center at Naval Station Guant\u00e1namo Bay to Full Capacity,\u201d directing the U.S. Departments of Defense and Homeland Security to prepare the facility to detain up to 30,000 migrants. The memorandum eliminated procedural safeguards such as bond hearings, individualized custody reviews, and access to immigration courts. It also authorized the transfer of noncitizens\u2014many initially apprehended and detained in the United States\u2014to both the Migrant Operations Center and the military-run Camp 6. These directives marked a significant departure from the statutory requirements of the Immigration and Nationality Act, which mandates notice, custody hearings, and removal procedures before prolonged detention. Guant\u00e1namo Bay Naval Base was originally established as a military detention facility for enemy combatants captured during the U.S. \u201cWar on Terror.\u201d Its use for immigration detention represents a significant shift from its historical purpose, raising concerns about subjecting immigrants to conditions designed for wartime detainees.\n\nOn June 4, 2025, two individual plaintiffs filed this class action lawsuit and petition for writ of habeas corpus in the U.S. District Court for the District of Columbia against the U.S. Department of Homeland Security and its Secretary, U.S. Immigration and Customs Enforcement and its Secretary, the U.S. Department of Defense and its Secretary, and the U.S. State Department and its Secretary. The case was initially assigned to U.S. District Judge Carl J. Nichols but reassigned to Judge Sparkle L. Sooknanan on June 18, 2025.\n\nThe plaintiffs alleged that their detention at Guant\u00e1namo Bay exceeded the defendants\u2019 statutory authority and violated the Administrative Procedure Act and the Fifth Amendment. They challenged their prolonged detention without notice or bond hearings, citing harsh and unlawful conditions and a lack of procedural protections. They further alleged that they were apprehended and detained solely because of their foreign status, without individualized assessments or due process, effectively criminalizing their origin in violation of constitutional protections. The complaint detailed punitive conditions at Guant\u00e1namo Bay, including solitary confinement, limited recreation, inadequate hygiene, denial of legal and religious materials, physical abuse, and family separation. It also referenced government press releases and statements by President Trump describing Guant\u00e1namo as a \u201cdetention center for illegal immigrants\u201d and expressing the administration\u2019s intent to \u201censure strict enforcement\u201d of immigration laws by expanding Guant\u00e1namo\u2019s use as a detention site.\n\nRepresented by private counsel from the ACLU, ACLU-DC, Center for Constitutional Rights, and the International Refugee Assistance Project, the plaintiffs sought a writ of habeas corpus for immediate release, declaratory relief recognizing violations of their constitutional and statutory rights, and injunctive relief to prevent detention of them or others in the proposed class without proper notice, individualized custody determinations, and bond hearings. They also sought an order requiring compliance with immigration statutes and regulations, as well as attorneys\u2019 fees and costs.\n\nAlso on June 4, 2025, the plaintiffs filed a motion for class certification, seeking to represent all similarly situated immigration detainees at Guant\u00e1namo. The proposed class was defined as \u201cAll immigration detainees originally apprehended and detained in the United States, and who are, or will be, held at Naval Station Guant\u00e1namo Bay, Cuba.\u201d\n\nOn August 4, 2025, the defendants filed a motion to dismiss the case. The defendants claimed the case was moot because the named plaintiffs were no longer in U.S. custody and were unlikely to be detained again under the challenged policies. They also argued the court lacked jurisdiction because the Immigration and Nationality Act barred judicial review of the defendants\u2019 decision to transfer an alien to a detention facility. Finally, they contended that the plaintiffs\u2019 claims failed to state a cause of action, arguing that the Administrative Procedure Act claims challenged a presidential order and non-final actions, the Secretary of Homeland Security had statutory authority to detain individuals overseas, and the presidential memorandum was not arbitrary or capricious. They further argued that the plaintiffs had not plausibly alleged a Fifth Amendment due process violation and that adequate safeguards ensured acceptable detention conditions.\n\nThe case remains ongoing.",
+    "target_paragraph": "On August 4, 2025, the defendants filed a motion to dismiss the case. The defendants claimed the case was moot because the named plaintiffs were no longer in U.S. custody and were unlikely to be detained again under the challenged policies. They also argued the court lacked jurisdiction because the Immigration and Nationality Act barred judicial review of the defendants\u2019 decision to transfer an alien to a detention facility. Finally, they contended that the plaintiffs\u2019 claims failed to state a cause of action, arguing that the Administrative Procedure Act claims challenged a presidential order and non-final actions, the Secretary of Homeland Security had statutory authority to detain individuals overseas, and the presidential memorandum was not arbitrary or capricious. They further argued that the plaintiffs had not plausibly alleged a Fifth Amendment due process violation and that adequate safeguards ensured acceptable detention conditions.",
+    "target_paragraph_indices": [
+      3779,
+      4734
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3779,
+            3848
+          ],
+          [
+            3849,
+            4019
+          ],
+          [
+            4020,
+            4207
+          ],
+          [
+            4208,
+            4558
+          ],
+          [
+            4559,
+            4734
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants moved to dismiss on August 4, 2025, arguing mootness (plaintiffs no longer in custody), lack of jurisdiction under INA for transfer decisions, and failure to state a claim (APA challenges to presidential/non-final actions; DHS authority to detain overseas; memo not arbitrary; no plausible Fifth Amendment violation; adequate safeguards).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3779,
+            3848
+          ],
+          [
+            3849,
+            4019
+          ],
+          [
+            4020,
+            4207
+          ],
+          [
+            4208,
+            4558
+          ],
+          [
+            4559,
+            4734
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants' motion to dismiss filed on August 4, 2025, asserting mootness, lack of jurisdiction under the INA, and failure to state a claim (including APA challenges to presidential/non-final actions, statutory authority for overseas detention, non-arbitrary memorandum, and insufficient Fifth Amendment allegations).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3779,
+            3848
+          ],
+          [
+            3849,
+            4019
+          ],
+          [
+            4020,
+            4207
+          ],
+          [
+            4208,
+            4558
+          ],
+          [
+            4559,
+            4734
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a motion to dismiss on August 4, 2025, asserting mootness, lack of jurisdiction (INA bar), and failure to state a claim (APA challenges to presidential/non-final actions; DHS authority; memorandum not arbitrary/capricious; no plausible Fifth Amendment violation; adequate safeguards).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46668_p6",
+    "metadata": {
+      "case_id": "46668",
+      "paragraph_num": 6,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case remains ongoing."
+    },
+    "source": "",
+    "target": "This is a class action lawsuit challenging the detention of immigrants at Guant\u00e1namo Bay. On January 29, 2025, President Trump issued a presidential memorandum titled \u201cExpanding the Migrant Operations Center at Naval Station Guant\u00e1namo Bay to Full Capacity,\u201d directing the U.S. Departments of Defense and Homeland Security to prepare the facility to detain up to 30,000 migrants. The memorandum eliminated procedural safeguards such as bond hearings, individualized custody reviews, and access to immigration courts. It also authorized the transfer of noncitizens\u2014many initially apprehended and detained in the United States\u2014to both the Migrant Operations Center and the military-run Camp 6. These directives marked a significant departure from the statutory requirements of the Immigration and Nationality Act, which mandates notice, custody hearings, and removal procedures before prolonged detention. Guant\u00e1namo Bay Naval Base was originally established as a military detention facility for enemy combatants captured during the U.S. \u201cWar on Terror.\u201d Its use for immigration detention represents a significant shift from its historical purpose, raising concerns about subjecting immigrants to conditions designed for wartime detainees.\n\nOn June 4, 2025, two individual plaintiffs filed this class action lawsuit and petition for writ of habeas corpus in the U.S. District Court for the District of Columbia against the U.S. Department of Homeland Security and its Secretary, U.S. Immigration and Customs Enforcement and its Secretary, the U.S. Department of Defense and its Secretary, and the U.S. State Department and its Secretary. The case was initially assigned to U.S. District Judge Carl J. Nichols but reassigned to Judge Sparkle L. Sooknanan on June 18, 2025.\n\nThe plaintiffs alleged that their detention at Guant\u00e1namo Bay exceeded the defendants\u2019 statutory authority and violated the Administrative Procedure Act and the Fifth Amendment. They challenged their prolonged detention without notice or bond hearings, citing harsh and unlawful conditions and a lack of procedural protections. They further alleged that they were apprehended and detained solely because of their foreign status, without individualized assessments or due process, effectively criminalizing their origin in violation of constitutional protections. The complaint detailed punitive conditions at Guant\u00e1namo Bay, including solitary confinement, limited recreation, inadequate hygiene, denial of legal and religious materials, physical abuse, and family separation. It also referenced government press releases and statements by President Trump describing Guant\u00e1namo as a \u201cdetention center for illegal immigrants\u201d and expressing the administration\u2019s intent to \u201censure strict enforcement\u201d of immigration laws by expanding Guant\u00e1namo\u2019s use as a detention site.\n\nRepresented by private counsel from the ACLU, ACLU-DC, Center for Constitutional Rights, and the International Refugee Assistance Project, the plaintiffs sought a writ of habeas corpus for immediate release, declaratory relief recognizing violations of their constitutional and statutory rights, and injunctive relief to prevent detention of them or others in the proposed class without proper notice, individualized custody determinations, and bond hearings. They also sought an order requiring compliance with immigration statutes and regulations, as well as attorneys\u2019 fees and costs.\n\nAlso on June 4, 2025, the plaintiffs filed a motion for class certification, seeking to represent all similarly situated immigration detainees at Guant\u00e1namo. The proposed class was defined as \u201cAll immigration detainees originally apprehended and detained in the United States, and who are, or will be, held at Naval Station Guant\u00e1namo Bay, Cuba.\u201d\n\nOn August 4, 2025, the defendants filed a motion to dismiss the case. The defendants claimed the case was moot because the named plaintiffs were no longer in U.S. custody and were unlikely to be detained again under the challenged policies. They also argued the court lacked jurisdiction because the Immigration and Nationality Act barred judicial review of the defendants\u2019 decision to transfer an alien to a detention facility. Finally, they contended that the plaintiffs\u2019 claims failed to state a cause of action, arguing that the Administrative Procedure Act claims challenged a presidential order and non-final actions, the Secretary of Homeland Security had statutory authority to detain individuals overseas, and the presidential memorandum was not arbitrary or capricious. They further argued that the plaintiffs had not plausibly alleged a Fifth Amendment due process violation and that adequate safeguards ensured acceptable detention conditions.\n\nThe case remains ongoing.",
+    "target_paragraph": "The case remains ongoing.",
+    "target_paragraph_indices": [
+      4736,
+      4761
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4736,
+            4761
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4736,
+            4761
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing; no final judgment or trial outcome reported.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

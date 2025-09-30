@@ -1,0 +1,1656 @@
+[
+  {
+    "id": "46815_p0",
+    "metadata": {
+      "case_id": "46815",
+      "paragraph_num": 0,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 15, 2025, the second Trump administration deported almost 300 noncitizens\u2014mostly Venezuelan..."
+    },
+    "source": "",
+    "target": "On March 15, 2025, the second Trump administration deported almost 300 noncitizens\u2014mostly Venezuelan nationals and some Salvadoran nationals\u2014to El Salvador without going through any legal process in front of an immigration judge. Upon arrival, they were sent to the country\u2019s mega-prison, the Terrorism Confinement Center or CECOT.\n\nThe defendant in this case, Kilmar Abrego-Garcia, is a Salvadoran national residing in the United States who had previously received protection from removal from an immigration judge. Despite this order withholding his removal, Abrego-Garcia was deported due to what the U.S. government termed an \"administrative error.\"\u00a0 On March 24, 2025, Abrego-Garcia filed a habeas petition in the U.S. District Court for the District of Maryland (8:25-cv-00951). It may be useful to read about that habeas case [../../../../case/46283/] before reading the summary of this one; throughout this case summary, we refer to that lawsuit as the habeas case or habeas court. On April 4, 2025, the habeas court ordered the government to facilitate Abrego-Garcia's return to the United States.\n\nOn June 6, 2025 the government informed the habeas court that it had \"successfully facilitated Abrego-Garcia\u2019s return,\" and that he would stand trial on criminal charges in the U.S. District Court for the Middle District of Tennessee. The government filed a human smuggling indictment against Abrego-Garcia; press reports [https://abcnews.go.com/US/mistakenly-deported-kilmar-abrego-garcia-back-us-face/story?id=121333122] said that disagreement with how the prosecution was being handled prompted the criminal section chief's resignation in the U.S. Attorney's office that brought the case. The indictment charged Abrego-Garcia with one count of conspiracy to transport undocumented individuals and one count of unlawful transportation of undocumented individuals. Abrego-Garcia made his initial court appearance that same day in the Middle District of Tennessee before U.S. Magistrate Judge Barbara Holmes.\n\nOn June 9, 2025, the government requested a pretrial detention hearing. The court granted the request, but the judge ultimately denied the government\u2019s motion to detain Abrego-Garcia. The government moved to stay that decision on June 22, 2025, but the motion was also denied. In her opinion denying the stay, Judge Crenshaw found that the government had not made a \u201cstrong showing\u201d that the four stay factors weighed in the government's favor.\n\nAbrego-Garcia remained in custody as the government and his attorneys submitted statements regarding potential release conditions. On July 2, the government moved for the court to revoke the magistrate judge's release order. The government made separate statements that once Abrego-Garcia is released from criminal custody, it will take him into immigration custody and again remove him to El Salvador.\n\nIn response, Abrego-Garciamoved for the court to delay his release until the July 16 hearing on the government's motion for revocation. Abrego-Garciaalleged that this would be the only way to ensure that the government does not remove him to a '\"third country\" as soon as the Court released Abrego-Garciafrom pretrial detention. The court granted this motion on June 30, 2025. On July 20, Abrego-Garciamoved, with the government's consent, for a 30-day stay of the issuance of any release order. Abrego-Garciaclaimed he had been \"advised by the government that if the Court denies the government's motion for revocation, the defendant would be transferred to the custody of [DHS], and DHS would begin removal proceedings.\"\n\nIn response, Abrego-Garcia moved for emergency relief in the District Court of Maryland on June 26, 2025. Abrego-Garcia requested the court order the government to:\n\n\u2022 Return him to Maryland immediately upon his release from confinement in Tennessee.   \u2022 Refrain from removing him from the United States or from transferring him outside the District of Maryland.\n\nOn July 24, Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his release in Tennessee. Judge Crenshaw denied the administration\u2019s motion to revoke the release order for Kilmar Abrego-Garcia from criminal detention, noting the administration failed to justify continued pretrial detention. Later that day, Magistrate Judge Holmes granted a 30-day stay of the order, keeping Garcia in U.S. Marshal custody.\n\nOn August 7, 2025, Abrego-Garcia waived his right to a speedy trial and consent to a continuance of up to 127 days. Following this waiver, on August 19, Abrego-Garcia moved the court to dismiss for vindictive and selective prosecution. In the alternative, the defendant requested discovery and an evidentiary hearing to investigate his claims.\n\nThis case is ongoing.",
+    "target_paragraph": "On March 15, 2025, the second Trump administration deported almost 300 noncitizens\u2014mostly Venezuelan nationals and some Salvadoran nationals\u2014to El Salvador without going through any legal process in front of an immigration judge. Upon arrival, they were sent to the country\u2019s mega-prison, the Terrorism Confinement Center or CECOT.",
+    "target_paragraph_indices": [
+      0,
+      331
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            331
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mass deportation event on March 15, 2025: approximately 300 noncitizens (mostly Venezuelan, some Salvadoran) were deported to El Salvador without immigration court process and sent to CECOT upon arrival.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46815_p1",
+    "metadata": {
+      "case_id": "46815",
+      "paragraph_num": 1,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The defendant in this case, Kilmar Abrego-Garcia, is a Salvadoran national residing in the United St..."
+    },
+    "source": "",
+    "target": "On March 15, 2025, the second Trump administration deported almost 300 noncitizens\u2014mostly Venezuelan nationals and some Salvadoran nationals\u2014to El Salvador without going through any legal process in front of an immigration judge. Upon arrival, they were sent to the country\u2019s mega-prison, the Terrorism Confinement Center or CECOT.\n\nThe defendant in this case, Kilmar Abrego-Garcia, is a Salvadoran national residing in the United States who had previously received protection from removal from an immigration judge. Despite this order withholding his removal, Abrego-Garcia was deported due to what the U.S. government termed an \"administrative error.\"\u00a0 On March 24, 2025, Abrego-Garcia filed a habeas petition in the U.S. District Court for the District of Maryland (8:25-cv-00951). It may be useful to read about that habeas case [../../../../case/46283/] before reading the summary of this one; throughout this case summary, we refer to that lawsuit as the habeas case or habeas court. On April 4, 2025, the habeas court ordered the government to facilitate Abrego-Garcia's return to the United States.\n\nOn June 6, 2025 the government informed the habeas court that it had \"successfully facilitated Abrego-Garcia\u2019s return,\" and that he would stand trial on criminal charges in the U.S. District Court for the Middle District of Tennessee. The government filed a human smuggling indictment against Abrego-Garcia; press reports [https://abcnews.go.com/US/mistakenly-deported-kilmar-abrego-garcia-back-us-face/story?id=121333122] said that disagreement with how the prosecution was being handled prompted the criminal section chief's resignation in the U.S. Attorney's office that brought the case. The indictment charged Abrego-Garcia with one count of conspiracy to transport undocumented individuals and one count of unlawful transportation of undocumented individuals. Abrego-Garcia made his initial court appearance that same day in the Middle District of Tennessee before U.S. Magistrate Judge Barbara Holmes.\n\nOn June 9, 2025, the government requested a pretrial detention hearing. The court granted the request, but the judge ultimately denied the government\u2019s motion to detain Abrego-Garcia. The government moved to stay that decision on June 22, 2025, but the motion was also denied. In her opinion denying the stay, Judge Crenshaw found that the government had not made a \u201cstrong showing\u201d that the four stay factors weighed in the government's favor.\n\nAbrego-Garcia remained in custody as the government and his attorneys submitted statements regarding potential release conditions. On July 2, the government moved for the court to revoke the magistrate judge's release order. The government made separate statements that once Abrego-Garcia is released from criminal custody, it will take him into immigration custody and again remove him to El Salvador.\n\nIn response, Abrego-Garciamoved for the court to delay his release until the July 16 hearing on the government's motion for revocation. Abrego-Garciaalleged that this would be the only way to ensure that the government does not remove him to a '\"third country\" as soon as the Court released Abrego-Garciafrom pretrial detention. The court granted this motion on June 30, 2025. On July 20, Abrego-Garciamoved, with the government's consent, for a 30-day stay of the issuance of any release order. Abrego-Garciaclaimed he had been \"advised by the government that if the Court denies the government's motion for revocation, the defendant would be transferred to the custody of [DHS], and DHS would begin removal proceedings.\"\n\nIn response, Abrego-Garcia moved for emergency relief in the District Court of Maryland on June 26, 2025. Abrego-Garcia requested the court order the government to:\n\n\u2022 Return him to Maryland immediately upon his release from confinement in Tennessee.   \u2022 Refrain from removing him from the United States or from transferring him outside the District of Maryland.\n\nOn July 24, Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his release in Tennessee. Judge Crenshaw denied the administration\u2019s motion to revoke the release order for Kilmar Abrego-Garcia from criminal detention, noting the administration failed to justify continued pretrial detention. Later that day, Magistrate Judge Holmes granted a 30-day stay of the order, keeping Garcia in U.S. Marshal custody.\n\nOn August 7, 2025, Abrego-Garcia waived his right to a speedy trial and consent to a continuance of up to 127 days. Following this waiver, on August 19, Abrego-Garcia moved the court to dismiss for vindictive and selective prosecution. In the alternative, the defendant requested discovery and an evidentiary hearing to investigate his claims.\n\nThis case is ongoing.",
+    "target_paragraph": "The defendant in this case, Kilmar Abrego-Garcia, is a Salvadoran national residing in the United States who had previously received protection from removal from an immigration judge. Despite this order withholding his removal, Abrego-Garcia was deported due to what the U.S. government termed an \"administrative error.\"\u00a0 On March 24, 2025, Abrego-Garcia filed a habeas petition in the U.S. District Court for the District of Maryland (8:25-cv-00951). It may be useful to read about that habeas case [../../../../case/46283/] before reading the summary of this one; throughout this case summary, we refer to that lawsuit as the habeas case or habeas court. On April 4, 2025, the habeas court ordered the government to facilitate Abrego-Garcia's return to the United States.",
+    "target_paragraph_indices": [
+      333,
+      1106
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            655,
+            784
+          ]
+        ],
+        "annotation": {
+          "explanation": "Habeas corpus petition (District of Maryland). No specific statute or case authority cited in the summary.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            333,
+            516
+          ],
+          [
+            655,
+            784
+          ],
+          [
+            3605,
+            3697
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as Kilmar Abrego-Garcia, a Salvadoran national residing in the United States who filed a habeas petition and sought emergency relief.",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            1,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            655,
+            784
+          ],
+          [
+            990,
+            1106
+          ],
+          [
+            1108,
+            1342
+          ],
+          [
+            3592,
+            3697
+          ],
+          [
+            3956,
+            4072
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related habeas case: U.S. District Court for the District of Maryland, No. 8:25-cv-00951. Filed March 24, 2025. Key actions: April 4, 2025 order requiring the government to facilitate Abrego-Garcia\u2019s return; June 6, 2025 notice to the habeas court of successful return; June 26, 2025 emergency-relief motion filed; July 24, 2025 order by Judge Xinis prohibiting re-arrest upon release in Tennessee.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": [
+            1,
+            2,
+            6,
+            8
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            333,
+            516
+          ],
+          [
+            1343,
+            1415
+          ],
+          [
+            1874,
+            2016
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Kilmar Abrego-Garcia\u2014a Salvadoran national residing in the United States who had previously received protection from removal; criminal defendant in the U.S. District Court for the Middle District of Tennessee on human smuggling-related charges.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            655,
+            784
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Kilmar Abrego-Garcia\u2014habeas petitioner in the U.S. District Court for the District of Maryland (8:25-cv-00951).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            990,
+            1106
+          ],
+          [
+            3956,
+            4072
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. government\u2014respondent in the Maryland habeas case, ordered to facilitate Abrego-Garcia\u2019s return and prohibited from re-arresting him upon release.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            8
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            990,
+            1106
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 4, 2025: The habeas court ordered the government to facilitate Abrego-Garcia's return to the United States.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            333,
+            516
+          ],
+          [
+            517,
+            653
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant identity/status: Kilmar Abrego-Garcia is a Salvadoran national residing in the U.S. with prior withholding of removal by an immigration judge; he was deported notwithstanding that protection due to an asserted administrative error.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            655,
+            784
+          ],
+          [
+            990,
+            1106
+          ]
+        ],
+        "annotation": {
+          "explanation": "Habeas case in D. Md.: filed March 24, 2025 (No. 8:25-cv-00951); court ordered on April 4, 2025 that the government facilitate his return to the U.S.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            655,
+            784
+          ]
+        ],
+        "annotation": {
+          "explanation": "Habeas petition filed by Abrego-Garcia on March 24, 2025 in the U.S. District Court for the District of Maryland (8:25-cv-00951).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            990,
+            1106
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government ordered to facilitate Abrego-Garcia\u2019s return to the United States.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            990,
+            1106
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government ordered to facilitate Abrego-Garcia\u2019s return to the United States.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            990,
+            1106
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 4, 2025 (D. Md. habeas case): Court ordered the government to facilitate Abrego-Garcia\u2019s return to the United States.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": "46815_p2",
+    "metadata": {
+      "case_id": "46815",
+      "paragraph_num": 2,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 6, 2025 the government informed the habeas court that it had \"successfully facilitated Abreg..."
+    },
+    "source": "",
+    "target": "On March 15, 2025, the second Trump administration deported almost 300 noncitizens\u2014mostly Venezuelan nationals and some Salvadoran nationals\u2014to El Salvador without going through any legal process in front of an immigration judge. Upon arrival, they were sent to the country\u2019s mega-prison, the Terrorism Confinement Center or CECOT.\n\nThe defendant in this case, Kilmar Abrego-Garcia, is a Salvadoran national residing in the United States who had previously received protection from removal from an immigration judge. Despite this order withholding his removal, Abrego-Garcia was deported due to what the U.S. government termed an \"administrative error.\"\u00a0 On March 24, 2025, Abrego-Garcia filed a habeas petition in the U.S. District Court for the District of Maryland (8:25-cv-00951). It may be useful to read about that habeas case [../../../../case/46283/] before reading the summary of this one; throughout this case summary, we refer to that lawsuit as the habeas case or habeas court. On April 4, 2025, the habeas court ordered the government to facilitate Abrego-Garcia's return to the United States.\n\nOn June 6, 2025 the government informed the habeas court that it had \"successfully facilitated Abrego-Garcia\u2019s return,\" and that he would stand trial on criminal charges in the U.S. District Court for the Middle District of Tennessee. The government filed a human smuggling indictment against Abrego-Garcia; press reports [https://abcnews.go.com/US/mistakenly-deported-kilmar-abrego-garcia-back-us-face/story?id=121333122] said that disagreement with how the prosecution was being handled prompted the criminal section chief's resignation in the U.S. Attorney's office that brought the case. The indictment charged Abrego-Garcia with one count of conspiracy to transport undocumented individuals and one count of unlawful transportation of undocumented individuals. Abrego-Garcia made his initial court appearance that same day in the Middle District of Tennessee before U.S. Magistrate Judge Barbara Holmes.\n\nOn June 9, 2025, the government requested a pretrial detention hearing. The court granted the request, but the judge ultimately denied the government\u2019s motion to detain Abrego-Garcia. The government moved to stay that decision on June 22, 2025, but the motion was also denied. In her opinion denying the stay, Judge Crenshaw found that the government had not made a \u201cstrong showing\u201d that the four stay factors weighed in the government's favor.\n\nAbrego-Garcia remained in custody as the government and his attorneys submitted statements regarding potential release conditions. On July 2, the government moved for the court to revoke the magistrate judge's release order. The government made separate statements that once Abrego-Garcia is released from criminal custody, it will take him into immigration custody and again remove him to El Salvador.\n\nIn response, Abrego-Garciamoved for the court to delay his release until the July 16 hearing on the government's motion for revocation. Abrego-Garciaalleged that this would be the only way to ensure that the government does not remove him to a '\"third country\" as soon as the Court released Abrego-Garciafrom pretrial detention. The court granted this motion on June 30, 2025. On July 20, Abrego-Garciamoved, with the government's consent, for a 30-day stay of the issuance of any release order. Abrego-Garciaclaimed he had been \"advised by the government that if the Court denies the government's motion for revocation, the defendant would be transferred to the custody of [DHS], and DHS would begin removal proceedings.\"\n\nIn response, Abrego-Garcia moved for emergency relief in the District Court of Maryland on June 26, 2025. Abrego-Garcia requested the court order the government to:\n\n\u2022 Return him to Maryland immediately upon his release from confinement in Tennessee.   \u2022 Refrain from removing him from the United States or from transferring him outside the District of Maryland.\n\nOn July 24, Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his release in Tennessee. Judge Crenshaw denied the administration\u2019s motion to revoke the release order for Kilmar Abrego-Garcia from criminal detention, noting the administration failed to justify continued pretrial detention. Later that day, Magistrate Judge Holmes granted a 30-day stay of the order, keeping Garcia in U.S. Marshal custody.\n\nOn August 7, 2025, Abrego-Garcia waived his right to a speedy trial and consent to a continuance of up to 127 days. Following this waiver, on August 19, Abrego-Garcia moved the court to dismiss for vindictive and selective prosecution. In the alternative, the defendant requested discovery and an evidentiary hearing to investigate his claims.\n\nThis case is ongoing.",
+    "target_paragraph": "On June 6, 2025 the government informed the habeas court that it had \"successfully facilitated Abrego-Garcia\u2019s return,\" and that he would stand trial on criminal charges in the U.S. District Court for the Middle District of Tennessee. The government filed a human smuggling indictment against Abrego-Garcia; press reports [https://abcnews.go.com/US/mistakenly-deported-kilmar-abrego-garcia-back-us-face/story?id=121333122] said that disagreement with how the prosecution was being handled prompted the criminal section chief's resignation in the U.S. Attorney's office that brought the case. The indictment charged Abrego-Garcia with one count of conspiracy to transport undocumented individuals and one count of unlawful transportation of undocumented individuals. Abrego-Garcia made his initial court appearance that same day in the Middle District of Tennessee before U.S. Magistrate Judge Barbara Holmes.",
+    "target_paragraph_indices": [
+      1108,
+      2016
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            1108,
+            1342
+          ],
+          [
+            1343,
+            1699
+          ],
+          [
+            1874,
+            2016
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 6, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1700,
+            1873
+          ]
+        ],
+        "annotation": {
+          "explanation": "Federal criminal indictment: (1) conspiracy to transport undocumented individuals; (2) unlawful transportation of undocumented individuals (Middle District of Tennessee). No specific statutory citations provided in the summary.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1700,
+            1873
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory criminal charges for conspiracy to transport undocumented individuals and unlawful transportation of undocumented individuals (specific statutory citations not provided in the summary).",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1874,
+            2016
+          ],
+          [
+            4275,
+            4390
+          ]
+        ],
+        "annotation": {
+          "explanation": "Barbara Holmes",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            2,
+            8
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1343,
+            1415
+          ],
+          [
+            1416,
+            1699
+          ],
+          [
+            2018,
+            2089
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: U.S. government\u2014the prosecution in the Middle District of Tennessee that brought the human smuggling indictment and sought pretrial detention.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1108,
+            1342
+          ],
+          [
+            1343,
+            1699
+          ],
+          [
+            1700,
+            1873
+          ],
+          [
+            1874,
+            2016
+          ]
+        ],
+        "annotation": {
+          "explanation": "Return and indictment: Government reported successful return on June 6, 2025 and filed a human smuggling indictment in M.D. Tenn., charging one count of conspiracy to transport undocumented individuals and one count of unlawful transportation; initial appearance the same day before Magistrate Judge Barbara Holmes. Press reports note internal DOJ disagreement leading to a section chief\u2019s resignation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1108,
+            1342
+          ],
+          [
+            1343,
+            1873
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government filed a human smuggling indictment charging conspiracy to transport undocumented individuals and unlawful transportation; case to proceed in the U.S. District Court for the Middle District of Tennessee.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1108,
+            1342
+          ],
+          [
+            1343,
+            1415
+          ],
+          [
+            1700,
+            1873
+          ],
+          [
+            1874,
+            2016
+          ]
+        ],
+        "annotation": {
+          "explanation": "Criminal case initiated in M.D. Tenn. on June 6, 2025: human smuggling indictment (two counts) filed; defendant made initial appearance before Magistrate Judge Barbara Holmes.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46815_p3",
+    "metadata": {
+      "case_id": "46815",
+      "paragraph_num": 3,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 9, 2025, the government requested a pretrial detention hearing. The court granted the reques..."
+    },
+    "source": "",
+    "target": "On March 15, 2025, the second Trump administration deported almost 300 noncitizens\u2014mostly Venezuelan nationals and some Salvadoran nationals\u2014to El Salvador without going through any legal process in front of an immigration judge. Upon arrival, they were sent to the country\u2019s mega-prison, the Terrorism Confinement Center or CECOT.\n\nThe defendant in this case, Kilmar Abrego-Garcia, is a Salvadoran national residing in the United States who had previously received protection from removal from an immigration judge. Despite this order withholding his removal, Abrego-Garcia was deported due to what the U.S. government termed an \"administrative error.\"\u00a0 On March 24, 2025, Abrego-Garcia filed a habeas petition in the U.S. District Court for the District of Maryland (8:25-cv-00951). It may be useful to read about that habeas case [../../../../case/46283/] before reading the summary of this one; throughout this case summary, we refer to that lawsuit as the habeas case or habeas court. On April 4, 2025, the habeas court ordered the government to facilitate Abrego-Garcia's return to the United States.\n\nOn June 6, 2025 the government informed the habeas court that it had \"successfully facilitated Abrego-Garcia\u2019s return,\" and that he would stand trial on criminal charges in the U.S. District Court for the Middle District of Tennessee. The government filed a human smuggling indictment against Abrego-Garcia; press reports [https://abcnews.go.com/US/mistakenly-deported-kilmar-abrego-garcia-back-us-face/story?id=121333122] said that disagreement with how the prosecution was being handled prompted the criminal section chief's resignation in the U.S. Attorney's office that brought the case. The indictment charged Abrego-Garcia with one count of conspiracy to transport undocumented individuals and one count of unlawful transportation of undocumented individuals. Abrego-Garcia made his initial court appearance that same day in the Middle District of Tennessee before U.S. Magistrate Judge Barbara Holmes.\n\nOn June 9, 2025, the government requested a pretrial detention hearing. The court granted the request, but the judge ultimately denied the government\u2019s motion to detain Abrego-Garcia. The government moved to stay that decision on June 22, 2025, but the motion was also denied. In her opinion denying the stay, Judge Crenshaw found that the government had not made a \u201cstrong showing\u201d that the four stay factors weighed in the government's favor.\n\nAbrego-Garcia remained in custody as the government and his attorneys submitted statements regarding potential release conditions. On July 2, the government moved for the court to revoke the magistrate judge's release order. The government made separate statements that once Abrego-Garcia is released from criminal custody, it will take him into immigration custody and again remove him to El Salvador.\n\nIn response, Abrego-Garciamoved for the court to delay his release until the July 16 hearing on the government's motion for revocation. Abrego-Garciaalleged that this would be the only way to ensure that the government does not remove him to a '\"third country\" as soon as the Court released Abrego-Garciafrom pretrial detention. The court granted this motion on June 30, 2025. On July 20, Abrego-Garciamoved, with the government's consent, for a 30-day stay of the issuance of any release order. Abrego-Garciaclaimed he had been \"advised by the government that if the Court denies the government's motion for revocation, the defendant would be transferred to the custody of [DHS], and DHS would begin removal proceedings.\"\n\nIn response, Abrego-Garcia moved for emergency relief in the District Court of Maryland on June 26, 2025. Abrego-Garcia requested the court order the government to:\n\n\u2022 Return him to Maryland immediately upon his release from confinement in Tennessee.   \u2022 Refrain from removing him from the United States or from transferring him outside the District of Maryland.\n\nOn July 24, Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his release in Tennessee. Judge Crenshaw denied the administration\u2019s motion to revoke the release order for Kilmar Abrego-Garcia from criminal detention, noting the administration failed to justify continued pretrial detention. Later that day, Magistrate Judge Holmes granted a 30-day stay of the order, keeping Garcia in U.S. Marshal custody.\n\nOn August 7, 2025, Abrego-Garcia waived his right to a speedy trial and consent to a continuance of up to 127 days. Following this waiver, on August 19, Abrego-Garcia moved the court to dismiss for vindictive and selective prosecution. In the alternative, the defendant requested discovery and an evidentiary hearing to investigate his claims.\n\nThis case is ongoing.",
+    "target_paragraph": "On June 9, 2025, the government requested a pretrial detention hearing. The court granted the request, but the judge ultimately denied the government\u2019s motion to detain Abrego-Garcia. The government moved to stay that decision on June 22, 2025, but the motion was also denied. In her opinion denying the stay, Judge Crenshaw found that the government had not made a \u201cstrong showing\u201d that the four stay factors weighed in the government's favor.",
+    "target_paragraph_indices": [
+      2018,
+      2462
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2018,
+            2089
+          ],
+          [
+            2125,
+            2201
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government sought pretrial detention of Abrego-Garcia.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2202,
+            2294
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government sought a stay of the order denying detention (the release decision).",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            2295,
+            2462
+          ],
+          [
+            4073,
+            4274
+          ]
+        ],
+        "annotation": {
+          "explanation": "Crenshaw",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            3,
+            8
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2018,
+            2201
+          ],
+          [
+            2202,
+            2462
+          ]
+        ],
+        "annotation": {
+          "explanation": "Pretrial detention proceedings: Government sought detention (June 9, 2025); the court denied detention and later denied the government\u2019s stay motion, with Judge Crenshaw finding no strong showing on the stay factors.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2018,
+            2201
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government requested a pretrial detention hearing and moved to detain Abrego-Garcia; the court granted a hearing but denied detention.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2202,
+            2294
+          ],
+          [
+            2295,
+            2462
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government\u2019s motion to stay the order denying detention (filed June 22, 2025) was denied.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2125,
+            2201
+          ],
+          [
+            4073,
+            4274
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court rejected pretrial detention and refused to revoke the release order, thereby ordering Abrego-Garcia\u2019s release from criminal detention.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": [
+            3,
+            8
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2018,
+            2201
+          ]
+        ],
+        "annotation": {
+          "explanation": "Pretrial detention hearing requested (granted) on June 9, 2025; motion to detain denied.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2202,
+            2294
+          ],
+          [
+            2295,
+            2462
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government\u2019s motion to stay the denial of detention (June 22, 2025) denied; Judge Crenshaw found no strong showing under the stay factors.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2018,
+            2201
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 9, 2025 (M.D. Tenn.): Government\u2019s request for a pretrial detention hearing granted.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2018,
+            2201
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 9, 2025 (M.D. Tenn.): Government\u2019s motion to detain Abrego-Garcia denied.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2202,
+            2462
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 22, 2025 (M.D. Tenn.): Government\u2019s motion to stay the detention ruling denied by Judge Crenshaw.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": "46815_p4",
+    "metadata": {
+      "case_id": "46815",
+      "paragraph_num": 4,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Abrego-Garcia remained in custody as the government and his attorneys submitted statements regarding..."
+    },
+    "source": "",
+    "target": "On March 15, 2025, the second Trump administration deported almost 300 noncitizens\u2014mostly Venezuelan nationals and some Salvadoran nationals\u2014to El Salvador without going through any legal process in front of an immigration judge. Upon arrival, they were sent to the country\u2019s mega-prison, the Terrorism Confinement Center or CECOT.\n\nThe defendant in this case, Kilmar Abrego-Garcia, is a Salvadoran national residing in the United States who had previously received protection from removal from an immigration judge. Despite this order withholding his removal, Abrego-Garcia was deported due to what the U.S. government termed an \"administrative error.\"\u00a0 On March 24, 2025, Abrego-Garcia filed a habeas petition in the U.S. District Court for the District of Maryland (8:25-cv-00951). It may be useful to read about that habeas case [../../../../case/46283/] before reading the summary of this one; throughout this case summary, we refer to that lawsuit as the habeas case or habeas court. On April 4, 2025, the habeas court ordered the government to facilitate Abrego-Garcia's return to the United States.\n\nOn June 6, 2025 the government informed the habeas court that it had \"successfully facilitated Abrego-Garcia\u2019s return,\" and that he would stand trial on criminal charges in the U.S. District Court for the Middle District of Tennessee. The government filed a human smuggling indictment against Abrego-Garcia; press reports [https://abcnews.go.com/US/mistakenly-deported-kilmar-abrego-garcia-back-us-face/story?id=121333122] said that disagreement with how the prosecution was being handled prompted the criminal section chief's resignation in the U.S. Attorney's office that brought the case. The indictment charged Abrego-Garcia with one count of conspiracy to transport undocumented individuals and one count of unlawful transportation of undocumented individuals. Abrego-Garcia made his initial court appearance that same day in the Middle District of Tennessee before U.S. Magistrate Judge Barbara Holmes.\n\nOn June 9, 2025, the government requested a pretrial detention hearing. The court granted the request, but the judge ultimately denied the government\u2019s motion to detain Abrego-Garcia. The government moved to stay that decision on June 22, 2025, but the motion was also denied. In her opinion denying the stay, Judge Crenshaw found that the government had not made a \u201cstrong showing\u201d that the four stay factors weighed in the government's favor.\n\nAbrego-Garcia remained in custody as the government and his attorneys submitted statements regarding potential release conditions. On July 2, the government moved for the court to revoke the magistrate judge's release order. The government made separate statements that once Abrego-Garcia is released from criminal custody, it will take him into immigration custody and again remove him to El Salvador.\n\nIn response, Abrego-Garciamoved for the court to delay his release until the July 16 hearing on the government's motion for revocation. Abrego-Garciaalleged that this would be the only way to ensure that the government does not remove him to a '\"third country\" as soon as the Court released Abrego-Garciafrom pretrial detention. The court granted this motion on June 30, 2025. On July 20, Abrego-Garciamoved, with the government's consent, for a 30-day stay of the issuance of any release order. Abrego-Garciaclaimed he had been \"advised by the government that if the Court denies the government's motion for revocation, the defendant would be transferred to the custody of [DHS], and DHS would begin removal proceedings.\"\n\nIn response, Abrego-Garcia moved for emergency relief in the District Court of Maryland on June 26, 2025. Abrego-Garcia requested the court order the government to:\n\n\u2022 Return him to Maryland immediately upon his release from confinement in Tennessee.   \u2022 Refrain from removing him from the United States or from transferring him outside the District of Maryland.\n\nOn July 24, Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his release in Tennessee. Judge Crenshaw denied the administration\u2019s motion to revoke the release order for Kilmar Abrego-Garcia from criminal detention, noting the administration failed to justify continued pretrial detention. Later that day, Magistrate Judge Holmes granted a 30-day stay of the order, keeping Garcia in U.S. Marshal custody.\n\nOn August 7, 2025, Abrego-Garcia waived his right to a speedy trial and consent to a continuance of up to 127 days. Following this waiver, on August 19, Abrego-Garcia moved the court to dismiss for vindictive and selective prosecution. In the alternative, the defendant requested discovery and an evidentiary hearing to investigate his claims.\n\nThis case is ongoing.",
+    "target_paragraph": "Abrego-Garcia remained in custody as the government and his attorneys submitted statements regarding potential release conditions. On July 2, the government moved for the court to revoke the magistrate judge's release order. The government made separate statements that once Abrego-Garcia is released from criminal custody, it will take him into immigration custody and again remove him to El Salvador.",
+    "target_paragraph_indices": [
+      2464,
+      2866
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2595,
+            2688
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government sought revocation of the magistrate judge\u2019s release order.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2464,
+            2688
+          ],
+          [
+            2689,
+            2866
+          ]
+        ],
+        "annotation": {
+          "explanation": "Post-denial custody and government intent: Government moved July 2 to revoke release order and stated it would take Abrego-Garcia into immigration custody and remove him to El Salvador upon criminal release.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2595,
+            2688
+          ],
+          [
+            4073,
+            4274
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government\u2019s motion to revoke the magistrate judge\u2019s release order (filed July 2, 2025) was denied.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            4,
+            8
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2595,
+            2688
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government moved on July 2, 2025 to revoke the magistrate judge\u2019s release order.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46815_p5",
+    "metadata": {
+      "case_id": "46815",
+      "paragraph_num": 5,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In response, Abrego-Garciamoved for the court to delay his release until the July 16 hearing on the ..."
+    },
+    "source": "",
+    "target": "On March 15, 2025, the second Trump administration deported almost 300 noncitizens\u2014mostly Venezuelan nationals and some Salvadoran nationals\u2014to El Salvador without going through any legal process in front of an immigration judge. Upon arrival, they were sent to the country\u2019s mega-prison, the Terrorism Confinement Center or CECOT.\n\nThe defendant in this case, Kilmar Abrego-Garcia, is a Salvadoran national residing in the United States who had previously received protection from removal from an immigration judge. Despite this order withholding his removal, Abrego-Garcia was deported due to what the U.S. government termed an \"administrative error.\"\u00a0 On March 24, 2025, Abrego-Garcia filed a habeas petition in the U.S. District Court for the District of Maryland (8:25-cv-00951). It may be useful to read about that habeas case [../../../../case/46283/] before reading the summary of this one; throughout this case summary, we refer to that lawsuit as the habeas case or habeas court. On April 4, 2025, the habeas court ordered the government to facilitate Abrego-Garcia's return to the United States.\n\nOn June 6, 2025 the government informed the habeas court that it had \"successfully facilitated Abrego-Garcia\u2019s return,\" and that he would stand trial on criminal charges in the U.S. District Court for the Middle District of Tennessee. The government filed a human smuggling indictment against Abrego-Garcia; press reports [https://abcnews.go.com/US/mistakenly-deported-kilmar-abrego-garcia-back-us-face/story?id=121333122] said that disagreement with how the prosecution was being handled prompted the criminal section chief's resignation in the U.S. Attorney's office that brought the case. The indictment charged Abrego-Garcia with one count of conspiracy to transport undocumented individuals and one count of unlawful transportation of undocumented individuals. Abrego-Garcia made his initial court appearance that same day in the Middle District of Tennessee before U.S. Magistrate Judge Barbara Holmes.\n\nOn June 9, 2025, the government requested a pretrial detention hearing. The court granted the request, but the judge ultimately denied the government\u2019s motion to detain Abrego-Garcia. The government moved to stay that decision on June 22, 2025, but the motion was also denied. In her opinion denying the stay, Judge Crenshaw found that the government had not made a \u201cstrong showing\u201d that the four stay factors weighed in the government's favor.\n\nAbrego-Garcia remained in custody as the government and his attorneys submitted statements regarding potential release conditions. On July 2, the government moved for the court to revoke the magistrate judge's release order. The government made separate statements that once Abrego-Garcia is released from criminal custody, it will take him into immigration custody and again remove him to El Salvador.\n\nIn response, Abrego-Garciamoved for the court to delay his release until the July 16 hearing on the government's motion for revocation. Abrego-Garciaalleged that this would be the only way to ensure that the government does not remove him to a '\"third country\" as soon as the Court released Abrego-Garciafrom pretrial detention. The court granted this motion on June 30, 2025. On July 20, Abrego-Garciamoved, with the government's consent, for a 30-day stay of the issuance of any release order. Abrego-Garciaclaimed he had been \"advised by the government that if the Court denies the government's motion for revocation, the defendant would be transferred to the custody of [DHS], and DHS would begin removal proceedings.\"\n\nIn response, Abrego-Garcia moved for emergency relief in the District Court of Maryland on June 26, 2025. Abrego-Garcia requested the court order the government to:\n\n\u2022 Return him to Maryland immediately upon his release from confinement in Tennessee.   \u2022 Refrain from removing him from the United States or from transferring him outside the District of Maryland.\n\nOn July 24, Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his release in Tennessee. Judge Crenshaw denied the administration\u2019s motion to revoke the release order for Kilmar Abrego-Garcia from criminal detention, noting the administration failed to justify continued pretrial detention. Later that day, Magistrate Judge Holmes granted a 30-day stay of the order, keeping Garcia in U.S. Marshal custody.\n\nOn August 7, 2025, Abrego-Garcia waived his right to a speedy trial and consent to a continuance of up to 127 days. Following this waiver, on August 19, Abrego-Garcia moved the court to dismiss for vindictive and selective prosecution. In the alternative, the defendant requested discovery and an evidentiary hearing to investigate his claims.\n\nThis case is ongoing.",
+    "target_paragraph": "In response, Abrego-Garciamoved for the court to delay his release until the July 16 hearing on the government's motion for revocation. Abrego-Garciaalleged that this would be the only way to ensure that the government does not remove him to a '\"third country\" as soon as the Court released Abrego-Garciafrom pretrial detention. The court granted this motion on June 30, 2025. On July 20, Abrego-Garciamoved, with the government's consent, for a 30-day stay of the issuance of any release order. Abrego-Garciaclaimed he had been \"advised by the government that if the Court denies the government's motion for revocation, the defendant would be transferred to the custody of [DHS], and DHS would begin removal proceedings.\"",
+    "target_paragraph_indices": [
+      2868,
+      3590
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2868,
+            3003
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant sought to delay his release until the July 16 hearing.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3245,
+            3363
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant sought a 30-day stay of the issuance of any release order.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2868,
+            3003
+          ],
+          [
+            3197,
+            3244
+          ]
+        ],
+        "annotation": {
+          "explanation": "until the July 16 hearing: delay of his release pending the hearing on the government's motion for revocation.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2868,
+            3003
+          ],
+          [
+            3197,
+            3244
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 30, 2025: The court granted the defendant's motion to delay his release until the July 16 hearing on the government's motion for revocation.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2868,
+            3196
+          ],
+          [
+            3197,
+            3244
+          ],
+          [
+            3245,
+            3363
+          ],
+          [
+            3364,
+            3590
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defense sought to delay release to prevent immediate removal; the court granted delay on June 30, 2025. On July 20, with government consent, defendant sought a 30-day stay, citing government advice that DHS would assume custody and begin removal if revocation were denied.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2868,
+            3003
+          ],
+          [
+            3197,
+            3244
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant\u2019s motion to delay his release until the July 16 revocation hearing was granted on June 30, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3245,
+            3363
+          ],
+          [
+            4275,
+            4390
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant\u2019s motion (with government consent) for a 30\u2011day stay of issuance of any release order (filed July 20, 2025) was granted (30-day stay entered July 24, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            5,
+            8
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2868,
+            3003
+          ],
+          [
+            3197,
+            3244
+          ]
+        ],
+        "annotation": {
+          "explanation": "Release was delayed until the July 16 hearing per court order.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2868,
+            3003
+          ],
+          [
+            3197,
+            3244
+          ]
+        ],
+        "annotation": {
+          "explanation": "Release delayed until the July 16 hearing on the government\u2019s motion to revoke; Abrego-Garcia to remain in custody until then.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2868,
+            3003
+          ],
+          [
+            3197,
+            3244
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defense moved to delay release until the July 16 revocation hearing; court granted the delay on June 30, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3245,
+            3363
+          ],
+          [
+            3364,
+            3590
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 20, 2025, with government consent, defense moved for a 30-day stay of issuance of any release order due to anticipated DHS custody/removal.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2868,
+            3003
+          ],
+          [
+            3197,
+            3244
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 30, 2025 (M.D. Tenn.): Defendant\u2019s motion to delay release until the July 16 revocation hearing granted.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3245,
+            3363
+          ],
+          [
+            4275,
+            4390
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 24, 2025 (M.D. Tenn.): Magistrate Judge Holmes granted a 30-day stay of the release order.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            5,
+            8
+          ]
+        },
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": "46815_p6",
+    "metadata": {
+      "case_id": "46815",
+      "paragraph_num": 6,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In response, Abrego-Garcia moved for emergency relief in the District Court of Maryland on June 26, ..."
+    },
+    "source": "",
+    "target": "On March 15, 2025, the second Trump administration deported almost 300 noncitizens\u2014mostly Venezuelan nationals and some Salvadoran nationals\u2014to El Salvador without going through any legal process in front of an immigration judge. Upon arrival, they were sent to the country\u2019s mega-prison, the Terrorism Confinement Center or CECOT.\n\nThe defendant in this case, Kilmar Abrego-Garcia, is a Salvadoran national residing in the United States who had previously received protection from removal from an immigration judge. Despite this order withholding his removal, Abrego-Garcia was deported due to what the U.S. government termed an \"administrative error.\"\u00a0 On March 24, 2025, Abrego-Garcia filed a habeas petition in the U.S. District Court for the District of Maryland (8:25-cv-00951). It may be useful to read about that habeas case [../../../../case/46283/] before reading the summary of this one; throughout this case summary, we refer to that lawsuit as the habeas case or habeas court. On April 4, 2025, the habeas court ordered the government to facilitate Abrego-Garcia's return to the United States.\n\nOn June 6, 2025 the government informed the habeas court that it had \"successfully facilitated Abrego-Garcia\u2019s return,\" and that he would stand trial on criminal charges in the U.S. District Court for the Middle District of Tennessee. The government filed a human smuggling indictment against Abrego-Garcia; press reports [https://abcnews.go.com/US/mistakenly-deported-kilmar-abrego-garcia-back-us-face/story?id=121333122] said that disagreement with how the prosecution was being handled prompted the criminal section chief's resignation in the U.S. Attorney's office that brought the case. The indictment charged Abrego-Garcia with one count of conspiracy to transport undocumented individuals and one count of unlawful transportation of undocumented individuals. Abrego-Garcia made his initial court appearance that same day in the Middle District of Tennessee before U.S. Magistrate Judge Barbara Holmes.\n\nOn June 9, 2025, the government requested a pretrial detention hearing. The court granted the request, but the judge ultimately denied the government\u2019s motion to detain Abrego-Garcia. The government moved to stay that decision on June 22, 2025, but the motion was also denied. In her opinion denying the stay, Judge Crenshaw found that the government had not made a \u201cstrong showing\u201d that the four stay factors weighed in the government's favor.\n\nAbrego-Garcia remained in custody as the government and his attorneys submitted statements regarding potential release conditions. On July 2, the government moved for the court to revoke the magistrate judge's release order. The government made separate statements that once Abrego-Garcia is released from criminal custody, it will take him into immigration custody and again remove him to El Salvador.\n\nIn response, Abrego-Garciamoved for the court to delay his release until the July 16 hearing on the government's motion for revocation. Abrego-Garciaalleged that this would be the only way to ensure that the government does not remove him to a '\"third country\" as soon as the Court released Abrego-Garciafrom pretrial detention. The court granted this motion on June 30, 2025. On July 20, Abrego-Garciamoved, with the government's consent, for a 30-day stay of the issuance of any release order. Abrego-Garciaclaimed he had been \"advised by the government that if the Court denies the government's motion for revocation, the defendant would be transferred to the custody of [DHS], and DHS would begin removal proceedings.\"\n\nIn response, Abrego-Garcia moved for emergency relief in the District Court of Maryland on June 26, 2025. Abrego-Garcia requested the court order the government to:\n\n\u2022 Return him to Maryland immediately upon his release from confinement in Tennessee.   \u2022 Refrain from removing him from the United States or from transferring him outside the District of Maryland.\n\nOn July 24, Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his release in Tennessee. Judge Crenshaw denied the administration\u2019s motion to revoke the release order for Kilmar Abrego-Garcia from criminal detention, noting the administration failed to justify continued pretrial detention. Later that day, Magistrate Judge Holmes granted a 30-day stay of the order, keeping Garcia in U.S. Marshal custody.\n\nOn August 7, 2025, Abrego-Garcia waived his right to a speedy trial and consent to a continuance of up to 127 days. Following this waiver, on August 19, Abrego-Garcia moved the court to dismiss for vindictive and selective prosecution. In the alternative, the defendant requested discovery and an evidentiary hearing to investigate his claims.\n\nThis case is ongoing.",
+    "target_paragraph": "In response, Abrego-Garcia moved for emergency relief in the District Court of Maryland on June 26, 2025. Abrego-Garcia requested the court order the government to:",
+    "target_paragraph_indices": [
+      3592,
+      3756
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3592,
+            3756
+          ],
+          [
+            3758,
+            3954
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant sought emergency injunctive relief ordering his immediate return to Maryland upon release and prohibiting his removal from the United States or transfer outside the District of Maryland.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3592,
+            3756
+          ],
+          [
+            3758,
+            3954
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency relief sought in D. Md. (June 26, 2025): request to be returned to Maryland upon release and to prohibit removal or transfer outside the District of Maryland.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3592,
+            3756
+          ],
+          [
+            3758,
+            3842
+          ],
+          [
+            3845,
+            3954
+          ],
+          [
+            3956,
+            4072
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant\u2019s emergency motion in the District of Maryland (June 26, 2025) seeking return to Maryland upon release and to bar removal/transfer; on July 24, Judge Xinis prohibited re-arrest upon release.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            6,
+            7,
+            8
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3592,
+            3697
+          ],
+          [
+            3698,
+            3756
+          ],
+          [
+            3758,
+            3842
+          ],
+          [
+            3845,
+            3954
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 26, 2025, defendant sought emergency relief in D. Md. to direct return to Maryland upon release and to bar removal or transfer outside D. Md.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            6,
+            7
+          ]
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46815_p7",
+    "metadata": {
+      "case_id": "46815",
+      "paragraph_num": 7,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "\u2022 Return him to Maryland immediately upon his release from confinement in Tennessee.   \u2022 Refrain fro..."
+    },
+    "source": "",
+    "target": "On March 15, 2025, the second Trump administration deported almost 300 noncitizens\u2014mostly Venezuelan nationals and some Salvadoran nationals\u2014to El Salvador without going through any legal process in front of an immigration judge. Upon arrival, they were sent to the country\u2019s mega-prison, the Terrorism Confinement Center or CECOT.\n\nThe defendant in this case, Kilmar Abrego-Garcia, is a Salvadoran national residing in the United States who had previously received protection from removal from an immigration judge. Despite this order withholding his removal, Abrego-Garcia was deported due to what the U.S. government termed an \"administrative error.\"\u00a0 On March 24, 2025, Abrego-Garcia filed a habeas petition in the U.S. District Court for the District of Maryland (8:25-cv-00951). It may be useful to read about that habeas case [../../../../case/46283/] before reading the summary of this one; throughout this case summary, we refer to that lawsuit as the habeas case or habeas court. On April 4, 2025, the habeas court ordered the government to facilitate Abrego-Garcia's return to the United States.\n\nOn June 6, 2025 the government informed the habeas court that it had \"successfully facilitated Abrego-Garcia\u2019s return,\" and that he would stand trial on criminal charges in the U.S. District Court for the Middle District of Tennessee. The government filed a human smuggling indictment against Abrego-Garcia; press reports [https://abcnews.go.com/US/mistakenly-deported-kilmar-abrego-garcia-back-us-face/story?id=121333122] said that disagreement with how the prosecution was being handled prompted the criminal section chief's resignation in the U.S. Attorney's office that brought the case. The indictment charged Abrego-Garcia with one count of conspiracy to transport undocumented individuals and one count of unlawful transportation of undocumented individuals. Abrego-Garcia made his initial court appearance that same day in the Middle District of Tennessee before U.S. Magistrate Judge Barbara Holmes.\n\nOn June 9, 2025, the government requested a pretrial detention hearing. The court granted the request, but the judge ultimately denied the government\u2019s motion to detain Abrego-Garcia. The government moved to stay that decision on June 22, 2025, but the motion was also denied. In her opinion denying the stay, Judge Crenshaw found that the government had not made a \u201cstrong showing\u201d that the four stay factors weighed in the government's favor.\n\nAbrego-Garcia remained in custody as the government and his attorneys submitted statements regarding potential release conditions. On July 2, the government moved for the court to revoke the magistrate judge's release order. The government made separate statements that once Abrego-Garcia is released from criminal custody, it will take him into immigration custody and again remove him to El Salvador.\n\nIn response, Abrego-Garciamoved for the court to delay his release until the July 16 hearing on the government's motion for revocation. Abrego-Garciaalleged that this would be the only way to ensure that the government does not remove him to a '\"third country\" as soon as the Court released Abrego-Garciafrom pretrial detention. The court granted this motion on June 30, 2025. On July 20, Abrego-Garciamoved, with the government's consent, for a 30-day stay of the issuance of any release order. Abrego-Garciaclaimed he had been \"advised by the government that if the Court denies the government's motion for revocation, the defendant would be transferred to the custody of [DHS], and DHS would begin removal proceedings.\"\n\nIn response, Abrego-Garcia moved for emergency relief in the District Court of Maryland on June 26, 2025. Abrego-Garcia requested the court order the government to:\n\n\u2022 Return him to Maryland immediately upon his release from confinement in Tennessee.   \u2022 Refrain from removing him from the United States or from transferring him outside the District of Maryland.\n\nOn July 24, Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his release in Tennessee. Judge Crenshaw denied the administration\u2019s motion to revoke the release order for Kilmar Abrego-Garcia from criminal detention, noting the administration failed to justify continued pretrial detention. Later that day, Magistrate Judge Holmes granted a 30-day stay of the order, keeping Garcia in U.S. Marshal custody.\n\nOn August 7, 2025, Abrego-Garcia waived his right to a speedy trial and consent to a continuance of up to 127 days. Following this waiver, on August 19, Abrego-Garcia moved the court to dismiss for vindictive and selective prosecution. In the alternative, the defendant requested discovery and an evidentiary hearing to investigate his claims.\n\nThis case is ongoing.",
+    "target_paragraph": "\u2022 Return him to Maryland immediately upon his release from confinement in Tennessee.   \u2022 Refrain from removing him from the United States or from transferring him outside the District of Maryland.",
+    "target_paragraph_indices": [
+      3758,
+      3954
+    ],
+    "edits": []
+  },
+  {
+    "id": "46815_p8",
+    "metadata": {
+      "case_id": "46815",
+      "paragraph_num": 8,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 24, Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his relea..."
+    },
+    "source": "",
+    "target": "On March 15, 2025, the second Trump administration deported almost 300 noncitizens\u2014mostly Venezuelan nationals and some Salvadoran nationals\u2014to El Salvador without going through any legal process in front of an immigration judge. Upon arrival, they were sent to the country\u2019s mega-prison, the Terrorism Confinement Center or CECOT.\n\nThe defendant in this case, Kilmar Abrego-Garcia, is a Salvadoran national residing in the United States who had previously received protection from removal from an immigration judge. Despite this order withholding his removal, Abrego-Garcia was deported due to what the U.S. government termed an \"administrative error.\"\u00a0 On March 24, 2025, Abrego-Garcia filed a habeas petition in the U.S. District Court for the District of Maryland (8:25-cv-00951). It may be useful to read about that habeas case [../../../../case/46283/] before reading the summary of this one; throughout this case summary, we refer to that lawsuit as the habeas case or habeas court. On April 4, 2025, the habeas court ordered the government to facilitate Abrego-Garcia's return to the United States.\n\nOn June 6, 2025 the government informed the habeas court that it had \"successfully facilitated Abrego-Garcia\u2019s return,\" and that he would stand trial on criminal charges in the U.S. District Court for the Middle District of Tennessee. The government filed a human smuggling indictment against Abrego-Garcia; press reports [https://abcnews.go.com/US/mistakenly-deported-kilmar-abrego-garcia-back-us-face/story?id=121333122] said that disagreement with how the prosecution was being handled prompted the criminal section chief's resignation in the U.S. Attorney's office that brought the case. The indictment charged Abrego-Garcia with one count of conspiracy to transport undocumented individuals and one count of unlawful transportation of undocumented individuals. Abrego-Garcia made his initial court appearance that same day in the Middle District of Tennessee before U.S. Magistrate Judge Barbara Holmes.\n\nOn June 9, 2025, the government requested a pretrial detention hearing. The court granted the request, but the judge ultimately denied the government\u2019s motion to detain Abrego-Garcia. The government moved to stay that decision on June 22, 2025, but the motion was also denied. In her opinion denying the stay, Judge Crenshaw found that the government had not made a \u201cstrong showing\u201d that the four stay factors weighed in the government's favor.\n\nAbrego-Garcia remained in custody as the government and his attorneys submitted statements regarding potential release conditions. On July 2, the government moved for the court to revoke the magistrate judge's release order. The government made separate statements that once Abrego-Garcia is released from criminal custody, it will take him into immigration custody and again remove him to El Salvador.\n\nIn response, Abrego-Garciamoved for the court to delay his release until the July 16 hearing on the government's motion for revocation. Abrego-Garciaalleged that this would be the only way to ensure that the government does not remove him to a '\"third country\" as soon as the Court released Abrego-Garciafrom pretrial detention. The court granted this motion on June 30, 2025. On July 20, Abrego-Garciamoved, with the government's consent, for a 30-day stay of the issuance of any release order. Abrego-Garciaclaimed he had been \"advised by the government that if the Court denies the government's motion for revocation, the defendant would be transferred to the custody of [DHS], and DHS would begin removal proceedings.\"\n\nIn response, Abrego-Garcia moved for emergency relief in the District Court of Maryland on June 26, 2025. Abrego-Garcia requested the court order the government to:\n\n\u2022 Return him to Maryland immediately upon his release from confinement in Tennessee.   \u2022 Refrain from removing him from the United States or from transferring him outside the District of Maryland.\n\nOn July 24, Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his release in Tennessee. Judge Crenshaw denied the administration\u2019s motion to revoke the release order for Kilmar Abrego-Garcia from criminal detention, noting the administration failed to justify continued pretrial detention. Later that day, Magistrate Judge Holmes granted a 30-day stay of the order, keeping Garcia in U.S. Marshal custody.\n\nOn August 7, 2025, Abrego-Garcia waived his right to a speedy trial and consent to a continuance of up to 127 days. Following this waiver, on August 19, Abrego-Garcia moved the court to dismiss for vindictive and selective prosecution. In the alternative, the defendant requested discovery and an evidentiary hearing to investigate his claims.\n\nThis case is ongoing.",
+    "target_paragraph": "On July 24, Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his release in Tennessee. Judge Crenshaw denied the administration\u2019s motion to revoke the release order for Kilmar Abrego-Garcia from criminal detention, noting the administration failed to justify continued pretrial detention. Later that day, Magistrate Judge Holmes granted a 30-day stay of the order, keeping Garcia in U.S. Marshal custody.",
+    "target_paragraph_indices": [
+      3956,
+      4390
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            3956,
+            4072
+          ]
+        ],
+        "annotation": {
+          "explanation": "Xinis",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4275,
+            4390
+          ]
+        ],
+        "annotation": {
+          "explanation": "30 days: stay of the order, keeping Garcia in U.S. Marshal custody.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3956,
+            4072
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 24, 2025: Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his release in Tennessee.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3956,
+            4072
+          ],
+          [
+            4073,
+            4274
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 24, 2025: Judge Crenshaw denied the administration\u2019s motion to revoke the release order for Kilmar Abrego-Garcia from criminal detention.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3956,
+            4072
+          ],
+          [
+            4275,
+            4390
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 24, 2025: Magistrate Judge Holmes granted a 30-day stay of the order, keeping Garcia in U.S. Marshal custody.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3956,
+            4072
+          ],
+          [
+            4073,
+            4274
+          ],
+          [
+            4275,
+            4390
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 24 orders: Judge Xinis barred re-arrest upon release; Judge Crenshaw denied motion to revoke release (finding no justification for continued detention); Magistrate Judge Holmes stayed the release order for 30 days, keeping him in U.S. Marshal custody.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3956,
+            4072
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administration prohibited from re-arresting Abrego-Garcia upon his release in Tennessee.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4275,
+            4390
+          ]
+        ],
+        "annotation": {
+          "explanation": "A 30-day stay of the release order was granted; Abrego-Garcia to remain in U.S. Marshal custody during the stay.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3956,
+            4072
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administration prohibited from re-arresting Abrego-Garcia upon his release in Tennessee.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4275,
+            4390
+          ]
+        ],
+        "annotation": {
+          "explanation": "30-day stay of the release order; Abrego-Garcia to remain in U.S. Marshal custody during the stay.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3956,
+            4072
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 24, 2025, D. Md. Judge Xinis prohibited re-arrest upon release in Tennessee.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4073,
+            4274
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 24, 2025, Judge Crenshaw denied the government\u2019s motion to revoke the release order, finding insufficient justification for continued pretrial detention.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4275,
+            4390
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 24, 2025, Magistrate Judge Holmes granted a 30-day stay of the release order, maintaining U.S. Marshal custody.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4073,
+            4274
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 24, 2025 (M.D. Tenn.): Judge Crenshaw denied the government\u2019s motion to revoke the release order.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3956,
+            4072
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 24, 2025 (D. Md. habeas case): Judge Xinis granted emergency relief prohibiting re-arrest upon release in Tennessee.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": "46815_p9",
+    "metadata": {
+      "case_id": "46815",
+      "paragraph_num": 9,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 7, 2025, Abrego-Garcia waived his right to a speedy trial and consent to a continuance of ..."
+    },
+    "source": "",
+    "target": "On March 15, 2025, the second Trump administration deported almost 300 noncitizens\u2014mostly Venezuelan nationals and some Salvadoran nationals\u2014to El Salvador without going through any legal process in front of an immigration judge. Upon arrival, they were sent to the country\u2019s mega-prison, the Terrorism Confinement Center or CECOT.\n\nThe defendant in this case, Kilmar Abrego-Garcia, is a Salvadoran national residing in the United States who had previously received protection from removal from an immigration judge. Despite this order withholding his removal, Abrego-Garcia was deported due to what the U.S. government termed an \"administrative error.\"\u00a0 On March 24, 2025, Abrego-Garcia filed a habeas petition in the U.S. District Court for the District of Maryland (8:25-cv-00951). It may be useful to read about that habeas case [../../../../case/46283/] before reading the summary of this one; throughout this case summary, we refer to that lawsuit as the habeas case or habeas court. On April 4, 2025, the habeas court ordered the government to facilitate Abrego-Garcia's return to the United States.\n\nOn June 6, 2025 the government informed the habeas court that it had \"successfully facilitated Abrego-Garcia\u2019s return,\" and that he would stand trial on criminal charges in the U.S. District Court for the Middle District of Tennessee. The government filed a human smuggling indictment against Abrego-Garcia; press reports [https://abcnews.go.com/US/mistakenly-deported-kilmar-abrego-garcia-back-us-face/story?id=121333122] said that disagreement with how the prosecution was being handled prompted the criminal section chief's resignation in the U.S. Attorney's office that brought the case. The indictment charged Abrego-Garcia with one count of conspiracy to transport undocumented individuals and one count of unlawful transportation of undocumented individuals. Abrego-Garcia made his initial court appearance that same day in the Middle District of Tennessee before U.S. Magistrate Judge Barbara Holmes.\n\nOn June 9, 2025, the government requested a pretrial detention hearing. The court granted the request, but the judge ultimately denied the government\u2019s motion to detain Abrego-Garcia. The government moved to stay that decision on June 22, 2025, but the motion was also denied. In her opinion denying the stay, Judge Crenshaw found that the government had not made a \u201cstrong showing\u201d that the four stay factors weighed in the government's favor.\n\nAbrego-Garcia remained in custody as the government and his attorneys submitted statements regarding potential release conditions. On July 2, the government moved for the court to revoke the magistrate judge's release order. The government made separate statements that once Abrego-Garcia is released from criminal custody, it will take him into immigration custody and again remove him to El Salvador.\n\nIn response, Abrego-Garciamoved for the court to delay his release until the July 16 hearing on the government's motion for revocation. Abrego-Garciaalleged that this would be the only way to ensure that the government does not remove him to a '\"third country\" as soon as the Court released Abrego-Garciafrom pretrial detention. The court granted this motion on June 30, 2025. On July 20, Abrego-Garciamoved, with the government's consent, for a 30-day stay of the issuance of any release order. Abrego-Garciaclaimed he had been \"advised by the government that if the Court denies the government's motion for revocation, the defendant would be transferred to the custody of [DHS], and DHS would begin removal proceedings.\"\n\nIn response, Abrego-Garcia moved for emergency relief in the District Court of Maryland on June 26, 2025. Abrego-Garcia requested the court order the government to:\n\n\u2022 Return him to Maryland immediately upon his release from confinement in Tennessee.   \u2022 Refrain from removing him from the United States or from transferring him outside the District of Maryland.\n\nOn July 24, Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his release in Tennessee. Judge Crenshaw denied the administration\u2019s motion to revoke the release order for Kilmar Abrego-Garcia from criminal detention, noting the administration failed to justify continued pretrial detention. Later that day, Magistrate Judge Holmes granted a 30-day stay of the order, keeping Garcia in U.S. Marshal custody.\n\nOn August 7, 2025, Abrego-Garcia waived his right to a speedy trial and consent to a continuance of up to 127 days. Following this waiver, on August 19, Abrego-Garcia moved the court to dismiss for vindictive and selective prosecution. In the alternative, the defendant requested discovery and an evidentiary hearing to investigate his claims.\n\nThis case is ongoing.",
+    "target_paragraph": "On August 7, 2025, Abrego-Garcia waived his right to a speedy trial and consent to a continuance of up to 127 days. Following this waiver, on August 19, Abrego-Garcia moved the court to dismiss for vindictive and selective prosecution. In the alternative, the defendant requested discovery and an evidentiary hearing to investigate his claims.",
+    "target_paragraph_indices": [
+      4392,
+      4735
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            4531,
+            4627
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claims of vindictive and selective prosecution (summary does not specify the constitutional clauses or amendments).",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4392,
+            4507
+          ],
+          [
+            4508,
+            4735
+          ]
+        ],
+        "annotation": {
+          "explanation": "Subsequent filings: Defendant waived speedy trial on August 7, 2025 (consenting to up to 127-day continuance); on August 19 moved to dismiss for vindictive/selective prosecution or alternatively for discovery and an evidentiary hearing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4392,
+            4507
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant filed a waiver of speedy trial and consented to a continuance of up to 127 days (Aug. 7, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4392,
+            4507
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant agreed to waive speedy-trial rights and consented to a continuance of up to 127 days.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4392,
+            4507
+          ]
+        ],
+        "annotation": {
+          "explanation": "On August 7, 2025, defendant waived Speedy Trial rights and consented to a continuance of up to 127 days.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4508,
+            4735
+          ]
+        ],
+        "annotation": {
+          "explanation": "On August 19, 2025, defendant moved to dismiss for vindictive and selective prosecution; alternatively requested discovery and an evidentiary hearing.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46815_p10",
+    "metadata": {
+      "case_id": "46815",
+      "paragraph_num": 10,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "On March 15, 2025, the second Trump administration deported almost 300 noncitizens\u2014mostly Venezuelan nationals and some Salvadoran nationals\u2014to El Salvador without going through any legal process in front of an immigration judge. Upon arrival, they were sent to the country\u2019s mega-prison, the Terrorism Confinement Center or CECOT.\n\nThe defendant in this case, Kilmar Abrego-Garcia, is a Salvadoran national residing in the United States who had previously received protection from removal from an immigration judge. Despite this order withholding his removal, Abrego-Garcia was deported due to what the U.S. government termed an \"administrative error.\"\u00a0 On March 24, 2025, Abrego-Garcia filed a habeas petition in the U.S. District Court for the District of Maryland (8:25-cv-00951). It may be useful to read about that habeas case [../../../../case/46283/] before reading the summary of this one; throughout this case summary, we refer to that lawsuit as the habeas case or habeas court. On April 4, 2025, the habeas court ordered the government to facilitate Abrego-Garcia's return to the United States.\n\nOn June 6, 2025 the government informed the habeas court that it had \"successfully facilitated Abrego-Garcia\u2019s return,\" and that he would stand trial on criminal charges in the U.S. District Court for the Middle District of Tennessee. The government filed a human smuggling indictment against Abrego-Garcia; press reports [https://abcnews.go.com/US/mistakenly-deported-kilmar-abrego-garcia-back-us-face/story?id=121333122] said that disagreement with how the prosecution was being handled prompted the criminal section chief's resignation in the U.S. Attorney's office that brought the case. The indictment charged Abrego-Garcia with one count of conspiracy to transport undocumented individuals and one count of unlawful transportation of undocumented individuals. Abrego-Garcia made his initial court appearance that same day in the Middle District of Tennessee before U.S. Magistrate Judge Barbara Holmes.\n\nOn June 9, 2025, the government requested a pretrial detention hearing. The court granted the request, but the judge ultimately denied the government\u2019s motion to detain Abrego-Garcia. The government moved to stay that decision on June 22, 2025, but the motion was also denied. In her opinion denying the stay, Judge Crenshaw found that the government had not made a \u201cstrong showing\u201d that the four stay factors weighed in the government's favor.\n\nAbrego-Garcia remained in custody as the government and his attorneys submitted statements regarding potential release conditions. On July 2, the government moved for the court to revoke the magistrate judge's release order. The government made separate statements that once Abrego-Garcia is released from criminal custody, it will take him into immigration custody and again remove him to El Salvador.\n\nIn response, Abrego-Garciamoved for the court to delay his release until the July 16 hearing on the government's motion for revocation. Abrego-Garciaalleged that this would be the only way to ensure that the government does not remove him to a '\"third country\" as soon as the Court released Abrego-Garciafrom pretrial detention. The court granted this motion on June 30, 2025. On July 20, Abrego-Garciamoved, with the government's consent, for a 30-day stay of the issuance of any release order. Abrego-Garciaclaimed he had been \"advised by the government that if the Court denies the government's motion for revocation, the defendant would be transferred to the custody of [DHS], and DHS would begin removal proceedings.\"\n\nIn response, Abrego-Garcia moved for emergency relief in the District Court of Maryland on June 26, 2025. Abrego-Garcia requested the court order the government to:\n\n\u2022 Return him to Maryland immediately upon his release from confinement in Tennessee.   \u2022 Refrain from removing him from the United States or from transferring him outside the District of Maryland.\n\nOn July 24, Judge Xinis prohibited the administration from re-arresting Abrego-Garcia upon his release in Tennessee. Judge Crenshaw denied the administration\u2019s motion to revoke the release order for Kilmar Abrego-Garcia from criminal detention, noting the administration failed to justify continued pretrial detention. Later that day, Magistrate Judge Holmes granted a 30-day stay of the order, keeping Garcia in U.S. Marshal custody.\n\nOn August 7, 2025, Abrego-Garcia waived his right to a speedy trial and consent to a continuance of up to 127 days. Following this waiver, on August 19, Abrego-Garcia moved the court to dismiss for vindictive and selective prosecution. In the alternative, the defendant requested discovery and an evidentiary hearing to investigate his claims.\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      4737,
+      4758
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4737,
+            4758
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4737,
+            4758
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: case remains ongoing (no trial date set or final disposition yet).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]
