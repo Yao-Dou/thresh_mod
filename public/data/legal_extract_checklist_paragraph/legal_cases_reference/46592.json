@@ -1,0 +1,1665 @@
+[
+  {
+    "id": "46592_p0",
+    "metadata": {
+      "case_id": "46592",
+      "paragraph_num": 0,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act (AEA) to detain and deport noncitizens without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38953&ordering=-summary_approved_date]. This case was also certified related to Sanchez Puentes, et al., v. Garite, et al. [../../../../case/46501/]. \u00a0Both cases revolved around the use of the AEA to remove noncitizens in Texas and the resolution of the motions pending in either case could impact the other.\n\nThis petition arises out of the president's peacetime invocation of the AEA. The petitioner is a 33-year-old Venezuelan national detained at the El Paso Processing Center. After coming to the US, the petitioner was granted Temporary Protected Status (TRP) which shields her from detention. On April 9, 2025, Immigrations and Customs Enforcement detained the petitioner in Ohio, despite her active TPS.\n\nOn May 10, 2025, the petitioner filed this petition for writ of habeas corpus in the United States District Court for the Western District of Texas. She also filed a motion for a temporary restraining order, a motion to proceed under a pseudonym, and a motion for class certification. The plaintiff named President Donald Trump, the U.S. Attorney General, the Department of Homeland Security and its Secretary, Immigration and Customs Enforcement and its Acting Director and other officials, the Department of State and its Secretary, the Department of Defense and its Secretary, and the wardens of several detention centers as Defendants.\n\nThe plaintiff sought to represent a class challenging the federal government's use of the Alien Enemies Act (AEA) to detain and remove Venezuelan noncitizens from the United States without due process. She alleged that the government's actions exceeded it authority under the AEA and violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and Due Process under the Fifth Amendment. The case was assigned to Senior District Judge David Briones.\n\nOn May 13, 2025, Judge Briones issued a class-wide temporary restraining order\u2014prohibiting removal of potential class members and requiring certain advance notice to attorneys\u2014while also setting an expedited briefing schedule on class certification. 2025 WL 1379220.\n\nOn May 16, the court issued two orders: (1) an order for the Respondents to show cause at to why the Petitioner's writ should not be granted; (2) an \"Order Extending the Original Temporary Restraining Order\" until June 10, 2025.\n\nThe petitioner moved for a preliminary injunction on May 21, 2025, to enjoin the respondents from removing the petitioner or members of the certified class from the United States under the AEA. The motion alleged that the petitioners, and the class members, could be removed with no process if preliminary relief were not granted. This could result torture or a life sentence in El Salvador-- a harm the government refused to remedy in the past.\n\nThe next day, the court ordered that the hearing for the preliminary injunction be combined with a trial on the merits. The court also certified a class of \"all noncitizens in custody in the Western District of Texas who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua' and/or its implementation.\" 2025 WL 1479504. The court found that even though there may be questions of fact amongst the class members that may require individualized hearings to resolve, they shared the common claim that the Proclamation is unlawful.\n\nThe court granted the petitioner's class-wide writ of habeas corpus and motion for a preliminary injunction on June 9, 2025. 2025 WL 1622260. While habeas petitions are typically granted individually, the court found that because their claims for relief imply the illegality of their removal under the AEA, their claims fall within the 'core' of the writ of habeas corpus and could be brought through this suit.\n\nFinding that there were no genuine issues of material fact, the court treated the petitioner's motion for a class-wide preliminary injunction as a motion for summary judgment, and thus, issued permanent injunctive relief. Proclamation 10903 was declared unlawful and the respondents were enjoined from removing the members of the certified class from the United States pursuant to Proclamation 10903.\n\nThe case is ongoing.",
+    "target_paragraph": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act (AEA) to detain and deport noncitizens without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38953&ordering=-summary_approved_date]. This case was also certified related to Sanchez Puentes, et al., v. Garite, et al. [../../../../case/46501/]. \u00a0Both cases revolved around the use of the AEA to remove noncitizens in Texas and the resolution of the motions pending in either case could impact the other.",
+    "target_paragraph_indices": [
+      0,
+      573
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            0,
+            164
+          ],
+          [
+            1821,
+            1898
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alien Enemies Act (AEA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            0,
+            164
+          ],
+          [
+            1821,
+            2041
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment Due Process Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            305,
+            414
+          ],
+          [
+            416,
+            573
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: Sanchez Puentes, et al., v. Garite, et al. (case code 46501); relationship: certified related; connection: both cases involved challenges to the use of the AEA to remove noncitizens in Texas; interdependence: rulings on motions in either case could affect the other.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            164
+          ],
+          [
+            416,
+            573
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: This case is among several challenges to the Trump administration\u2019s use of the AEA to detain and deport noncitizens without due process in Texas and is related to Sanchez Puentes v. Garite.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46592_p1",
+    "metadata": {
+      "case_id": "46592",
+      "paragraph_num": 1,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This petition arises out of the president's peacetime invocation of the AEA. The petitioner is a 33-..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act (AEA) to detain and deport noncitizens without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38953&ordering=-summary_approved_date]. This case was also certified related to Sanchez Puentes, et al., v. Garite, et al. [../../../../case/46501/]. \u00a0Both cases revolved around the use of the AEA to remove noncitizens in Texas and the resolution of the motions pending in either case could impact the other.\n\nThis petition arises out of the president's peacetime invocation of the AEA. The petitioner is a 33-year-old Venezuelan national detained at the El Paso Processing Center. After coming to the US, the petitioner was granted Temporary Protected Status (TRP) which shields her from detention. On April 9, 2025, Immigrations and Customs Enforcement detained the petitioner in Ohio, despite her active TPS.\n\nOn May 10, 2025, the petitioner filed this petition for writ of habeas corpus in the United States District Court for the Western District of Texas. She also filed a motion for a temporary restraining order, a motion to proceed under a pseudonym, and a motion for class certification. The plaintiff named President Donald Trump, the U.S. Attorney General, the Department of Homeland Security and its Secretary, Immigration and Customs Enforcement and its Acting Director and other officials, the Department of State and its Secretary, the Department of Defense and its Secretary, and the wardens of several detention centers as Defendants.\n\nThe plaintiff sought to represent a class challenging the federal government's use of the Alien Enemies Act (AEA) to detain and remove Venezuelan noncitizens from the United States without due process. She alleged that the government's actions exceeded it authority under the AEA and violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and Due Process under the Fifth Amendment. The case was assigned to Senior District Judge David Briones.\n\nOn May 13, 2025, Judge Briones issued a class-wide temporary restraining order\u2014prohibiting removal of potential class members and requiring certain advance notice to attorneys\u2014while also setting an expedited briefing schedule on class certification. 2025 WL 1379220.\n\nOn May 16, the court issued two orders: (1) an order for the Respondents to show cause at to why the Petitioner's writ should not be granted; (2) an \"Order Extending the Original Temporary Restraining Order\" until June 10, 2025.\n\nThe petitioner moved for a preliminary injunction on May 21, 2025, to enjoin the respondents from removing the petitioner or members of the certified class from the United States under the AEA. The motion alleged that the petitioners, and the class members, could be removed with no process if preliminary relief were not granted. This could result torture or a life sentence in El Salvador-- a harm the government refused to remedy in the past.\n\nThe next day, the court ordered that the hearing for the preliminary injunction be combined with a trial on the merits. The court also certified a class of \"all noncitizens in custody in the Western District of Texas who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua' and/or its implementation.\" 2025 WL 1479504. The court found that even though there may be questions of fact amongst the class members that may require individualized hearings to resolve, they shared the common claim that the Proclamation is unlawful.\n\nThe court granted the petitioner's class-wide writ of habeas corpus and motion for a preliminary injunction on June 9, 2025. 2025 WL 1622260. While habeas petitions are typically granted individually, the court found that because their claims for relief imply the illegality of their removal under the AEA, their claims fall within the 'core' of the writ of habeas corpus and could be brought through this suit.\n\nFinding that there were no genuine issues of material fact, the court treated the petitioner's motion for a class-wide preliminary injunction as a motion for summary judgment, and thus, issued permanent injunctive relief. Proclamation 10903 was declared unlawful and the respondents were enjoined from removing the members of the certified class from the United States pursuant to Proclamation 10903.\n\nThe case is ongoing.",
+    "target_paragraph": "This petition arises out of the president's peacetime invocation of the AEA. The petitioner is a 33-year-old Venezuelan national detained at the El Paso Processing Center. After coming to the US, the petitioner was granted Temporary Protected Status (TRP) which shields her from detention. On April 9, 2025, Immigrations and Customs Enforcement detained the petitioner in Ohio, despite her active TPS.",
+    "target_paragraph_indices": [
+      575,
+      976
+    ],
+    "edits": [
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            652,
+            746
+          ],
+          [
+            747,
+            976
+          ],
+          [
+            978,
+            1126
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: 33-year-old Venezuelan national detained at the El Paso Processing Center; granted Temporary Protected Status (TRP); detained by ICE in Ohio on April 9, 2025; filed a habeas petition on May 10, 2025.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            575,
+            651
+          ],
+          [
+            3170,
+            3498
+          ],
+          [
+            4342,
+            4520
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves a challenge to the President\u2019s peacetime invocation of the Alien Enemies Act via Proclamation 10903, used to detain and remove noncitizens, including those subject to the March 2025 Proclamation concerning \u2018Tren De Aragua\u2019.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            1,
+            7,
+            9
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            652,
+            746
+          ],
+          [
+            747,
+            864
+          ],
+          [
+            865,
+            976
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petitioner is a 33-year-old Venezuelan national with active Temporary Protected Status who was detained by ICE in Ohio on April 9, 2025, and held at the El Paso Processing Center.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46592_p2",
+    "metadata": {
+      "case_id": "46592",
+      "paragraph_num": 2,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 10, 2025, the petitioner filed this petition for writ of habeas corpus in the United States D..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act (AEA) to detain and deport noncitizens without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38953&ordering=-summary_approved_date]. This case was also certified related to Sanchez Puentes, et al., v. Garite, et al. [../../../../case/46501/]. \u00a0Both cases revolved around the use of the AEA to remove noncitizens in Texas and the resolution of the motions pending in either case could impact the other.\n\nThis petition arises out of the president's peacetime invocation of the AEA. The petitioner is a 33-year-old Venezuelan national detained at the El Paso Processing Center. After coming to the US, the petitioner was granted Temporary Protected Status (TRP) which shields her from detention. On April 9, 2025, Immigrations and Customs Enforcement detained the petitioner in Ohio, despite her active TPS.\n\nOn May 10, 2025, the petitioner filed this petition for writ of habeas corpus in the United States District Court for the Western District of Texas. She also filed a motion for a temporary restraining order, a motion to proceed under a pseudonym, and a motion for class certification. The plaintiff named President Donald Trump, the U.S. Attorney General, the Department of Homeland Security and its Secretary, Immigration and Customs Enforcement and its Acting Director and other officials, the Department of State and its Secretary, the Department of Defense and its Secretary, and the wardens of several detention centers as Defendants.\n\nThe plaintiff sought to represent a class challenging the federal government's use of the Alien Enemies Act (AEA) to detain and remove Venezuelan noncitizens from the United States without due process. She alleged that the government's actions exceeded it authority under the AEA and violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and Due Process under the Fifth Amendment. The case was assigned to Senior District Judge David Briones.\n\nOn May 13, 2025, Judge Briones issued a class-wide temporary restraining order\u2014prohibiting removal of potential class members and requiring certain advance notice to attorneys\u2014while also setting an expedited briefing schedule on class certification. 2025 WL 1379220.\n\nOn May 16, the court issued two orders: (1) an order for the Respondents to show cause at to why the Petitioner's writ should not be granted; (2) an \"Order Extending the Original Temporary Restraining Order\" until June 10, 2025.\n\nThe petitioner moved for a preliminary injunction on May 21, 2025, to enjoin the respondents from removing the petitioner or members of the certified class from the United States under the AEA. The motion alleged that the petitioners, and the class members, could be removed with no process if preliminary relief were not granted. This could result torture or a life sentence in El Salvador-- a harm the government refused to remedy in the past.\n\nThe next day, the court ordered that the hearing for the preliminary injunction be combined with a trial on the merits. The court also certified a class of \"all noncitizens in custody in the Western District of Texas who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua' and/or its implementation.\" 2025 WL 1479504. The court found that even though there may be questions of fact amongst the class members that may require individualized hearings to resolve, they shared the common claim that the Proclamation is unlawful.\n\nThe court granted the petitioner's class-wide writ of habeas corpus and motion for a preliminary injunction on June 9, 2025. 2025 WL 1622260. While habeas petitions are typically granted individually, the court found that because their claims for relief imply the illegality of their removal under the AEA, their claims fall within the 'core' of the writ of habeas corpus and could be brought through this suit.\n\nFinding that there were no genuine issues of material fact, the court treated the petitioner's motion for a class-wide preliminary injunction as a motion for summary judgment, and thus, issued permanent injunctive relief. Proclamation 10903 was declared unlawful and the respondents were enjoined from removing the members of the certified class from the United States pursuant to Proclamation 10903.\n\nThe case is ongoing.",
+    "target_paragraph": "On May 10, 2025, the petitioner filed this petition for writ of habeas corpus in the United States District Court for the Western District of Texas. She also filed a motion for a temporary restraining order, a motion to proceed under a pseudonym, and a motion for class certification. The plaintiff named President Donald Trump, the U.S. Attorney General, the Department of Homeland Security and its Secretary, Immigration and Customs Enforcement and its Acting Director and other officials, the Department of State and its Secretary, the Department of Defense and its Secretary, and the wardens of several detention centers as Defendants.",
+    "target_paragraph_indices": [
+      978,
+      1617
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            978,
+            1126
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 10, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            978,
+            1126
+          ],
+          [
+            3707,
+            3831
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for writ of habeas corpus (class-wide) in federal district court",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            8
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            978,
+            1126
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for writ of habeas corpus",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1127,
+            1262
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order (TRO)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1127,
+            1262
+          ]
+        ],
+        "annotation": {
+          "explanation": "Leave to proceed under a pseudonym",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1127,
+            1262
+          ],
+          [
+            1619,
+            1820
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification to pursue class-wide relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            1127,
+            1262
+          ],
+          [
+            2105,
+            2371
+          ],
+          [
+            3170,
+            3498
+          ],
+          [
+            3707,
+            3848
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Class Action",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            2,
+            4,
+            7,
+            8
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1263,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: President Donald Trump.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1263,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Attorney General.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1263,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Homeland Security.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1263,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of the Department of Homeland Security.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1263,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Immigration and Customs Enforcement.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1263,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Director of Immigration and Customs Enforcement.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1263,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of State.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1263,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of State.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1263,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Defense.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1263,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of Defense.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1263,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Wardens of several detention centers.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1263,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Other officials (unspecified) associated with Immigration and Customs Enforcement.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            978,
+            1126
+          ],
+          [
+            1127,
+            1262
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 10, 2025, petitioner filed a habeas petition in the Western District of Texas, along with motions for a TRO, to proceed under a pseudonym, and for class certification.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1263,
+            1617
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants include the President, Attorney General, DHS and its Secretary, ICE and its Acting Director, State and Defense Departments and their Secretaries, and detention wardens.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            978,
+            1126
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for writ of habeas corpus filed (May 10, 2025, W.D. Tex.).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1127,
+            1262
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for temporary restraining order filed (May 10, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 22
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1127,
+            1262
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion to proceed under a pseudonym filed (May 10, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 23
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1127,
+            1262
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for class certification filed (May 10, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 24
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            978,
+            1262
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 10, 2025: Petition filed; motions for TRO, to proceed under a pseudonym, and for class certification filed.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 25
+      }
+    ]
+  },
+  {
+    "id": "46592_p3",
+    "metadata": {
+      "case_id": "46592",
+      "paragraph_num": 3,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiff sought to represent a class challenging the federal government's use of the Alien Enem..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act (AEA) to detain and deport noncitizens without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38953&ordering=-summary_approved_date]. This case was also certified related to Sanchez Puentes, et al., v. Garite, et al. [../../../../case/46501/]. \u00a0Both cases revolved around the use of the AEA to remove noncitizens in Texas and the resolution of the motions pending in either case could impact the other.\n\nThis petition arises out of the president's peacetime invocation of the AEA. The petitioner is a 33-year-old Venezuelan national detained at the El Paso Processing Center. After coming to the US, the petitioner was granted Temporary Protected Status (TRP) which shields her from detention. On April 9, 2025, Immigrations and Customs Enforcement detained the petitioner in Ohio, despite her active TPS.\n\nOn May 10, 2025, the petitioner filed this petition for writ of habeas corpus in the United States District Court for the Western District of Texas. She also filed a motion for a temporary restraining order, a motion to proceed under a pseudonym, and a motion for class certification. The plaintiff named President Donald Trump, the U.S. Attorney General, the Department of Homeland Security and its Secretary, Immigration and Customs Enforcement and its Acting Director and other officials, the Department of State and its Secretary, the Department of Defense and its Secretary, and the wardens of several detention centers as Defendants.\n\nThe plaintiff sought to represent a class challenging the federal government's use of the Alien Enemies Act (AEA) to detain and remove Venezuelan noncitizens from the United States without due process. She alleged that the government's actions exceeded it authority under the AEA and violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and Due Process under the Fifth Amendment. The case was assigned to Senior District Judge David Briones.\n\nOn May 13, 2025, Judge Briones issued a class-wide temporary restraining order\u2014prohibiting removal of potential class members and requiring certain advance notice to attorneys\u2014while also setting an expedited briefing schedule on class certification. 2025 WL 1379220.\n\nOn May 16, the court issued two orders: (1) an order for the Respondents to show cause at to why the Petitioner's writ should not be granted; (2) an \"Order Extending the Original Temporary Restraining Order\" until June 10, 2025.\n\nThe petitioner moved for a preliminary injunction on May 21, 2025, to enjoin the respondents from removing the petitioner or members of the certified class from the United States under the AEA. The motion alleged that the petitioners, and the class members, could be removed with no process if preliminary relief were not granted. This could result torture or a life sentence in El Salvador-- a harm the government refused to remedy in the past.\n\nThe next day, the court ordered that the hearing for the preliminary injunction be combined with a trial on the merits. The court also certified a class of \"all noncitizens in custody in the Western District of Texas who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua' and/or its implementation.\" 2025 WL 1479504. The court found that even though there may be questions of fact amongst the class members that may require individualized hearings to resolve, they shared the common claim that the Proclamation is unlawful.\n\nThe court granted the petitioner's class-wide writ of habeas corpus and motion for a preliminary injunction on June 9, 2025. 2025 WL 1622260. While habeas petitions are typically granted individually, the court found that because their claims for relief imply the illegality of their removal under the AEA, their claims fall within the 'core' of the writ of habeas corpus and could be brought through this suit.\n\nFinding that there were no genuine issues of material fact, the court treated the petitioner's motion for a class-wide preliminary injunction as a motion for summary judgment, and thus, issued permanent injunctive relief. Proclamation 10903 was declared unlawful and the respondents were enjoined from removing the members of the certified class from the United States pursuant to Proclamation 10903.\n\nThe case is ongoing.",
+    "target_paragraph": "The plaintiff sought to represent a class challenging the federal government's use of the Alien Enemies Act (AEA) to detain and remove Venezuelan noncitizens from the United States without due process. She alleged that the government's actions exceeded it authority under the AEA and violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and Due Process under the Fifth Amendment. The case was assigned to Senior District Judge David Briones.",
+    "target_paragraph_indices": [
+      1619,
+      2103
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1821,
+            1898
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory claim that the government exceeded its authority under the Alien Enemies Act (AEA)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1821,
+            1947
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory claim under the Immigration and Nationality Act (INA)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1821,
+            1997
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory claim under the Foreign Affairs Reform and Restructuring Act (FARRA)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1619,
+            1820
+          ],
+          [
+            1821,
+            2041
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim: violation of Due Process under the Fifth Amendment",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1821,
+            1947
+          ]
+        ],
+        "annotation": {
+          "explanation": "Immigration and Nationality Act (INA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1821,
+            1997
+          ]
+        ],
+        "annotation": {
+          "explanation": "Foreign Affairs Reform and Restructuring Act (FARRA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            2042,
+            2103
+          ],
+          [
+            2105,
+            2371
+          ]
+        ],
+        "annotation": {
+          "explanation": "David Briones",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            3,
+            4
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1619,
+            1820
+          ],
+          [
+            1821,
+            2041
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff alleges the government\u2019s AEA actions exceeded statutory authority and violated the INA, FARRA, and Fifth Amendment due process, particularly regarding Venezuelan noncitizens.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2042,
+            2103
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assigned to Senior District Judge David Briones.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46592_p4",
+    "metadata": {
+      "case_id": "46592",
+      "paragraph_num": 4,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 13, 2025, Judge Briones issued a class-wide temporary restraining order\u2014prohibiting removal o..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act (AEA) to detain and deport noncitizens without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38953&ordering=-summary_approved_date]. This case was also certified related to Sanchez Puentes, et al., v. Garite, et al. [../../../../case/46501/]. \u00a0Both cases revolved around the use of the AEA to remove noncitizens in Texas and the resolution of the motions pending in either case could impact the other.\n\nThis petition arises out of the president's peacetime invocation of the AEA. The petitioner is a 33-year-old Venezuelan national detained at the El Paso Processing Center. After coming to the US, the petitioner was granted Temporary Protected Status (TRP) which shields her from detention. On April 9, 2025, Immigrations and Customs Enforcement detained the petitioner in Ohio, despite her active TPS.\n\nOn May 10, 2025, the petitioner filed this petition for writ of habeas corpus in the United States District Court for the Western District of Texas. She also filed a motion for a temporary restraining order, a motion to proceed under a pseudonym, and a motion for class certification. The plaintiff named President Donald Trump, the U.S. Attorney General, the Department of Homeland Security and its Secretary, Immigration and Customs Enforcement and its Acting Director and other officials, the Department of State and its Secretary, the Department of Defense and its Secretary, and the wardens of several detention centers as Defendants.\n\nThe plaintiff sought to represent a class challenging the federal government's use of the Alien Enemies Act (AEA) to detain and remove Venezuelan noncitizens from the United States without due process. She alleged that the government's actions exceeded it authority under the AEA and violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and Due Process under the Fifth Amendment. The case was assigned to Senior District Judge David Briones.\n\nOn May 13, 2025, Judge Briones issued a class-wide temporary restraining order\u2014prohibiting removal of potential class members and requiring certain advance notice to attorneys\u2014while also setting an expedited briefing schedule on class certification. 2025 WL 1379220.\n\nOn May 16, the court issued two orders: (1) an order for the Respondents to show cause at to why the Petitioner's writ should not be granted; (2) an \"Order Extending the Original Temporary Restraining Order\" until June 10, 2025.\n\nThe petitioner moved for a preliminary injunction on May 21, 2025, to enjoin the respondents from removing the petitioner or members of the certified class from the United States under the AEA. The motion alleged that the petitioners, and the class members, could be removed with no process if preliminary relief were not granted. This could result torture or a life sentence in El Salvador-- a harm the government refused to remedy in the past.\n\nThe next day, the court ordered that the hearing for the preliminary injunction be combined with a trial on the merits. The court also certified a class of \"all noncitizens in custody in the Western District of Texas who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua' and/or its implementation.\" 2025 WL 1479504. The court found that even though there may be questions of fact amongst the class members that may require individualized hearings to resolve, they shared the common claim that the Proclamation is unlawful.\n\nThe court granted the petitioner's class-wide writ of habeas corpus and motion for a preliminary injunction on June 9, 2025. 2025 WL 1622260. While habeas petitions are typically granted individually, the court found that because their claims for relief imply the illegality of their removal under the AEA, their claims fall within the 'core' of the writ of habeas corpus and could be brought through this suit.\n\nFinding that there were no genuine issues of material fact, the court treated the petitioner's motion for a class-wide preliminary injunction as a motion for summary judgment, and thus, issued permanent injunctive relief. Proclamation 10903 was declared unlawful and the respondents were enjoined from removing the members of the certified class from the United States pursuant to Proclamation 10903.\n\nThe case is ongoing.",
+    "target_paragraph": "On May 13, 2025, Judge Briones issued a class-wide temporary restraining order\u2014prohibiting removal of potential class members and requiring certain advance notice to attorneys\u2014while also setting an expedited briefing schedule on class certification. 2025 WL 1379220.",
+    "target_paragraph_indices": [
+      2105,
+      2371
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            2105,
+            2371
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025 WL 1379220",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2105,
+            2371
+          ],
+          [
+            2384,
+            2601
+          ]
+        ],
+        "annotation": {
+          "explanation": "until June 10, 2025: class-wide temporary restraining order (extended).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2105,
+            2371
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 13, 2025, the court issued a class-wide TRO prohibiting removals and requiring advance notice, with expedited briefing on class certification.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2105,
+            2371
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class-wide temporary restraining order granted; prohibited removals and required notice; expedited briefing on class certification (May 13, 2025; 2025 WL 1379220).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2105,
+            2281
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants were temporarily restrained from removing potential class members.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2105,
+            2281
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants were required to provide certain advance notice to attorneys.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2105,
+            2371
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class-wide TRO: Defendants are prohibited from removing potential class members and must provide advance notice to attorneys.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2105,
+            2371
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 13, 2025: Court issued class-wide TRO prohibiting removal and requiring advance notice; set expedited briefing schedule on class certification (2025 WL 1379220).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2105,
+            2371
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 13, 2025: Court granted a class-wide temporary restraining order prohibiting removal of potential class members and requiring advance notice; expedited briefing on class certification (2025 WL 1379220).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46592_p5",
+    "metadata": {
+      "case_id": "46592",
+      "paragraph_num": 5,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 16, the court issued two orders: (1) an order for the Respondents to show cause at to why the..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act (AEA) to detain and deport noncitizens without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38953&ordering=-summary_approved_date]. This case was also certified related to Sanchez Puentes, et al., v. Garite, et al. [../../../../case/46501/]. \u00a0Both cases revolved around the use of the AEA to remove noncitizens in Texas and the resolution of the motions pending in either case could impact the other.\n\nThis petition arises out of the president's peacetime invocation of the AEA. The petitioner is a 33-year-old Venezuelan national detained at the El Paso Processing Center. After coming to the US, the petitioner was granted Temporary Protected Status (TRP) which shields her from detention. On April 9, 2025, Immigrations and Customs Enforcement detained the petitioner in Ohio, despite her active TPS.\n\nOn May 10, 2025, the petitioner filed this petition for writ of habeas corpus in the United States District Court for the Western District of Texas. She also filed a motion for a temporary restraining order, a motion to proceed under a pseudonym, and a motion for class certification. The plaintiff named President Donald Trump, the U.S. Attorney General, the Department of Homeland Security and its Secretary, Immigration and Customs Enforcement and its Acting Director and other officials, the Department of State and its Secretary, the Department of Defense and its Secretary, and the wardens of several detention centers as Defendants.\n\nThe plaintiff sought to represent a class challenging the federal government's use of the Alien Enemies Act (AEA) to detain and remove Venezuelan noncitizens from the United States without due process. She alleged that the government's actions exceeded it authority under the AEA and violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and Due Process under the Fifth Amendment. The case was assigned to Senior District Judge David Briones.\n\nOn May 13, 2025, Judge Briones issued a class-wide temporary restraining order\u2014prohibiting removal of potential class members and requiring certain advance notice to attorneys\u2014while also setting an expedited briefing schedule on class certification. 2025 WL 1379220.\n\nOn May 16, the court issued two orders: (1) an order for the Respondents to show cause at to why the Petitioner's writ should not be granted; (2) an \"Order Extending the Original Temporary Restraining Order\" until June 10, 2025.\n\nThe petitioner moved for a preliminary injunction on May 21, 2025, to enjoin the respondents from removing the petitioner or members of the certified class from the United States under the AEA. The motion alleged that the petitioners, and the class members, could be removed with no process if preliminary relief were not granted. This could result torture or a life sentence in El Salvador-- a harm the government refused to remedy in the past.\n\nThe next day, the court ordered that the hearing for the preliminary injunction be combined with a trial on the merits. The court also certified a class of \"all noncitizens in custody in the Western District of Texas who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua' and/or its implementation.\" 2025 WL 1479504. The court found that even though there may be questions of fact amongst the class members that may require individualized hearings to resolve, they shared the common claim that the Proclamation is unlawful.\n\nThe court granted the petitioner's class-wide writ of habeas corpus and motion for a preliminary injunction on June 9, 2025. 2025 WL 1622260. While habeas petitions are typically granted individually, the court found that because their claims for relief imply the illegality of their removal under the AEA, their claims fall within the 'core' of the writ of habeas corpus and could be brought through this suit.\n\nFinding that there were no genuine issues of material fact, the court treated the petitioner's motion for a class-wide preliminary injunction as a motion for summary judgment, and thus, issued permanent injunctive relief. Proclamation 10903 was declared unlawful and the respondents were enjoined from removing the members of the certified class from the United States pursuant to Proclamation 10903.\n\nThe case is ongoing.",
+    "target_paragraph": "On May 16, the court issued two orders: (1) an order for the Respondents to show cause at to why the Petitioner's writ should not be granted; (2) an \"Order Extending the Original Temporary Restraining Order\" until June 10, 2025.",
+    "target_paragraph_indices": [
+      2373,
+      2601
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2373,
+            2601
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 16, the court issued an order to show cause on the habeas petition and extended the TRO until June 10, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2373,
+            2601
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order to show cause issued regarding why the writ should not be granted (May 16, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2373,
+            2601
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order extending the original TRO until June 10, 2025 (May 16, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2373,
+            2514
+          ]
+        ],
+        "annotation": {
+          "explanation": "Respondents were ordered to show cause why the Petitioner's writ should not be granted.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2515,
+            2601
+          ]
+        ],
+        "annotation": {
+          "explanation": "The temporary restraining order was extended until June 10, 2025, continuing the prohibitions and requirements in effect.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2373,
+            2601
+          ]
+        ],
+        "annotation": {
+          "explanation": "Respondents must show cause why the petitioner's writ of habeas corpus should not be granted.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2373,
+            2601
+          ]
+        ],
+        "annotation": {
+          "explanation": "The TRO was extended to June 10, 2025, continuing the prohibitions on removal and the notice requirement.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2373,
+            2601
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 16, 2025: Court ordered respondents to show cause why the writ should not be granted; extended TRO to June 10, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2373,
+            2601
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 16, 2025: Court extended the temporary restraining order until June 10, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46592_p6",
+    "metadata": {
+      "case_id": "46592",
+      "paragraph_num": 6,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The petitioner moved for a preliminary injunction on May 21, 2025, to enjoin the respondents from re..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act (AEA) to detain and deport noncitizens without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38953&ordering=-summary_approved_date]. This case was also certified related to Sanchez Puentes, et al., v. Garite, et al. [../../../../case/46501/]. \u00a0Both cases revolved around the use of the AEA to remove noncitizens in Texas and the resolution of the motions pending in either case could impact the other.\n\nThis petition arises out of the president's peacetime invocation of the AEA. The petitioner is a 33-year-old Venezuelan national detained at the El Paso Processing Center. After coming to the US, the petitioner was granted Temporary Protected Status (TRP) which shields her from detention. On April 9, 2025, Immigrations and Customs Enforcement detained the petitioner in Ohio, despite her active TPS.\n\nOn May 10, 2025, the petitioner filed this petition for writ of habeas corpus in the United States District Court for the Western District of Texas. She also filed a motion for a temporary restraining order, a motion to proceed under a pseudonym, and a motion for class certification. The plaintiff named President Donald Trump, the U.S. Attorney General, the Department of Homeland Security and its Secretary, Immigration and Customs Enforcement and its Acting Director and other officials, the Department of State and its Secretary, the Department of Defense and its Secretary, and the wardens of several detention centers as Defendants.\n\nThe plaintiff sought to represent a class challenging the federal government's use of the Alien Enemies Act (AEA) to detain and remove Venezuelan noncitizens from the United States without due process. She alleged that the government's actions exceeded it authority under the AEA and violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and Due Process under the Fifth Amendment. The case was assigned to Senior District Judge David Briones.\n\nOn May 13, 2025, Judge Briones issued a class-wide temporary restraining order\u2014prohibiting removal of potential class members and requiring certain advance notice to attorneys\u2014while also setting an expedited briefing schedule on class certification. 2025 WL 1379220.\n\nOn May 16, the court issued two orders: (1) an order for the Respondents to show cause at to why the Petitioner's writ should not be granted; (2) an \"Order Extending the Original Temporary Restraining Order\" until June 10, 2025.\n\nThe petitioner moved for a preliminary injunction on May 21, 2025, to enjoin the respondents from removing the petitioner or members of the certified class from the United States under the AEA. The motion alleged that the petitioners, and the class members, could be removed with no process if preliminary relief were not granted. This could result torture or a life sentence in El Salvador-- a harm the government refused to remedy in the past.\n\nThe next day, the court ordered that the hearing for the preliminary injunction be combined with a trial on the merits. The court also certified a class of \"all noncitizens in custody in the Western District of Texas who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua' and/or its implementation.\" 2025 WL 1479504. The court found that even though there may be questions of fact amongst the class members that may require individualized hearings to resolve, they shared the common claim that the Proclamation is unlawful.\n\nThe court granted the petitioner's class-wide writ of habeas corpus and motion for a preliminary injunction on June 9, 2025. 2025 WL 1622260. While habeas petitions are typically granted individually, the court found that because their claims for relief imply the illegality of their removal under the AEA, their claims fall within the 'core' of the writ of habeas corpus and could be brought through this suit.\n\nFinding that there were no genuine issues of material fact, the court treated the petitioner's motion for a class-wide preliminary injunction as a motion for summary judgment, and thus, issued permanent injunctive relief. Proclamation 10903 was declared unlawful and the respondents were enjoined from removing the members of the certified class from the United States pursuant to Proclamation 10903.\n\nThe case is ongoing.",
+    "target_paragraph": "The petitioner moved for a preliminary injunction on May 21, 2025, to enjoin the respondents from removing the petitioner or members of the certified class from the United States under the AEA. The motion alleged that the petitioners, and the class members, could be removed with no process if preliminary relief were not granted. This could result torture or a life sentence in El Salvador-- a harm the government refused to remedy in the past.",
+    "target_paragraph_indices": [
+      2603,
+      3048
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2603,
+            2796
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction to enjoin removal of the petitioner and class members under the AEA",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2603,
+            2796
+          ],
+          [
+            2797,
+            3048
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 21, 2025, petitioner moved for a preliminary injunction, alleging risk of removal without process and potential torture or a life sentence in El Salvador if relief were denied.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2603,
+            2796
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for preliminary injunction filed (May 21, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2603,
+            2796
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 21, 2025: Motion for preliminary injunction filed.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46592_p7",
+    "metadata": {
+      "case_id": "46592",
+      "paragraph_num": 7,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The next day, the court ordered that the hearing for the preliminary injunction be combined with a t..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act (AEA) to detain and deport noncitizens without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38953&ordering=-summary_approved_date]. This case was also certified related to Sanchez Puentes, et al., v. Garite, et al. [../../../../case/46501/]. \u00a0Both cases revolved around the use of the AEA to remove noncitizens in Texas and the resolution of the motions pending in either case could impact the other.\n\nThis petition arises out of the president's peacetime invocation of the AEA. The petitioner is a 33-year-old Venezuelan national detained at the El Paso Processing Center. After coming to the US, the petitioner was granted Temporary Protected Status (TRP) which shields her from detention. On April 9, 2025, Immigrations and Customs Enforcement detained the petitioner in Ohio, despite her active TPS.\n\nOn May 10, 2025, the petitioner filed this petition for writ of habeas corpus in the United States District Court for the Western District of Texas. She also filed a motion for a temporary restraining order, a motion to proceed under a pseudonym, and a motion for class certification. The plaintiff named President Donald Trump, the U.S. Attorney General, the Department of Homeland Security and its Secretary, Immigration and Customs Enforcement and its Acting Director and other officials, the Department of State and its Secretary, the Department of Defense and its Secretary, and the wardens of several detention centers as Defendants.\n\nThe plaintiff sought to represent a class challenging the federal government's use of the Alien Enemies Act (AEA) to detain and remove Venezuelan noncitizens from the United States without due process. She alleged that the government's actions exceeded it authority under the AEA and violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and Due Process under the Fifth Amendment. The case was assigned to Senior District Judge David Briones.\n\nOn May 13, 2025, Judge Briones issued a class-wide temporary restraining order\u2014prohibiting removal of potential class members and requiring certain advance notice to attorneys\u2014while also setting an expedited briefing schedule on class certification. 2025 WL 1379220.\n\nOn May 16, the court issued two orders: (1) an order for the Respondents to show cause at to why the Petitioner's writ should not be granted; (2) an \"Order Extending the Original Temporary Restraining Order\" until June 10, 2025.\n\nThe petitioner moved for a preliminary injunction on May 21, 2025, to enjoin the respondents from removing the petitioner or members of the certified class from the United States under the AEA. The motion alleged that the petitioners, and the class members, could be removed with no process if preliminary relief were not granted. This could result torture or a life sentence in El Salvador-- a harm the government refused to remedy in the past.\n\nThe next day, the court ordered that the hearing for the preliminary injunction be combined with a trial on the merits. The court also certified a class of \"all noncitizens in custody in the Western District of Texas who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua' and/or its implementation.\" 2025 WL 1479504. The court found that even though there may be questions of fact amongst the class members that may require individualized hearings to resolve, they shared the common claim that the Proclamation is unlawful.\n\nThe court granted the petitioner's class-wide writ of habeas corpus and motion for a preliminary injunction on June 9, 2025. 2025 WL 1622260. While habeas petitions are typically granted individually, the court found that because their claims for relief imply the illegality of their removal under the AEA, their claims fall within the 'core' of the writ of habeas corpus and could be brought through this suit.\n\nFinding that there were no genuine issues of material fact, the court treated the petitioner's motion for a class-wide preliminary injunction as a motion for summary judgment, and thus, issued permanent injunctive relief. Proclamation 10903 was declared unlawful and the respondents were enjoined from removing the members of the certified class from the United States pursuant to Proclamation 10903.\n\nThe case is ongoing.",
+    "target_paragraph": "The next day, the court ordered that the hearing for the preliminary injunction be combined with a trial on the merits. The court also certified a class of \"all noncitizens in custody in the Western District of Texas who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua' and/or its implementation.\" 2025 WL 1479504. The court found that even though there may be questions of fact amongst the class members that may require individualized hearings to resolve, they shared the common claim that the Proclamation is unlawful.",
+    "target_paragraph_indices": [
+      3050,
+      3705
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3050,
+            3705
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025 WL 1479504",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3170,
+            3498
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 2025: Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua'.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3050,
+            3169
+          ],
+          [
+            3170,
+            3498
+          ],
+          [
+            3499,
+            3705
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court combined the PI hearing with a trial on the merits and certified a class of all noncitizens in custody in the W.D. Tex. subject to the March 2025 AEA Proclamation, finding commonality in the claim that the Proclamation is unlawful.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3050,
+            3169
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court ordered the preliminary injunction hearing combined with a trial on the merits (May 22, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3170,
+            3498
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification granted (May 22, 2025; 2025 WL 1479504).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3050,
+            3169
+          ],
+          [
+            3170,
+            3498
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 22, 2025: Court consolidated the preliminary injunction hearing with a trial on the merits and certified a class (2025 WL 1479504).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3050,
+            3705
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court certified a class of all noncitizens in custody in the Western District of Texas subject to the March 2025 Proclamation (2025 WL 1479504).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46592_p8",
+    "metadata": {
+      "case_id": "46592",
+      "paragraph_num": 8,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court granted the petitioner's class-wide writ of habeas corpus and motion for a preliminary inj..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act (AEA) to detain and deport noncitizens without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38953&ordering=-summary_approved_date]. This case was also certified related to Sanchez Puentes, et al., v. Garite, et al. [../../../../case/46501/]. \u00a0Both cases revolved around the use of the AEA to remove noncitizens in Texas and the resolution of the motions pending in either case could impact the other.\n\nThis petition arises out of the president's peacetime invocation of the AEA. The petitioner is a 33-year-old Venezuelan national detained at the El Paso Processing Center. After coming to the US, the petitioner was granted Temporary Protected Status (TRP) which shields her from detention. On April 9, 2025, Immigrations and Customs Enforcement detained the petitioner in Ohio, despite her active TPS.\n\nOn May 10, 2025, the petitioner filed this petition for writ of habeas corpus in the United States District Court for the Western District of Texas. She also filed a motion for a temporary restraining order, a motion to proceed under a pseudonym, and a motion for class certification. The plaintiff named President Donald Trump, the U.S. Attorney General, the Department of Homeland Security and its Secretary, Immigration and Customs Enforcement and its Acting Director and other officials, the Department of State and its Secretary, the Department of Defense and its Secretary, and the wardens of several detention centers as Defendants.\n\nThe plaintiff sought to represent a class challenging the federal government's use of the Alien Enemies Act (AEA) to detain and remove Venezuelan noncitizens from the United States without due process. She alleged that the government's actions exceeded it authority under the AEA and violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and Due Process under the Fifth Amendment. The case was assigned to Senior District Judge David Briones.\n\nOn May 13, 2025, Judge Briones issued a class-wide temporary restraining order\u2014prohibiting removal of potential class members and requiring certain advance notice to attorneys\u2014while also setting an expedited briefing schedule on class certification. 2025 WL 1379220.\n\nOn May 16, the court issued two orders: (1) an order for the Respondents to show cause at to why the Petitioner's writ should not be granted; (2) an \"Order Extending the Original Temporary Restraining Order\" until June 10, 2025.\n\nThe petitioner moved for a preliminary injunction on May 21, 2025, to enjoin the respondents from removing the petitioner or members of the certified class from the United States under the AEA. The motion alleged that the petitioners, and the class members, could be removed with no process if preliminary relief were not granted. This could result torture or a life sentence in El Salvador-- a harm the government refused to remedy in the past.\n\nThe next day, the court ordered that the hearing for the preliminary injunction be combined with a trial on the merits. The court also certified a class of \"all noncitizens in custody in the Western District of Texas who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua' and/or its implementation.\" 2025 WL 1479504. The court found that even though there may be questions of fact amongst the class members that may require individualized hearings to resolve, they shared the common claim that the Proclamation is unlawful.\n\nThe court granted the petitioner's class-wide writ of habeas corpus and motion for a preliminary injunction on June 9, 2025. 2025 WL 1622260. While habeas petitions are typically granted individually, the court found that because their claims for relief imply the illegality of their removal under the AEA, their claims fall within the 'core' of the writ of habeas corpus and could be brought through this suit.\n\nFinding that there were no genuine issues of material fact, the court treated the petitioner's motion for a class-wide preliminary injunction as a motion for summary judgment, and thus, issued permanent injunctive relief. Proclamation 10903 was declared unlawful and the respondents were enjoined from removing the members of the certified class from the United States pursuant to Proclamation 10903.\n\nThe case is ongoing.",
+    "target_paragraph": "The court granted the petitioner's class-wide writ of habeas corpus and motion for a preliminary injunction on June 9, 2025. 2025 WL 1622260. While habeas petitions are typically granted individually, the court found that because their claims for relief imply the illegality of their removal under the AEA, their claims fall within the 'core' of the writ of habeas corpus and could be brought through this suit.",
+    "target_paragraph_indices": [
+      3707,
+      4118
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3707,
+            3848
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025 WL 1622260",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            3707,
+            3848
+          ]
+        ],
+        "annotation": {
+          "explanation": "preliminary: class-wide preliminary injunction (granted June 9, 2025).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3707,
+            3848
+          ],
+          [
+            3849,
+            4118
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 9, 2025, the court granted a class-wide writ of habeas corpus and preliminary injunction, finding the claims fell within the core of habeas because they imply illegality of removal under the AEA.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3707,
+            3848
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class-wide writ of habeas corpus and motion for preliminary injunction granted (June 9, 2025; 2025 WL 1622260).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3707,
+            3848
+          ],
+          [
+            4120,
+            4341
+          ],
+          [
+            4342,
+            4520
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 9, 2025: Court granted class-wide habeas and preliminary injunction; finding no genuine issues of material fact, treated the PI motion as summary judgment and issued permanent injunctive relief; declared Proclamation 10903 unlawful and enjoined removals (2025 WL 1622260).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            8,
+            9
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3707,
+            3848
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 9, 2025: Court granted the class-wide writ of habeas corpus and granted a preliminary injunction (2025 WL 1622260).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46592_p9",
+    "metadata": {
+      "case_id": "46592",
+      "paragraph_num": 9,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Finding that there were no genuine issues of material fact, the court treated the petitioner's motio..."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act (AEA) to detain and deport noncitizens without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38953&ordering=-summary_approved_date]. This case was also certified related to Sanchez Puentes, et al., v. Garite, et al. [../../../../case/46501/]. \u00a0Both cases revolved around the use of the AEA to remove noncitizens in Texas and the resolution of the motions pending in either case could impact the other.\n\nThis petition arises out of the president's peacetime invocation of the AEA. The petitioner is a 33-year-old Venezuelan national detained at the El Paso Processing Center. After coming to the US, the petitioner was granted Temporary Protected Status (TRP) which shields her from detention. On April 9, 2025, Immigrations and Customs Enforcement detained the petitioner in Ohio, despite her active TPS.\n\nOn May 10, 2025, the petitioner filed this petition for writ of habeas corpus in the United States District Court for the Western District of Texas. She also filed a motion for a temporary restraining order, a motion to proceed under a pseudonym, and a motion for class certification. The plaintiff named President Donald Trump, the U.S. Attorney General, the Department of Homeland Security and its Secretary, Immigration and Customs Enforcement and its Acting Director and other officials, the Department of State and its Secretary, the Department of Defense and its Secretary, and the wardens of several detention centers as Defendants.\n\nThe plaintiff sought to represent a class challenging the federal government's use of the Alien Enemies Act (AEA) to detain and remove Venezuelan noncitizens from the United States without due process. She alleged that the government's actions exceeded it authority under the AEA and violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and Due Process under the Fifth Amendment. The case was assigned to Senior District Judge David Briones.\n\nOn May 13, 2025, Judge Briones issued a class-wide temporary restraining order\u2014prohibiting removal of potential class members and requiring certain advance notice to attorneys\u2014while also setting an expedited briefing schedule on class certification. 2025 WL 1379220.\n\nOn May 16, the court issued two orders: (1) an order for the Respondents to show cause at to why the Petitioner's writ should not be granted; (2) an \"Order Extending the Original Temporary Restraining Order\" until June 10, 2025.\n\nThe petitioner moved for a preliminary injunction on May 21, 2025, to enjoin the respondents from removing the petitioner or members of the certified class from the United States under the AEA. The motion alleged that the petitioners, and the class members, could be removed with no process if preliminary relief were not granted. This could result torture or a life sentence in El Salvador-- a harm the government refused to remedy in the past.\n\nThe next day, the court ordered that the hearing for the preliminary injunction be combined with a trial on the merits. The court also certified a class of \"all noncitizens in custody in the Western District of Texas who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua' and/or its implementation.\" 2025 WL 1479504. The court found that even though there may be questions of fact amongst the class members that may require individualized hearings to resolve, they shared the common claim that the Proclamation is unlawful.\n\nThe court granted the petitioner's class-wide writ of habeas corpus and motion for a preliminary injunction on June 9, 2025. 2025 WL 1622260. While habeas petitions are typically granted individually, the court found that because their claims for relief imply the illegality of their removal under the AEA, their claims fall within the 'core' of the writ of habeas corpus and could be brought through this suit.\n\nFinding that there were no genuine issues of material fact, the court treated the petitioner's motion for a class-wide preliminary injunction as a motion for summary judgment, and thus, issued permanent injunctive relief. Proclamation 10903 was declared unlawful and the respondents were enjoined from removing the members of the certified class from the United States pursuant to Proclamation 10903.\n\nThe case is ongoing.",
+    "target_paragraph": "Finding that there were no genuine issues of material fact, the court treated the petitioner's motion for a class-wide preliminary injunction as a motion for summary judgment, and thus, issued permanent injunctive relief. Proclamation 10903 was declared unlawful and the respondents were enjoined from removing the members of the certified class from the United States pursuant to Proclamation 10903.",
+    "target_paragraph_indices": [
+      4120,
+      4520
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4120,
+            4341
+          ],
+          [
+            4342,
+            4520
+          ]
+        ],
+        "annotation": {
+          "explanation": "permanent: injunctive relief enjoining removal under Proclamation 10903.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4120,
+            4341
+          ],
+          [
+            4342,
+            4520
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court found no genuine issues of material fact, treated the PI motion as summary judgment, issued permanent injunctive relief, declared Proclamation 10903 unlawful, and enjoined removals under it.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4120,
+            4341
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court treated the preliminary-injunction motion as a motion for summary judgment and issued permanent injunctive relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4342,
+            4520
+          ]
+        ],
+        "annotation": {
+          "explanation": "Proclamation 10903 declared unlawful; permanent injunction entered enjoining removals of class members under Proclamation 10903.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4306,
+            4520
+          ]
+        ],
+        "annotation": {
+          "explanation": "Respondents were permanently enjoined from removing members of the certified class from the United States pursuant to Proclamation 10903.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4120,
+            4520
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunction: Proclamation 10903 declared unlawful; respondents are enjoined from removing members of the certified class from the United States pursuant to Proclamation 10903.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4120,
+            4520
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court treated the preliminary-injunction motion as a motion for summary judgment, granted it, and issued permanent injunctive relief; declared Proclamation 10903 unlawful and enjoined removals under it.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46592_p10",
+    "metadata": {
+      "case_id": "46592",
+      "paragraph_num": 10,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case is ongoing."
+    },
+    "source": "",
+    "target": "This case is one of several lawsuits challenging the Trump administration\u2019s use of the Alien Enemies Act (AEA) to detain and deport noncitizens without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38953&ordering=-summary_approved_date]. This case was also certified related to Sanchez Puentes, et al., v. Garite, et al. [../../../../case/46501/]. \u00a0Both cases revolved around the use of the AEA to remove noncitizens in Texas and the resolution of the motions pending in either case could impact the other.\n\nThis petition arises out of the president's peacetime invocation of the AEA. The petitioner is a 33-year-old Venezuelan national detained at the El Paso Processing Center. After coming to the US, the petitioner was granted Temporary Protected Status (TRP) which shields her from detention. On April 9, 2025, Immigrations and Customs Enforcement detained the petitioner in Ohio, despite her active TPS.\n\nOn May 10, 2025, the petitioner filed this petition for writ of habeas corpus in the United States District Court for the Western District of Texas. She also filed a motion for a temporary restraining order, a motion to proceed under a pseudonym, and a motion for class certification. The plaintiff named President Donald Trump, the U.S. Attorney General, the Department of Homeland Security and its Secretary, Immigration and Customs Enforcement and its Acting Director and other officials, the Department of State and its Secretary, the Department of Defense and its Secretary, and the wardens of several detention centers as Defendants.\n\nThe plaintiff sought to represent a class challenging the federal government's use of the Alien Enemies Act (AEA) to detain and remove Venezuelan noncitizens from the United States without due process. She alleged that the government's actions exceeded it authority under the AEA and violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and Due Process under the Fifth Amendment. The case was assigned to Senior District Judge David Briones.\n\nOn May 13, 2025, Judge Briones issued a class-wide temporary restraining order\u2014prohibiting removal of potential class members and requiring certain advance notice to attorneys\u2014while also setting an expedited briefing schedule on class certification. 2025 WL 1379220.\n\nOn May 16, the court issued two orders: (1) an order for the Respondents to show cause at to why the Petitioner's writ should not be granted; (2) an \"Order Extending the Original Temporary Restraining Order\" until June 10, 2025.\n\nThe petitioner moved for a preliminary injunction on May 21, 2025, to enjoin the respondents from removing the petitioner or members of the certified class from the United States under the AEA. The motion alleged that the petitioners, and the class members, could be removed with no process if preliminary relief were not granted. This could result torture or a life sentence in El Salvador-- a harm the government refused to remedy in the past.\n\nThe next day, the court ordered that the hearing for the preliminary injunction be combined with a trial on the merits. The court also certified a class of \"all noncitizens in custody in the Western District of Texas who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua' and/or its implementation.\" 2025 WL 1479504. The court found that even though there may be questions of fact amongst the class members that may require individualized hearings to resolve, they shared the common claim that the Proclamation is unlawful.\n\nThe court granted the petitioner's class-wide writ of habeas corpus and motion for a preliminary injunction on June 9, 2025. 2025 WL 1622260. While habeas petitions are typically granted individually, the court found that because their claims for relief imply the illegality of their removal under the AEA, their claims fall within the 'core' of the writ of habeas corpus and could be brought through this suit.\n\nFinding that there were no genuine issues of material fact, the court treated the petitioner's motion for a class-wide preliminary injunction as a motion for summary judgment, and thus, issued permanent injunctive relief. Proclamation 10903 was declared unlawful and the respondents were enjoined from removing the members of the certified class from the United States pursuant to Proclamation 10903.\n\nThe case is ongoing.",
+    "target_paragraph": "The case is ongoing.",
+    "target_paragraph_indices": [
+      4522,
+      4542
+    ],
+    "edits": [
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            4522,
+            4542
+          ]
+        ],
+        "annotation": {
+          "explanation": "No.",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4522,
+            4542
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: proceedings continue.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4522,
+            4542
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: Case ongoing.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  }
+]

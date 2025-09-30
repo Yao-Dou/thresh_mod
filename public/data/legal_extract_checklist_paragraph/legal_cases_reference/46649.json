@@ -1,0 +1,1334 @@
+[
+  {
+    "id": "46649_p0",
+    "metadata": {
+      "case_id": "46649",
+      "paragraph_num": 0,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenges a federal reporting rule requiring certain money services businesses (MSBs) nea..."
+    },
+    "source": "",
+    "target": "This case challenges a federal reporting rule requiring certain money services businesses (MSBs) near the U.S.\u2013Mexico border to report small cash transactions. On March 11, 2025, the Financial Crimes Enforcement Network (FinCEN) issued the Southwest Border Geographic Targeting Order (GTO), requiring MSBs in thirty zip codes near the southern border to report each transaction, or series of transactions, by or for any one person totaling more than $200 in currency for money transfers to or from Mexico. This reporting threshold was significantly lower than the $10,000 reporting requirement applicable elsewhere.\n\nOn May 30, 2025, two Texas-based businesses, Valuta Corporation, Inc. and Payan's Fuel Center, Inc., filed this lawsuit in the U.S. District Court for the Western District of Texas. The plaintiffs sued the Financial Crimes Enforcement Network (FinCEN) and its Director Andrea Gacki, the U.S. Department of the Treasury and its Secretary, and the U.S. Attorney General, claiming violations of the Fourth Amendment, the Administrative Procedure Act, and the Non-Delegation Doctrine. Represented by the Institute for Justice, the plaintiffs sought injunctive relief to prevent enforcement of the GTO and declaratory relief declaring the order unlawful. Judge Leon Schydlower presides over the case.\n\nThe plaintiffs asserted that the GTO violated the Fourth Amendment\u2019s protection against unreasonable searches and seizures by requiring the collection and reporting of private financial data without a warrant or probable cause. They further argued that the GTO violated the Administrative Procedure Act because FinCEN had failed to provide the public notice and comment period required for such a significant regulatory action. Finally, the plaintiffs invoked the Non-Delegation Doctrine, contending that Congress had improperly delegated its legislative authority to FinCEN, permitting the agency to create a new reporting requirement without sufficient guidance or limits.\n\nOn May 30, 2025, the plaintiffs moved for a temporary restraining order to halt enforcement of the GTO. They alleged that the order inflicted \u201cprofound irreparable harms\u201d on their businesses, including \u201ccrushing costs\u201d from a surge in paperwork, with one plaintiff filing roughly 1,600 reports in a single month compared to 123 in the prior year. They also cited \u201cskyrocketing labor costs\u201d and the threat of \u201cruinous fines\u201d for non-compliance. In addition, they asserted that the GTO caused the loss of customers and revenue as patrons took their business to competitors in untargeted ZIP codes to avoid the new reporting requirements.\n\nFinding that the equities and public interest favored the plaintiffs, the court issued a TRO on June 24, 2025, halting enforcement of the GTO until July 8. 2025 WL 2389430. Judge Schydlower concluded that the plaintiffs were likely to succeed on their claim that the GTO was arbitrary and capricious, emphasizing the government\u2019s failure to address how cartel members could evade the rule by crossing into untargeted ZIP codes and how the measure would drive customers away from covered businesses. The court found that the plaintiffs faced immediate and irreparable harm, including the threat of business closure, reputational injury, and loss of customers and goodwill. On July 2, the court extended the TRO for an additional fourteen days, through July 22, 2025.\n\nOn July 2, 2025, the plaintiffs moved for class certification, proposing to represent all money services businesses that were not already plaintiffs in another case and that operated in the specific ZIP codes targeted by the Border GTO.\n\nOn July 3, 2025, the plaintiffs filed a combined motion for summary judgment, final judgment under Rule 65(a)(2), and a preliminary injunction. They urged the court to end the unlawful agency action, arguing that the appropriate final remedy under the Administrative Procedure Act was vacatur, which would nullify the GTO for all businesses, not only the plaintiffs.\n\nOn July 22, 2025, the court granted the motion for a preliminary injunction, the same day the TRO was set to expire. The text order barred the defendants from enforcing, implementing, or otherwise giving effect to the GTO.\n\nThis case is ongoing.",
+    "target_paragraph": "This case challenges a federal reporting rule requiring certain money services businesses (MSBs) near the U.S.\u2013Mexico border to report small cash transactions. On March 11, 2025, the Financial Crimes Enforcement Network (FinCEN) issued the Southwest Border Geographic Targeting Order (GTO), requiring MSBs in thirty zip codes near the southern border to report each transaction, or series of transactions, by or for any one person totaling more than $200 in currency for money transfers to or from Mexico. This reporting threshold was significantly lower than the $10,000 reporting requirement applicable elsewhere.",
+    "target_paragraph_indices": [
+      0,
+      615
+    ],
+    "edits": [
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            160,
+            505
+          ],
+          [
+            799,
+            1097
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Financial Crimes Enforcement Network (FinCEN).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            160,
+            505
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 11, 2025: FinCEN issued the Southwest Border Geographic Targeting Order (GTO).",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            160,
+            505
+          ],
+          [
+            506,
+            615
+          ]
+        ],
+        "annotation": {
+          "explanation": "FinCEN issued the Southwest Border GTO on March 11, 2025, mandating MSBs in 30 ZIP codes near the U.S.\u2013Mexico border to report transfers to/from Mexico exceeding $200 per person, a threshold far below the $10,000 reporting standard elsewhere.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46649_p1",
+    "metadata": {
+      "case_id": "46649",
+      "paragraph_num": 1,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 30, 2025, two Texas-based businesses, Valuta Corporation, Inc. and Payan's Fuel Center, Inc.,..."
+    },
+    "source": "",
+    "target": "This case challenges a federal reporting rule requiring certain money services businesses (MSBs) near the U.S.\u2013Mexico border to report small cash transactions. On March 11, 2025, the Financial Crimes Enforcement Network (FinCEN) issued the Southwest Border Geographic Targeting Order (GTO), requiring MSBs in thirty zip codes near the southern border to report each transaction, or series of transactions, by or for any one person totaling more than $200 in currency for money transfers to or from Mexico. This reporting threshold was significantly lower than the $10,000 reporting requirement applicable elsewhere.\n\nOn May 30, 2025, two Texas-based businesses, Valuta Corporation, Inc. and Payan's Fuel Center, Inc., filed this lawsuit in the U.S. District Court for the Western District of Texas. The plaintiffs sued the Financial Crimes Enforcement Network (FinCEN) and its Director Andrea Gacki, the U.S. Department of the Treasury and its Secretary, and the U.S. Attorney General, claiming violations of the Fourth Amendment, the Administrative Procedure Act, and the Non-Delegation Doctrine. Represented by the Institute for Justice, the plaintiffs sought injunctive relief to prevent enforcement of the GTO and declaratory relief declaring the order unlawful. Judge Leon Schydlower presides over the case.\n\nThe plaintiffs asserted that the GTO violated the Fourth Amendment\u2019s protection against unreasonable searches and seizures by requiring the collection and reporting of private financial data without a warrant or probable cause. They further argued that the GTO violated the Administrative Procedure Act because FinCEN had failed to provide the public notice and comment period required for such a significant regulatory action. Finally, the plaintiffs invoked the Non-Delegation Doctrine, contending that Congress had improperly delegated its legislative authority to FinCEN, permitting the agency to create a new reporting requirement without sufficient guidance or limits.\n\nOn May 30, 2025, the plaintiffs moved for a temporary restraining order to halt enforcement of the GTO. They alleged that the order inflicted \u201cprofound irreparable harms\u201d on their businesses, including \u201ccrushing costs\u201d from a surge in paperwork, with one plaintiff filing roughly 1,600 reports in a single month compared to 123 in the prior year. They also cited \u201cskyrocketing labor costs\u201d and the threat of \u201cruinous fines\u201d for non-compliance. In addition, they asserted that the GTO caused the loss of customers and revenue as patrons took their business to competitors in untargeted ZIP codes to avoid the new reporting requirements.\n\nFinding that the equities and public interest favored the plaintiffs, the court issued a TRO on June 24, 2025, halting enforcement of the GTO until July 8. 2025 WL 2389430. Judge Schydlower concluded that the plaintiffs were likely to succeed on their claim that the GTO was arbitrary and capricious, emphasizing the government\u2019s failure to address how cartel members could evade the rule by crossing into untargeted ZIP codes and how the measure would drive customers away from covered businesses. The court found that the plaintiffs faced immediate and irreparable harm, including the threat of business closure, reputational injury, and loss of customers and goodwill. On July 2, the court extended the TRO for an additional fourteen days, through July 22, 2025.\n\nOn July 2, 2025, the plaintiffs moved for class certification, proposing to represent all money services businesses that were not already plaintiffs in another case and that operated in the specific ZIP codes targeted by the Border GTO.\n\nOn July 3, 2025, the plaintiffs filed a combined motion for summary judgment, final judgment under Rule 65(a)(2), and a preliminary injunction. They urged the court to end the unlawful agency action, arguing that the appropriate final remedy under the Administrative Procedure Act was vacatur, which would nullify the GTO for all businesses, not only the plaintiffs.\n\nOn July 22, 2025, the court granted the motion for a preliminary injunction, the same day the TRO was set to expire. The text order barred the defendants from enforcing, implementing, or otherwise giving effect to the GTO.\n\nThis case is ongoing.",
+    "target_paragraph": "On May 30, 2025, two Texas-based businesses, Valuta Corporation, Inc. and Payan's Fuel Center, Inc., filed this lawsuit in the U.S. District Court for the Western District of Texas. The plaintiffs sued the Financial Crimes Enforcement Network (FinCEN) and its Director Andrea Gacki, the U.S. Department of the Treasury and its Secretary, and the U.S. Attorney General, claiming violations of the Fourth Amendment, the Administrative Procedure Act, and the Non-Delegation Doctrine. Represented by the Institute for Justice, the plaintiffs sought injunctive relief to prevent enforcement of the GTO and declaratory relief declaring the order unlawful. Judge Leon Schydlower presides over the case.",
+    "target_paragraph_indices": [
+      617,
+      1312
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            617,
+            798
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 30, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            986,
+            1097
+          ],
+          [
+            1542,
+            1741
+          ],
+          [
+            2800,
+            3125
+          ],
+          [
+            3776,
+            3998
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) statutory claim: agency action was arbitrary and capricious and issued without required notice-and-comment; plaintiffs sought vacatur under the APA.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            2,
+            4,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            986,
+            1097
+          ],
+          [
+            1314,
+            1541
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourth Amendment constitutional claim: unreasonable searches and seizures due to compelled collection and reporting of private financial data without a warrant or probable cause.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            986,
+            1097
+          ],
+          [
+            1742,
+            1988
+          ]
+        ],
+        "annotation": {
+          "explanation": "Non-Delegation Doctrine constitutional claim (Article I): improper delegation of legislative authority to FinCEN without sufficient guidance or limits.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            986,
+            1029
+          ],
+          [
+            1343,
+            1541
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fourth Amendment (Unreasonable Searches and Seizures Clause)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1031,
+            1063
+          ],
+          [
+            1567,
+            1741
+          ],
+          [
+            2832,
+            2926
+          ],
+          [
+            3880,
+            3912
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (including notice-and-comment and arbitrary-and-capricious standards)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            2,
+            4,
+            6
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1069,
+            1096
+          ],
+          [
+            1774,
+            1801
+          ],
+          [
+            1803,
+            1988
+          ]
+        ],
+        "annotation": {
+          "explanation": "Non-Delegation Doctrine (constitutional separation of powers principle)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1098,
+            1266
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief to prevent enforcement of the GTO",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1098,
+            1266
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief declaring the GTO unlawful",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1098,
+            1266
+          ]
+        ],
+        "annotation": {
+          "explanation": "Institute for Justice",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1267,
+            1312
+          ],
+          [
+            2800,
+            2927
+          ]
+        ],
+        "annotation": {
+          "explanation": "Leon Schydlower",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            1,
+            4
+          ]
+        },
+        "id": 10
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            617,
+            798
+          ],
+          [
+            3394,
+            3630
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as two Texas-based businesses: Valuta Corporation, Inc. and Payan's Fuel Center, Inc.",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            617,
+            798
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Valuta Corporation, Inc. \u2014 a Texas-based business.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            617,
+            798
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Payan's Fuel Center, Inc. \u2014 a Texas-based business.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            799,
+            1097
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Andrea Gacki \u2014 Director of FinCEN.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            799,
+            1097
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of the Treasury.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            799,
+            1097
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: the Secretary of the U.S. Department of the Treasury.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            799,
+            1097
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Attorney General.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            617,
+            798
+          ],
+          [
+            799,
+            985
+          ],
+          [
+            1098,
+            1266
+          ],
+          [
+            1267,
+            1312
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 30, 2025, Valuta Corporation, Inc. and Payan's Fuel Center, Inc. filed suit in the Western District of Texas against FinCEN (and Director Andrea Gacki), the Treasury (and its Secretary), and the U.S. Attorney General; they are represented by the Institute for Justice and seek injunctive and declaratory relief. Judge Leon Schydlower presides.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            986,
+            1097
+          ],
+          [
+            1314,
+            1541
+          ],
+          [
+            1542,
+            1741
+          ],
+          [
+            1742,
+            1988
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs challenge the GTO on Fourth Amendment, Administrative Procedure Act (lack of notice-and-comment), and Non-Delegation Doctrine grounds.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 19
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            617,
+            798
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed by plaintiffs on May 30, 2025, in the U.S. District Court for the Western District of Texas.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            718,
+            798
+          ],
+          [
+            1267,
+            1312
+          ]
+        ],
+        "annotation": {
+          "explanation": "Forum and judge: U.S. District Court for the Western District of Texas; Judge Leon Schydlower presiding.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 21
+      }
+    ]
+  },
+  {
+    "id": "46649_p2",
+    "metadata": {
+      "case_id": "46649",
+      "paragraph_num": 2,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs asserted that the GTO violated the Fourth Amendment\u2019s protection against unreasonable..."
+    },
+    "source": "",
+    "target": "This case challenges a federal reporting rule requiring certain money services businesses (MSBs) near the U.S.\u2013Mexico border to report small cash transactions. On March 11, 2025, the Financial Crimes Enforcement Network (FinCEN) issued the Southwest Border Geographic Targeting Order (GTO), requiring MSBs in thirty zip codes near the southern border to report each transaction, or series of transactions, by or for any one person totaling more than $200 in currency for money transfers to or from Mexico. This reporting threshold was significantly lower than the $10,000 reporting requirement applicable elsewhere.\n\nOn May 30, 2025, two Texas-based businesses, Valuta Corporation, Inc. and Payan's Fuel Center, Inc., filed this lawsuit in the U.S. District Court for the Western District of Texas. The plaintiffs sued the Financial Crimes Enforcement Network (FinCEN) and its Director Andrea Gacki, the U.S. Department of the Treasury and its Secretary, and the U.S. Attorney General, claiming violations of the Fourth Amendment, the Administrative Procedure Act, and the Non-Delegation Doctrine. Represented by the Institute for Justice, the plaintiffs sought injunctive relief to prevent enforcement of the GTO and declaratory relief declaring the order unlawful. Judge Leon Schydlower presides over the case.\n\nThe plaintiffs asserted that the GTO violated the Fourth Amendment\u2019s protection against unreasonable searches and seizures by requiring the collection and reporting of private financial data without a warrant or probable cause. They further argued that the GTO violated the Administrative Procedure Act because FinCEN had failed to provide the public notice and comment period required for such a significant regulatory action. Finally, the plaintiffs invoked the Non-Delegation Doctrine, contending that Congress had improperly delegated its legislative authority to FinCEN, permitting the agency to create a new reporting requirement without sufficient guidance or limits.\n\nOn May 30, 2025, the plaintiffs moved for a temporary restraining order to halt enforcement of the GTO. They alleged that the order inflicted \u201cprofound irreparable harms\u201d on their businesses, including \u201ccrushing costs\u201d from a surge in paperwork, with one plaintiff filing roughly 1,600 reports in a single month compared to 123 in the prior year. They also cited \u201cskyrocketing labor costs\u201d and the threat of \u201cruinous fines\u201d for non-compliance. In addition, they asserted that the GTO caused the loss of customers and revenue as patrons took their business to competitors in untargeted ZIP codes to avoid the new reporting requirements.\n\nFinding that the equities and public interest favored the plaintiffs, the court issued a TRO on June 24, 2025, halting enforcement of the GTO until July 8. 2025 WL 2389430. Judge Schydlower concluded that the plaintiffs were likely to succeed on their claim that the GTO was arbitrary and capricious, emphasizing the government\u2019s failure to address how cartel members could evade the rule by crossing into untargeted ZIP codes and how the measure would drive customers away from covered businesses. The court found that the plaintiffs faced immediate and irreparable harm, including the threat of business closure, reputational injury, and loss of customers and goodwill. On July 2, the court extended the TRO for an additional fourteen days, through July 22, 2025.\n\nOn July 2, 2025, the plaintiffs moved for class certification, proposing to represent all money services businesses that were not already plaintiffs in another case and that operated in the specific ZIP codes targeted by the Border GTO.\n\nOn July 3, 2025, the plaintiffs filed a combined motion for summary judgment, final judgment under Rule 65(a)(2), and a preliminary injunction. They urged the court to end the unlawful agency action, arguing that the appropriate final remedy under the Administrative Procedure Act was vacatur, which would nullify the GTO for all businesses, not only the plaintiffs.\n\nOn July 22, 2025, the court granted the motion for a preliminary injunction, the same day the TRO was set to expire. The text order barred the defendants from enforcing, implementing, or otherwise giving effect to the GTO.\n\nThis case is ongoing.",
+    "target_paragraph": "The plaintiffs asserted that the GTO violated the Fourth Amendment\u2019s protection against unreasonable searches and seizures by requiring the collection and reporting of private financial data without a warrant or probable cause. They further argued that the GTO violated the Administrative Procedure Act because FinCEN had failed to provide the public notice and comment period required for such a significant regulatory action. Finally, the plaintiffs invoked the Non-Delegation Doctrine, contending that Congress had improperly delegated its legislative authority to FinCEN, permitting the agency to create a new reporting requirement without sufficient guidance or limits.",
+    "target_paragraph_indices": [
+      1314,
+      1988
+    ],
+    "edits": []
+  },
+  {
+    "id": "46649_p3",
+    "metadata": {
+      "case_id": "46649",
+      "paragraph_num": 3,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 30, 2025, the plaintiffs moved for a temporary restraining order to halt enforcement of the G..."
+    },
+    "source": "",
+    "target": "This case challenges a federal reporting rule requiring certain money services businesses (MSBs) near the U.S.\u2013Mexico border to report small cash transactions. On March 11, 2025, the Financial Crimes Enforcement Network (FinCEN) issued the Southwest Border Geographic Targeting Order (GTO), requiring MSBs in thirty zip codes near the southern border to report each transaction, or series of transactions, by or for any one person totaling more than $200 in currency for money transfers to or from Mexico. This reporting threshold was significantly lower than the $10,000 reporting requirement applicable elsewhere.\n\nOn May 30, 2025, two Texas-based businesses, Valuta Corporation, Inc. and Payan's Fuel Center, Inc., filed this lawsuit in the U.S. District Court for the Western District of Texas. The plaintiffs sued the Financial Crimes Enforcement Network (FinCEN) and its Director Andrea Gacki, the U.S. Department of the Treasury and its Secretary, and the U.S. Attorney General, claiming violations of the Fourth Amendment, the Administrative Procedure Act, and the Non-Delegation Doctrine. Represented by the Institute for Justice, the plaintiffs sought injunctive relief to prevent enforcement of the GTO and declaratory relief declaring the order unlawful. Judge Leon Schydlower presides over the case.\n\nThe plaintiffs asserted that the GTO violated the Fourth Amendment\u2019s protection against unreasonable searches and seizures by requiring the collection and reporting of private financial data without a warrant or probable cause. They further argued that the GTO violated the Administrative Procedure Act because FinCEN had failed to provide the public notice and comment period required for such a significant regulatory action. Finally, the plaintiffs invoked the Non-Delegation Doctrine, contending that Congress had improperly delegated its legislative authority to FinCEN, permitting the agency to create a new reporting requirement without sufficient guidance or limits.\n\nOn May 30, 2025, the plaintiffs moved for a temporary restraining order to halt enforcement of the GTO. They alleged that the order inflicted \u201cprofound irreparable harms\u201d on their businesses, including \u201ccrushing costs\u201d from a surge in paperwork, with one plaintiff filing roughly 1,600 reports in a single month compared to 123 in the prior year. They also cited \u201cskyrocketing labor costs\u201d and the threat of \u201cruinous fines\u201d for non-compliance. In addition, they asserted that the GTO caused the loss of customers and revenue as patrons took their business to competitors in untargeted ZIP codes to avoid the new reporting requirements.\n\nFinding that the equities and public interest favored the plaintiffs, the court issued a TRO on June 24, 2025, halting enforcement of the GTO until July 8. 2025 WL 2389430. Judge Schydlower concluded that the plaintiffs were likely to succeed on their claim that the GTO was arbitrary and capricious, emphasizing the government\u2019s failure to address how cartel members could evade the rule by crossing into untargeted ZIP codes and how the measure would drive customers away from covered businesses. The court found that the plaintiffs faced immediate and irreparable harm, including the threat of business closure, reputational injury, and loss of customers and goodwill. On July 2, the court extended the TRO for an additional fourteen days, through July 22, 2025.\n\nOn July 2, 2025, the plaintiffs moved for class certification, proposing to represent all money services businesses that were not already plaintiffs in another case and that operated in the specific ZIP codes targeted by the Border GTO.\n\nOn July 3, 2025, the plaintiffs filed a combined motion for summary judgment, final judgment under Rule 65(a)(2), and a preliminary injunction. They urged the court to end the unlawful agency action, arguing that the appropriate final remedy under the Administrative Procedure Act was vacatur, which would nullify the GTO for all businesses, not only the plaintiffs.\n\nOn July 22, 2025, the court granted the motion for a preliminary injunction, the same day the TRO was set to expire. The text order barred the defendants from enforcing, implementing, or otherwise giving effect to the GTO.\n\nThis case is ongoing.",
+    "target_paragraph": "On May 30, 2025, the plaintiffs moved for a temporary restraining order to halt enforcement of the GTO. They alleged that the order inflicted \u201cprofound irreparable harms\u201d on their businesses, including \u201ccrushing costs\u201d from a surge in paperwork, with one plaintiff filing roughly 1,600 reports in a single month compared to 123 in the prior year. They also cited \u201cskyrocketing labor costs\u201d and the threat of \u201cruinous fines\u201d for non-compliance. In addition, they asserted that the GTO caused the loss of customers and revenue as patrons took their business to competitors in untargeted ZIP codes to avoid the new reporting requirements.",
+    "target_paragraph_indices": [
+      1990,
+      2625
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1990,
+            2093
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order (TRO) to halt enforcement of the GTO",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1990,
+            2093
+          ],
+          [
+            2094,
+            2336
+          ],
+          [
+            2337,
+            2433
+          ],
+          [
+            2434,
+            2625
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs sought a TRO on May 30, 2025, alleging irreparable business harms: massive increase in reporting (about 1,600 reports in a month vs. 123 in the prior year), higher labor costs, exposure to severe fines, and customer loss to competitors in untargeted ZIP codes.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1990,
+            2093
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for a temporary restraining order (TRO) filed on May 30, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1990,
+            2093
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO motion filed on May 30, 2025, seeking to halt enforcement of the GTO.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2094,
+            2336
+          ],
+          [
+            2337,
+            2433
+          ],
+          [
+            2434,
+            2625
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO motion grounds: claimed irreparable harms including crushing compliance costs (e.g., ~1,600 reports in a month vs. 123 prior year), skyrocketing labor costs, risk of ruinous fines, and loss of customers/revenue to untargeted ZIP codes.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46649_p4",
+    "metadata": {
+      "case_id": "46649",
+      "paragraph_num": 4,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Finding that the equities and public interest favored the plaintiffs, the court issued a TRO on June..."
+    },
+    "source": "",
+    "target": "This case challenges a federal reporting rule requiring certain money services businesses (MSBs) near the U.S.\u2013Mexico border to report small cash transactions. On March 11, 2025, the Financial Crimes Enforcement Network (FinCEN) issued the Southwest Border Geographic Targeting Order (GTO), requiring MSBs in thirty zip codes near the southern border to report each transaction, or series of transactions, by or for any one person totaling more than $200 in currency for money transfers to or from Mexico. This reporting threshold was significantly lower than the $10,000 reporting requirement applicable elsewhere.\n\nOn May 30, 2025, two Texas-based businesses, Valuta Corporation, Inc. and Payan's Fuel Center, Inc., filed this lawsuit in the U.S. District Court for the Western District of Texas. The plaintiffs sued the Financial Crimes Enforcement Network (FinCEN) and its Director Andrea Gacki, the U.S. Department of the Treasury and its Secretary, and the U.S. Attorney General, claiming violations of the Fourth Amendment, the Administrative Procedure Act, and the Non-Delegation Doctrine. Represented by the Institute for Justice, the plaintiffs sought injunctive relief to prevent enforcement of the GTO and declaratory relief declaring the order unlawful. Judge Leon Schydlower presides over the case.\n\nThe plaintiffs asserted that the GTO violated the Fourth Amendment\u2019s protection against unreasonable searches and seizures by requiring the collection and reporting of private financial data without a warrant or probable cause. They further argued that the GTO violated the Administrative Procedure Act because FinCEN had failed to provide the public notice and comment period required for such a significant regulatory action. Finally, the plaintiffs invoked the Non-Delegation Doctrine, contending that Congress had improperly delegated its legislative authority to FinCEN, permitting the agency to create a new reporting requirement without sufficient guidance or limits.\n\nOn May 30, 2025, the plaintiffs moved for a temporary restraining order to halt enforcement of the GTO. They alleged that the order inflicted \u201cprofound irreparable harms\u201d on their businesses, including \u201ccrushing costs\u201d from a surge in paperwork, with one plaintiff filing roughly 1,600 reports in a single month compared to 123 in the prior year. They also cited \u201cskyrocketing labor costs\u201d and the threat of \u201cruinous fines\u201d for non-compliance. In addition, they asserted that the GTO caused the loss of customers and revenue as patrons took their business to competitors in untargeted ZIP codes to avoid the new reporting requirements.\n\nFinding that the equities and public interest favored the plaintiffs, the court issued a TRO on June 24, 2025, halting enforcement of the GTO until July 8. 2025 WL 2389430. Judge Schydlower concluded that the plaintiffs were likely to succeed on their claim that the GTO was arbitrary and capricious, emphasizing the government\u2019s failure to address how cartel members could evade the rule by crossing into untargeted ZIP codes and how the measure would drive customers away from covered businesses. The court found that the plaintiffs faced immediate and irreparable harm, including the threat of business closure, reputational injury, and loss of customers and goodwill. On July 2, the court extended the TRO for an additional fourteen days, through July 22, 2025.\n\nOn July 2, 2025, the plaintiffs moved for class certification, proposing to represent all money services businesses that were not already plaintiffs in another case and that operated in the specific ZIP codes targeted by the Border GTO.\n\nOn July 3, 2025, the plaintiffs filed a combined motion for summary judgment, final judgment under Rule 65(a)(2), and a preliminary injunction. They urged the court to end the unlawful agency action, arguing that the appropriate final remedy under the Administrative Procedure Act was vacatur, which would nullify the GTO for all businesses, not only the plaintiffs.\n\nOn July 22, 2025, the court granted the motion for a preliminary injunction, the same day the TRO was set to expire. The text order barred the defendants from enforcing, implementing, or otherwise giving effect to the GTO.\n\nThis case is ongoing.",
+    "target_paragraph": "Finding that the equities and public interest favored the plaintiffs, the court issued a TRO on June 24, 2025, halting enforcement of the GTO until July 8. 2025 WL 2389430. Judge Schydlower concluded that the plaintiffs were likely to succeed on their claim that the GTO was arbitrary and capricious, emphasizing the government\u2019s failure to address how cartel members could evade the rule by crossing into untargeted ZIP codes and how the measure would drive customers away from covered businesses. The court found that the plaintiffs faced immediate and irreparable harm, including the threat of business closure, reputational injury, and loss of customers and goodwill. On July 2, the court extended the TRO for an additional fourteen days, through July 22, 2025.",
+    "target_paragraph_indices": [
+      2627,
+      3392
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            2627,
+            2799
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025 WL 2389430",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2627,
+            2799
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 24\u2013July 8, 2025: Temporary restraining order halting enforcement of the GTO.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            3299,
+            3392
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 8\u2013July 22, 2025: TRO extended, halting enforcement of the GTO.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2627,
+            2799
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 24, 2025: The court issued a temporary restraining order (TRO) halting enforcement of the GTO until July 8.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3299,
+            3392
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 2: The court extended the TRO for an additional fourteen days, through July 22, 2025.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2627,
+            2799
+          ],
+          [
+            2800,
+            3125
+          ],
+          [
+            3126,
+            3298
+          ],
+          [
+            3299,
+            3392
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court granted a TRO on June 24, 2025 (extended to July 22), finding likely success on an APA arbitrary-and-capricious claim (failure to address evasion via untargeted ZIP codes and customer flight) and immediate irreparable harms (risk of closure, reputational injury, loss of customers/goodwill).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2627,
+            2799
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO granted on June 24, 2025, halting GTO enforcement until July 8, 2025 (2025 WL 2389430).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3299,
+            3392
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO extended on July 2, 2025, through July 22, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2697,
+            2799
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order halting defendants\u2019 enforcement of the GTO until July 8, 2025.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3299,
+            3392
+          ]
+        ],
+        "annotation": {
+          "explanation": "Extension of TRO: enforcement of the GTO remained halted through July 22, 2025.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2627,
+            2799
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order issued June 24, 2025: Defendants are restrained from enforcing the GTO until July 8, 2025.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3299,
+            3392
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO extension on July 2, 2025: The restraint on enforcing the GTO is extended through July 22, 2025.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2627,
+            2799
+          ],
+          [
+            2800,
+            3125
+          ],
+          [
+            3126,
+            3298
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO granted June 24, 2025 (2025 WL 2389430), halting GTO enforcement until July 8, 2025; court found likelihood of success on arbitrary-and-capricious claim and irreparable harm (business closure risk, reputational injury, loss of customers/goodwill).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3299,
+            3392
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO extended on July 2, 2025, through July 22, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2627,
+            2799
+          ],
+          [
+            2800,
+            3125
+          ],
+          [
+            3126,
+            3298
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order granted on June 24, 2025 (2025 WL 2389430), halting enforcement of the GTO until July 8; court found equities/public interest favored plaintiffs, likely success on arbitrary-and-capricious claim, and irreparable harm.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3299,
+            3392
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO extended on July 2, 2025, for 14 days, through July 22, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": "46649_p5",
+    "metadata": {
+      "case_id": "46649",
+      "paragraph_num": 5,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 2, 2025, the plaintiffs moved for class certification, proposing to represent all money serv..."
+    },
+    "source": "",
+    "target": "This case challenges a federal reporting rule requiring certain money services businesses (MSBs) near the U.S.\u2013Mexico border to report small cash transactions. On March 11, 2025, the Financial Crimes Enforcement Network (FinCEN) issued the Southwest Border Geographic Targeting Order (GTO), requiring MSBs in thirty zip codes near the southern border to report each transaction, or series of transactions, by or for any one person totaling more than $200 in currency for money transfers to or from Mexico. This reporting threshold was significantly lower than the $10,000 reporting requirement applicable elsewhere.\n\nOn May 30, 2025, two Texas-based businesses, Valuta Corporation, Inc. and Payan's Fuel Center, Inc., filed this lawsuit in the U.S. District Court for the Western District of Texas. The plaintiffs sued the Financial Crimes Enforcement Network (FinCEN) and its Director Andrea Gacki, the U.S. Department of the Treasury and its Secretary, and the U.S. Attorney General, claiming violations of the Fourth Amendment, the Administrative Procedure Act, and the Non-Delegation Doctrine. Represented by the Institute for Justice, the plaintiffs sought injunctive relief to prevent enforcement of the GTO and declaratory relief declaring the order unlawful. Judge Leon Schydlower presides over the case.\n\nThe plaintiffs asserted that the GTO violated the Fourth Amendment\u2019s protection against unreasonable searches and seizures by requiring the collection and reporting of private financial data without a warrant or probable cause. They further argued that the GTO violated the Administrative Procedure Act because FinCEN had failed to provide the public notice and comment period required for such a significant regulatory action. Finally, the plaintiffs invoked the Non-Delegation Doctrine, contending that Congress had improperly delegated its legislative authority to FinCEN, permitting the agency to create a new reporting requirement without sufficient guidance or limits.\n\nOn May 30, 2025, the plaintiffs moved for a temporary restraining order to halt enforcement of the GTO. They alleged that the order inflicted \u201cprofound irreparable harms\u201d on their businesses, including \u201ccrushing costs\u201d from a surge in paperwork, with one plaintiff filing roughly 1,600 reports in a single month compared to 123 in the prior year. They also cited \u201cskyrocketing labor costs\u201d and the threat of \u201cruinous fines\u201d for non-compliance. In addition, they asserted that the GTO caused the loss of customers and revenue as patrons took their business to competitors in untargeted ZIP codes to avoid the new reporting requirements.\n\nFinding that the equities and public interest favored the plaintiffs, the court issued a TRO on June 24, 2025, halting enforcement of the GTO until July 8. 2025 WL 2389430. Judge Schydlower concluded that the plaintiffs were likely to succeed on their claim that the GTO was arbitrary and capricious, emphasizing the government\u2019s failure to address how cartel members could evade the rule by crossing into untargeted ZIP codes and how the measure would drive customers away from covered businesses. The court found that the plaintiffs faced immediate and irreparable harm, including the threat of business closure, reputational injury, and loss of customers and goodwill. On July 2, the court extended the TRO for an additional fourteen days, through July 22, 2025.\n\nOn July 2, 2025, the plaintiffs moved for class certification, proposing to represent all money services businesses that were not already plaintiffs in another case and that operated in the specific ZIP codes targeted by the Border GTO.\n\nOn July 3, 2025, the plaintiffs filed a combined motion for summary judgment, final judgment under Rule 65(a)(2), and a preliminary injunction. They urged the court to end the unlawful agency action, arguing that the appropriate final remedy under the Administrative Procedure Act was vacatur, which would nullify the GTO for all businesses, not only the plaintiffs.\n\nOn July 22, 2025, the court granted the motion for a preliminary injunction, the same day the TRO was set to expire. The text order barred the defendants from enforcing, implementing, or otherwise giving effect to the GTO.\n\nThis case is ongoing.",
+    "target_paragraph": "On July 2, 2025, the plaintiffs moved for class certification, proposing to represent all money services businesses that were not already plaintiffs in another case and that operated in the specific ZIP codes targeted by the Border GTO.",
+    "target_paragraph_indices": [
+      3394,
+      3630
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3394,
+            3630
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs sought class certification on July 2, 2025 for MSBs operating in the targeted ZIP codes and not already plaintiffs elsewhere.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3394,
+            3630
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for class certification filed on July 2, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3394,
+            3630
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification motion filed July 2, 2025; proposed class: MSBs in targeted ZIP codes not already plaintiffs in another case.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46649_p6",
+    "metadata": {
+      "case_id": "46649",
+      "paragraph_num": 6,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 3, 2025, the plaintiffs filed a combined motion for summary judgment, final judgment under R..."
+    },
+    "source": "",
+    "target": "This case challenges a federal reporting rule requiring certain money services businesses (MSBs) near the U.S.\u2013Mexico border to report small cash transactions. On March 11, 2025, the Financial Crimes Enforcement Network (FinCEN) issued the Southwest Border Geographic Targeting Order (GTO), requiring MSBs in thirty zip codes near the southern border to report each transaction, or series of transactions, by or for any one person totaling more than $200 in currency for money transfers to or from Mexico. This reporting threshold was significantly lower than the $10,000 reporting requirement applicable elsewhere.\n\nOn May 30, 2025, two Texas-based businesses, Valuta Corporation, Inc. and Payan's Fuel Center, Inc., filed this lawsuit in the U.S. District Court for the Western District of Texas. The plaintiffs sued the Financial Crimes Enforcement Network (FinCEN) and its Director Andrea Gacki, the U.S. Department of the Treasury and its Secretary, and the U.S. Attorney General, claiming violations of the Fourth Amendment, the Administrative Procedure Act, and the Non-Delegation Doctrine. Represented by the Institute for Justice, the plaintiffs sought injunctive relief to prevent enforcement of the GTO and declaratory relief declaring the order unlawful. Judge Leon Schydlower presides over the case.\n\nThe plaintiffs asserted that the GTO violated the Fourth Amendment\u2019s protection against unreasonable searches and seizures by requiring the collection and reporting of private financial data without a warrant or probable cause. They further argued that the GTO violated the Administrative Procedure Act because FinCEN had failed to provide the public notice and comment period required for such a significant regulatory action. Finally, the plaintiffs invoked the Non-Delegation Doctrine, contending that Congress had improperly delegated its legislative authority to FinCEN, permitting the agency to create a new reporting requirement without sufficient guidance or limits.\n\nOn May 30, 2025, the plaintiffs moved for a temporary restraining order to halt enforcement of the GTO. They alleged that the order inflicted \u201cprofound irreparable harms\u201d on their businesses, including \u201ccrushing costs\u201d from a surge in paperwork, with one plaintiff filing roughly 1,600 reports in a single month compared to 123 in the prior year. They also cited \u201cskyrocketing labor costs\u201d and the threat of \u201cruinous fines\u201d for non-compliance. In addition, they asserted that the GTO caused the loss of customers and revenue as patrons took their business to competitors in untargeted ZIP codes to avoid the new reporting requirements.\n\nFinding that the equities and public interest favored the plaintiffs, the court issued a TRO on June 24, 2025, halting enforcement of the GTO until July 8. 2025 WL 2389430. Judge Schydlower concluded that the plaintiffs were likely to succeed on their claim that the GTO was arbitrary and capricious, emphasizing the government\u2019s failure to address how cartel members could evade the rule by crossing into untargeted ZIP codes and how the measure would drive customers away from covered businesses. The court found that the plaintiffs faced immediate and irreparable harm, including the threat of business closure, reputational injury, and loss of customers and goodwill. On July 2, the court extended the TRO for an additional fourteen days, through July 22, 2025.\n\nOn July 2, 2025, the plaintiffs moved for class certification, proposing to represent all money services businesses that were not already plaintiffs in another case and that operated in the specific ZIP codes targeted by the Border GTO.\n\nOn July 3, 2025, the plaintiffs filed a combined motion for summary judgment, final judgment under Rule 65(a)(2), and a preliminary injunction. They urged the court to end the unlawful agency action, arguing that the appropriate final remedy under the Administrative Procedure Act was vacatur, which would nullify the GTO for all businesses, not only the plaintiffs.\n\nOn July 22, 2025, the court granted the motion for a preliminary injunction, the same day the TRO was set to expire. The text order barred the defendants from enforcing, implementing, or otherwise giving effect to the GTO.\n\nThis case is ongoing.",
+    "target_paragraph": "On July 3, 2025, the plaintiffs filed a combined motion for summary judgment, final judgment under Rule 65(a)(2), and a preliminary injunction. They urged the court to end the unlawful agency action, arguing that the appropriate final remedy under the Administrative Procedure Act was vacatur, which would nullify the GTO for all businesses, not only the plaintiffs.",
+    "target_paragraph_indices": [
+      3632,
+      3998
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3632,
+            3775
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3776,
+            3998
+          ]
+        ],
+        "annotation": {
+          "explanation": "Vacatur under the Administrative Procedure Act to nullify the GTO for all businesses",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3632,
+            3775
+          ],
+          [
+            3776,
+            3998
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 3, 2025, plaintiffs moved for summary judgment, Rule 65(a)(2) final judgment, and a preliminary injunction, seeking APA vacatur to nullify the GTO universally.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3632,
+            3775
+          ],
+          [
+            3776,
+            3998
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 combined motion for summary judgment, final judgment under Rule 65(a)(2), and preliminary injunction filed on July 3, 2025 (seeking vacatur).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3632,
+            3775
+          ],
+          [
+            3776,
+            3998
+          ]
+        ],
+        "annotation": {
+          "explanation": "Combined motion filed July 3, 2025 for summary judgment, final judgment under Rule 65(a)(2), and preliminary injunction; requested remedy: APA vacatur nullifying the GTO for all businesses.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46649_p7",
+    "metadata": {
+      "case_id": "46649",
+      "paragraph_num": 7,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 22, 2025, the court granted the motion for a preliminary injunction, the same day the TRO wa..."
+    },
+    "source": "",
+    "target": "This case challenges a federal reporting rule requiring certain money services businesses (MSBs) near the U.S.\u2013Mexico border to report small cash transactions. On March 11, 2025, the Financial Crimes Enforcement Network (FinCEN) issued the Southwest Border Geographic Targeting Order (GTO), requiring MSBs in thirty zip codes near the southern border to report each transaction, or series of transactions, by or for any one person totaling more than $200 in currency for money transfers to or from Mexico. This reporting threshold was significantly lower than the $10,000 reporting requirement applicable elsewhere.\n\nOn May 30, 2025, two Texas-based businesses, Valuta Corporation, Inc. and Payan's Fuel Center, Inc., filed this lawsuit in the U.S. District Court for the Western District of Texas. The plaintiffs sued the Financial Crimes Enforcement Network (FinCEN) and its Director Andrea Gacki, the U.S. Department of the Treasury and its Secretary, and the U.S. Attorney General, claiming violations of the Fourth Amendment, the Administrative Procedure Act, and the Non-Delegation Doctrine. Represented by the Institute for Justice, the plaintiffs sought injunctive relief to prevent enforcement of the GTO and declaratory relief declaring the order unlawful. Judge Leon Schydlower presides over the case.\n\nThe plaintiffs asserted that the GTO violated the Fourth Amendment\u2019s protection against unreasonable searches and seizures by requiring the collection and reporting of private financial data without a warrant or probable cause. They further argued that the GTO violated the Administrative Procedure Act because FinCEN had failed to provide the public notice and comment period required for such a significant regulatory action. Finally, the plaintiffs invoked the Non-Delegation Doctrine, contending that Congress had improperly delegated its legislative authority to FinCEN, permitting the agency to create a new reporting requirement without sufficient guidance or limits.\n\nOn May 30, 2025, the plaintiffs moved for a temporary restraining order to halt enforcement of the GTO. They alleged that the order inflicted \u201cprofound irreparable harms\u201d on their businesses, including \u201ccrushing costs\u201d from a surge in paperwork, with one plaintiff filing roughly 1,600 reports in a single month compared to 123 in the prior year. They also cited \u201cskyrocketing labor costs\u201d and the threat of \u201cruinous fines\u201d for non-compliance. In addition, they asserted that the GTO caused the loss of customers and revenue as patrons took their business to competitors in untargeted ZIP codes to avoid the new reporting requirements.\n\nFinding that the equities and public interest favored the plaintiffs, the court issued a TRO on June 24, 2025, halting enforcement of the GTO until July 8. 2025 WL 2389430. Judge Schydlower concluded that the plaintiffs were likely to succeed on their claim that the GTO was arbitrary and capricious, emphasizing the government\u2019s failure to address how cartel members could evade the rule by crossing into untargeted ZIP codes and how the measure would drive customers away from covered businesses. The court found that the plaintiffs faced immediate and irreparable harm, including the threat of business closure, reputational injury, and loss of customers and goodwill. On July 2, the court extended the TRO for an additional fourteen days, through July 22, 2025.\n\nOn July 2, 2025, the plaintiffs moved for class certification, proposing to represent all money services businesses that were not already plaintiffs in another case and that operated in the specific ZIP codes targeted by the Border GTO.\n\nOn July 3, 2025, the plaintiffs filed a combined motion for summary judgment, final judgment under Rule 65(a)(2), and a preliminary injunction. They urged the court to end the unlawful agency action, arguing that the appropriate final remedy under the Administrative Procedure Act was vacatur, which would nullify the GTO for all businesses, not only the plaintiffs.\n\nOn July 22, 2025, the court granted the motion for a preliminary injunction, the same day the TRO was set to expire. The text order barred the defendants from enforcing, implementing, or otherwise giving effect to the GTO.\n\nThis case is ongoing.",
+    "target_paragraph": "On July 22, 2025, the court granted the motion for a preliminary injunction, the same day the TRO was set to expire. The text order barred the defendants from enforcing, implementing, or otherwise giving effect to the GTO.",
+    "target_paragraph_indices": [
+      4000,
+      4222
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4000,
+            4222
+          ]
+        ],
+        "annotation": {
+          "explanation": "From July 22, 2025: Preliminary injunction barring enforcement, implementation, or effect of the GTO.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4000,
+            4116
+          ],
+          [
+            4117,
+            4222
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 22, 2025: The court granted a preliminary injunction and barred defendants from enforcing, implementing, or otherwise giving effect to the GTO.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4000,
+            4222
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court granted a preliminary injunction on July 22, 2025, prohibiting enforcement or implementation of the GTO.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4000,
+            4222
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted on July 22, 2025, barring enforcement of the GTO.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4000,
+            4116
+          ],
+          [
+            4117,
+            4222
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction barring defendants from enforcing, implementing, or otherwise giving effect to the GTO (effective July 22, 2025).",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4000,
+            4116
+          ],
+          [
+            4117,
+            4222
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction issued July 22, 2025: Defendants are barred from enforcing, implementing, or otherwise giving effect to the GTO.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4000,
+            4116
+          ],
+          [
+            4117,
+            4222
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted July 22, 2025; barred defendants from enforcing, implementing, or giving effect to the GTO.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4000,
+            4116
+          ],
+          [
+            4117,
+            4222
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted on July 22, 2025; text order barred enforcement, implementation, or effect of the GTO.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46649_p8",
+    "metadata": {
+      "case_id": "46649",
+      "paragraph_num": 8,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "This case challenges a federal reporting rule requiring certain money services businesses (MSBs) near the U.S.\u2013Mexico border to report small cash transactions. On March 11, 2025, the Financial Crimes Enforcement Network (FinCEN) issued the Southwest Border Geographic Targeting Order (GTO), requiring MSBs in thirty zip codes near the southern border to report each transaction, or series of transactions, by or for any one person totaling more than $200 in currency for money transfers to or from Mexico. This reporting threshold was significantly lower than the $10,000 reporting requirement applicable elsewhere.\n\nOn May 30, 2025, two Texas-based businesses, Valuta Corporation, Inc. and Payan's Fuel Center, Inc., filed this lawsuit in the U.S. District Court for the Western District of Texas. The plaintiffs sued the Financial Crimes Enforcement Network (FinCEN) and its Director Andrea Gacki, the U.S. Department of the Treasury and its Secretary, and the U.S. Attorney General, claiming violations of the Fourth Amendment, the Administrative Procedure Act, and the Non-Delegation Doctrine. Represented by the Institute for Justice, the plaintiffs sought injunctive relief to prevent enforcement of the GTO and declaratory relief declaring the order unlawful. Judge Leon Schydlower presides over the case.\n\nThe plaintiffs asserted that the GTO violated the Fourth Amendment\u2019s protection against unreasonable searches and seizures by requiring the collection and reporting of private financial data without a warrant or probable cause. They further argued that the GTO violated the Administrative Procedure Act because FinCEN had failed to provide the public notice and comment period required for such a significant regulatory action. Finally, the plaintiffs invoked the Non-Delegation Doctrine, contending that Congress had improperly delegated its legislative authority to FinCEN, permitting the agency to create a new reporting requirement without sufficient guidance or limits.\n\nOn May 30, 2025, the plaintiffs moved for a temporary restraining order to halt enforcement of the GTO. They alleged that the order inflicted \u201cprofound irreparable harms\u201d on their businesses, including \u201ccrushing costs\u201d from a surge in paperwork, with one plaintiff filing roughly 1,600 reports in a single month compared to 123 in the prior year. They also cited \u201cskyrocketing labor costs\u201d and the threat of \u201cruinous fines\u201d for non-compliance. In addition, they asserted that the GTO caused the loss of customers and revenue as patrons took their business to competitors in untargeted ZIP codes to avoid the new reporting requirements.\n\nFinding that the equities and public interest favored the plaintiffs, the court issued a TRO on June 24, 2025, halting enforcement of the GTO until July 8. 2025 WL 2389430. Judge Schydlower concluded that the plaintiffs were likely to succeed on their claim that the GTO was arbitrary and capricious, emphasizing the government\u2019s failure to address how cartel members could evade the rule by crossing into untargeted ZIP codes and how the measure would drive customers away from covered businesses. The court found that the plaintiffs faced immediate and irreparable harm, including the threat of business closure, reputational injury, and loss of customers and goodwill. On July 2, the court extended the TRO for an additional fourteen days, through July 22, 2025.\n\nOn July 2, 2025, the plaintiffs moved for class certification, proposing to represent all money services businesses that were not already plaintiffs in another case and that operated in the specific ZIP codes targeted by the Border GTO.\n\nOn July 3, 2025, the plaintiffs filed a combined motion for summary judgment, final judgment under Rule 65(a)(2), and a preliminary injunction. They urged the court to end the unlawful agency action, arguing that the appropriate final remedy under the Administrative Procedure Act was vacatur, which would nullify the GTO for all businesses, not only the plaintiffs.\n\nOn July 22, 2025, the court granted the motion for a preliminary injunction, the same day the TRO was set to expire. The text order barred the defendants from enforcing, implementing, or otherwise giving effect to the GTO.\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      4224,
+      4245
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4224,
+            4245
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4224,
+            4245
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing (no final judgment noted).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

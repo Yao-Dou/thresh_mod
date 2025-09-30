@@ -1,0 +1,1713 @@
+[
+  {
+    "id": "46356_p0",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 0,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\")..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].",
+    "target_paragraph_indices": [
+      0,
+      341
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            0,
+            186
+          ],
+          [
+            1361,
+            1530
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment Due Process Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46356_p1",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 1,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "On April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.",
+    "target_paragraph_indices": [
+      343,
+      827
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            343,
+            497
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 8, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            343,
+            497
+          ],
+          [
+            1698,
+            1883
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for writ of habeas corpus as the procedural vehicle for challenging AEA removals, per J.G.G. v. Trump.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            4
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            343,
+            497
+          ],
+          [
+            697,
+            827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Venezuelan man, petitioner, being held at Orange County Correctional Facility",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            343,
+            497
+          ],
+          [
+            697,
+            827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Venezuelan man, petitioner, being held at Orange County Correctional Facility",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            498,
+            827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: President Donald J. Trump",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            498,
+            827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Justice",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            498,
+            827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Homeland Security (\u201cDHS\u201d)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            498,
+            827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Immigration and Customs Enforcement (\u201cICE\u201d)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            498,
+            827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of State",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            498,
+            827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            343,
+            497
+          ],
+          [
+            498,
+            827
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 8, 2025, two Venezuelan detainees filed a habeas petition in the Southern District of New York against President Trump, DOJ, DHS, ICE, State Department, and the Orange County Correctional Facility where they are held.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            343,
+            497
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 8, 2025 \u2014 Petition for writ of habeas corpus filed (S.D.N.Y.).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            343,
+            497
+          ],
+          [
+            1644,
+            1696
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case initiated on Apr 8, 2025 in S.D.N.Y.; assigned to Judge Alvin K. Hellerstein.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": "46356_p2",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 2,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Represented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to re..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "Represented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.",
+    "target_paragraph_indices": [
+      829,
+      1359
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            829,
+            1019
+          ]
+        ],
+        "annotation": {
+          "explanation": "Challenge to removals conducted under the Alien Enemies Act (AEA).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            829,
+            1019
+          ]
+        ],
+        "annotation": {
+          "explanation": "ACLU",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1143,
+            1359
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 15, 2025: Presidential proclamation declaring the United States \u201cunder invasion\u201d by Tren de Aragua and invoking the Alien Enemies Act.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            829,
+            1019
+          ],
+          [
+            1143,
+            1359
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petitioners, represented by the ACLU, challenge the Administration\u2019s use of the Alien Enemies Act to remove them without a hearing, based on a March 15, 2025 presidential proclamation invoking the AEA due to an alleged invasion by Tren de Aragua.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1020,
+            1142
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: The Alien Enemies Act is a wartime measure authorizing removal of citizens from countries with which the U.S. is at war.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46356_p3",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 3,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the F..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "The petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.",
+    "target_paragraph_indices": [
+      1361,
+      1696
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1361,
+            1530
+          ]
+        ],
+        "annotation": {
+          "explanation": "Substantive claims under the Immigration and Nationality Act (INA), the Foreign Affairs Reform and Restructuring Act (FARRA), and the Fifth Amendment.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1361,
+            1530
+          ]
+        ],
+        "annotation": {
+          "explanation": "Immigration and Nationality Act (INA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1361,
+            1530
+          ]
+        ],
+        "annotation": {
+          "explanation": "Foreign Affairs Reform and Restructuring Act (FARRA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1531,
+            1643
+          ]
+        ],
+        "annotation": {
+          "explanation": "Writ of habeas corpus releasing petitioners from detention",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1531,
+            1643
+          ],
+          [
+            2159,
+            2249
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief, including an emergency temporary restraining order (TRO)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            3,
+            5
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1531,
+            1643
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1644,
+            1696
+          ],
+          [
+            3671,
+            3806
+          ],
+          [
+            4373,
+            4483
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alvin K. Hellerstein",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            3,
+            9,
+            12
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1361,
+            1530
+          ]
+        ],
+        "annotation": {
+          "explanation": "Legal claims: The AEA-based removals allegedly violate the INA, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1531,
+            1643
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: Habeas release from detention, plus injunctive and declaratory relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46356_p4",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 4,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "This action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.",
+    "target_paragraph_indices": [
+      1698,
+      2157
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            1698,
+            1883
+          ],
+          [
+            1884,
+            2157
+          ]
+        ],
+        "annotation": {
+          "explanation": "J.G.G. v. Trump (case code 46232) \u2014 U.S. Supreme Court decision holding that AEA removal challenges must be brought via habeas; it vacated a TRO due to improper venue, requiring filing in the district of confinement.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1698,
+            1883
+          ],
+          [
+            1884,
+            2157
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background and procedural context: A Supreme Court decision in J.G.G. v. Trump required AEA removal challenges to be filed as habeas petitions in the district of confinement, prompting this SDNY filing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46356_p5",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 5,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Along with their habeas petition, the petitioners also filed an emergency motion for a TRO and a sep..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "Along with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.",
+    "target_paragraph_indices": [
+      2159,
+      2734
+    ],
+    "edits": [
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            2159,
+            2293
+          ],
+          [
+            2736,
+            2820
+          ],
+          [
+            4373,
+            4483
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Class Action",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            5,
+            6,
+            12
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2294,
+            2454
+          ]
+        ],
+        "annotation": {
+          "explanation": "while the case proceeded: Non-removal order barring removal of petitioners from the United States or the Southern District of New York",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2294,
+            2454
+          ],
+          [
+            2455,
+            2734
+          ]
+        ],
+        "annotation": {
+          "explanation": "Initial court protection: Non-removal order issued on filing day; TRO issued after April 9 hearing; TRO converted to preliminary injunction motion with briefing and hearing schedule.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2159,
+            2293
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 8, 2025 \u2014 Emergency motion for temporary restraining order (TRO) filed.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2159,
+            2293
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 8, 2025 \u2014 Motion to certify the class filed.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2294,
+            2454
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 8, 2025 \u2014 Court order temporarily barring removal from the United States or the Southern District of New York while the case proceeded.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2455,
+            2521
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 9, 2025 \u2014 TRO issued.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2522,
+            2734
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 9, 2025 \u2014 TRO motion converted to motion for preliminary injunction; briefing and April 22 hearing scheduled.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2294,
+            2454
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order prohibiting removal of the petitioners from the United States or from the Southern District of New York while the case proceeds (April 8, 2025).",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2522,
+            2734
+          ]
+        ],
+        "annotation": {
+          "explanation": "Respondents ordered to file their response by April 15, 2025.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2294,
+            2454
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order prohibiting removal of the petitioners from the United States or from the Southern District of New York while the case proceeds.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2522,
+            2734
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural order: Respondents required to file their response by April 15.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2159,
+            2293
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency TRO motion and class certification motion filed on Apr 8, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2294,
+            2454
+          ]
+        ],
+        "annotation": {
+          "explanation": "Same-day interim order prohibiting removal from the U.S. or S.D.N.Y. while the case proceeds.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2455,
+            2521
+          ],
+          [
+            2522,
+            2734
+          ]
+        ],
+        "annotation": {
+          "explanation": "Apr 9 hearing; TRO issued; TRO motion converted to PI; respondents\u2019 response due Apr 15; PI hearing scheduled for Apr 22.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2159,
+            2293
+          ],
+          [
+            2294,
+            2454
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 8, 2025: In response to the emergency TRO motion, the court ordered that petitioners not be removed from the U.S. or the SDNY while the case proceeded (temporary non-removal order).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2455,
+            2734
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 9, 2025: Court issued a TRO; converted the TRO motion to a preliminary injunction motion and set briefing and hearing schedule.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      }
+    ]
+  },
+  {
+    "id": "46356_p6",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 6,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Also on April 9, the Court granted the petitioners' request for class certification. The petitioners..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "Also on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.",
+    "target_paragraph_indices": [
+      2736,
+      3300
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2736,
+            2820
+          ],
+          [
+            2821,
+            3300
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certified on April 9; on April 11 the class was expanded to include individuals subject to the Proclamation in state or local custody, and the TRO was amended accordingly.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2736,
+            2820
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 9, 2025 \u2014 Class certification granted.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2821,
+            3184
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 10, 2025 \u2014 Petitioners filed request to modify class definition (to remove U.S. custody requirement).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3185,
+            3300
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 11, 2025 \u2014 Court granted modification of class definition and amended TRO accordingly.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2821,
+            3184
+          ],
+          [
+            3185,
+            3300
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO amended to reflect expanded class definition, extending protections to individuals subject to the Proclamation who are in state or local custody (April 11, 2025).",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3185,
+            3300
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended TRO to apply to the modified certified class (including individuals in state or local custody).",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2736,
+            2820
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification granted on Apr 9.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2821,
+            3184
+          ],
+          [
+            3185,
+            3300
+          ]
+        ],
+        "annotation": {
+          "explanation": "Apr 10 motion to modify class definition (remove federal custody requirement); granted Apr 11; TRO amended to reflect new class definition.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2736,
+            2820
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 9, 2025: Court granted class certification.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2821,
+            3300
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 11, 2025: Court granted request to modify the class definition (removing U.S. custody requirement) and amended the TRO to reflect the new class definition.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46356_p7",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 7,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The respondents filed a motion to decertify the class on April 21, arguing that the court lacked jur..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "The respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.",
+    "target_paragraph_indices": [
+      3302,
+      3552
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3302,
+            3552
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government moved to decertify the class, asserting the court lacked jurisdiction over the President\u2019s exercise of AEA authority.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3302,
+            3552
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 21, 2025 \u2014 Respondents filed motion to decertify the class.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3302,
+            3552
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government moved to decertify class on Apr 21, asserting lack of jurisdiction over the President\u2019s AEA actions.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46356_p8",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 8,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Following the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "Following the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.",
+    "target_paragraph_indices": [
+      3554,
+      3669
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            3554,
+            3669
+          ]
+        ],
+        "annotation": {
+          "explanation": "until the court ruled on the PI motion: TRO (extended)",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3554,
+            3669
+          ]
+        ],
+        "annotation": {
+          "explanation": "Post-hearing, the court extended the TRO pending decision on the preliminary injunction.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3554,
+            3669
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 22, 2025 \u2014 Court extended TRO pending decision on preliminary injunction.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3554,
+            3669
+          ]
+        ],
+        "annotation": {
+          "explanation": "Extension of the TRO in effect until the court ruled on the preliminary injunction motion.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3554,
+            3669
+          ]
+        ],
+        "annotation": {
+          "explanation": "After the Apr 22 PI hearing, the TRO was extended until the PI ruling.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3554,
+            3669
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 22, 2025: Court extended the TRO until it ruled on the preliminary injunction motion.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46356_p9",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 9,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "On May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:",
+    "target_paragraph_indices": [
+      3671,
+      3806
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3671,
+            3806
+          ],
+          [
+            3808,
+            4211
+          ],
+          [
+            4213,
+            4371
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted on May 6: Government enjoined in SDNY from enforcing Presidential Proclamation No. 10903 and from removing or transferring petitioners and class members from SDNY.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            9,
+            10,
+            11
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3671,
+            4211
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 6, 2025 \u2014 Preliminary injunction granted; government enjoined from enforcing Proclamation No. 10903 in S.D.N.Y. and from removing petitioners/class members under that authority.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3671,
+            3806
+          ],
+          [
+            3808,
+            4211
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction: Government enjoined from enforcing Presidential Proclamation No. 10903 in the Southern District of New York and prohibited from removing Petitioners, including members of the Certified Class, from the United States under authority of that Proclamation (May 6, 2025).",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            3671,
+            3806
+          ],
+          [
+            3808,
+            4211
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction: Government enjoined from enforcing Presidential Proclamation No. 10903 in the Southern District of New York and prohibited from removing petitioners and certified class members from the United States under that Proclamation.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3671,
+            3806
+          ],
+          [
+            3808,
+            4211
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted on May 6: government enjoined from enforcing Presidential Proclamation No. 10903 in S.D.N.Y., including removing class members under it; government also ordered not to transfer petitioners/class from S.D.N.Y.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3671,
+            3806
+          ],
+          [
+            3808,
+            4211
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 6, 2025: Court granted preliminary injunction; enjoined enforcement of Presidential Proclamation No. 10903 in SDNY (including removal of petitioners/class members) and ordered no transfer of petitioners/class members from SDNY.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46356_p10",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 10,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Enforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 1..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "Enforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.",
+    "target_paragraph_indices": [
+      3808,
+      4211
+    ],
+    "edits": []
+  },
+  {
+    "id": "46356_p11",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 11,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Judge Hellerstein also ordered the government not to transfer Petitioners including the members of t..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "Judge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.",
+    "target_paragraph_indices": [
+      4213,
+      4371
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4213,
+            4371
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 6, 2025 \u2014 Court ordered government not to transfer petitioners/class members from S.D.N.Y.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46356_p12",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 12,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the clas..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "In the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:",
+    "target_paragraph_indices": [
+      4373,
+      4483
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4373,
+            4483
+          ],
+          [
+            4485,
+            4971
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court denied decertification, citing judicial efficiency, due process concerns, language and access-to-counsel barriers, and common questions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            12,
+            13
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4373,
+            4483
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 6, 2025 \u2014 Motion to decertify the class denied.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4373,
+            4483
+          ],
+          [
+            4485,
+            4971
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion to decertify class denied on May 6; court cited judicial efficiency, due process, common questions, and barriers to class members (language and access to counsel).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            12,
+            13
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4373,
+            4483
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 6, 2025: Court denied the government's April 21 motion to decertify the class.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46356_p13",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 13,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Here, it is not known how many people in the jurisdiction of this Court may become subject to an ord..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "Here, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.",
+    "target_paragraph_indices": [
+      4485,
+      4971
+    ],
+    "edits": []
+  },
+  {
+    "id": "46356_p14",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 14,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 9, the government appealed the class certification and preliminary injunction to the U.S. Co..."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "On July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).",
+    "target_paragraph_indices": [
+      4973,
+      5130
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            4973,
+            5130
+          ]
+        ],
+        "annotation": {
+          "explanation": "Second Circuit appeal (Case No. 25-1671) \u2014 government appealed the class certification and preliminary injunction on July 9.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            4973,
+            5130
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: the government appealed to the U.S. Court of Appeals for the Second Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4973,
+            5130
+          ],
+          [
+            5132,
+            5153
+          ]
+        ],
+        "annotation": {
+          "explanation": "The government appealed the class certification and preliminary injunction to the Second Circuit; the case remains ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            14,
+            15
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4973,
+            5130
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 9, 2025 \u2014 Government filed appeal of class certification and preliminary injunction to Second Circuit (Case No. 25-1671).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4973,
+            5130
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government appealed class certification and PI to the Second Circuit (No. 25-1671) on Jul 9.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46356_p15",
+    "metadata": {
+      "case_id": "46356",
+      "paragraph_num": 15,
+      "total_paragraphs": 16,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "This is one of several challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 8, 2025, two Venezuelan men filed a petition for writ of habeas corpus in the United States District Court for the Southern District of New York. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security (\u201cDHS\u201d), Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Orange County Correctional Facility, a county prison in New York that contracts with ICE where the petitioners are being held.\n\nRepresented by the ACLU, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to Judge Alvin K. Hellerstein.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners also filed an emergency motion for a TRO and a separate motion to certify the class. The same day the Court ordered that the petitioners were not to be removed from the United States or the Southern District of New York while the case proceeded. A hearing was held on April 9, after which the court issued a TRO. The court converted the plaintiffs' TRO motion to a motion for a preliminary injunction (PI) and ordered the respondents to file their response by April 15, with a hearing on the PI motion scheduled for April 22.\n\nAlso on April 9, the Court granted the petitioners' request for class certification. The petitioners filed a request for modification of the class certification on April 10, asking the court to amend the definition of the certified class by \"removing the requirement that class members be in the custody of the United States, to ensure that the class includes individuals subject to the Presidential Proclamation who are in state or local custody.\" The court made the requested modification on April 11 and also amended the TRO to reflect the new class definition.\n\nThe respondents filed a motion to decertify the class on April 21, arguing that the court lacked jurisdiction to review and enjoin the federal government's activities at issue in this case; namely, the President's exercise of authority under the AEA.\n\nFollowing the April 22 hearing on the PI motion, the court extended the TRO until the court ruled on the PI motion.\n\nOn May 6, Judge Hellerstein granted the petitioners motion for a preliminary injunction and enjoined the government from the following:\n\nEnforcing, in the Southern District of New York, Presidential Proclamation No. 10903, 90 Fed. Reg. 13,033 (2025) entitled \"Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren De Aragua,\" and are thus prohibited from, inter alia, removing Petitioners, including members of the Certified Class, from the United States, under authority of said Presidential Proclamation.\n\nJudge Hellerstein also ordered the government not to transfer Petitioners including the members of the Certified\u00a0Class from the Southern District of New York.\n\nIn the same hearing, Judge Hellerstein denied the government's April 21 motion to decertify the class, noting:\n\nHere, it is not known how many people in the jurisdiction of this Court may become subject to an order of removal. The issues resolved in this case may have to be resolved over and again as the government removal policy continues. Judicial efficiency, and considerations of due process for individuals yet to be ordered to be removed, support a class action. Moreover, . . . many of the Class members cannot speak English, do not have easy access to counsel, and share common questions.\n\nOn July 9, the government appealed the class certification and preliminary injunction to the U.S. Court of Appeals for the Second Circuit (Case No. 25-1671).\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      5132,
+      5153
+    ],
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5132,
+            5153
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case remains ongoing.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

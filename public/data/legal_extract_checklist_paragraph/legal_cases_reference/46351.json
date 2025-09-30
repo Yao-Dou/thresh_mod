@@ -1,0 +1,1420 @@
+[
+  {
+    "id": "46351_p0",
+    "metadata": {
+      "case_id": "46351",
+      "paragraph_num": 0,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case raises urgent questions about the scope of presidential authority over trade and the const..."
+    },
+    "source": "",
+    "target": "This case raises urgent questions about the scope of presidential authority over trade and the constitutional rights of Indigenous communities living along the U.S.\u2013Canada border. On April 4, 2025, two members of the Blackfeet Nation\u2014Montana State Senator Susan Webber and rancher Jonathan St. Goddard\u2014filed suit in the United States District Court for the District of Montana against the United States, the U.S. Department of Homeland Security (DHS), and DHS Secretary Kristi Noem, in her official capacity. Represented by private counsel, plaintiffs challenged a series of executive actions issued by President Donald Trump that imposed tariffs on goods entering from Canada. The plaintiffs argue that the tariffs unlawfully burden commerce and travel essential to Blackfeet citizens and violate longstanding treaty protections and constitutional guarantees.\n\nThe challenged actions include multiple executive orders and proclamations\u2014collectively referred to as the \u201cCanada Orders.\u201d These include: (1) Executive Order 14193 (Feb. 1, 2025), which declared a national emergency and imposed tariffs under the International Emergency Economic Powers Act (IEEPA); (2) Proclamations 10895 and 10896, which levied 25% tariffs on aluminum and steel under Section 232 of the Trade Expansion Act; and (3) Executive Order 14257 (Apr. 2, 2025), which introduced reciprocal tariffs to counter perceived trade imbalances. Plaintiffs claim these measures, which apply universally without exemptions for Indigenous trade, violate constitutional principles and federal treaties.\n\nThe plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory authority to impose tariffs of this scale and scope. Specifically, they contend that IEEPA does not authorize universal tariffs unrelated to a clear foreign threat and that the Trade Expansion Act's delegation of power under Section 232 cannot justify these broad economic measures. Second, they allege that the executive actions violate the separation of powers by encroaching on Congress\u2019s exclusive authority over foreign commerce under Article I, Section 8 of the Constitution.\n\nIn addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. They argue that the tariffs impose arbitrary and sweeping economic burdens without procedural safeguards or individualized assessment. The complaint also references historical protections under the Jay Treaty of 1794, the Treaty of Ghent (1814), and early federal tariff acts that explicitly exempted Indigenous trade from duties. The plaintiffs maintain that these protections remain valid, self-executing treaty rights that predate and override later conflicting executive actions.\n\nTo support their claims, the plaintiffs filed declarations and affidavits documenting the concrete harms caused by the tariffs. These include rising business costs, lost tourism income, and disrupted family and trade relations across the northern border. In particular, Senator Webber emphasized the disproportionate impact on the Blackfeet Nation, whose homelands, commerce, and kinship networks span both sides of the U.S.\u2013Canada border.\n\nPlaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare key portions of the Canada Orders unconstitutional, enjoin their enforcement, and, alternatively, exempt tribally enrolled members or tribal border crossings from the tariffs. They also sought attorneys\u2019 fees and any other relief deemed just and proper.\n\nThis case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs filed a motion for a preliminary and permanent injunction. On April 11, they filed an amended complaint adding four additional plaintiffs: Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas. On April 14, the government moved to transfer the case to the U.S. Court of International Trade and requested a stay of proceedings pending that decision. Plaintiffs opposed both motions, arguing that their constitutional and treaty-based claims require resolution in a federal district court with jurisdiction over constitutional and equitable claims.\n\nOn April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff.\n\nOn April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court of International Trade and denied their motion to stay as moot. Plaintiffs immediately appealed the transfer order to the U.S. Court of Appeals for the Ninth Circuit and filed a motion in the district court for a preliminary injunction pending appeal. On April 28, plaintiffs moved for reconsideration of the transfer order. That same day, the district court denied their request for a preliminary injunction pending appeal.\n\nIn the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. Defendant-appellees filed a motion to dismiss that same day. On May 23, the court denied the motion to dismiss without prejudice and ordered that all appellate proceedings, except for mediation, be stayed pending the district court's ruling on the timely tolling motion filed on April 28, 2025.\n\nOn June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plaintiffs filed a motion to expedite in the Court of Appeals, arguing that the stay previously entered was moot in light of the district court's ruling. They requested that the Court of Appeals set an expedited briefing schedule on the merits of their appeal and grant their fully briefed motion for a preliminary injunction. The motion for an expedited briefing schedule was granted on June 18.\n\nThis case is ongoing.",
+    "target_paragraph": "This case raises urgent questions about the scope of presidential authority over trade and the constitutional rights of Indigenous communities living along the U.S.\u2013Canada border. On April 4, 2025, two members of the Blackfeet Nation\u2014Montana State Senator Susan Webber and rancher Jonathan St. Goddard\u2014filed suit in the United States District Court for the District of Montana against the United States, the U.S. Department of Homeland Security (DHS), and DHS Secretary Kristi Noem, in her official capacity. Represented by private counsel, plaintiffs challenged a series of executive actions issued by President Donald Trump that imposed tariffs on goods entering from Canada. The plaintiffs argue that the tariffs unlawfully burden commerce and travel essential to Blackfeet citizens and violate longstanding treaty protections and constitutional guarantees.",
+    "target_paragraph_indices": [
+      0,
+      860
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            180,
+            508
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 4, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            509,
+            677
+          ]
+        ],
+        "annotation": {
+          "explanation": "private counsel",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            180,
+            376
+          ],
+          [
+            3684,
+            3827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as two members of the Blackfeet Nation (Montana State Senator Susan Webber and rancher Jonathan St. Goddard), later joined by Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas.",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            6
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            180,
+            508
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Montana State Senator Susan Webber, member of the Blackfeet Nation",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            180,
+            508
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Rancher Jonathan St. Goddard, member of the Blackfeet Nation",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            180,
+            508
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: United States",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            180,
+            508
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Homeland Security (DHS)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            180,
+            508
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: DHS Secretary Kristi Noem, in her official capacity",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            180,
+            508
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing and parties: On April 4, 2025, Blackfeet Nation members Susan Webber and Jonathan St. Goddard sued the United States, DHS, and DHS Secretary Kristi Noem in the District of Montana.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            509,
+            677
+          ]
+        ],
+        "annotation": {
+          "explanation": "Nature of dispute: Plaintiffs challenge President Donald Trump\u2019s executive actions imposing tariffs on goods entering from Canada.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            678,
+            860
+          ]
+        ],
+        "annotation": {
+          "explanation": "Impact on Indigenous communities: Plaintiffs assert the tariffs burden essential commerce and travel for Blackfeet citizens and contravene longstanding treaty and constitutional protections.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            179
+          ]
+        ],
+        "annotation": {
+          "explanation": "Context: The case centers on presidential trade authority and constitutional rights of Indigenous communities along the U.S.\u2013Canada border.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": "46351_p1",
+    "metadata": {
+      "case_id": "46351",
+      "paragraph_num": 1,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The challenged actions include multiple executive orders and proclamations\u2014collectively referred to ..."
+    },
+    "source": "",
+    "target": "This case raises urgent questions about the scope of presidential authority over trade and the constitutional rights of Indigenous communities living along the U.S.\u2013Canada border. On April 4, 2025, two members of the Blackfeet Nation\u2014Montana State Senator Susan Webber and rancher Jonathan St. Goddard\u2014filed suit in the United States District Court for the District of Montana against the United States, the U.S. Department of Homeland Security (DHS), and DHS Secretary Kristi Noem, in her official capacity. Represented by private counsel, plaintiffs challenged a series of executive actions issued by President Donald Trump that imposed tariffs on goods entering from Canada. The plaintiffs argue that the tariffs unlawfully burden commerce and travel essential to Blackfeet citizens and violate longstanding treaty protections and constitutional guarantees.\n\nThe challenged actions include multiple executive orders and proclamations\u2014collectively referred to as the \u201cCanada Orders.\u201d These include: (1) Executive Order 14193 (Feb. 1, 2025), which declared a national emergency and imposed tariffs under the International Emergency Economic Powers Act (IEEPA); (2) Proclamations 10895 and 10896, which levied 25% tariffs on aluminum and steel under Section 232 of the Trade Expansion Act; and (3) Executive Order 14257 (Apr. 2, 2025), which introduced reciprocal tariffs to counter perceived trade imbalances. Plaintiffs claim these measures, which apply universally without exemptions for Indigenous trade, violate constitutional principles and federal treaties.\n\nThe plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory authority to impose tariffs of this scale and scope. Specifically, they contend that IEEPA does not authorize universal tariffs unrelated to a clear foreign threat and that the Trade Expansion Act's delegation of power under Section 232 cannot justify these broad economic measures. Second, they allege that the executive actions violate the separation of powers by encroaching on Congress\u2019s exclusive authority over foreign commerce under Article I, Section 8 of the Constitution.\n\nIn addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. They argue that the tariffs impose arbitrary and sweeping economic burdens without procedural safeguards or individualized assessment. The complaint also references historical protections under the Jay Treaty of 1794, the Treaty of Ghent (1814), and early federal tariff acts that explicitly exempted Indigenous trade from duties. The plaintiffs maintain that these protections remain valid, self-executing treaty rights that predate and override later conflicting executive actions.\n\nTo support their claims, the plaintiffs filed declarations and affidavits documenting the concrete harms caused by the tariffs. These include rising business costs, lost tourism income, and disrupted family and trade relations across the northern border. In particular, Senator Webber emphasized the disproportionate impact on the Blackfeet Nation, whose homelands, commerce, and kinship networks span both sides of the U.S.\u2013Canada border.\n\nPlaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare key portions of the Canada Orders unconstitutional, enjoin their enforcement, and, alternatively, exempt tribally enrolled members or tribal border crossings from the tariffs. They also sought attorneys\u2019 fees and any other relief deemed just and proper.\n\nThis case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs filed a motion for a preliminary and permanent injunction. On April 11, they filed an amended complaint adding four additional plaintiffs: Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas. On April 14, the government moved to transfer the case to the U.S. Court of International Trade and requested a stay of proceedings pending that decision. Plaintiffs opposed both motions, arguing that their constitutional and treaty-based claims require resolution in a federal district court with jurisdiction over constitutional and equitable claims.\n\nOn April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff.\n\nOn April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court of International Trade and denied their motion to stay as moot. Plaintiffs immediately appealed the transfer order to the U.S. Court of Appeals for the Ninth Circuit and filed a motion in the district court for a preliminary injunction pending appeal. On April 28, plaintiffs moved for reconsideration of the transfer order. That same day, the district court denied their request for a preliminary injunction pending appeal.\n\nIn the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. Defendant-appellees filed a motion to dismiss that same day. On May 23, the court denied the motion to dismiss without prejudice and ordered that all appellate proceedings, except for mediation, be stayed pending the district court's ruling on the timely tolling motion filed on April 28, 2025.\n\nOn June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plaintiffs filed a motion to expedite in the Court of Appeals, arguing that the stay previously entered was moot in light of the district court's ruling. They requested that the Court of Appeals set an expedited briefing schedule on the merits of their appeal and grant their fully briefed motion for a preliminary injunction. The motion for an expedited briefing schedule was granted on June 18.\n\nThis case is ongoing.",
+    "target_paragraph": "The challenged actions include multiple executive orders and proclamations\u2014collectively referred to as the \u201cCanada Orders.\u201d These include: (1) Executive Order 14193 (Feb. 1, 2025), which declared a national emergency and imposed tariffs under the International Emergency Economic Powers Act (IEEPA); (2) Proclamations 10895 and 10896, which levied 25% tariffs on aluminum and steel under Section 232 of the Trade Expansion Act; and (3) Executive Order 14257 (Apr. 2, 2025), which introduced reciprocal tariffs to counter perceived trade imbalances. Plaintiffs claim these measures, which apply universally without exemptions for Indigenous trade, violate constitutional principles and federal treaties.",
+    "target_paragraph_indices": [
+      862,
+      1564
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1166,
+            1289
+          ],
+          [
+            1840,
+            1949
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory ultra vires claim: President exceeded delegated authority under Section 232 of the Trade Expansion Act.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1005,
+            1161
+          ],
+          [
+            1720,
+            1830
+          ]
+        ],
+        "annotation": {
+          "explanation": "International Emergency Economic Powers Act (IEEPA) \u2014 plaintiffs argue the President lacked statutory authority under IEEPA to impose universal tariffs.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1166,
+            1289
+          ],
+          [
+            1840,
+            1949
+          ]
+        ],
+        "annotation": {
+          "explanation": "Section 232 of the Trade Expansion Act \u2014 plaintiffs argue Section 232 does not justify these broad tariff measures.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1005,
+            1161
+          ]
+        ],
+        "annotation": {
+          "explanation": "Feb. 1, 2025: Executive Order 14193.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1298,
+            1410
+          ]
+        ],
+        "annotation": {
+          "explanation": "Apr. 2, 2025: Executive Order 14257.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            862,
+            985
+          ],
+          [
+            1001,
+            1161
+          ],
+          [
+            1162,
+            1289
+          ],
+          [
+            1294,
+            1410
+          ],
+          [
+            1411,
+            1564
+          ]
+        ],
+        "annotation": {
+          "explanation": "Challenged actions (Canada Orders): EO 14193 (Feb. 1, 2025) invoking IEEPA with tariffs; Proclamations 10895 and 10896 imposing 25% tariffs on aluminum and steel under Section 232; EO 14257 (Apr. 2, 2025) introducing reciprocal tariffs; all applied without Indigenous exemptions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46351_p2",
+    "metadata": {
+      "case_id": "46351",
+      "paragraph_num": 2,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory..."
+    },
+    "source": "",
+    "target": "This case raises urgent questions about the scope of presidential authority over trade and the constitutional rights of Indigenous communities living along the U.S.\u2013Canada border. On April 4, 2025, two members of the Blackfeet Nation\u2014Montana State Senator Susan Webber and rancher Jonathan St. Goddard\u2014filed suit in the United States District Court for the District of Montana against the United States, the U.S. Department of Homeland Security (DHS), and DHS Secretary Kristi Noem, in her official capacity. Represented by private counsel, plaintiffs challenged a series of executive actions issued by President Donald Trump that imposed tariffs on goods entering from Canada. The plaintiffs argue that the tariffs unlawfully burden commerce and travel essential to Blackfeet citizens and violate longstanding treaty protections and constitutional guarantees.\n\nThe challenged actions include multiple executive orders and proclamations\u2014collectively referred to as the \u201cCanada Orders.\u201d These include: (1) Executive Order 14193 (Feb. 1, 2025), which declared a national emergency and imposed tariffs under the International Emergency Economic Powers Act (IEEPA); (2) Proclamations 10895 and 10896, which levied 25% tariffs on aluminum and steel under Section 232 of the Trade Expansion Act; and (3) Executive Order 14257 (Apr. 2, 2025), which introduced reciprocal tariffs to counter perceived trade imbalances. Plaintiffs claim these measures, which apply universally without exemptions for Indigenous trade, violate constitutional principles and federal treaties.\n\nThe plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory authority to impose tariffs of this scale and scope. Specifically, they contend that IEEPA does not authorize universal tariffs unrelated to a clear foreign threat and that the Trade Expansion Act's delegation of power under Section 232 cannot justify these broad economic measures. Second, they allege that the executive actions violate the separation of powers by encroaching on Congress\u2019s exclusive authority over foreign commerce under Article I, Section 8 of the Constitution.\n\nIn addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. They argue that the tariffs impose arbitrary and sweeping economic burdens without procedural safeguards or individualized assessment. The complaint also references historical protections under the Jay Treaty of 1794, the Treaty of Ghent (1814), and early federal tariff acts that explicitly exempted Indigenous trade from duties. The plaintiffs maintain that these protections remain valid, self-executing treaty rights that predate and override later conflicting executive actions.\n\nTo support their claims, the plaintiffs filed declarations and affidavits documenting the concrete harms caused by the tariffs. These include rising business costs, lost tourism income, and disrupted family and trade relations across the northern border. In particular, Senator Webber emphasized the disproportionate impact on the Blackfeet Nation, whose homelands, commerce, and kinship networks span both sides of the U.S.\u2013Canada border.\n\nPlaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare key portions of the Canada Orders unconstitutional, enjoin their enforcement, and, alternatively, exempt tribally enrolled members or tribal border crossings from the tariffs. They also sought attorneys\u2019 fees and any other relief deemed just and proper.\n\nThis case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs filed a motion for a preliminary and permanent injunction. On April 11, they filed an amended complaint adding four additional plaintiffs: Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas. On April 14, the government moved to transfer the case to the U.S. Court of International Trade and requested a stay of proceedings pending that decision. Plaintiffs opposed both motions, arguing that their constitutional and treaty-based claims require resolution in a federal district court with jurisdiction over constitutional and equitable claims.\n\nOn April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff.\n\nOn April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court of International Trade and denied their motion to stay as moot. Plaintiffs immediately appealed the transfer order to the U.S. Court of Appeals for the Ninth Circuit and filed a motion in the district court for a preliminary injunction pending appeal. On April 28, plaintiffs moved for reconsideration of the transfer order. That same day, the district court denied their request for a preliminary injunction pending appeal.\n\nIn the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. Defendant-appellees filed a motion to dismiss that same day. On May 23, the court denied the motion to dismiss without prejudice and ordered that all appellate proceedings, except for mediation, be stayed pending the district court's ruling on the timely tolling motion filed on April 28, 2025.\n\nOn June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plaintiffs filed a motion to expedite in the Court of Appeals, arguing that the stay previously entered was moot in light of the district court's ruling. They requested that the Court of Appeals set an expedited briefing schedule on the merits of their appeal and grant their fully briefed motion for a preliminary injunction. The motion for an expedited briefing schedule was granted on June 18.\n\nThis case is ongoing.",
+    "target_paragraph": "The plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory authority to impose tariffs of this scale and scope. Specifically, they contend that IEEPA does not authorize universal tariffs unrelated to a clear foreign threat and that the Trade Expansion Act's delegation of power under Section 232 cannot justify these broad economic measures. Second, they allege that the executive actions violate the separation of powers by encroaching on Congress\u2019s exclusive authority over foreign commerce under Article I, Section 8 of the Constitution.",
+    "target_paragraph_indices": [
+      1566,
+      2148
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1720,
+            1830
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory ultra vires claim: President exceeded authority under the International Emergency Economic Powers Act (IEEPA).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1958,
+            2148
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim: Separation of powers/Foreign Commerce Clause (Article I, Section 8) violation.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1950,
+            2148
+          ]
+        ],
+        "annotation": {
+          "explanation": "Article I, Section 8 of the Constitution (Congress\u2019s exclusive authority over foreign commerce); separation of powers claim.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1566,
+            1719
+          ],
+          [
+            1720,
+            1949
+          ],
+          [
+            1950,
+            2148
+          ]
+        ],
+        "annotation": {
+          "explanation": "Legal theories (statutory and structural): Plaintiffs argue the President lacked statutory authority under IEEPA and Section 232, and that the actions violate separation of powers by invading Congress\u2019s Article I foreign commerce authority.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46351_p3",
+    "metadata": {
+      "case_id": "46351",
+      "paragraph_num": 3,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. T..."
+    },
+    "source": "",
+    "target": "This case raises urgent questions about the scope of presidential authority over trade and the constitutional rights of Indigenous communities living along the U.S.\u2013Canada border. On April 4, 2025, two members of the Blackfeet Nation\u2014Montana State Senator Susan Webber and rancher Jonathan St. Goddard\u2014filed suit in the United States District Court for the District of Montana against the United States, the U.S. Department of Homeland Security (DHS), and DHS Secretary Kristi Noem, in her official capacity. Represented by private counsel, plaintiffs challenged a series of executive actions issued by President Donald Trump that imposed tariffs on goods entering from Canada. The plaintiffs argue that the tariffs unlawfully burden commerce and travel essential to Blackfeet citizens and violate longstanding treaty protections and constitutional guarantees.\n\nThe challenged actions include multiple executive orders and proclamations\u2014collectively referred to as the \u201cCanada Orders.\u201d These include: (1) Executive Order 14193 (Feb. 1, 2025), which declared a national emergency and imposed tariffs under the International Emergency Economic Powers Act (IEEPA); (2) Proclamations 10895 and 10896, which levied 25% tariffs on aluminum and steel under Section 232 of the Trade Expansion Act; and (3) Executive Order 14257 (Apr. 2, 2025), which introduced reciprocal tariffs to counter perceived trade imbalances. Plaintiffs claim these measures, which apply universally without exemptions for Indigenous trade, violate constitutional principles and federal treaties.\n\nThe plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory authority to impose tariffs of this scale and scope. Specifically, they contend that IEEPA does not authorize universal tariffs unrelated to a clear foreign threat and that the Trade Expansion Act's delegation of power under Section 232 cannot justify these broad economic measures. Second, they allege that the executive actions violate the separation of powers by encroaching on Congress\u2019s exclusive authority over foreign commerce under Article I, Section 8 of the Constitution.\n\nIn addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. They argue that the tariffs impose arbitrary and sweeping economic burdens without procedural safeguards or individualized assessment. The complaint also references historical protections under the Jay Treaty of 1794, the Treaty of Ghent (1814), and early federal tariff acts that explicitly exempted Indigenous trade from duties. The plaintiffs maintain that these protections remain valid, self-executing treaty rights that predate and override later conflicting executive actions.\n\nTo support their claims, the plaintiffs filed declarations and affidavits documenting the concrete harms caused by the tariffs. These include rising business costs, lost tourism income, and disrupted family and trade relations across the northern border. In particular, Senator Webber emphasized the disproportionate impact on the Blackfeet Nation, whose homelands, commerce, and kinship networks span both sides of the U.S.\u2013Canada border.\n\nPlaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare key portions of the Canada Orders unconstitutional, enjoin their enforcement, and, alternatively, exempt tribally enrolled members or tribal border crossings from the tariffs. They also sought attorneys\u2019 fees and any other relief deemed just and proper.\n\nThis case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs filed a motion for a preliminary and permanent injunction. On April 11, they filed an amended complaint adding four additional plaintiffs: Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas. On April 14, the government moved to transfer the case to the U.S. Court of International Trade and requested a stay of proceedings pending that decision. Plaintiffs opposed both motions, arguing that their constitutional and treaty-based claims require resolution in a federal district court with jurisdiction over constitutional and equitable claims.\n\nOn April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff.\n\nOn April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court of International Trade and denied their motion to stay as moot. Plaintiffs immediately appealed the transfer order to the U.S. Court of Appeals for the Ninth Circuit and filed a motion in the district court for a preliminary injunction pending appeal. On April 28, plaintiffs moved for reconsideration of the transfer order. That same day, the district court denied their request for a preliminary injunction pending appeal.\n\nIn the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. Defendant-appellees filed a motion to dismiss that same day. On May 23, the court denied the motion to dismiss without prejudice and ordered that all appellate proceedings, except for mediation, be stayed pending the district court's ruling on the timely tolling motion filed on April 28, 2025.\n\nOn June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plaintiffs filed a motion to expedite in the Court of Appeals, arguing that the stay previously entered was moot in light of the district court's ruling. They requested that the Court of Appeals set an expedited briefing schedule on the merits of their appeal and grant their fully briefed motion for a preliminary injunction. The motion for an expedited briefing schedule was granted on June 18.\n\nThis case is ongoing.",
+    "target_paragraph": "In addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. They argue that the tariffs impose arbitrary and sweeping economic burdens without procedural safeguards or individualized assessment. The complaint also references historical protections under the Jay Treaty of 1794, the Treaty of Ghent (1814), and early federal tariff acts that explicitly exempted Indigenous trade from duties. The plaintiffs maintain that these protections remain valid, self-executing treaty rights that predate and override later conflicting executive actions.",
+    "target_paragraph_indices": [
+      2150,
+      2732
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2191,
+            2383
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim: Due Process Clause violation.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2384,
+            2579
+          ],
+          [
+            2580,
+            2732
+          ]
+        ],
+        "annotation": {
+          "explanation": "Treaty-based cause of action: enforcement of self-executing rights under the Jay Treaty of 1794 and the Treaty of Ghent (1814) to exempt Indigenous trade/travel from tariffs.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2150,
+            2248
+          ]
+        ],
+        "annotation": {
+          "explanation": "Due Process Clause.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2150,
+            2248
+          ],
+          [
+            2249,
+            2383
+          ]
+        ],
+        "annotation": {
+          "explanation": "Due Process claims: Plaintiffs allege the tariffs are arbitrary and impose broad economic burdens without procedural safeguards or individualized assessment.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2384,
+            2579
+          ],
+          [
+            2580,
+            2732
+          ]
+        ],
+        "annotation": {
+          "explanation": "Treaty and historical protections: Plaintiffs invoke the Jay Treaty (1794), Treaty of Ghent (1814), and early tariff acts exempting Indigenous trade, asserting these self-executing rights override conflicting later executive actions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46351_p4",
+    "metadata": {
+      "case_id": "46351",
+      "paragraph_num": 4,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "To support their claims, the plaintiffs filed declarations and affidavits documenting the concrete h..."
+    },
+    "source": "",
+    "target": "This case raises urgent questions about the scope of presidential authority over trade and the constitutional rights of Indigenous communities living along the U.S.\u2013Canada border. On April 4, 2025, two members of the Blackfeet Nation\u2014Montana State Senator Susan Webber and rancher Jonathan St. Goddard\u2014filed suit in the United States District Court for the District of Montana against the United States, the U.S. Department of Homeland Security (DHS), and DHS Secretary Kristi Noem, in her official capacity. Represented by private counsel, plaintiffs challenged a series of executive actions issued by President Donald Trump that imposed tariffs on goods entering from Canada. The plaintiffs argue that the tariffs unlawfully burden commerce and travel essential to Blackfeet citizens and violate longstanding treaty protections and constitutional guarantees.\n\nThe challenged actions include multiple executive orders and proclamations\u2014collectively referred to as the \u201cCanada Orders.\u201d These include: (1) Executive Order 14193 (Feb. 1, 2025), which declared a national emergency and imposed tariffs under the International Emergency Economic Powers Act (IEEPA); (2) Proclamations 10895 and 10896, which levied 25% tariffs on aluminum and steel under Section 232 of the Trade Expansion Act; and (3) Executive Order 14257 (Apr. 2, 2025), which introduced reciprocal tariffs to counter perceived trade imbalances. Plaintiffs claim these measures, which apply universally without exemptions for Indigenous trade, violate constitutional principles and federal treaties.\n\nThe plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory authority to impose tariffs of this scale and scope. Specifically, they contend that IEEPA does not authorize universal tariffs unrelated to a clear foreign threat and that the Trade Expansion Act's delegation of power under Section 232 cannot justify these broad economic measures. Second, they allege that the executive actions violate the separation of powers by encroaching on Congress\u2019s exclusive authority over foreign commerce under Article I, Section 8 of the Constitution.\n\nIn addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. They argue that the tariffs impose arbitrary and sweeping economic burdens without procedural safeguards or individualized assessment. The complaint also references historical protections under the Jay Treaty of 1794, the Treaty of Ghent (1814), and early federal tariff acts that explicitly exempted Indigenous trade from duties. The plaintiffs maintain that these protections remain valid, self-executing treaty rights that predate and override later conflicting executive actions.\n\nTo support their claims, the plaintiffs filed declarations and affidavits documenting the concrete harms caused by the tariffs. These include rising business costs, lost tourism income, and disrupted family and trade relations across the northern border. In particular, Senator Webber emphasized the disproportionate impact on the Blackfeet Nation, whose homelands, commerce, and kinship networks span both sides of the U.S.\u2013Canada border.\n\nPlaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare key portions of the Canada Orders unconstitutional, enjoin their enforcement, and, alternatively, exempt tribally enrolled members or tribal border crossings from the tariffs. They also sought attorneys\u2019 fees and any other relief deemed just and proper.\n\nThis case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs filed a motion for a preliminary and permanent injunction. On April 11, they filed an amended complaint adding four additional plaintiffs: Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas. On April 14, the government moved to transfer the case to the U.S. Court of International Trade and requested a stay of proceedings pending that decision. Plaintiffs opposed both motions, arguing that their constitutional and treaty-based claims require resolution in a federal district court with jurisdiction over constitutional and equitable claims.\n\nOn April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff.\n\nOn April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court of International Trade and denied their motion to stay as moot. Plaintiffs immediately appealed the transfer order to the U.S. Court of Appeals for the Ninth Circuit and filed a motion in the district court for a preliminary injunction pending appeal. On April 28, plaintiffs moved for reconsideration of the transfer order. That same day, the district court denied their request for a preliminary injunction pending appeal.\n\nIn the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. Defendant-appellees filed a motion to dismiss that same day. On May 23, the court denied the motion to dismiss without prejudice and ordered that all appellate proceedings, except for mediation, be stayed pending the district court's ruling on the timely tolling motion filed on April 28, 2025.\n\nOn June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plaintiffs filed a motion to expedite in the Court of Appeals, arguing that the stay previously entered was moot in light of the district court's ruling. They requested that the Court of Appeals set an expedited briefing schedule on the merits of their appeal and grant their fully briefed motion for a preliminary injunction. The motion for an expedited briefing schedule was granted on June 18.\n\nThis case is ongoing.",
+    "target_paragraph": "To support their claims, the plaintiffs filed declarations and affidavits documenting the concrete harms caused by the tariffs. These include rising business costs, lost tourism income, and disrupted family and trade relations across the northern border. In particular, Senator Webber emphasized the disproportionate impact on the Blackfeet Nation, whose homelands, commerce, and kinship networks span both sides of the U.S.\u2013Canada border.",
+    "target_paragraph_indices": [
+      2734,
+      3173
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2734,
+            2861
+          ],
+          [
+            2862,
+            2988
+          ],
+          [
+            2989,
+            3173
+          ]
+        ],
+        "annotation": {
+          "explanation": "Evidence of harm: Plaintiffs submitted declarations and affidavits showing rising business costs, lost tourism income, and disrupted cross-border family/trade relations, with disproportionate impacts on the Blackfeet Nation whose homelands and networks span the border.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46351_p5",
+    "metadata": {
+      "case_id": "46351",
+      "paragraph_num": 5,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare k..."
+    },
+    "source": "",
+    "target": "This case raises urgent questions about the scope of presidential authority over trade and the constitutional rights of Indigenous communities living along the U.S.\u2013Canada border. On April 4, 2025, two members of the Blackfeet Nation\u2014Montana State Senator Susan Webber and rancher Jonathan St. Goddard\u2014filed suit in the United States District Court for the District of Montana against the United States, the U.S. Department of Homeland Security (DHS), and DHS Secretary Kristi Noem, in her official capacity. Represented by private counsel, plaintiffs challenged a series of executive actions issued by President Donald Trump that imposed tariffs on goods entering from Canada. The plaintiffs argue that the tariffs unlawfully burden commerce and travel essential to Blackfeet citizens and violate longstanding treaty protections and constitutional guarantees.\n\nThe challenged actions include multiple executive orders and proclamations\u2014collectively referred to as the \u201cCanada Orders.\u201d These include: (1) Executive Order 14193 (Feb. 1, 2025), which declared a national emergency and imposed tariffs under the International Emergency Economic Powers Act (IEEPA); (2) Proclamations 10895 and 10896, which levied 25% tariffs on aluminum and steel under Section 232 of the Trade Expansion Act; and (3) Executive Order 14257 (Apr. 2, 2025), which introduced reciprocal tariffs to counter perceived trade imbalances. Plaintiffs claim these measures, which apply universally without exemptions for Indigenous trade, violate constitutional principles and federal treaties.\n\nThe plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory authority to impose tariffs of this scale and scope. Specifically, they contend that IEEPA does not authorize universal tariffs unrelated to a clear foreign threat and that the Trade Expansion Act's delegation of power under Section 232 cannot justify these broad economic measures. Second, they allege that the executive actions violate the separation of powers by encroaching on Congress\u2019s exclusive authority over foreign commerce under Article I, Section 8 of the Constitution.\n\nIn addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. They argue that the tariffs impose arbitrary and sweeping economic burdens without procedural safeguards or individualized assessment. The complaint also references historical protections under the Jay Treaty of 1794, the Treaty of Ghent (1814), and early federal tariff acts that explicitly exempted Indigenous trade from duties. The plaintiffs maintain that these protections remain valid, self-executing treaty rights that predate and override later conflicting executive actions.\n\nTo support their claims, the plaintiffs filed declarations and affidavits documenting the concrete harms caused by the tariffs. These include rising business costs, lost tourism income, and disrupted family and trade relations across the northern border. In particular, Senator Webber emphasized the disproportionate impact on the Blackfeet Nation, whose homelands, commerce, and kinship networks span both sides of the U.S.\u2013Canada border.\n\nPlaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare key portions of the Canada Orders unconstitutional, enjoin their enforcement, and, alternatively, exempt tribally enrolled members or tribal border crossings from the tariffs. They also sought attorneys\u2019 fees and any other relief deemed just and proper.\n\nThis case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs filed a motion for a preliminary and permanent injunction. On April 11, they filed an amended complaint adding four additional plaintiffs: Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas. On April 14, the government moved to transfer the case to the U.S. Court of International Trade and requested a stay of proceedings pending that decision. Plaintiffs opposed both motions, arguing that their constitutional and treaty-based claims require resolution in a federal district court with jurisdiction over constitutional and equitable claims.\n\nOn April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff.\n\nOn April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court of International Trade and denied their motion to stay as moot. Plaintiffs immediately appealed the transfer order to the U.S. Court of Appeals for the Ninth Circuit and filed a motion in the district court for a preliminary injunction pending appeal. On April 28, plaintiffs moved for reconsideration of the transfer order. That same day, the district court denied their request for a preliminary injunction pending appeal.\n\nIn the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. Defendant-appellees filed a motion to dismiss that same day. On May 23, the court denied the motion to dismiss without prejudice and ordered that all appellate proceedings, except for mediation, be stayed pending the district court's ruling on the timely tolling motion filed on April 28, 2025.\n\nOn June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plaintiffs filed a motion to expedite in the Court of Appeals, arguing that the stay previously entered was moot in light of the district court's ruling. They requested that the Court of Appeals set an expedited briefing schedule on the merits of their appeal and grant their fully briefed motion for a preliminary injunction. The motion for an expedited briefing schedule was granted on June 18.\n\nThis case is ongoing.",
+    "target_paragraph": "Plaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare key portions of the Canada Orders unconstitutional, enjoin their enforcement, and, alternatively, exempt tribally enrolled members or tribal border crossings from the tariffs. They also sought attorneys\u2019 fees and any other relief deemed just and proper.",
+    "target_paragraph_indices": [
+      3175,
+      3527
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3175,
+            3227
+          ],
+          [
+            3228,
+            3449
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief declaring key portions of the Canada Orders unconstitutional.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3175,
+            3227
+          ],
+          [
+            3228,
+            3449
+          ],
+          [
+            3596,
+            3683
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief to enjoin enforcement of the Canada Orders, including motions for preliminary and permanent injunctions.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3228,
+            3449
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alternative relief to exempt tribally enrolled members or tribal border crossings from the tariffs.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3450,
+            3527
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys\u2019 fees and any other relief deemed just and proper.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3175,
+            3227
+          ],
+          [
+            3228,
+            3449
+          ],
+          [
+            3450,
+            3527
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: Declaratory judgment that key Canada Orders are unconstitutional, injunction against enforcement, or exemptions for tribally enrolled members/tribal border crossings; plus attorneys\u2019 fees and other appropriate relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46351_p6",
+    "metadata": {
+      "case_id": "46351",
+      "paragraph_num": 6,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs file..."
+    },
+    "source": "",
+    "target": "This case raises urgent questions about the scope of presidential authority over trade and the constitutional rights of Indigenous communities living along the U.S.\u2013Canada border. On April 4, 2025, two members of the Blackfeet Nation\u2014Montana State Senator Susan Webber and rancher Jonathan St. Goddard\u2014filed suit in the United States District Court for the District of Montana against the United States, the U.S. Department of Homeland Security (DHS), and DHS Secretary Kristi Noem, in her official capacity. Represented by private counsel, plaintiffs challenged a series of executive actions issued by President Donald Trump that imposed tariffs on goods entering from Canada. The plaintiffs argue that the tariffs unlawfully burden commerce and travel essential to Blackfeet citizens and violate longstanding treaty protections and constitutional guarantees.\n\nThe challenged actions include multiple executive orders and proclamations\u2014collectively referred to as the \u201cCanada Orders.\u201d These include: (1) Executive Order 14193 (Feb. 1, 2025), which declared a national emergency and imposed tariffs under the International Emergency Economic Powers Act (IEEPA); (2) Proclamations 10895 and 10896, which levied 25% tariffs on aluminum and steel under Section 232 of the Trade Expansion Act; and (3) Executive Order 14257 (Apr. 2, 2025), which introduced reciprocal tariffs to counter perceived trade imbalances. Plaintiffs claim these measures, which apply universally without exemptions for Indigenous trade, violate constitutional principles and federal treaties.\n\nThe plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory authority to impose tariffs of this scale and scope. Specifically, they contend that IEEPA does not authorize universal tariffs unrelated to a clear foreign threat and that the Trade Expansion Act's delegation of power under Section 232 cannot justify these broad economic measures. Second, they allege that the executive actions violate the separation of powers by encroaching on Congress\u2019s exclusive authority over foreign commerce under Article I, Section 8 of the Constitution.\n\nIn addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. They argue that the tariffs impose arbitrary and sweeping economic burdens without procedural safeguards or individualized assessment. The complaint also references historical protections under the Jay Treaty of 1794, the Treaty of Ghent (1814), and early federal tariff acts that explicitly exempted Indigenous trade from duties. The plaintiffs maintain that these protections remain valid, self-executing treaty rights that predate and override later conflicting executive actions.\n\nTo support their claims, the plaintiffs filed declarations and affidavits documenting the concrete harms caused by the tariffs. These include rising business costs, lost tourism income, and disrupted family and trade relations across the northern border. In particular, Senator Webber emphasized the disproportionate impact on the Blackfeet Nation, whose homelands, commerce, and kinship networks span both sides of the U.S.\u2013Canada border.\n\nPlaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare key portions of the Canada Orders unconstitutional, enjoin their enforcement, and, alternatively, exempt tribally enrolled members or tribal border crossings from the tariffs. They also sought attorneys\u2019 fees and any other relief deemed just and proper.\n\nThis case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs filed a motion for a preliminary and permanent injunction. On April 11, they filed an amended complaint adding four additional plaintiffs: Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas. On April 14, the government moved to transfer the case to the U.S. Court of International Trade and requested a stay of proceedings pending that decision. Plaintiffs opposed both motions, arguing that their constitutional and treaty-based claims require resolution in a federal district court with jurisdiction over constitutional and equitable claims.\n\nOn April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff.\n\nOn April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court of International Trade and denied their motion to stay as moot. Plaintiffs immediately appealed the transfer order to the U.S. Court of Appeals for the Ninth Circuit and filed a motion in the district court for a preliminary injunction pending appeal. On April 28, plaintiffs moved for reconsideration of the transfer order. That same day, the district court denied their request for a preliminary injunction pending appeal.\n\nIn the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. Defendant-appellees filed a motion to dismiss that same day. On May 23, the court denied the motion to dismiss without prejudice and ordered that all appellate proceedings, except for mediation, be stayed pending the district court's ruling on the timely tolling motion filed on April 28, 2025.\n\nOn June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plaintiffs filed a motion to expedite in the Court of Appeals, arguing that the stay previously entered was moot in light of the district court's ruling. They requested that the Court of Appeals set an expedited briefing schedule on the merits of their appeal and grant their fully briefed motion for a preliminary injunction. The motion for an expedited briefing schedule was granted on June 18.\n\nThis case is ongoing.",
+    "target_paragraph": "This case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs filed a motion for a preliminary and permanent injunction. On April 11, they filed an amended complaint adding four additional plaintiffs: Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas. On April 14, the government moved to transfer the case to the U.S. Court of International Trade and requested a stay of proceedings pending that decision. Plaintiffs opposed both motions, arguing that their constitutional and treaty-based claims require resolution in a federal district court with jurisdiction over constitutional and equitable claims.",
+    "target_paragraph_indices": [
+      3529,
+      4180
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            3529,
+            3595
+          ]
+        ],
+        "annotation": {
+          "explanation": "Dana L. Christensen",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            3684,
+            3827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Ryan Biederman (added by amended complaint)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            3684,
+            3827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Andrea Bocanegra (added by amended complaint)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            3684,
+            3827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: David Greer (added by amended complaint)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            3684,
+            3827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Lisa Ruelas (added by amended complaint)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3529,
+            3595
+          ],
+          [
+            3596,
+            3683
+          ],
+          [
+            3684,
+            3827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Initial procedural background: Case assigned to Judge Dana L. Christensen; plaintiffs moved for preliminary and permanent injunction on April 4, 2025; amended complaint on April 11 added plaintiffs Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3828,
+            3982
+          ],
+          [
+            3983,
+            4180
+          ]
+        ],
+        "annotation": {
+          "explanation": "Transfer motion and opposition: Government sought transfer to the U.S. Court of International Trade and a stay; plaintiffs opposed, asserting district court jurisdiction over constitutional and treaty-based claims.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3596,
+            3683
+          ]
+        ],
+        "annotation": {
+          "explanation": "Apr 4, 2025 \u2014 Plaintiffs filed a motion for a preliminary and permanent injunction (U.S. District Court for the District of Montana).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3684,
+            3827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Apr 11, 2025 \u2014 Plaintiffs filed an amended complaint adding four additional plaintiffs (D. Mont.).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3828,
+            3923
+          ],
+          [
+            4285,
+            4406
+          ]
+        ],
+        "annotation": {
+          "explanation": "Apr 14, 2025 \u2014 Defendants moved to transfer to the U.S. Court of International Trade; Apr 25, 2025 \u2014 motion to transfer granted (D. Mont.).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            6,
+            8
+          ]
+        },
+        "id": 9
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3828,
+            3982
+          ],
+          [
+            4285,
+            4447
+          ]
+        ],
+        "annotation": {
+          "explanation": "Apr 14, 2025 \u2014 Defendants requested a stay of district court proceedings pending transfer; Apr 25, 2025 \u2014 motion to stay denied as moot (D. Mont.).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            6,
+            8
+          ]
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "46351_p7",
+    "metadata": {
+      "case_id": "46351",
+      "paragraph_num": 7,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff..."
+    },
+    "source": "",
+    "target": "This case raises urgent questions about the scope of presidential authority over trade and the constitutional rights of Indigenous communities living along the U.S.\u2013Canada border. On April 4, 2025, two members of the Blackfeet Nation\u2014Montana State Senator Susan Webber and rancher Jonathan St. Goddard\u2014filed suit in the United States District Court for the District of Montana against the United States, the U.S. Department of Homeland Security (DHS), and DHS Secretary Kristi Noem, in her official capacity. Represented by private counsel, plaintiffs challenged a series of executive actions issued by President Donald Trump that imposed tariffs on goods entering from Canada. The plaintiffs argue that the tariffs unlawfully burden commerce and travel essential to Blackfeet citizens and violate longstanding treaty protections and constitutional guarantees.\n\nThe challenged actions include multiple executive orders and proclamations\u2014collectively referred to as the \u201cCanada Orders.\u201d These include: (1) Executive Order 14193 (Feb. 1, 2025), which declared a national emergency and imposed tariffs under the International Emergency Economic Powers Act (IEEPA); (2) Proclamations 10895 and 10896, which levied 25% tariffs on aluminum and steel under Section 232 of the Trade Expansion Act; and (3) Executive Order 14257 (Apr. 2, 2025), which introduced reciprocal tariffs to counter perceived trade imbalances. Plaintiffs claim these measures, which apply universally without exemptions for Indigenous trade, violate constitutional principles and federal treaties.\n\nThe plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory authority to impose tariffs of this scale and scope. Specifically, they contend that IEEPA does not authorize universal tariffs unrelated to a clear foreign threat and that the Trade Expansion Act's delegation of power under Section 232 cannot justify these broad economic measures. Second, they allege that the executive actions violate the separation of powers by encroaching on Congress\u2019s exclusive authority over foreign commerce under Article I, Section 8 of the Constitution.\n\nIn addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. They argue that the tariffs impose arbitrary and sweeping economic burdens without procedural safeguards or individualized assessment. The complaint also references historical protections under the Jay Treaty of 1794, the Treaty of Ghent (1814), and early federal tariff acts that explicitly exempted Indigenous trade from duties. The plaintiffs maintain that these protections remain valid, self-executing treaty rights that predate and override later conflicting executive actions.\n\nTo support their claims, the plaintiffs filed declarations and affidavits documenting the concrete harms caused by the tariffs. These include rising business costs, lost tourism income, and disrupted family and trade relations across the northern border. In particular, Senator Webber emphasized the disproportionate impact on the Blackfeet Nation, whose homelands, commerce, and kinship networks span both sides of the U.S.\u2013Canada border.\n\nPlaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare key portions of the Canada Orders unconstitutional, enjoin their enforcement, and, alternatively, exempt tribally enrolled members or tribal border crossings from the tariffs. They also sought attorneys\u2019 fees and any other relief deemed just and proper.\n\nThis case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs filed a motion for a preliminary and permanent injunction. On April 11, they filed an amended complaint adding four additional plaintiffs: Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas. On April 14, the government moved to transfer the case to the U.S. Court of International Trade and requested a stay of proceedings pending that decision. Plaintiffs opposed both motions, arguing that their constitutional and treaty-based claims require resolution in a federal district court with jurisdiction over constitutional and equitable claims.\n\nOn April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff.\n\nOn April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court of International Trade and denied their motion to stay as moot. Plaintiffs immediately appealed the transfer order to the U.S. Court of Appeals for the Ninth Circuit and filed a motion in the district court for a preliminary injunction pending appeal. On April 28, plaintiffs moved for reconsideration of the transfer order. That same day, the district court denied their request for a preliminary injunction pending appeal.\n\nIn the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. Defendant-appellees filed a motion to dismiss that same day. On May 23, the court denied the motion to dismiss without prejudice and ordered that all appellate proceedings, except for mediation, be stayed pending the district court's ruling on the timely tolling motion filed on April 28, 2025.\n\nOn June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plaintiffs filed a motion to expedite in the Court of Appeals, arguing that the stay previously entered was moot in light of the district court's ruling. They requested that the Court of Appeals set an expedited briefing schedule on the merits of their appeal and grant their fully briefed motion for a preliminary injunction. The motion for an expedited briefing schedule was granted on June 18.\n\nThis case is ongoing.",
+    "target_paragraph": "On April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff.",
+    "target_paragraph_indices": [
+      4182,
+      4283
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4182,
+            4283
+          ]
+        ],
+        "annotation": {
+          "explanation": "Intervention: The Montana Farmers Union moved to intervene as a party-plaintiff on April 21, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4182,
+            4283
+          ]
+        ],
+        "annotation": {
+          "explanation": "Apr 21, 2025 \u2014 Montana Farmers Union moved to intervene as a party-plaintiff (D. Mont.).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46351_p8",
+    "metadata": {
+      "case_id": "46351",
+      "paragraph_num": 8,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court o..."
+    },
+    "source": "",
+    "target": "This case raises urgent questions about the scope of presidential authority over trade and the constitutional rights of Indigenous communities living along the U.S.\u2013Canada border. On April 4, 2025, two members of the Blackfeet Nation\u2014Montana State Senator Susan Webber and rancher Jonathan St. Goddard\u2014filed suit in the United States District Court for the District of Montana against the United States, the U.S. Department of Homeland Security (DHS), and DHS Secretary Kristi Noem, in her official capacity. Represented by private counsel, plaintiffs challenged a series of executive actions issued by President Donald Trump that imposed tariffs on goods entering from Canada. The plaintiffs argue that the tariffs unlawfully burden commerce and travel essential to Blackfeet citizens and violate longstanding treaty protections and constitutional guarantees.\n\nThe challenged actions include multiple executive orders and proclamations\u2014collectively referred to as the \u201cCanada Orders.\u201d These include: (1) Executive Order 14193 (Feb. 1, 2025), which declared a national emergency and imposed tariffs under the International Emergency Economic Powers Act (IEEPA); (2) Proclamations 10895 and 10896, which levied 25% tariffs on aluminum and steel under Section 232 of the Trade Expansion Act; and (3) Executive Order 14257 (Apr. 2, 2025), which introduced reciprocal tariffs to counter perceived trade imbalances. Plaintiffs claim these measures, which apply universally without exemptions for Indigenous trade, violate constitutional principles and federal treaties.\n\nThe plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory authority to impose tariffs of this scale and scope. Specifically, they contend that IEEPA does not authorize universal tariffs unrelated to a clear foreign threat and that the Trade Expansion Act's delegation of power under Section 232 cannot justify these broad economic measures. Second, they allege that the executive actions violate the separation of powers by encroaching on Congress\u2019s exclusive authority over foreign commerce under Article I, Section 8 of the Constitution.\n\nIn addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. They argue that the tariffs impose arbitrary and sweeping economic burdens without procedural safeguards or individualized assessment. The complaint also references historical protections under the Jay Treaty of 1794, the Treaty of Ghent (1814), and early federal tariff acts that explicitly exempted Indigenous trade from duties. The plaintiffs maintain that these protections remain valid, self-executing treaty rights that predate and override later conflicting executive actions.\n\nTo support their claims, the plaintiffs filed declarations and affidavits documenting the concrete harms caused by the tariffs. These include rising business costs, lost tourism income, and disrupted family and trade relations across the northern border. In particular, Senator Webber emphasized the disproportionate impact on the Blackfeet Nation, whose homelands, commerce, and kinship networks span both sides of the U.S.\u2013Canada border.\n\nPlaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare key portions of the Canada Orders unconstitutional, enjoin their enforcement, and, alternatively, exempt tribally enrolled members or tribal border crossings from the tariffs. They also sought attorneys\u2019 fees and any other relief deemed just and proper.\n\nThis case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs filed a motion for a preliminary and permanent injunction. On April 11, they filed an amended complaint adding four additional plaintiffs: Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas. On April 14, the government moved to transfer the case to the U.S. Court of International Trade and requested a stay of proceedings pending that decision. Plaintiffs opposed both motions, arguing that their constitutional and treaty-based claims require resolution in a federal district court with jurisdiction over constitutional and equitable claims.\n\nOn April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff.\n\nOn April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court of International Trade and denied their motion to stay as moot. Plaintiffs immediately appealed the transfer order to the U.S. Court of Appeals for the Ninth Circuit and filed a motion in the district court for a preliminary injunction pending appeal. On April 28, plaintiffs moved for reconsideration of the transfer order. That same day, the district court denied their request for a preliminary injunction pending appeal.\n\nIn the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. Defendant-appellees filed a motion to dismiss that same day. On May 23, the court denied the motion to dismiss without prejudice and ordered that all appellate proceedings, except for mediation, be stayed pending the district court's ruling on the timely tolling motion filed on April 28, 2025.\n\nOn June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plaintiffs filed a motion to expedite in the Court of Appeals, arguing that the stay previously entered was moot in light of the district court's ruling. They requested that the Court of Appeals set an expedited briefing schedule on the merits of their appeal and grant their fully briefed motion for a preliminary injunction. The motion for an expedited briefing schedule was granted on June 18.\n\nThis case is ongoing.",
+    "target_paragraph": "On April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court of International Trade and denied their motion to stay as moot. Plaintiffs immediately appealed the transfer order to the U.S. Court of Appeals for the Ninth Circuit and filed a motion in the district court for a preliminary injunction pending appeal. On April 28, plaintiffs moved for reconsideration of the transfer order. That same day, the district court denied their request for a preliminary injunction pending appeal.",
+    "target_paragraph_indices": [
+      4285,
+      4808
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            4448,
+            4635
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction pending appeal (district court).",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            4448,
+            4635
+          ],
+          [
+            4810,
+            4908
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: Plaintiffs appealed to the U.S. Court of Appeals for the Ninth Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": [
+            8,
+            9
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4285,
+            4447
+          ],
+          [
+            4448,
+            4635
+          ],
+          [
+            4636,
+            4708
+          ],
+          [
+            4709,
+            4808
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court rulings and immediate appellate actions: On April 25, 2025, the court transferred the case to the Court of International Trade and denied the stay as moot; plaintiffs appealed, sought a preliminary injunction pending appeal, and moved for reconsideration (denied April 28).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4448,
+            4549
+          ]
+        ],
+        "annotation": {
+          "explanation": "Late Apr 2025 \u2014 Plaintiffs filed a notice of appeal of the transfer order to the Ninth Circuit.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4550,
+            4635
+          ],
+          [
+            4709,
+            4808
+          ]
+        ],
+        "annotation": {
+          "explanation": "Late Apr 2025 \u2014 Plaintiffs moved in the district court for a preliminary injunction pending appeal; Apr 28, 2025 \u2014 request denied (D. Mont.).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4636,
+            4708
+          ],
+          [
+            5205,
+            5281
+          ]
+        ],
+        "annotation": {
+          "explanation": "Apr 28, 2025 \u2014 Plaintiffs moved for reconsideration of the transfer order; Jun 2, 2025 \u2014 motion for reconsideration denied (D. Mont.).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            8,
+            10
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4285,
+            4406
+          ]
+        ],
+        "annotation": {
+          "explanation": "D. Mont. (Apr 25, 2025): Granted defendants' motion to transfer to the U.S. Court of International Trade.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4285,
+            4447
+          ]
+        ],
+        "annotation": {
+          "explanation": "D. Mont. (Apr 25, 2025): Denied defendants' motion to stay as moot.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4448,
+            4635
+          ],
+          [
+            4636,
+            4808
+          ]
+        ],
+        "annotation": {
+          "explanation": "D. Mont. (Apr 28, 2025): Denied plaintiffs' motion for a preliminary injunction pending appeal.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46351_p9",
+    "metadata": {
+      "case_id": "46351",
+      "paragraph_num": 9,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. D..."
+    },
+    "source": "",
+    "target": "This case raises urgent questions about the scope of presidential authority over trade and the constitutional rights of Indigenous communities living along the U.S.\u2013Canada border. On April 4, 2025, two members of the Blackfeet Nation\u2014Montana State Senator Susan Webber and rancher Jonathan St. Goddard\u2014filed suit in the United States District Court for the District of Montana against the United States, the U.S. Department of Homeland Security (DHS), and DHS Secretary Kristi Noem, in her official capacity. Represented by private counsel, plaintiffs challenged a series of executive actions issued by President Donald Trump that imposed tariffs on goods entering from Canada. The plaintiffs argue that the tariffs unlawfully burden commerce and travel essential to Blackfeet citizens and violate longstanding treaty protections and constitutional guarantees.\n\nThe challenged actions include multiple executive orders and proclamations\u2014collectively referred to as the \u201cCanada Orders.\u201d These include: (1) Executive Order 14193 (Feb. 1, 2025), which declared a national emergency and imposed tariffs under the International Emergency Economic Powers Act (IEEPA); (2) Proclamations 10895 and 10896, which levied 25% tariffs on aluminum and steel under Section 232 of the Trade Expansion Act; and (3) Executive Order 14257 (Apr. 2, 2025), which introduced reciprocal tariffs to counter perceived trade imbalances. Plaintiffs claim these measures, which apply universally without exemptions for Indigenous trade, violate constitutional principles and federal treaties.\n\nThe plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory authority to impose tariffs of this scale and scope. Specifically, they contend that IEEPA does not authorize universal tariffs unrelated to a clear foreign threat and that the Trade Expansion Act's delegation of power under Section 232 cannot justify these broad economic measures. Second, they allege that the executive actions violate the separation of powers by encroaching on Congress\u2019s exclusive authority over foreign commerce under Article I, Section 8 of the Constitution.\n\nIn addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. They argue that the tariffs impose arbitrary and sweeping economic burdens without procedural safeguards or individualized assessment. The complaint also references historical protections under the Jay Treaty of 1794, the Treaty of Ghent (1814), and early federal tariff acts that explicitly exempted Indigenous trade from duties. The plaintiffs maintain that these protections remain valid, self-executing treaty rights that predate and override later conflicting executive actions.\n\nTo support their claims, the plaintiffs filed declarations and affidavits documenting the concrete harms caused by the tariffs. These include rising business costs, lost tourism income, and disrupted family and trade relations across the northern border. In particular, Senator Webber emphasized the disproportionate impact on the Blackfeet Nation, whose homelands, commerce, and kinship networks span both sides of the U.S.\u2013Canada border.\n\nPlaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare key portions of the Canada Orders unconstitutional, enjoin their enforcement, and, alternatively, exempt tribally enrolled members or tribal border crossings from the tariffs. They also sought attorneys\u2019 fees and any other relief deemed just and proper.\n\nThis case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs filed a motion for a preliminary and permanent injunction. On April 11, they filed an amended complaint adding four additional plaintiffs: Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas. On April 14, the government moved to transfer the case to the U.S. Court of International Trade and requested a stay of proceedings pending that decision. Plaintiffs opposed both motions, arguing that their constitutional and treaty-based claims require resolution in a federal district court with jurisdiction over constitutional and equitable claims.\n\nOn April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff.\n\nOn April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court of International Trade and denied their motion to stay as moot. Plaintiffs immediately appealed the transfer order to the U.S. Court of Appeals for the Ninth Circuit and filed a motion in the district court for a preliminary injunction pending appeal. On April 28, plaintiffs moved for reconsideration of the transfer order. That same day, the district court denied their request for a preliminary injunction pending appeal.\n\nIn the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. Defendant-appellees filed a motion to dismiss that same day. On May 23, the court denied the motion to dismiss without prejudice and ordered that all appellate proceedings, except for mediation, be stayed pending the district court's ruling on the timely tolling motion filed on April 28, 2025.\n\nOn June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plaintiffs filed a motion to expedite in the Court of Appeals, arguing that the stay previously entered was moot in light of the district court's ruling. They requested that the Court of Appeals set an expedited briefing schedule on the merits of their appeal and grant their fully briefed motion for a preliminary injunction. The motion for an expedited briefing schedule was granted on June 18.\n\nThis case is ongoing.",
+    "target_paragraph": "In the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. Defendant-appellees filed a motion to dismiss that same day. On May 23, the court denied the motion to dismiss without prejudice and ordered that all appellate proceedings, except for mediation, be stayed pending the district court's ruling on the timely tolling motion filed on April 28, 2025.",
+    "target_paragraph_indices": [
+      4810,
+      5203
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            4810,
+            4908
+          ],
+          [
+            5452,
+            5624
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appellate injunctive relief, including request to grant their motion for a preliminary injunction.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4970,
+            5203
+          ]
+        ],
+        "annotation": {
+          "explanation": "[pending the district court's ruling on the timely tolling motion filed on April 28, 2025]: the U.S. Court of Appeals ordered that all appellate proceedings, except for mediation, be stayed (order entered May 23, 2025).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4810,
+            4908
+          ],
+          [
+            4909,
+            4969
+          ],
+          [
+            4970,
+            5203
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appellate proceedings (Ninth Circuit): Plaintiffs sought injunctive relief; defendants moved to dismiss; on May 23, the court denied dismissal without prejudice and stayed appellate proceedings (except mediation) pending the district court\u2019s ruling on the tolling motion.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4810,
+            4908
+          ],
+          [
+            5452,
+            5624
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 1, 2025 \u2014 Plaintiffs filed a motion for injunctive relief in the Ninth Circuit (motion for preliminary injunction pending appeal; later described as fully briefed; ruling not stated).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4909,
+            4969
+          ],
+          [
+            4970,
+            5203
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 1, 2025 \u2014 Appellees moved to dismiss in the Ninth Circuit; May 23, 2025 \u2014 motion to dismiss denied without prejudice and appellate proceedings stayed (except mediation).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4970,
+            5037
+          ]
+        ],
+        "annotation": {
+          "explanation": "9th Cir. (May 23, 2025): Denied appellees' motion to dismiss without prejudice.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4970,
+            5203
+          ]
+        ],
+        "annotation": {
+          "explanation": "9th Cir. (May 23, 2025): Stayed all appellate proceedings except mediation pending the district court\u2019s ruling on the tolling motion.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46351_p10",
+    "metadata": {
+      "case_id": "46351",
+      "paragraph_num": 10,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plainti..."
+    },
+    "source": "",
+    "target": "This case raises urgent questions about the scope of presidential authority over trade and the constitutional rights of Indigenous communities living along the U.S.\u2013Canada border. On April 4, 2025, two members of the Blackfeet Nation\u2014Montana State Senator Susan Webber and rancher Jonathan St. Goddard\u2014filed suit in the United States District Court for the District of Montana against the United States, the U.S. Department of Homeland Security (DHS), and DHS Secretary Kristi Noem, in her official capacity. Represented by private counsel, plaintiffs challenged a series of executive actions issued by President Donald Trump that imposed tariffs on goods entering from Canada. The plaintiffs argue that the tariffs unlawfully burden commerce and travel essential to Blackfeet citizens and violate longstanding treaty protections and constitutional guarantees.\n\nThe challenged actions include multiple executive orders and proclamations\u2014collectively referred to as the \u201cCanada Orders.\u201d These include: (1) Executive Order 14193 (Feb. 1, 2025), which declared a national emergency and imposed tariffs under the International Emergency Economic Powers Act (IEEPA); (2) Proclamations 10895 and 10896, which levied 25% tariffs on aluminum and steel under Section 232 of the Trade Expansion Act; and (3) Executive Order 14257 (Apr. 2, 2025), which introduced reciprocal tariffs to counter perceived trade imbalances. Plaintiffs claim these measures, which apply universally without exemptions for Indigenous trade, violate constitutional principles and federal treaties.\n\nThe plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory authority to impose tariffs of this scale and scope. Specifically, they contend that IEEPA does not authorize universal tariffs unrelated to a clear foreign threat and that the Trade Expansion Act's delegation of power under Section 232 cannot justify these broad economic measures. Second, they allege that the executive actions violate the separation of powers by encroaching on Congress\u2019s exclusive authority over foreign commerce under Article I, Section 8 of the Constitution.\n\nIn addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. They argue that the tariffs impose arbitrary and sweeping economic burdens without procedural safeguards or individualized assessment. The complaint also references historical protections under the Jay Treaty of 1794, the Treaty of Ghent (1814), and early federal tariff acts that explicitly exempted Indigenous trade from duties. The plaintiffs maintain that these protections remain valid, self-executing treaty rights that predate and override later conflicting executive actions.\n\nTo support their claims, the plaintiffs filed declarations and affidavits documenting the concrete harms caused by the tariffs. These include rising business costs, lost tourism income, and disrupted family and trade relations across the northern border. In particular, Senator Webber emphasized the disproportionate impact on the Blackfeet Nation, whose homelands, commerce, and kinship networks span both sides of the U.S.\u2013Canada border.\n\nPlaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare key portions of the Canada Orders unconstitutional, enjoin their enforcement, and, alternatively, exempt tribally enrolled members or tribal border crossings from the tariffs. They also sought attorneys\u2019 fees and any other relief deemed just and proper.\n\nThis case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs filed a motion for a preliminary and permanent injunction. On April 11, they filed an amended complaint adding four additional plaintiffs: Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas. On April 14, the government moved to transfer the case to the U.S. Court of International Trade and requested a stay of proceedings pending that decision. Plaintiffs opposed both motions, arguing that their constitutional and treaty-based claims require resolution in a federal district court with jurisdiction over constitutional and equitable claims.\n\nOn April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff.\n\nOn April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court of International Trade and denied their motion to stay as moot. Plaintiffs immediately appealed the transfer order to the U.S. Court of Appeals for the Ninth Circuit and filed a motion in the district court for a preliminary injunction pending appeal. On April 28, plaintiffs moved for reconsideration of the transfer order. That same day, the district court denied their request for a preliminary injunction pending appeal.\n\nIn the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. Defendant-appellees filed a motion to dismiss that same day. On May 23, the court denied the motion to dismiss without prejudice and ordered that all appellate proceedings, except for mediation, be stayed pending the district court's ruling on the timely tolling motion filed on April 28, 2025.\n\nOn June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plaintiffs filed a motion to expedite in the Court of Appeals, arguing that the stay previously entered was moot in light of the district court's ruling. They requested that the Court of Appeals set an expedited briefing schedule on the merits of their appeal and grant their fully briefed motion for a preliminary injunction. The motion for an expedited briefing schedule was granted on June 18.\n\nThis case is ongoing.",
+    "target_paragraph": "On June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plaintiffs filed a motion to expedite in the Court of Appeals, arguing that the stay previously entered was moot in light of the district court's ruling. They requested that the Court of Appeals set an expedited briefing schedule on the merits of their appeal and grant their fully briefed motion for a preliminary injunction. The motion for an expedited briefing schedule was granted on June 18.",
+    "target_paragraph_indices": [
+      5205,
+      5694
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5205,
+            5281
+          ],
+          [
+            5282,
+            5451
+          ],
+          [
+            5452,
+            5624
+          ],
+          [
+            5625,
+            5694
+          ]
+        ],
+        "annotation": {
+          "explanation": "Subsequent procedural events: District court denied reconsideration on June 2; plaintiffs moved to expedite in the Court of Appeals; expedited briefing schedule granted on June 18.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5282,
+            5360
+          ],
+          [
+            5625,
+            5694
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 2025 \u2014 Plaintiffs moved to expedite in the Ninth Circuit; Jun 18, 2025 \u2014 motion for expedited briefing schedule granted.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            5205,
+            5281
+          ]
+        ],
+        "annotation": {
+          "explanation": "D. Mont. (Jun 2, 2025): Denied plaintiffs' motion for reconsideration of the transfer order.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            5282,
+            5451
+          ],
+          [
+            5625,
+            5694
+          ]
+        ],
+        "annotation": {
+          "explanation": "9th Cir. (Jun 18, 2025): Granted appellants' motion to expedite (expedited briefing schedule).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46351_p11",
+    "metadata": {
+      "case_id": "46351",
+      "paragraph_num": 11,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "This case raises urgent questions about the scope of presidential authority over trade and the constitutional rights of Indigenous communities living along the U.S.\u2013Canada border. On April 4, 2025, two members of the Blackfeet Nation\u2014Montana State Senator Susan Webber and rancher Jonathan St. Goddard\u2014filed suit in the United States District Court for the District of Montana against the United States, the U.S. Department of Homeland Security (DHS), and DHS Secretary Kristi Noem, in her official capacity. Represented by private counsel, plaintiffs challenged a series of executive actions issued by President Donald Trump that imposed tariffs on goods entering from Canada. The plaintiffs argue that the tariffs unlawfully burden commerce and travel essential to Blackfeet citizens and violate longstanding treaty protections and constitutional guarantees.\n\nThe challenged actions include multiple executive orders and proclamations\u2014collectively referred to as the \u201cCanada Orders.\u201d These include: (1) Executive Order 14193 (Feb. 1, 2025), which declared a national emergency and imposed tariffs under the International Emergency Economic Powers Act (IEEPA); (2) Proclamations 10895 and 10896, which levied 25% tariffs on aluminum and steel under Section 232 of the Trade Expansion Act; and (3) Executive Order 14257 (Apr. 2, 2025), which introduced reciprocal tariffs to counter perceived trade imbalances. Plaintiffs claim these measures, which apply universally without exemptions for Indigenous trade, violate constitutional principles and federal treaties.\n\nThe plaintiffs assert multiple legal theories. First, they argue that the President lacked statutory authority to impose tariffs of this scale and scope. Specifically, they contend that IEEPA does not authorize universal tariffs unrelated to a clear foreign threat and that the Trade Expansion Act's delegation of power under Section 232 cannot justify these broad economic measures. Second, they allege that the executive actions violate the separation of powers by encroaching on Congress\u2019s exclusive authority over foreign commerce under Article I, Section 8 of the Constitution.\n\nIn addition to constitutional structure, the plaintiffs raise claims under the Due Process Clause. They argue that the tariffs impose arbitrary and sweeping economic burdens without procedural safeguards or individualized assessment. The complaint also references historical protections under the Jay Treaty of 1794, the Treaty of Ghent (1814), and early federal tariff acts that explicitly exempted Indigenous trade from duties. The plaintiffs maintain that these protections remain valid, self-executing treaty rights that predate and override later conflicting executive actions.\n\nTo support their claims, the plaintiffs filed declarations and affidavits documenting the concrete harms caused by the tariffs. These include rising business costs, lost tourism income, and disrupted family and trade relations across the northern border. In particular, Senator Webber emphasized the disproportionate impact on the Blackfeet Nation, whose homelands, commerce, and kinship networks span both sides of the U.S.\u2013Canada border.\n\nPlaintiffs sought declaratory and injunctive relief. Specifically, they asked the Court to declare key portions of the Canada Orders unconstitutional, enjoin their enforcement, and, alternatively, exempt tribally enrolled members or tribal border crossings from the tariffs. They also sought attorneys\u2019 fees and any other relief deemed just and proper.\n\nThis case was assigned to U.S. District Judge Dana L. Christensen. On April 4, 2025, Plaintiffs filed a motion for a preliminary and permanent injunction. On April 11, they filed an amended complaint adding four additional plaintiffs: Ryan Biederman, Andrea Bocanegra, David Greer, and Lisa Ruelas. On April 14, the government moved to transfer the case to the U.S. Court of International Trade and requested a stay of proceedings pending that decision. Plaintiffs opposed both motions, arguing that their constitutional and treaty-based claims require resolution in a federal district court with jurisdiction over constitutional and equitable claims.\n\nOn April 21, 2025, the Montana Farmers Union (MFU) moved the court to intervene as a party-plaintiff.\n\nOn April 25, 2025, the court granted the defendants' motion to transfer the case to the U.S. Court of International Trade and denied their motion to stay as moot. Plaintiffs immediately appealed the transfer order to the U.S. Court of Appeals for the Ninth Circuit and filed a motion in the district court for a preliminary injunction pending appeal. On April 28, plaintiffs moved for reconsideration of the transfer order. That same day, the district court denied their request for a preliminary injunction pending appeal.\n\nIn the Court of Appeals, plaintiff-appellants filed a motion for injunctive relief on May 1, 2025. Defendant-appellees filed a motion to dismiss that same day. On May 23, the court denied the motion to dismiss without prejudice and ordered that all appellate proceedings, except for mediation, be stayed pending the district court's ruling on the timely tolling motion filed on April 28, 2025.\n\nOn June 2, the district court denied plaintiffs' motion for reconsideration. Following this, plaintiffs filed a motion to expedite in the Court of Appeals, arguing that the stay previously entered was moot in light of the district court's ruling. They requested that the Court of Appeals set an expedited briefing schedule on the merits of their appeal and grant their fully briefed motion for a preliminary injunction. The motion for an expedited briefing schedule was granted on June 18.\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      5696,
+      5717
+    ],
+    "edits": []
+  }
+]

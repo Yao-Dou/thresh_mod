@@ -1,0 +1,900 @@
+[
+  {
+    "id": "46345_p0",
+    "metadata": {
+      "case_id": "46345",
+      "paragraph_num": 0,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In this case, non-profit organization Citizens for Responsibility and Ethics in Washington (CREW) ch..."
+    },
+    "source": "",
+    "target": "In this case, non-profit organization Citizens for Responsibility and Ethics in Washington (CREW) challenged the U.S. Centers for Disease Control and Prevention\u2019s (CDC) April 1, 2025, closure of its Freedom of Information Act (FOIA) office and the CDC\u2019s non-compliance with CREW\u2019s subsequent FOIA requests for expedited processing. The FOIA requests sought, per CREW\u2019s complaint, \u201crecords regarding the agency\u2019s staff reductions and other matters of significant public interest\u201d\u2014including an ongoing, national measles outbreak. To see the Clearinghouse\u2019s coverage of other litigation against the second Trump administration, click here [../../../../collections/38759].\n\nHHS disbanded the CDC\u2019s FOIA office and placed the office\u2019s staff on administrative leave following the U.S. Department of Health and Human Services' (HHS) March 27, 2025 announcement that it would cut 20,000 full-time employees\u2014reducing the workforce from 82,000 to 62,000\u2014in what the agency called \u201ca dramatic restructuring in accordance with President Trump's Executive Order, \u2018Implementing the President\u2019s \"Department of Government Efficiency\" Workforce Optimization Initiative\u2019\u201d (EO 14210) (see the HHS press release, here [https://www.hhs.gov/press-room/hhs-restructuring-doge.html]). EO 14210 included the directive: \u201cAgency Heads shall promptly undertake preparations to initiate large-scale reductions in force (RIFs), consistent with applicable law.\u201d\n\nOn April 4, 2025, CREW, a non-partisan government watchdog organization filed this lawsuit in the United States District Court for the District of Columbia. CREW named the CDC, HHS, and the heads of those departments as defendants. Represented by in-house attorneys, CREW sought declaratory and injunctive relief under the Freedom of Information Act (FOIA) and the Administrative Procedure Act (APA). The plaintiff claimed that the abrupt elimination of the CDC\u2019s entire FOIA office violated federal law and blocked public access to critical government records on issues of national importance\u2014including \u201congoing outbreaks . . . of measles and other highly contagious diseases.\u201d Specifically, the plaintiff alleged that the defendants: violated FOIA by wrongfully denying expedited processing of CREW\u2019s FOIA requests; had a \u201cpolicy or practice\u201d of violating FOIA; and violated the APA by taking unlawful, arbitrary and capricious agency action.\n\nCREW asked the court to declare the agency\u2019s actions unlawful, enjoin the government from continuing to block FOIA operations, and compel expedited processing of CREW's pending requests. The organization also sought attorneys\u2019 fees. The case was assigned to District Judge Timothy J. Kelly.\n\nOn April 21, 2025, the plaintiffs filed a motion for preliminary injunction and partial summary judgment, on which the court held argument on May 13. The plaintiffs requested partial summary judgment on their claims that the CDC violated FOIA and that its actions were contrary to law under the APA, but not on their arbitrary and capricious argument. The plaintiffs argued that briefing on both motions could take place simultaneously, since there were no disputed factual issues with regard to those issues, and claimed that \"expeditious final disposition will benefit CREW and the public so that they can be assured of access to the vital information at issue in this case.\"\n\nThe court denied the plaintiffs' motion for a preliminary injunction on June 4, finding that plaintiffs failed to establish irreparable harm in the absence of relief. CREW had suggested two theories: First, CREW argued that without fast processing of its information requests, \"it w[ould] be unable to give the public important information relevant to ongoing debates about measles and transparency within HHS and CDC.\" Second, CREW argued that if the CDC continued to ignore FOIA requests, given CREW's reliance on FOIA to obtain information for the public, CREW would suffer irreparable harm to its \"organizational mission.\" The court rejected both arguments. On the first, the court found that \"CREW has not shown that the records will imminently lose significant value without a preliminary injunction,\" meaning that any harm suffered would not be irreparable. As for the second argument, the court found on the record before it \"any harm to CREW\u2019s organizational mission caused by HHS\u2019s FOIA overhaul is not irreparable harm under FOIA.\" Therefore, the court denied the motion.\n\nOn June 17, pursuant to an agreement between the parties, the court ordered an expedited schedule for the plaintiffs to file an amended complaint and a motion for summary judgment, as well as a government opposition or cross-motion, and extended the time to answer the amended complaint. The plaintiffs filed their amended complaint on June 25. The amended complaint expanded on the factual and legal allegations regarding FOIA and how the CDC's failure to provide information violates the statute. The complaint also added additional detail on the current status of the CDC's current FOIA operations, noting that the office is not currently fulfilling its responsibilities. The complaint also removed the plaintiffs' arbitrary and capricious claim under the APA and the corresponding request for declaratory relief under the APA. The plaintiffs also filed a motion for summary judgment on July 17, arguing that they were entitled to summary judgment on their claims that the CDC had a \"policy or practice\" of FOIA noncompliance, and that the closure of CDC's FOIA office was contrary to law under the APA.\n\nThis case is ongoing.",
+    "target_paragraph": "In this case, non-profit organization Citizens for Responsibility and Ethics in Washington (CREW) challenged the U.S. Centers for Disease Control and Prevention\u2019s (CDC) April 1, 2025, closure of its Freedom of Information Act (FOIA) office and the CDC\u2019s non-compliance with CREW\u2019s subsequent FOIA requests for expedited processing. The FOIA requests sought, per CREW\u2019s complaint, \u201crecords regarding the agency\u2019s staff reductions and other matters of significant public interest\u201d\u2014including an ongoing, national measles outbreak. To see the Clearinghouse\u2019s coverage of other litigation against the second Trump administration, click here [../../../../collections/38759].",
+    "target_paragraph_indices": [
+      0,
+      668
+    ],
+    "edits": [
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            0,
+            331
+          ],
+          [
+            1432,
+            1588
+          ],
+          [
+            1833,
+            2025
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as non-profit organization Citizens for Responsibility and Ethics in Washington (CREW)",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            14,
+            97
+          ],
+          [
+            1432,
+            1588
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Citizens for Responsibility and Ethics in Washington (CREW), a non-profit, non-partisan government watchdog organization",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            113,
+            239
+          ],
+          [
+            1589,
+            1663
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Centers for Disease Control and Prevention (CDC)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            332,
+            527
+          ]
+        ],
+        "annotation": {
+          "explanation": "CREW\u2019s FOIA requests sought records about CDC staff reductions and other matters of significant public interest, including an ongoing national measles outbreak.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46345_p1",
+    "metadata": {
+      "case_id": "46345",
+      "paragraph_num": 1,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "HHS disbanded the CDC\u2019s FOIA office and placed the office\u2019s staff on administrative leave following ..."
+    },
+    "source": "",
+    "target": "In this case, non-profit organization Citizens for Responsibility and Ethics in Washington (CREW) challenged the U.S. Centers for Disease Control and Prevention\u2019s (CDC) April 1, 2025, closure of its Freedom of Information Act (FOIA) office and the CDC\u2019s non-compliance with CREW\u2019s subsequent FOIA requests for expedited processing. The FOIA requests sought, per CREW\u2019s complaint, \u201crecords regarding the agency\u2019s staff reductions and other matters of significant public interest\u201d\u2014including an ongoing, national measles outbreak. To see the Clearinghouse\u2019s coverage of other litigation against the second Trump administration, click here [../../../../collections/38759].\n\nHHS disbanded the CDC\u2019s FOIA office and placed the office\u2019s staff on administrative leave following the U.S. Department of Health and Human Services' (HHS) March 27, 2025 announcement that it would cut 20,000 full-time employees\u2014reducing the workforce from 82,000 to 62,000\u2014in what the agency called \u201ca dramatic restructuring in accordance with President Trump's Executive Order, \u2018Implementing the President\u2019s \"Department of Government Efficiency\" Workforce Optimization Initiative\u2019\u201d (EO 14210) (see the HHS press release, here [https://www.hhs.gov/press-room/hhs-restructuring-doge.html]). EO 14210 included the directive: \u201cAgency Heads shall promptly undertake preparations to initiate large-scale reductions in force (RIFs), consistent with applicable law.\u201d\n\nOn April 4, 2025, CREW, a non-partisan government watchdog organization filed this lawsuit in the United States District Court for the District of Columbia. CREW named the CDC, HHS, and the heads of those departments as defendants. Represented by in-house attorneys, CREW sought declaratory and injunctive relief under the Freedom of Information Act (FOIA) and the Administrative Procedure Act (APA). The plaintiff claimed that the abrupt elimination of the CDC\u2019s entire FOIA office violated federal law and blocked public access to critical government records on issues of national importance\u2014including \u201congoing outbreaks . . . of measles and other highly contagious diseases.\u201d Specifically, the plaintiff alleged that the defendants: violated FOIA by wrongfully denying expedited processing of CREW\u2019s FOIA requests; had a \u201cpolicy or practice\u201d of violating FOIA; and violated the APA by taking unlawful, arbitrary and capricious agency action.\n\nCREW asked the court to declare the agency\u2019s actions unlawful, enjoin the government from continuing to block FOIA operations, and compel expedited processing of CREW's pending requests. The organization also sought attorneys\u2019 fees. The case was assigned to District Judge Timothy J. Kelly.\n\nOn April 21, 2025, the plaintiffs filed a motion for preliminary injunction and partial summary judgment, on which the court held argument on May 13. The plaintiffs requested partial summary judgment on their claims that the CDC violated FOIA and that its actions were contrary to law under the APA, but not on their arbitrary and capricious argument. The plaintiffs argued that briefing on both motions could take place simultaneously, since there were no disputed factual issues with regard to those issues, and claimed that \"expeditious final disposition will benefit CREW and the public so that they can be assured of access to the vital information at issue in this case.\"\n\nThe court denied the plaintiffs' motion for a preliminary injunction on June 4, finding that plaintiffs failed to establish irreparable harm in the absence of relief. CREW had suggested two theories: First, CREW argued that without fast processing of its information requests, \"it w[ould] be unable to give the public important information relevant to ongoing debates about measles and transparency within HHS and CDC.\" Second, CREW argued that if the CDC continued to ignore FOIA requests, given CREW's reliance on FOIA to obtain information for the public, CREW would suffer irreparable harm to its \"organizational mission.\" The court rejected both arguments. On the first, the court found that \"CREW has not shown that the records will imminently lose significant value without a preliminary injunction,\" meaning that any harm suffered would not be irreparable. As for the second argument, the court found on the record before it \"any harm to CREW\u2019s organizational mission caused by HHS\u2019s FOIA overhaul is not irreparable harm under FOIA.\" Therefore, the court denied the motion.\n\nOn June 17, pursuant to an agreement between the parties, the court ordered an expedited schedule for the plaintiffs to file an amended complaint and a motion for summary judgment, as well as a government opposition or cross-motion, and extended the time to answer the amended complaint. The plaintiffs filed their amended complaint on June 25. The amended complaint expanded on the factual and legal allegations regarding FOIA and how the CDC's failure to provide information violates the statute. The complaint also added additional detail on the current status of the CDC's current FOIA operations, noting that the office is not currently fulfilling its responsibilities. The complaint also removed the plaintiffs' arbitrary and capricious claim under the APA and the corresponding request for declaratory relief under the APA. The plaintiffs also filed a motion for summary judgment on July 17, arguing that they were entitled to summary judgment on their claims that the CDC had a \"policy or practice\" of FOIA noncompliance, and that the closure of CDC's FOIA office was contrary to law under the APA.\n\nThis case is ongoing.",
+    "target_paragraph": "HHS disbanded the CDC\u2019s FOIA office and placed the office\u2019s staff on administrative leave following the U.S. Department of Health and Human Services' (HHS) March 27, 2025 announcement that it would cut 20,000 full-time employees\u2014reducing the workforce from 82,000 to 62,000\u2014in what the agency called \u201ca dramatic restructuring in accordance with President Trump's Executive Order, \u2018Implementing the President\u2019s \"Department of Government Efficiency\" Workforce Optimization Initiative\u2019\u201d (EO 14210) (see the HHS press release, here [https://www.hhs.gov/press-room/hhs-restructuring-doge.html]). EO 14210 included the directive: \u201cAgency Heads shall promptly undertake preparations to initiate large-scale reductions in force (RIFs), consistent with applicable law.\u201d",
+    "target_paragraph_indices": [
+      670,
+      1430
+    ],
+    "edits": [
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            774,
+            1164
+          ],
+          [
+            1589,
+            1663
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Health and Human Services (HHS)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            670,
+            1430
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: HHS disbanded CDC\u2019s FOIA office and put staff on administrative leave as part of a workforce reduction (from 82,000 to 62,000) under EO 14210, which directed agencies to prepare for large-scale RIFs.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46345_p2",
+    "metadata": {
+      "case_id": "46345",
+      "paragraph_num": 2,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 4, 2025, CREW, a non-partisan government watchdog organization filed this lawsuit in the Un..."
+    },
+    "source": "",
+    "target": "In this case, non-profit organization Citizens for Responsibility and Ethics in Washington (CREW) challenged the U.S. Centers for Disease Control and Prevention\u2019s (CDC) April 1, 2025, closure of its Freedom of Information Act (FOIA) office and the CDC\u2019s non-compliance with CREW\u2019s subsequent FOIA requests for expedited processing. The FOIA requests sought, per CREW\u2019s complaint, \u201crecords regarding the agency\u2019s staff reductions and other matters of significant public interest\u201d\u2014including an ongoing, national measles outbreak. To see the Clearinghouse\u2019s coverage of other litigation against the second Trump administration, click here [../../../../collections/38759].\n\nHHS disbanded the CDC\u2019s FOIA office and placed the office\u2019s staff on administrative leave following the U.S. Department of Health and Human Services' (HHS) March 27, 2025 announcement that it would cut 20,000 full-time employees\u2014reducing the workforce from 82,000 to 62,000\u2014in what the agency called \u201ca dramatic restructuring in accordance with President Trump's Executive Order, \u2018Implementing the President\u2019s \"Department of Government Efficiency\" Workforce Optimization Initiative\u2019\u201d (EO 14210) (see the HHS press release, here [https://www.hhs.gov/press-room/hhs-restructuring-doge.html]). EO 14210 included the directive: \u201cAgency Heads shall promptly undertake preparations to initiate large-scale reductions in force (RIFs), consistent with applicable law.\u201d\n\nOn April 4, 2025, CREW, a non-partisan government watchdog organization filed this lawsuit in the United States District Court for the District of Columbia. CREW named the CDC, HHS, and the heads of those departments as defendants. Represented by in-house attorneys, CREW sought declaratory and injunctive relief under the Freedom of Information Act (FOIA) and the Administrative Procedure Act (APA). The plaintiff claimed that the abrupt elimination of the CDC\u2019s entire FOIA office violated federal law and blocked public access to critical government records on issues of national importance\u2014including \u201congoing outbreaks . . . of measles and other highly contagious diseases.\u201d Specifically, the plaintiff alleged that the defendants: violated FOIA by wrongfully denying expedited processing of CREW\u2019s FOIA requests; had a \u201cpolicy or practice\u201d of violating FOIA; and violated the APA by taking unlawful, arbitrary and capricious agency action.\n\nCREW asked the court to declare the agency\u2019s actions unlawful, enjoin the government from continuing to block FOIA operations, and compel expedited processing of CREW's pending requests. The organization also sought attorneys\u2019 fees. The case was assigned to District Judge Timothy J. Kelly.\n\nOn April 21, 2025, the plaintiffs filed a motion for preliminary injunction and partial summary judgment, on which the court held argument on May 13. The plaintiffs requested partial summary judgment on their claims that the CDC violated FOIA and that its actions were contrary to law under the APA, but not on their arbitrary and capricious argument. The plaintiffs argued that briefing on both motions could take place simultaneously, since there were no disputed factual issues with regard to those issues, and claimed that \"expeditious final disposition will benefit CREW and the public so that they can be assured of access to the vital information at issue in this case.\"\n\nThe court denied the plaintiffs' motion for a preliminary injunction on June 4, finding that plaintiffs failed to establish irreparable harm in the absence of relief. CREW had suggested two theories: First, CREW argued that without fast processing of its information requests, \"it w[ould] be unable to give the public important information relevant to ongoing debates about measles and transparency within HHS and CDC.\" Second, CREW argued that if the CDC continued to ignore FOIA requests, given CREW's reliance on FOIA to obtain information for the public, CREW would suffer irreparable harm to its \"organizational mission.\" The court rejected both arguments. On the first, the court found that \"CREW has not shown that the records will imminently lose significant value without a preliminary injunction,\" meaning that any harm suffered would not be irreparable. As for the second argument, the court found on the record before it \"any harm to CREW\u2019s organizational mission caused by HHS\u2019s FOIA overhaul is not irreparable harm under FOIA.\" Therefore, the court denied the motion.\n\nOn June 17, pursuant to an agreement between the parties, the court ordered an expedited schedule for the plaintiffs to file an amended complaint and a motion for summary judgment, as well as a government opposition or cross-motion, and extended the time to answer the amended complaint. The plaintiffs filed their amended complaint on June 25. The amended complaint expanded on the factual and legal allegations regarding FOIA and how the CDC's failure to provide information violates the statute. The complaint also added additional detail on the current status of the CDC's current FOIA operations, noting that the office is not currently fulfilling its responsibilities. The complaint also removed the plaintiffs' arbitrary and capricious claim under the APA and the corresponding request for declaratory relief under the APA. The plaintiffs also filed a motion for summary judgment on July 17, arguing that they were entitled to summary judgment on their claims that the CDC had a \"policy or practice\" of FOIA noncompliance, and that the closure of CDC's FOIA office was contrary to law under the APA.\n\nThis case is ongoing.",
+    "target_paragraph": "On April 4, 2025, CREW, a non-partisan government watchdog organization filed this lawsuit in the United States District Court for the District of Columbia. CREW named the CDC, HHS, and the heads of those departments as defendants. Represented by in-house attorneys, CREW sought declaratory and injunctive relief under the Freedom of Information Act (FOIA) and the Administrative Procedure Act (APA). The plaintiff claimed that the abrupt elimination of the CDC\u2019s entire FOIA office violated federal law and blocked public access to critical government records on issues of national importance\u2014including \u201congoing outbreaks . . . of measles and other highly contagious diseases.\u201d Specifically, the plaintiff alleged that the defendants: violated FOIA by wrongfully denying expedited processing of CREW\u2019s FOIA requests; had a \u201cpolicy or practice\u201d of violating FOIA; and violated the APA by taking unlawful, arbitrary and capricious agency action.",
+    "target_paragraph_indices": [
+      1432,
+      2376
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            1432,
+            1588
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 4, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1664,
+            1832
+          ],
+          [
+            2111,
+            2295
+          ],
+          [
+            2820,
+            2912
+          ],
+          [
+            4778,
+            4931
+          ],
+          [
+            5264,
+            5461
+          ]
+        ],
+        "annotation": {
+          "explanation": "Freedom of Information Act (FOIA): claims for declaratory and injunctive relief alleging wrongful denial of expedited processing and a policy-or-practice of FOIA noncompliance.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            4,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1664,
+            1832
+          ],
+          [
+            2111,
+            2167
+          ],
+          [
+            2296,
+            2376
+          ],
+          [
+            2820,
+            3021
+          ],
+          [
+            5264,
+            5539
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA): claim that agency actions (including closure of CDC\u2019s FOIA office) are contrary to law; initial arbitrary-and-capricious theory later removed.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            4,
+            6
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1664,
+            1832
+          ],
+          [
+            2111,
+            2295
+          ],
+          [
+            4778,
+            4931
+          ]
+        ],
+        "annotation": {
+          "explanation": "Freedom of Information Act (FOIA) \u2014 alleged wrongful denial of expedited processing and a policy-or-practice of FOIA noncompliance.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            2,
+            6
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1664,
+            1832
+          ],
+          [
+            2296,
+            2376
+          ],
+          [
+            5108,
+            5263
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) \u2014 initial claim that agency action was unlawful, arbitrary and capricious; later proceeding on claim that closure of the FOIA office was contrary to law under the APA.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            2,
+            6
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1664,
+            1832
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory and injunctive relief under FOIA and the APA.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1664,
+            1832
+          ]
+        ],
+        "annotation": {
+          "explanation": "In-house attorneys (plaintiff's counsel)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1589,
+            1663
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Head of the U.S. Centers for Disease Control and Prevention (CDC)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1589,
+            1663
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Head of the U.S. Department of Health and Human Services (HHS)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1432,
+            1663
+          ]
+        ],
+        "annotation": {
+          "explanation": "CREW filed suit on April 4, 2025 in the U.S. District Court for the District of Columbia against the CDC, HHS, and the heads of those departments.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1664,
+            1832
+          ]
+        ],
+        "annotation": {
+          "explanation": "CREW, represented by in-house counsel, sought declaratory and injunctive relief under FOIA and the APA.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1833,
+            2376
+          ]
+        ],
+        "annotation": {
+          "explanation": "Allegations: Eliminating CDC\u2019s FOIA office violated federal law and impeded access to critical records (including on measles outbreaks); defendants wrongfully denied expedited FOIA processing; maintained a policy or practice of FOIA violations; and took unlawful, arbitrary, and capricious action under the APA.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1432,
+            1588
+          ],
+          [
+            1664,
+            1832
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed by CREW on April 4, 2025 in the U.S. District Court for the District of Columbia, seeking declaratory and injunctive relief under FOIA and the APA.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": "46345_p3",
+    "metadata": {
+      "case_id": "46345",
+      "paragraph_num": 3,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "CREW asked the court to declare the agency\u2019s actions unlawful, enjoin the government from continuing..."
+    },
+    "source": "",
+    "target": "In this case, non-profit organization Citizens for Responsibility and Ethics in Washington (CREW) challenged the U.S. Centers for Disease Control and Prevention\u2019s (CDC) April 1, 2025, closure of its Freedom of Information Act (FOIA) office and the CDC\u2019s non-compliance with CREW\u2019s subsequent FOIA requests for expedited processing. The FOIA requests sought, per CREW\u2019s complaint, \u201crecords regarding the agency\u2019s staff reductions and other matters of significant public interest\u201d\u2014including an ongoing, national measles outbreak. To see the Clearinghouse\u2019s coverage of other litigation against the second Trump administration, click here [../../../../collections/38759].\n\nHHS disbanded the CDC\u2019s FOIA office and placed the office\u2019s staff on administrative leave following the U.S. Department of Health and Human Services' (HHS) March 27, 2025 announcement that it would cut 20,000 full-time employees\u2014reducing the workforce from 82,000 to 62,000\u2014in what the agency called \u201ca dramatic restructuring in accordance with President Trump's Executive Order, \u2018Implementing the President\u2019s \"Department of Government Efficiency\" Workforce Optimization Initiative\u2019\u201d (EO 14210) (see the HHS press release, here [https://www.hhs.gov/press-room/hhs-restructuring-doge.html]). EO 14210 included the directive: \u201cAgency Heads shall promptly undertake preparations to initiate large-scale reductions in force (RIFs), consistent with applicable law.\u201d\n\nOn April 4, 2025, CREW, a non-partisan government watchdog organization filed this lawsuit in the United States District Court for the District of Columbia. CREW named the CDC, HHS, and the heads of those departments as defendants. Represented by in-house attorneys, CREW sought declaratory and injunctive relief under the Freedom of Information Act (FOIA) and the Administrative Procedure Act (APA). The plaintiff claimed that the abrupt elimination of the CDC\u2019s entire FOIA office violated federal law and blocked public access to critical government records on issues of national importance\u2014including \u201congoing outbreaks . . . of measles and other highly contagious diseases.\u201d Specifically, the plaintiff alleged that the defendants: violated FOIA by wrongfully denying expedited processing of CREW\u2019s FOIA requests; had a \u201cpolicy or practice\u201d of violating FOIA; and violated the APA by taking unlawful, arbitrary and capricious agency action.\n\nCREW asked the court to declare the agency\u2019s actions unlawful, enjoin the government from continuing to block FOIA operations, and compel expedited processing of CREW's pending requests. The organization also sought attorneys\u2019 fees. The case was assigned to District Judge Timothy J. Kelly.\n\nOn April 21, 2025, the plaintiffs filed a motion for preliminary injunction and partial summary judgment, on which the court held argument on May 13. The plaintiffs requested partial summary judgment on their claims that the CDC violated FOIA and that its actions were contrary to law under the APA, but not on their arbitrary and capricious argument. The plaintiffs argued that briefing on both motions could take place simultaneously, since there were no disputed factual issues with regard to those issues, and claimed that \"expeditious final disposition will benefit CREW and the public so that they can be assured of access to the vital information at issue in this case.\"\n\nThe court denied the plaintiffs' motion for a preliminary injunction on June 4, finding that plaintiffs failed to establish irreparable harm in the absence of relief. CREW had suggested two theories: First, CREW argued that without fast processing of its information requests, \"it w[ould] be unable to give the public important information relevant to ongoing debates about measles and transparency within HHS and CDC.\" Second, CREW argued that if the CDC continued to ignore FOIA requests, given CREW's reliance on FOIA to obtain information for the public, CREW would suffer irreparable harm to its \"organizational mission.\" The court rejected both arguments. On the first, the court found that \"CREW has not shown that the records will imminently lose significant value without a preliminary injunction,\" meaning that any harm suffered would not be irreparable. As for the second argument, the court found on the record before it \"any harm to CREW\u2019s organizational mission caused by HHS\u2019s FOIA overhaul is not irreparable harm under FOIA.\" Therefore, the court denied the motion.\n\nOn June 17, pursuant to an agreement between the parties, the court ordered an expedited schedule for the plaintiffs to file an amended complaint and a motion for summary judgment, as well as a government opposition or cross-motion, and extended the time to answer the amended complaint. The plaintiffs filed their amended complaint on June 25. The amended complaint expanded on the factual and legal allegations regarding FOIA and how the CDC's failure to provide information violates the statute. The complaint also added additional detail on the current status of the CDC's current FOIA operations, noting that the office is not currently fulfilling its responsibilities. The complaint also removed the plaintiffs' arbitrary and capricious claim under the APA and the corresponding request for declaratory relief under the APA. The plaintiffs also filed a motion for summary judgment on July 17, arguing that they were entitled to summary judgment on their claims that the CDC had a \"policy or practice\" of FOIA noncompliance, and that the closure of CDC's FOIA office was contrary to law under the APA.\n\nThis case is ongoing.",
+    "target_paragraph": "CREW asked the court to declare the agency\u2019s actions unlawful, enjoin the government from continuing to block FOIA operations, and compel expedited processing of CREW's pending requests. The organization also sought attorneys\u2019 fees. The case was assigned to District Judge Timothy J. Kelly.",
+    "target_paragraph_indices": [
+      2378,
+      2668
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2378,
+            2440
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment that the agency\u2019s actions are unlawful.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2441,
+            2504
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief enjoining the government from blocking FOIA operations.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2509,
+            2564
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order compelling expedited processing of CREW\u2019s pending FOIA requests.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2565,
+            2610
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys\u2019 fees.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            2611,
+            2668
+          ]
+        ],
+        "annotation": {
+          "explanation": "Timothy J. Kelly",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2378,
+            2610
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: declaration that the actions are unlawful; injunction restoring FOIA operations; an order compelling expedited processing of CREW\u2019s requests; and attorneys\u2019 fees.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2611,
+            2668
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case was assigned to Judge Timothy J. Kelly.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46345_p4",
+    "metadata": {
+      "case_id": "46345",
+      "paragraph_num": 4,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 21, 2025, the plaintiffs filed a motion for preliminary injunction and partial summary judg..."
+    },
+    "source": "",
+    "target": "In this case, non-profit organization Citizens for Responsibility and Ethics in Washington (CREW) challenged the U.S. Centers for Disease Control and Prevention\u2019s (CDC) April 1, 2025, closure of its Freedom of Information Act (FOIA) office and the CDC\u2019s non-compliance with CREW\u2019s subsequent FOIA requests for expedited processing. The FOIA requests sought, per CREW\u2019s complaint, \u201crecords regarding the agency\u2019s staff reductions and other matters of significant public interest\u201d\u2014including an ongoing, national measles outbreak. To see the Clearinghouse\u2019s coverage of other litigation against the second Trump administration, click here [../../../../collections/38759].\n\nHHS disbanded the CDC\u2019s FOIA office and placed the office\u2019s staff on administrative leave following the U.S. Department of Health and Human Services' (HHS) March 27, 2025 announcement that it would cut 20,000 full-time employees\u2014reducing the workforce from 82,000 to 62,000\u2014in what the agency called \u201ca dramatic restructuring in accordance with President Trump's Executive Order, \u2018Implementing the President\u2019s \"Department of Government Efficiency\" Workforce Optimization Initiative\u2019\u201d (EO 14210) (see the HHS press release, here [https://www.hhs.gov/press-room/hhs-restructuring-doge.html]). EO 14210 included the directive: \u201cAgency Heads shall promptly undertake preparations to initiate large-scale reductions in force (RIFs), consistent with applicable law.\u201d\n\nOn April 4, 2025, CREW, a non-partisan government watchdog organization filed this lawsuit in the United States District Court for the District of Columbia. CREW named the CDC, HHS, and the heads of those departments as defendants. Represented by in-house attorneys, CREW sought declaratory and injunctive relief under the Freedom of Information Act (FOIA) and the Administrative Procedure Act (APA). The plaintiff claimed that the abrupt elimination of the CDC\u2019s entire FOIA office violated federal law and blocked public access to critical government records on issues of national importance\u2014including \u201congoing outbreaks . . . of measles and other highly contagious diseases.\u201d Specifically, the plaintiff alleged that the defendants: violated FOIA by wrongfully denying expedited processing of CREW\u2019s FOIA requests; had a \u201cpolicy or practice\u201d of violating FOIA; and violated the APA by taking unlawful, arbitrary and capricious agency action.\n\nCREW asked the court to declare the agency\u2019s actions unlawful, enjoin the government from continuing to block FOIA operations, and compel expedited processing of CREW's pending requests. The organization also sought attorneys\u2019 fees. The case was assigned to District Judge Timothy J. Kelly.\n\nOn April 21, 2025, the plaintiffs filed a motion for preliminary injunction and partial summary judgment, on which the court held argument on May 13. The plaintiffs requested partial summary judgment on their claims that the CDC violated FOIA and that its actions were contrary to law under the APA, but not on their arbitrary and capricious argument. The plaintiffs argued that briefing on both motions could take place simultaneously, since there were no disputed factual issues with regard to those issues, and claimed that \"expeditious final disposition will benefit CREW and the public so that they can be assured of access to the vital information at issue in this case.\"\n\nThe court denied the plaintiffs' motion for a preliminary injunction on June 4, finding that plaintiffs failed to establish irreparable harm in the absence of relief. CREW had suggested two theories: First, CREW argued that without fast processing of its information requests, \"it w[ould] be unable to give the public important information relevant to ongoing debates about measles and transparency within HHS and CDC.\" Second, CREW argued that if the CDC continued to ignore FOIA requests, given CREW's reliance on FOIA to obtain information for the public, CREW would suffer irreparable harm to its \"organizational mission.\" The court rejected both arguments. On the first, the court found that \"CREW has not shown that the records will imminently lose significant value without a preliminary injunction,\" meaning that any harm suffered would not be irreparable. As for the second argument, the court found on the record before it \"any harm to CREW\u2019s organizational mission caused by HHS\u2019s FOIA overhaul is not irreparable harm under FOIA.\" Therefore, the court denied the motion.\n\nOn June 17, pursuant to an agreement between the parties, the court ordered an expedited schedule for the plaintiffs to file an amended complaint and a motion for summary judgment, as well as a government opposition or cross-motion, and extended the time to answer the amended complaint. The plaintiffs filed their amended complaint on June 25. The amended complaint expanded on the factual and legal allegations regarding FOIA and how the CDC's failure to provide information violates the statute. The complaint also added additional detail on the current status of the CDC's current FOIA operations, noting that the office is not currently fulfilling its responsibilities. The complaint also removed the plaintiffs' arbitrary and capricious claim under the APA and the corresponding request for declaratory relief under the APA. The plaintiffs also filed a motion for summary judgment on July 17, arguing that they were entitled to summary judgment on their claims that the CDC had a \"policy or practice\" of FOIA noncompliance, and that the closure of CDC's FOIA office was contrary to law under the APA.\n\nThis case is ongoing.",
+    "target_paragraph": "On April 21, 2025, the plaintiffs filed a motion for preliminary injunction and partial summary judgment, on which the court held argument on May 13. The plaintiffs requested partial summary judgment on their claims that the CDC violated FOIA and that its actions were contrary to law under the APA, but not on their arbitrary and capricious argument. The plaintiffs argued that briefing on both motions could take place simultaneously, since there were no disputed factual issues with regard to those issues, and claimed that \"expeditious final disposition will benefit CREW and the public so that they can be assured of access to the vital information at issue in this case.\"",
+    "target_paragraph_indices": [
+      2670,
+      3347
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2670,
+            2775
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction (requested).",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2670,
+            2819
+          ],
+          [
+            2820,
+            3021
+          ],
+          [
+            3022,
+            3347
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural events: Plaintiffs moved for a preliminary injunction and partial summary judgment, arguing no disputed facts and seeking expedited resolution on FOIA and APA \u201ccontrary to law\u201d claims.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2670,
+            2819
+          ],
+          [
+            2820,
+            3021
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a motion for preliminary injunction and partial summary judgment on April 21, 2025 (argued May 13), seeking partial summary judgment on FOIA violations and APA contrary-to-law claims (excluding arbitrary and capricious).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46345_p5",
+    "metadata": {
+      "case_id": "46345",
+      "paragraph_num": 5,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court denied the plaintiffs' motion for a preliminary injunction on June 4, finding that plainti..."
+    },
+    "source": "",
+    "target": "In this case, non-profit organization Citizens for Responsibility and Ethics in Washington (CREW) challenged the U.S. Centers for Disease Control and Prevention\u2019s (CDC) April 1, 2025, closure of its Freedom of Information Act (FOIA) office and the CDC\u2019s non-compliance with CREW\u2019s subsequent FOIA requests for expedited processing. The FOIA requests sought, per CREW\u2019s complaint, \u201crecords regarding the agency\u2019s staff reductions and other matters of significant public interest\u201d\u2014including an ongoing, national measles outbreak. To see the Clearinghouse\u2019s coverage of other litigation against the second Trump administration, click here [../../../../collections/38759].\n\nHHS disbanded the CDC\u2019s FOIA office and placed the office\u2019s staff on administrative leave following the U.S. Department of Health and Human Services' (HHS) March 27, 2025 announcement that it would cut 20,000 full-time employees\u2014reducing the workforce from 82,000 to 62,000\u2014in what the agency called \u201ca dramatic restructuring in accordance with President Trump's Executive Order, \u2018Implementing the President\u2019s \"Department of Government Efficiency\" Workforce Optimization Initiative\u2019\u201d (EO 14210) (see the HHS press release, here [https://www.hhs.gov/press-room/hhs-restructuring-doge.html]). EO 14210 included the directive: \u201cAgency Heads shall promptly undertake preparations to initiate large-scale reductions in force (RIFs), consistent with applicable law.\u201d\n\nOn April 4, 2025, CREW, a non-partisan government watchdog organization filed this lawsuit in the United States District Court for the District of Columbia. CREW named the CDC, HHS, and the heads of those departments as defendants. Represented by in-house attorneys, CREW sought declaratory and injunctive relief under the Freedom of Information Act (FOIA) and the Administrative Procedure Act (APA). The plaintiff claimed that the abrupt elimination of the CDC\u2019s entire FOIA office violated federal law and blocked public access to critical government records on issues of national importance\u2014including \u201congoing outbreaks . . . of measles and other highly contagious diseases.\u201d Specifically, the plaintiff alleged that the defendants: violated FOIA by wrongfully denying expedited processing of CREW\u2019s FOIA requests; had a \u201cpolicy or practice\u201d of violating FOIA; and violated the APA by taking unlawful, arbitrary and capricious agency action.\n\nCREW asked the court to declare the agency\u2019s actions unlawful, enjoin the government from continuing to block FOIA operations, and compel expedited processing of CREW's pending requests. The organization also sought attorneys\u2019 fees. The case was assigned to District Judge Timothy J. Kelly.\n\nOn April 21, 2025, the plaintiffs filed a motion for preliminary injunction and partial summary judgment, on which the court held argument on May 13. The plaintiffs requested partial summary judgment on their claims that the CDC violated FOIA and that its actions were contrary to law under the APA, but not on their arbitrary and capricious argument. The plaintiffs argued that briefing on both motions could take place simultaneously, since there were no disputed factual issues with regard to those issues, and claimed that \"expeditious final disposition will benefit CREW and the public so that they can be assured of access to the vital information at issue in this case.\"\n\nThe court denied the plaintiffs' motion for a preliminary injunction on June 4, finding that plaintiffs failed to establish irreparable harm in the absence of relief. CREW had suggested two theories: First, CREW argued that without fast processing of its information requests, \"it w[ould] be unable to give the public important information relevant to ongoing debates about measles and transparency within HHS and CDC.\" Second, CREW argued that if the CDC continued to ignore FOIA requests, given CREW's reliance on FOIA to obtain information for the public, CREW would suffer irreparable harm to its \"organizational mission.\" The court rejected both arguments. On the first, the court found that \"CREW has not shown that the records will imminently lose significant value without a preliminary injunction,\" meaning that any harm suffered would not be irreparable. As for the second argument, the court found on the record before it \"any harm to CREW\u2019s organizational mission caused by HHS\u2019s FOIA overhaul is not irreparable harm under FOIA.\" Therefore, the court denied the motion.\n\nOn June 17, pursuant to an agreement between the parties, the court ordered an expedited schedule for the plaintiffs to file an amended complaint and a motion for summary judgment, as well as a government opposition or cross-motion, and extended the time to answer the amended complaint. The plaintiffs filed their amended complaint on June 25. The amended complaint expanded on the factual and legal allegations regarding FOIA and how the CDC's failure to provide information violates the statute. The complaint also added additional detail on the current status of the CDC's current FOIA operations, noting that the office is not currently fulfilling its responsibilities. The complaint also removed the plaintiffs' arbitrary and capricious claim under the APA and the corresponding request for declaratory relief under the APA. The plaintiffs also filed a motion for summary judgment on July 17, arguing that they were entitled to summary judgment on their claims that the CDC had a \"policy or practice\" of FOIA noncompliance, and that the closure of CDC's FOIA office was contrary to law under the APA.\n\nThis case is ongoing.",
+    "target_paragraph": "The court denied the plaintiffs' motion for a preliminary injunction on June 4, finding that plaintiffs failed to establish irreparable harm in the absence of relief. CREW had suggested two theories: First, CREW argued that without fast processing of its information requests, \"it w[ould] be unable to give the public important information relevant to ongoing debates about measles and transparency within HHS and CDC.\" Second, CREW argued that if the CDC continued to ignore FOIA requests, given CREW's reliance on FOIA to obtain information for the public, CREW would suffer irreparable harm to its \"organizational mission.\" The court rejected both arguments. On the first, the court found that \"CREW has not shown that the records will imminently lose significant value without a preliminary injunction,\" meaning that any harm suffered would not be irreparable. As for the second argument, the court found on the record before it \"any harm to CREW\u2019s organizational mission caused by HHS\u2019s FOIA overhaul is not irreparable harm under FOIA.\" Therefore, the court denied the motion.",
+    "target_paragraph_indices": [
+      3349,
+      4431
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3349,
+            3515
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 4: The court denied the plaintiffs' motion for a preliminary injunction.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3349,
+            3515
+          ],
+          [
+            3516,
+            3975
+          ],
+          [
+            3976,
+            4431
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ruling: The court denied a preliminary injunction on June 4, holding CREW did not show irreparable harm; the court found the records would not imminently lose value and that harm to CREW\u2019s organizational mission was not irreparable under FOIA.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3349,
+            3515
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court denied plaintiffs\u2019 motion for a preliminary injunction on June 4, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3349,
+            3515
+          ],
+          [
+            4392,
+            4431
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 4, 2025: The court denied the plaintiffs\u2019 motion for a preliminary injunction, finding no irreparable harm.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46345_p6",
+    "metadata": {
+      "case_id": "46345",
+      "paragraph_num": 6,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 17, pursuant to an agreement between the parties, the court ordered an expedited schedule fo..."
+    },
+    "source": "",
+    "target": "In this case, non-profit organization Citizens for Responsibility and Ethics in Washington (CREW) challenged the U.S. Centers for Disease Control and Prevention\u2019s (CDC) April 1, 2025, closure of its Freedom of Information Act (FOIA) office and the CDC\u2019s non-compliance with CREW\u2019s subsequent FOIA requests for expedited processing. The FOIA requests sought, per CREW\u2019s complaint, \u201crecords regarding the agency\u2019s staff reductions and other matters of significant public interest\u201d\u2014including an ongoing, national measles outbreak. To see the Clearinghouse\u2019s coverage of other litigation against the second Trump administration, click here [../../../../collections/38759].\n\nHHS disbanded the CDC\u2019s FOIA office and placed the office\u2019s staff on administrative leave following the U.S. Department of Health and Human Services' (HHS) March 27, 2025 announcement that it would cut 20,000 full-time employees\u2014reducing the workforce from 82,000 to 62,000\u2014in what the agency called \u201ca dramatic restructuring in accordance with President Trump's Executive Order, \u2018Implementing the President\u2019s \"Department of Government Efficiency\" Workforce Optimization Initiative\u2019\u201d (EO 14210) (see the HHS press release, here [https://www.hhs.gov/press-room/hhs-restructuring-doge.html]). EO 14210 included the directive: \u201cAgency Heads shall promptly undertake preparations to initiate large-scale reductions in force (RIFs), consistent with applicable law.\u201d\n\nOn April 4, 2025, CREW, a non-partisan government watchdog organization filed this lawsuit in the United States District Court for the District of Columbia. CREW named the CDC, HHS, and the heads of those departments as defendants. Represented by in-house attorneys, CREW sought declaratory and injunctive relief under the Freedom of Information Act (FOIA) and the Administrative Procedure Act (APA). The plaintiff claimed that the abrupt elimination of the CDC\u2019s entire FOIA office violated federal law and blocked public access to critical government records on issues of national importance\u2014including \u201congoing outbreaks . . . of measles and other highly contagious diseases.\u201d Specifically, the plaintiff alleged that the defendants: violated FOIA by wrongfully denying expedited processing of CREW\u2019s FOIA requests; had a \u201cpolicy or practice\u201d of violating FOIA; and violated the APA by taking unlawful, arbitrary and capricious agency action.\n\nCREW asked the court to declare the agency\u2019s actions unlawful, enjoin the government from continuing to block FOIA operations, and compel expedited processing of CREW's pending requests. The organization also sought attorneys\u2019 fees. The case was assigned to District Judge Timothy J. Kelly.\n\nOn April 21, 2025, the plaintiffs filed a motion for preliminary injunction and partial summary judgment, on which the court held argument on May 13. The plaintiffs requested partial summary judgment on their claims that the CDC violated FOIA and that its actions were contrary to law under the APA, but not on their arbitrary and capricious argument. The plaintiffs argued that briefing on both motions could take place simultaneously, since there were no disputed factual issues with regard to those issues, and claimed that \"expeditious final disposition will benefit CREW and the public so that they can be assured of access to the vital information at issue in this case.\"\n\nThe court denied the plaintiffs' motion for a preliminary injunction on June 4, finding that plaintiffs failed to establish irreparable harm in the absence of relief. CREW had suggested two theories: First, CREW argued that without fast processing of its information requests, \"it w[ould] be unable to give the public important information relevant to ongoing debates about measles and transparency within HHS and CDC.\" Second, CREW argued that if the CDC continued to ignore FOIA requests, given CREW's reliance on FOIA to obtain information for the public, CREW would suffer irreparable harm to its \"organizational mission.\" The court rejected both arguments. On the first, the court found that \"CREW has not shown that the records will imminently lose significant value without a preliminary injunction,\" meaning that any harm suffered would not be irreparable. As for the second argument, the court found on the record before it \"any harm to CREW\u2019s organizational mission caused by HHS\u2019s FOIA overhaul is not irreparable harm under FOIA.\" Therefore, the court denied the motion.\n\nOn June 17, pursuant to an agreement between the parties, the court ordered an expedited schedule for the plaintiffs to file an amended complaint and a motion for summary judgment, as well as a government opposition or cross-motion, and extended the time to answer the amended complaint. The plaintiffs filed their amended complaint on June 25. The amended complaint expanded on the factual and legal allegations regarding FOIA and how the CDC's failure to provide information violates the statute. The complaint also added additional detail on the current status of the CDC's current FOIA operations, noting that the office is not currently fulfilling its responsibilities. The complaint also removed the plaintiffs' arbitrary and capricious claim under the APA and the corresponding request for declaratory relief under the APA. The plaintiffs also filed a motion for summary judgment on July 17, arguing that they were entitled to summary judgment on their claims that the CDC had a \"policy or practice\" of FOIA noncompliance, and that the closure of CDC's FOIA office was contrary to law under the APA.\n\nThis case is ongoing.",
+    "target_paragraph": "On June 17, pursuant to an agreement between the parties, the court ordered an expedited schedule for the plaintiffs to file an amended complaint and a motion for summary judgment, as well as a government opposition or cross-motion, and extended the time to answer the amended complaint. The plaintiffs filed their amended complaint on June 25. The amended complaint expanded on the factual and legal allegations regarding FOIA and how the CDC's failure to provide information violates the statute. The complaint also added additional detail on the current status of the CDC's current FOIA operations, noting that the office is not currently fulfilling its responsibilities. The complaint also removed the plaintiffs' arbitrary and capricious claim under the APA and the corresponding request for declaratory relief under the APA. The plaintiffs also filed a motion for summary judgment on July 17, arguing that they were entitled to summary judgment on their claims that the CDC had a \"policy or practice\" of FOIA noncompliance, and that the closure of CDC's FOIA office was contrary to law under the APA.",
+    "target_paragraph_indices": [
+      4433,
+      5539
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            5108,
+            5263
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint removed the request for declaratory relief under the APA corresponding to the arbitrary and capricious claim.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4433,
+            4720
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 17: The court ordered an expedited schedule for filings and extended the time to answer the amended complaint.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4433,
+            4720
+          ],
+          [
+            4721,
+            4777
+          ],
+          [
+            4778,
+            4931
+          ],
+          [
+            4932,
+            5107
+          ],
+          [
+            5108,
+            5263
+          ],
+          [
+            5264,
+            5539
+          ]
+        ],
+        "annotation": {
+          "explanation": "Subsequent proceedings: The court set an expedited schedule; Plaintiffs filed an amended complaint (expanding FOIA noncompliance facts and noting CDC\u2019s FOIA office is not fulfilling responsibilities) and dropped the APA arbitrary-and-capricious claim; Plaintiffs moved for summary judgment on FOIA policy/practice noncompliance and APA contrary-to-law claims.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4433,
+            4720
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court entered an expedited scheduling order on June 17, 2025 for an amended complaint and motion for summary judgment; allowed government opposition or cross-motion and extended time to answer.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4721,
+            4777
+          ],
+          [
+            5108,
+            5263
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed an amended complaint on June 25, 2025, removing the APA arbitrary-and-capricious claim and expanding FOIA-related allegations.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5264,
+            5539
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a motion for summary judgment on July 17, 2025, seeking judgment on CDC\u2019s alleged policy-or-practice FOIA noncompliance and APA contrary-to-law claims.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46345_p7",
+    "metadata": {
+      "case_id": "46345",
+      "paragraph_num": 7,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "In this case, non-profit organization Citizens for Responsibility and Ethics in Washington (CREW) challenged the U.S. Centers for Disease Control and Prevention\u2019s (CDC) April 1, 2025, closure of its Freedom of Information Act (FOIA) office and the CDC\u2019s non-compliance with CREW\u2019s subsequent FOIA requests for expedited processing. The FOIA requests sought, per CREW\u2019s complaint, \u201crecords regarding the agency\u2019s staff reductions and other matters of significant public interest\u201d\u2014including an ongoing, national measles outbreak. To see the Clearinghouse\u2019s coverage of other litigation against the second Trump administration, click here [../../../../collections/38759].\n\nHHS disbanded the CDC\u2019s FOIA office and placed the office\u2019s staff on administrative leave following the U.S. Department of Health and Human Services' (HHS) March 27, 2025 announcement that it would cut 20,000 full-time employees\u2014reducing the workforce from 82,000 to 62,000\u2014in what the agency called \u201ca dramatic restructuring in accordance with President Trump's Executive Order, \u2018Implementing the President\u2019s \"Department of Government Efficiency\" Workforce Optimization Initiative\u2019\u201d (EO 14210) (see the HHS press release, here [https://www.hhs.gov/press-room/hhs-restructuring-doge.html]). EO 14210 included the directive: \u201cAgency Heads shall promptly undertake preparations to initiate large-scale reductions in force (RIFs), consistent with applicable law.\u201d\n\nOn April 4, 2025, CREW, a non-partisan government watchdog organization filed this lawsuit in the United States District Court for the District of Columbia. CREW named the CDC, HHS, and the heads of those departments as defendants. Represented by in-house attorneys, CREW sought declaratory and injunctive relief under the Freedom of Information Act (FOIA) and the Administrative Procedure Act (APA). The plaintiff claimed that the abrupt elimination of the CDC\u2019s entire FOIA office violated federal law and blocked public access to critical government records on issues of national importance\u2014including \u201congoing outbreaks . . . of measles and other highly contagious diseases.\u201d Specifically, the plaintiff alleged that the defendants: violated FOIA by wrongfully denying expedited processing of CREW\u2019s FOIA requests; had a \u201cpolicy or practice\u201d of violating FOIA; and violated the APA by taking unlawful, arbitrary and capricious agency action.\n\nCREW asked the court to declare the agency\u2019s actions unlawful, enjoin the government from continuing to block FOIA operations, and compel expedited processing of CREW's pending requests. The organization also sought attorneys\u2019 fees. The case was assigned to District Judge Timothy J. Kelly.\n\nOn April 21, 2025, the plaintiffs filed a motion for preliminary injunction and partial summary judgment, on which the court held argument on May 13. The plaintiffs requested partial summary judgment on their claims that the CDC violated FOIA and that its actions were contrary to law under the APA, but not on their arbitrary and capricious argument. The plaintiffs argued that briefing on both motions could take place simultaneously, since there were no disputed factual issues with regard to those issues, and claimed that \"expeditious final disposition will benefit CREW and the public so that they can be assured of access to the vital information at issue in this case.\"\n\nThe court denied the plaintiffs' motion for a preliminary injunction on June 4, finding that plaintiffs failed to establish irreparable harm in the absence of relief. CREW had suggested two theories: First, CREW argued that without fast processing of its information requests, \"it w[ould] be unable to give the public important information relevant to ongoing debates about measles and transparency within HHS and CDC.\" Second, CREW argued that if the CDC continued to ignore FOIA requests, given CREW's reliance on FOIA to obtain information for the public, CREW would suffer irreparable harm to its \"organizational mission.\" The court rejected both arguments. On the first, the court found that \"CREW has not shown that the records will imminently lose significant value without a preliminary injunction,\" meaning that any harm suffered would not be irreparable. As for the second argument, the court found on the record before it \"any harm to CREW\u2019s organizational mission caused by HHS\u2019s FOIA overhaul is not irreparable harm under FOIA.\" Therefore, the court denied the motion.\n\nOn June 17, pursuant to an agreement between the parties, the court ordered an expedited schedule for the plaintiffs to file an amended complaint and a motion for summary judgment, as well as a government opposition or cross-motion, and extended the time to answer the amended complaint. The plaintiffs filed their amended complaint on June 25. The amended complaint expanded on the factual and legal allegations regarding FOIA and how the CDC's failure to provide information violates the statute. The complaint also added additional detail on the current status of the CDC's current FOIA operations, noting that the office is not currently fulfilling its responsibilities. The complaint also removed the plaintiffs' arbitrary and capricious claim under the APA and the corresponding request for declaratory relief under the APA. The plaintiffs also filed a motion for summary judgment on July 17, arguing that they were entitled to summary judgment on their claims that the CDC had a \"policy or practice\" of FOIA noncompliance, and that the closure of CDC's FOIA office was contrary to law under the APA.\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      5541,
+      5562
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5541,
+            5562
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: Ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

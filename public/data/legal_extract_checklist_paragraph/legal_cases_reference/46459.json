@@ -1,0 +1,1306 @@
+[
+  {
+    "id": "46459_p0",
+    "metadata": {
+      "case_id": "46459",
+      "paragraph_num": 0,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is one of numerous lawsuits challenging the Trump administration\u2019s abrupt termination of i..."
+    },
+    "source": "",
+    "target": "This case is one of numerous lawsuits challenging the Trump administration\u2019s abrupt termination of immigration visas\u2014mostly student or work visas\u2014with no notice to the visa-holders and with dubious or no legal basis. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38954&ordering=-summary_approved_date].\n\nOn April 22, 2025, twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT) filed this lawsuit in the U.S. District Court for the Northern District of California against President Trump, the Secretary of Homeland Security, the Acting Director of Immigration and Customs Enforcement (ICE), and the ICE Field Office Director of San Francisco. The plaintiffs brought claims under the Administrative Procedure Act and the Due Process Clause of the Fifth Amendment. The case was initially assigned to Judge P. Casey Pitts, but reassigned to Judge Steven White on April 24, 2025.\n\nThe plaintiffs claimed that between April 4 and 8, 2025, the defendants abruptly terminated their F-1 visas and records in the Student and Exchange Visitor Information System (SEVIS), effectively stripping them of their ability to remain students in the United States. The stated reason was \u201cotherwise failing to maintain status,\u201d and that they had been \u201cidentified in a criminal records check and/or had their visa revoked.\u201d The plaintiffs contended that they had fully complied with the terms of their F-1 status and engaged in no conduct warranting termination. They argued that the SEVIS terminations and subsequent visa revocations appeared to be part of a policy intended to coerce international students into abandoning their studies and self-deporting.\n\nRepresented by private counsel, the plaintiffs sought declaratory relief, restoration of their SEVIS records and F-1 statuses, and protection from enforcement or deportation. They further sought to enjoin the defendants from detaining or transferring them during the proceedings. The plaintiffs did not challenge the visa revocations, arguing that F-1 status could remain valid despite revocation.\n\nOn April 23, 2025, the plaintiffs moved for a temporary restraining order and preliminary injunction.\n\nThe court granted the plaintiffs\u2019 motion for a temporary restraining order on April 25, 2025, enjoining the defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the termination of their SEVIS records or potential F-1 visa revocations until May 15, 2025. The court found that the plaintiffs had shown \"at least serious questions exist\" on their claims under the Administrative Procedure Act.\n\nOn May 22, 2025, the court granted a preliminary injunction. The court rejected the defendants\u2019 distinction between an active SEVIS record and lawful F-1 status, noting that terminating a SEVIS record effectively ended F-1 status. The order described the defendants\u2019 \u201cStudent Criminal Alien Initiative,\u201d in which ICE terminated thousands of SEVIS records based on criminal database checks and a State Department request, and noted a new policy listing visa revocation as a reason for termination. The injunction barred the defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals, from imposing adverse legal effects from SEVIS terminations, and from reversing reinstated SEVIS records of individuals maintaining their status without court approval.\n\nThe defendants appealed the preliminary injunction to the Ninth Circuit on July 21, 2025. They argued that the injunction exceeded the court\u2019s authority as a nationwide order, citing Trump v. CASA, Inc., and that the plaintiffs failed to show irreparable harm because ICE had already reactivated SEVIS records retroactively. They also contended that the injunction was vague and overbroad, restricting lawful enforcement and exposing DHS officers to contempt, and improperly limited their authority to terminate SEVIS records unrelated to the \u201cStudent Criminal Alien Initiative.\u201d\n\nOn August 8, 2025, the defendants moved to stay the injunction\u2019s nationwide scope, its bar on arresting or transferring the plaintiffs for reasons unrelated to SEVIS termination, and its restriction on terminating SEVIS records outside the Criminal Alien Initiative.\n\nOn August 22, 2025, the Ninth Circuit granted, in part, and denied, in part, the defendants\u2019 motion to stay pending appeal. \u00a0The court upheld the universal scope of the injunction, finding that Trump v. CASA did not bar nationwide relief under the Administrative Procedure Act, and concluded that the defendants had not shown irreparable harm. The court modified the arrest and transfer provisions, allowing arrests only if based on new material information unrelated to the SEVIS terminations, but denied any modification to the reversal provision, maintaining that defendants cannot reverse reinstated SEVIS records without court approval.\n\nThis case remains ongoing.",
+    "target_paragraph": "This case is one of numerous lawsuits challenging the Trump administration\u2019s abrupt termination of immigration visas\u2014mostly student or work visas\u2014with no notice to the visa-holders and with dubious or no legal basis. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38954&ordering=-summary_approved_date].",
+    "target_paragraph_indices": [
+      0,
+      356
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            216
+          ]
+        ],
+        "annotation": {
+          "explanation": "Broader context: Part of a broader set of suits alleging abrupt, notice-less visa terminations by the administration.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46459_p1",
+    "metadata": {
+      "case_id": "46459",
+      "paragraph_num": 1,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 22, 2025, twelve international students and graduates on F-1 visas and post-graduate Option..."
+    },
+    "source": "",
+    "target": "This case is one of numerous lawsuits challenging the Trump administration\u2019s abrupt termination of immigration visas\u2014mostly student or work visas\u2014with no notice to the visa-holders and with dubious or no legal basis. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38954&ordering=-summary_approved_date].\n\nOn April 22, 2025, twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT) filed this lawsuit in the U.S. District Court for the Northern District of California against President Trump, the Secretary of Homeland Security, the Acting Director of Immigration and Customs Enforcement (ICE), and the ICE Field Office Director of San Francisco. The plaintiffs brought claims under the Administrative Procedure Act and the Due Process Clause of the Fifth Amendment. The case was initially assigned to Judge P. Casey Pitts, but reassigned to Judge Steven White on April 24, 2025.\n\nThe plaintiffs claimed that between April 4 and 8, 2025, the defendants abruptly terminated their F-1 visas and records in the Student and Exchange Visitor Information System (SEVIS), effectively stripping them of their ability to remain students in the United States. The stated reason was \u201cotherwise failing to maintain status,\u201d and that they had been \u201cidentified in a criminal records check and/or had their visa revoked.\u201d The plaintiffs contended that they had fully complied with the terms of their F-1 status and engaged in no conduct warranting termination. They argued that the SEVIS terminations and subsequent visa revocations appeared to be part of a policy intended to coerce international students into abandoning their studies and self-deporting.\n\nRepresented by private counsel, the plaintiffs sought declaratory relief, restoration of their SEVIS records and F-1 statuses, and protection from enforcement or deportation. They further sought to enjoin the defendants from detaining or transferring them during the proceedings. The plaintiffs did not challenge the visa revocations, arguing that F-1 status could remain valid despite revocation.\n\nOn April 23, 2025, the plaintiffs moved for a temporary restraining order and preliminary injunction.\n\nThe court granted the plaintiffs\u2019 motion for a temporary restraining order on April 25, 2025, enjoining the defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the termination of their SEVIS records or potential F-1 visa revocations until May 15, 2025. The court found that the plaintiffs had shown \"at least serious questions exist\" on their claims under the Administrative Procedure Act.\n\nOn May 22, 2025, the court granted a preliminary injunction. The court rejected the defendants\u2019 distinction between an active SEVIS record and lawful F-1 status, noting that terminating a SEVIS record effectively ended F-1 status. The order described the defendants\u2019 \u201cStudent Criminal Alien Initiative,\u201d in which ICE terminated thousands of SEVIS records based on criminal database checks and a State Department request, and noted a new policy listing visa revocation as a reason for termination. The injunction barred the defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals, from imposing adverse legal effects from SEVIS terminations, and from reversing reinstated SEVIS records of individuals maintaining their status without court approval.\n\nThe defendants appealed the preliminary injunction to the Ninth Circuit on July 21, 2025. They argued that the injunction exceeded the court\u2019s authority as a nationwide order, citing Trump v. CASA, Inc., and that the plaintiffs failed to show irreparable harm because ICE had already reactivated SEVIS records retroactively. They also contended that the injunction was vague and overbroad, restricting lawful enforcement and exposing DHS officers to contempt, and improperly limited their authority to terminate SEVIS records unrelated to the \u201cStudent Criminal Alien Initiative.\u201d\n\nOn August 8, 2025, the defendants moved to stay the injunction\u2019s nationwide scope, its bar on arresting or transferring the plaintiffs for reasons unrelated to SEVIS termination, and its restriction on terminating SEVIS records outside the Criminal Alien Initiative.\n\nOn August 22, 2025, the Ninth Circuit granted, in part, and denied, in part, the defendants\u2019 motion to stay pending appeal. \u00a0The court upheld the universal scope of the injunction, finding that Trump v. CASA did not bar nationwide relief under the Administrative Procedure Act, and concluded that the defendants had not shown irreparable harm. The court modified the arrest and transfer provisions, allowing arrests only if based on new material information unrelated to the SEVIS terminations, but denied any modification to the reversal provision, maintaining that defendants cannot reverse reinstated SEVIS records without court approval.\n\nThis case remains ongoing.",
+    "target_paragraph": "On April 22, 2025, twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT) filed this lawsuit in the U.S. District Court for the Northern District of California against President Trump, the Secretary of Homeland Security, the Acting Director of Immigration and Customs Enforcement (ICE), and the ICE Field Office Director of San Francisco. The plaintiffs brought claims under the Administrative Procedure Act and the Due Process Clause of the Fifth Amendment. The case was initially assigned to Judge P. Casey Pitts, but reassigned to Judge Steven White on April 24, 2025.",
+    "target_paragraph_indices": [
+      358,
+      983
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            358,
+            750
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 22, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            751,
+            870
+          ],
+          [
+            2548,
+            2684
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            751,
+            870
+          ]
+        ],
+        "annotation": {
+          "explanation": "Due Process Clause of the Fifth Amendment",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            751,
+            870
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            751,
+            870
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment Due Process Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            871,
+            983
+          ]
+        ],
+        "annotation": {
+          "explanation": "P. Casey Pitts",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            871,
+            983
+          ]
+        ],
+        "annotation": {
+          "explanation": "Steven White",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            358,
+            571
+          ],
+          [
+            2343,
+            2419
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT)",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            358,
+            571
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            572,
+            750
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: President Trump",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            572,
+            750
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of Homeland Security",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            572,
+            750
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Director of Immigration and Customs Enforcement (ICE)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            572,
+            750
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: ICE Field Office Director of San Francisco",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            358,
+            750
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties and filing: Twelve F-1 students/OPT graduates sued on April 22, 2025 in the Northern District of California, naming the President, DHS Secretary, Acting ICE Director, and ICE San Francisco Field Office Director.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            358,
+            870
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on April 22, 2025 (APA and Fifth Amendment claims) in N.D. Cal. by 12 F-1 students/OPT.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            358,
+            750
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on April 22, 2025, in the U.S. District Court for the Northern District of California against President Trump, DHS Secretary, ICE Acting Director, and ICE San Francisco Field Office Director.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            871,
+            983
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case initially assigned to Judge P. Casey Pitts; reassigned to Judge Steven White on April 24, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      }
+    ]
+  },
+  {
+    "id": "46459_p2",
+    "metadata": {
+      "case_id": "46459",
+      "paragraph_num": 2,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs claimed that between April 4 and 8, 2025, the defendants abruptly terminated their F-..."
+    },
+    "source": "",
+    "target": "This case is one of numerous lawsuits challenging the Trump administration\u2019s abrupt termination of immigration visas\u2014mostly student or work visas\u2014with no notice to the visa-holders and with dubious or no legal basis. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38954&ordering=-summary_approved_date].\n\nOn April 22, 2025, twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT) filed this lawsuit in the U.S. District Court for the Northern District of California against President Trump, the Secretary of Homeland Security, the Acting Director of Immigration and Customs Enforcement (ICE), and the ICE Field Office Director of San Francisco. The plaintiffs brought claims under the Administrative Procedure Act and the Due Process Clause of the Fifth Amendment. The case was initially assigned to Judge P. Casey Pitts, but reassigned to Judge Steven White on April 24, 2025.\n\nThe plaintiffs claimed that between April 4 and 8, 2025, the defendants abruptly terminated their F-1 visas and records in the Student and Exchange Visitor Information System (SEVIS), effectively stripping them of their ability to remain students in the United States. The stated reason was \u201cotherwise failing to maintain status,\u201d and that they had been \u201cidentified in a criminal records check and/or had their visa revoked.\u201d The plaintiffs contended that they had fully complied with the terms of their F-1 status and engaged in no conduct warranting termination. They argued that the SEVIS terminations and subsequent visa revocations appeared to be part of a policy intended to coerce international students into abandoning their studies and self-deporting.\n\nRepresented by private counsel, the plaintiffs sought declaratory relief, restoration of their SEVIS records and F-1 statuses, and protection from enforcement or deportation. They further sought to enjoin the defendants from detaining or transferring them during the proceedings. The plaintiffs did not challenge the visa revocations, arguing that F-1 status could remain valid despite revocation.\n\nOn April 23, 2025, the plaintiffs moved for a temporary restraining order and preliminary injunction.\n\nThe court granted the plaintiffs\u2019 motion for a temporary restraining order on April 25, 2025, enjoining the defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the termination of their SEVIS records or potential F-1 visa revocations until May 15, 2025. The court found that the plaintiffs had shown \"at least serious questions exist\" on their claims under the Administrative Procedure Act.\n\nOn May 22, 2025, the court granted a preliminary injunction. The court rejected the defendants\u2019 distinction between an active SEVIS record and lawful F-1 status, noting that terminating a SEVIS record effectively ended F-1 status. The order described the defendants\u2019 \u201cStudent Criminal Alien Initiative,\u201d in which ICE terminated thousands of SEVIS records based on criminal database checks and a State Department request, and noted a new policy listing visa revocation as a reason for termination. The injunction barred the defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals, from imposing adverse legal effects from SEVIS terminations, and from reversing reinstated SEVIS records of individuals maintaining their status without court approval.\n\nThe defendants appealed the preliminary injunction to the Ninth Circuit on July 21, 2025. They argued that the injunction exceeded the court\u2019s authority as a nationwide order, citing Trump v. CASA, Inc., and that the plaintiffs failed to show irreparable harm because ICE had already reactivated SEVIS records retroactively. They also contended that the injunction was vague and overbroad, restricting lawful enforcement and exposing DHS officers to contempt, and improperly limited their authority to terminate SEVIS records unrelated to the \u201cStudent Criminal Alien Initiative.\u201d\n\nOn August 8, 2025, the defendants moved to stay the injunction\u2019s nationwide scope, its bar on arresting or transferring the plaintiffs for reasons unrelated to SEVIS termination, and its restriction on terminating SEVIS records outside the Criminal Alien Initiative.\n\nOn August 22, 2025, the Ninth Circuit granted, in part, and denied, in part, the defendants\u2019 motion to stay pending appeal. \u00a0The court upheld the universal scope of the injunction, finding that Trump v. CASA did not bar nationwide relief under the Administrative Procedure Act, and concluded that the defendants had not shown irreparable harm. The court modified the arrest and transfer provisions, allowing arrests only if based on new material information unrelated to the SEVIS terminations, but denied any modification to the reversal provision, maintaining that defendants cannot reverse reinstated SEVIS records without court approval.\n\nThis case remains ongoing.",
+    "target_paragraph": "The plaintiffs claimed that between April 4 and 8, 2025, the defendants abruptly terminated their F-1 visas and records in the Student and Exchange Visitor Information System (SEVIS), effectively stripping them of their ability to remain students in the United States. The stated reason was \u201cotherwise failing to maintain status,\u201d and that they had been \u201cidentified in a criminal records check and/or had their visa revoked.\u201d The plaintiffs contended that they had fully complied with the terms of their F-1 status and engaged in no conduct warranting termination. They argued that the SEVIS terminations and subsequent visa revocations appeared to be part of a policy intended to coerce international students into abandoning their studies and self-deporting.",
+    "target_paragraph_indices": [
+      985,
+      1745
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            985,
+            1253
+          ]
+        ],
+        "annotation": {
+          "explanation": "Core event: Between April 4\u20138, 2025, plaintiffs\u2019 F-1 visas and SEVIS records were abruptly terminated, removing their ability to remain students.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1254,
+            1410
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government\u2019s stated reasons for termination: alleged failure to maintain status; identification in a criminal records check and/or visa revocation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1411,
+            1549
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 compliance claim: They fully complied with F-1 requirements and did nothing warranting termination.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1550,
+            1745
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged coercive policy: Plaintiffs assert the terminations and visa revocations were intended to force students to abandon studies and self-deport.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46459_p3",
+    "metadata": {
+      "case_id": "46459",
+      "paragraph_num": 3,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Represented by private counsel, the plaintiffs sought declaratory relief, restoration of their SEVIS..."
+    },
+    "source": "",
+    "target": "This case is one of numerous lawsuits challenging the Trump administration\u2019s abrupt termination of immigration visas\u2014mostly student or work visas\u2014with no notice to the visa-holders and with dubious or no legal basis. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38954&ordering=-summary_approved_date].\n\nOn April 22, 2025, twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT) filed this lawsuit in the U.S. District Court for the Northern District of California against President Trump, the Secretary of Homeland Security, the Acting Director of Immigration and Customs Enforcement (ICE), and the ICE Field Office Director of San Francisco. The plaintiffs brought claims under the Administrative Procedure Act and the Due Process Clause of the Fifth Amendment. The case was initially assigned to Judge P. Casey Pitts, but reassigned to Judge Steven White on April 24, 2025.\n\nThe plaintiffs claimed that between April 4 and 8, 2025, the defendants abruptly terminated their F-1 visas and records in the Student and Exchange Visitor Information System (SEVIS), effectively stripping them of their ability to remain students in the United States. The stated reason was \u201cotherwise failing to maintain status,\u201d and that they had been \u201cidentified in a criminal records check and/or had their visa revoked.\u201d The plaintiffs contended that they had fully complied with the terms of their F-1 status and engaged in no conduct warranting termination. They argued that the SEVIS terminations and subsequent visa revocations appeared to be part of a policy intended to coerce international students into abandoning their studies and self-deporting.\n\nRepresented by private counsel, the plaintiffs sought declaratory relief, restoration of their SEVIS records and F-1 statuses, and protection from enforcement or deportation. They further sought to enjoin the defendants from detaining or transferring them during the proceedings. The plaintiffs did not challenge the visa revocations, arguing that F-1 status could remain valid despite revocation.\n\nOn April 23, 2025, the plaintiffs moved for a temporary restraining order and preliminary injunction.\n\nThe court granted the plaintiffs\u2019 motion for a temporary restraining order on April 25, 2025, enjoining the defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the termination of their SEVIS records or potential F-1 visa revocations until May 15, 2025. The court found that the plaintiffs had shown \"at least serious questions exist\" on their claims under the Administrative Procedure Act.\n\nOn May 22, 2025, the court granted a preliminary injunction. The court rejected the defendants\u2019 distinction between an active SEVIS record and lawful F-1 status, noting that terminating a SEVIS record effectively ended F-1 status. The order described the defendants\u2019 \u201cStudent Criminal Alien Initiative,\u201d in which ICE terminated thousands of SEVIS records based on criminal database checks and a State Department request, and noted a new policy listing visa revocation as a reason for termination. The injunction barred the defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals, from imposing adverse legal effects from SEVIS terminations, and from reversing reinstated SEVIS records of individuals maintaining their status without court approval.\n\nThe defendants appealed the preliminary injunction to the Ninth Circuit on July 21, 2025. They argued that the injunction exceeded the court\u2019s authority as a nationwide order, citing Trump v. CASA, Inc., and that the plaintiffs failed to show irreparable harm because ICE had already reactivated SEVIS records retroactively. They also contended that the injunction was vague and overbroad, restricting lawful enforcement and exposing DHS officers to contempt, and improperly limited their authority to terminate SEVIS records unrelated to the \u201cStudent Criminal Alien Initiative.\u201d\n\nOn August 8, 2025, the defendants moved to stay the injunction\u2019s nationwide scope, its bar on arresting or transferring the plaintiffs for reasons unrelated to SEVIS termination, and its restriction on terminating SEVIS records outside the Criminal Alien Initiative.\n\nOn August 22, 2025, the Ninth Circuit granted, in part, and denied, in part, the defendants\u2019 motion to stay pending appeal. \u00a0The court upheld the universal scope of the injunction, finding that Trump v. CASA did not bar nationwide relief under the Administrative Procedure Act, and concluded that the defendants had not shown irreparable harm. The court modified the arrest and transfer provisions, allowing arrests only if based on new material information unrelated to the SEVIS terminations, but denied any modification to the reversal provision, maintaining that defendants cannot reverse reinstated SEVIS records without court approval.\n\nThis case remains ongoing.",
+    "target_paragraph": "Represented by private counsel, the plaintiffs sought declaratory relief, restoration of their SEVIS records and F-1 statuses, and protection from enforcement or deportation. They further sought to enjoin the defendants from detaining or transferring them during the proceedings. The plaintiffs did not challenge the visa revocations, arguing that F-1 status could remain valid despite revocation.",
+    "target_paragraph_indices": [
+      1747,
+      2144
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1747,
+            1921
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1747,
+            1921
+          ]
+        ],
+        "annotation": {
+          "explanation": "Restoration of SEVIS records and F-1 statuses",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1747,
+            1921
+          ]
+        ],
+        "annotation": {
+          "explanation": "Protection from enforcement or deportation",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1922,
+            2026
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunction to bar defendants from detaining or transferring plaintiffs during the proceedings",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1747,
+            1921
+          ]
+        ],
+        "annotation": {
+          "explanation": "private counsel",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1747,
+            1921
+          ],
+          [
+            1922,
+            2026
+          ],
+          [
+            2027,
+            2144
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought and position on revocations: Plaintiffs sought declaratory relief, restoration of SEVIS/F-1 status, and protection from enforcement/detention/transfer; they did not challenge visa revocations, asserting F-1 status can remain valid despite revocation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46459_p4",
+    "metadata": {
+      "case_id": "46459",
+      "paragraph_num": 4,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 23, 2025, the plaintiffs moved for a temporary restraining order and preliminary injunction..."
+    },
+    "source": "",
+    "target": "This case is one of numerous lawsuits challenging the Trump administration\u2019s abrupt termination of immigration visas\u2014mostly student or work visas\u2014with no notice to the visa-holders and with dubious or no legal basis. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38954&ordering=-summary_approved_date].\n\nOn April 22, 2025, twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT) filed this lawsuit in the U.S. District Court for the Northern District of California against President Trump, the Secretary of Homeland Security, the Acting Director of Immigration and Customs Enforcement (ICE), and the ICE Field Office Director of San Francisco. The plaintiffs brought claims under the Administrative Procedure Act and the Due Process Clause of the Fifth Amendment. The case was initially assigned to Judge P. Casey Pitts, but reassigned to Judge Steven White on April 24, 2025.\n\nThe plaintiffs claimed that between April 4 and 8, 2025, the defendants abruptly terminated their F-1 visas and records in the Student and Exchange Visitor Information System (SEVIS), effectively stripping them of their ability to remain students in the United States. The stated reason was \u201cotherwise failing to maintain status,\u201d and that they had been \u201cidentified in a criminal records check and/or had their visa revoked.\u201d The plaintiffs contended that they had fully complied with the terms of their F-1 status and engaged in no conduct warranting termination. They argued that the SEVIS terminations and subsequent visa revocations appeared to be part of a policy intended to coerce international students into abandoning their studies and self-deporting.\n\nRepresented by private counsel, the plaintiffs sought declaratory relief, restoration of their SEVIS records and F-1 statuses, and protection from enforcement or deportation. They further sought to enjoin the defendants from detaining or transferring them during the proceedings. The plaintiffs did not challenge the visa revocations, arguing that F-1 status could remain valid despite revocation.\n\nOn April 23, 2025, the plaintiffs moved for a temporary restraining order and preliminary injunction.\n\nThe court granted the plaintiffs\u2019 motion for a temporary restraining order on April 25, 2025, enjoining the defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the termination of their SEVIS records or potential F-1 visa revocations until May 15, 2025. The court found that the plaintiffs had shown \"at least serious questions exist\" on their claims under the Administrative Procedure Act.\n\nOn May 22, 2025, the court granted a preliminary injunction. The court rejected the defendants\u2019 distinction between an active SEVIS record and lawful F-1 status, noting that terminating a SEVIS record effectively ended F-1 status. The order described the defendants\u2019 \u201cStudent Criminal Alien Initiative,\u201d in which ICE terminated thousands of SEVIS records based on criminal database checks and a State Department request, and noted a new policy listing visa revocation as a reason for termination. The injunction barred the defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals, from imposing adverse legal effects from SEVIS terminations, and from reversing reinstated SEVIS records of individuals maintaining their status without court approval.\n\nThe defendants appealed the preliminary injunction to the Ninth Circuit on July 21, 2025. They argued that the injunction exceeded the court\u2019s authority as a nationwide order, citing Trump v. CASA, Inc., and that the plaintiffs failed to show irreparable harm because ICE had already reactivated SEVIS records retroactively. They also contended that the injunction was vague and overbroad, restricting lawful enforcement and exposing DHS officers to contempt, and improperly limited their authority to terminate SEVIS records unrelated to the \u201cStudent Criminal Alien Initiative.\u201d\n\nOn August 8, 2025, the defendants moved to stay the injunction\u2019s nationwide scope, its bar on arresting or transferring the plaintiffs for reasons unrelated to SEVIS termination, and its restriction on terminating SEVIS records outside the Criminal Alien Initiative.\n\nOn August 22, 2025, the Ninth Circuit granted, in part, and denied, in part, the defendants\u2019 motion to stay pending appeal. \u00a0The court upheld the universal scope of the injunction, finding that Trump v. CASA did not bar nationwide relief under the Administrative Procedure Act, and concluded that the defendants had not shown irreparable harm. The court modified the arrest and transfer provisions, allowing arrests only if based on new material information unrelated to the SEVIS terminations, but denied any modification to the reversal provision, maintaining that defendants cannot reverse reinstated SEVIS records without court approval.\n\nThis case remains ongoing.",
+    "target_paragraph": "On April 23, 2025, the plaintiffs moved for a temporary restraining order and preliminary injunction.",
+    "target_paragraph_indices": [
+      2146,
+      2247
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2146,
+            2247
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order and preliminary injunction",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2146,
+            2247
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for temporary restraining order and preliminary injunction filed on April 23, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2146,
+            2247
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs moved for a temporary restraining order and preliminary injunction on April 23, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46459_p5",
+    "metadata": {
+      "case_id": "46459",
+      "paragraph_num": 5,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court granted the plaintiffs\u2019 motion for a temporary restraining order on April 25, 2025, enjoin..."
+    },
+    "source": "",
+    "target": "This case is one of numerous lawsuits challenging the Trump administration\u2019s abrupt termination of immigration visas\u2014mostly student or work visas\u2014with no notice to the visa-holders and with dubious or no legal basis. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38954&ordering=-summary_approved_date].\n\nOn April 22, 2025, twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT) filed this lawsuit in the U.S. District Court for the Northern District of California against President Trump, the Secretary of Homeland Security, the Acting Director of Immigration and Customs Enforcement (ICE), and the ICE Field Office Director of San Francisco. The plaintiffs brought claims under the Administrative Procedure Act and the Due Process Clause of the Fifth Amendment. The case was initially assigned to Judge P. Casey Pitts, but reassigned to Judge Steven White on April 24, 2025.\n\nThe plaintiffs claimed that between April 4 and 8, 2025, the defendants abruptly terminated their F-1 visas and records in the Student and Exchange Visitor Information System (SEVIS), effectively stripping them of their ability to remain students in the United States. The stated reason was \u201cotherwise failing to maintain status,\u201d and that they had been \u201cidentified in a criminal records check and/or had their visa revoked.\u201d The plaintiffs contended that they had fully complied with the terms of their F-1 status and engaged in no conduct warranting termination. They argued that the SEVIS terminations and subsequent visa revocations appeared to be part of a policy intended to coerce international students into abandoning their studies and self-deporting.\n\nRepresented by private counsel, the plaintiffs sought declaratory relief, restoration of their SEVIS records and F-1 statuses, and protection from enforcement or deportation. They further sought to enjoin the defendants from detaining or transferring them during the proceedings. The plaintiffs did not challenge the visa revocations, arguing that F-1 status could remain valid despite revocation.\n\nOn April 23, 2025, the plaintiffs moved for a temporary restraining order and preliminary injunction.\n\nThe court granted the plaintiffs\u2019 motion for a temporary restraining order on April 25, 2025, enjoining the defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the termination of their SEVIS records or potential F-1 visa revocations until May 15, 2025. The court found that the plaintiffs had shown \"at least serious questions exist\" on their claims under the Administrative Procedure Act.\n\nOn May 22, 2025, the court granted a preliminary injunction. The court rejected the defendants\u2019 distinction between an active SEVIS record and lawful F-1 status, noting that terminating a SEVIS record effectively ended F-1 status. The order described the defendants\u2019 \u201cStudent Criminal Alien Initiative,\u201d in which ICE terminated thousands of SEVIS records based on criminal database checks and a State Department request, and noted a new policy listing visa revocation as a reason for termination. The injunction barred the defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals, from imposing adverse legal effects from SEVIS terminations, and from reversing reinstated SEVIS records of individuals maintaining their status without court approval.\n\nThe defendants appealed the preliminary injunction to the Ninth Circuit on July 21, 2025. They argued that the injunction exceeded the court\u2019s authority as a nationwide order, citing Trump v. CASA, Inc., and that the plaintiffs failed to show irreparable harm because ICE had already reactivated SEVIS records retroactively. They also contended that the injunction was vague and overbroad, restricting lawful enforcement and exposing DHS officers to contempt, and improperly limited their authority to terminate SEVIS records unrelated to the \u201cStudent Criminal Alien Initiative.\u201d\n\nOn August 8, 2025, the defendants moved to stay the injunction\u2019s nationwide scope, its bar on arresting or transferring the plaintiffs for reasons unrelated to SEVIS termination, and its restriction on terminating SEVIS records outside the Criminal Alien Initiative.\n\nOn August 22, 2025, the Ninth Circuit granted, in part, and denied, in part, the defendants\u2019 motion to stay pending appeal. \u00a0The court upheld the universal scope of the injunction, finding that Trump v. CASA did not bar nationwide relief under the Administrative Procedure Act, and concluded that the defendants had not shown irreparable harm. The court modified the arrest and transfer provisions, allowing arrests only if based on new material information unrelated to the SEVIS terminations, but denied any modification to the reversal provision, maintaining that defendants cannot reverse reinstated SEVIS records without court approval.\n\nThis case remains ongoing.",
+    "target_paragraph": "The court granted the plaintiffs\u2019 motion for a temporary restraining order on April 25, 2025, enjoining the defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the termination of their SEVIS records or potential F-1 visa revocations until May 15, 2025. The court found that the plaintiffs had shown \"at least serious questions exist\" on their claims under the Administrative Procedure Act.",
+    "target_paragraph_indices": [
+      2249,
+      2684
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2249,
+            2547
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 25, 2025 to May 15, 2025: Temporary restraining order enjoining the defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the termination of their SEVIS records or potential F-1 visa revocations.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2249,
+            2547
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 25, 2025: Court granted a temporary restraining order enjoining defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the SEVIS terminations or visa revocations until May 15, 2025.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2249,
+            2547
+          ],
+          [
+            2548,
+            2684
+          ]
+        ],
+        "annotation": {
+          "explanation": "Early judicial findings reflecting factual basis: TRO granted; court found at least serious questions under the APA and barred enforcement of SEVIS terminations/visa revocations\u2019 legal effects temporarily.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2249,
+            2684
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order granted on April 25, 2025; enjoined arrests/transfers and legal effects of SEVIS terminations or visa revocations until May 15, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2249,
+            2547
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO (Apr 25\u2013May 15, 2025): Defendants are enjoined from (a) arresting or transferring the named plaintiffs and (b) enforcing any legal effect from the termination of their SEVIS records or potential F\u20111 visa revocations.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2249,
+            2547
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO (effective until May 15, 2025): Defendants are enjoined from (a) arresting or transferring the named plaintiffs; and (b) enforcing any legal effect from termination of their SEVIS records or potential F-1 visa revocations.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2249,
+            2684
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO granted on April 25, 2025; enjoined arrests/transfers and enforcement of SEVIS terminations or visa revocation effects until May 15, 2025; court found at least serious questions on APA claims.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2249,
+            2547
+          ],
+          [
+            2548,
+            2684
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary Restraining Order granted on April 25, 2025; enjoined arrests/transfers of named plaintiffs and enforcement of SEVIS terminations or potential F-1 visa revocations until May 15, 2025; court found at least serious questions on APA claims.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46459_p6",
+    "metadata": {
+      "case_id": "46459",
+      "paragraph_num": 6,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 22, 2025, the court granted a preliminary injunction. The court rejected the defendants\u2019 dist..."
+    },
+    "source": "",
+    "target": "This case is one of numerous lawsuits challenging the Trump administration\u2019s abrupt termination of immigration visas\u2014mostly student or work visas\u2014with no notice to the visa-holders and with dubious or no legal basis. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38954&ordering=-summary_approved_date].\n\nOn April 22, 2025, twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT) filed this lawsuit in the U.S. District Court for the Northern District of California against President Trump, the Secretary of Homeland Security, the Acting Director of Immigration and Customs Enforcement (ICE), and the ICE Field Office Director of San Francisco. The plaintiffs brought claims under the Administrative Procedure Act and the Due Process Clause of the Fifth Amendment. The case was initially assigned to Judge P. Casey Pitts, but reassigned to Judge Steven White on April 24, 2025.\n\nThe plaintiffs claimed that between April 4 and 8, 2025, the defendants abruptly terminated their F-1 visas and records in the Student and Exchange Visitor Information System (SEVIS), effectively stripping them of their ability to remain students in the United States. The stated reason was \u201cotherwise failing to maintain status,\u201d and that they had been \u201cidentified in a criminal records check and/or had their visa revoked.\u201d The plaintiffs contended that they had fully complied with the terms of their F-1 status and engaged in no conduct warranting termination. They argued that the SEVIS terminations and subsequent visa revocations appeared to be part of a policy intended to coerce international students into abandoning their studies and self-deporting.\n\nRepresented by private counsel, the plaintiffs sought declaratory relief, restoration of their SEVIS records and F-1 statuses, and protection from enforcement or deportation. They further sought to enjoin the defendants from detaining or transferring them during the proceedings. The plaintiffs did not challenge the visa revocations, arguing that F-1 status could remain valid despite revocation.\n\nOn April 23, 2025, the plaintiffs moved for a temporary restraining order and preliminary injunction.\n\nThe court granted the plaintiffs\u2019 motion for a temporary restraining order on April 25, 2025, enjoining the defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the termination of their SEVIS records or potential F-1 visa revocations until May 15, 2025. The court found that the plaintiffs had shown \"at least serious questions exist\" on their claims under the Administrative Procedure Act.\n\nOn May 22, 2025, the court granted a preliminary injunction. The court rejected the defendants\u2019 distinction between an active SEVIS record and lawful F-1 status, noting that terminating a SEVIS record effectively ended F-1 status. The order described the defendants\u2019 \u201cStudent Criminal Alien Initiative,\u201d in which ICE terminated thousands of SEVIS records based on criminal database checks and a State Department request, and noted a new policy listing visa revocation as a reason for termination. The injunction barred the defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals, from imposing adverse legal effects from SEVIS terminations, and from reversing reinstated SEVIS records of individuals maintaining their status without court approval.\n\nThe defendants appealed the preliminary injunction to the Ninth Circuit on July 21, 2025. They argued that the injunction exceeded the court\u2019s authority as a nationwide order, citing Trump v. CASA, Inc., and that the plaintiffs failed to show irreparable harm because ICE had already reactivated SEVIS records retroactively. They also contended that the injunction was vague and overbroad, restricting lawful enforcement and exposing DHS officers to contempt, and improperly limited their authority to terminate SEVIS records unrelated to the \u201cStudent Criminal Alien Initiative.\u201d\n\nOn August 8, 2025, the defendants moved to stay the injunction\u2019s nationwide scope, its bar on arresting or transferring the plaintiffs for reasons unrelated to SEVIS termination, and its restriction on terminating SEVIS records outside the Criminal Alien Initiative.\n\nOn August 22, 2025, the Ninth Circuit granted, in part, and denied, in part, the defendants\u2019 motion to stay pending appeal. \u00a0The court upheld the universal scope of the injunction, finding that Trump v. CASA did not bar nationwide relief under the Administrative Procedure Act, and concluded that the defendants had not shown irreparable harm. The court modified the arrest and transfer provisions, allowing arrests only if based on new material information unrelated to the SEVIS terminations, but denied any modification to the reversal provision, maintaining that defendants cannot reverse reinstated SEVIS records without court approval.\n\nThis case remains ongoing.",
+    "target_paragraph": "On May 22, 2025, the court granted a preliminary injunction. The court rejected the defendants\u2019 distinction between an active SEVIS record and lawful F-1 status, noting that terminating a SEVIS record effectively ended F-1 status. The order described the defendants\u2019 \u201cStudent Criminal Alien Initiative,\u201d in which ICE terminated thousands of SEVIS records based on criminal database checks and a State Department request, and noted a new policy listing visa revocation as a reason for termination. The injunction barred the defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals, from imposing adverse legal effects from SEVIS terminations, and from reversing reinstated SEVIS records of individuals maintaining their status without court approval.",
+    "target_paragraph_indices": [
+      2686,
+      3488
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2686,
+            2746
+          ],
+          [
+            3183,
+            3488
+          ]
+        ],
+        "annotation": {
+          "explanation": "Not specified: Preliminary injunction barring the defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals; from imposing adverse legal effects from SEVIS terminations; and from reversing reinstated SEVIS records without court approval.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2686,
+            2746
+          ],
+          [
+            3183,
+            3488
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 22, 2025: Court granted a preliminary injunction barring defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals; from imposing adverse legal effects from SEVIS terminations; and from reversing reinstated SEVIS records without court approval.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2917,
+            3182
+          ]
+        ],
+        "annotation": {
+          "explanation": "Policy/evidence context: ICE\u2019s Student Criminal Alien Initiative led to termination of thousands of SEVIS records based on criminal database checks and a State Department request; a new policy listed visa revocation as a termination reason.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2686,
+            2746
+          ],
+          [
+            2747,
+            2916
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court\u2019s factual/legal assessment: Preliminary injunction granted; court found that terminating a SEVIS record effectively ends F-1 status.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3183,
+            3488
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive protections tied to facts: Defendants barred from arrests/transfers/adverse legal effects based on SEVIS terminations and from reversing reinstated SEVIS records without court approval.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2686,
+            3488
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted on May 22, 2025; barred arrests/detentions/transfers and adverse legal effects from SEVIS terminations; restricted reversal of reinstated SEVIS records without court approval.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2686,
+            2746
+          ],
+          [
+            3183,
+            3488
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction (May 22, 2025): Defendants are barred from (a) arresting, detaining, or transferring the named plaintiffs and similarly situated individuals; (b) imposing adverse legal effects based on SEVIS terminations; and (c) reversing reinstated SEVIS records of individuals maintaining their status without court approval.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2686,
+            2746
+          ],
+          [
+            3183,
+            3488
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction: Defendants are barred from (a) arresting, detaining, or transferring the named plaintiffs and similarly situated individuals; (b) imposing adverse legal effects from SEVIS terminations; and (c) reversing reinstated SEVIS records of individuals maintaining status without court approval.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2686,
+            2746
+          ],
+          [
+            2747,
+            2916
+          ],
+          [
+            3183,
+            3488
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted on May 22, 2025; court rejected distinction between SEVIS record and F-1 status; injunction barred arrests/detentions/transfers, adverse legal effects from SEVIS terminations, and reversal of reinstated SEVIS records without court approval.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2686,
+            2746
+          ],
+          [
+            3183,
+            3488
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary Injunction granted on May 22, 2025; barred arrests, detentions, or transfers of named plaintiffs and similarly situated individuals; barred adverse legal effects from SEVIS terminations; and prohibited reversing reinstated SEVIS records of individuals maintaining status without court approval.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46459_p7",
+    "metadata": {
+      "case_id": "46459",
+      "paragraph_num": 7,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The defendants appealed the preliminary injunction to the Ninth Circuit on July 21, 2025. They argue..."
+    },
+    "source": "",
+    "target": "This case is one of numerous lawsuits challenging the Trump administration\u2019s abrupt termination of immigration visas\u2014mostly student or work visas\u2014with no notice to the visa-holders and with dubious or no legal basis. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38954&ordering=-summary_approved_date].\n\nOn April 22, 2025, twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT) filed this lawsuit in the U.S. District Court for the Northern District of California against President Trump, the Secretary of Homeland Security, the Acting Director of Immigration and Customs Enforcement (ICE), and the ICE Field Office Director of San Francisco. The plaintiffs brought claims under the Administrative Procedure Act and the Due Process Clause of the Fifth Amendment. The case was initially assigned to Judge P. Casey Pitts, but reassigned to Judge Steven White on April 24, 2025.\n\nThe plaintiffs claimed that between April 4 and 8, 2025, the defendants abruptly terminated their F-1 visas and records in the Student and Exchange Visitor Information System (SEVIS), effectively stripping them of their ability to remain students in the United States. The stated reason was \u201cotherwise failing to maintain status,\u201d and that they had been \u201cidentified in a criminal records check and/or had their visa revoked.\u201d The plaintiffs contended that they had fully complied with the terms of their F-1 status and engaged in no conduct warranting termination. They argued that the SEVIS terminations and subsequent visa revocations appeared to be part of a policy intended to coerce international students into abandoning their studies and self-deporting.\n\nRepresented by private counsel, the plaintiffs sought declaratory relief, restoration of their SEVIS records and F-1 statuses, and protection from enforcement or deportation. They further sought to enjoin the defendants from detaining or transferring them during the proceedings. The plaintiffs did not challenge the visa revocations, arguing that F-1 status could remain valid despite revocation.\n\nOn April 23, 2025, the plaintiffs moved for a temporary restraining order and preliminary injunction.\n\nThe court granted the plaintiffs\u2019 motion for a temporary restraining order on April 25, 2025, enjoining the defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the termination of their SEVIS records or potential F-1 visa revocations until May 15, 2025. The court found that the plaintiffs had shown \"at least serious questions exist\" on their claims under the Administrative Procedure Act.\n\nOn May 22, 2025, the court granted a preliminary injunction. The court rejected the defendants\u2019 distinction between an active SEVIS record and lawful F-1 status, noting that terminating a SEVIS record effectively ended F-1 status. The order described the defendants\u2019 \u201cStudent Criminal Alien Initiative,\u201d in which ICE terminated thousands of SEVIS records based on criminal database checks and a State Department request, and noted a new policy listing visa revocation as a reason for termination. The injunction barred the defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals, from imposing adverse legal effects from SEVIS terminations, and from reversing reinstated SEVIS records of individuals maintaining their status without court approval.\n\nThe defendants appealed the preliminary injunction to the Ninth Circuit on July 21, 2025. They argued that the injunction exceeded the court\u2019s authority as a nationwide order, citing Trump v. CASA, Inc., and that the plaintiffs failed to show irreparable harm because ICE had already reactivated SEVIS records retroactively. They also contended that the injunction was vague and overbroad, restricting lawful enforcement and exposing DHS officers to contempt, and improperly limited their authority to terminate SEVIS records unrelated to the \u201cStudent Criminal Alien Initiative.\u201d\n\nOn August 8, 2025, the defendants moved to stay the injunction\u2019s nationwide scope, its bar on arresting or transferring the plaintiffs for reasons unrelated to SEVIS termination, and its restriction on terminating SEVIS records outside the Criminal Alien Initiative.\n\nOn August 22, 2025, the Ninth Circuit granted, in part, and denied, in part, the defendants\u2019 motion to stay pending appeal. \u00a0The court upheld the universal scope of the injunction, finding that Trump v. CASA did not bar nationwide relief under the Administrative Procedure Act, and concluded that the defendants had not shown irreparable harm. The court modified the arrest and transfer provisions, allowing arrests only if based on new material information unrelated to the SEVIS terminations, but denied any modification to the reversal provision, maintaining that defendants cannot reverse reinstated SEVIS records without court approval.\n\nThis case remains ongoing.",
+    "target_paragraph": "The defendants appealed the preliminary injunction to the Ninth Circuit on July 21, 2025. They argued that the injunction exceeded the court\u2019s authority as a nationwide order, citing Trump v. CASA, Inc., and that the plaintiffs failed to show irreparable harm because ICE had already reactivated SEVIS records retroactively. They also contended that the injunction was vague and overbroad, restricting lawful enforcement and exposing DHS officers to contempt, and improperly limited their authority to terminate SEVIS records unrelated to the \u201cStudent Criminal Alien Initiative.\u201d",
+    "target_paragraph_indices": [
+      3490,
+      4069
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3580,
+            3814
+          ],
+          [
+            4464,
+            4682
+          ]
+        ],
+        "annotation": {
+          "explanation": "Trump v. CASA, Inc.",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": [
+            7,
+            9
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            3490,
+            3579
+          ],
+          [
+            4339,
+            4462
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: The defendants appealed to the Ninth Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": [
+            7,
+            9
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3580,
+            3814
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 appellate assertion indicating subsequent agency action: ICE purportedly reactivated SEVIS records retroactively (raised to counter irreparable harm).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3490,
+            3579
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a notice of appeal to the Ninth Circuit on July 21, 2025 (appealing the preliminary injunction).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3490,
+            3579
+          ],
+          [
+            3580,
+            3814
+          ],
+          [
+            3815,
+            4069
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants appealed to the Ninth Circuit on July 21, 2025; arguments included challenges to nationwide scope (citing Trump v. CASA), lack of irreparable harm due to SEVIS reactivation, and claims that the injunction was vague, overbroad, and improperly limited SEVIS termination authority.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46459_p8",
+    "metadata": {
+      "case_id": "46459",
+      "paragraph_num": 8,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 8, 2025, the defendants moved to stay the injunction\u2019s nationwide scope, its bar on arrest..."
+    },
+    "source": "",
+    "target": "This case is one of numerous lawsuits challenging the Trump administration\u2019s abrupt termination of immigration visas\u2014mostly student or work visas\u2014with no notice to the visa-holders and with dubious or no legal basis. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38954&ordering=-summary_approved_date].\n\nOn April 22, 2025, twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT) filed this lawsuit in the U.S. District Court for the Northern District of California against President Trump, the Secretary of Homeland Security, the Acting Director of Immigration and Customs Enforcement (ICE), and the ICE Field Office Director of San Francisco. The plaintiffs brought claims under the Administrative Procedure Act and the Due Process Clause of the Fifth Amendment. The case was initially assigned to Judge P. Casey Pitts, but reassigned to Judge Steven White on April 24, 2025.\n\nThe plaintiffs claimed that between April 4 and 8, 2025, the defendants abruptly terminated their F-1 visas and records in the Student and Exchange Visitor Information System (SEVIS), effectively stripping them of their ability to remain students in the United States. The stated reason was \u201cotherwise failing to maintain status,\u201d and that they had been \u201cidentified in a criminal records check and/or had their visa revoked.\u201d The plaintiffs contended that they had fully complied with the terms of their F-1 status and engaged in no conduct warranting termination. They argued that the SEVIS terminations and subsequent visa revocations appeared to be part of a policy intended to coerce international students into abandoning their studies and self-deporting.\n\nRepresented by private counsel, the plaintiffs sought declaratory relief, restoration of their SEVIS records and F-1 statuses, and protection from enforcement or deportation. They further sought to enjoin the defendants from detaining or transferring them during the proceedings. The plaintiffs did not challenge the visa revocations, arguing that F-1 status could remain valid despite revocation.\n\nOn April 23, 2025, the plaintiffs moved for a temporary restraining order and preliminary injunction.\n\nThe court granted the plaintiffs\u2019 motion for a temporary restraining order on April 25, 2025, enjoining the defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the termination of their SEVIS records or potential F-1 visa revocations until May 15, 2025. The court found that the plaintiffs had shown \"at least serious questions exist\" on their claims under the Administrative Procedure Act.\n\nOn May 22, 2025, the court granted a preliminary injunction. The court rejected the defendants\u2019 distinction between an active SEVIS record and lawful F-1 status, noting that terminating a SEVIS record effectively ended F-1 status. The order described the defendants\u2019 \u201cStudent Criminal Alien Initiative,\u201d in which ICE terminated thousands of SEVIS records based on criminal database checks and a State Department request, and noted a new policy listing visa revocation as a reason for termination. The injunction barred the defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals, from imposing adverse legal effects from SEVIS terminations, and from reversing reinstated SEVIS records of individuals maintaining their status without court approval.\n\nThe defendants appealed the preliminary injunction to the Ninth Circuit on July 21, 2025. They argued that the injunction exceeded the court\u2019s authority as a nationwide order, citing Trump v. CASA, Inc., and that the plaintiffs failed to show irreparable harm because ICE had already reactivated SEVIS records retroactively. They also contended that the injunction was vague and overbroad, restricting lawful enforcement and exposing DHS officers to contempt, and improperly limited their authority to terminate SEVIS records unrelated to the \u201cStudent Criminal Alien Initiative.\u201d\n\nOn August 8, 2025, the defendants moved to stay the injunction\u2019s nationwide scope, its bar on arresting or transferring the plaintiffs for reasons unrelated to SEVIS termination, and its restriction on terminating SEVIS records outside the Criminal Alien Initiative.\n\nOn August 22, 2025, the Ninth Circuit granted, in part, and denied, in part, the defendants\u2019 motion to stay pending appeal. \u00a0The court upheld the universal scope of the injunction, finding that Trump v. CASA did not bar nationwide relief under the Administrative Procedure Act, and concluded that the defendants had not shown irreparable harm. The court modified the arrest and transfer provisions, allowing arrests only if based on new material information unrelated to the SEVIS terminations, but denied any modification to the reversal provision, maintaining that defendants cannot reverse reinstated SEVIS records without court approval.\n\nThis case remains ongoing.",
+    "target_paragraph": "On August 8, 2025, the defendants moved to stay the injunction\u2019s nationwide scope, its bar on arresting or transferring the plaintiffs for reasons unrelated to SEVIS termination, and its restriction on terminating SEVIS records outside the Criminal Alien Initiative.",
+    "target_paragraph_indices": [
+      4071,
+      4337
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4071,
+            4337
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion to stay portions of the preliminary injunction filed on August 8, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4071,
+            4337
+          ]
+        ],
+        "annotation": {
+          "explanation": "On August 8, 2025, defendants moved to stay the injunction\u2019s nationwide scope, the bar on arresting/transferring plaintiffs for reasons unrelated to SEVIS termination, and the restriction on terminating SEVIS records outside the Criminal Alien Initiative.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46459_p9",
+    "metadata": {
+      "case_id": "46459",
+      "paragraph_num": 9,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 22, 2025, the Ninth Circuit granted, in part, and denied, in part, the defendants\u2019 motion ..."
+    },
+    "source": "",
+    "target": "This case is one of numerous lawsuits challenging the Trump administration\u2019s abrupt termination of immigration visas\u2014mostly student or work visas\u2014with no notice to the visa-holders and with dubious or no legal basis. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38954&ordering=-summary_approved_date].\n\nOn April 22, 2025, twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT) filed this lawsuit in the U.S. District Court for the Northern District of California against President Trump, the Secretary of Homeland Security, the Acting Director of Immigration and Customs Enforcement (ICE), and the ICE Field Office Director of San Francisco. The plaintiffs brought claims under the Administrative Procedure Act and the Due Process Clause of the Fifth Amendment. The case was initially assigned to Judge P. Casey Pitts, but reassigned to Judge Steven White on April 24, 2025.\n\nThe plaintiffs claimed that between April 4 and 8, 2025, the defendants abruptly terminated their F-1 visas and records in the Student and Exchange Visitor Information System (SEVIS), effectively stripping them of their ability to remain students in the United States. The stated reason was \u201cotherwise failing to maintain status,\u201d and that they had been \u201cidentified in a criminal records check and/or had their visa revoked.\u201d The plaintiffs contended that they had fully complied with the terms of their F-1 status and engaged in no conduct warranting termination. They argued that the SEVIS terminations and subsequent visa revocations appeared to be part of a policy intended to coerce international students into abandoning their studies and self-deporting.\n\nRepresented by private counsel, the plaintiffs sought declaratory relief, restoration of their SEVIS records and F-1 statuses, and protection from enforcement or deportation. They further sought to enjoin the defendants from detaining or transferring them during the proceedings. The plaintiffs did not challenge the visa revocations, arguing that F-1 status could remain valid despite revocation.\n\nOn April 23, 2025, the plaintiffs moved for a temporary restraining order and preliminary injunction.\n\nThe court granted the plaintiffs\u2019 motion for a temporary restraining order on April 25, 2025, enjoining the defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the termination of their SEVIS records or potential F-1 visa revocations until May 15, 2025. The court found that the plaintiffs had shown \"at least serious questions exist\" on their claims under the Administrative Procedure Act.\n\nOn May 22, 2025, the court granted a preliminary injunction. The court rejected the defendants\u2019 distinction between an active SEVIS record and lawful F-1 status, noting that terminating a SEVIS record effectively ended F-1 status. The order described the defendants\u2019 \u201cStudent Criminal Alien Initiative,\u201d in which ICE terminated thousands of SEVIS records based on criminal database checks and a State Department request, and noted a new policy listing visa revocation as a reason for termination. The injunction barred the defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals, from imposing adverse legal effects from SEVIS terminations, and from reversing reinstated SEVIS records of individuals maintaining their status without court approval.\n\nThe defendants appealed the preliminary injunction to the Ninth Circuit on July 21, 2025. They argued that the injunction exceeded the court\u2019s authority as a nationwide order, citing Trump v. CASA, Inc., and that the plaintiffs failed to show irreparable harm because ICE had already reactivated SEVIS records retroactively. They also contended that the injunction was vague and overbroad, restricting lawful enforcement and exposing DHS officers to contempt, and improperly limited their authority to terminate SEVIS records unrelated to the \u201cStudent Criminal Alien Initiative.\u201d\n\nOn August 8, 2025, the defendants moved to stay the injunction\u2019s nationwide scope, its bar on arresting or transferring the plaintiffs for reasons unrelated to SEVIS termination, and its restriction on terminating SEVIS records outside the Criminal Alien Initiative.\n\nOn August 22, 2025, the Ninth Circuit granted, in part, and denied, in part, the defendants\u2019 motion to stay pending appeal. \u00a0The court upheld the universal scope of the injunction, finding that Trump v. CASA did not bar nationwide relief under the Administrative Procedure Act, and concluded that the defendants had not shown irreparable harm. The court modified the arrest and transfer provisions, allowing arrests only if based on new material information unrelated to the SEVIS terminations, but denied any modification to the reversal provision, maintaining that defendants cannot reverse reinstated SEVIS records without court approval.\n\nThis case remains ongoing.",
+    "target_paragraph": "On August 22, 2025, the Ninth Circuit granted, in part, and denied, in part, the defendants\u2019 motion to stay pending appeal. \u00a0The court upheld the universal scope of the injunction, finding that Trump v. CASA did not bar nationwide relief under the Administrative Procedure Act, and concluded that the defendants had not shown irreparable harm. The court modified the arrest and transfer provisions, allowing arrests only if based on new material information unrelated to the SEVIS terminations, but denied any modification to the reversal provision, maintaining that defendants cannot reverse reinstated SEVIS records without court approval.",
+    "target_paragraph_indices": [
+      4339,
+      4980
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4339,
+            4462
+          ],
+          [
+            4683,
+            4980
+          ]
+        ],
+        "annotation": {
+          "explanation": "Pending appeal: Ninth Circuit order partially granting and denying a stay; modified arrest and transfer provisions to allow arrests only if based on new material information unrelated to the SEVIS terminations, and denied modification to the reversal provision (defendants cannot reverse reinstated SEVIS records without court approval).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4683,
+            4980
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 22, 2025: Ninth Circuit granted in part and denied in part the motion to stay pending appeal, upheld the universal scope of the injunction, modified arrest/transfer provisions to allow arrests only if based on new material information unrelated to the SEVIS terminations, and denied modification to the reversal provision.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4339,
+            4462
+          ],
+          [
+            4464,
+            4682
+          ],
+          [
+            4683,
+            4980
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appellate background relevant to ongoing facts: Ninth Circuit largely maintained injunction\u2019s scope; allowed arrests only on new material information unrelated to SEVIS terminations; preserved bar on reversing reinstated SEVIS records without court approval.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4339,
+            4462
+          ],
+          [
+            4464,
+            4682
+          ],
+          [
+            4683,
+            4980
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ninth Circuit modification/stay (Aug 22, 2025): The injunction\u2019s nationwide scope remains in effect. Defendants may arrest only if based on new material information unrelated to the SEVIS terminations; otherwise the arrest/transfer bar remains. Defendants are still prohibited from reversing reinstated SEVIS records without court approval.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4683,
+            4980
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ninth Circuit stay ruling: The nationwide scope of the injunction remains in effect; the arrest/transfer bar is modified to allow arrests only if based on new material information unrelated to the SEVIS terminations; and the prohibition on reversing reinstated SEVIS records without court approval remains in effect.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4339,
+            4462
+          ],
+          [
+            4464,
+            4682
+          ],
+          [
+            4683,
+            4980
+          ]
+        ],
+        "annotation": {
+          "explanation": "On August 22, 2025, the Ninth Circuit granted in part and denied in part the stay; upheld universal scope and found no irreparable harm; modified arrest/transfer provisions to allow arrests only on new material information unrelated to SEVIS terminations; denied modification to the non-reversal provision.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4339,
+            4462
+          ],
+          [
+            4464,
+            4682
+          ],
+          [
+            4683,
+            4980
+          ]
+        ],
+        "annotation": {
+          "explanation": "On August 22, 2025, the Ninth Circuit granted in part and denied in part defendants\u2019 motion to stay pending appeal; upheld the universal scope of the injunction and found no irreparable harm; modified arrest/transfer provisions to allow arrests only on new material information unrelated to SEVIS terminations; denied modification to the prohibition on reversing reinstated SEVIS records without court approval.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46459_p10",
+    "metadata": {
+      "case_id": "46459",
+      "paragraph_num": 10,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case remains ongoing."
+    },
+    "source": "",
+    "target": "This case is one of numerous lawsuits challenging the Trump administration\u2019s abrupt termination of immigration visas\u2014mostly student or work visas\u2014with no notice to the visa-holders and with dubious or no legal basis. You can see all of the cases here [../../../../search/case/?advanced_search=true&special_collection=38954&ordering=-summary_approved_date].\n\nOn April 22, 2025, twelve international students and graduates on F-1 visas and post-graduate Optional Practical Training (OPT) filed this lawsuit in the U.S. District Court for the Northern District of California against President Trump, the Secretary of Homeland Security, the Acting Director of Immigration and Customs Enforcement (ICE), and the ICE Field Office Director of San Francisco. The plaintiffs brought claims under the Administrative Procedure Act and the Due Process Clause of the Fifth Amendment. The case was initially assigned to Judge P. Casey Pitts, but reassigned to Judge Steven White on April 24, 2025.\n\nThe plaintiffs claimed that between April 4 and 8, 2025, the defendants abruptly terminated their F-1 visas and records in the Student and Exchange Visitor Information System (SEVIS), effectively stripping them of their ability to remain students in the United States. The stated reason was \u201cotherwise failing to maintain status,\u201d and that they had been \u201cidentified in a criminal records check and/or had their visa revoked.\u201d The plaintiffs contended that they had fully complied with the terms of their F-1 status and engaged in no conduct warranting termination. They argued that the SEVIS terminations and subsequent visa revocations appeared to be part of a policy intended to coerce international students into abandoning their studies and self-deporting.\n\nRepresented by private counsel, the plaintiffs sought declaratory relief, restoration of their SEVIS records and F-1 statuses, and protection from enforcement or deportation. They further sought to enjoin the defendants from detaining or transferring them during the proceedings. The plaintiffs did not challenge the visa revocations, arguing that F-1 status could remain valid despite revocation.\n\nOn April 23, 2025, the plaintiffs moved for a temporary restraining order and preliminary injunction.\n\nThe court granted the plaintiffs\u2019 motion for a temporary restraining order on April 25, 2025, enjoining the defendants from arresting or transferring the named plaintiffs or enforcing any legal effect from the termination of their SEVIS records or potential F-1 visa revocations until May 15, 2025. The court found that the plaintiffs had shown \"at least serious questions exist\" on their claims under the Administrative Procedure Act.\n\nOn May 22, 2025, the court granted a preliminary injunction. The court rejected the defendants\u2019 distinction between an active SEVIS record and lawful F-1 status, noting that terminating a SEVIS record effectively ended F-1 status. The order described the defendants\u2019 \u201cStudent Criminal Alien Initiative,\u201d in which ICE terminated thousands of SEVIS records based on criminal database checks and a State Department request, and noted a new policy listing visa revocation as a reason for termination. The injunction barred the defendants from arresting, detaining, or transferring the named plaintiffs and similarly situated individuals, from imposing adverse legal effects from SEVIS terminations, and from reversing reinstated SEVIS records of individuals maintaining their status without court approval.\n\nThe defendants appealed the preliminary injunction to the Ninth Circuit on July 21, 2025. They argued that the injunction exceeded the court\u2019s authority as a nationwide order, citing Trump v. CASA, Inc., and that the plaintiffs failed to show irreparable harm because ICE had already reactivated SEVIS records retroactively. They also contended that the injunction was vague and overbroad, restricting lawful enforcement and exposing DHS officers to contempt, and improperly limited their authority to terminate SEVIS records unrelated to the \u201cStudent Criminal Alien Initiative.\u201d\n\nOn August 8, 2025, the defendants moved to stay the injunction\u2019s nationwide scope, its bar on arresting or transferring the plaintiffs for reasons unrelated to SEVIS termination, and its restriction on terminating SEVIS records outside the Criminal Alien Initiative.\n\nOn August 22, 2025, the Ninth Circuit granted, in part, and denied, in part, the defendants\u2019 motion to stay pending appeal. \u00a0The court upheld the universal scope of the injunction, finding that Trump v. CASA did not bar nationwide relief under the Administrative Procedure Act, and concluded that the defendants had not shown irreparable harm. The court modified the arrest and transfer provisions, allowing arrests only if based on new material information unrelated to the SEVIS terminations, but denied any modification to the reversal provision, maintaining that defendants cannot reverse reinstated SEVIS records without court approval.\n\nThis case remains ongoing.",
+    "target_paragraph": "This case remains ongoing.",
+    "target_paragraph_indices": [
+      4982,
+      5008
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4982,
+            5008
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: Ongoing case.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4982,
+            5008
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing; no final trial or judgment reported.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

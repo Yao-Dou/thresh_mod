@@ -1,0 +1,1205 @@
+[
+  {
+    "id": "46330_p0",
+    "metadata": {
+      "case_id": "46330",
+      "paragraph_num": 0,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged the Trump Administration\u2019s actions to limit the Social Security Administration\u2019..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s actions to limit the Social Security Administration\u2019s ability to serve people with disabilities under the guise of bureaucratic \u201cefficiency.\u201d On April 2, 2025, plaintiffs\u2014American Association of People with Disabilities, National Federation of the Blind, DEAF Equality, National Committee to Preserve Social Security and Medicare, Massachusetts Senior Action Council, and private individuals\u2014filed this lawsuit in the U.S. District Court for the District of Columbia. Judge Amit Priyavadan Mehta was assigned to the case. Plaintiffs sued the Social Security Administration (SSA), the Department of Government Efficiency (DOGE), Elon Musk, and other acting heads of these administrative agencies. They sought declaratory and injunctive relief to halt widespread service disruptions and the elimination of legally required civil rights protections.\n\nPlaintiffs claimed that defendants\u2019 abrupt dismantling of SSA\u2019s operations caused irreparable harm to millions of disabled and elderly beneficiaries. They alleged that between January and March 2025, defendants orchestrated a sweeping rollback of services: eliminating the Office of Civil Rights and Equal Opportunity (OCREO), terminating the Office of Transformation, cutting 7,000 SSA employees, freezing hiring, and closing field offices. These changes, they argued, were ordered or heavily influenced by DOGE, a new federal entity created by Executive Order No. 14158, 90 Fed. Reg. 8441 (Jan. 29, 2025).\n\nExecutive Order 14158 established DOGE to \"modernize federal technology and software\" and to \"maximize governmental efficiency.\" It embedded DOGE teams within federal agencies and granted them sweeping access to internal operations and data. Plaintiffs argued that DOGE\u2019s directives had resulted in massive breakdowns in SSA\u2019s ability to deliver benefits, such as multi-hour phone hold times, crashed websites, inaccessible field offices, and termination of benefits for vulnerable individuals.\n\nPlaintiffs filed their complaint on April 2, 2025, alleging defendants\u2019 actions violated the Rehabilitation Act for discriminatory removal of accommodations and civil rights protections. They also asserted APA violations for arbitrary and capricious restructuring without statutory authority and not in accordance with law. Additionally, plaintiffs asserted a First Amendment challenge, arguing that defendants' dissolution of OCREO\u2014the SSA grievance system\u2014unconstitutionally deprived them of their right to petition for redress. Finally, they argued that defendants violated the Take Care and Due Process clauses. Plaintiffs sought a preliminary and permanent injunction barring further implementation of the DOGE-imposed reforms, restoration of OCREO and the Office of Transformation, reinstatement of staffing and telephone services, and court monitoring of SSA compliance. They also requested that the court declare the defendants\u2019 actions unlawful and unconstitutional.\n\nOn the same day, plaintiffs filed a separate motion for a preliminary injunction to stop the elimination of OCREA and the Office of Transformation within SSA, the revocation of the SSA offices, and the mass termination of SSA employees, and to roll back recent policies that increase applicants\u2019 and beneficiaries\u2019 need to seek services in person. Defendants filed their opposition to the preliminary injunction motion on April 16, arguing that (1) plaintiffs lacked standing, (2) the court did not have subject matter jurisdiction, and (3) their claims would fail on the merits. Plaintiffs responded on April 21, 2025, refuting all of defendants' arguments.\n\nOn April 9, 2025, an unopposed motion for leave to file an amicus brief in support of plaintiffs' motion for preliminary injunction was filed by the Center for Medicare Advocacy and Medicare Rights. In their brief, amici argued that disruption to the SSA system had negative effects on Medicare recipients, which disproportionately impacted disabled individuals. On April 15, amici---the States of Connecticut, Arizona, California, Colorado, Delaware, Hawai'i, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, Washington, and the District of Columbia by state of Connecticut---also filed a brief in support of plaintiffs' motion for preliminary injunction.\n\nOn May 6, 2025, the court denied the motion for preliminary injunction, determining plaintiffs failed to establish irreparable harm. The court found that individual plaintiffs could not demonstrate \"life [or] death\" circumstances, and that plaintiff organizations could not prove in sufficient detail that they or their members were \"perceptibly impaired\" by defendants' actions.\n\nThe court has set a briefing schedule. Defendants will file their motion to dismiss by August 8, 2025. Plaintiffs' response brief in opposition to that motion will be due September 12, and defendants' reply will be due September 26. The court will rule on the motion to dismiss after that date.\n\nThis case is ongoing.",
+    "target_paragraph": "This case challenged the Trump Administration\u2019s actions to limit the Social Security Administration\u2019s ability to serve people with disabilities under the guise of bureaucratic \u201cefficiency.\u201d On April 2, 2025, plaintiffs\u2014American Association of People with Disabilities, National Federation of the Blind, DEAF Equality, National Committee to Preserve Social Security and Medicare, Massachusetts Senior Action Council, and private individuals\u2014filed this lawsuit in the U.S. District Court for the District of Columbia. Judge Amit Priyavadan Mehta was assigned to the case. Plaintiffs sued the Social Security Administration (SSA), the Department of Government Efficiency (DOGE), Elon Musk, and other acting heads of these administrative agencies. They sought declaratory and injunctive relief to halt widespread service disruptions and the elimination of legally required civil rights protections.",
+    "target_paragraph_indices": [
+      0,
+      894
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            190,
+            515
+          ],
+          [
+            2001,
+            2187
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 2, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            744,
+            894
+          ],
+          [
+            2879,
+            2976
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief that defendants\u2019 actions are unlawful and unconstitutional.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            744,
+            894
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief to halt widespread service disruptions and the elimination of legally required civil rights protections.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            516,
+            569
+          ]
+        ],
+        "annotation": {
+          "explanation": "[Amit Priyavadan Mehta]",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            190,
+            515
+          ],
+          [
+            4516,
+            4762
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as American Association of People with Disabilities, National Federation of the Blind, DEAF Equality, National Committee to Preserve Social Security and Medicare, Massachusetts Senior Action Council, and private individuals",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            6
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            208,
+            458
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: American Association of People with Disabilities",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            208,
+            458
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: National Federation of the Blind",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            208,
+            458
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: DEAF Equality",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            208,
+            458
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: National Committee to Preserve Social Security and Medicare",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            208,
+            458
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Massachusetts Senior Action Council",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            208,
+            458
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: private individuals",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            570,
+            743
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Social Security Administration (SSA)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            570,
+            743
+          ],
+          [
+            1338,
+            1503
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Government Efficiency (DOGE), a new federal entity created by Executive Order No. 14158",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            570,
+            743
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Elon Musk",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            570,
+            743
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: other acting heads of these administrative agencies",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            190,
+            515
+          ],
+          [
+            516,
+            569
+          ],
+          [
+            570,
+            743
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing details and parties: On April 2, 2025, disability and senior advocacy organizations and individuals filed in D.D.C.; Judge Amit P. Mehta assigned; defendants include SSA, DOGE, Elon Musk, and other acting agency heads.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            744,
+            894
+          ],
+          [
+            2617,
+            2878
+          ],
+          [
+            2879,
+            2976
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: declaratory and injunctive relief to halt disruptions and elimination of civil rights protections; restore OCREO and the Office of Transformation; reinstate staffing and phone services; court monitoring; declarations that actions are unlawful and unconstitutional.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 16
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            190,
+            515
+          ],
+          [
+            2001,
+            2187
+          ],
+          [
+            2617,
+            2976
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed by plaintiffs on April 2, 2025 (D.D.C.), alleging Rehabilitation Act, APA, First Amendment, Take Care, and Due Process violations, seeking declaratory and injunctive relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 17
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            190,
+            515
+          ],
+          [
+            516,
+            569
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed April 2, 2025 in the U.S. District Court for the District of Columbia; Judge Amit Priyavadan Mehta assigned.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      }
+    ]
+  },
+  {
+    "id": "46330_p1",
+    "metadata": {
+      "case_id": "46330",
+      "paragraph_num": 1,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs claimed that defendants\u2019 abrupt dismantling of SSA\u2019s operations caused irreparable harm t..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s actions to limit the Social Security Administration\u2019s ability to serve people with disabilities under the guise of bureaucratic \u201cefficiency.\u201d On April 2, 2025, plaintiffs\u2014American Association of People with Disabilities, National Federation of the Blind, DEAF Equality, National Committee to Preserve Social Security and Medicare, Massachusetts Senior Action Council, and private individuals\u2014filed this lawsuit in the U.S. District Court for the District of Columbia. Judge Amit Priyavadan Mehta was assigned to the case. Plaintiffs sued the Social Security Administration (SSA), the Department of Government Efficiency (DOGE), Elon Musk, and other acting heads of these administrative agencies. They sought declaratory and injunctive relief to halt widespread service disruptions and the elimination of legally required civil rights protections.\n\nPlaintiffs claimed that defendants\u2019 abrupt dismantling of SSA\u2019s operations caused irreparable harm to millions of disabled and elderly beneficiaries. They alleged that between January and March 2025, defendants orchestrated a sweeping rollback of services: eliminating the Office of Civil Rights and Equal Opportunity (OCREO), terminating the Office of Transformation, cutting 7,000 SSA employees, freezing hiring, and closing field offices. These changes, they argued, were ordered or heavily influenced by DOGE, a new federal entity created by Executive Order No. 14158, 90 Fed. Reg. 8441 (Jan. 29, 2025).\n\nExecutive Order 14158 established DOGE to \"modernize federal technology and software\" and to \"maximize governmental efficiency.\" It embedded DOGE teams within federal agencies and granted them sweeping access to internal operations and data. Plaintiffs argued that DOGE\u2019s directives had resulted in massive breakdowns in SSA\u2019s ability to deliver benefits, such as multi-hour phone hold times, crashed websites, inaccessible field offices, and termination of benefits for vulnerable individuals.\n\nPlaintiffs filed their complaint on April 2, 2025, alleging defendants\u2019 actions violated the Rehabilitation Act for discriminatory removal of accommodations and civil rights protections. They also asserted APA violations for arbitrary and capricious restructuring without statutory authority and not in accordance with law. Additionally, plaintiffs asserted a First Amendment challenge, arguing that defendants' dissolution of OCREO\u2014the SSA grievance system\u2014unconstitutionally deprived them of their right to petition for redress. Finally, they argued that defendants violated the Take Care and Due Process clauses. Plaintiffs sought a preliminary and permanent injunction barring further implementation of the DOGE-imposed reforms, restoration of OCREO and the Office of Transformation, reinstatement of staffing and telephone services, and court monitoring of SSA compliance. They also requested that the court declare the defendants\u2019 actions unlawful and unconstitutional.\n\nOn the same day, plaintiffs filed a separate motion for a preliminary injunction to stop the elimination of OCREA and the Office of Transformation within SSA, the revocation of the SSA offices, and the mass termination of SSA employees, and to roll back recent policies that increase applicants\u2019 and beneficiaries\u2019 need to seek services in person. Defendants filed their opposition to the preliminary injunction motion on April 16, arguing that (1) plaintiffs lacked standing, (2) the court did not have subject matter jurisdiction, and (3) their claims would fail on the merits. Plaintiffs responded on April 21, 2025, refuting all of defendants' arguments.\n\nOn April 9, 2025, an unopposed motion for leave to file an amicus brief in support of plaintiffs' motion for preliminary injunction was filed by the Center for Medicare Advocacy and Medicare Rights. In their brief, amici argued that disruption to the SSA system had negative effects on Medicare recipients, which disproportionately impacted disabled individuals. On April 15, amici---the States of Connecticut, Arizona, California, Colorado, Delaware, Hawai'i, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, Washington, and the District of Columbia by state of Connecticut---also filed a brief in support of plaintiffs' motion for preliminary injunction.\n\nOn May 6, 2025, the court denied the motion for preliminary injunction, determining plaintiffs failed to establish irreparable harm. The court found that individual plaintiffs could not demonstrate \"life [or] death\" circumstances, and that plaintiff organizations could not prove in sufficient detail that they or their members were \"perceptibly impaired\" by defendants' actions.\n\nThe court has set a briefing schedule. Defendants will file their motion to dismiss by August 8, 2025. Plaintiffs' response brief in opposition to that motion will be due September 12, and defendants' reply will be due September 26. The court will rule on the motion to dismiss after that date.\n\nThis case is ongoing.",
+    "target_paragraph": "Plaintiffs claimed that defendants\u2019 abrupt dismantling of SSA\u2019s operations caused irreparable harm to millions of disabled and elderly beneficiaries. They alleged that between January and March 2025, defendants orchestrated a sweeping rollback of services: eliminating the Office of Civil Rights and Equal Opportunity (OCREO), terminating the Office of Transformation, cutting 7,000 SSA employees, freezing hiring, and closing field offices. These changes, they argued, were ordered or heavily influenced by DOGE, a new federal entity created by Executive Order No. 14158, 90 Fed. Reg. 8441 (Jan. 29, 2025).",
+    "target_paragraph_indices": [
+      896,
+      1503
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            896,
+            1045
+          ],
+          [
+            1046,
+            1337
+          ],
+          [
+            1338,
+            1503
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged January\u2013March 2025 dismantling of SSA operations: elimination of OCREO, termination of the Office of Transformation, 7,000 employee cuts, hiring freeze, and field office closures, purportedly ordered or influenced by DOGE, causing harm to disabled and elderly beneficiaries.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46330_p2",
+    "metadata": {
+      "case_id": "46330",
+      "paragraph_num": 2,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Executive Order 14158 established DOGE to \"modernize federal technology and software\" and to \"maximi..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s actions to limit the Social Security Administration\u2019s ability to serve people with disabilities under the guise of bureaucratic \u201cefficiency.\u201d On April 2, 2025, plaintiffs\u2014American Association of People with Disabilities, National Federation of the Blind, DEAF Equality, National Committee to Preserve Social Security and Medicare, Massachusetts Senior Action Council, and private individuals\u2014filed this lawsuit in the U.S. District Court for the District of Columbia. Judge Amit Priyavadan Mehta was assigned to the case. Plaintiffs sued the Social Security Administration (SSA), the Department of Government Efficiency (DOGE), Elon Musk, and other acting heads of these administrative agencies. They sought declaratory and injunctive relief to halt widespread service disruptions and the elimination of legally required civil rights protections.\n\nPlaintiffs claimed that defendants\u2019 abrupt dismantling of SSA\u2019s operations caused irreparable harm to millions of disabled and elderly beneficiaries. They alleged that between January and March 2025, defendants orchestrated a sweeping rollback of services: eliminating the Office of Civil Rights and Equal Opportunity (OCREO), terminating the Office of Transformation, cutting 7,000 SSA employees, freezing hiring, and closing field offices. These changes, they argued, were ordered or heavily influenced by DOGE, a new federal entity created by Executive Order No. 14158, 90 Fed. Reg. 8441 (Jan. 29, 2025).\n\nExecutive Order 14158 established DOGE to \"modernize federal technology and software\" and to \"maximize governmental efficiency.\" It embedded DOGE teams within federal agencies and granted them sweeping access to internal operations and data. Plaintiffs argued that DOGE\u2019s directives had resulted in massive breakdowns in SSA\u2019s ability to deliver benefits, such as multi-hour phone hold times, crashed websites, inaccessible field offices, and termination of benefits for vulnerable individuals.\n\nPlaintiffs filed their complaint on April 2, 2025, alleging defendants\u2019 actions violated the Rehabilitation Act for discriminatory removal of accommodations and civil rights protections. They also asserted APA violations for arbitrary and capricious restructuring without statutory authority and not in accordance with law. Additionally, plaintiffs asserted a First Amendment challenge, arguing that defendants' dissolution of OCREO\u2014the SSA grievance system\u2014unconstitutionally deprived them of their right to petition for redress. Finally, they argued that defendants violated the Take Care and Due Process clauses. Plaintiffs sought a preliminary and permanent injunction barring further implementation of the DOGE-imposed reforms, restoration of OCREO and the Office of Transformation, reinstatement of staffing and telephone services, and court monitoring of SSA compliance. They also requested that the court declare the defendants\u2019 actions unlawful and unconstitutional.\n\nOn the same day, plaintiffs filed a separate motion for a preliminary injunction to stop the elimination of OCREA and the Office of Transformation within SSA, the revocation of the SSA offices, and the mass termination of SSA employees, and to roll back recent policies that increase applicants\u2019 and beneficiaries\u2019 need to seek services in person. Defendants filed their opposition to the preliminary injunction motion on April 16, arguing that (1) plaintiffs lacked standing, (2) the court did not have subject matter jurisdiction, and (3) their claims would fail on the merits. Plaintiffs responded on April 21, 2025, refuting all of defendants' arguments.\n\nOn April 9, 2025, an unopposed motion for leave to file an amicus brief in support of plaintiffs' motion for preliminary injunction was filed by the Center for Medicare Advocacy and Medicare Rights. In their brief, amici argued that disruption to the SSA system had negative effects on Medicare recipients, which disproportionately impacted disabled individuals. On April 15, amici---the States of Connecticut, Arizona, California, Colorado, Delaware, Hawai'i, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, Washington, and the District of Columbia by state of Connecticut---also filed a brief in support of plaintiffs' motion for preliminary injunction.\n\nOn May 6, 2025, the court denied the motion for preliminary injunction, determining plaintiffs failed to establish irreparable harm. The court found that individual plaintiffs could not demonstrate \"life [or] death\" circumstances, and that plaintiff organizations could not prove in sufficient detail that they or their members were \"perceptibly impaired\" by defendants' actions.\n\nThe court has set a briefing schedule. Defendants will file their motion to dismiss by August 8, 2025. Plaintiffs' response brief in opposition to that motion will be due September 12, and defendants' reply will be due September 26. The court will rule on the motion to dismiss after that date.\n\nThis case is ongoing.",
+    "target_paragraph": "Executive Order 14158 established DOGE to \"modernize federal technology and software\" and to \"maximize governmental efficiency.\" It embedded DOGE teams within federal agencies and granted them sweeping access to internal operations and data. Plaintiffs argued that DOGE\u2019s directives had resulted in massive breakdowns in SSA\u2019s ability to deliver benefits, such as multi-hour phone hold times, crashed websites, inaccessible field offices, and termination of benefits for vulnerable individuals.",
+    "target_paragraph_indices": [
+      1505,
+      1999
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1505,
+            1633
+          ],
+          [
+            1634,
+            1746
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background on DOGE: created by Executive Order 14158 to modernize technology and maximize efficiency, with embedded teams in agencies and sweeping access to operations and data.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1747,
+            1999
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged service delivery breakdowns at SSA: multi-hour phone holds, website crashes, inaccessible field offices, and benefit terminations affecting vulnerable individuals.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46330_p3",
+    "metadata": {
+      "case_id": "46330",
+      "paragraph_num": 3,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs filed their complaint on April 2, 2025, alleging defendants\u2019 actions violated the Rehabil..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s actions to limit the Social Security Administration\u2019s ability to serve people with disabilities under the guise of bureaucratic \u201cefficiency.\u201d On April 2, 2025, plaintiffs\u2014American Association of People with Disabilities, National Federation of the Blind, DEAF Equality, National Committee to Preserve Social Security and Medicare, Massachusetts Senior Action Council, and private individuals\u2014filed this lawsuit in the U.S. District Court for the District of Columbia. Judge Amit Priyavadan Mehta was assigned to the case. Plaintiffs sued the Social Security Administration (SSA), the Department of Government Efficiency (DOGE), Elon Musk, and other acting heads of these administrative agencies. They sought declaratory and injunctive relief to halt widespread service disruptions and the elimination of legally required civil rights protections.\n\nPlaintiffs claimed that defendants\u2019 abrupt dismantling of SSA\u2019s operations caused irreparable harm to millions of disabled and elderly beneficiaries. They alleged that between January and March 2025, defendants orchestrated a sweeping rollback of services: eliminating the Office of Civil Rights and Equal Opportunity (OCREO), terminating the Office of Transformation, cutting 7,000 SSA employees, freezing hiring, and closing field offices. These changes, they argued, were ordered or heavily influenced by DOGE, a new federal entity created by Executive Order No. 14158, 90 Fed. Reg. 8441 (Jan. 29, 2025).\n\nExecutive Order 14158 established DOGE to \"modernize federal technology and software\" and to \"maximize governmental efficiency.\" It embedded DOGE teams within federal agencies and granted them sweeping access to internal operations and data. Plaintiffs argued that DOGE\u2019s directives had resulted in massive breakdowns in SSA\u2019s ability to deliver benefits, such as multi-hour phone hold times, crashed websites, inaccessible field offices, and termination of benefits for vulnerable individuals.\n\nPlaintiffs filed their complaint on April 2, 2025, alleging defendants\u2019 actions violated the Rehabilitation Act for discriminatory removal of accommodations and civil rights protections. They also asserted APA violations for arbitrary and capricious restructuring without statutory authority and not in accordance with law. Additionally, plaintiffs asserted a First Amendment challenge, arguing that defendants' dissolution of OCREO\u2014the SSA grievance system\u2014unconstitutionally deprived them of their right to petition for redress. Finally, they argued that defendants violated the Take Care and Due Process clauses. Plaintiffs sought a preliminary and permanent injunction barring further implementation of the DOGE-imposed reforms, restoration of OCREO and the Office of Transformation, reinstatement of staffing and telephone services, and court monitoring of SSA compliance. They also requested that the court declare the defendants\u2019 actions unlawful and unconstitutional.\n\nOn the same day, plaintiffs filed a separate motion for a preliminary injunction to stop the elimination of OCREA and the Office of Transformation within SSA, the revocation of the SSA offices, and the mass termination of SSA employees, and to roll back recent policies that increase applicants\u2019 and beneficiaries\u2019 need to seek services in person. Defendants filed their opposition to the preliminary injunction motion on April 16, arguing that (1) plaintiffs lacked standing, (2) the court did not have subject matter jurisdiction, and (3) their claims would fail on the merits. Plaintiffs responded on April 21, 2025, refuting all of defendants' arguments.\n\nOn April 9, 2025, an unopposed motion for leave to file an amicus brief in support of plaintiffs' motion for preliminary injunction was filed by the Center for Medicare Advocacy and Medicare Rights. In their brief, amici argued that disruption to the SSA system had negative effects on Medicare recipients, which disproportionately impacted disabled individuals. On April 15, amici---the States of Connecticut, Arizona, California, Colorado, Delaware, Hawai'i, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, Washington, and the District of Columbia by state of Connecticut---also filed a brief in support of plaintiffs' motion for preliminary injunction.\n\nOn May 6, 2025, the court denied the motion for preliminary injunction, determining plaintiffs failed to establish irreparable harm. The court found that individual plaintiffs could not demonstrate \"life [or] death\" circumstances, and that plaintiff organizations could not prove in sufficient detail that they or their members were \"perceptibly impaired\" by defendants' actions.\n\nThe court has set a briefing schedule. Defendants will file their motion to dismiss by August 8, 2025. Plaintiffs' response brief in opposition to that motion will be due September 12, and defendants' reply will be due September 26. The court will rule on the motion to dismiss after that date.\n\nThis case is ongoing.",
+    "target_paragraph": "Plaintiffs filed their complaint on April 2, 2025, alleging defendants\u2019 actions violated the Rehabilitation Act for discriminatory removal of accommodations and civil rights protections. They also asserted APA violations for arbitrary and capricious restructuring without statutory authority and not in accordance with law. Additionally, plaintiffs asserted a First Amendment challenge, arguing that defendants' dissolution of OCREO\u2014the SSA grievance system\u2014unconstitutionally deprived them of their right to petition for redress. Finally, they argued that defendants violated the Take Care and Due Process clauses. Plaintiffs sought a preliminary and permanent injunction barring further implementation of the DOGE-imposed reforms, restoration of OCREO and the Office of Transformation, reinstatement of staffing and telephone services, and court monitoring of SSA compliance. They also requested that the court declare the defendants\u2019 actions unlawful and unconstitutional.",
+    "target_paragraph_indices": [
+      2001,
+      2976
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2001,
+            2187
+          ]
+        ],
+        "annotation": {
+          "explanation": "Rehabilitation Act (statutory claim for discriminatory removal of accommodations and civil rights protections)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2188,
+            2324
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) violations\u2014arbitrary and capricious action, without statutory authority, and not in accordance with law",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2325,
+            2531
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment (right to petition) constitutional claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2532,
+            2616
+          ]
+        ],
+        "annotation": {
+          "explanation": "Take Care Clause constitutional claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2532,
+            2616
+          ]
+        ],
+        "annotation": {
+          "explanation": "Due Process Clause constitutional claim",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2001,
+            2187
+          ]
+        ],
+        "annotation": {
+          "explanation": "Rehabilitation Act",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2188,
+            2324
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2325,
+            2531
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment \u2014 Right to Petition (Petition Clause)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2532,
+            2616
+          ]
+        ],
+        "annotation": {
+          "explanation": "Take Care Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2532,
+            2616
+          ]
+        ],
+        "annotation": {
+          "explanation": "Due Process Clause (amendment unspecified)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2617,
+            2878
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary and permanent injunction barring further implementation of the DOGE-imposed reforms.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2617,
+            2878
+          ]
+        ],
+        "annotation": {
+          "explanation": "Restoration of OCREO and the Office of Transformation.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2617,
+            2878
+          ]
+        ],
+        "annotation": {
+          "explanation": "Reinstatement of staffing and telephone services.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2617,
+            2878
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court monitoring of SSA compliance.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2001,
+            2187
+          ],
+          [
+            2188,
+            2324
+          ],
+          [
+            2325,
+            2531
+          ],
+          [
+            2532,
+            2616
+          ]
+        ],
+        "annotation": {
+          "explanation": "Legal bases alleged: Rehabilitation Act violations (discriminatory removal of accommodations and protections), APA violations (arbitrary/capricious restructuring without authority), First Amendment (right to petition via dissolution of OCREO), and Take Care and Due Process clause violations.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": "46330_p4",
+    "metadata": {
+      "case_id": "46330",
+      "paragraph_num": 4,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On the same day, plaintiffs filed a separate motion for a preliminary injunction to stop the elimina..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s actions to limit the Social Security Administration\u2019s ability to serve people with disabilities under the guise of bureaucratic \u201cefficiency.\u201d On April 2, 2025, plaintiffs\u2014American Association of People with Disabilities, National Federation of the Blind, DEAF Equality, National Committee to Preserve Social Security and Medicare, Massachusetts Senior Action Council, and private individuals\u2014filed this lawsuit in the U.S. District Court for the District of Columbia. Judge Amit Priyavadan Mehta was assigned to the case. Plaintiffs sued the Social Security Administration (SSA), the Department of Government Efficiency (DOGE), Elon Musk, and other acting heads of these administrative agencies. They sought declaratory and injunctive relief to halt widespread service disruptions and the elimination of legally required civil rights protections.\n\nPlaintiffs claimed that defendants\u2019 abrupt dismantling of SSA\u2019s operations caused irreparable harm to millions of disabled and elderly beneficiaries. They alleged that between January and March 2025, defendants orchestrated a sweeping rollback of services: eliminating the Office of Civil Rights and Equal Opportunity (OCREO), terminating the Office of Transformation, cutting 7,000 SSA employees, freezing hiring, and closing field offices. These changes, they argued, were ordered or heavily influenced by DOGE, a new federal entity created by Executive Order No. 14158, 90 Fed. Reg. 8441 (Jan. 29, 2025).\n\nExecutive Order 14158 established DOGE to \"modernize federal technology and software\" and to \"maximize governmental efficiency.\" It embedded DOGE teams within federal agencies and granted them sweeping access to internal operations and data. Plaintiffs argued that DOGE\u2019s directives had resulted in massive breakdowns in SSA\u2019s ability to deliver benefits, such as multi-hour phone hold times, crashed websites, inaccessible field offices, and termination of benefits for vulnerable individuals.\n\nPlaintiffs filed their complaint on April 2, 2025, alleging defendants\u2019 actions violated the Rehabilitation Act for discriminatory removal of accommodations and civil rights protections. They also asserted APA violations for arbitrary and capricious restructuring without statutory authority and not in accordance with law. Additionally, plaintiffs asserted a First Amendment challenge, arguing that defendants' dissolution of OCREO\u2014the SSA grievance system\u2014unconstitutionally deprived them of their right to petition for redress. Finally, they argued that defendants violated the Take Care and Due Process clauses. Plaintiffs sought a preliminary and permanent injunction barring further implementation of the DOGE-imposed reforms, restoration of OCREO and the Office of Transformation, reinstatement of staffing and telephone services, and court monitoring of SSA compliance. They also requested that the court declare the defendants\u2019 actions unlawful and unconstitutional.\n\nOn the same day, plaintiffs filed a separate motion for a preliminary injunction to stop the elimination of OCREA and the Office of Transformation within SSA, the revocation of the SSA offices, and the mass termination of SSA employees, and to roll back recent policies that increase applicants\u2019 and beneficiaries\u2019 need to seek services in person. Defendants filed their opposition to the preliminary injunction motion on April 16, arguing that (1) plaintiffs lacked standing, (2) the court did not have subject matter jurisdiction, and (3) their claims would fail on the merits. Plaintiffs responded on April 21, 2025, refuting all of defendants' arguments.\n\nOn April 9, 2025, an unopposed motion for leave to file an amicus brief in support of plaintiffs' motion for preliminary injunction was filed by the Center for Medicare Advocacy and Medicare Rights. In their brief, amici argued that disruption to the SSA system had negative effects on Medicare recipients, which disproportionately impacted disabled individuals. On April 15, amici---the States of Connecticut, Arizona, California, Colorado, Delaware, Hawai'i, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, Washington, and the District of Columbia by state of Connecticut---also filed a brief in support of plaintiffs' motion for preliminary injunction.\n\nOn May 6, 2025, the court denied the motion for preliminary injunction, determining plaintiffs failed to establish irreparable harm. The court found that individual plaintiffs could not demonstrate \"life [or] death\" circumstances, and that plaintiff organizations could not prove in sufficient detail that they or their members were \"perceptibly impaired\" by defendants' actions.\n\nThe court has set a briefing schedule. Defendants will file their motion to dismiss by August 8, 2025. Plaintiffs' response brief in opposition to that motion will be due September 12, and defendants' reply will be due September 26. The court will rule on the motion to dismiss after that date.\n\nThis case is ongoing.",
+    "target_paragraph": "On the same day, plaintiffs filed a separate motion for a preliminary injunction to stop the elimination of OCREA and the Office of Transformation within SSA, the revocation of the SSA offices, and the mass termination of SSA employees, and to roll back recent policies that increase applicants\u2019 and beneficiaries\u2019 need to seek services in person. Defendants filed their opposition to the preliminary injunction motion on April 16, arguing that (1) plaintiffs lacked standing, (2) the court did not have subject matter jurisdiction, and (3) their claims would fail on the merits. Plaintiffs responded on April 21, 2025, refuting all of defendants' arguments.",
+    "target_paragraph_indices": [
+      2978,
+      3636
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2978,
+            3325
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction to stop elimination of OCREA and the Office of Transformation, stop revocation of SSA offices, stop mass termination of SSA employees, and roll back policies increasing in-person service needs.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2978,
+            3325
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction sought to halt elimination of OCREO and Office of Transformation, prevent revocation of SSA offices and mass terminations, and roll back policies increasing in-person service requirements.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3326,
+            3557
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 opposition grounds: lack of standing, lack of subject matter jurisdiction, and failure on the merits.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3558,
+            3636
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 reply filed April 21, 2025, refuting defendants\u2019 opposition arguments.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2978,
+            3325
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs' motion for preliminary injunction filed April 2, 2025, seeking to halt SSA/DOGE changes (including elimination of OCREA/Office of Transformation, office revocations, mass terminations, and policies increasing in-person service needs).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3326,
+            3557
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants' opposition to motion for preliminary injunction filed April 16, 2025, asserting lack of standing, lack of subject matter jurisdiction, and failure on the merits.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3558,
+            3636
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs' response/reply in support of preliminary injunction filed April 21, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2978,
+            3325
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a preliminary injunction motion on April 2, 2025, seeking to halt elimination of OCREA and the Office of Transformation, revocation of SSA offices, mass termination of SSA employees, and to roll back policies increasing in-person service needs.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3326,
+            3557
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants opposed the preliminary injunction on April 16, 2025, arguing lack of standing, lack of subject matter jurisdiction, and failure on the merits.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3558,
+            3636
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a reply on April 21, 2025, refuting defendants\u2019 opposition to the preliminary injunction.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46330_p5",
+    "metadata": {
+      "case_id": "46330",
+      "paragraph_num": 5,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 9, 2025, an unopposed motion for leave to file an amicus brief in support of plaintiffs' mo..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s actions to limit the Social Security Administration\u2019s ability to serve people with disabilities under the guise of bureaucratic \u201cefficiency.\u201d On April 2, 2025, plaintiffs\u2014American Association of People with Disabilities, National Federation of the Blind, DEAF Equality, National Committee to Preserve Social Security and Medicare, Massachusetts Senior Action Council, and private individuals\u2014filed this lawsuit in the U.S. District Court for the District of Columbia. Judge Amit Priyavadan Mehta was assigned to the case. Plaintiffs sued the Social Security Administration (SSA), the Department of Government Efficiency (DOGE), Elon Musk, and other acting heads of these administrative agencies. They sought declaratory and injunctive relief to halt widespread service disruptions and the elimination of legally required civil rights protections.\n\nPlaintiffs claimed that defendants\u2019 abrupt dismantling of SSA\u2019s operations caused irreparable harm to millions of disabled and elderly beneficiaries. They alleged that between January and March 2025, defendants orchestrated a sweeping rollback of services: eliminating the Office of Civil Rights and Equal Opportunity (OCREO), terminating the Office of Transformation, cutting 7,000 SSA employees, freezing hiring, and closing field offices. These changes, they argued, were ordered or heavily influenced by DOGE, a new federal entity created by Executive Order No. 14158, 90 Fed. Reg. 8441 (Jan. 29, 2025).\n\nExecutive Order 14158 established DOGE to \"modernize federal technology and software\" and to \"maximize governmental efficiency.\" It embedded DOGE teams within federal agencies and granted them sweeping access to internal operations and data. Plaintiffs argued that DOGE\u2019s directives had resulted in massive breakdowns in SSA\u2019s ability to deliver benefits, such as multi-hour phone hold times, crashed websites, inaccessible field offices, and termination of benefits for vulnerable individuals.\n\nPlaintiffs filed their complaint on April 2, 2025, alleging defendants\u2019 actions violated the Rehabilitation Act for discriminatory removal of accommodations and civil rights protections. They also asserted APA violations for arbitrary and capricious restructuring without statutory authority and not in accordance with law. Additionally, plaintiffs asserted a First Amendment challenge, arguing that defendants' dissolution of OCREO\u2014the SSA grievance system\u2014unconstitutionally deprived them of their right to petition for redress. Finally, they argued that defendants violated the Take Care and Due Process clauses. Plaintiffs sought a preliminary and permanent injunction barring further implementation of the DOGE-imposed reforms, restoration of OCREO and the Office of Transformation, reinstatement of staffing and telephone services, and court monitoring of SSA compliance. They also requested that the court declare the defendants\u2019 actions unlawful and unconstitutional.\n\nOn the same day, plaintiffs filed a separate motion for a preliminary injunction to stop the elimination of OCREA and the Office of Transformation within SSA, the revocation of the SSA offices, and the mass termination of SSA employees, and to roll back recent policies that increase applicants\u2019 and beneficiaries\u2019 need to seek services in person. Defendants filed their opposition to the preliminary injunction motion on April 16, arguing that (1) plaintiffs lacked standing, (2) the court did not have subject matter jurisdiction, and (3) their claims would fail on the merits. Plaintiffs responded on April 21, 2025, refuting all of defendants' arguments.\n\nOn April 9, 2025, an unopposed motion for leave to file an amicus brief in support of plaintiffs' motion for preliminary injunction was filed by the Center for Medicare Advocacy and Medicare Rights. In their brief, amici argued that disruption to the SSA system had negative effects on Medicare recipients, which disproportionately impacted disabled individuals. On April 15, amici---the States of Connecticut, Arizona, California, Colorado, Delaware, Hawai'i, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, Washington, and the District of Columbia by state of Connecticut---also filed a brief in support of plaintiffs' motion for preliminary injunction.\n\nOn May 6, 2025, the court denied the motion for preliminary injunction, determining plaintiffs failed to establish irreparable harm. The court found that individual plaintiffs could not demonstrate \"life [or] death\" circumstances, and that plaintiff organizations could not prove in sufficient detail that they or their members were \"perceptibly impaired\" by defendants' actions.\n\nThe court has set a briefing schedule. Defendants will file their motion to dismiss by August 8, 2025. Plaintiffs' response brief in opposition to that motion will be due September 12, and defendants' reply will be due September 26. The court will rule on the motion to dismiss after that date.\n\nThis case is ongoing.",
+    "target_paragraph": "On April 9, 2025, an unopposed motion for leave to file an amicus brief in support of plaintiffs' motion for preliminary injunction was filed by the Center for Medicare Advocacy and Medicare Rights. In their brief, amici argued that disruption to the SSA system had negative effects on Medicare recipients, which disproportionately impacted disabled individuals. On April 15, amici---the States of Connecticut, Arizona, California, Colorado, Delaware, Hawai'i, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, Washington, and the District of Columbia by state of Connecticut---also filed a brief in support of plaintiffs' motion for preliminary injunction.",
+    "target_paragraph_indices": [
+      3638,
+      4381
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3638,
+            3836
+          ],
+          [
+            3837,
+            4000
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amicus support: Center for Medicare Advocacy and Medicare Rights argued SSA disruptions negatively affect Medicare recipients and disproportionately impact disabled individuals.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4001,
+            4381
+          ]
+        ],
+        "annotation": {
+          "explanation": "States\u2019 amicus brief filed April 15 in support of preliminary injunction: multiple states and D.C.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3638,
+            3836
+          ]
+        ],
+        "annotation": {
+          "explanation": "Unopposed motion for leave to file amicus brief in support of preliminary injunction filed April 9, 2025 by the Center for Medicare Advocacy and Medicare Rights.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4001,
+            4381
+          ]
+        ],
+        "annotation": {
+          "explanation": "States' amicus brief filed April 15, 2025 in support of plaintiffs' motion for preliminary injunction (multistate coalition including DC).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3638,
+            3836
+          ],
+          [
+            3837,
+            4000
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 9, 2025, the Center for Medicare Advocacy and Medicare Rights filed an unopposed motion for leave to submit an amicus brief supporting the preliminary injunction, arguing SSA disruptions harm Medicare recipients and disproportionately impact disabled individuals.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4001,
+            4381
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 15, 2025, a coalition of states (CT, AZ, CA, CO, DE, HI, IL, ME, MD, MA, MI, MN, NV, NJ, NM, NY, OR, RI, VT, WA, and DC by Connecticut) filed an amicus brief supporting the preliminary injunction.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46330_p6",
+    "metadata": {
+      "case_id": "46330",
+      "paragraph_num": 6,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 6, 2025, the court denied the motion for preliminary injunction, determining plaintiffs faile..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s actions to limit the Social Security Administration\u2019s ability to serve people with disabilities under the guise of bureaucratic \u201cefficiency.\u201d On April 2, 2025, plaintiffs\u2014American Association of People with Disabilities, National Federation of the Blind, DEAF Equality, National Committee to Preserve Social Security and Medicare, Massachusetts Senior Action Council, and private individuals\u2014filed this lawsuit in the U.S. District Court for the District of Columbia. Judge Amit Priyavadan Mehta was assigned to the case. Plaintiffs sued the Social Security Administration (SSA), the Department of Government Efficiency (DOGE), Elon Musk, and other acting heads of these administrative agencies. They sought declaratory and injunctive relief to halt widespread service disruptions and the elimination of legally required civil rights protections.\n\nPlaintiffs claimed that defendants\u2019 abrupt dismantling of SSA\u2019s operations caused irreparable harm to millions of disabled and elderly beneficiaries. They alleged that between January and March 2025, defendants orchestrated a sweeping rollback of services: eliminating the Office of Civil Rights and Equal Opportunity (OCREO), terminating the Office of Transformation, cutting 7,000 SSA employees, freezing hiring, and closing field offices. These changes, they argued, were ordered or heavily influenced by DOGE, a new federal entity created by Executive Order No. 14158, 90 Fed. Reg. 8441 (Jan. 29, 2025).\n\nExecutive Order 14158 established DOGE to \"modernize federal technology and software\" and to \"maximize governmental efficiency.\" It embedded DOGE teams within federal agencies and granted them sweeping access to internal operations and data. Plaintiffs argued that DOGE\u2019s directives had resulted in massive breakdowns in SSA\u2019s ability to deliver benefits, such as multi-hour phone hold times, crashed websites, inaccessible field offices, and termination of benefits for vulnerable individuals.\n\nPlaintiffs filed their complaint on April 2, 2025, alleging defendants\u2019 actions violated the Rehabilitation Act for discriminatory removal of accommodations and civil rights protections. They also asserted APA violations for arbitrary and capricious restructuring without statutory authority and not in accordance with law. Additionally, plaintiffs asserted a First Amendment challenge, arguing that defendants' dissolution of OCREO\u2014the SSA grievance system\u2014unconstitutionally deprived them of their right to petition for redress. Finally, they argued that defendants violated the Take Care and Due Process clauses. Plaintiffs sought a preliminary and permanent injunction barring further implementation of the DOGE-imposed reforms, restoration of OCREO and the Office of Transformation, reinstatement of staffing and telephone services, and court monitoring of SSA compliance. They also requested that the court declare the defendants\u2019 actions unlawful and unconstitutional.\n\nOn the same day, plaintiffs filed a separate motion for a preliminary injunction to stop the elimination of OCREA and the Office of Transformation within SSA, the revocation of the SSA offices, and the mass termination of SSA employees, and to roll back recent policies that increase applicants\u2019 and beneficiaries\u2019 need to seek services in person. Defendants filed their opposition to the preliminary injunction motion on April 16, arguing that (1) plaintiffs lacked standing, (2) the court did not have subject matter jurisdiction, and (3) their claims would fail on the merits. Plaintiffs responded on April 21, 2025, refuting all of defendants' arguments.\n\nOn April 9, 2025, an unopposed motion for leave to file an amicus brief in support of plaintiffs' motion for preliminary injunction was filed by the Center for Medicare Advocacy and Medicare Rights. In their brief, amici argued that disruption to the SSA system had negative effects on Medicare recipients, which disproportionately impacted disabled individuals. On April 15, amici---the States of Connecticut, Arizona, California, Colorado, Delaware, Hawai'i, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, Washington, and the District of Columbia by state of Connecticut---also filed a brief in support of plaintiffs' motion for preliminary injunction.\n\nOn May 6, 2025, the court denied the motion for preliminary injunction, determining plaintiffs failed to establish irreparable harm. The court found that individual plaintiffs could not demonstrate \"life [or] death\" circumstances, and that plaintiff organizations could not prove in sufficient detail that they or their members were \"perceptibly impaired\" by defendants' actions.\n\nThe court has set a briefing schedule. Defendants will file their motion to dismiss by August 8, 2025. Plaintiffs' response brief in opposition to that motion will be due September 12, and defendants' reply will be due September 26. The court will rule on the motion to dismiss after that date.\n\nThis case is ongoing.",
+    "target_paragraph": "On May 6, 2025, the court denied the motion for preliminary injunction, determining plaintiffs failed to establish irreparable harm. The court found that individual plaintiffs could not demonstrate \"life [or] death\" circumstances, and that plaintiff organizations could not prove in sufficient detail that they or their members were \"perceptibly impaired\" by defendants' actions.",
+    "target_paragraph_indices": [
+      4383,
+      4762
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4383,
+            4515
+          ],
+          [
+            4516,
+            4762
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court denied preliminary injunction on May 6, 2025, finding no irreparable harm: no life-or-death circumstances for individuals and insufficient showing of perceptible impairment for organizations.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4383,
+            4515
+          ],
+          [
+            4516,
+            4762
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court order dated May 6, 2025 denying the motion for preliminary injunction for failure to establish irreparable harm (no \"life [or] death\" circumstances; organizations not \"perceptibly impaired\").",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4383,
+            4515
+          ],
+          [
+            4516,
+            4762
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 6, 2025, the court denied the preliminary injunction, finding plaintiffs failed to show irreparable harm; individuals did not show \"life [or] death\" circumstances and organizations did not sufficiently demonstrate \"perceptibly impaired\" impacts.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4383,
+            4515
+          ],
+          [
+            4516,
+            4762
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 6, 2025: Court denied plaintiffs\u2019 motion for a preliminary injunction for failure to show irreparable harm; individual plaintiffs did not demonstrate life-or-death circumstances and organizational plaintiffs did not show perceptible impairment.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46330_p7",
+    "metadata": {
+      "case_id": "46330",
+      "paragraph_num": 7,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court has set a briefing schedule. Defendants will file their motion to dismiss by August 8, 202..."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s actions to limit the Social Security Administration\u2019s ability to serve people with disabilities under the guise of bureaucratic \u201cefficiency.\u201d On April 2, 2025, plaintiffs\u2014American Association of People with Disabilities, National Federation of the Blind, DEAF Equality, National Committee to Preserve Social Security and Medicare, Massachusetts Senior Action Council, and private individuals\u2014filed this lawsuit in the U.S. District Court for the District of Columbia. Judge Amit Priyavadan Mehta was assigned to the case. Plaintiffs sued the Social Security Administration (SSA), the Department of Government Efficiency (DOGE), Elon Musk, and other acting heads of these administrative agencies. They sought declaratory and injunctive relief to halt widespread service disruptions and the elimination of legally required civil rights protections.\n\nPlaintiffs claimed that defendants\u2019 abrupt dismantling of SSA\u2019s operations caused irreparable harm to millions of disabled and elderly beneficiaries. They alleged that between January and March 2025, defendants orchestrated a sweeping rollback of services: eliminating the Office of Civil Rights and Equal Opportunity (OCREO), terminating the Office of Transformation, cutting 7,000 SSA employees, freezing hiring, and closing field offices. These changes, they argued, were ordered or heavily influenced by DOGE, a new federal entity created by Executive Order No. 14158, 90 Fed. Reg. 8441 (Jan. 29, 2025).\n\nExecutive Order 14158 established DOGE to \"modernize federal technology and software\" and to \"maximize governmental efficiency.\" It embedded DOGE teams within federal agencies and granted them sweeping access to internal operations and data. Plaintiffs argued that DOGE\u2019s directives had resulted in massive breakdowns in SSA\u2019s ability to deliver benefits, such as multi-hour phone hold times, crashed websites, inaccessible field offices, and termination of benefits for vulnerable individuals.\n\nPlaintiffs filed their complaint on April 2, 2025, alleging defendants\u2019 actions violated the Rehabilitation Act for discriminatory removal of accommodations and civil rights protections. They also asserted APA violations for arbitrary and capricious restructuring without statutory authority and not in accordance with law. Additionally, plaintiffs asserted a First Amendment challenge, arguing that defendants' dissolution of OCREO\u2014the SSA grievance system\u2014unconstitutionally deprived them of their right to petition for redress. Finally, they argued that defendants violated the Take Care and Due Process clauses. Plaintiffs sought a preliminary and permanent injunction barring further implementation of the DOGE-imposed reforms, restoration of OCREO and the Office of Transformation, reinstatement of staffing and telephone services, and court monitoring of SSA compliance. They also requested that the court declare the defendants\u2019 actions unlawful and unconstitutional.\n\nOn the same day, plaintiffs filed a separate motion for a preliminary injunction to stop the elimination of OCREA and the Office of Transformation within SSA, the revocation of the SSA offices, and the mass termination of SSA employees, and to roll back recent policies that increase applicants\u2019 and beneficiaries\u2019 need to seek services in person. Defendants filed their opposition to the preliminary injunction motion on April 16, arguing that (1) plaintiffs lacked standing, (2) the court did not have subject matter jurisdiction, and (3) their claims would fail on the merits. Plaintiffs responded on April 21, 2025, refuting all of defendants' arguments.\n\nOn April 9, 2025, an unopposed motion for leave to file an amicus brief in support of plaintiffs' motion for preliminary injunction was filed by the Center for Medicare Advocacy and Medicare Rights. In their brief, amici argued that disruption to the SSA system had negative effects on Medicare recipients, which disproportionately impacted disabled individuals. On April 15, amici---the States of Connecticut, Arizona, California, Colorado, Delaware, Hawai'i, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, Washington, and the District of Columbia by state of Connecticut---also filed a brief in support of plaintiffs' motion for preliminary injunction.\n\nOn May 6, 2025, the court denied the motion for preliminary injunction, determining plaintiffs failed to establish irreparable harm. The court found that individual plaintiffs could not demonstrate \"life [or] death\" circumstances, and that plaintiff organizations could not prove in sufficient detail that they or their members were \"perceptibly impaired\" by defendants' actions.\n\nThe court has set a briefing schedule. Defendants will file their motion to dismiss by August 8, 2025. Plaintiffs' response brief in opposition to that motion will be due September 12, and defendants' reply will be due September 26. The court will rule on the motion to dismiss after that date.\n\nThis case is ongoing.",
+    "target_paragraph": "The court has set a briefing schedule. Defendants will file their motion to dismiss by August 8, 2025. Plaintiffs' response brief in opposition to that motion will be due September 12, and defendants' reply will be due September 26. The court will rule on the motion to dismiss after that date.",
+    "target_paragraph_indices": [
+      4764,
+      5058
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4764,
+            5058
+          ],
+          [
+            5060,
+            5081
+          ]
+        ],
+        "annotation": {
+          "explanation": "Briefing schedule set for motion to dismiss (defendants by Aug 8, 2025; plaintiffs\u2019 opposition by Sept 12; reply by Sept 26); case remains ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            7,
+            8
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4764,
+            5058
+          ]
+        ],
+        "annotation": {
+          "explanation": "Scheduling order setting briefing on forthcoming motion to dismiss: MTD due Aug 8, 2025; opposition due Sep 12, 2025; reply due Sep 26, 2025; ruling thereafter.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4764,
+            5058
+          ]
+        ],
+        "annotation": {
+          "explanation": "Briefing schedule set: Defendants\u2019 motion to dismiss due August 8, 2025; Plaintiffs\u2019 opposition due September 12, 2025; Defendants\u2019 reply due September 26, 2025; court to rule thereafter.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46330_p8",
+    "metadata": {
+      "case_id": "46330",
+      "paragraph_num": 8,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "This case challenged the Trump Administration\u2019s actions to limit the Social Security Administration\u2019s ability to serve people with disabilities under the guise of bureaucratic \u201cefficiency.\u201d On April 2, 2025, plaintiffs\u2014American Association of People with Disabilities, National Federation of the Blind, DEAF Equality, National Committee to Preserve Social Security and Medicare, Massachusetts Senior Action Council, and private individuals\u2014filed this lawsuit in the U.S. District Court for the District of Columbia. Judge Amit Priyavadan Mehta was assigned to the case. Plaintiffs sued the Social Security Administration (SSA), the Department of Government Efficiency (DOGE), Elon Musk, and other acting heads of these administrative agencies. They sought declaratory and injunctive relief to halt widespread service disruptions and the elimination of legally required civil rights protections.\n\nPlaintiffs claimed that defendants\u2019 abrupt dismantling of SSA\u2019s operations caused irreparable harm to millions of disabled and elderly beneficiaries. They alleged that between January and March 2025, defendants orchestrated a sweeping rollback of services: eliminating the Office of Civil Rights and Equal Opportunity (OCREO), terminating the Office of Transformation, cutting 7,000 SSA employees, freezing hiring, and closing field offices. These changes, they argued, were ordered or heavily influenced by DOGE, a new federal entity created by Executive Order No. 14158, 90 Fed. Reg. 8441 (Jan. 29, 2025).\n\nExecutive Order 14158 established DOGE to \"modernize federal technology and software\" and to \"maximize governmental efficiency.\" It embedded DOGE teams within federal agencies and granted them sweeping access to internal operations and data. Plaintiffs argued that DOGE\u2019s directives had resulted in massive breakdowns in SSA\u2019s ability to deliver benefits, such as multi-hour phone hold times, crashed websites, inaccessible field offices, and termination of benefits for vulnerable individuals.\n\nPlaintiffs filed their complaint on April 2, 2025, alleging defendants\u2019 actions violated the Rehabilitation Act for discriminatory removal of accommodations and civil rights protections. They also asserted APA violations for arbitrary and capricious restructuring without statutory authority and not in accordance with law. Additionally, plaintiffs asserted a First Amendment challenge, arguing that defendants' dissolution of OCREO\u2014the SSA grievance system\u2014unconstitutionally deprived them of their right to petition for redress. Finally, they argued that defendants violated the Take Care and Due Process clauses. Plaintiffs sought a preliminary and permanent injunction barring further implementation of the DOGE-imposed reforms, restoration of OCREO and the Office of Transformation, reinstatement of staffing and telephone services, and court monitoring of SSA compliance. They also requested that the court declare the defendants\u2019 actions unlawful and unconstitutional.\n\nOn the same day, plaintiffs filed a separate motion for a preliminary injunction to stop the elimination of OCREA and the Office of Transformation within SSA, the revocation of the SSA offices, and the mass termination of SSA employees, and to roll back recent policies that increase applicants\u2019 and beneficiaries\u2019 need to seek services in person. Defendants filed their opposition to the preliminary injunction motion on April 16, arguing that (1) plaintiffs lacked standing, (2) the court did not have subject matter jurisdiction, and (3) their claims would fail on the merits. Plaintiffs responded on April 21, 2025, refuting all of defendants' arguments.\n\nOn April 9, 2025, an unopposed motion for leave to file an amicus brief in support of plaintiffs' motion for preliminary injunction was filed by the Center for Medicare Advocacy and Medicare Rights. In their brief, amici argued that disruption to the SSA system had negative effects on Medicare recipients, which disproportionately impacted disabled individuals. On April 15, amici---the States of Connecticut, Arizona, California, Colorado, Delaware, Hawai'i, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, Washington, and the District of Columbia by state of Connecticut---also filed a brief in support of plaintiffs' motion for preliminary injunction.\n\nOn May 6, 2025, the court denied the motion for preliminary injunction, determining plaintiffs failed to establish irreparable harm. The court found that individual plaintiffs could not demonstrate \"life [or] death\" circumstances, and that plaintiff organizations could not prove in sufficient detail that they or their members were \"perceptibly impaired\" by defendants' actions.\n\nThe court has set a briefing schedule. Defendants will file their motion to dismiss by August 8, 2025. Plaintiffs' response brief in opposition to that motion will be due September 12, and defendants' reply will be due September 26. The court will rule on the motion to dismiss after that date.\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      5060,
+      5081
+    ],
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5060,
+            5081
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing; no final judgment or trial concluded yet.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

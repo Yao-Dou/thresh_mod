@@ -1,0 +1,972 @@
+[
+  {
+    "id": "46498_p0",
+    "metadata": {
+      "case_id": "46498",
+      "paragraph_num": 0,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case was a highly unusual federal criminal prosecution of a sitting state court judge\u2014who was a..."
+    },
+    "source": "",
+    "target": "This case was a highly unusual federal criminal prosecution of a sitting state court judge\u2014who was alleged by the Trump Administration to have interfered with an immigration arrest. On April 24, 2025, a federal grand jury in the Eastern District of Wisconsin indicted Wisconsin Circuit Judge Hannah Dugan on two counts: (1) obstruction of a federal administrative proceeding under 18 U.S.C. \u00a7 1505, and (2) concealment of a person from arrest under 18 U.S.C. \u00a7 1071. The case was assigned to U.S. District Judge Lynn Adelman and referred for pretrial matters to Magistrate Judge Nancy Joseph.\n\nAccording to the indictment, Judge Dugan, while presiding over her courtroom in Milwaukee County Circuit Court on March 14, took steps to prevent U.S. Immigration and Customs Enforcement (ICE) officers' arrest of a noncitizen criminal defendant under an immigration detainer. Federal prosecutors alleged that she challenged the agents\u2019 authority, directed them to speak with the chief judge, resumed the hearing off the record, and permitted the defendant to leave through a secure non-public exit. The government contended that these actions constituted deliberate obstruction of lawful federal enforcement efforts.\n\nJudge Dugan moved to dismiss the indictment on May 14. Represented by former U.S. attorneys and experienced criminal defense counsel, she argued that her alleged conduct was fully within the scope of her judicial duties and was protected by absolute judicial immunity. She contended that the charges violated the constitutional doctrine of separation of powers, the Tenth Amendment\u2019s federalism protections, and the longstanding principle that judicial acts\u2014especially those involving courtroom management\u2014cannot be criminalized. Her briefing drew heavily from Trump v. United States (2024), where the Supreme Court held that the President cannot be prosecuted for official acts, and argued that the same logic applied to judges. She also invoked constitutional avoidance and argued that the relevant criminal statutes could not be construed to reach judicial conduct without raising serious constitutional questions.\n\nAmici curiae briefs were filed on both sides. A coalition of 138 former federal and state judges moved to support dismissal, emphasizing the risk of chilling judicial independence and public trust. They argued that courtroom decision-making must be insulated from criminal sanction, and that accountability for judges is properly handled through appeal or state judicial conduct commissions. In response, the Center for American Rights filed an amicus brief arguing that public officials\u2014judges included\u2014are not immune from prosecution for obstructing justice, and that allowing immunity here would set a dangerous precedent.\n\nOn July 7, Magistrate Judge Nancy Joseph issued a Report and Recommendation that recommended that the court deny the motion to dismiss. She concluded that no federal court had recognized absolute judicial immunity as a bar to criminal prosecution, rather than civil liability. While the alleged conduct may have occurred near or within the courtroom, she found that whether it was \"judicial in nature\" and immune from prosecution was not a question that could be resolved on the pleadings. The Report emphasized that judges have historically been held criminally liable for corruption or obstruction where warranted, citing precedents such as United States v. Claiborne and United States v. Joseph. She recommended that the case proceed to trial, with the motion to dismiss denied in full.\n\nOn July 22, Judge Dugan filed objections to the Report and Recommendation, reiterating her constitutional arguments and asserting that the magistrate failed to address controlling authority on judicial independence. On July 29, the government filed its response, urging the district court to adopt the magistrate\u2019s recommendation and allow the case to proceed to trial.\n\nAs of August 4, 2025, the district judge had not yet ruled on the motion to dismiss. The case is ongoing.",
+    "target_paragraph": "This case was a highly unusual federal criminal prosecution of a sitting state court judge\u2014who was alleged by the Trump Administration to have interfered with an immigration arrest. On April 24, 2025, a federal grand jury in the Eastern District of Wisconsin indicted Wisconsin Circuit Judge Hannah Dugan on two counts: (1) obstruction of a federal administrative proceeding under 18 U.S.C. \u00a7 1505, and (2) concealment of a person from arrest under 18 U.S.C. \u00a7 1071. The case was assigned to U.S. District Judge Lynn Adelman and referred for pretrial matters to Magistrate Judge Nancy Joseph.",
+    "target_paragraph_indices": [
+      0,
+      592
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            182,
+            466
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 24, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            182,
+            398
+          ]
+        ],
+        "annotation": {
+          "explanation": "18 U.S.C. \u00a7 1505 \u2014 obstruction of a federal administrative proceeding (Count 1)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            182,
+            466
+          ]
+        ],
+        "annotation": {
+          "explanation": "18 U.S.C. \u00a7 1071 \u2014 concealment of a person from arrest (Count 2)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            182,
+            466
+          ]
+        ],
+        "annotation": {
+          "explanation": "18 U.S.C. \u00a7 1505 (obstruction of a federal administrative proceeding)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            182,
+            466
+          ]
+        ],
+        "annotation": {
+          "explanation": "18 U.S.C. \u00a7 1071 (concealment of a person from arrest)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            182,
+            466
+          ]
+        ],
+        "annotation": {
+          "explanation": "Hannah Dugan",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            467,
+            592
+          ]
+        ],
+        "annotation": {
+          "explanation": "Lynn Adelman",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            467,
+            592
+          ],
+          [
+            2758,
+            2893
+          ]
+        ],
+        "annotation": {
+          "explanation": "Nancy Joseph",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            0,
+            4
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            201,
+            318
+          ],
+          [
+            594,
+            869
+          ],
+          [
+            1212,
+            1266
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Wisconsin Circuit Judge Hannah Dugan, a Milwaukee County Circuit Court judge indicted in the Eastern District of Wisconsin on obstruction of a federal administrative proceeding and concealment of a person from arrest.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1,
+            2
+          ]
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            181
+          ],
+          [
+            201,
+            304
+          ],
+          [
+            870,
+            1092
+          ],
+          [
+            1093,
+            1210
+          ],
+          [
+            3777,
+            3918
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: The United States (federal government), acting through federal prosecutors in the Eastern District of Wisconsin.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1,
+            5
+          ]
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            181
+          ]
+        ],
+        "annotation": {
+          "explanation": "Unusual federal prosecution of a sitting state judge for allegedly interfering with an immigration arrest.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            182,
+            466
+          ]
+        ],
+        "annotation": {
+          "explanation": "Indictment issued April 24, 2025, in the Eastern District of Wisconsin, charging Judge Hannah Dugan with obstruction under 18 U.S.C. \u00a7 1505 and concealment under 18 U.S.C. \u00a7 1071.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            467,
+            592
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assignment: U.S. District Judge Lynn Adelman; pretrial matters before Magistrate Judge Nancy Joseph.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            182,
+            466
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 24, 2025: Indictment charging two counts (18 U.S.C. \u00a7 1505 and \u00a7 1071) in the Eastern District of Wisconsin.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            467,
+            592
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assignment: U.S. District Judge Lynn Adelman; pretrial matters referred to Magistrate Judge Nancy Joseph.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            182,
+            466
+          ]
+        ],
+        "annotation": {
+          "explanation": "Indictment/charges forming the subject of any trial: April 24, 2025 indictment in E.D. Wis. on two counts\u201418 U.S.C. \u00a7 1505 and 18 U.S.C. \u00a7 1071.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": "46498_p1",
+    "metadata": {
+      "case_id": "46498",
+      "paragraph_num": 1,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "According to the indictment, Judge Dugan, while presiding over her courtroom in Milwaukee County Cir..."
+    },
+    "source": "",
+    "target": "This case was a highly unusual federal criminal prosecution of a sitting state court judge\u2014who was alleged by the Trump Administration to have interfered with an immigration arrest. On April 24, 2025, a federal grand jury in the Eastern District of Wisconsin indicted Wisconsin Circuit Judge Hannah Dugan on two counts: (1) obstruction of a federal administrative proceeding under 18 U.S.C. \u00a7 1505, and (2) concealment of a person from arrest under 18 U.S.C. \u00a7 1071. The case was assigned to U.S. District Judge Lynn Adelman and referred for pretrial matters to Magistrate Judge Nancy Joseph.\n\nAccording to the indictment, Judge Dugan, while presiding over her courtroom in Milwaukee County Circuit Court on March 14, took steps to prevent U.S. Immigration and Customs Enforcement (ICE) officers' arrest of a noncitizen criminal defendant under an immigration detainer. Federal prosecutors alleged that she challenged the agents\u2019 authority, directed them to speak with the chief judge, resumed the hearing off the record, and permitted the defendant to leave through a secure non-public exit. The government contended that these actions constituted deliberate obstruction of lawful federal enforcement efforts.\n\nJudge Dugan moved to dismiss the indictment on May 14. Represented by former U.S. attorneys and experienced criminal defense counsel, she argued that her alleged conduct was fully within the scope of her judicial duties and was protected by absolute judicial immunity. She contended that the charges violated the constitutional doctrine of separation of powers, the Tenth Amendment\u2019s federalism protections, and the longstanding principle that judicial acts\u2014especially those involving courtroom management\u2014cannot be criminalized. Her briefing drew heavily from Trump v. United States (2024), where the Supreme Court held that the President cannot be prosecuted for official acts, and argued that the same logic applied to judges. She also invoked constitutional avoidance and argued that the relevant criminal statutes could not be construed to reach judicial conduct without raising serious constitutional questions.\n\nAmici curiae briefs were filed on both sides. A coalition of 138 former federal and state judges moved to support dismissal, emphasizing the risk of chilling judicial independence and public trust. They argued that courtroom decision-making must be insulated from criminal sanction, and that accountability for judges is properly handled through appeal or state judicial conduct commissions. In response, the Center for American Rights filed an amicus brief arguing that public officials\u2014judges included\u2014are not immune from prosecution for obstructing justice, and that allowing immunity here would set a dangerous precedent.\n\nOn July 7, Magistrate Judge Nancy Joseph issued a Report and Recommendation that recommended that the court deny the motion to dismiss. She concluded that no federal court had recognized absolute judicial immunity as a bar to criminal prosecution, rather than civil liability. While the alleged conduct may have occurred near or within the courtroom, she found that whether it was \"judicial in nature\" and immune from prosecution was not a question that could be resolved on the pleadings. The Report emphasized that judges have historically been held criminally liable for corruption or obstruction where warranted, citing precedents such as United States v. Claiborne and United States v. Joseph. She recommended that the case proceed to trial, with the motion to dismiss denied in full.\n\nOn July 22, Judge Dugan filed objections to the Report and Recommendation, reiterating her constitutional arguments and asserting that the magistrate failed to address controlling authority on judicial independence. On July 29, the government filed its response, urging the district court to adopt the magistrate\u2019s recommendation and allow the case to proceed to trial.\n\nAs of August 4, 2025, the district judge had not yet ruled on the motion to dismiss. The case is ongoing.",
+    "target_paragraph": "According to the indictment, Judge Dugan, while presiding over her courtroom in Milwaukee County Circuit Court on March 14, took steps to prevent U.S. Immigration and Customs Enforcement (ICE) officers' arrest of a noncitizen criminal defendant under an immigration detainer. Federal prosecutors alleged that she challenged the agents\u2019 authority, directed them to speak with the chief judge, resumed the hearing off the record, and permitted the defendant to leave through a secure non-public exit. The government contended that these actions constituted deliberate obstruction of lawful federal enforcement efforts.",
+    "target_paragraph_indices": [
+      594,
+      1210
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            594,
+            869
+          ],
+          [
+            870,
+            1092
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged incident on March 14 in Milwaukee County Circuit Court: Judge Dugan, while presiding, allegedly interfered with ICE\u2019s attempt to arrest a noncitizen defendant by challenging agents\u2019 authority, directing them to the chief judge, taking proceedings off the record, and allowing the defendant to exit via a secure non-public route.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1093,
+            1210
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government theory: the alleged actions amounted to deliberate obstruction of federal enforcement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46498_p2",
+    "metadata": {
+      "case_id": "46498",
+      "paragraph_num": 2,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Judge Dugan moved to dismiss the indictment on May 14. Represented by former U.S. attorneys and expe..."
+    },
+    "source": "",
+    "target": "This case was a highly unusual federal criminal prosecution of a sitting state court judge\u2014who was alleged by the Trump Administration to have interfered with an immigration arrest. On April 24, 2025, a federal grand jury in the Eastern District of Wisconsin indicted Wisconsin Circuit Judge Hannah Dugan on two counts: (1) obstruction of a federal administrative proceeding under 18 U.S.C. \u00a7 1505, and (2) concealment of a person from arrest under 18 U.S.C. \u00a7 1071. The case was assigned to U.S. District Judge Lynn Adelman and referred for pretrial matters to Magistrate Judge Nancy Joseph.\n\nAccording to the indictment, Judge Dugan, while presiding over her courtroom in Milwaukee County Circuit Court on March 14, took steps to prevent U.S. Immigration and Customs Enforcement (ICE) officers' arrest of a noncitizen criminal defendant under an immigration detainer. Federal prosecutors alleged that she challenged the agents\u2019 authority, directed them to speak with the chief judge, resumed the hearing off the record, and permitted the defendant to leave through a secure non-public exit. The government contended that these actions constituted deliberate obstruction of lawful federal enforcement efforts.\n\nJudge Dugan moved to dismiss the indictment on May 14. Represented by former U.S. attorneys and experienced criminal defense counsel, she argued that her alleged conduct was fully within the scope of her judicial duties and was protected by absolute judicial immunity. She contended that the charges violated the constitutional doctrine of separation of powers, the Tenth Amendment\u2019s federalism protections, and the longstanding principle that judicial acts\u2014especially those involving courtroom management\u2014cannot be criminalized. Her briefing drew heavily from Trump v. United States (2024), where the Supreme Court held that the President cannot be prosecuted for official acts, and argued that the same logic applied to judges. She also invoked constitutional avoidance and argued that the relevant criminal statutes could not be construed to reach judicial conduct without raising serious constitutional questions.\n\nAmici curiae briefs were filed on both sides. A coalition of 138 former federal and state judges moved to support dismissal, emphasizing the risk of chilling judicial independence and public trust. They argued that courtroom decision-making must be insulated from criminal sanction, and that accountability for judges is properly handled through appeal or state judicial conduct commissions. In response, the Center for American Rights filed an amicus brief arguing that public officials\u2014judges included\u2014are not immune from prosecution for obstructing justice, and that allowing immunity here would set a dangerous precedent.\n\nOn July 7, Magistrate Judge Nancy Joseph issued a Report and Recommendation that recommended that the court deny the motion to dismiss. She concluded that no federal court had recognized absolute judicial immunity as a bar to criminal prosecution, rather than civil liability. While the alleged conduct may have occurred near or within the courtroom, she found that whether it was \"judicial in nature\" and immune from prosecution was not a question that could be resolved on the pleadings. The Report emphasized that judges have historically been held criminally liable for corruption or obstruction where warranted, citing precedents such as United States v. Claiborne and United States v. Joseph. She recommended that the case proceed to trial, with the motion to dismiss denied in full.\n\nOn July 22, Judge Dugan filed objections to the Report and Recommendation, reiterating her constitutional arguments and asserting that the magistrate failed to address controlling authority on judicial independence. On July 29, the government filed its response, urging the district court to adopt the magistrate\u2019s recommendation and allow the case to proceed to trial.\n\nAs of August 4, 2025, the district judge had not yet ruled on the motion to dismiss. The case is ongoing.",
+    "target_paragraph": "Judge Dugan moved to dismiss the indictment on May 14. Represented by former U.S. attorneys and experienced criminal defense counsel, she argued that her alleged conduct was fully within the scope of her judicial duties and was protected by absolute judicial immunity. She contended that the charges violated the constitutional doctrine of separation of powers, the Tenth Amendment\u2019s federalism protections, and the longstanding principle that judicial acts\u2014especially those involving courtroom management\u2014cannot be criminalized. Her briefing drew heavily from Trump v. United States (2024), where the Supreme Court held that the President cannot be prosecuted for official acts, and argued that the same logic applied to judges. She also invoked constitutional avoidance and argued that the relevant criminal statutes could not be construed to reach judicial conduct without raising serious constitutional questions.",
+    "target_paragraph_indices": [
+      1212,
+      2129
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1481,
+            1741
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional separation of powers (structural constitutional doctrine)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1481,
+            1741
+          ]
+        ],
+        "annotation": {
+          "explanation": "Tenth Amendment (federalism protections)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1212,
+            1266
+          ]
+        ],
+        "annotation": {
+          "explanation": "Dismissal of the indictment",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1267,
+            1480
+          ]
+        ],
+        "annotation": {
+          "explanation": "former U.S. attorneys and experienced criminal defense counsel",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            1742,
+            1890
+          ]
+        ],
+        "annotation": {
+          "explanation": "Trump v. United States (2024)",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1212,
+            1266
+          ],
+          [
+            1346,
+            1480
+          ],
+          [
+            1481,
+            1741
+          ],
+          [
+            1742,
+            1941
+          ],
+          [
+            1942,
+            2129
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defense moved to dismiss on May 14, asserting absolute judicial immunity and constitutional/federalism defenses, analogizing to Trump v. United States (2024), and invoking constitutional avoidance.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1212,
+            1266
+          ],
+          [
+            1346,
+            1480
+          ],
+          [
+            1481,
+            1741
+          ],
+          [
+            1742,
+            1941
+          ],
+          [
+            1942,
+            2129
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 14, 2025: Motion to dismiss indictment by Judge Dugan; grounds include absolute judicial immunity, separation of powers, Tenth Amendment federalism, non-criminalization of judicial acts, reliance on Trump v. United States (2024), and constitutional avoidance.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1212,
+            1266
+          ],
+          [
+            1267,
+            1480
+          ],
+          [
+            1481,
+            1741
+          ],
+          [
+            1742,
+            1941
+          ],
+          [
+            1942,
+            2129
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defense motion to dismiss filed May 14, 2025; arguments: absolute judicial immunity; separation of powers; Tenth Amendment federalism; judicial acts cannot be criminalized; reliance on Trump v. United States (2024); constitutional avoidance.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46498_p3",
+    "metadata": {
+      "case_id": "46498",
+      "paragraph_num": 3,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Amici curiae briefs were filed on both sides. A coalition of 138 former federal and state judges mov..."
+    },
+    "source": "",
+    "target": "This case was a highly unusual federal criminal prosecution of a sitting state court judge\u2014who was alleged by the Trump Administration to have interfered with an immigration arrest. On April 24, 2025, a federal grand jury in the Eastern District of Wisconsin indicted Wisconsin Circuit Judge Hannah Dugan on two counts: (1) obstruction of a federal administrative proceeding under 18 U.S.C. \u00a7 1505, and (2) concealment of a person from arrest under 18 U.S.C. \u00a7 1071. The case was assigned to U.S. District Judge Lynn Adelman and referred for pretrial matters to Magistrate Judge Nancy Joseph.\n\nAccording to the indictment, Judge Dugan, while presiding over her courtroom in Milwaukee County Circuit Court on March 14, took steps to prevent U.S. Immigration and Customs Enforcement (ICE) officers' arrest of a noncitizen criminal defendant under an immigration detainer. Federal prosecutors alleged that she challenged the agents\u2019 authority, directed them to speak with the chief judge, resumed the hearing off the record, and permitted the defendant to leave through a secure non-public exit. The government contended that these actions constituted deliberate obstruction of lawful federal enforcement efforts.\n\nJudge Dugan moved to dismiss the indictment on May 14. Represented by former U.S. attorneys and experienced criminal defense counsel, she argued that her alleged conduct was fully within the scope of her judicial duties and was protected by absolute judicial immunity. She contended that the charges violated the constitutional doctrine of separation of powers, the Tenth Amendment\u2019s federalism protections, and the longstanding principle that judicial acts\u2014especially those involving courtroom management\u2014cannot be criminalized. Her briefing drew heavily from Trump v. United States (2024), where the Supreme Court held that the President cannot be prosecuted for official acts, and argued that the same logic applied to judges. She also invoked constitutional avoidance and argued that the relevant criminal statutes could not be construed to reach judicial conduct without raising serious constitutional questions.\n\nAmici curiae briefs were filed on both sides. A coalition of 138 former federal and state judges moved to support dismissal, emphasizing the risk of chilling judicial independence and public trust. They argued that courtroom decision-making must be insulated from criminal sanction, and that accountability for judges is properly handled through appeal or state judicial conduct commissions. In response, the Center for American Rights filed an amicus brief arguing that public officials\u2014judges included\u2014are not immune from prosecution for obstructing justice, and that allowing immunity here would set a dangerous precedent.\n\nOn July 7, Magistrate Judge Nancy Joseph issued a Report and Recommendation that recommended that the court deny the motion to dismiss. She concluded that no federal court had recognized absolute judicial immunity as a bar to criminal prosecution, rather than civil liability. While the alleged conduct may have occurred near or within the courtroom, she found that whether it was \"judicial in nature\" and immune from prosecution was not a question that could be resolved on the pleadings. The Report emphasized that judges have historically been held criminally liable for corruption or obstruction where warranted, citing precedents such as United States v. Claiborne and United States v. Joseph. She recommended that the case proceed to trial, with the motion to dismiss denied in full.\n\nOn July 22, Judge Dugan filed objections to the Report and Recommendation, reiterating her constitutional arguments and asserting that the magistrate failed to address controlling authority on judicial independence. On July 29, the government filed its response, urging the district court to adopt the magistrate\u2019s recommendation and allow the case to proceed to trial.\n\nAs of August 4, 2025, the district judge had not yet ruled on the motion to dismiss. The case is ongoing.",
+    "target_paragraph": "Amici curiae briefs were filed on both sides. A coalition of 138 former federal and state judges moved to support dismissal, emphasizing the risk of chilling judicial independence and public trust. They argued that courtroom decision-making must be insulated from criminal sanction, and that accountability for judges is properly handled through appeal or state judicial conduct commissions. In response, the Center for American Rights filed an amicus brief arguing that public officials\u2014judges included\u2014are not immune from prosecution for obstructing justice, and that allowing immunity here would set a dangerous precedent.",
+    "target_paragraph_indices": [
+      2131,
+      2756
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2177,
+            2254
+          ]
+        ],
+        "annotation": {
+          "explanation": "Support for dismissal of the indictment (amici curiae)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2131,
+            2176
+          ],
+          [
+            2177,
+            2328
+          ],
+          [
+            2523,
+            2756
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amicus support split: 138 former judges support dismissal citing judicial independence; Center for American Rights argues judges are not immune from prosecution for obstruction.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2131,
+            2176
+          ],
+          [
+            2177,
+            2328
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amicus brief filed by a coalition of 138 former federal and state judges supporting dismissal; arguments centered on judicial independence and appropriate accountability mechanisms.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2523,
+            2756
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amicus brief filed by the Center for American Rights opposing dismissal; argues no criminal immunity for judges and warns against dangerous precedent.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2131,
+            2176
+          ],
+          [
+            2177,
+            2328
+          ],
+          [
+            2523,
+            2756
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amici filings: 138 former judges supported dismissal; Center for American Rights opposed and argued judges are not immune from prosecution for obstruction.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46498_p4",
+    "metadata": {
+      "case_id": "46498",
+      "paragraph_num": 4,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 7, Magistrate Judge Nancy Joseph issued a Report and Recommendation that recommended that th..."
+    },
+    "source": "",
+    "target": "This case was a highly unusual federal criminal prosecution of a sitting state court judge\u2014who was alleged by the Trump Administration to have interfered with an immigration arrest. On April 24, 2025, a federal grand jury in the Eastern District of Wisconsin indicted Wisconsin Circuit Judge Hannah Dugan on two counts: (1) obstruction of a federal administrative proceeding under 18 U.S.C. \u00a7 1505, and (2) concealment of a person from arrest under 18 U.S.C. \u00a7 1071. The case was assigned to U.S. District Judge Lynn Adelman and referred for pretrial matters to Magistrate Judge Nancy Joseph.\n\nAccording to the indictment, Judge Dugan, while presiding over her courtroom in Milwaukee County Circuit Court on March 14, took steps to prevent U.S. Immigration and Customs Enforcement (ICE) officers' arrest of a noncitizen criminal defendant under an immigration detainer. Federal prosecutors alleged that she challenged the agents\u2019 authority, directed them to speak with the chief judge, resumed the hearing off the record, and permitted the defendant to leave through a secure non-public exit. The government contended that these actions constituted deliberate obstruction of lawful federal enforcement efforts.\n\nJudge Dugan moved to dismiss the indictment on May 14. Represented by former U.S. attorneys and experienced criminal defense counsel, she argued that her alleged conduct was fully within the scope of her judicial duties and was protected by absolute judicial immunity. She contended that the charges violated the constitutional doctrine of separation of powers, the Tenth Amendment\u2019s federalism protections, and the longstanding principle that judicial acts\u2014especially those involving courtroom management\u2014cannot be criminalized. Her briefing drew heavily from Trump v. United States (2024), where the Supreme Court held that the President cannot be prosecuted for official acts, and argued that the same logic applied to judges. She also invoked constitutional avoidance and argued that the relevant criminal statutes could not be construed to reach judicial conduct without raising serious constitutional questions.\n\nAmici curiae briefs were filed on both sides. A coalition of 138 former federal and state judges moved to support dismissal, emphasizing the risk of chilling judicial independence and public trust. They argued that courtroom decision-making must be insulated from criminal sanction, and that accountability for judges is properly handled through appeal or state judicial conduct commissions. In response, the Center for American Rights filed an amicus brief arguing that public officials\u2014judges included\u2014are not immune from prosecution for obstructing justice, and that allowing immunity here would set a dangerous precedent.\n\nOn July 7, Magistrate Judge Nancy Joseph issued a Report and Recommendation that recommended that the court deny the motion to dismiss. She concluded that no federal court had recognized absolute judicial immunity as a bar to criminal prosecution, rather than civil liability. While the alleged conduct may have occurred near or within the courtroom, she found that whether it was \"judicial in nature\" and immune from prosecution was not a question that could be resolved on the pleadings. The Report emphasized that judges have historically been held criminally liable for corruption or obstruction where warranted, citing precedents such as United States v. Claiborne and United States v. Joseph. She recommended that the case proceed to trial, with the motion to dismiss denied in full.\n\nOn July 22, Judge Dugan filed objections to the Report and Recommendation, reiterating her constitutional arguments and asserting that the magistrate failed to address controlling authority on judicial independence. On July 29, the government filed its response, urging the district court to adopt the magistrate\u2019s recommendation and allow the case to proceed to trial.\n\nAs of August 4, 2025, the district judge had not yet ruled on the motion to dismiss. The case is ongoing.",
+    "target_paragraph": "On July 7, Magistrate Judge Nancy Joseph issued a Report and Recommendation that recommended that the court deny the motion to dismiss. She concluded that no federal court had recognized absolute judicial immunity as a bar to criminal prosecution, rather than civil liability. While the alleged conduct may have occurred near or within the courtroom, she found that whether it was \"judicial in nature\" and immune from prosecution was not a question that could be resolved on the pleadings. The Report emphasized that judges have historically been held criminally liable for corruption or obstruction where warranted, citing precedents such as United States v. Claiborne and United States v. Joseph. She recommended that the case proceed to trial, with the motion to dismiss denied in full.",
+    "target_paragraph_indices": [
+      2758,
+      3547
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3375,
+            3456
+          ]
+        ],
+        "annotation": {
+          "explanation": "United States v. Claiborne",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3375,
+            3456
+          ]
+        ],
+        "annotation": {
+          "explanation": "United States v. Joseph",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2758,
+            2893
+          ],
+          [
+            2894,
+            3034
+          ],
+          [
+            3035,
+            3247
+          ],
+          [
+            3248,
+            3456
+          ],
+          [
+            3457,
+            3547
+          ]
+        ],
+        "annotation": {
+          "explanation": "Magistrate Judge\u2019s July 7 R&R recommended denying dismissal and proceeding to trial, finding absolute judicial immunity not a bar to criminal prosecution on the pleadings.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2758,
+            2893
+          ],
+          [
+            2894,
+            3034
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 7, 2025: Magistrate Judge Nancy Joseph\u2019s Report and Recommendation recommending denial of the motion to dismiss; finds absolute judicial immunity not a bar to criminal prosecution.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2758,
+            2893
+          ],
+          [
+            2894,
+            3034
+          ],
+          [
+            3035,
+            3247
+          ],
+          [
+            3248,
+            3456
+          ],
+          [
+            3457,
+            3547
+          ]
+        ],
+        "annotation": {
+          "explanation": "Report and Recommendation (July 7, 2025): recommend denying motion to dismiss; absolute judicial immunity not a bar to criminal prosecution; issues not resolvable on pleadings; recommend case proceed to trial.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2758,
+            2893
+          ],
+          [
+            3457,
+            3547
+          ],
+          [
+            3920,
+            4004
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion to dismiss: On July 7, 2025, Magistrate Judge Nancy Joseph issued an R&R recommending denial in full; as of August 4, 2025, the district judge had not ruled.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            4,
+            6
+          ]
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46498_p5",
+    "metadata": {
+      "case_id": "46498",
+      "paragraph_num": 5,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 22, Judge Dugan filed objections to the Report and Recommendation, reiterating her constitut..."
+    },
+    "source": "",
+    "target": "This case was a highly unusual federal criminal prosecution of a sitting state court judge\u2014who was alleged by the Trump Administration to have interfered with an immigration arrest. On April 24, 2025, a federal grand jury in the Eastern District of Wisconsin indicted Wisconsin Circuit Judge Hannah Dugan on two counts: (1) obstruction of a federal administrative proceeding under 18 U.S.C. \u00a7 1505, and (2) concealment of a person from arrest under 18 U.S.C. \u00a7 1071. The case was assigned to U.S. District Judge Lynn Adelman and referred for pretrial matters to Magistrate Judge Nancy Joseph.\n\nAccording to the indictment, Judge Dugan, while presiding over her courtroom in Milwaukee County Circuit Court on March 14, took steps to prevent U.S. Immigration and Customs Enforcement (ICE) officers' arrest of a noncitizen criminal defendant under an immigration detainer. Federal prosecutors alleged that she challenged the agents\u2019 authority, directed them to speak with the chief judge, resumed the hearing off the record, and permitted the defendant to leave through a secure non-public exit. The government contended that these actions constituted deliberate obstruction of lawful federal enforcement efforts.\n\nJudge Dugan moved to dismiss the indictment on May 14. Represented by former U.S. attorneys and experienced criminal defense counsel, she argued that her alleged conduct was fully within the scope of her judicial duties and was protected by absolute judicial immunity. She contended that the charges violated the constitutional doctrine of separation of powers, the Tenth Amendment\u2019s federalism protections, and the longstanding principle that judicial acts\u2014especially those involving courtroom management\u2014cannot be criminalized. Her briefing drew heavily from Trump v. United States (2024), where the Supreme Court held that the President cannot be prosecuted for official acts, and argued that the same logic applied to judges. She also invoked constitutional avoidance and argued that the relevant criminal statutes could not be construed to reach judicial conduct without raising serious constitutional questions.\n\nAmici curiae briefs were filed on both sides. A coalition of 138 former federal and state judges moved to support dismissal, emphasizing the risk of chilling judicial independence and public trust. They argued that courtroom decision-making must be insulated from criminal sanction, and that accountability for judges is properly handled through appeal or state judicial conduct commissions. In response, the Center for American Rights filed an amicus brief arguing that public officials\u2014judges included\u2014are not immune from prosecution for obstructing justice, and that allowing immunity here would set a dangerous precedent.\n\nOn July 7, Magistrate Judge Nancy Joseph issued a Report and Recommendation that recommended that the court deny the motion to dismiss. She concluded that no federal court had recognized absolute judicial immunity as a bar to criminal prosecution, rather than civil liability. While the alleged conduct may have occurred near or within the courtroom, she found that whether it was \"judicial in nature\" and immune from prosecution was not a question that could be resolved on the pleadings. The Report emphasized that judges have historically been held criminally liable for corruption or obstruction where warranted, citing precedents such as United States v. Claiborne and United States v. Joseph. She recommended that the case proceed to trial, with the motion to dismiss denied in full.\n\nOn July 22, Judge Dugan filed objections to the Report and Recommendation, reiterating her constitutional arguments and asserting that the magistrate failed to address controlling authority on judicial independence. On July 29, the government filed its response, urging the district court to adopt the magistrate\u2019s recommendation and allow the case to proceed to trial.\n\nAs of August 4, 2025, the district judge had not yet ruled on the motion to dismiss. The case is ongoing.",
+    "target_paragraph": "On July 22, Judge Dugan filed objections to the Report and Recommendation, reiterating her constitutional arguments and asserting that the magistrate failed to address controlling authority on judicial independence. On July 29, the government filed its response, urging the district court to adopt the magistrate\u2019s recommendation and allow the case to proceed to trial.",
+    "target_paragraph_indices": [
+      3549,
+      3918
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3777,
+            3918
+          ]
+        ],
+        "annotation": {
+          "explanation": "Adopt the magistrate\u2019s recommendation and allow the case to proceed to trial (deny the motion to dismiss)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3549,
+            3764
+          ],
+          [
+            3765,
+            3918
+          ]
+        ],
+        "annotation": {
+          "explanation": "Objections filed July 22 by Judge Dugan; government responded July 29 urging adoption of R&R and trial.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3549,
+            3764
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 22, 2025: Defendant\u2019s objections filed to the Report and Recommendation, renewing constitutional arguments.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3765,
+            3918
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 29, 2025: Government response filed urging adoption of the Report and Recommendation and proceeding to trial.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3549,
+            3764
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defense objections filed July 22, 2025, to the R&R, reiterating constitutional arguments.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3765,
+            3918
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government response filed July 29, 2025, urging adoption of R&R and to proceed to trial.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46498_p6",
+    "metadata": {
+      "case_id": "46498",
+      "paragraph_num": 6,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "As of August 4, 2025, the district judge had not yet ruled on the motion to dismiss. The case is ong..."
+    },
+    "source": "",
+    "target": "This case was a highly unusual federal criminal prosecution of a sitting state court judge\u2014who was alleged by the Trump Administration to have interfered with an immigration arrest. On April 24, 2025, a federal grand jury in the Eastern District of Wisconsin indicted Wisconsin Circuit Judge Hannah Dugan on two counts: (1) obstruction of a federal administrative proceeding under 18 U.S.C. \u00a7 1505, and (2) concealment of a person from arrest under 18 U.S.C. \u00a7 1071. The case was assigned to U.S. District Judge Lynn Adelman and referred for pretrial matters to Magistrate Judge Nancy Joseph.\n\nAccording to the indictment, Judge Dugan, while presiding over her courtroom in Milwaukee County Circuit Court on March 14, took steps to prevent U.S. Immigration and Customs Enforcement (ICE) officers' arrest of a noncitizen criminal defendant under an immigration detainer. Federal prosecutors alleged that she challenged the agents\u2019 authority, directed them to speak with the chief judge, resumed the hearing off the record, and permitted the defendant to leave through a secure non-public exit. The government contended that these actions constituted deliberate obstruction of lawful federal enforcement efforts.\n\nJudge Dugan moved to dismiss the indictment on May 14. Represented by former U.S. attorneys and experienced criminal defense counsel, she argued that her alleged conduct was fully within the scope of her judicial duties and was protected by absolute judicial immunity. She contended that the charges violated the constitutional doctrine of separation of powers, the Tenth Amendment\u2019s federalism protections, and the longstanding principle that judicial acts\u2014especially those involving courtroom management\u2014cannot be criminalized. Her briefing drew heavily from Trump v. United States (2024), where the Supreme Court held that the President cannot be prosecuted for official acts, and argued that the same logic applied to judges. She also invoked constitutional avoidance and argued that the relevant criminal statutes could not be construed to reach judicial conduct without raising serious constitutional questions.\n\nAmici curiae briefs were filed on both sides. A coalition of 138 former federal and state judges moved to support dismissal, emphasizing the risk of chilling judicial independence and public trust. They argued that courtroom decision-making must be insulated from criminal sanction, and that accountability for judges is properly handled through appeal or state judicial conduct commissions. In response, the Center for American Rights filed an amicus brief arguing that public officials\u2014judges included\u2014are not immune from prosecution for obstructing justice, and that allowing immunity here would set a dangerous precedent.\n\nOn July 7, Magistrate Judge Nancy Joseph issued a Report and Recommendation that recommended that the court deny the motion to dismiss. She concluded that no federal court had recognized absolute judicial immunity as a bar to criminal prosecution, rather than civil liability. While the alleged conduct may have occurred near or within the courtroom, she found that whether it was \"judicial in nature\" and immune from prosecution was not a question that could be resolved on the pleadings. The Report emphasized that judges have historically been held criminally liable for corruption or obstruction where warranted, citing precedents such as United States v. Claiborne and United States v. Joseph. She recommended that the case proceed to trial, with the motion to dismiss denied in full.\n\nOn July 22, Judge Dugan filed objections to the Report and Recommendation, reiterating her constitutional arguments and asserting that the magistrate failed to address controlling authority on judicial independence. On July 29, the government filed its response, urging the district court to adopt the magistrate\u2019s recommendation and allow the case to proceed to trial.\n\nAs of August 4, 2025, the district judge had not yet ruled on the motion to dismiss. The case is ongoing.",
+    "target_paragraph": "As of August 4, 2025, the district judge had not yet ruled on the motion to dismiss. The case is ongoing.",
+    "target_paragraph_indices": [
+      3920,
+      4025
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3920,
+            4025
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: As of August 4, 2025, no ruling on the motion to dismiss; case ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3920,
+            4025
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: As of Aug. 4, 2025, no ruling yet on the motion to dismiss; case ongoing (no trial scheduling information provided).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]
