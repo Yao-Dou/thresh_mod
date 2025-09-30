@@ -1,0 +1,1186 @@
+[
+  {
+    "id": "46337_p0",
+    "metadata": {
+      "case_id": "46337",
+      "paragraph_num": 0,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged Executive Order 14248, which imposed various requirements on federal elections...."
+    },
+    "source": "",
+    "target": "This case challenged Executive Order 14248, which imposed various requirements on federal elections. On April 3, 2025, nineteen states filed this lawsuit in the United States District Court for the District of Massachusetts, naming President Donald Trump, the U.S. Attorney General, the U.S. Election Assistance Commission (EAC) and its director and commissioners, and the Secretary of Defense as Defendants. They challenged multiple sections of Executive Order 14248, titled \"Preserving and Protecting the Integrity of American Elections,\" signed on March 25, 2025. These sections:\n\n\u2022 Require the EAC to demand documentary proof of citizenship and to record such information,   \u2022 Require the heads of federal voter registration agencies to assess citizenship prior to providing registration forms,   \u2022 Order the Secretary of Defense to require proof of citizenship in the Federal Post Card Application,   \u2022 Command the Attorney General to take action against states that count absentee ballots received after Election Day, and   \u2022 Condition federal funding upon compliance with the EO.\n\nThe plaintiffs alleged that by purporting to impose election rules on the states, the President exceeded his constitutional powers and unlawfully infringed on congressional and state authority, thereby violating the Separation of Powers, the Administrative Procedure Act, the National Voter Registration Act (NVRA), and the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA). Represented by their respective attorneys general, the plaintiffs sought declaratory and injunctive relief, as well as attorney fees. The case was assigned to District Judge Denise J. Casper.\n\nOn April 23, the defendants moved to transfer and consolidate this case with a case in the District Court for the District of Columbia, League of United Latin American Citizens v. Executive Office of the President [../../../../case/46322/], which also challenged the EO. Judge Casper denied the motion on May 9, finding that transfer was not in the interests of justice in this case, given that the plaintiffs here were states, not private parties, and this case challenged different sections of the EO from those challenged in the D.D.C. case.\n\nOn May 5, the plaintiffs moved for a preliminary injunction. The court granted the motion on June 13, finding that the challenged sections were ripe for review since they either imposed deadlines or clearly laid out actions that the defendants were required to take. Turning to the merits, the court found that the President lacked the authority to take the actions challenged, since in federal statutes such as the NVRA, the HAVA, and the UOCAVA, Congress set requirements for federal elections that did not include those required by the EO. Finally, the court found that Congress had never endorsed the EO's interpretation regarding absentee and mail-in ballots in its various Election Day statutes and that the EO could not impose conditions on formula grants since the Constitution \"vests exclusive power in Congress to impose conditions on federal grants.\" Therefore, the court enjoined the defendants from implementing any of the challenged sections of the EO. 2025 WL 1667949.\n\nAlso on June 13, the defendants filed a motion to dismiss, arguing that the plaintiffs either lacked standing (since they were challenging actions that allegedly did not affect them) or were bringing claims that were not ripe (since they were bringing claims challenging actions that had not yet occurred, and which still need to go through additional legal and policy processes). The defendants also argued that the plaintiffs failed to state a claim on the merits because, since the Elections Assistance Commission is an Executive Agency, \"the Constitution grants the President supervisory authority over members of the Executive Branch, [so] he may lawfully direct how they carry out their statutory duties.\"\n\nOn July 3, the defendants filed a motion to modify the preliminary injunction. Pointing to the Supreme Court's recent decision in\u00a0Casa Inc. v. Trump [../../../../case/45965/], in which the Supreme Court held that federal courts lacked power to issue injunctions that provide relief to individuals who are not parties to a case, the defendants argued that because \"this Court\u2019s preliminary injunction prohibiting Defendants from implementing Executive Order 14248\u2019s section 2(d) is broader than necessary to provide complete relief to the Plaintiffs in this case, the Court should grant this motion and modify its injunction concerning section 2(d) to the Plaintiffs.\" The court granted the request on July 18, modifying its preliminary injunction concerning Section 2(d) to only apply to the plaintiff states.\n\nThe case is ongoing.",
+    "target_paragraph": "This case challenged Executive Order 14248, which imposed various requirements on federal elections. On April 3, 2025, nineteen states filed this lawsuit in the United States District Court for the District of Massachusetts, naming President Donald Trump, the U.S. Attorney General, the U.S. Election Assistance Commission (EAC) and its director and commissioners, and the Secretary of Defense as Defendants. They challenged multiple sections of Executive Order 14248, titled \"Preserving and Protecting the Integrity of American Elections,\" signed on March 25, 2025. These sections:",
+    "target_paragraph_indices": [
+      0,
+      582
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            101,
+            408
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 3, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            101,
+            223
+          ],
+          [
+            1474,
+            1607
+          ],
+          [
+            2051,
+            2114
+          ],
+          [
+            4621,
+            4720
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as nineteen states represented by their respective attorneys general",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            2,
+            3,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            101,
+            408
+          ],
+          [
+            1474,
+            1607
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Nineteen states (represented by their respective attorneys general)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            101,
+            408
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: President Donald Trump (President of the United States)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            101,
+            408
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Attorney General",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            101,
+            408
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Election Assistance Commission (EAC)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            101,
+            408
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Director of the U.S. Election Assistance Commission (EAC)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            101,
+            408
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Commissioners of the U.S. Election Assistance Commission (EAC)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            101,
+            408
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of Defense",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            469,
+            566
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 25, 2025: Executive Order 14248 signed.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            100
+          ],
+          [
+            409,
+            566
+          ]
+        ],
+        "annotation": {
+          "explanation": "Executive Order 14248, titled \"Preserving and Protecting the Integrity of American Elections,\" was signed March 25, 2025, and imposed federal election-related requirements that are the focus of this challenge.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            101,
+            408
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing details: Nineteen states sued on April 3, 2025, in the U.S. District Court for the District of Massachusetts, naming President Donald Trump, the U.S. Attorney General, the U.S. Election Assistance Commission and its director and commissioners, and the Secretary of Defense as defendants.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            101,
+            408
+          ],
+          [
+            1474,
+            1607
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed by nineteen states on April 3, 2025 in D. Mass., seeking declaratory and injunctive relief and attorney fees.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 12
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            101,
+            224
+          ],
+          [
+            1608,
+            1665
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed April 3, 2025, in the U.S. District Court for the District of Massachusetts and assigned to Judge Denise J. Casper.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": "46337_p1",
+    "metadata": {
+      "case_id": "46337",
+      "paragraph_num": 1,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "\u2022 Require the EAC to demand documentary proof of citizenship and to record such information,   \u2022 Req..."
+    },
+    "source": "",
+    "target": "This case challenged Executive Order 14248, which imposed various requirements on federal elections. On April 3, 2025, nineteen states filed this lawsuit in the United States District Court for the District of Massachusetts, naming President Donald Trump, the U.S. Attorney General, the U.S. Election Assistance Commission (EAC) and its director and commissioners, and the Secretary of Defense as Defendants. They challenged multiple sections of Executive Order 14248, titled \"Preserving and Protecting the Integrity of American Elections,\" signed on March 25, 2025. These sections:\n\n\u2022 Require the EAC to demand documentary proof of citizenship and to record such information,   \u2022 Require the heads of federal voter registration agencies to assess citizenship prior to providing registration forms,   \u2022 Order the Secretary of Defense to require proof of citizenship in the Federal Post Card Application,   \u2022 Command the Attorney General to take action against states that count absentee ballots received after Election Day, and   \u2022 Condition federal funding upon compliance with the EO.\n\nThe plaintiffs alleged that by purporting to impose election rules on the states, the President exceeded his constitutional powers and unlawfully infringed on congressional and state authority, thereby violating the Separation of Powers, the Administrative Procedure Act, the National Voter Registration Act (NVRA), and the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA). Represented by their respective attorneys general, the plaintiffs sought declaratory and injunctive relief, as well as attorney fees. The case was assigned to District Judge Denise J. Casper.\n\nOn April 23, the defendants moved to transfer and consolidate this case with a case in the District Court for the District of Columbia, League of United Latin American Citizens v. Executive Office of the President [../../../../case/46322/], which also challenged the EO. Judge Casper denied the motion on May 9, finding that transfer was not in the interests of justice in this case, given that the plaintiffs here were states, not private parties, and this case challenged different sections of the EO from those challenged in the D.D.C. case.\n\nOn May 5, the plaintiffs moved for a preliminary injunction. The court granted the motion on June 13, finding that the challenged sections were ripe for review since they either imposed deadlines or clearly laid out actions that the defendants were required to take. Turning to the merits, the court found that the President lacked the authority to take the actions challenged, since in federal statutes such as the NVRA, the HAVA, and the UOCAVA, Congress set requirements for federal elections that did not include those required by the EO. Finally, the court found that Congress had never endorsed the EO's interpretation regarding absentee and mail-in ballots in its various Election Day statutes and that the EO could not impose conditions on formula grants since the Constitution \"vests exclusive power in Congress to impose conditions on federal grants.\" Therefore, the court enjoined the defendants from implementing any of the challenged sections of the EO. 2025 WL 1667949.\n\nAlso on June 13, the defendants filed a motion to dismiss, arguing that the plaintiffs either lacked standing (since they were challenging actions that allegedly did not affect them) or were bringing claims that were not ripe (since they were bringing claims challenging actions that had not yet occurred, and which still need to go through additional legal and policy processes). The defendants also argued that the plaintiffs failed to state a claim on the merits because, since the Elections Assistance Commission is an Executive Agency, \"the Constitution grants the President supervisory authority over members of the Executive Branch, [so] he may lawfully direct how they carry out their statutory duties.\"\n\nOn July 3, the defendants filed a motion to modify the preliminary injunction. Pointing to the Supreme Court's recent decision in\u00a0Casa Inc. v. Trump [../../../../case/45965/], in which the Supreme Court held that federal courts lacked power to issue injunctions that provide relief to individuals who are not parties to a case, the defendants argued that because \"this Court\u2019s preliminary injunction prohibiting Defendants from implementing Executive Order 14248\u2019s section 2(d) is broader than necessary to provide complete relief to the Plaintiffs in this case, the Court should grant this motion and modify its injunction concerning section 2(d) to the Plaintiffs.\" The court granted the request on July 18, modifying its preliminary injunction concerning Section 2(d) to only apply to the plaintiff states.\n\nThe case is ongoing.",
+    "target_paragraph": "\u2022 Require the EAC to demand documentary proof of citizenship and to record such information,   \u2022 Require the heads of federal voter registration agencies to assess citizenship prior to providing registration forms,   \u2022 Order the Secretary of Defense to require proof of citizenship in the Federal Post Card Application,   \u2022 Command the Attorney General to take action against states that count absentee ballots received after Election Day, and   \u2022 Condition federal funding upon compliance with the EO.",
+    "target_paragraph_indices": [
+      584,
+      1086
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            584,
+            1086
+          ]
+        ],
+        "annotation": {
+          "explanation": "Challenged EO provisions required: EAC to demand and record documentary proof of citizenship; federal voter registration agencies to assess citizenship before providing forms; DOD to require proof of citizenship in the FPCA; the Attorney General to act against states counting absentee ballots received after Election Day; and conditioning federal funding on compliance.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            584,
+            1086
+          ],
+          [
+            3075,
+            3179
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 13, 2025, the court issued a preliminary injunction prohibiting defendants from implementing all challenged sections of EO 14248, including requirements to (a) have the EAC demand and record documentary proof of citizenship; (b) have federal voter-registration agencies assess citizenship before providing registration forms; (c) require proof of citizenship in the Federal Post Card Application; (d) direct the Attorney General to act against states counting absentee ballots received after Election Day; and (e) condition federal funding on compliance with the EO.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": [
+            1,
+            4
+          ]
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46337_p2",
+    "metadata": {
+      "case_id": "46337",
+      "paragraph_num": 2,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs alleged that by purporting to impose election rules on the states, the President exce..."
+    },
+    "source": "",
+    "target": "This case challenged Executive Order 14248, which imposed various requirements on federal elections. On April 3, 2025, nineteen states filed this lawsuit in the United States District Court for the District of Massachusetts, naming President Donald Trump, the U.S. Attorney General, the U.S. Election Assistance Commission (EAC) and its director and commissioners, and the Secretary of Defense as Defendants. They challenged multiple sections of Executive Order 14248, titled \"Preserving and Protecting the Integrity of American Elections,\" signed on March 25, 2025. These sections:\n\n\u2022 Require the EAC to demand documentary proof of citizenship and to record such information,   \u2022 Require the heads of federal voter registration agencies to assess citizenship prior to providing registration forms,   \u2022 Order the Secretary of Defense to require proof of citizenship in the Federal Post Card Application,   \u2022 Command the Attorney General to take action against states that count absentee ballots received after Election Day, and   \u2022 Condition federal funding upon compliance with the EO.\n\nThe plaintiffs alleged that by purporting to impose election rules on the states, the President exceeded his constitutional powers and unlawfully infringed on congressional and state authority, thereby violating the Separation of Powers, the Administrative Procedure Act, the National Voter Registration Act (NVRA), and the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA). Represented by their respective attorneys general, the plaintiffs sought declaratory and injunctive relief, as well as attorney fees. The case was assigned to District Judge Denise J. Casper.\n\nOn April 23, the defendants moved to transfer and consolidate this case with a case in the District Court for the District of Columbia, League of United Latin American Citizens v. Executive Office of the President [../../../../case/46322/], which also challenged the EO. Judge Casper denied the motion on May 9, finding that transfer was not in the interests of justice in this case, given that the plaintiffs here were states, not private parties, and this case challenged different sections of the EO from those challenged in the D.D.C. case.\n\nOn May 5, the plaintiffs moved for a preliminary injunction. The court granted the motion on June 13, finding that the challenged sections were ripe for review since they either imposed deadlines or clearly laid out actions that the defendants were required to take. Turning to the merits, the court found that the President lacked the authority to take the actions challenged, since in federal statutes such as the NVRA, the HAVA, and the UOCAVA, Congress set requirements for federal elections that did not include those required by the EO. Finally, the court found that Congress had never endorsed the EO's interpretation regarding absentee and mail-in ballots in its various Election Day statutes and that the EO could not impose conditions on formula grants since the Constitution \"vests exclusive power in Congress to impose conditions on federal grants.\" Therefore, the court enjoined the defendants from implementing any of the challenged sections of the EO. 2025 WL 1667949.\n\nAlso on June 13, the defendants filed a motion to dismiss, arguing that the plaintiffs either lacked standing (since they were challenging actions that allegedly did not affect them) or were bringing claims that were not ripe (since they were bringing claims challenging actions that had not yet occurred, and which still need to go through additional legal and policy processes). The defendants also argued that the plaintiffs failed to state a claim on the merits because, since the Elections Assistance Commission is an Executive Agency, \"the Constitution grants the President supervisory authority over members of the Executive Branch, [so] he may lawfully direct how they carry out their statutory duties.\"\n\nOn July 3, the defendants filed a motion to modify the preliminary injunction. Pointing to the Supreme Court's recent decision in\u00a0Casa Inc. v. Trump [../../../../case/45965/], in which the Supreme Court held that federal courts lacked power to issue injunctions that provide relief to individuals who are not parties to a case, the defendants argued that because \"this Court\u2019s preliminary injunction prohibiting Defendants from implementing Executive Order 14248\u2019s section 2(d) is broader than necessary to provide complete relief to the Plaintiffs in this case, the Court should grant this motion and modify its injunction concerning section 2(d) to the Plaintiffs.\" The court granted the request on July 18, modifying its preliminary injunction concerning Section 2(d) to only apply to the plaintiff states.\n\nThe case is ongoing.",
+    "target_paragraph": "The plaintiffs alleged that by purporting to impose election rules on the states, the President exceeded his constitutional powers and unlawfully infringed on congressional and state authority, thereby violating the Separation of Powers, the Administrative Procedure Act, the National Voter Registration Act (NVRA), and the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA). Represented by their respective attorneys general, the plaintiffs sought declaratory and injunctive relief, as well as attorney fees. The case was assigned to District Judge Denise J. Casper.",
+    "target_paragraph_indices": [
+      1088,
+      1665
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1088,
+            1473
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional cause of action: Separation of Powers (alleged presidential overreach infringing congressional and state authority)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1088,
+            1473
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory cause of action: Administrative Procedure Act",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1088,
+            1473
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory cause of action: National Voter Registration Act (NVRA)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1088,
+            1473
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory cause of action: Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1282,
+            1473
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Constitution \u2014 Separation of Powers (alleged violation)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1282,
+            1473
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1282,
+            1473
+          ]
+        ],
+        "annotation": {
+          "explanation": "National Voter Registration Act (NVRA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1282,
+            1473
+          ]
+        ],
+        "annotation": {
+          "explanation": "Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1474,
+            1607
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief; injunctive relief; attorney fees",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1474,
+            1607
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys general of the plaintiff states",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1608,
+            1665
+          ],
+          [
+            1938,
+            2211
+          ]
+        ],
+        "annotation": {
+          "explanation": "[Denise J. Casper]",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1088,
+            1473
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 core allegations: The EO unlawfully imposed election rules on states, exceeding presidential authority and infringing congressional and state powers, violating the Separation of Powers, the APA, the NVRA, and UOCAVA.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1474,
+            1607
+          ]
+        ],
+        "annotation": {
+          "explanation": "Requested relief: declaratory and injunctive relief and attorney fees.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1608,
+            1665
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assignment: District Judge Denise J. Casper.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": "46337_p3",
+    "metadata": {
+      "case_id": "46337",
+      "paragraph_num": 3,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 23, the defendants moved to transfer and consolidate this case with a case in the District ..."
+    },
+    "source": "",
+    "target": "This case challenged Executive Order 14248, which imposed various requirements on federal elections. On April 3, 2025, nineteen states filed this lawsuit in the United States District Court for the District of Massachusetts, naming President Donald Trump, the U.S. Attorney General, the U.S. Election Assistance Commission (EAC) and its director and commissioners, and the Secretary of Defense as Defendants. They challenged multiple sections of Executive Order 14248, titled \"Preserving and Protecting the Integrity of American Elections,\" signed on March 25, 2025. These sections:\n\n\u2022 Require the EAC to demand documentary proof of citizenship and to record such information,   \u2022 Require the heads of federal voter registration agencies to assess citizenship prior to providing registration forms,   \u2022 Order the Secretary of Defense to require proof of citizenship in the Federal Post Card Application,   \u2022 Command the Attorney General to take action against states that count absentee ballots received after Election Day, and   \u2022 Condition federal funding upon compliance with the EO.\n\nThe plaintiffs alleged that by purporting to impose election rules on the states, the President exceeded his constitutional powers and unlawfully infringed on congressional and state authority, thereby violating the Separation of Powers, the Administrative Procedure Act, the National Voter Registration Act (NVRA), and the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA). Represented by their respective attorneys general, the plaintiffs sought declaratory and injunctive relief, as well as attorney fees. The case was assigned to District Judge Denise J. Casper.\n\nOn April 23, the defendants moved to transfer and consolidate this case with a case in the District Court for the District of Columbia, League of United Latin American Citizens v. Executive Office of the President [../../../../case/46322/], which also challenged the EO. Judge Casper denied the motion on May 9, finding that transfer was not in the interests of justice in this case, given that the plaintiffs here were states, not private parties, and this case challenged different sections of the EO from those challenged in the D.D.C. case.\n\nOn May 5, the plaintiffs moved for a preliminary injunction. The court granted the motion on June 13, finding that the challenged sections were ripe for review since they either imposed deadlines or clearly laid out actions that the defendants were required to take. Turning to the merits, the court found that the President lacked the authority to take the actions challenged, since in federal statutes such as the NVRA, the HAVA, and the UOCAVA, Congress set requirements for federal elections that did not include those required by the EO. Finally, the court found that Congress had never endorsed the EO's interpretation regarding absentee and mail-in ballots in its various Election Day statutes and that the EO could not impose conditions on formula grants since the Constitution \"vests exclusive power in Congress to impose conditions on federal grants.\" Therefore, the court enjoined the defendants from implementing any of the challenged sections of the EO. 2025 WL 1667949.\n\nAlso on June 13, the defendants filed a motion to dismiss, arguing that the plaintiffs either lacked standing (since they were challenging actions that allegedly did not affect them) or were bringing claims that were not ripe (since they were bringing claims challenging actions that had not yet occurred, and which still need to go through additional legal and policy processes). The defendants also argued that the plaintiffs failed to state a claim on the merits because, since the Elections Assistance Commission is an Executive Agency, \"the Constitution grants the President supervisory authority over members of the Executive Branch, [so] he may lawfully direct how they carry out their statutory duties.\"\n\nOn July 3, the defendants filed a motion to modify the preliminary injunction. Pointing to the Supreme Court's recent decision in\u00a0Casa Inc. v. Trump [../../../../case/45965/], in which the Supreme Court held that federal courts lacked power to issue injunctions that provide relief to individuals who are not parties to a case, the defendants argued that because \"this Court\u2019s preliminary injunction prohibiting Defendants from implementing Executive Order 14248\u2019s section 2(d) is broader than necessary to provide complete relief to the Plaintiffs in this case, the Court should grant this motion and modify its injunction concerning section 2(d) to the Plaintiffs.\" The court granted the request on July 18, modifying its preliminary injunction concerning Section 2(d) to only apply to the plaintiff states.\n\nThe case is ongoing.",
+    "target_paragraph": "On April 23, the defendants moved to transfer and consolidate this case with a case in the District Court for the District of Columbia, League of United Latin American Citizens v. Executive Office of the President [../../../../case/46322/], which also challenged the EO. Judge Casper denied the motion on May 9, finding that transfer was not in the interests of justice in this case, given that the plaintiffs here were states, not private parties, and this case challenged different sections of the EO from those challenged in the D.D.C. case.",
+    "target_paragraph_indices": [
+      1667,
+      2211
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            1667,
+            1937
+          ],
+          [
+            1938,
+            2211
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: League of United Latin American Citizens v. Executive Office of the President (case code 46322, D.D.C.). Defendants moved on April 23 to transfer and consolidate; Judge Casper denied the motion on May 9 because the plaintiffs here are states (not private parties) and this case challenges different EO sections.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "consolidated_cases",
+        "output_idx": [
+          [
+            1667,
+            1937
+          ],
+          [
+            1938,
+            2211
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attempted consolidation: On April 23, 2025, defendants moved to transfer and consolidate with League of United Latin American Citizens v. Executive Office of the President in the District Court for the District of Columbia. Outcome: Denied by Judge Casper on May 9, 2025, because transfer was not in the interests of justice; plaintiffs here were states (not private parties) and this case challenged different EO sections. No consolidation occurred.",
+          "checklist_item": "Consolidated Cases Noted",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1938,
+            2211
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 9: Court denied defendants' motion to transfer and consolidate.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1667,
+            1937
+          ],
+          [
+            1938,
+            2211
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion to transfer and consolidate (filed Apr. 23, 2025); denied May 9, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1667,
+            1937
+          ],
+          [
+            1938,
+            2211
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion to transfer and consolidate filed April 23; denied May 9. Court found transfer not in the interests of justice due to different plaintiffs (states) and different EO sections at issue compared to the D.D.C. case.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1667,
+            1937
+          ],
+          [
+            1938,
+            2211
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 9, 2025: Motion to transfer and consolidate denied.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46337_p4",
+    "metadata": {
+      "case_id": "46337",
+      "paragraph_num": 4,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 5, the plaintiffs moved for a preliminary injunction. The court granted the motion on June 13..."
+    },
+    "source": "",
+    "target": "This case challenged Executive Order 14248, which imposed various requirements on federal elections. On April 3, 2025, nineteen states filed this lawsuit in the United States District Court for the District of Massachusetts, naming President Donald Trump, the U.S. Attorney General, the U.S. Election Assistance Commission (EAC) and its director and commissioners, and the Secretary of Defense as Defendants. They challenged multiple sections of Executive Order 14248, titled \"Preserving and Protecting the Integrity of American Elections,\" signed on March 25, 2025. These sections:\n\n\u2022 Require the EAC to demand documentary proof of citizenship and to record such information,   \u2022 Require the heads of federal voter registration agencies to assess citizenship prior to providing registration forms,   \u2022 Order the Secretary of Defense to require proof of citizenship in the Federal Post Card Application,   \u2022 Command the Attorney General to take action against states that count absentee ballots received after Election Day, and   \u2022 Condition federal funding upon compliance with the EO.\n\nThe plaintiffs alleged that by purporting to impose election rules on the states, the President exceeded his constitutional powers and unlawfully infringed on congressional and state authority, thereby violating the Separation of Powers, the Administrative Procedure Act, the National Voter Registration Act (NVRA), and the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA). Represented by their respective attorneys general, the plaintiffs sought declaratory and injunctive relief, as well as attorney fees. The case was assigned to District Judge Denise J. Casper.\n\nOn April 23, the defendants moved to transfer and consolidate this case with a case in the District Court for the District of Columbia, League of United Latin American Citizens v. Executive Office of the President [../../../../case/46322/], which also challenged the EO. Judge Casper denied the motion on May 9, finding that transfer was not in the interests of justice in this case, given that the plaintiffs here were states, not private parties, and this case challenged different sections of the EO from those challenged in the D.D.C. case.\n\nOn May 5, the plaintiffs moved for a preliminary injunction. The court granted the motion on June 13, finding that the challenged sections were ripe for review since they either imposed deadlines or clearly laid out actions that the defendants were required to take. Turning to the merits, the court found that the President lacked the authority to take the actions challenged, since in federal statutes such as the NVRA, the HAVA, and the UOCAVA, Congress set requirements for federal elections that did not include those required by the EO. Finally, the court found that Congress had never endorsed the EO's interpretation regarding absentee and mail-in ballots in its various Election Day statutes and that the EO could not impose conditions on formula grants since the Constitution \"vests exclusive power in Congress to impose conditions on federal grants.\" Therefore, the court enjoined the defendants from implementing any of the challenged sections of the EO. 2025 WL 1667949.\n\nAlso on June 13, the defendants filed a motion to dismiss, arguing that the plaintiffs either lacked standing (since they were challenging actions that allegedly did not affect them) or were bringing claims that were not ripe (since they were bringing claims challenging actions that had not yet occurred, and which still need to go through additional legal and policy processes). The defendants also argued that the plaintiffs failed to state a claim on the merits because, since the Elections Assistance Commission is an Executive Agency, \"the Constitution grants the President supervisory authority over members of the Executive Branch, [so] he may lawfully direct how they carry out their statutory duties.\"\n\nOn July 3, the defendants filed a motion to modify the preliminary injunction. Pointing to the Supreme Court's recent decision in\u00a0Casa Inc. v. Trump [../../../../case/45965/], in which the Supreme Court held that federal courts lacked power to issue injunctions that provide relief to individuals who are not parties to a case, the defendants argued that because \"this Court\u2019s preliminary injunction prohibiting Defendants from implementing Executive Order 14248\u2019s section 2(d) is broader than necessary to provide complete relief to the Plaintiffs in this case, the Court should grant this motion and modify its injunction concerning section 2(d) to the Plaintiffs.\" The court granted the request on July 18, modifying its preliminary injunction concerning Section 2(d) to only apply to the plaintiff states.\n\nThe case is ongoing.",
+    "target_paragraph": "On May 5, the plaintiffs moved for a preliminary injunction. The court granted the motion on June 13, finding that the challenged sections were ripe for review since they either imposed deadlines or clearly laid out actions that the defendants were required to take. Turning to the merits, the court found that the President lacked the authority to take the actions challenged, since in federal statutes such as the NVRA, the HAVA, and the UOCAVA, Congress set requirements for federal elections that did not include those required by the EO. Finally, the court found that Congress had never endorsed the EO's interpretation regarding absentee and mail-in ballots in its various Election Day statutes and that the EO could not impose conditions on formula grants since the Constitution \"vests exclusive power in Congress to impose conditions on federal grants.\" Therefore, the court enjoined the defendants from implementing any of the challenged sections of the EO. 2025 WL 1667949.",
+    "target_paragraph_indices": [
+      2213,
+      3196
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2591,
+            2755
+          ]
+        ],
+        "annotation": {
+          "explanation": "Help America Vote Act (HAVA) (statutory framework considered by the court)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2923,
+            3074
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Constitution \u2014 Congress\u2019s exclusive power to impose conditions on federal grants",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3075,
+            3196
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025 WL 1667949",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2274,
+            2314
+          ],
+          [
+            3075,
+            3196
+          ],
+          [
+            4579,
+            4720
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 13, 2025\u2013July 18, 2025: Preliminary injunction enjoining defendants from implementing any of the challenged sections of Executive Order 14248.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            4,
+            6
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2274,
+            2479
+          ],
+          [
+            3075,
+            3196
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 13: Court granted preliminary injunction and enjoined defendants from implementing the challenged sections of Executive Order 14248.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2213,
+            2479
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction: granted June 13; the court found ripeness because the EO provisions imposed deadlines or clearly required specified actions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2480,
+            2755
+          ]
+        ],
+        "annotation": {
+          "explanation": "Merits basis: Congress, through NVRA, HAVA, and UOCAVA, set federal election requirements that do not include the EO\u2019s mandates; thus, the President lacked authority to impose them.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2756,
+            3196
+          ]
+        ],
+        "annotation": {
+          "explanation": "Additional findings: Congress had not endorsed the EO\u2019s view on absentee/mail ballots; the EO could not add conditions to formula grants because only Congress may impose grant conditions. The court enjoined implementation of the challenged EO sections.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2213,
+            2273
+          ],
+          [
+            2274,
+            2479
+          ],
+          [
+            3075,
+            3196
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for preliminary injunction (filed May 5, 2025); granted June 13, 2025, enjoining Defendants from implementing the challenged sections of EO 14248 (2025 WL 1667949).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2274,
+            2314
+          ],
+          [
+            3075,
+            3179
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 13, the court issued a preliminary injunction prohibiting defendants from implementing any of the challenged sections of Executive Order 14248.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2213,
+            2273
+          ],
+          [
+            2274,
+            2479
+          ],
+          [
+            2480,
+            2755
+          ],
+          [
+            2756,
+            3074
+          ],
+          [
+            3075,
+            3196
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 preliminary injunction motion filed May 5; granted June 13. Court held claims ripe, found President lacked authority under NVRA/HAVA/UOCAVA and that conditioning grants exceeded executive power; enjoined implementation of all challenged EO sections. Citation: 2025 WL 1667949.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2213,
+            2273
+          ],
+          [
+            2274,
+            2479
+          ],
+          [
+            3075,
+            3196
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 13, 2025: Preliminary injunction granted; defendants enjoined from implementing all challenged sections of EO 14248 (2025 WL 1667949).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": "46337_p5",
+    "metadata": {
+      "case_id": "46337",
+      "paragraph_num": 5,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Also on June 13, the defendants filed a motion to dismiss, arguing that the plaintiffs either lacked..."
+    },
+    "source": "",
+    "target": "This case challenged Executive Order 14248, which imposed various requirements on federal elections. On April 3, 2025, nineteen states filed this lawsuit in the United States District Court for the District of Massachusetts, naming President Donald Trump, the U.S. Attorney General, the U.S. Election Assistance Commission (EAC) and its director and commissioners, and the Secretary of Defense as Defendants. They challenged multiple sections of Executive Order 14248, titled \"Preserving and Protecting the Integrity of American Elections,\" signed on March 25, 2025. These sections:\n\n\u2022 Require the EAC to demand documentary proof of citizenship and to record such information,   \u2022 Require the heads of federal voter registration agencies to assess citizenship prior to providing registration forms,   \u2022 Order the Secretary of Defense to require proof of citizenship in the Federal Post Card Application,   \u2022 Command the Attorney General to take action against states that count absentee ballots received after Election Day, and   \u2022 Condition federal funding upon compliance with the EO.\n\nThe plaintiffs alleged that by purporting to impose election rules on the states, the President exceeded his constitutional powers and unlawfully infringed on congressional and state authority, thereby violating the Separation of Powers, the Administrative Procedure Act, the National Voter Registration Act (NVRA), and the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA). Represented by their respective attorneys general, the plaintiffs sought declaratory and injunctive relief, as well as attorney fees. The case was assigned to District Judge Denise J. Casper.\n\nOn April 23, the defendants moved to transfer and consolidate this case with a case in the District Court for the District of Columbia, League of United Latin American Citizens v. Executive Office of the President [../../../../case/46322/], which also challenged the EO. Judge Casper denied the motion on May 9, finding that transfer was not in the interests of justice in this case, given that the plaintiffs here were states, not private parties, and this case challenged different sections of the EO from those challenged in the D.D.C. case.\n\nOn May 5, the plaintiffs moved for a preliminary injunction. The court granted the motion on June 13, finding that the challenged sections were ripe for review since they either imposed deadlines or clearly laid out actions that the defendants were required to take. Turning to the merits, the court found that the President lacked the authority to take the actions challenged, since in federal statutes such as the NVRA, the HAVA, and the UOCAVA, Congress set requirements for federal elections that did not include those required by the EO. Finally, the court found that Congress had never endorsed the EO's interpretation regarding absentee and mail-in ballots in its various Election Day statutes and that the EO could not impose conditions on formula grants since the Constitution \"vests exclusive power in Congress to impose conditions on federal grants.\" Therefore, the court enjoined the defendants from implementing any of the challenged sections of the EO. 2025 WL 1667949.\n\nAlso on June 13, the defendants filed a motion to dismiss, arguing that the plaintiffs either lacked standing (since they were challenging actions that allegedly did not affect them) or were bringing claims that were not ripe (since they were bringing claims challenging actions that had not yet occurred, and which still need to go through additional legal and policy processes). The defendants also argued that the plaintiffs failed to state a claim on the merits because, since the Elections Assistance Commission is an Executive Agency, \"the Constitution grants the President supervisory authority over members of the Executive Branch, [so] he may lawfully direct how they carry out their statutory duties.\"\n\nOn July 3, the defendants filed a motion to modify the preliminary injunction. Pointing to the Supreme Court's recent decision in\u00a0Casa Inc. v. Trump [../../../../case/45965/], in which the Supreme Court held that federal courts lacked power to issue injunctions that provide relief to individuals who are not parties to a case, the defendants argued that because \"this Court\u2019s preliminary injunction prohibiting Defendants from implementing Executive Order 14248\u2019s section 2(d) is broader than necessary to provide complete relief to the Plaintiffs in this case, the Court should grant this motion and modify its injunction concerning section 2(d) to the Plaintiffs.\" The court granted the request on July 18, modifying its preliminary injunction concerning Section 2(d) to only apply to the plaintiff states.\n\nThe case is ongoing.",
+    "target_paragraph": "Also on June 13, the defendants filed a motion to dismiss, arguing that the plaintiffs either lacked standing (since they were challenging actions that allegedly did not affect them) or were bringing claims that were not ripe (since they were bringing claims challenging actions that had not yet occurred, and which still need to go through additional legal and policy processes). The defendants also argued that the plaintiffs failed to state a claim on the merits because, since the Elections Assistance Commission is an Executive Agency, \"the Constitution grants the President supervisory authority over members of the Executive Branch, [so] he may lawfully direct how they carry out their statutory duties.\"",
+    "target_paragraph_indices": [
+      3198,
+      3909
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3198,
+            3578
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion to dismiss filed June 13, 2025 (standing, ripeness, and failure-to-state-a-claim arguments).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3198,
+            3578
+          ],
+          [
+            3579,
+            3909
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a motion to dismiss on June 13, asserting lack of standing, ripeness, and failure to state a claim based on presidential supervisory authority over executive agencies. No ruling described.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46337_p6",
+    "metadata": {
+      "case_id": "46337",
+      "paragraph_num": 6,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 3, the defendants filed a motion to modify the preliminary injunction. Pointing to the Supre..."
+    },
+    "source": "",
+    "target": "This case challenged Executive Order 14248, which imposed various requirements on federal elections. On April 3, 2025, nineteen states filed this lawsuit in the United States District Court for the District of Massachusetts, naming President Donald Trump, the U.S. Attorney General, the U.S. Election Assistance Commission (EAC) and its director and commissioners, and the Secretary of Defense as Defendants. They challenged multiple sections of Executive Order 14248, titled \"Preserving and Protecting the Integrity of American Elections,\" signed on March 25, 2025. These sections:\n\n\u2022 Require the EAC to demand documentary proof of citizenship and to record such information,   \u2022 Require the heads of federal voter registration agencies to assess citizenship prior to providing registration forms,   \u2022 Order the Secretary of Defense to require proof of citizenship in the Federal Post Card Application,   \u2022 Command the Attorney General to take action against states that count absentee ballots received after Election Day, and   \u2022 Condition federal funding upon compliance with the EO.\n\nThe plaintiffs alleged that by purporting to impose election rules on the states, the President exceeded his constitutional powers and unlawfully infringed on congressional and state authority, thereby violating the Separation of Powers, the Administrative Procedure Act, the National Voter Registration Act (NVRA), and the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA). Represented by their respective attorneys general, the plaintiffs sought declaratory and injunctive relief, as well as attorney fees. The case was assigned to District Judge Denise J. Casper.\n\nOn April 23, the defendants moved to transfer and consolidate this case with a case in the District Court for the District of Columbia, League of United Latin American Citizens v. Executive Office of the President [../../../../case/46322/], which also challenged the EO. Judge Casper denied the motion on May 9, finding that transfer was not in the interests of justice in this case, given that the plaintiffs here were states, not private parties, and this case challenged different sections of the EO from those challenged in the D.D.C. case.\n\nOn May 5, the plaintiffs moved for a preliminary injunction. The court granted the motion on June 13, finding that the challenged sections were ripe for review since they either imposed deadlines or clearly laid out actions that the defendants were required to take. Turning to the merits, the court found that the President lacked the authority to take the actions challenged, since in federal statutes such as the NVRA, the HAVA, and the UOCAVA, Congress set requirements for federal elections that did not include those required by the EO. Finally, the court found that Congress had never endorsed the EO's interpretation regarding absentee and mail-in ballots in its various Election Day statutes and that the EO could not impose conditions on formula grants since the Constitution \"vests exclusive power in Congress to impose conditions on federal grants.\" Therefore, the court enjoined the defendants from implementing any of the challenged sections of the EO. 2025 WL 1667949.\n\nAlso on June 13, the defendants filed a motion to dismiss, arguing that the plaintiffs either lacked standing (since they were challenging actions that allegedly did not affect them) or were bringing claims that were not ripe (since they were bringing claims challenging actions that had not yet occurred, and which still need to go through additional legal and policy processes). The defendants also argued that the plaintiffs failed to state a claim on the merits because, since the Elections Assistance Commission is an Executive Agency, \"the Constitution grants the President supervisory authority over members of the Executive Branch, [so] he may lawfully direct how they carry out their statutory duties.\"\n\nOn July 3, the defendants filed a motion to modify the preliminary injunction. Pointing to the Supreme Court's recent decision in\u00a0Casa Inc. v. Trump [../../../../case/45965/], in which the Supreme Court held that federal courts lacked power to issue injunctions that provide relief to individuals who are not parties to a case, the defendants argued that because \"this Court\u2019s preliminary injunction prohibiting Defendants from implementing Executive Order 14248\u2019s section 2(d) is broader than necessary to provide complete relief to the Plaintiffs in this case, the Court should grant this motion and modify its injunction concerning section 2(d) to the Plaintiffs.\" The court granted the request on July 18, modifying its preliminary injunction concerning Section 2(d) to only apply to the plaintiff states.\n\nThe case is ongoing.",
+    "target_paragraph": "On July 3, the defendants filed a motion to modify the preliminary injunction. Pointing to the Supreme Court's recent decision in\u00a0Casa Inc. v. Trump [../../../../case/45965/], in which the Supreme Court held that federal courts lacked power to issue injunctions that provide relief to individuals who are not parties to a case, the defendants argued that because \"this Court\u2019s preliminary injunction prohibiting Defendants from implementing Executive Order 14248\u2019s section 2(d) is broader than necessary to provide complete relief to the Plaintiffs in this case, the Court should grant this motion and modify its injunction concerning section 2(d) to the Plaintiffs.\" The court granted the request on July 18, modifying its preliminary injunction concerning Section 2(d) to only apply to the plaintiff states.",
+    "target_paragraph_indices": [
+      3911,
+      4720
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4579,
+            4720
+          ]
+        ],
+        "annotation": {
+          "explanation": "From July 18, 2025: Modified preliminary injunction concerning Section 2(d) applies only to the plaintiff states.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4579,
+            4720
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 18: Court modified the preliminary injunction to apply only to the plaintiff states with respect to Section 2(d).",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3911,
+            3989
+          ],
+          [
+            4579,
+            4720
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion to modify preliminary injunction (filed July 3, 2025); granted July 18, 2025, narrowing Section 2(d) relief to plaintiff states.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            3990,
+            4578
+          ],
+          [
+            4579,
+            4720
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 18, 2025, the court modified the preliminary injunction to limit relief concerning Section 2(d) to the plaintiff states only.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4579,
+            4720
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 18, the court modified the preliminary injunction so that, as to Section 2(d) of EO 14248, the injunction applies only to the plaintiff states.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3911,
+            3989
+          ],
+          [
+            4579,
+            4720
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants moved July 3 to modify the preliminary injunction based on Casa Inc. v. Trump\u2019s limits on non-party relief; granted July 18. The court narrowed the injunction as to EO Section 2(d) to apply only to the plaintiff states.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3911,
+            3989
+          ],
+          [
+            4579,
+            4720
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 18, 2025: Motion to modify preliminary injunction granted; injunction as to Section 2(d) narrowed to apply only to plaintiff states.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46337_p7",
+    "metadata": {
+      "case_id": "46337",
+      "paragraph_num": 7,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case is ongoing."
+    },
+    "source": "",
+    "target": "This case challenged Executive Order 14248, which imposed various requirements on federal elections. On April 3, 2025, nineteen states filed this lawsuit in the United States District Court for the District of Massachusetts, naming President Donald Trump, the U.S. Attorney General, the U.S. Election Assistance Commission (EAC) and its director and commissioners, and the Secretary of Defense as Defendants. They challenged multiple sections of Executive Order 14248, titled \"Preserving and Protecting the Integrity of American Elections,\" signed on March 25, 2025. These sections:\n\n\u2022 Require the EAC to demand documentary proof of citizenship and to record such information,   \u2022 Require the heads of federal voter registration agencies to assess citizenship prior to providing registration forms,   \u2022 Order the Secretary of Defense to require proof of citizenship in the Federal Post Card Application,   \u2022 Command the Attorney General to take action against states that count absentee ballots received after Election Day, and   \u2022 Condition federal funding upon compliance with the EO.\n\nThe plaintiffs alleged that by purporting to impose election rules on the states, the President exceeded his constitutional powers and unlawfully infringed on congressional and state authority, thereby violating the Separation of Powers, the Administrative Procedure Act, the National Voter Registration Act (NVRA), and the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA). Represented by their respective attorneys general, the plaintiffs sought declaratory and injunctive relief, as well as attorney fees. The case was assigned to District Judge Denise J. Casper.\n\nOn April 23, the defendants moved to transfer and consolidate this case with a case in the District Court for the District of Columbia, League of United Latin American Citizens v. Executive Office of the President [../../../../case/46322/], which also challenged the EO. Judge Casper denied the motion on May 9, finding that transfer was not in the interests of justice in this case, given that the plaintiffs here were states, not private parties, and this case challenged different sections of the EO from those challenged in the D.D.C. case.\n\nOn May 5, the plaintiffs moved for a preliminary injunction. The court granted the motion on June 13, finding that the challenged sections were ripe for review since they either imposed deadlines or clearly laid out actions that the defendants were required to take. Turning to the merits, the court found that the President lacked the authority to take the actions challenged, since in federal statutes such as the NVRA, the HAVA, and the UOCAVA, Congress set requirements for federal elections that did not include those required by the EO. Finally, the court found that Congress had never endorsed the EO's interpretation regarding absentee and mail-in ballots in its various Election Day statutes and that the EO could not impose conditions on formula grants since the Constitution \"vests exclusive power in Congress to impose conditions on federal grants.\" Therefore, the court enjoined the defendants from implementing any of the challenged sections of the EO. 2025 WL 1667949.\n\nAlso on June 13, the defendants filed a motion to dismiss, arguing that the plaintiffs either lacked standing (since they were challenging actions that allegedly did not affect them) or were bringing claims that were not ripe (since they were bringing claims challenging actions that had not yet occurred, and which still need to go through additional legal and policy processes). The defendants also argued that the plaintiffs failed to state a claim on the merits because, since the Elections Assistance Commission is an Executive Agency, \"the Constitution grants the President supervisory authority over members of the Executive Branch, [so] he may lawfully direct how they carry out their statutory duties.\"\n\nOn July 3, the defendants filed a motion to modify the preliminary injunction. Pointing to the Supreme Court's recent decision in\u00a0Casa Inc. v. Trump [../../../../case/45965/], in which the Supreme Court held that federal courts lacked power to issue injunctions that provide relief to individuals who are not parties to a case, the defendants argued that because \"this Court\u2019s preliminary injunction prohibiting Defendants from implementing Executive Order 14248\u2019s section 2(d) is broader than necessary to provide complete relief to the Plaintiffs in this case, the Court should grant this motion and modify its injunction concerning section 2(d) to the Plaintiffs.\" The court granted the request on July 18, modifying its preliminary injunction concerning Section 2(d) to only apply to the plaintiff states.\n\nThe case is ongoing.",
+    "target_paragraph": "The case is ongoing.",
+    "target_paragraph_indices": [
+      4722,
+      4742
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4722,
+            4742
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural status: ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4722,
+            4742
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: ongoing; no trial on the merits or final judgment reported.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

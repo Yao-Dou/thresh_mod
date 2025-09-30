@@ -1,0 +1,1249 @@
+[
+  {
+    "id": "46342_p0",
+    "metadata": {
+      "case_id": "46342",
+      "paragraph_num": 0,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged the abrupt dismantling of the federal government's primary education research a..."
+    },
+    "source": "",
+    "target": "This case challenged the abrupt dismantling of the federal government's primary education research agency. On April 4, 2025, the Association for Education Finance and Policy, Inc. and the Institute for Higher Education Policy filed a lawsuit in the U.S. District Court for the District of Columbia. They sued the U.S. Department of Education under various laws, primarily the Administrative Procedure Act (APA), and raised constitutional concerns. Represented by the Public Citizen Litigation Group, the plaintiffs sought a court order to stop the Department of Education's actions and to restore the functions of the research agency. They argued that the Department was acting illegally by shutting down the Institute of Education Sciences (IES), an agency created by Congress. This case was assigned to Judge Trevor N. McFadden.\n\nAccording to the lawsuit, Congress established IES in 2002 to conduct and share high-quality research, statistics, and evaluations related to education from early childhood through postsecondary study. The plaintiffs, organizations that rely on IES research for their work in education finance, policy, and higher education access, claimed that the Department of Education took several actions that effectively halted IES's operations. These actions included the mass cancellation of contracts that supported IES research, the elimination of approximately 90% of IES staff positions, and the termination of remote access for outside researchers to existing data. The plaintiffs argued that these actions exceeded the authority of the Department, violated specific laws, and were made without proper reasoning.\n\nThe lawsuit outlined five legal claims:\n\n\u2022 The plaintiffs asserted a non-statutory claim arguing that the defendants' actions were ultra vires, meaning they went beyond their legal powers and encroached upon the authority of Congress, which created IES.   \u2022 They claimed that the defendants violated the Administrative Procedure Act (APA) by acting contrary to law, specifically the Education Sciences Reform Act of 2002 and the Higher Education Opportunity Act, which established IES and its responsibilities.   \u2022 The plaintiffs argued that the defendants' actions were arbitrary and capricious under the APA because they offered no reasoned explanation and failed to consider the impact on researchers and other stakeholders who rely on IES.   \u2022 They claimed a violation of the APA based on the Impoundment Control Act, alleging that the defendants unlawfully rescinded or deferred funds appropriated by Congress for IES.   \u2022 Lastly, the plaintiffs asserted a violation of the APA based on the Anti-Deficiency Act, arguing that the defendants illegally refused to spend funds Congress had allocated to IES.\n\nThe plaintiffs asked the court to declare the defendants' actions unlawful and to issue several orders. These included orders to restore the terminated contracts, vacate the reduction in force of IES employees, and reverse the termination of remote access to restricted-use data. They also requested the court to prevent the defendants from taking any further actions that would hinder IES's ability to perform its legally required tasks and sought a temporary restraining order and preliminary injunction to immediately stop the shutdown of IES. Additionally, they asked for their legal costs and attorney\u2019s fees to be covered.\n\nSubsequently, on April 17, 2025, the plaintiffs filed a Motion for a Preliminary Injunction, detailing the harm the plaintiffs and their members were already experiencing due to the lack of access to IES data and the cancellation of research programs.\n\nOn June 3, Judge McFadden denied the plaintiffs' motion for a preliminary injunction. The court found that the plaintiffs were \"improperly bundling together a series of actions for wholesale correction rather than challenging one 'circumscribed [and] discrete' action.\" Instead of bringing a challenge to a discrete and final agency action, the plaintiffs brought a \u201cchallenge [to] an entire program by simply identifying specific allegedly-improper final agency actions within that program.\" The court also rejected the plaintiffs' constitutional claims, finding that they were simply repackaged APA claims to the \"entire program.\" Since the plaintiffs' APA claims failed, so too did the constitutional claims. Therefore, the court found that the plaintiffs were not likely to succeed on the merits of their claims, which doomed their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs filed an amended complaint on June 18. The amended complaint challenged the termination of eight specific programs run by the Department of Education: (1) the termination of the National Postsecondary Student Aid Study; \u00a0(2) the termination of the 2020/25 Beginning Postsecondary Students Longitudinal Study; (3) the termination of the High School Longitudinal Study of 2009; (4) the termination of the High School and Beyond Longitudinal Study of 2022; (5) the termination of the Early Childhood Longitudinal Study-Kindergarten: 2024; (6) the termination of IES\u2019s peer review program for new grant funding; (7) the termination of IES\u2019s program for remote access to restricted-use data; and (8) the termination of processing applications for access to restricted-use data. The amended complaint added/removed factual allegations and causes of action under the APA to match the new focus of the complaint.\n\nOn July 2, the defendants filed a motion to dismiss, arguing that the court still lacked jurisdiction over the plaintiffs' claims under the Tucker Act, and that the plaintiffs still were making a programmatic challenge, rather than a challenge to a discrete, final agency action as required by the APA.\n\nThe plaintiffs filed a second amended complaint on July 16. The second amended complaint removed the challenges to two of the terminations mentioned in the first amended complaint: the National Postsecondary Student Aid Study and IES's program for remote access to restricted-use data. The amended complaint also added more concrete allegations detailing how the remaining terminations caused harm to the plaintiffs and emphasized that the plaintiffs were challenging the final agency action of terminating the programs. Given the second amended complaint, the court denied as moot the defendants' motion to dismiss and ordered them to file a renewed motion by August 19.\n\nThis case is ongoing.",
+    "target_paragraph": "This case challenged the abrupt dismantling of the federal government's primary education research agency. On April 4, 2025, the Association for Education Finance and Policy, Inc. and the Institute for Higher Education Policy filed a lawsuit in the U.S. District Court for the District of Columbia. They sued the U.S. Department of Education under various laws, primarily the Administrative Procedure Act (APA), and raised constitutional concerns. Represented by the Public Citizen Litigation Group, the plaintiffs sought a court order to stop the Department of Education's actions and to restore the functions of the research agency. They argued that the Department was acting illegally by shutting down the Institute of Education Sciences (IES), an agency created by Congress. This case was assigned to Judge Trevor N. McFadden.",
+    "target_paragraph_indices": [
+      0,
+      830
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            107,
+            298
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 4, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            299,
+            447
+          ],
+          [
+            1901,
+            2153
+          ]
+        ],
+        "annotation": {
+          "explanation": "APA claim\u2014contrary to law (predicated on the Education Sciences Reform Act of 2002 and the Higher Education Opportunity Act).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            299,
+            447
+          ],
+          [
+            4129,
+            4347
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claims (unspecified; raised alongside APA claims and later rejected as repackaged APA claims).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            6
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            362,
+            410
+          ],
+          [
+            1901,
+            1981
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            412,
+            447
+          ],
+          [
+            4129,
+            4243
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claims (unspecified clause or amendment)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            6
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            448,
+            634
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court order to stop the Department\u2019s actions and restore IES\u2019s functions",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            448,
+            634
+          ]
+        ],
+        "annotation": {
+          "explanation": "Public Citizen Litigation Group",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            779,
+            830
+          ],
+          [
+            3636,
+            3721
+          ]
+        ],
+        "annotation": {
+          "explanation": "Trevor N. McFadden",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            0,
+            6
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            107,
+            298
+          ],
+          [
+            1034,
+            1267
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as two organizational plaintiffs: Association for Education Finance and Policy, Inc. and Institute for Higher Education Policy (organizations that rely on IES research)",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            107,
+            298
+          ],
+          [
+            1034,
+            1163
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Association for Education Finance and Policy, Inc. \u2014 an organization that relies on IES research for its work in education finance, policy, and higher education access; filed the lawsuit on April 4, 2025 in the U.S. District Court for the District of Columbia.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            107,
+            298
+          ],
+          [
+            1034,
+            1163
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Institute for Higher Education Policy \u2014 an organization that relies on IES research for its work in education finance, policy, and higher education access; filed the lawsuit on April 4, 2025 in the U.S. District Court for the District of Columbia.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            299,
+            447
+          ],
+          [
+            635,
+            778
+          ],
+          [
+            1268,
+            1494
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Education \u2014 sued for allegedly shutting down the Institute of Education Sciences (IES) by canceling IES research contracts, eliminating approximately 90% of IES staff positions, and terminating remote access for outside researchers to existing data.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            107,
+            447
+          ],
+          [
+            448,
+            634
+          ],
+          [
+            635,
+            778
+          ],
+          [
+            779,
+            830
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case involves a lawsuit filed on April 4, 2025 in D.D.C. by the Association for Education Finance and Policy, Inc. and the Institute for Higher Education Policy against the U.S. Department of Education under the APA, alleging illegal shutdown of the Institute of Education Sciences and seeking to stop the Department\u2019s actions and restore IES functions; the case was assigned to Judge Trevor N. McFadden.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            107,
+            298
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed in the U.S. District Court for the District of Columbia on April 4, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            107,
+            298
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed on April 4, 2025, in the U.S. District Court for the District of Columbia.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            779,
+            830
+          ]
+        ],
+        "annotation": {
+          "explanation": "Assigned judge: Trevor N. McFadden.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": "46342_p1",
+    "metadata": {
+      "case_id": "46342",
+      "paragraph_num": 1,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "According to the lawsuit, Congress established IES in 2002 to conduct and share high-quality researc..."
+    },
+    "source": "",
+    "target": "This case challenged the abrupt dismantling of the federal government's primary education research agency. On April 4, 2025, the Association for Education Finance and Policy, Inc. and the Institute for Higher Education Policy filed a lawsuit in the U.S. District Court for the District of Columbia. They sued the U.S. Department of Education under various laws, primarily the Administrative Procedure Act (APA), and raised constitutional concerns. Represented by the Public Citizen Litigation Group, the plaintiffs sought a court order to stop the Department of Education's actions and to restore the functions of the research agency. They argued that the Department was acting illegally by shutting down the Institute of Education Sciences (IES), an agency created by Congress. This case was assigned to Judge Trevor N. McFadden.\n\nAccording to the lawsuit, Congress established IES in 2002 to conduct and share high-quality research, statistics, and evaluations related to education from early childhood through postsecondary study. The plaintiffs, organizations that rely on IES research for their work in education finance, policy, and higher education access, claimed that the Department of Education took several actions that effectively halted IES's operations. These actions included the mass cancellation of contracts that supported IES research, the elimination of approximately 90% of IES staff positions, and the termination of remote access for outside researchers to existing data. The plaintiffs argued that these actions exceeded the authority of the Department, violated specific laws, and were made without proper reasoning.\n\nThe lawsuit outlined five legal claims:\n\n\u2022 The plaintiffs asserted a non-statutory claim arguing that the defendants' actions were ultra vires, meaning they went beyond their legal powers and encroached upon the authority of Congress, which created IES.   \u2022 They claimed that the defendants violated the Administrative Procedure Act (APA) by acting contrary to law, specifically the Education Sciences Reform Act of 2002 and the Higher Education Opportunity Act, which established IES and its responsibilities.   \u2022 The plaintiffs argued that the defendants' actions were arbitrary and capricious under the APA because they offered no reasoned explanation and failed to consider the impact on researchers and other stakeholders who rely on IES.   \u2022 They claimed a violation of the APA based on the Impoundment Control Act, alleging that the defendants unlawfully rescinded or deferred funds appropriated by Congress for IES.   \u2022 Lastly, the plaintiffs asserted a violation of the APA based on the Anti-Deficiency Act, arguing that the defendants illegally refused to spend funds Congress had allocated to IES.\n\nThe plaintiffs asked the court to declare the defendants' actions unlawful and to issue several orders. These included orders to restore the terminated contracts, vacate the reduction in force of IES employees, and reverse the termination of remote access to restricted-use data. They also requested the court to prevent the defendants from taking any further actions that would hinder IES's ability to perform its legally required tasks and sought a temporary restraining order and preliminary injunction to immediately stop the shutdown of IES. Additionally, they asked for their legal costs and attorney\u2019s fees to be covered.\n\nSubsequently, on April 17, 2025, the plaintiffs filed a Motion for a Preliminary Injunction, detailing the harm the plaintiffs and their members were already experiencing due to the lack of access to IES data and the cancellation of research programs.\n\nOn June 3, Judge McFadden denied the plaintiffs' motion for a preliminary injunction. The court found that the plaintiffs were \"improperly bundling together a series of actions for wholesale correction rather than challenging one 'circumscribed [and] discrete' action.\" Instead of bringing a challenge to a discrete and final agency action, the plaintiffs brought a \u201cchallenge [to] an entire program by simply identifying specific allegedly-improper final agency actions within that program.\" The court also rejected the plaintiffs' constitutional claims, finding that they were simply repackaged APA claims to the \"entire program.\" Since the plaintiffs' APA claims failed, so too did the constitutional claims. Therefore, the court found that the plaintiffs were not likely to succeed on the merits of their claims, which doomed their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs filed an amended complaint on June 18. The amended complaint challenged the termination of eight specific programs run by the Department of Education: (1) the termination of the National Postsecondary Student Aid Study; \u00a0(2) the termination of the 2020/25 Beginning Postsecondary Students Longitudinal Study; (3) the termination of the High School Longitudinal Study of 2009; (4) the termination of the High School and Beyond Longitudinal Study of 2022; (5) the termination of the Early Childhood Longitudinal Study-Kindergarten: 2024; (6) the termination of IES\u2019s peer review program for new grant funding; (7) the termination of IES\u2019s program for remote access to restricted-use data; and (8) the termination of processing applications for access to restricted-use data. The amended complaint added/removed factual allegations and causes of action under the APA to match the new focus of the complaint.\n\nOn July 2, the defendants filed a motion to dismiss, arguing that the court still lacked jurisdiction over the plaintiffs' claims under the Tucker Act, and that the plaintiffs still were making a programmatic challenge, rather than a challenge to a discrete, final agency action as required by the APA.\n\nThe plaintiffs filed a second amended complaint on July 16. The second amended complaint removed the challenges to two of the terminations mentioned in the first amended complaint: the National Postsecondary Student Aid Study and IES's program for remote access to restricted-use data. The amended complaint also added more concrete allegations detailing how the remaining terminations caused harm to the plaintiffs and emphasized that the plaintiffs were challenging the final agency action of terminating the programs. Given the second amended complaint, the court denied as moot the defendants' motion to dismiss and ordered them to file a renewed motion by August 19.\n\nThis case is ongoing.",
+    "target_paragraph": "According to the lawsuit, Congress established IES in 2002 to conduct and share high-quality research, statistics, and evaluations related to education from early childhood through postsecondary study. The plaintiffs, organizations that rely on IES research for their work in education finance, policy, and higher education access, claimed that the Department of Education took several actions that effectively halted IES's operations. These actions included the mass cancellation of contracts that supported IES research, the elimination of approximately 90% of IES staff positions, and the termination of remote access for outside researchers to existing data. The plaintiffs argued that these actions exceeded the authority of the Department, violated specific laws, and were made without proper reasoning.",
+    "target_paragraph_indices": [
+      832,
+      1641
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            832,
+            1033
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: Congress created IES in 2002 with a mandate to conduct and disseminate high-quality education research, statistics, and evaluations from early childhood through postsecondary education.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1034,
+            1267
+          ],
+          [
+            1268,
+            1494
+          ]
+        ],
+        "annotation": {
+          "explanation": "Core alleged actions: The Department of Education allegedly halted IES operations by mass-canceling research-supporting contracts, eliminating about 90% of IES staff positions, and terminating remote access for outside researchers to existing data; plaintiffs rely on IES research for their work.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46342_p2",
+    "metadata": {
+      "case_id": "46342",
+      "paragraph_num": 2,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The lawsuit outlined five legal claims:"
+    },
+    "source": "",
+    "target": "This case challenged the abrupt dismantling of the federal government's primary education research agency. On April 4, 2025, the Association for Education Finance and Policy, Inc. and the Institute for Higher Education Policy filed a lawsuit in the U.S. District Court for the District of Columbia. They sued the U.S. Department of Education under various laws, primarily the Administrative Procedure Act (APA), and raised constitutional concerns. Represented by the Public Citizen Litigation Group, the plaintiffs sought a court order to stop the Department of Education's actions and to restore the functions of the research agency. They argued that the Department was acting illegally by shutting down the Institute of Education Sciences (IES), an agency created by Congress. This case was assigned to Judge Trevor N. McFadden.\n\nAccording to the lawsuit, Congress established IES in 2002 to conduct and share high-quality research, statistics, and evaluations related to education from early childhood through postsecondary study. The plaintiffs, organizations that rely on IES research for their work in education finance, policy, and higher education access, claimed that the Department of Education took several actions that effectively halted IES's operations. These actions included the mass cancellation of contracts that supported IES research, the elimination of approximately 90% of IES staff positions, and the termination of remote access for outside researchers to existing data. The plaintiffs argued that these actions exceeded the authority of the Department, violated specific laws, and were made without proper reasoning.\n\nThe lawsuit outlined five legal claims:\n\n\u2022 The plaintiffs asserted a non-statutory claim arguing that the defendants' actions were ultra vires, meaning they went beyond their legal powers and encroached upon the authority of Congress, which created IES.   \u2022 They claimed that the defendants violated the Administrative Procedure Act (APA) by acting contrary to law, specifically the Education Sciences Reform Act of 2002 and the Higher Education Opportunity Act, which established IES and its responsibilities.   \u2022 The plaintiffs argued that the defendants' actions were arbitrary and capricious under the APA because they offered no reasoned explanation and failed to consider the impact on researchers and other stakeholders who rely on IES.   \u2022 They claimed a violation of the APA based on the Impoundment Control Act, alleging that the defendants unlawfully rescinded or deferred funds appropriated by Congress for IES.   \u2022 Lastly, the plaintiffs asserted a violation of the APA based on the Anti-Deficiency Act, arguing that the defendants illegally refused to spend funds Congress had allocated to IES.\n\nThe plaintiffs asked the court to declare the defendants' actions unlawful and to issue several orders. These included orders to restore the terminated contracts, vacate the reduction in force of IES employees, and reverse the termination of remote access to restricted-use data. They also requested the court to prevent the defendants from taking any further actions that would hinder IES's ability to perform its legally required tasks and sought a temporary restraining order and preliminary injunction to immediately stop the shutdown of IES. Additionally, they asked for their legal costs and attorney\u2019s fees to be covered.\n\nSubsequently, on April 17, 2025, the plaintiffs filed a Motion for a Preliminary Injunction, detailing the harm the plaintiffs and their members were already experiencing due to the lack of access to IES data and the cancellation of research programs.\n\nOn June 3, Judge McFadden denied the plaintiffs' motion for a preliminary injunction. The court found that the plaintiffs were \"improperly bundling together a series of actions for wholesale correction rather than challenging one 'circumscribed [and] discrete' action.\" Instead of bringing a challenge to a discrete and final agency action, the plaintiffs brought a \u201cchallenge [to] an entire program by simply identifying specific allegedly-improper final agency actions within that program.\" The court also rejected the plaintiffs' constitutional claims, finding that they were simply repackaged APA claims to the \"entire program.\" Since the plaintiffs' APA claims failed, so too did the constitutional claims. Therefore, the court found that the plaintiffs were not likely to succeed on the merits of their claims, which doomed their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs filed an amended complaint on June 18. The amended complaint challenged the termination of eight specific programs run by the Department of Education: (1) the termination of the National Postsecondary Student Aid Study; \u00a0(2) the termination of the 2020/25 Beginning Postsecondary Students Longitudinal Study; (3) the termination of the High School Longitudinal Study of 2009; (4) the termination of the High School and Beyond Longitudinal Study of 2022; (5) the termination of the Early Childhood Longitudinal Study-Kindergarten: 2024; (6) the termination of IES\u2019s peer review program for new grant funding; (7) the termination of IES\u2019s program for remote access to restricted-use data; and (8) the termination of processing applications for access to restricted-use data. The amended complaint added/removed factual allegations and causes of action under the APA to match the new focus of the complaint.\n\nOn July 2, the defendants filed a motion to dismiss, arguing that the court still lacked jurisdiction over the plaintiffs' claims under the Tucker Act, and that the plaintiffs still were making a programmatic challenge, rather than a challenge to a discrete, final agency action as required by the APA.\n\nThe plaintiffs filed a second amended complaint on July 16. The second amended complaint removed the challenges to two of the terminations mentioned in the first amended complaint: the National Postsecondary Student Aid Study and IES's program for remote access to restricted-use data. The amended complaint also added more concrete allegations detailing how the remaining terminations caused harm to the plaintiffs and emphasized that the plaintiffs were challenging the final agency action of terminating the programs. Given the second amended complaint, the court denied as moot the defendants' motion to dismiss and ordered them to file a renewed motion by August 19.\n\nThis case is ongoing.",
+    "target_paragraph": "The lawsuit outlined five legal claims:",
+    "target_paragraph_indices": [
+      1643,
+      1682
+    ],
+    "edits": []
+  },
+  {
+    "id": "46342_p3",
+    "metadata": {
+      "case_id": "46342",
+      "paragraph_num": 3,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "\u2022 The plaintiffs asserted a non-statutory claim arguing that the defendants' actions were ultra vire..."
+    },
+    "source": "",
+    "target": "This case challenged the abrupt dismantling of the federal government's primary education research agency. On April 4, 2025, the Association for Education Finance and Policy, Inc. and the Institute for Higher Education Policy filed a lawsuit in the U.S. District Court for the District of Columbia. They sued the U.S. Department of Education under various laws, primarily the Administrative Procedure Act (APA), and raised constitutional concerns. Represented by the Public Citizen Litigation Group, the plaintiffs sought a court order to stop the Department of Education's actions and to restore the functions of the research agency. They argued that the Department was acting illegally by shutting down the Institute of Education Sciences (IES), an agency created by Congress. This case was assigned to Judge Trevor N. McFadden.\n\nAccording to the lawsuit, Congress established IES in 2002 to conduct and share high-quality research, statistics, and evaluations related to education from early childhood through postsecondary study. The plaintiffs, organizations that rely on IES research for their work in education finance, policy, and higher education access, claimed that the Department of Education took several actions that effectively halted IES's operations. These actions included the mass cancellation of contracts that supported IES research, the elimination of approximately 90% of IES staff positions, and the termination of remote access for outside researchers to existing data. The plaintiffs argued that these actions exceeded the authority of the Department, violated specific laws, and were made without proper reasoning.\n\nThe lawsuit outlined five legal claims:\n\n\u2022 The plaintiffs asserted a non-statutory claim arguing that the defendants' actions were ultra vires, meaning they went beyond their legal powers and encroached upon the authority of Congress, which created IES.   \u2022 They claimed that the defendants violated the Administrative Procedure Act (APA) by acting contrary to law, specifically the Education Sciences Reform Act of 2002 and the Higher Education Opportunity Act, which established IES and its responsibilities.   \u2022 The plaintiffs argued that the defendants' actions were arbitrary and capricious under the APA because they offered no reasoned explanation and failed to consider the impact on researchers and other stakeholders who rely on IES.   \u2022 They claimed a violation of the APA based on the Impoundment Control Act, alleging that the defendants unlawfully rescinded or deferred funds appropriated by Congress for IES.   \u2022 Lastly, the plaintiffs asserted a violation of the APA based on the Anti-Deficiency Act, arguing that the defendants illegally refused to spend funds Congress had allocated to IES.\n\nThe plaintiffs asked the court to declare the defendants' actions unlawful and to issue several orders. These included orders to restore the terminated contracts, vacate the reduction in force of IES employees, and reverse the termination of remote access to restricted-use data. They also requested the court to prevent the defendants from taking any further actions that would hinder IES's ability to perform its legally required tasks and sought a temporary restraining order and preliminary injunction to immediately stop the shutdown of IES. Additionally, they asked for their legal costs and attorney\u2019s fees to be covered.\n\nSubsequently, on April 17, 2025, the plaintiffs filed a Motion for a Preliminary Injunction, detailing the harm the plaintiffs and their members were already experiencing due to the lack of access to IES data and the cancellation of research programs.\n\nOn June 3, Judge McFadden denied the plaintiffs' motion for a preliminary injunction. The court found that the plaintiffs were \"improperly bundling together a series of actions for wholesale correction rather than challenging one 'circumscribed [and] discrete' action.\" Instead of bringing a challenge to a discrete and final agency action, the plaintiffs brought a \u201cchallenge [to] an entire program by simply identifying specific allegedly-improper final agency actions within that program.\" The court also rejected the plaintiffs' constitutional claims, finding that they were simply repackaged APA claims to the \"entire program.\" Since the plaintiffs' APA claims failed, so too did the constitutional claims. Therefore, the court found that the plaintiffs were not likely to succeed on the merits of their claims, which doomed their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs filed an amended complaint on June 18. The amended complaint challenged the termination of eight specific programs run by the Department of Education: (1) the termination of the National Postsecondary Student Aid Study; \u00a0(2) the termination of the 2020/25 Beginning Postsecondary Students Longitudinal Study; (3) the termination of the High School Longitudinal Study of 2009; (4) the termination of the High School and Beyond Longitudinal Study of 2022; (5) the termination of the Early Childhood Longitudinal Study-Kindergarten: 2024; (6) the termination of IES\u2019s peer review program for new grant funding; (7) the termination of IES\u2019s program for remote access to restricted-use data; and (8) the termination of processing applications for access to restricted-use data. The amended complaint added/removed factual allegations and causes of action under the APA to match the new focus of the complaint.\n\nOn July 2, the defendants filed a motion to dismiss, arguing that the court still lacked jurisdiction over the plaintiffs' claims under the Tucker Act, and that the plaintiffs still were making a programmatic challenge, rather than a challenge to a discrete, final agency action as required by the APA.\n\nThe plaintiffs filed a second amended complaint on July 16. The second amended complaint removed the challenges to two of the terminations mentioned in the first amended complaint: the National Postsecondary Student Aid Study and IES's program for remote access to restricted-use data. The amended complaint also added more concrete allegations detailing how the remaining terminations caused harm to the plaintiffs and emphasized that the plaintiffs were challenging the final agency action of terminating the programs. Given the second amended complaint, the court denied as moot the defendants' motion to dismiss and ordered them to file a renewed motion by August 19.\n\nThis case is ongoing.",
+    "target_paragraph": "\u2022 The plaintiffs asserted a non-statutory claim arguing that the defendants' actions were ultra vires, meaning they went beyond their legal powers and encroached upon the authority of Congress, which created IES.   \u2022 They claimed that the defendants violated the Administrative Procedure Act (APA) by acting contrary to law, specifically the Education Sciences Reform Act of 2002 and the Higher Education Opportunity Act, which established IES and its responsibilities.   \u2022 The plaintiffs argued that the defendants' actions were arbitrary and capricious under the APA because they offered no reasoned explanation and failed to consider the impact on researchers and other stakeholders who rely on IES.   \u2022 They claimed a violation of the APA based on the Impoundment Control Act, alleging that the defendants unlawfully rescinded or deferred funds appropriated by Congress for IES.   \u2022 Lastly, the plaintiffs asserted a violation of the APA based on the Anti-Deficiency Act, arguing that the defendants illegally refused to spend funds Congress had allocated to IES.",
+    "target_paragraph_indices": [
+      1684,
+      2751
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1686,
+            1896
+          ]
+        ],
+        "annotation": {
+          "explanation": "Non-statutory ultra vires claim (equitable nonstatutory review).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2158,
+            2386
+          ]
+        ],
+        "annotation": {
+          "explanation": "APA claim\u2014arbitrary and capricious.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2391,
+            2566
+          ]
+        ],
+        "annotation": {
+          "explanation": "APA claim\u2014based on the Impoundment Control Act (unlawful rescission/deferral of appropriated IES funds).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2571,
+            2751
+          ]
+        ],
+        "annotation": {
+          "explanation": "APA claim\u2014based on the Anti-Deficiency Act (illegal refusal to obligate/spend allocated IES funds).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2009,
+            2063
+          ]
+        ],
+        "annotation": {
+          "explanation": "Education Sciences Reform Act of 2002 (as the law allegedly contravened under the APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2064,
+            2104
+          ]
+        ],
+        "annotation": {
+          "explanation": "Higher Education Opportunity Act (as the law allegedly contravened under the APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2391,
+            2566
+          ]
+        ],
+        "annotation": {
+          "explanation": "Impoundment Control Act (as a basis for APA violation)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2571,
+            2751
+          ]
+        ],
+        "annotation": {
+          "explanation": "Anti-Deficiency Act (as a basis for APA violation)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46342_p4",
+    "metadata": {
+      "case_id": "46342",
+      "paragraph_num": 4,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs asked the court to declare the defendants' actions unlawful and to issue several orde..."
+    },
+    "source": "",
+    "target": "This case challenged the abrupt dismantling of the federal government's primary education research agency. On April 4, 2025, the Association for Education Finance and Policy, Inc. and the Institute for Higher Education Policy filed a lawsuit in the U.S. District Court for the District of Columbia. They sued the U.S. Department of Education under various laws, primarily the Administrative Procedure Act (APA), and raised constitutional concerns. Represented by the Public Citizen Litigation Group, the plaintiffs sought a court order to stop the Department of Education's actions and to restore the functions of the research agency. They argued that the Department was acting illegally by shutting down the Institute of Education Sciences (IES), an agency created by Congress. This case was assigned to Judge Trevor N. McFadden.\n\nAccording to the lawsuit, Congress established IES in 2002 to conduct and share high-quality research, statistics, and evaluations related to education from early childhood through postsecondary study. The plaintiffs, organizations that rely on IES research for their work in education finance, policy, and higher education access, claimed that the Department of Education took several actions that effectively halted IES's operations. These actions included the mass cancellation of contracts that supported IES research, the elimination of approximately 90% of IES staff positions, and the termination of remote access for outside researchers to existing data. The plaintiffs argued that these actions exceeded the authority of the Department, violated specific laws, and were made without proper reasoning.\n\nThe lawsuit outlined five legal claims:\n\n\u2022 The plaintiffs asserted a non-statutory claim arguing that the defendants' actions were ultra vires, meaning they went beyond their legal powers and encroached upon the authority of Congress, which created IES.   \u2022 They claimed that the defendants violated the Administrative Procedure Act (APA) by acting contrary to law, specifically the Education Sciences Reform Act of 2002 and the Higher Education Opportunity Act, which established IES and its responsibilities.   \u2022 The plaintiffs argued that the defendants' actions were arbitrary and capricious under the APA because they offered no reasoned explanation and failed to consider the impact on researchers and other stakeholders who rely on IES.   \u2022 They claimed a violation of the APA based on the Impoundment Control Act, alleging that the defendants unlawfully rescinded or deferred funds appropriated by Congress for IES.   \u2022 Lastly, the plaintiffs asserted a violation of the APA based on the Anti-Deficiency Act, arguing that the defendants illegally refused to spend funds Congress had allocated to IES.\n\nThe plaintiffs asked the court to declare the defendants' actions unlawful and to issue several orders. These included orders to restore the terminated contracts, vacate the reduction in force of IES employees, and reverse the termination of remote access to restricted-use data. They also requested the court to prevent the defendants from taking any further actions that would hinder IES's ability to perform its legally required tasks and sought a temporary restraining order and preliminary injunction to immediately stop the shutdown of IES. Additionally, they asked for their legal costs and attorney\u2019s fees to be covered.\n\nSubsequently, on April 17, 2025, the plaintiffs filed a Motion for a Preliminary Injunction, detailing the harm the plaintiffs and their members were already experiencing due to the lack of access to IES data and the cancellation of research programs.\n\nOn June 3, Judge McFadden denied the plaintiffs' motion for a preliminary injunction. The court found that the plaintiffs were \"improperly bundling together a series of actions for wholesale correction rather than challenging one 'circumscribed [and] discrete' action.\" Instead of bringing a challenge to a discrete and final agency action, the plaintiffs brought a \u201cchallenge [to] an entire program by simply identifying specific allegedly-improper final agency actions within that program.\" The court also rejected the plaintiffs' constitutional claims, finding that they were simply repackaged APA claims to the \"entire program.\" Since the plaintiffs' APA claims failed, so too did the constitutional claims. Therefore, the court found that the plaintiffs were not likely to succeed on the merits of their claims, which doomed their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs filed an amended complaint on June 18. The amended complaint challenged the termination of eight specific programs run by the Department of Education: (1) the termination of the National Postsecondary Student Aid Study; \u00a0(2) the termination of the 2020/25 Beginning Postsecondary Students Longitudinal Study; (3) the termination of the High School Longitudinal Study of 2009; (4) the termination of the High School and Beyond Longitudinal Study of 2022; (5) the termination of the Early Childhood Longitudinal Study-Kindergarten: 2024; (6) the termination of IES\u2019s peer review program for new grant funding; (7) the termination of IES\u2019s program for remote access to restricted-use data; and (8) the termination of processing applications for access to restricted-use data. The amended complaint added/removed factual allegations and causes of action under the APA to match the new focus of the complaint.\n\nOn July 2, the defendants filed a motion to dismiss, arguing that the court still lacked jurisdiction over the plaintiffs' claims under the Tucker Act, and that the plaintiffs still were making a programmatic challenge, rather than a challenge to a discrete, final agency action as required by the APA.\n\nThe plaintiffs filed a second amended complaint on July 16. The second amended complaint removed the challenges to two of the terminations mentioned in the first amended complaint: the National Postsecondary Student Aid Study and IES's program for remote access to restricted-use data. The amended complaint also added more concrete allegations detailing how the remaining terminations caused harm to the plaintiffs and emphasized that the plaintiffs were challenging the final agency action of terminating the programs. Given the second amended complaint, the court denied as moot the defendants' motion to dismiss and ordered them to file a renewed motion by August 19.\n\nThis case is ongoing.",
+    "target_paragraph": "The plaintiffs asked the court to declare the defendants' actions unlawful and to issue several orders. These included orders to restore the terminated contracts, vacate the reduction in force of IES employees, and reverse the termination of remote access to restricted-use data. They also requested the court to prevent the defendants from taking any further actions that would hinder IES's ability to perform its legally required tasks and sought a temporary restraining order and preliminary injunction to immediately stop the shutdown of IES. Additionally, they asked for their legal costs and attorney\u2019s fees to be covered.",
+    "target_paragraph_indices": [
+      2753,
+      3381
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2753,
+            2827
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment that defendants' actions are unlawful",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3195,
+            3299
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order (TRO) to immediately stop the shutdown of IES",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3195,
+            3299
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction to immediately stop the shutdown of IES",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3033,
+            3190
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief prohibiting further actions hindering IES\u2019s legally required tasks",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2857,
+            2914
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mandatory order to restore terminated contracts supporting IES research",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2916,
+            2962
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mandatory order to vacate the reduction in force (RIF) of IES employees",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2968,
+            3032
+          ]
+        ],
+        "annotation": {
+          "explanation": "Mandatory order to reverse termination of remote access to restricted-use data",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3300,
+            3381
+          ]
+        ],
+        "annotation": {
+          "explanation": "Costs and attorney\u2019s fees",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2753,
+            3032
+          ],
+          [
+            3033,
+            3299
+          ],
+          [
+            3300,
+            3381
+          ]
+        ],
+        "annotation": {
+          "explanation": "Requested relief based on the alleged facts: declarations that the actions are unlawful; restoration of terminated contracts; vacatur of the IES reduction-in-force; reversal of terminated remote data access; injunctive relief (including TRO and preliminary injunction) preventing further impediments; and costs and attorney\u2019s fees.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3033,
+            3299
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs sought a temporary restraining order (TRO) and preliminary injunction in the complaint.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3033,
+            3299
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs requested a temporary restraining order (TRO) and preliminary injunction.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "46342_p5",
+    "metadata": {
+      "case_id": "46342",
+      "paragraph_num": 5,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Subsequently, on April 17, 2025, the plaintiffs filed a Motion for a Preliminary Injunction, detaili..."
+    },
+    "source": "",
+    "target": "This case challenged the abrupt dismantling of the federal government's primary education research agency. On April 4, 2025, the Association for Education Finance and Policy, Inc. and the Institute for Higher Education Policy filed a lawsuit in the U.S. District Court for the District of Columbia. They sued the U.S. Department of Education under various laws, primarily the Administrative Procedure Act (APA), and raised constitutional concerns. Represented by the Public Citizen Litigation Group, the plaintiffs sought a court order to stop the Department of Education's actions and to restore the functions of the research agency. They argued that the Department was acting illegally by shutting down the Institute of Education Sciences (IES), an agency created by Congress. This case was assigned to Judge Trevor N. McFadden.\n\nAccording to the lawsuit, Congress established IES in 2002 to conduct and share high-quality research, statistics, and evaluations related to education from early childhood through postsecondary study. The plaintiffs, organizations that rely on IES research for their work in education finance, policy, and higher education access, claimed that the Department of Education took several actions that effectively halted IES's operations. These actions included the mass cancellation of contracts that supported IES research, the elimination of approximately 90% of IES staff positions, and the termination of remote access for outside researchers to existing data. The plaintiffs argued that these actions exceeded the authority of the Department, violated specific laws, and were made without proper reasoning.\n\nThe lawsuit outlined five legal claims:\n\n\u2022 The plaintiffs asserted a non-statutory claim arguing that the defendants' actions were ultra vires, meaning they went beyond their legal powers and encroached upon the authority of Congress, which created IES.   \u2022 They claimed that the defendants violated the Administrative Procedure Act (APA) by acting contrary to law, specifically the Education Sciences Reform Act of 2002 and the Higher Education Opportunity Act, which established IES and its responsibilities.   \u2022 The plaintiffs argued that the defendants' actions were arbitrary and capricious under the APA because they offered no reasoned explanation and failed to consider the impact on researchers and other stakeholders who rely on IES.   \u2022 They claimed a violation of the APA based on the Impoundment Control Act, alleging that the defendants unlawfully rescinded or deferred funds appropriated by Congress for IES.   \u2022 Lastly, the plaintiffs asserted a violation of the APA based on the Anti-Deficiency Act, arguing that the defendants illegally refused to spend funds Congress had allocated to IES.\n\nThe plaintiffs asked the court to declare the defendants' actions unlawful and to issue several orders. These included orders to restore the terminated contracts, vacate the reduction in force of IES employees, and reverse the termination of remote access to restricted-use data. They also requested the court to prevent the defendants from taking any further actions that would hinder IES's ability to perform its legally required tasks and sought a temporary restraining order and preliminary injunction to immediately stop the shutdown of IES. Additionally, they asked for their legal costs and attorney\u2019s fees to be covered.\n\nSubsequently, on April 17, 2025, the plaintiffs filed a Motion for a Preliminary Injunction, detailing the harm the plaintiffs and their members were already experiencing due to the lack of access to IES data and the cancellation of research programs.\n\nOn June 3, Judge McFadden denied the plaintiffs' motion for a preliminary injunction. The court found that the plaintiffs were \"improperly bundling together a series of actions for wholesale correction rather than challenging one 'circumscribed [and] discrete' action.\" Instead of bringing a challenge to a discrete and final agency action, the plaintiffs brought a \u201cchallenge [to] an entire program by simply identifying specific allegedly-improper final agency actions within that program.\" The court also rejected the plaintiffs' constitutional claims, finding that they were simply repackaged APA claims to the \"entire program.\" Since the plaintiffs' APA claims failed, so too did the constitutional claims. Therefore, the court found that the plaintiffs were not likely to succeed on the merits of their claims, which doomed their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs filed an amended complaint on June 18. The amended complaint challenged the termination of eight specific programs run by the Department of Education: (1) the termination of the National Postsecondary Student Aid Study; \u00a0(2) the termination of the 2020/25 Beginning Postsecondary Students Longitudinal Study; (3) the termination of the High School Longitudinal Study of 2009; (4) the termination of the High School and Beyond Longitudinal Study of 2022; (5) the termination of the Early Childhood Longitudinal Study-Kindergarten: 2024; (6) the termination of IES\u2019s peer review program for new grant funding; (7) the termination of IES\u2019s program for remote access to restricted-use data; and (8) the termination of processing applications for access to restricted-use data. The amended complaint added/removed factual allegations and causes of action under the APA to match the new focus of the complaint.\n\nOn July 2, the defendants filed a motion to dismiss, arguing that the court still lacked jurisdiction over the plaintiffs' claims under the Tucker Act, and that the plaintiffs still were making a programmatic challenge, rather than a challenge to a discrete, final agency action as required by the APA.\n\nThe plaintiffs filed a second amended complaint on July 16. The second amended complaint removed the challenges to two of the terminations mentioned in the first amended complaint: the National Postsecondary Student Aid Study and IES's program for remote access to restricted-use data. The amended complaint also added more concrete allegations detailing how the remaining terminations caused harm to the plaintiffs and emphasized that the plaintiffs were challenging the final agency action of terminating the programs. Given the second amended complaint, the court denied as moot the defendants' motion to dismiss and ordered them to file a renewed motion by August 19.\n\nThis case is ongoing.",
+    "target_paragraph": "Subsequently, on April 17, 2025, the plaintiffs filed a Motion for a Preliminary Injunction, detailing the harm the plaintiffs and their members were already experiencing due to the lack of access to IES data and the cancellation of research programs.",
+    "target_paragraph_indices": [
+      3383,
+      3634
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3383,
+            3634
+          ]
+        ],
+        "annotation": {
+          "explanation": "Evidence of harm alleged: Plaintiffs filed a preliminary injunction motion on April 17, 2025, detailing harms from loss of access to IES data and cancellation of research programs.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3383,
+            3634
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a Motion for Preliminary Injunction on April 17, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3383,
+            3634
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a Motion for a Preliminary Injunction on April 17, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46342_p6",
+    "metadata": {
+      "case_id": "46342",
+      "paragraph_num": 6,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 3, Judge McFadden denied the plaintiffs' motion for a preliminary injunction. The court foun..."
+    },
+    "source": "",
+    "target": "This case challenged the abrupt dismantling of the federal government's primary education research agency. On April 4, 2025, the Association for Education Finance and Policy, Inc. and the Institute for Higher Education Policy filed a lawsuit in the U.S. District Court for the District of Columbia. They sued the U.S. Department of Education under various laws, primarily the Administrative Procedure Act (APA), and raised constitutional concerns. Represented by the Public Citizen Litigation Group, the plaintiffs sought a court order to stop the Department of Education's actions and to restore the functions of the research agency. They argued that the Department was acting illegally by shutting down the Institute of Education Sciences (IES), an agency created by Congress. This case was assigned to Judge Trevor N. McFadden.\n\nAccording to the lawsuit, Congress established IES in 2002 to conduct and share high-quality research, statistics, and evaluations related to education from early childhood through postsecondary study. The plaintiffs, organizations that rely on IES research for their work in education finance, policy, and higher education access, claimed that the Department of Education took several actions that effectively halted IES's operations. These actions included the mass cancellation of contracts that supported IES research, the elimination of approximately 90% of IES staff positions, and the termination of remote access for outside researchers to existing data. The plaintiffs argued that these actions exceeded the authority of the Department, violated specific laws, and were made without proper reasoning.\n\nThe lawsuit outlined five legal claims:\n\n\u2022 The plaintiffs asserted a non-statutory claim arguing that the defendants' actions were ultra vires, meaning they went beyond their legal powers and encroached upon the authority of Congress, which created IES.   \u2022 They claimed that the defendants violated the Administrative Procedure Act (APA) by acting contrary to law, specifically the Education Sciences Reform Act of 2002 and the Higher Education Opportunity Act, which established IES and its responsibilities.   \u2022 The plaintiffs argued that the defendants' actions were arbitrary and capricious under the APA because they offered no reasoned explanation and failed to consider the impact on researchers and other stakeholders who rely on IES.   \u2022 They claimed a violation of the APA based on the Impoundment Control Act, alleging that the defendants unlawfully rescinded or deferred funds appropriated by Congress for IES.   \u2022 Lastly, the plaintiffs asserted a violation of the APA based on the Anti-Deficiency Act, arguing that the defendants illegally refused to spend funds Congress had allocated to IES.\n\nThe plaintiffs asked the court to declare the defendants' actions unlawful and to issue several orders. These included orders to restore the terminated contracts, vacate the reduction in force of IES employees, and reverse the termination of remote access to restricted-use data. They also requested the court to prevent the defendants from taking any further actions that would hinder IES's ability to perform its legally required tasks and sought a temporary restraining order and preliminary injunction to immediately stop the shutdown of IES. Additionally, they asked for their legal costs and attorney\u2019s fees to be covered.\n\nSubsequently, on April 17, 2025, the plaintiffs filed a Motion for a Preliminary Injunction, detailing the harm the plaintiffs and their members were already experiencing due to the lack of access to IES data and the cancellation of research programs.\n\nOn June 3, Judge McFadden denied the plaintiffs' motion for a preliminary injunction. The court found that the plaintiffs were \"improperly bundling together a series of actions for wholesale correction rather than challenging one 'circumscribed [and] discrete' action.\" Instead of bringing a challenge to a discrete and final agency action, the plaintiffs brought a \u201cchallenge [to] an entire program by simply identifying specific allegedly-improper final agency actions within that program.\" The court also rejected the plaintiffs' constitutional claims, finding that they were simply repackaged APA claims to the \"entire program.\" Since the plaintiffs' APA claims failed, so too did the constitutional claims. Therefore, the court found that the plaintiffs were not likely to succeed on the merits of their claims, which doomed their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs filed an amended complaint on June 18. The amended complaint challenged the termination of eight specific programs run by the Department of Education: (1) the termination of the National Postsecondary Student Aid Study; \u00a0(2) the termination of the 2020/25 Beginning Postsecondary Students Longitudinal Study; (3) the termination of the High School Longitudinal Study of 2009; (4) the termination of the High School and Beyond Longitudinal Study of 2022; (5) the termination of the Early Childhood Longitudinal Study-Kindergarten: 2024; (6) the termination of IES\u2019s peer review program for new grant funding; (7) the termination of IES\u2019s program for remote access to restricted-use data; and (8) the termination of processing applications for access to restricted-use data. The amended complaint added/removed factual allegations and causes of action under the APA to match the new focus of the complaint.\n\nOn July 2, the defendants filed a motion to dismiss, arguing that the court still lacked jurisdiction over the plaintiffs' claims under the Tucker Act, and that the plaintiffs still were making a programmatic challenge, rather than a challenge to a discrete, final agency action as required by the APA.\n\nThe plaintiffs filed a second amended complaint on July 16. The second amended complaint removed the challenges to two of the terminations mentioned in the first amended complaint: the National Postsecondary Student Aid Study and IES's program for remote access to restricted-use data. The amended complaint also added more concrete allegations detailing how the remaining terminations caused harm to the plaintiffs and emphasized that the plaintiffs were challenging the final agency action of terminating the programs. Given the second amended complaint, the court denied as moot the defendants' motion to dismiss and ordered them to file a renewed motion by August 19.\n\nThis case is ongoing.",
+    "target_paragraph": "On June 3, Judge McFadden denied the plaintiffs' motion for a preliminary injunction. The court found that the plaintiffs were \"improperly bundling together a series of actions for wholesale correction rather than challenging one 'circumscribed [and] discrete' action.\" Instead of bringing a challenge to a discrete and final agency action, the plaintiffs brought a \u201cchallenge [to] an entire program by simply identifying specific allegedly-improper final agency actions within that program.\" The court also rejected the plaintiffs' constitutional claims, finding that they were simply repackaged APA claims to the \"entire program.\" Since the plaintiffs' APA claims failed, so too did the constitutional claims. Therefore, the court found that the plaintiffs were not likely to succeed on the merits of their claims, which doomed their request for a preliminary injunction. 2025 WL 1568301.",
+    "target_paragraph_indices": [
+      3636,
+      4526
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            4348,
+            4526
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025 WL 1568301",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3636,
+            3721
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 3: Judge McFadden denied the plaintiffs' motion for a preliminary injunction.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3636,
+            3721
+          ],
+          [
+            3722,
+            3905
+          ],
+          [
+            3906,
+            4128
+          ],
+          [
+            4348,
+            4526
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural development: On June 3, the court denied the preliminary injunction, finding the plaintiffs\u2019 claims were an impermissible programmatic challenge rather than targeting discrete final agency action, and concluding plaintiffs were unlikely to succeed on the merits.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3636,
+            3721
+          ],
+          [
+            4510,
+            4526
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court denied the Motion for Preliminary Injunction on June 3, 2025 (2025 WL 1568301).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3636,
+            3721
+          ],
+          [
+            3722,
+            3905
+          ],
+          [
+            4269,
+            4526
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 3, the court denied the preliminary injunction, finding plaintiffs were not likely to succeed on the merits because their APA claims improperly challenged a program rather than discrete final agency actions (citation: 2025 WL 1568301).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3636,
+            3721
+          ],
+          [
+            3722,
+            3905
+          ],
+          [
+            4129,
+            4347
+          ],
+          [
+            4348,
+            4526
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 3, 2025: Motion for Preliminary Injunction denied by Judge Trevor N. McFadden; court held the suit was an improper programmatic challenge rather than a discrete final agency action and rejected constitutional claims; not likely to succeed on the merits. Citation: 2025 WL 1568301.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46342_p7",
+    "metadata": {
+      "case_id": "46342",
+      "paragraph_num": 7,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs filed an amended complaint on June 18. The amended complaint challenged the terminati..."
+    },
+    "source": "",
+    "target": "This case challenged the abrupt dismantling of the federal government's primary education research agency. On April 4, 2025, the Association for Education Finance and Policy, Inc. and the Institute for Higher Education Policy filed a lawsuit in the U.S. District Court for the District of Columbia. They sued the U.S. Department of Education under various laws, primarily the Administrative Procedure Act (APA), and raised constitutional concerns. Represented by the Public Citizen Litigation Group, the plaintiffs sought a court order to stop the Department of Education's actions and to restore the functions of the research agency. They argued that the Department was acting illegally by shutting down the Institute of Education Sciences (IES), an agency created by Congress. This case was assigned to Judge Trevor N. McFadden.\n\nAccording to the lawsuit, Congress established IES in 2002 to conduct and share high-quality research, statistics, and evaluations related to education from early childhood through postsecondary study. The plaintiffs, organizations that rely on IES research for their work in education finance, policy, and higher education access, claimed that the Department of Education took several actions that effectively halted IES's operations. These actions included the mass cancellation of contracts that supported IES research, the elimination of approximately 90% of IES staff positions, and the termination of remote access for outside researchers to existing data. The plaintiffs argued that these actions exceeded the authority of the Department, violated specific laws, and were made without proper reasoning.\n\nThe lawsuit outlined five legal claims:\n\n\u2022 The plaintiffs asserted a non-statutory claim arguing that the defendants' actions were ultra vires, meaning they went beyond their legal powers and encroached upon the authority of Congress, which created IES.   \u2022 They claimed that the defendants violated the Administrative Procedure Act (APA) by acting contrary to law, specifically the Education Sciences Reform Act of 2002 and the Higher Education Opportunity Act, which established IES and its responsibilities.   \u2022 The plaintiffs argued that the defendants' actions were arbitrary and capricious under the APA because they offered no reasoned explanation and failed to consider the impact on researchers and other stakeholders who rely on IES.   \u2022 They claimed a violation of the APA based on the Impoundment Control Act, alleging that the defendants unlawfully rescinded or deferred funds appropriated by Congress for IES.   \u2022 Lastly, the plaintiffs asserted a violation of the APA based on the Anti-Deficiency Act, arguing that the defendants illegally refused to spend funds Congress had allocated to IES.\n\nThe plaintiffs asked the court to declare the defendants' actions unlawful and to issue several orders. These included orders to restore the terminated contracts, vacate the reduction in force of IES employees, and reverse the termination of remote access to restricted-use data. They also requested the court to prevent the defendants from taking any further actions that would hinder IES's ability to perform its legally required tasks and sought a temporary restraining order and preliminary injunction to immediately stop the shutdown of IES. Additionally, they asked for their legal costs and attorney\u2019s fees to be covered.\n\nSubsequently, on April 17, 2025, the plaintiffs filed a Motion for a Preliminary Injunction, detailing the harm the plaintiffs and their members were already experiencing due to the lack of access to IES data and the cancellation of research programs.\n\nOn June 3, Judge McFadden denied the plaintiffs' motion for a preliminary injunction. The court found that the plaintiffs were \"improperly bundling together a series of actions for wholesale correction rather than challenging one 'circumscribed [and] discrete' action.\" Instead of bringing a challenge to a discrete and final agency action, the plaintiffs brought a \u201cchallenge [to] an entire program by simply identifying specific allegedly-improper final agency actions within that program.\" The court also rejected the plaintiffs' constitutional claims, finding that they were simply repackaged APA claims to the \"entire program.\" Since the plaintiffs' APA claims failed, so too did the constitutional claims. Therefore, the court found that the plaintiffs were not likely to succeed on the merits of their claims, which doomed their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs filed an amended complaint on June 18. The amended complaint challenged the termination of eight specific programs run by the Department of Education: (1) the termination of the National Postsecondary Student Aid Study; \u00a0(2) the termination of the 2020/25 Beginning Postsecondary Students Longitudinal Study; (3) the termination of the High School Longitudinal Study of 2009; (4) the termination of the High School and Beyond Longitudinal Study of 2022; (5) the termination of the Early Childhood Longitudinal Study-Kindergarten: 2024; (6) the termination of IES\u2019s peer review program for new grant funding; (7) the termination of IES\u2019s program for remote access to restricted-use data; and (8) the termination of processing applications for access to restricted-use data. The amended complaint added/removed factual allegations and causes of action under the APA to match the new focus of the complaint.\n\nOn July 2, the defendants filed a motion to dismiss, arguing that the court still lacked jurisdiction over the plaintiffs' claims under the Tucker Act, and that the plaintiffs still were making a programmatic challenge, rather than a challenge to a discrete, final agency action as required by the APA.\n\nThe plaintiffs filed a second amended complaint on July 16. The second amended complaint removed the challenges to two of the terminations mentioned in the first amended complaint: the National Postsecondary Student Aid Study and IES's program for remote access to restricted-use data. The amended complaint also added more concrete allegations detailing how the remaining terminations caused harm to the plaintiffs and emphasized that the plaintiffs were challenging the final agency action of terminating the programs. Given the second amended complaint, the court denied as moot the defendants' motion to dismiss and ordered them to file a renewed motion by August 19.\n\nThis case is ongoing.",
+    "target_paragraph": "The plaintiffs filed an amended complaint on June 18. The amended complaint challenged the termination of eight specific programs run by the Department of Education: (1) the termination of the National Postsecondary Student Aid Study; \u00a0(2) the termination of the 2020/25 Beginning Postsecondary Students Longitudinal Study; (3) the termination of the High School Longitudinal Study of 2009; (4) the termination of the High School and Beyond Longitudinal Study of 2022; (5) the termination of the Early Childhood Longitudinal Study-Kindergarten: 2024; (6) the termination of IES\u2019s peer review program for new grant funding; (7) the termination of IES\u2019s program for remote access to restricted-use data; and (8) the termination of processing applications for access to restricted-use data. The amended complaint added/removed factual allegations and causes of action under the APA to match the new focus of the complaint.",
+    "target_paragraph_indices": [
+      4528,
+      5447
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4528,
+            4581
+          ],
+          [
+            5316,
+            5447
+          ]
+        ],
+        "annotation": {
+          "explanation": "Refined factual focus: On June 18, plaintiffs amended their complaint to challenge eight discrete program terminations (specific longitudinal studies, peer review, and restricted-use data access programs), aligning facts and APA claims to discrete actions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4528,
+            4581
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed an amended complaint on June 18, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46342_p8",
+    "metadata": {
+      "case_id": "46342",
+      "paragraph_num": 8,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 2, the defendants filed a motion to dismiss, arguing that the court still lacked jurisdictio..."
+    },
+    "source": "",
+    "target": "This case challenged the abrupt dismantling of the federal government's primary education research agency. On April 4, 2025, the Association for Education Finance and Policy, Inc. and the Institute for Higher Education Policy filed a lawsuit in the U.S. District Court for the District of Columbia. They sued the U.S. Department of Education under various laws, primarily the Administrative Procedure Act (APA), and raised constitutional concerns. Represented by the Public Citizen Litigation Group, the plaintiffs sought a court order to stop the Department of Education's actions and to restore the functions of the research agency. They argued that the Department was acting illegally by shutting down the Institute of Education Sciences (IES), an agency created by Congress. This case was assigned to Judge Trevor N. McFadden.\n\nAccording to the lawsuit, Congress established IES in 2002 to conduct and share high-quality research, statistics, and evaluations related to education from early childhood through postsecondary study. The plaintiffs, organizations that rely on IES research for their work in education finance, policy, and higher education access, claimed that the Department of Education took several actions that effectively halted IES's operations. These actions included the mass cancellation of contracts that supported IES research, the elimination of approximately 90% of IES staff positions, and the termination of remote access for outside researchers to existing data. The plaintiffs argued that these actions exceeded the authority of the Department, violated specific laws, and were made without proper reasoning.\n\nThe lawsuit outlined five legal claims:\n\n\u2022 The plaintiffs asserted a non-statutory claim arguing that the defendants' actions were ultra vires, meaning they went beyond their legal powers and encroached upon the authority of Congress, which created IES.   \u2022 They claimed that the defendants violated the Administrative Procedure Act (APA) by acting contrary to law, specifically the Education Sciences Reform Act of 2002 and the Higher Education Opportunity Act, which established IES and its responsibilities.   \u2022 The plaintiffs argued that the defendants' actions were arbitrary and capricious under the APA because they offered no reasoned explanation and failed to consider the impact on researchers and other stakeholders who rely on IES.   \u2022 They claimed a violation of the APA based on the Impoundment Control Act, alleging that the defendants unlawfully rescinded or deferred funds appropriated by Congress for IES.   \u2022 Lastly, the plaintiffs asserted a violation of the APA based on the Anti-Deficiency Act, arguing that the defendants illegally refused to spend funds Congress had allocated to IES.\n\nThe plaintiffs asked the court to declare the defendants' actions unlawful and to issue several orders. These included orders to restore the terminated contracts, vacate the reduction in force of IES employees, and reverse the termination of remote access to restricted-use data. They also requested the court to prevent the defendants from taking any further actions that would hinder IES's ability to perform its legally required tasks and sought a temporary restraining order and preliminary injunction to immediately stop the shutdown of IES. Additionally, they asked for their legal costs and attorney\u2019s fees to be covered.\n\nSubsequently, on April 17, 2025, the plaintiffs filed a Motion for a Preliminary Injunction, detailing the harm the plaintiffs and their members were already experiencing due to the lack of access to IES data and the cancellation of research programs.\n\nOn June 3, Judge McFadden denied the plaintiffs' motion for a preliminary injunction. The court found that the plaintiffs were \"improperly bundling together a series of actions for wholesale correction rather than challenging one 'circumscribed [and] discrete' action.\" Instead of bringing a challenge to a discrete and final agency action, the plaintiffs brought a \u201cchallenge [to] an entire program by simply identifying specific allegedly-improper final agency actions within that program.\" The court also rejected the plaintiffs' constitutional claims, finding that they were simply repackaged APA claims to the \"entire program.\" Since the plaintiffs' APA claims failed, so too did the constitutional claims. Therefore, the court found that the plaintiffs were not likely to succeed on the merits of their claims, which doomed their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs filed an amended complaint on June 18. The amended complaint challenged the termination of eight specific programs run by the Department of Education: (1) the termination of the National Postsecondary Student Aid Study; \u00a0(2) the termination of the 2020/25 Beginning Postsecondary Students Longitudinal Study; (3) the termination of the High School Longitudinal Study of 2009; (4) the termination of the High School and Beyond Longitudinal Study of 2022; (5) the termination of the Early Childhood Longitudinal Study-Kindergarten: 2024; (6) the termination of IES\u2019s peer review program for new grant funding; (7) the termination of IES\u2019s program for remote access to restricted-use data; and (8) the termination of processing applications for access to restricted-use data. The amended complaint added/removed factual allegations and causes of action under the APA to match the new focus of the complaint.\n\nOn July 2, the defendants filed a motion to dismiss, arguing that the court still lacked jurisdiction over the plaintiffs' claims under the Tucker Act, and that the plaintiffs still were making a programmatic challenge, rather than a challenge to a discrete, final agency action as required by the APA.\n\nThe plaintiffs filed a second amended complaint on July 16. The second amended complaint removed the challenges to two of the terminations mentioned in the first amended complaint: the National Postsecondary Student Aid Study and IES's program for remote access to restricted-use data. The amended complaint also added more concrete allegations detailing how the remaining terminations caused harm to the plaintiffs and emphasized that the plaintiffs were challenging the final agency action of terminating the programs. Given the second amended complaint, the court denied as moot the defendants' motion to dismiss and ordered them to file a renewed motion by August 19.\n\nThis case is ongoing.",
+    "target_paragraph": "On July 2, the defendants filed a motion to dismiss, arguing that the court still lacked jurisdiction over the plaintiffs' claims under the Tucker Act, and that the plaintiffs still were making a programmatic challenge, rather than a challenge to a discrete, final agency action as required by the APA.",
+    "target_paragraph_indices": [
+      5449,
+      5751
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5449,
+            5751
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 position: They moved to dismiss on July 2, arguing lack of jurisdiction under the Tucker Act and that plaintiffs continued to pursue a programmatic (non-discrete) challenge contrary to APA requirements.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5449,
+            5751
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a motion to dismiss on July 2, 2025, asserting Tucker Act jurisdiction and programmatic-challenge arguments.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5449,
+            5751
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a motion to dismiss on July 2, arguing lack of jurisdiction under the Tucker Act and that plaintiffs\u2019 claims remained a programmatic APA challenge.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            5449,
+            5751
+          ],
+          [
+            6274,
+            6424
+          ]
+        ],
+        "annotation": {
+          "explanation": "After the plaintiffs filed a second amended complaint on July 16, 2025, the court denied as moot the defendants\u2019 July 2, 2025 motion to dismiss and ordered a renewed motion by August 19, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            8,
+            9
+          ]
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46342_p9",
+    "metadata": {
+      "case_id": "46342",
+      "paragraph_num": 9,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs filed a second amended complaint on July 16. The second amended complaint removed the..."
+    },
+    "source": "",
+    "target": "This case challenged the abrupt dismantling of the federal government's primary education research agency. On April 4, 2025, the Association for Education Finance and Policy, Inc. and the Institute for Higher Education Policy filed a lawsuit in the U.S. District Court for the District of Columbia. They sued the U.S. Department of Education under various laws, primarily the Administrative Procedure Act (APA), and raised constitutional concerns. Represented by the Public Citizen Litigation Group, the plaintiffs sought a court order to stop the Department of Education's actions and to restore the functions of the research agency. They argued that the Department was acting illegally by shutting down the Institute of Education Sciences (IES), an agency created by Congress. This case was assigned to Judge Trevor N. McFadden.\n\nAccording to the lawsuit, Congress established IES in 2002 to conduct and share high-quality research, statistics, and evaluations related to education from early childhood through postsecondary study. The plaintiffs, organizations that rely on IES research for their work in education finance, policy, and higher education access, claimed that the Department of Education took several actions that effectively halted IES's operations. These actions included the mass cancellation of contracts that supported IES research, the elimination of approximately 90% of IES staff positions, and the termination of remote access for outside researchers to existing data. The plaintiffs argued that these actions exceeded the authority of the Department, violated specific laws, and were made without proper reasoning.\n\nThe lawsuit outlined five legal claims:\n\n\u2022 The plaintiffs asserted a non-statutory claim arguing that the defendants' actions were ultra vires, meaning they went beyond their legal powers and encroached upon the authority of Congress, which created IES.   \u2022 They claimed that the defendants violated the Administrative Procedure Act (APA) by acting contrary to law, specifically the Education Sciences Reform Act of 2002 and the Higher Education Opportunity Act, which established IES and its responsibilities.   \u2022 The plaintiffs argued that the defendants' actions were arbitrary and capricious under the APA because they offered no reasoned explanation and failed to consider the impact on researchers and other stakeholders who rely on IES.   \u2022 They claimed a violation of the APA based on the Impoundment Control Act, alleging that the defendants unlawfully rescinded or deferred funds appropriated by Congress for IES.   \u2022 Lastly, the plaintiffs asserted a violation of the APA based on the Anti-Deficiency Act, arguing that the defendants illegally refused to spend funds Congress had allocated to IES.\n\nThe plaintiffs asked the court to declare the defendants' actions unlawful and to issue several orders. These included orders to restore the terminated contracts, vacate the reduction in force of IES employees, and reverse the termination of remote access to restricted-use data. They also requested the court to prevent the defendants from taking any further actions that would hinder IES's ability to perform its legally required tasks and sought a temporary restraining order and preliminary injunction to immediately stop the shutdown of IES. Additionally, they asked for their legal costs and attorney\u2019s fees to be covered.\n\nSubsequently, on April 17, 2025, the plaintiffs filed a Motion for a Preliminary Injunction, detailing the harm the plaintiffs and their members were already experiencing due to the lack of access to IES data and the cancellation of research programs.\n\nOn June 3, Judge McFadden denied the plaintiffs' motion for a preliminary injunction. The court found that the plaintiffs were \"improperly bundling together a series of actions for wholesale correction rather than challenging one 'circumscribed [and] discrete' action.\" Instead of bringing a challenge to a discrete and final agency action, the plaintiffs brought a \u201cchallenge [to] an entire program by simply identifying specific allegedly-improper final agency actions within that program.\" The court also rejected the plaintiffs' constitutional claims, finding that they were simply repackaged APA claims to the \"entire program.\" Since the plaintiffs' APA claims failed, so too did the constitutional claims. Therefore, the court found that the plaintiffs were not likely to succeed on the merits of their claims, which doomed their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs filed an amended complaint on June 18. The amended complaint challenged the termination of eight specific programs run by the Department of Education: (1) the termination of the National Postsecondary Student Aid Study; \u00a0(2) the termination of the 2020/25 Beginning Postsecondary Students Longitudinal Study; (3) the termination of the High School Longitudinal Study of 2009; (4) the termination of the High School and Beyond Longitudinal Study of 2022; (5) the termination of the Early Childhood Longitudinal Study-Kindergarten: 2024; (6) the termination of IES\u2019s peer review program for new grant funding; (7) the termination of IES\u2019s program for remote access to restricted-use data; and (8) the termination of processing applications for access to restricted-use data. The amended complaint added/removed factual allegations and causes of action under the APA to match the new focus of the complaint.\n\nOn July 2, the defendants filed a motion to dismiss, arguing that the court still lacked jurisdiction over the plaintiffs' claims under the Tucker Act, and that the plaintiffs still were making a programmatic challenge, rather than a challenge to a discrete, final agency action as required by the APA.\n\nThe plaintiffs filed a second amended complaint on July 16. The second amended complaint removed the challenges to two of the terminations mentioned in the first amended complaint: the National Postsecondary Student Aid Study and IES's program for remote access to restricted-use data. The amended complaint also added more concrete allegations detailing how the remaining terminations caused harm to the plaintiffs and emphasized that the plaintiffs were challenging the final agency action of terminating the programs. Given the second amended complaint, the court denied as moot the defendants' motion to dismiss and ordered them to file a renewed motion by August 19.\n\nThis case is ongoing.",
+    "target_paragraph": "The plaintiffs filed a second amended complaint on July 16. The second amended complaint removed the challenges to two of the terminations mentioned in the first amended complaint: the National Postsecondary Student Aid Study and IES's program for remote access to restricted-use data. The amended complaint also added more concrete allegations detailing how the remaining terminations caused harm to the plaintiffs and emphasized that the plaintiffs were challenging the final agency action of terminating the programs. Given the second amended complaint, the court denied as moot the defendants' motion to dismiss and ordered them to file a renewed motion by August 19.",
+    "target_paragraph_indices": [
+      5753,
+      6424
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5753,
+            5812
+          ],
+          [
+            5813,
+            6038
+          ],
+          [
+            6039,
+            6273
+          ],
+          [
+            6274,
+            6424
+          ]
+        ],
+        "annotation": {
+          "explanation": "Further narrowing and evidentiary detail: On July 16, plaintiffs filed a second amended complaint removing two challenges, adding concrete allegations of harm from the remaining terminations, and emphasizing challenges to final agency terminations; the court denied the prior motion to dismiss as moot and set a new briefing schedule.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5753,
+            5812
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a second amended complaint on July 16, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            6274,
+            6424
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court denied as moot the defendants' motion to dismiss and ordered a renewed motion by August 19.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            6274,
+            6424
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants are ordered to file a renewed motion by August 19.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5753,
+            5812
+          ],
+          [
+            6274,
+            6424
+          ]
+        ],
+        "annotation": {
+          "explanation": "Second amended complaint filed July 16; the court denied the prior motion to dismiss as moot and ordered a renewed motion by August 19.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46342_p10",
+    "metadata": {
+      "case_id": "46342",
+      "paragraph_num": 10,
+      "total_paragraphs": 11,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "This case challenged the abrupt dismantling of the federal government's primary education research agency. On April 4, 2025, the Association for Education Finance and Policy, Inc. and the Institute for Higher Education Policy filed a lawsuit in the U.S. District Court for the District of Columbia. They sued the U.S. Department of Education under various laws, primarily the Administrative Procedure Act (APA), and raised constitutional concerns. Represented by the Public Citizen Litigation Group, the plaintiffs sought a court order to stop the Department of Education's actions and to restore the functions of the research agency. They argued that the Department was acting illegally by shutting down the Institute of Education Sciences (IES), an agency created by Congress. This case was assigned to Judge Trevor N. McFadden.\n\nAccording to the lawsuit, Congress established IES in 2002 to conduct and share high-quality research, statistics, and evaluations related to education from early childhood through postsecondary study. The plaintiffs, organizations that rely on IES research for their work in education finance, policy, and higher education access, claimed that the Department of Education took several actions that effectively halted IES's operations. These actions included the mass cancellation of contracts that supported IES research, the elimination of approximately 90% of IES staff positions, and the termination of remote access for outside researchers to existing data. The plaintiffs argued that these actions exceeded the authority of the Department, violated specific laws, and were made without proper reasoning.\n\nThe lawsuit outlined five legal claims:\n\n\u2022 The plaintiffs asserted a non-statutory claim arguing that the defendants' actions were ultra vires, meaning they went beyond their legal powers and encroached upon the authority of Congress, which created IES.   \u2022 They claimed that the defendants violated the Administrative Procedure Act (APA) by acting contrary to law, specifically the Education Sciences Reform Act of 2002 and the Higher Education Opportunity Act, which established IES and its responsibilities.   \u2022 The plaintiffs argued that the defendants' actions were arbitrary and capricious under the APA because they offered no reasoned explanation and failed to consider the impact on researchers and other stakeholders who rely on IES.   \u2022 They claimed a violation of the APA based on the Impoundment Control Act, alleging that the defendants unlawfully rescinded or deferred funds appropriated by Congress for IES.   \u2022 Lastly, the plaintiffs asserted a violation of the APA based on the Anti-Deficiency Act, arguing that the defendants illegally refused to spend funds Congress had allocated to IES.\n\nThe plaintiffs asked the court to declare the defendants' actions unlawful and to issue several orders. These included orders to restore the terminated contracts, vacate the reduction in force of IES employees, and reverse the termination of remote access to restricted-use data. They also requested the court to prevent the defendants from taking any further actions that would hinder IES's ability to perform its legally required tasks and sought a temporary restraining order and preliminary injunction to immediately stop the shutdown of IES. Additionally, they asked for their legal costs and attorney\u2019s fees to be covered.\n\nSubsequently, on April 17, 2025, the plaintiffs filed a Motion for a Preliminary Injunction, detailing the harm the plaintiffs and their members were already experiencing due to the lack of access to IES data and the cancellation of research programs.\n\nOn June 3, Judge McFadden denied the plaintiffs' motion for a preliminary injunction. The court found that the plaintiffs were \"improperly bundling together a series of actions for wholesale correction rather than challenging one 'circumscribed [and] discrete' action.\" Instead of bringing a challenge to a discrete and final agency action, the plaintiffs brought a \u201cchallenge [to] an entire program by simply identifying specific allegedly-improper final agency actions within that program.\" The court also rejected the plaintiffs' constitutional claims, finding that they were simply repackaged APA claims to the \"entire program.\" Since the plaintiffs' APA claims failed, so too did the constitutional claims. Therefore, the court found that the plaintiffs were not likely to succeed on the merits of their claims, which doomed their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs filed an amended complaint on June 18. The amended complaint challenged the termination of eight specific programs run by the Department of Education: (1) the termination of the National Postsecondary Student Aid Study; \u00a0(2) the termination of the 2020/25 Beginning Postsecondary Students Longitudinal Study; (3) the termination of the High School Longitudinal Study of 2009; (4) the termination of the High School and Beyond Longitudinal Study of 2022; (5) the termination of the Early Childhood Longitudinal Study-Kindergarten: 2024; (6) the termination of IES\u2019s peer review program for new grant funding; (7) the termination of IES\u2019s program for remote access to restricted-use data; and (8) the termination of processing applications for access to restricted-use data. The amended complaint added/removed factual allegations and causes of action under the APA to match the new focus of the complaint.\n\nOn July 2, the defendants filed a motion to dismiss, arguing that the court still lacked jurisdiction over the plaintiffs' claims under the Tucker Act, and that the plaintiffs still were making a programmatic challenge, rather than a challenge to a discrete, final agency action as required by the APA.\n\nThe plaintiffs filed a second amended complaint on July 16. The second amended complaint removed the challenges to two of the terminations mentioned in the first amended complaint: the National Postsecondary Student Aid Study and IES's program for remote access to restricted-use data. The amended complaint also added more concrete allegations detailing how the remaining terminations caused harm to the plaintiffs and emphasized that the plaintiffs were challenging the final agency action of terminating the programs. Given the second amended complaint, the court denied as moot the defendants' motion to dismiss and ordered them to file a renewed motion by August 19.\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      6426,
+      6447
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            6426,
+            6447
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: The case remains ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            6426,
+            6447
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing (no trial on the merits concluded).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

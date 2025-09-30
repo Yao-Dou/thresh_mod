@@ -1,0 +1,1654 @@
+[
+  {
+    "id": "46348_p0",
+    "metadata": {
+      "case_id": "46348",
+      "paragraph_num": 0,
+      "total_paragraphs": 13,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining ri..."
+    },
+    "source": "",
+    "target": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.\n\nOn April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.\n\nThe plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.\n\nOn April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.\n\nOn May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.\n\nOn May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.\n\nOn May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.\n\nThe defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.\n\nWith Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.\n\nOn June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.\n\nHowever, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.\n\nBack in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.\n\nThe case remains ongoing.",
+    "target_paragraph": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.",
+    "target_paragraph_indices": [
+      0,
+      701
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            187,
+            414
+          ],
+          [
+            1071,
+            1230
+          ],
+          [
+            1418,
+            1647
+          ],
+          [
+            3758,
+            3975
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ultra vires and Separation of Powers claims challenging EO 14251 as exceeding presidential authority under the Foreign Service statutory scheme (FSA/FSLMRS), asserting the EO effectively repeals FSLMRS protections without a valid national security justification.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            1,
+            2,
+            7
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            187,
+            414
+          ]
+        ],
+        "annotation": {
+          "explanation": "Foreign Service Labor-Management Relations Statute (FSLMRS)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            0,
+            186
+          ],
+          [
+            187,
+            414
+          ],
+          [
+            6622,
+            6647
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 27, 2025\u2013present: Executive Order 14251 revoking collective bargaining rights for the majority of federal workers (including Section 3 excluding certain agency subdivisions from FSLMRS protections).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            0,
+            12
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            186
+          ],
+          [
+            703,
+            1070
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: President Trump, issuer of Executive Order 14251 challenged in the lawsuit.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            415,
+            654
+          ],
+          [
+            703,
+            1070
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Office of Personnel Management; its Acting Director issued a memorandum guiding implementation of the Executive Order.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            187,
+            414
+          ],
+          [
+            703,
+            1070
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of State.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            187,
+            414
+          ],
+          [
+            703,
+            1070
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Agency for International Development (USAID).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            0,
+            186
+          ],
+          [
+            187,
+            414
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 27, 2025: Executive Order 14251 issued by President Trump revoking collective bargaining rights for most federal workers and excluding certain Department of State and USAID subdivisions from FSLMRS.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            186
+          ],
+          [
+            187,
+            414
+          ]
+        ],
+        "annotation": {
+          "explanation": "On March 27, 2025, President Trump issued EO 14251 revoking most federal workers\u2019 collective bargaining rights on national security grounds; Section 3 excluded specified State and USAID subdivisions from FSLMRS protections.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            415,
+            654
+          ]
+        ],
+        "annotation": {
+          "explanation": "The Acting OPM Director issued an implementation memorandum on March 27, 2025, directing agencies and identifying excluded agencies/subdivisions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            187,
+            414
+          ]
+        ],
+        "annotation": {
+          "explanation": "FSLMRS provides protections for Foreign Service labor-management relations; Section 3 of the EO removed those protections for specified State/USAID subdivisions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "46348_p1",
+    "metadata": {
+      "case_id": "46348",
+      "paragraph_num": 1,
+      "total_paragraphs": 13,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that repres..."
+    },
+    "source": "",
+    "target": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.\n\nOn April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.\n\nThe plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.\n\nOn April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.\n\nOn May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.\n\nOn May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.\n\nOn May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.\n\nThe defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.\n\nWith Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.\n\nOn June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.\n\nHowever, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.\n\nBack in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.\n\nThe case remains ongoing.",
+    "target_paragraph": "On April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.",
+    "target_paragraph_indices": [
+      703,
+      1416
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            703,
+            1070
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 7, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1071,
+            1230
+          ],
+          [
+            1648,
+            1824
+          ],
+          [
+            1825,
+            2118
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment retaliation claim alleging the EO was issued to punish AFSA for protected speech and advocacy.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1071,
+            1230
+          ],
+          [
+            1418,
+            1647
+          ]
+        ],
+        "annotation": {
+          "explanation": "Separation of Powers (constitutional basis)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1071,
+            1230
+          ],
+          [
+            1662,
+            2118
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1231,
+            1369
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory and injunctive relief to bar enforcement of Executive Order 14251 and any accompanying guidance.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1370,
+            1416
+          ],
+          [
+            4841,
+            4980
+          ]
+        ],
+        "annotation": {
+          "explanation": "Paul L. Friedman",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            1,
+            9
+          ]
+        },
+        "id": 5
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            703,
+            1070
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            703,
+            1070
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            703,
+            1070
+          ],
+          [
+            1071,
+            1230
+          ],
+          [
+            1231,
+            1369
+          ],
+          [
+            1370,
+            1416
+          ]
+        ],
+        "annotation": {
+          "explanation": "AFSA (representing ~18,000 foreign service members) filed suit on April 7, 2025 in D.D.C. against President Trump, OPM, State, and USAID, alleging the EO exceeded presidential authority, violated Separation of Powers, and infringed First Amendment rights; they sought declaratory and injunctive relief; Judge Paul L. Friedman presides.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            721,
+            852
+          ]
+        ],
+        "annotation": {
+          "explanation": "AFSA is a federal labor union representing approximately 18,000 foreign service members.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            703,
+            1070
+          ],
+          [
+            1231,
+            1369
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed by AFSA in D.D.C. on April 7, 2025, seeking declaratory and injunctive relief against enforcement of EO 14251.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            703,
+            1070
+          ],
+          [
+            1370,
+            1416
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case initiated on April 7, 2025, in the U.S. District Court for the District of Columbia against multiple federal defendants; Judge Paul L. Friedman presiding.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": "46348_p2",
+    "metadata": {
+      "case_id": "46348",
+      "paragraph_num": 2,
+      "total_paragraphs": 13,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the F..."
+    },
+    "source": "",
+    "target": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.\n\nOn April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.\n\nThe plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.\n\nOn April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.\n\nOn May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.\n\nOn May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.\n\nOn May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.\n\nThe defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.\n\nWith Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.\n\nOn June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.\n\nHowever, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.\n\nBack in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.\n\nThe case remains ongoing.",
+    "target_paragraph": "The plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.",
+    "target_paragraph_indices": [
+      1418,
+      2118
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1648,
+            1824
+          ],
+          [
+            1825,
+            2118
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs assert the EO was retaliatory against AFSA\u2019s policy opposition, citing a White House fact sheet labeling unions as \u201chostile\u201d and \u201cat war,\u201d as evidence of First Amendment retaliation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46348_p3",
+    "metadata": {
+      "case_id": "46348",
+      "paragraph_num": 3,
+      "total_paragraphs": 13,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive ord..."
+    },
+    "source": "",
+    "target": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.\n\nOn April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.\n\nThe plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.\n\nOn April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.\n\nOn May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.\n\nOn May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.\n\nOn May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.\n\nThe defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.\n\nWith Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.\n\nOn June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.\n\nHowever, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.\n\nBack in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.\n\nThe case remains ongoing.",
+    "target_paragraph": "On April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.",
+    "target_paragraph_indices": [
+      2120,
+      2927
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2120,
+            2572
+          ],
+          [
+            2929,
+            3077
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction to block implementation/enforcement of Section 3 of Executive Order 14251 during the litigation.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            3,
+            4
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2120,
+            2572
+          ],
+          [
+            2573,
+            2927
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 14, 2025, plaintiffs sought a preliminary injunction, claiming irreparable harms: loss of statutory bargaining rights, 86% dues revenue loss, union officers forced back to regular duties, potential office closure and records loss, and member confusion; they argued the public interest and status quo favored an injunction.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2120,
+            2572
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for preliminary injunction filed on April 14, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2120,
+            2572
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs moved for a preliminary injunction on April 14, 2025, citing irreparable harms including loss of statutory rights, dues revenue, official time, potential office closure, and member confusion.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46348_p4",
+    "metadata": {
+      "case_id": "46348",
+      "paragraph_num": 4,
+      "total_paragraphs": 13,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking imp..."
+    },
+    "source": "",
+    "target": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.\n\nOn April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.\n\nThe plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.\n\nOn April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.\n\nOn May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.\n\nOn May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.\n\nOn May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.\n\nThe defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.\n\nWith Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.\n\nOn June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.\n\nHowever, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.\n\nBack in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.\n\nThe case remains ongoing.",
+    "target_paragraph": "On May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.",
+    "target_paragraph_indices": [
+      2929,
+      3211
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2929,
+            3077
+          ],
+          [
+            5915,
+            6006
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 14, 2025\u2013June 20, 2025: Preliminary injunction blocking implementation of Section 3 of Executive Order 14251.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            4,
+            10
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2929,
+            3077
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 14, 2025: Court granted a preliminary injunction blocking implementation of Section 3 of the Executive Order.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2929,
+            3077
+          ],
+          [
+            3078,
+            3211
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 14, 2025, the district court granted a preliminary injunction, blocking Section 3, finding the EO ultra vires and that plaintiffs faced irreparable harm.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2929,
+            3077
+          ],
+          [
+            3078,
+            3211
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court granted preliminary injunction on May 14, 2025, blocking Section 3 of EO 14251.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2929,
+            3077
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction entered on May 14, 2025, enjoining defendants from implementing Section 3 of Executive Order 14251.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2929,
+            3077
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction ordering defendants not to implement or enforce Section 3 of Executive Order 14251.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2929,
+            3211
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court granted a preliminary injunction on May 14, 2025, blocking Section 3 of the Executive Order; held the Order ultra vires and found irreparable harm.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2929,
+            3211
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 14, 2025 \u2014 Preliminary injunction granted, blocking implementation of Section 3; court found the Order ultra vires and irreparable harm.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46348_p5",
+    "metadata": {
+      "case_id": "46348",
+      "paragraph_num": 5,
+      "total_paragraphs": 13,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit."
+    },
+    "source": "",
+    "target": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.\n\nOn April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.\n\nThe plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.\n\nOn April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.\n\nOn May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.\n\nOn May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.\n\nOn May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.\n\nThe defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.\n\nWith Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.\n\nOn June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.\n\nHowever, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.\n\nBack in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.\n\nThe case remains ongoing.",
+    "target_paragraph": "On May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.",
+    "target_paragraph_indices": [
+      3213,
+      3301
+    ],
+    "edits": [
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            3213,
+            3301
+          ],
+          [
+            5915,
+            6006
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: Defendants appealed to the D.C. Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": [
+            5,
+            10
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3213,
+            3301
+          ],
+          [
+            3303,
+            3520
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants appealed to the D.C. Circuit on May 21, 2025, and on May 22 sought an administrative stay and stay pending appeal in both the circuit and district courts.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3213,
+            3301
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed notice of appeal to the D.C. Circuit on May 21, 2025, challenging the preliminary injunction.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3213,
+            3301
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants appealed the preliminary injunction to the D.C. Circuit on May 21, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46348_p6",
+    "metadata": {
+      "case_id": "46348",
+      "paragraph_num": 6,
+      "total_paragraphs": 13,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of..."
+    },
+    "source": "",
+    "target": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.\n\nOn April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.\n\nThe plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.\n\nOn April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.\n\nOn May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.\n\nOn May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.\n\nOn May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.\n\nThe defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.\n\nWith Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.\n\nOn June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.\n\nHowever, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.\n\nBack in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.\n\nThe case remains ongoing.",
+    "target_paragraph": "On May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.",
+    "target_paragraph_indices": [
+      3303,
+      3520
+    ],
+    "edits": [
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3303,
+            3431
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction on May 22, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3432,
+            3520
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a motion for stay pending appeal in the district court on May 22, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3303,
+            3520
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 22, 2025, defendants sought an immediate administrative stay and a stay pending appeal in the D.C. Circuit, and also moved for a stay pending appeal in the district court.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46348_p7",
+    "metadata": {
+      "case_id": "46348",
+      "paragraph_num": 7,
+      "total_paragraphs": 13,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The defendants contended that the district court lacked jurisdiction because the Foreign Service Act..."
+    },
+    "source": "",
+    "target": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.\n\nOn April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.\n\nThe plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.\n\nOn April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.\n\nOn May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.\n\nOn May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.\n\nOn May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.\n\nThe defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.\n\nWith Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.\n\nOn June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.\n\nHowever, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.\n\nBack in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.\n\nThe case remains ongoing.",
+    "target_paragraph": "The defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.",
+    "target_paragraph_indices": [
+      3522,
+      4431
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            3522,
+            3757
+          ],
+          [
+            3758,
+            3975
+          ],
+          [
+            6007,
+            6276
+          ]
+        ],
+        "annotation": {
+          "explanation": "Foreign Service Act (FSA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            7,
+            10
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3522,
+            3757
+          ],
+          [
+            3758,
+            3975
+          ],
+          [
+            3976,
+            4235
+          ],
+          [
+            4236,
+            4431
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants argued lack of district court jurisdiction (exclusive FSA procedures via the Foreign Service Labor Relations Board), presidential discretion under the FSA to exclude agencies for national security, no irreparable harm to plaintiffs, harm to presidential national-security prerogatives from the injunction, and equities favoring a stay.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46348_p8",
+    "metadata": {
+      "case_id": "46348",
+      "paragraph_num": 8,
+      "total_paragraphs": 13,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "With Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025,..."
+    },
+    "source": "",
+    "target": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.\n\nOn April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.\n\nThe plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.\n\nOn April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.\n\nOn May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.\n\nOn May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.\n\nOn May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.\n\nThe defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.\n\nWith Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.\n\nOn June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.\n\nHowever, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.\n\nBack in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.\n\nThe case remains ongoing.",
+    "target_paragraph": "With Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.",
+    "target_paragraph_indices": [
+      4433,
+      4839
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            4433,
+            4516
+          ],
+          [
+            4517,
+            4664
+          ]
+        ],
+        "annotation": {
+          "explanation": "Randolph D. Moss",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4517,
+            4664
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 30, 2025: Judge Moss deferred ruling on the stay request.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4433,
+            4839
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 30, 2025, Judge Moss deferred ruling on the stay, noting the defendants\u2019 week-long delay weakened their irreparable-harm claim and citing procedural circumstances.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4433,
+            4516
+          ],
+          [
+            4517,
+            4664
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 30, 2025, Judge Moss deferred ruling on defendants\u2019 district-court motion for stay pending appeal.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4433,
+            4516
+          ],
+          [
+            4517,
+            4839
+          ]
+        ],
+        "annotation": {
+          "explanation": "Due to Judge Friedman\u2019s unavailability, the district court stay motion was referred to Judge Randolph D. Moss, who on May 30, 2025 deferred ruling, citing defendants\u2019 delay and the D.C. Circuit\u2019s expedited consideration.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4433,
+            4516
+          ],
+          [
+            4517,
+            4664
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 30, 2025 \u2014 District court (Judge Randolph D. Moss) deferred ruling on defendants\u2019 stay request.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46348_p9",
+    "metadata": {
+      "case_id": "46348",
+      "paragraph_num": 9,
+      "total_paragraphs": 13,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not s..."
+    },
+    "source": "",
+    "target": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.\n\nOn April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.\n\nThe plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.\n\nOn April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.\n\nOn May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.\n\nOn May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.\n\nOn May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.\n\nThe defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.\n\nWith Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.\n\nOn June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.\n\nHowever, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.\n\nBack in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.\n\nThe case remains ongoing.",
+    "target_paragraph": "On June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.",
+    "target_paragraph_indices": [
+      4841,
+      5913
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            4841,
+            4997
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025 WL 1695059",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            5170,
+            5464
+          ],
+          [
+            5756,
+            5913
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: National Treasury Employees Union, D.C. Circuit, No. 25-5157 (internal case ID: ../../../../case/46319/). The district court noted it recognized potential irreparable harm in a national security context but distinguished it and rejected defendants\u2019 reliance on it.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4841,
+            4997
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 17, 2025: Judge Friedman denied the motion for a stay.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4841,
+            4997
+          ],
+          [
+            4998,
+            5169
+          ],
+          [
+            5170,
+            5464
+          ],
+          [
+            5465,
+            5755
+          ],
+          [
+            5756,
+            5913
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 17, 2025, Judge Friedman denied a stay (2025 WL 1695059), finding defendants unlikely to succeed, defendants\u2019 harm minimal as the injunction preserved the status quo, plaintiffs faced immense irreparable harms (disrupted communications, lost official time, halted dues deductions), and distinguishing the NTEU case and related FAQ.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4841,
+            4997
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court denied defendants\u2019 motion for stay pending appeal on June 17, 2025 (2025 WL 1695059).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4841,
+            4980
+          ]
+        ],
+        "annotation": {
+          "explanation": "District court denied defendants\u2019 motion for a stay pending appeal; the preliminary injunction remained in effect.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4841,
+            4997
+          ],
+          [
+            4998,
+            5169
+          ],
+          [
+            5465,
+            5755
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 17, 2025, Judge Friedman denied the stay pending appeal (2025 WL 1695059), finding no likelihood of success, minimal harm to defendants, and immense irreparable injury to plaintiffs.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4841,
+            4997
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 17, 2025 \u2014 District court (Judge Paul L. Friedman) denied motion for stay pending appeal; citation: 2025 WL 1695059.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46348_p10",
+    "metadata": {
+      "case_id": "46348",
+      "paragraph_num": 10,
+      "total_paragraphs": 13,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "However, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The cour..."
+    },
+    "source": "",
+    "target": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.\n\nOn April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.\n\nThe plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.\n\nOn April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.\n\nOn May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.\n\nOn May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.\n\nOn May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.\n\nThe defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.\n\nWith Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.\n\nOn June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.\n\nHowever, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.\n\nBack in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.\n\nThe case remains ongoing.",
+    "target_paragraph": "However, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.",
+    "target_paragraph_indices": [
+      5915,
+      6529
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            6277,
+            6429
+          ]
+        ],
+        "annotation": {
+          "explanation": "Article II (Presidential powers) implicated in appellate review",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            5915,
+            6006
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025 WL 1742853",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            5915,
+            6006
+          ],
+          [
+            6622,
+            6647
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 20, 2025\u2013present (pending appeal): D.C. Circuit stay pending appeal of the preliminary injunction.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": [
+            10,
+            12
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            5915,
+            6006
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 20, 2025: The D.C. Circuit granted a stay pending appeal.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            6430,
+            6529
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 30: The court denied rehearing en banc.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5915,
+            6006
+          ],
+          [
+            6007,
+            6276
+          ],
+          [
+            6277,
+            6429
+          ],
+          [
+            6430,
+            6529
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 20, 2025, the D.C. Circuit granted a stay pending appeal (2025 WL 1742853), reasoning that foreign affairs implicate national security, the EO likely aligns with FSA delegation to the President, and such determinations warrant high deference; rehearing en banc was sought July 14 and denied July 30.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            5915,
+            6006
+          ]
+        ],
+        "annotation": {
+          "explanation": "D.C. Circuit granted stay pending appeal on June 20, 2025 (2025 WL 1742853).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            6430,
+            6529
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a motion for rehearing en banc on July 14, 2025; denied on July 30, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            5915,
+            5989
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 20, 2025, the D.C. Circuit stayed the district court\u2019s preliminary injunction pending appeal.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            5915,
+            6006
+          ]
+        ],
+        "annotation": {
+          "explanation": "D.C. Circuit granted a stay pending appeal, staying the district court\u2019s preliminary injunction.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5915,
+            6006
+          ],
+          [
+            6007,
+            6276
+          ],
+          [
+            6277,
+            6429
+          ],
+          [
+            6430,
+            6529
+          ]
+        ],
+        "annotation": {
+          "explanation": "On June 20, 2025, the D.C. Circuit granted a stay pending appeal (2025 WL 1742853), citing deference to the President\u2019s national security determinations; plaintiffs\u2019 rehearing en banc request filed July 14 was denied on July 30.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            5915,
+            6006
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 20, 2025 \u2014 D.C. Circuit granted stay pending appeal; citation: 2025 WL 1742853.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            6430,
+            6529
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 30, 2025 \u2014 D.C. Circuit denied plaintiffs\u2019 motion for rehearing en banc.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": "46348_p11",
+    "metadata": {
+      "case_id": "46348",
+      "paragraph_num": 11,
+      "total_paragraphs": 13,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Back in the district court, on August 4, 2025, the plaintiffs moved for summary judgment."
+    },
+    "source": "",
+    "target": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.\n\nOn April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.\n\nThe plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.\n\nOn April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.\n\nOn May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.\n\nOn May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.\n\nOn May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.\n\nThe defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.\n\nWith Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.\n\nOn June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.\n\nHowever, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.\n\nBack in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.\n\nThe case remains ongoing.",
+    "target_paragraph": "Back in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.",
+    "target_paragraph_indices": [
+      6531,
+      6620
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            6531,
+            6620
+          ],
+          [
+            6622,
+            6647
+          ]
+        ],
+        "annotation": {
+          "explanation": "On August 4, 2025, plaintiffs moved for summary judgment in the district court; the case is ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            11,
+            12
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            6531,
+            6620
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for summary judgment filed in the district court on August 4, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            6531,
+            6620
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs moved for summary judgment in the district court on August 4, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46348_p12",
+    "metadata": {
+      "case_id": "46348",
+      "paragraph_num": 12,
+      "total_paragraphs": 13,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case remains ongoing."
+    },
+    "source": "",
+    "target": "Executive Order 14251, issued by President Trump on March 27, 2025, revoked collective bargaining rights for the majority of federal workers, citing \u201cnational security\u201d as justification. Section 3 of the Executive Order specifically excluded employees of certain \u201cagency subdivisions\u201d within the Department of State and USAID from the protections of the Foreign Service Labor-Management Relations Statute (FSLMRS). On the same day, the Acting Director of the Office of Personnel Management issued a memorandum guiding departments and agencies on implementing the Executive Order, including identifying which agencies and subdivisions were to be excluded. This lawsuit challenges Executive Order 14251.\n\nOn April 7, 2025, the American Foreign Service Association (AFSA), a federal labor union that represents approximately 18,000 foreign service members, filed this lawsuit in the U.S. District Court for the District of Columbia against President Trump, the Office of Personnel Management, the U.S. Department of State, and the U.S. Agency for International Development. The plaintiffs claimed that the Executive Order exceeded the President's authority, violated the Separation of Powers, and infringed on First Amendment rights. The plaintiffs sought declaratory and injunctive relief to bar defendants from enforcing the Executive Order or any accompanying guidance. Judge Paul L. Friedman presides over the case.\n\nThe plaintiffs argued that the Executive Order was ultra vires because it effectively repealed the FSLMRS without a valid national security justification, a power reserved for Congress, thereby violating the Separation of Powers. Additionally, the plaintiffs alleged the Executive Order constituted politically motivated retaliation, issued in response to the union's opposition to administration policies. Citing a White House \u201cfact sheet\u201d that described federal unions as \u201chostile\u201d and at \u201cwar\u201d with the President\u2019s agenda, the plaintiffs claimed the Executive Order violated their First Amendment rights and sought to punish the union for defending the nonpartisan integrity of American diplomacy.\n\nOn April 14, 2025, the plaintiffs moved for a preliminary injunction, arguing that the Executive order caused irreparable harm, including the deprivation of statutory rights to organize and bargain collectively, the loss of 86% of the union\u2019s revenue from dues, the forced return of union officers to regular duties, the potential closure of AFSA\u2019s offices and loss of records, and member confusion over whether union representation remained available. The plaintiffs maintained that an injunction served the public interest, noting that Congress recognized collective bargaining as essential to the effective conduct of public business. The plaintiffs emphasized that preserving the status quo would not harm the defendants, whereas the union and its members would suffer significant injury without relief.\n\nOn May 14, 2025, the court granted the plaintiffs\u2019 motion for a preliminary injunction, blocking implementation of Section 3 of the Executive Order. The court held that the Order was ultra vires and that the union and its members would suffer irreparable harm without an injunction.\n\nOn May 21, 2025, the defendants appealed the preliminary injunction to the D.C. Circuit.\n\nOn May 22, 2025, the defendants sought an immediate administrative stay and a stay pending appeal of the preliminary injunction. That same day, they also filed a motion for a stay pending appeal in the district court.\n\nThe defendants contended that the district court lacked jurisdiction because the Foreign Service Act (FSA) provides the exclusive procedures for labor-management claims, which must be heard by the Foreign Service Labor Relations Board. They maintained that the Executive Order was lawful, as the President has discretion under the FSA to exclude agencies for national security reasons, and that the court erred by failing to defer to this determination. The defendants further argued that the plaintiffs could not demonstrate irreparable harm, noting their ability to collect dues and potential for reimbursement, while the injunction itself harmed the President by restricting his national security prerogatives. Finally, they asserted that the equitable factors overwhelmingly favored a stay, claiming that the district court had usurped a national-security authority statutorily entrusted to the President.\n\nWith Judge Friedman unavailable, the motion was referred to Judge Randolph D. Moss. On May 30, 2025, Judge Moss deferred ruling, noting that defendants\u2019 week-long delay in seeking a stay undermined their claims of irreparable harm. He explained that Judge Friedman\u2019s absence and the D.C. Circuit\u2019s expedited consideration made deferral appropriate, though Friedman could revisit the matter upon his return.\n\nOn June 17, 2025, Judge Friedman denied the motion for a stay, finding that the defendants had not shown a likelihood of success on appeal. 2025 WL 1695059. The court held that any harm to the defendants was minimal, as the injunction preserved the status quo by maintaining collective bargaining rights established by Congress. While noting that a related D.C. Circuit case, National Treasury Employees Union [../../../../case/46319/], No. 25-5157, recognized potential irreparable harm in a national security context, the court distinguished that case, concluding the defendants had not demonstrated comparable harm here. In contrast, the plaintiffs would suffer \u201cimmense and irreparable injury\u201d without an injunction, including disrupted communications with union representatives, loss of official time for union officers, and termination of union dues deductions, all of which impeded the union\u2019s core mission. The court rejected the defendants\u2019 reliance on National Treasury Employees Union, noting that a cited \u201cFrequently Asked Questions\u201d document was inapplicable.\n\nHowever, on June 20, 2025, the D.C. Circuit granted a stay pending appeal. 2025 WL 1742853. The court reasoned that \u201cforeign affairs are critical to national security,\u201d and that the defendants were likely correct in asserting that the Executive Order was consistent with the Foreign Service Act\u2019s delegation of national-security determinations to the President. The court emphasized that review of such decisions should be highly deferential, since they implicated the President\u2019s core Article II responsibilities. On July 14, the plaintiffs filed a motion for rehearing en banc, which the court denied on July 30.\n\nBack in the district court, on August 4, 2025, the plaintiffs moved for summary judgment.\n\nThe case remains ongoing.",
+    "target_paragraph": "The case remains ongoing.",
+    "target_paragraph_indices": [
+      6622,
+      6647
+    ],
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            6622,
+            6647
+          ]
+        ],
+        "annotation": {
+          "explanation": "No final judgment or trial; litigation remains ongoing.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

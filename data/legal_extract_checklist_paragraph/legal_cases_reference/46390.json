@@ -1,0 +1,2006 @@
+[
+  {
+    "id": "46390_p0",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 0,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemie..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].",
+    "target_paragraph_indices": [
+      0,
+      354
+    ],
+    "edits": [
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            0,
+            199
+          ],
+          [
+            1431,
+            1600
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment Due Process Clause \u2014 alleged constitutional violation",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            199
+          ]
+        ],
+        "annotation": {
+          "explanation": "Context: Part of multiple class actions challenging the Administration\u2019s use of the AEA allegedly to circumvent removal procedures and deport Venezuelan nationals without due process.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46390_p1",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 1,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action ..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "On April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.",
+    "target_paragraph_indices": [
+      356,
+      824
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            356,
+            529
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 12, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            356,
+            529
+          ]
+        ],
+        "annotation": {
+          "explanation": "Cause of action vehicle: Petition for writ of habeas corpus (filed as a class action).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            356,
+            529
+          ],
+          [
+            1601,
+            1713
+          ]
+        ],
+        "annotation": {
+          "explanation": "Writ of habeas corpus (release from detention)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            356,
+            529
+          ],
+          [
+            4096,
+            4411
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Class Action",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            1,
+            10
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            356,
+            529
+          ],
+          [
+            721,
+            824
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Venezuelan man (petitioner; detained at the Denver Contract Detention Facility)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            356,
+            529
+          ],
+          [
+            721,
+            824
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Venezuelan man (petitioner; detained at the Denver Contract Detention Facility)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            530,
+            824
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: President Donald J. Trump (President of the United States)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            530,
+            824
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Justice",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            530,
+            824
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Homeland Security",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            530,
+            824
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Immigration and Customs Enforcement (ICE)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            530,
+            824
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of State",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            530,
+            824
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Denver Contract Detention Facility (Colorado ICE facility where petitioners are held)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            356,
+            529
+          ],
+          [
+            530,
+            824
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petitioners are two Venezuelan nationals detained at the Denver Contract Detention Facility; they filed a habeas and class action on April 12, 2025 in the District of Colorado against the President and multiple federal agencies/facility.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            356,
+            529
+          ]
+        ],
+        "annotation": {
+          "explanation": "Petition for writ of habeas corpus and class action complaint filed on April 12, 2025 (D. Colo.).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            356,
+            529
+          ],
+          [
+            2235,
+            2364
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing and initial motions: Habeas and class action filed Apr 12, 2025; emergency TRO motion and motion to certify class filed concurrently.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            1,
+            5
+          ]
+        },
+        "id": 14
+      }
+    ]
+  },
+  {
+    "id": "46390_p2",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 2,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Represented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, th..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "Represented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.",
+    "target_paragraph_indices": [
+      826,
+      1429
+    ],
+    "edits": [
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            826,
+            923
+          ]
+        ],
+        "annotation": {
+          "explanation": "ACLU (national)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            826,
+            923
+          ]
+        ],
+        "annotation": {
+          "explanation": "ACLU (state affiliate)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            826,
+            923
+          ]
+        ],
+        "annotation": {
+          "explanation": "Immigrant advocacy organization",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1213,
+            1429
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 15, 2025: President Trump issued a proclamation declaring the United States was \u201cunder invasion\u201d by Tren de Aragua and invoking the Alien Enemies Act.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1213,
+            1429
+          ]
+        ],
+        "annotation": {
+          "explanation": "Triggering event: Presidential Proclamation invoking the AEA based on an asserted \u201cinvasion\u201d by Tren de Aragua (TdA), a Venezuelan gang and designated FTO.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            826,
+            1089
+          ]
+        ],
+        "annotation": {
+          "explanation": "Core claim: Government\u2019s use of the AEA to remove petitioners without any hearing or judicial review.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1090,
+            1212
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: The AEA is a wartime authority for removing citizens of countries at war with the United States.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            826,
+            923
+          ]
+        ],
+        "annotation": {
+          "explanation": "Representation: Petitioners are represented by the ACLU, ACLU of Colorado, and Rocky Mountain Immigrant Advocacy Network.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46390_p3",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 3,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the F..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "The petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.",
+    "target_paragraph_indices": [
+      1431,
+      1772
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1431,
+            1600
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory claim: Violation of the Immigration and Nationality Act (INA).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1431,
+            1600
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory claim: Violation of the Foreign Affairs Reform and Restructuring Act (FARRA).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1431,
+            1600
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim: Violation of the Fifth Amendment (due process).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1601,
+            1713
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought under the cause of action: habeas release; injunctive and declaratory relief.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1431,
+            1600
+          ]
+        ],
+        "annotation": {
+          "explanation": "Immigration and Nationality Act (INA) \u2014 alleged statutory violation",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1431,
+            1600
+          ]
+        ],
+        "annotation": {
+          "explanation": "Foreign Affairs Reform and Restructuring Act (FARRA) \u2014 alleged statutory violation",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1601,
+            1713
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1601,
+            1713
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1714,
+            1772
+          ]
+        ],
+        "annotation": {
+          "explanation": "Charlotte Sweeney",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1431,
+            1600
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged legal violations: INA, Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1601,
+            1713
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: habeas release from detention plus injunctive and declaratory relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1714,
+            1772
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assigned to District Judge Charlotte Sweeney.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": "46390_p4",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 4,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "This action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.",
+    "target_paragraph_indices": [
+      1774,
+      2233
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1774,
+            1959
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case authority informing the cause-of-action vehicle: J.G.G. v. Trump (U.S. Supreme Court) \u2014 AEA removal challenges must be brought via habeas.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            1774,
+            1959
+          ],
+          [
+            1960,
+            2233
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: J.G.G. v. Trump (case code 46232). U.S. Supreme Court decision holding AEA removals must be challenged via habeas; vacated a D.D.C. TRO for improper venue because habeas must be filed in the district of confinement.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1774,
+            1959
+          ],
+          [
+            1960,
+            2233
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural background: Supreme Court guidance in J.G.G. v. Trump required AEA removal challenges to be brought via habeas in the district of confinement.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46390_p5",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 5,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Along with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "Along with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.",
+    "target_paragraph_indices": [
+      2235,
+      2612
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2235,
+            2364
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order (TRO)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2365,
+            2516
+          ]
+        ],
+        "annotation": {
+          "explanation": "while the case proceeded: order that the petitioners were not to be removed from the United States or the District of Colorado.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2365,
+            2516
+          ],
+          [
+            2517,
+            2612
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 14: The Court ordered that petitioners were not to be removed from the United States or the District of Colorado while the case proceeded, set a TRO briefing schedule, and scheduled a hearing for April 21.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2365,
+            2516
+          ],
+          [
+            2614,
+            2928
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency protections: Court barred removal from the U.S. or the District of Colorado and later required 21-day notice before any AEA detention.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            5,
+            6
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2235,
+            2364
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency motion for temporary restraining order (TRO) filed by petitioners on April 12, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2235,
+            2364
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion to certify class filed by petitioners on April 12, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2365,
+            2612
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 14, 2025 order: temporary no-removal order; court set TRO briefing schedule and set TRO hearing for April 21.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2365,
+            2516
+          ]
+        ],
+        "annotation": {
+          "explanation": "Respondents were ordered not to remove the petitioners from the United States or from the District of Colorado while the case was ongoing.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2365,
+            2516
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 14 TRO: Respondents are barred from removing the petitioners from the United States or from the District of Colorado while the case proceeds.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2365,
+            2612
+          ]
+        ],
+        "annotation": {
+          "explanation": "Apr 14 order: interim non-removal from U.S. and District of Colorado; TRO briefing schedule set; TRO hearing scheduled for Apr 21.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2235,
+            2364
+          ],
+          [
+            2365,
+            2612
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 14, 2025 (D. Colo.): Court granted emergency TRO relief, ordering that petitioners not be removed from the U.S. or the District of Colorado while the case proceeded and set a TRO briefing schedule and hearing.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "46390_p6",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 6,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Judge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents ..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "Judge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.",
+    "target_paragraph_indices": [
+      2614,
+      3170
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2614,
+            2928
+          ]
+        ],
+        "annotation": {
+          "explanation": "14-day: TRO prohibiting removal of petitioners and class members from the District of Colorado.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2614,
+            2928
+          ]
+        ],
+        "annotation": {
+          "explanation": "21-day: notice requirement before detaining petitioners and class members pursuant to the AEA.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2929,
+            3035
+          ]
+        ],
+        "annotation": {
+          "explanation": "within three days: petitioner to file any motion for a preliminary injunction (PI).",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2614,
+            2928
+          ],
+          [
+            2929,
+            3035
+          ],
+          [
+            3036,
+            3170
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 21, 2025: 14-day TRO granted; barred removal from District of Colorado; required 21-day notice before detention under AEA; directed filing of any PI motion within 3 days; set class-cert briefing deadlines.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2614,
+            2928
+          ]
+        ],
+        "annotation": {
+          "explanation": "Respondents were prohibited from removing petitioners and class members from the District of Colorado and required to provide 21 days\u2019 notice before detaining them under the AEA.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2614,
+            2928
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 21 TRO (14 days): Respondents are prohibited from removing petitioners and class members from the District of Colorado and must provide 21 days\u2019 notice before detaining them pursuant to the AEA.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2614,
+            2928
+          ],
+          [
+            2929,
+            3035
+          ],
+          [
+            3036,
+            3170
+          ]
+        ],
+        "annotation": {
+          "explanation": "Apr 21 hearing held; 14-day TRO issued: barred removal from District of Colorado, required 21-day notice for AEA detention; PI motion due in 3 days; class cert response due Apr 28 and reply due May 2.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2614,
+            2928
+          ],
+          [
+            2929,
+            3035
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 21, 2025 (D. Colo.): Court issued a 14-day TRO prohibiting removal of petitioners and class members from the District of Colorado and requiring 21-day notice before any AEA detention; directed petitioner to file any PI motion within three days.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46390_p7",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 7,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Respondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA ca..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "Respondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.",
+    "target_paragraph_indices": [
+      3172,
+      3768
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            3172,
+            3288
+          ],
+          [
+            3417,
+            3619
+          ],
+          [
+            3620,
+            3768
+          ]
+        ],
+        "annotation": {
+          "explanation": "Tenth Circuit appeal of the district court TRO (USCA case no. 25-1164). Emergency stay pending appeal was denied on April 29 for lack of irreparable-injury showing.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            3172,
+            3288
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: Respondents appealed to the U.S. Court of Appeals for the Tenth Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3289,
+            3416
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 24: Judge Sweeney denied respondents\u2019 emergency motion for a stay pending appeal.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3289,
+            3416
+          ],
+          [
+            3417,
+            3619
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 24: The Tenth Circuit ordered petitioner-appellee to respond by April 26, with any reply due by April 27, on respondents\u2019 emergency stay motion pending appeal.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3620,
+            3768
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 29: The Court of Appeals denied the government\u2019s emergency stay motion.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3620,
+            3768
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appellate interlocutory fact: Tenth Circuit denied an emergency stay for failure to show irreparable injury.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3172,
+            3288
+          ]
+        ],
+        "annotation": {
+          "explanation": "Notice of appeal of TRO filed by respondents to the Tenth Circuit on April 23, 2025 (Case No. 25-1164).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3289,
+            3416
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency motion for stay pending appeal filed by respondents in district court; denied on April 24, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3417,
+            3619
+          ],
+          [
+            3620,
+            3768
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency stay motion pending appeal filed by respondents in the Tenth Circuit on April 24, 2025; denied on April 29, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3172,
+            3416
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal and stay: Government appealed TRO to 10th Cir (No. 25-1164) on Apr 23; district court denied emergency stay pending appeal on Apr 24.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3417,
+            3619
+          ],
+          [
+            3620,
+            3768
+          ]
+        ],
+        "annotation": {
+          "explanation": "10th Cir emergency stay motion: expedited briefing (response by Apr 26; reply by Apr 27); denied Apr 29 for lack of irreparable injury.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3289,
+            3416
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 24, 2025 (D. Colo.): Emergency motion for stay pending appeal denied.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3417,
+            3619
+          ],
+          [
+            3620,
+            3768
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 29, 2025 (10th Cir.): Emergency stay pending appeal denied for lack of irreparable-injury showing.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": "46390_p8",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 8,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed t..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "The petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.",
+    "target_paragraph_indices": [
+      3770,
+      3944
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3770,
+            3846
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction (PI)",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3770,
+            3944
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for preliminary injunction filed by petitioner on April 25, 2025; briefing completed May 2, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3770,
+            3944
+          ]
+        ],
+        "annotation": {
+          "explanation": "PI motion practice: PI filed Apr 25; respondents\u2019 response five days later; petitioner\u2019s subsequent filing on May 2.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3770,
+            3846
+          ],
+          [
+            4981,
+            5169
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 6, 2025 (D. Colo.): Preliminary injunction granted; government ordered not to detain, transfer, or remove petitioners and class members from the District of Colorado.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            8,
+            12
+          ]
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46390_p9",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 9,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Briefing on the class certification motion took place according to the court's schedule included in ..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "Briefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.",
+    "target_paragraph_indices": [
+      3946,
+      4094
+    ],
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3946,
+            4094
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification briefing concluded on May 2 per the TRO-order schedule.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3946,
+            4094
+          ],
+          [
+            4096,
+            4411
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 6, 2025 (D. Colo.): Motion for class certification granted; class certified under Rule 23(b)(2).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            9,
+            10
+          ]
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46390_p10",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 10,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "On May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"",
+    "target_paragraph_indices": [
+      4096,
+      4411
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4096,
+            4411
+          ],
+          [
+            4981,
+            5169
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 6: Judge Sweeney certified a class and entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and class members from the District of Colorado.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": [
+            10,
+            12
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4096,
+            4411
+          ],
+          [
+            4493,
+            4619
+          ],
+          [
+            4729,
+            4979
+          ]
+        ],
+        "annotation": {
+          "explanation": "Certified class: Noncitizens in custody in the District of Colorado subject to the March 2025 Proclamation or its implementation; commonality based on shared risk of deportation under the Proclamation; class certified under Rule 23(b)(2).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            10,
+            11
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4096,
+            4411
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order granting motion for class certification on May 6, 2025; class defined as described.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4096,
+            4411
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification granted May 6; class defined as quoted.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46390_p11",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 11,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Judge Sweeney examined closely each of the requirements for certifying a class, holding most importa..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "Judge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d",
+    "target_paragraph_indices": [
+      4413,
+      4979
+    ],
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4413,
+            4728
+          ],
+          [
+            4729,
+            4979
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification reasoning: commonality based on risk of deportation under the Proclamation; certified under Rule 23(b)(2) due to cohesiveness and uniform injunctive relief.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46390_p12",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 12,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Judge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer,..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "Judge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.",
+    "target_paragraph_indices": [
+      4981,
+      5169
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4981,
+            5169
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction: Government enjoined from detaining, transferring, or removing petitioners and class members from the District of Colorado.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4981,
+            5169
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction entered on May 6, 2025, barring detention, transfer, or removal of petitioners and class members from the District of Colorado.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4981,
+            5169
+          ]
+        ],
+        "annotation": {
+          "explanation": "The government was ordered not to detain, transfer, or remove the petitioners and certified class members from the District of Colorado.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4981,
+            5169
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary Injunction: The government is ordered not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4981,
+            5169
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted May 6: government enjoined from detaining, transferring, or removing petitioners and class members from the District of Colorado.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46390_p13",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 13,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Judge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "Judge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,",
+    "target_paragraph_indices": [
+      5171,
+      6023
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5171,
+            5335
+          ],
+          [
+            5337,
+            5442
+          ]
+        ],
+        "annotation": {
+          "explanation": "Merits likelihood: Court found AEA \u201cinvasion\u201d requires military action by a foreign nation government and the Proclamation did not establish TdA as such.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5443,
+            5638
+          ]
+        ],
+        "annotation": {
+          "explanation": "Irreparable harm basis: Risk tied in part to dangerous detention conditions at El Salvador\u2019s CECOT.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5640,
+            6023
+          ]
+        ],
+        "annotation": {
+          "explanation": "Public interest/equities: Preventing wrongful removals and exposure to harmful conditions outweighs government harm; Title 8 remains available to the government.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46390_p14",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 14,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lac..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "In reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d",
+    "target_paragraph_indices": [
+      6025,
+      6431
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            6025,
+            6230
+          ]
+        ],
+        "annotation": {
+          "explanation": "Standing finding: Substantial risk that petitioners would be subjected to the Proclamation despite their current non-designation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46390_p15",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 15,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Judge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the peti..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "Judge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.",
+    "target_paragraph_indices": [
+      6433,
+      6696
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            6433,
+            6696
+          ]
+        ],
+        "annotation": {
+          "explanation": "Jurisdictional background: Court rejected arguments based on presidential power, political question doctrine, and other jurisdictional challenges.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            6433,
+            6696
+          ]
+        ],
+        "annotation": {
+          "explanation": "Rulings on defenses: court rejected government\u2019s standing and jurisdiction challenges (including presidential power and political question), finding substantial risk of harm.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46390_p16",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 16,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 7, the government appealed the injunction and class certification to the U.S. Circuit Court ..."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "On July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).",
+    "target_paragraph_indices": [
+      6698,
+      6839
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            6698,
+            6839
+          ]
+        ],
+        "annotation": {
+          "explanation": "Tenth Circuit appeal of the preliminary injunction and class certification (Case No. 25-1265), filed July 7.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            6698,
+            6839
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: The government appealed to the U.S. Circuit Court for the Tenth Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            6698,
+            6839
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal status: Government appealed the preliminary injunction and class certification to the Tenth Circuit on July 7, 2025 (No. 25-1265).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            6698,
+            6839
+          ]
+        ],
+        "annotation": {
+          "explanation": "Notice of appeal filed July 7, 2025, by the government to the Tenth Circuit challenging the preliminary injunction and class certification (Case No. 25-1265).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            6698,
+            6839
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal filed Jul 7: government appealed PI and class certification to 10th Cir (Case No. 25-1265).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46390_p17",
+    "metadata": {
+      "case_id": "46390",
+      "paragraph_num": 17,
+      "total_paragraphs": 18,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "This is one of several class action challenges to the Trump Administration's use of the Alien Enemies Act (\"AEA\") to circumvent removal procedures and deport Venezuelan nationals without due process. You can see all of the cases here [../../../../search/case/?advanced_search=true&plaintiff_description=Alien+Enemies+Act&ordering=-summary_approved_date].\n\nOn April 12, 2025, two Venezuelan men filed a petition for writ of habeas corpus and a class action lawsuit in the United States District Court for the District of Colorado. They named as respondents President Donald J. Trump, the Department of Justice, the Department of Homeland Security, Immigration and Customs Enforcement (\u201cICE\u201d), the Department of State, and the Denver Contract Detention Facility, the Colorado ICE facility where the petitioners are being held.\n\nRepresented by the ACLU, the ACLU of Colorado, and the Rocky Mountain Immigrant Advocacy Network, the petitioners challenged the Administration\u2019s invocation of the AEA to remove them from the United States without any opportunity for a hearing or judicial review. The AEA is a wartime measure that authorizes the removal of citizens from countries with whom the United States is at war. On March 15, 2025, President Trump issued a proclamation declaring that the United States was \u201cunder invasion\u201d by Tren de Aragua, a Venezuelan gang and designated foreign terrorist organization, and invoking the AEA.\n\nThe petitioners alleged that this use of the AEA violated the Immigration and Nationality Act, the Foreign Affairs Reform and Restructuring Act, and the Fifth Amendment. They sought a writ of habeas corpus releasing them from detention, as well as injunctive and declaratory relief. The case was assigned to District Judge Charlotte Sweeney.\n\nThis action was spurred by the U.S. Supreme Court's decision in J.G.G. v. Trump [../../../../case/46232/] that challenges to removals under the AEA must be brought in a habeas petition. The Court in that case vacated a temporary restraining order (\"TRO\") against removal of the plaintiffs because it found the venue, the District Court for the District of Columbia, to be inappropriate, since habeas petitions should be brought in the district of confinement.\n\nAlong with their habeas petition, the petitioners filed an emergency motion for a TRO and a separate motion to certify the class. On April 14, the Court ordered that the petitioners were not to be removed from the United States or the District of Colorado while the case proceeded. The court also set a briefing schedule for the TRO motion and scheduled a hearing for April 21.\n\nJudge Sweeney issued another 14-day TRO following the April 21 hearing, prohibiting the respondents from removing petitioners and class members from the District of Colorado and requiring respondents to give petitioners and class members a 21-day notice if the government sought to detain them pursuant to the AEA. The order also directed petitioner to file any motion for a preliminary injunction (PI) within three days. The court also ordered respondents to respond to the motion for class certification by April 28, with petitioner's reply due by May 2.\n\nRespondents appealed the TRO to the U.S. Court of Appeals for the Tenth Circuit on April 23 (USCA case no. 25-1164). In the district court, respondents filed an emergency motion for a stay pending appeal, which Judge Sweeney denied on April 24. The same day, the respondent-appellants also filed an emergency stay motion pending appeal in the Tenth Circuit, which ordered petitioner-appellee to respond by April 26, with any reply due by April 27. The Court of Appeals denied the emergency stay motion on April 29, finding that the government had not made the required irreparable-injury showing.\n\nThe petitioner filed a motion for a preliminary injunction (PI) on April 25. The respondents filed their response five days later, and petitioner filed his response on May 2.\n\nBriefing on the class certification motion took place according to the court's schedule included in its order granting the TRO, concluding on May 2.\n\nOn May 6, Judge Sweeney certified a class of \"All noncitizens in custody in the District of Colorado who were, are, or will be subject to the March 2025 Presidential Proclamation entitled 'Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua' and/or its implementation.\"\n\nJudge Sweeney examined closely each of the requirements for certifying a class, holding most importantly that the class members' risk of deportation under the Proclamation provided the required commonality. She rejected arguments that differences in other parts of class members' cases should prevent certification. She also certified the class under Rule 23(b)(2) finding that the proposed class was \u201csufficiently cohesive,\u201d and that the injunctive relief the petitioners sought \u201cwould benefit them as well as all members of the proposed class in the same fashion.\u201d\n\nJudge Sweeney also entered a preliminary injunction ordering the government not to detain, transfer, or remove petitioners and members of the certified class from the District of Colorado.\n\nJudge Sweeney found that petitioners were likely to succeed on the merits because a \u201cinvasion\u201d under the AEA demands military action by a foreign nation government.\u00a0 She held that the Proclamation fails to adequately find or assert TdA was a foreign nation or government. Judge Sweeney accepted the petitioners' allegations that they faced the risk of irreparable harm in part because of the detention conditions in El Salvador\u2019s Terrorism Confinement Center (CECOT).\u00a0 In balancing the equities and public interest, Judge Sweeney found that the public interest in preventing wrongful removals\u2014particularly where those removals exposed Petitioners and class members to harmful conditions\u2014outweighed any harm to the government, partly because any such harm was mitigated by the government's availability to prosecute and remove noncitizens under Title 8,\n\nIn reaching this decision, Judge Sweeney rejected the government's argument that the petitioners lack standing because they were not at the time of the hearing designated as falling under the Proclamation. Judge Sweeney concluded \u201cthere is a\u00a0 substantial risk that the harm of being subject to the Proclamation will arise\u2014despite [Petitioners\u2019] current designation as individuals who do not fall under it.\u201d\n\nJudge Sweeney also rejected respondents' broad challenges to jurisdiction on the basis that the petition constituted an unconstitutional challenge to presidential power, the political question doctrine, and several other broad attacks on the court's jurisdiction.\n\nOn July 7, the government appealed the injunction and class certification to the U.S. Circuit Court for the Tenth Circuit (Case No. 25-1265).\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      6841,
+      6862
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            6841,
+            6862
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: Ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            6841,
+            6862
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: case is ongoing; no final resolution reported.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

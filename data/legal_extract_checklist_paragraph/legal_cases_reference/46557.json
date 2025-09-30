@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "46557_p0",
+    "metadata": {
+      "case_id": "46557",
+      "paragraph_num": 0,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenged mass terminations and office shutdowns at the Department of Health and Human Se..."
+    },
+    "source": "",
+    "target": "This case challenged mass terminations and office shutdowns at the Department of Health and Human Services (HHS). On May 5, 2025, nineteen states and the District of Columbia filed this lawsuit in the United States District Court for the District of Rhode Island against the U.S. Department of Health and Human Services and numerous related federal agencies and their agency heads. The states challenged layoffs that took place due to a March 27, 2025, directive that ordered a reduction in force of about 10,000 full-time employees. The directive also ordered the restructuring of HHS, shrinking the previous twenty-eight divisions down to fifteen. The layoffs took place on April 1.\n\nRepresented by their attorneys general, the states alleged that the dismantling of HHS left it incapable of performing its statutory functions in violation of the Separation of Powers, the Appropriations Clause, and the Administrative Procedure Act (APA). The states also alleged that the defendants' actions were ultra vires in excess of their statutory authority. The states requested a declaration that the layoffs were unlawful, injunctive relief preventing the defendants from implementing the March 27 directive, and court costs.\n\nOn May 9, the plaintiffs moved for a preliminary injunction.\n\nThe case was assigned to District Judge Melissa R. DuBose, who held a hearing on the plaintiffs' motion for preliminary relief on May 22 and issued a preliminary injunction on July 1, 2025. 2025 WL 1803260. The court held that the states had standing to bring the lawsuit, that the claims were not subject to channeling pursuant to the Civil Service Reform Act, that the Tucker Act did not require the states to bring their claims in the Court of Federal Claims, that the March 27 directive constituted a final agency action subject to review under the APA, and that the states had demonstrated a likelihood of success on the merits of their claims that the challenged actions were arbitrary and capricious and contrary to law, had shown irreparable harm absent relief, and that the balance of equities and public interest weighed in their favor.\u00a0 Accordingly, the court issued a preliminary injunction enjoining the defendants from \"taking any actions to implement or enforce the planned RIFs or sub-agency restructuring announced\" in the directive. Finally, the court also \"preemptively\" denied the defendants' request for a stay pending any appeal they might decide to file.\n\nOn July 11, 2025, the defendants moved to clarify the preliminary injunction and also argued that the injunction was overbroad given the U.S. Supreme Court's decision in Casa Inc. v. Trump [../../../../case/45965/], which held that federal courts lacked the power to grant relief to parties outside of those involved in the case before them. On July 17, 2025, the defendants also filed a motion to vacate the preliminary injunction, or in the alternative, to stay it pending appeal. The defendants pointed to the decision of the U.S. Supreme Court in New York v. McMahon [../../../../case/46217/], which allowed the government to proceed with a reduction-in-force at the Department of Education while litigation over the RIF continued. The defendants argued that \"[b]ecause the facts and legal issues in [McMahon]\u00a0are so similar to those presented here, the stays signal that a majority of the Supreme Court would likely reach the same conclusion if asked to consider this case.\" Therefore, the defendants asked the court to vacate its preliminary injunction or to stay it while they appealed.\n\nOn July 18, 2025, the court denied all the defendants' motions except the motion to clarify, announcing that \"without any actual changes to governing case law or binding First Circuit or Supreme Court precedent, this Court declines the Defendants\u2019 invitation to short circuit that process.\" Rejecting the defendants' claims that the Supreme Court's stay in McMahon\u00a0meant that the district court should vacate its preliminary injunction, the court stated that it \"w[ould] not interpret the Supreme Court\u2019s shadow docket summary orders (issued without any reasoning or explanation) as definitive indications as to how either the Supreme Court or the First Circuit Court of Appeals might rule on a motion to stay or on the merits of this case.\"\n\nOn August 12, 2025, the court granted in part the defendants' motion to clarify the preliminary injunction and issued a revised injunction that named the specific sub-agencies and programs subject to the order. The next day, the defendants filed an appeal in the U.S. Court of Appeals for the First Circuit (USCA Case No. 25-1780) as well as an emergency motion in the appellate court to stay the injunction pending appeal.\n\nThe case is ongoing.",
+    "target_paragraph": "This case challenged mass terminations and office shutdowns at the Department of Health and Human Services (HHS). On May 5, 2025, nineteen states and the District of Columbia filed this lawsuit in the United States District Court for the District of Rhode Island against the U.S. Department of Health and Human Services and numerous related federal agencies and their agency heads. The states challenged layoffs that took place due to a March 27, 2025, directive that ordered a reduction in force of about 10,000 full-time employees. The directive also ordered the restructuring of HHS, shrinking the previous twenty-eight divisions down to fifteen. The layoffs took place on April 1.",
+    "target_paragraph_indices": [
+      0,
+      684
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            114,
+            381
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 5, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            114,
+            381
+          ],
+          [
+            686,
+            941
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as nineteen states and the District of Columbia",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            114,
+            262
+          ],
+          [
+            686,
+            828
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Nineteen states (represented by their attorneys general)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            114,
+            262
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: District of Columbia",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            263,
+            381
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Department of Health and Human Services (HHS)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            263,
+            381
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Numerous related federal agencies",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            263,
+            381
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Agency heads of the related federal agencies",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            114,
+            381
+          ],
+          [
+            686,
+            725
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs are nineteen states and the District of Columbia, represented by their attorneys general, suing HHS and related federal agencies and agency heads in the U.S. District Court for the District of Rhode Island, filed May 5, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            113
+          ],
+          [
+            382,
+            533
+          ],
+          [
+            534,
+            649
+          ],
+          [
+            650,
+            684
+          ]
+        ],
+        "annotation": {
+          "explanation": "The dispute centers on a March 27, 2025 HHS directive that ordered a reduction-in-force of about 10,000 full-time employees and a restructuring of HHS from 28 divisions to 15, resulting in April 1 mass layoffs and office shutdowns.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            114,
+            381
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on May 5, 2025, by 19 states and D.C. in D.R.I. against HHS and related agencies.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            114,
+            262
+          ],
+          [
+            1285,
+            1342
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed in the U.S. District Court for the District of Rhode Island; assigned to District Judge Melissa R. DuBose.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            0,
+            3
+          ]
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "46557_p1",
+    "metadata": {
+      "case_id": "46557",
+      "paragraph_num": 1,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Represented by their attorneys general, the states alleged that the dismantling of HHS left it incap..."
+    },
+    "source": "",
+    "target": "This case challenged mass terminations and office shutdowns at the Department of Health and Human Services (HHS). On May 5, 2025, nineteen states and the District of Columbia filed this lawsuit in the United States District Court for the District of Rhode Island against the U.S. Department of Health and Human Services and numerous related federal agencies and their agency heads. The states challenged layoffs that took place due to a March 27, 2025, directive that ordered a reduction in force of about 10,000 full-time employees. The directive also ordered the restructuring of HHS, shrinking the previous twenty-eight divisions down to fifteen. The layoffs took place on April 1.\n\nRepresented by their attorneys general, the states alleged that the dismantling of HHS left it incapable of performing its statutory functions in violation of the Separation of Powers, the Appropriations Clause, and the Administrative Procedure Act (APA). The states also alleged that the defendants' actions were ultra vires in excess of their statutory authority. The states requested a declaration that the layoffs were unlawful, injunctive relief preventing the defendants from implementing the March 27 directive, and court costs.\n\nOn May 9, the plaintiffs moved for a preliminary injunction.\n\nThe case was assigned to District Judge Melissa R. DuBose, who held a hearing on the plaintiffs' motion for preliminary relief on May 22 and issued a preliminary injunction on July 1, 2025. 2025 WL 1803260. The court held that the states had standing to bring the lawsuit, that the claims were not subject to channeling pursuant to the Civil Service Reform Act, that the Tucker Act did not require the states to bring their claims in the Court of Federal Claims, that the March 27 directive constituted a final agency action subject to review under the APA, and that the states had demonstrated a likelihood of success on the merits of their claims that the challenged actions were arbitrary and capricious and contrary to law, had shown irreparable harm absent relief, and that the balance of equities and public interest weighed in their favor.\u00a0 Accordingly, the court issued a preliminary injunction enjoining the defendants from \"taking any actions to implement or enforce the planned RIFs or sub-agency restructuring announced\" in the directive. Finally, the court also \"preemptively\" denied the defendants' request for a stay pending any appeal they might decide to file.\n\nOn July 11, 2025, the defendants moved to clarify the preliminary injunction and also argued that the injunction was overbroad given the U.S. Supreme Court's decision in Casa Inc. v. Trump [../../../../case/45965/], which held that federal courts lacked the power to grant relief to parties outside of those involved in the case before them. On July 17, 2025, the defendants also filed a motion to vacate the preliminary injunction, or in the alternative, to stay it pending appeal. The defendants pointed to the decision of the U.S. Supreme Court in New York v. McMahon [../../../../case/46217/], which allowed the government to proceed with a reduction-in-force at the Department of Education while litigation over the RIF continued. The defendants argued that \"[b]ecause the facts and legal issues in [McMahon]\u00a0are so similar to those presented here, the stays signal that a majority of the Supreme Court would likely reach the same conclusion if asked to consider this case.\" Therefore, the defendants asked the court to vacate its preliminary injunction or to stay it while they appealed.\n\nOn July 18, 2025, the court denied all the defendants' motions except the motion to clarify, announcing that \"without any actual changes to governing case law or binding First Circuit or Supreme Court precedent, this Court declines the Defendants\u2019 invitation to short circuit that process.\" Rejecting the defendants' claims that the Supreme Court's stay in McMahon\u00a0meant that the district court should vacate its preliminary injunction, the court stated that it \"w[ould] not interpret the Supreme Court\u2019s shadow docket summary orders (issued without any reasoning or explanation) as definitive indications as to how either the Supreme Court or the First Circuit Court of Appeals might rule on a motion to stay or on the merits of this case.\"\n\nOn August 12, 2025, the court granted in part the defendants' motion to clarify the preliminary injunction and issued a revised injunction that named the specific sub-agencies and programs subject to the order. The next day, the defendants filed an appeal in the U.S. Court of Appeals for the First Circuit (USCA Case No. 25-1780) as well as an emergency motion in the appellate court to stay the injunction pending appeal.\n\nThe case is ongoing.",
+    "target_paragraph": "Represented by their attorneys general, the states alleged that the dismantling of HHS left it incapable of performing its statutory functions in violation of the Separation of Powers, the Appropriations Clause, and the Administrative Procedure Act (APA). The states also alleged that the defendants' actions were ultra vires in excess of their statutory authority. The states requested a declaration that the layoffs were unlawful, injunctive relief preventing the defendants from implementing the March 27 directive, and court costs.",
+    "target_paragraph_indices": [
+      686,
+      1221
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            829,
+            941
+          ],
+          [
+            1748,
+            1841
+          ],
+          [
+            1882,
+            2011
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) claim challenging final agency action as arbitrary and capricious and contrary to law",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            829,
+            941
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim: Separation of Powers",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            829,
+            941
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim: Appropriations Clause",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            942,
+            1051
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ultra vires claim (actions in excess of statutory authority)",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            726,
+            941
+          ]
+        ],
+        "annotation": {
+          "explanation": "Separation of Powers (U.S. Constitution)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            726,
+            941
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appropriations Clause (U.S. Constitution)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            726,
+            941
+          ],
+          [
+            1753,
+            1841
+          ],
+          [
+            1852,
+            2011
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            1,
+            3
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            942,
+            1051
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ultra vires (in excess of statutory authority)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1052,
+            1221
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief that the layoffs were unlawful",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1052,
+            1221
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief preventing defendants from implementing the March 27 directive",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1052,
+            1221
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court costs",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            686,
+            941
+          ]
+        ],
+        "annotation": {
+          "explanation": "State Attorneys General (government/public counsel)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            686,
+            941
+          ],
+          [
+            942,
+            1051
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs allege the layoffs and restructuring dismantled HHS to the point it could not perform statutory functions, violating the Separation of Powers, the Appropriations Clause, and the APA, and that the actions were ultra vires.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1052,
+            1221
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: declaratory judgment that the layoffs were unlawful, an injunction stopping implementation of the March 27 directive, and court costs.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": "46557_p2",
+    "metadata": {
+      "case_id": "46557",
+      "paragraph_num": 2,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 9, the plaintiffs moved for a preliminary injunction."
+    },
+    "source": "",
+    "target": "This case challenged mass terminations and office shutdowns at the Department of Health and Human Services (HHS). On May 5, 2025, nineteen states and the District of Columbia filed this lawsuit in the United States District Court for the District of Rhode Island against the U.S. Department of Health and Human Services and numerous related federal agencies and their agency heads. The states challenged layoffs that took place due to a March 27, 2025, directive that ordered a reduction in force of about 10,000 full-time employees. The directive also ordered the restructuring of HHS, shrinking the previous twenty-eight divisions down to fifteen. The layoffs took place on April 1.\n\nRepresented by their attorneys general, the states alleged that the dismantling of HHS left it incapable of performing its statutory functions in violation of the Separation of Powers, the Appropriations Clause, and the Administrative Procedure Act (APA). The states also alleged that the defendants' actions were ultra vires in excess of their statutory authority. The states requested a declaration that the layoffs were unlawful, injunctive relief preventing the defendants from implementing the March 27 directive, and court costs.\n\nOn May 9, the plaintiffs moved for a preliminary injunction.\n\nThe case was assigned to District Judge Melissa R. DuBose, who held a hearing on the plaintiffs' motion for preliminary relief on May 22 and issued a preliminary injunction on July 1, 2025. 2025 WL 1803260. The court held that the states had standing to bring the lawsuit, that the claims were not subject to channeling pursuant to the Civil Service Reform Act, that the Tucker Act did not require the states to bring their claims in the Court of Federal Claims, that the March 27 directive constituted a final agency action subject to review under the APA, and that the states had demonstrated a likelihood of success on the merits of their claims that the challenged actions were arbitrary and capricious and contrary to law, had shown irreparable harm absent relief, and that the balance of equities and public interest weighed in their favor.\u00a0 Accordingly, the court issued a preliminary injunction enjoining the defendants from \"taking any actions to implement or enforce the planned RIFs or sub-agency restructuring announced\" in the directive. Finally, the court also \"preemptively\" denied the defendants' request for a stay pending any appeal they might decide to file.\n\nOn July 11, 2025, the defendants moved to clarify the preliminary injunction and also argued that the injunction was overbroad given the U.S. Supreme Court's decision in Casa Inc. v. Trump [../../../../case/45965/], which held that federal courts lacked the power to grant relief to parties outside of those involved in the case before them. On July 17, 2025, the defendants also filed a motion to vacate the preliminary injunction, or in the alternative, to stay it pending appeal. The defendants pointed to the decision of the U.S. Supreme Court in New York v. McMahon [../../../../case/46217/], which allowed the government to proceed with a reduction-in-force at the Department of Education while litigation over the RIF continued. The defendants argued that \"[b]ecause the facts and legal issues in [McMahon]\u00a0are so similar to those presented here, the stays signal that a majority of the Supreme Court would likely reach the same conclusion if asked to consider this case.\" Therefore, the defendants asked the court to vacate its preliminary injunction or to stay it while they appealed.\n\nOn July 18, 2025, the court denied all the defendants' motions except the motion to clarify, announcing that \"without any actual changes to governing case law or binding First Circuit or Supreme Court precedent, this Court declines the Defendants\u2019 invitation to short circuit that process.\" Rejecting the defendants' claims that the Supreme Court's stay in McMahon\u00a0meant that the district court should vacate its preliminary injunction, the court stated that it \"w[ould] not interpret the Supreme Court\u2019s shadow docket summary orders (issued without any reasoning or explanation) as definitive indications as to how either the Supreme Court or the First Circuit Court of Appeals might rule on a motion to stay or on the merits of this case.\"\n\nOn August 12, 2025, the court granted in part the defendants' motion to clarify the preliminary injunction and issued a revised injunction that named the specific sub-agencies and programs subject to the order. The next day, the defendants filed an appeal in the U.S. Court of Appeals for the First Circuit (USCA Case No. 25-1780) as well as an emergency motion in the appellate court to stay the injunction pending appeal.\n\nThe case is ongoing.",
+    "target_paragraph": "On May 9, the plaintiffs moved for a preliminary injunction.",
+    "target_paragraph_indices": [
+      1223,
+      1283
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1223,
+            1283
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1223,
+            1283
+          ],
+          [
+            1285,
+            1474
+          ],
+          [
+            1492,
+            2131
+          ],
+          [
+            2133,
+            2335
+          ],
+          [
+            2336,
+            2462
+          ]
+        ],
+        "annotation": {
+          "explanation": "Procedural background and evidentiary posture: Plaintiffs moved for a preliminary injunction (May 9); Judge Melissa R. DuBose held a hearing (May 22) and granted a preliminary injunction (July 1, 2025), finding standing, APA reviewability (final agency action), likely success on claims that the actions were arbitrary, capricious, and contrary to law, irreparable harm, and equities/public interest favoring relief; the injunction barred implementation/enforcement of the planned RIFs and restructuring; the court denied a stay pending appeal.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1223,
+            1283
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for preliminary injunction filed on May 9, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1223,
+            1283
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs moved for a preliminary injunction on May 9, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46557_p3",
+    "metadata": {
+      "case_id": "46557",
+      "paragraph_num": 3,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case was assigned to District Judge Melissa R. DuBose, who held a hearing on the plaintiffs' mot..."
+    },
+    "source": "",
+    "target": "This case challenged mass terminations and office shutdowns at the Department of Health and Human Services (HHS). On May 5, 2025, nineteen states and the District of Columbia filed this lawsuit in the United States District Court for the District of Rhode Island against the U.S. Department of Health and Human Services and numerous related federal agencies and their agency heads. The states challenged layoffs that took place due to a March 27, 2025, directive that ordered a reduction in force of about 10,000 full-time employees. The directive also ordered the restructuring of HHS, shrinking the previous twenty-eight divisions down to fifteen. The layoffs took place on April 1.\n\nRepresented by their attorneys general, the states alleged that the dismantling of HHS left it incapable of performing its statutory functions in violation of the Separation of Powers, the Appropriations Clause, and the Administrative Procedure Act (APA). The states also alleged that the defendants' actions were ultra vires in excess of their statutory authority. The states requested a declaration that the layoffs were unlawful, injunctive relief preventing the defendants from implementing the March 27 directive, and court costs.\n\nOn May 9, the plaintiffs moved for a preliminary injunction.\n\nThe case was assigned to District Judge Melissa R. DuBose, who held a hearing on the plaintiffs' motion for preliminary relief on May 22 and issued a preliminary injunction on July 1, 2025. 2025 WL 1803260. The court held that the states had standing to bring the lawsuit, that the claims were not subject to channeling pursuant to the Civil Service Reform Act, that the Tucker Act did not require the states to bring their claims in the Court of Federal Claims, that the March 27 directive constituted a final agency action subject to review under the APA, and that the states had demonstrated a likelihood of success on the merits of their claims that the challenged actions were arbitrary and capricious and contrary to law, had shown irreparable harm absent relief, and that the balance of equities and public interest weighed in their favor.\u00a0 Accordingly, the court issued a preliminary injunction enjoining the defendants from \"taking any actions to implement or enforce the planned RIFs or sub-agency restructuring announced\" in the directive. Finally, the court also \"preemptively\" denied the defendants' request for a stay pending any appeal they might decide to file.\n\nOn July 11, 2025, the defendants moved to clarify the preliminary injunction and also argued that the injunction was overbroad given the U.S. Supreme Court's decision in Casa Inc. v. Trump [../../../../case/45965/], which held that federal courts lacked the power to grant relief to parties outside of those involved in the case before them. On July 17, 2025, the defendants also filed a motion to vacate the preliminary injunction, or in the alternative, to stay it pending appeal. The defendants pointed to the decision of the U.S. Supreme Court in New York v. McMahon [../../../../case/46217/], which allowed the government to proceed with a reduction-in-force at the Department of Education while litigation over the RIF continued. The defendants argued that \"[b]ecause the facts and legal issues in [McMahon]\u00a0are so similar to those presented here, the stays signal that a majority of the Supreme Court would likely reach the same conclusion if asked to consider this case.\" Therefore, the defendants asked the court to vacate its preliminary injunction or to stay it while they appealed.\n\nOn July 18, 2025, the court denied all the defendants' motions except the motion to clarify, announcing that \"without any actual changes to governing case law or binding First Circuit or Supreme Court precedent, this Court declines the Defendants\u2019 invitation to short circuit that process.\" Rejecting the defendants' claims that the Supreme Court's stay in McMahon\u00a0meant that the district court should vacate its preliminary injunction, the court stated that it \"w[ould] not interpret the Supreme Court\u2019s shadow docket summary orders (issued without any reasoning or explanation) as definitive indications as to how either the Supreme Court or the First Circuit Court of Appeals might rule on a motion to stay or on the merits of this case.\"\n\nOn August 12, 2025, the court granted in part the defendants' motion to clarify the preliminary injunction and issued a revised injunction that named the specific sub-agencies and programs subject to the order. The next day, the defendants filed an appeal in the U.S. Court of Appeals for the First Circuit (USCA Case No. 25-1780) as well as an emergency motion in the appellate court to stay the injunction pending appeal.\n\nThe case is ongoing.",
+    "target_paragraph": "The case was assigned to District Judge Melissa R. DuBose, who held a hearing on the plaintiffs' motion for preliminary relief on May 22 and issued a preliminary injunction on July 1, 2025. 2025 WL 1803260. The court held that the states had standing to bring the lawsuit, that the claims were not subject to channeling pursuant to the Civil Service Reform Act, that the Tucker Act did not require the states to bring their claims in the Court of Federal Claims, that the March 27 directive constituted a final agency action subject to review under the APA, and that the states had demonstrated a likelihood of success on the merits of their claims that the challenged actions were arbitrary and capricious and contrary to law, had shown irreparable harm absent relief, and that the balance of equities and public interest weighed in their favor.\u00a0 Accordingly, the court issued a preliminary injunction enjoining the defendants from \"taking any actions to implement or enforce the planned RIFs or sub-agency restructuring announced\" in the directive. Finally, the court also \"preemptively\" denied the defendants' request for a stay pending any appeal they might decide to file.",
+    "target_paragraph_indices": [
+      1285,
+      2462
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1285,
+            1474
+          ]
+        ],
+        "annotation": {
+          "explanation": "Melissa R. DuBose",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            1422,
+            1491
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025 WL 1803260",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            1426,
+            1474
+          ],
+          [
+            2133,
+            2335
+          ]
+        ],
+        "annotation": {
+          "explanation": "Unspecified: preliminary injunction enjoining the defendants from taking any actions to implement or enforce the planned RIFs or sub-agency restructuring announced in the directive.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1426,
+            1474
+          ],
+          [
+            2133,
+            2335
+          ],
+          [
+            2336,
+            2462
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 1, 2025: Court issued a preliminary injunction enjoining defendants from taking any actions to implement or enforce the planned RIFs or sub-agency restructuring announced in the directive and preemptively denied defendants' request for a stay pending any appeal.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1285,
+            1491
+          ],
+          [
+            2133,
+            2335
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted on July 1, 2025 (2025 WL 1803260), enjoining implementation/enforcement of the RIF and restructuring.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2336,
+            2462
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 request for a stay pending appeal denied (preemptively) as part of the preliminary injunction ruling.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2133,
+            2335
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants are enjoined from taking any actions to implement or enforce the planned reductions-in-force and sub-agency restructuring announced in the directive.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            2336,
+            2462
+          ]
+        ],
+        "annotation": {
+          "explanation": "Request for a stay pending appeal is denied; the injunction remains in effect.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            2146,
+            2335
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 1, 2025 preliminary injunction: Defendants are enjoined from taking any actions to implement or enforce the planned RIFs and sub-agency restructuring announced in the March 27, 2025 directive.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1285,
+            1421
+          ]
+        ],
+        "annotation": {
+          "explanation": "Hearing on plaintiffs' motion for preliminary relief held on May 22, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1426,
+            1491
+          ],
+          [
+            1492,
+            2131
+          ],
+          [
+            2133,
+            2335
+          ],
+          [
+            2336,
+            2462
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted on July 1, 2025 (2025 WL 1803260): court found standing; CSRA channeling and Tucker Act did not bar suit; March 27 directive was final agency action; plaintiffs showed likelihood of success, irreparable harm, and favorable equities/public interest. The order enjoined implementation/enforcement of the planned RIFs and sub-agency restructuring and preemptively denied a stay pending appeal.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            1348,
+            1491
+          ],
+          [
+            2133,
+            2335
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction granted on July 1, 2025 (2025 WL 1803260), enjoining implementation/enforcement of the planned RIFs and sub-agency restructuring.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2336,
+            2462
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 request for a stay pending appeal denied (preemptively) on July 1, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": "46557_p4",
+    "metadata": {
+      "case_id": "46557",
+      "paragraph_num": 4,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 11, 2025, the defendants moved to clarify the preliminary injunction and also argued that th..."
+    },
+    "source": "",
+    "target": "This case challenged mass terminations and office shutdowns at the Department of Health and Human Services (HHS). On May 5, 2025, nineteen states and the District of Columbia filed this lawsuit in the United States District Court for the District of Rhode Island against the U.S. Department of Health and Human Services and numerous related federal agencies and their agency heads. The states challenged layoffs that took place due to a March 27, 2025, directive that ordered a reduction in force of about 10,000 full-time employees. The directive also ordered the restructuring of HHS, shrinking the previous twenty-eight divisions down to fifteen. The layoffs took place on April 1.\n\nRepresented by their attorneys general, the states alleged that the dismantling of HHS left it incapable of performing its statutory functions in violation of the Separation of Powers, the Appropriations Clause, and the Administrative Procedure Act (APA). The states also alleged that the defendants' actions were ultra vires in excess of their statutory authority. The states requested a declaration that the layoffs were unlawful, injunctive relief preventing the defendants from implementing the March 27 directive, and court costs.\n\nOn May 9, the plaintiffs moved for a preliminary injunction.\n\nThe case was assigned to District Judge Melissa R. DuBose, who held a hearing on the plaintiffs' motion for preliminary relief on May 22 and issued a preliminary injunction on July 1, 2025. 2025 WL 1803260. The court held that the states had standing to bring the lawsuit, that the claims were not subject to channeling pursuant to the Civil Service Reform Act, that the Tucker Act did not require the states to bring their claims in the Court of Federal Claims, that the March 27 directive constituted a final agency action subject to review under the APA, and that the states had demonstrated a likelihood of success on the merits of their claims that the challenged actions were arbitrary and capricious and contrary to law, had shown irreparable harm absent relief, and that the balance of equities and public interest weighed in their favor.\u00a0 Accordingly, the court issued a preliminary injunction enjoining the defendants from \"taking any actions to implement or enforce the planned RIFs or sub-agency restructuring announced\" in the directive. Finally, the court also \"preemptively\" denied the defendants' request for a stay pending any appeal they might decide to file.\n\nOn July 11, 2025, the defendants moved to clarify the preliminary injunction and also argued that the injunction was overbroad given the U.S. Supreme Court's decision in Casa Inc. v. Trump [../../../../case/45965/], which held that federal courts lacked the power to grant relief to parties outside of those involved in the case before them. On July 17, 2025, the defendants also filed a motion to vacate the preliminary injunction, or in the alternative, to stay it pending appeal. The defendants pointed to the decision of the U.S. Supreme Court in New York v. McMahon [../../../../case/46217/], which allowed the government to proceed with a reduction-in-force at the Department of Education while litigation over the RIF continued. The defendants argued that \"[b]ecause the facts and legal issues in [McMahon]\u00a0are so similar to those presented here, the stays signal that a majority of the Supreme Court would likely reach the same conclusion if asked to consider this case.\" Therefore, the defendants asked the court to vacate its preliminary injunction or to stay it while they appealed.\n\nOn July 18, 2025, the court denied all the defendants' motions except the motion to clarify, announcing that \"without any actual changes to governing case law or binding First Circuit or Supreme Court precedent, this Court declines the Defendants\u2019 invitation to short circuit that process.\" Rejecting the defendants' claims that the Supreme Court's stay in McMahon\u00a0meant that the district court should vacate its preliminary injunction, the court stated that it \"w[ould] not interpret the Supreme Court\u2019s shadow docket summary orders (issued without any reasoning or explanation) as definitive indications as to how either the Supreme Court or the First Circuit Court of Appeals might rule on a motion to stay or on the merits of this case.\"\n\nOn August 12, 2025, the court granted in part the defendants' motion to clarify the preliminary injunction and issued a revised injunction that named the specific sub-agencies and programs subject to the order. The next day, the defendants filed an appeal in the U.S. Court of Appeals for the First Circuit (USCA Case No. 25-1780) as well as an emergency motion in the appellate court to stay the injunction pending appeal.\n\nThe case is ongoing.",
+    "target_paragraph": "On July 11, 2025, the defendants moved to clarify the preliminary injunction and also argued that the injunction was overbroad given the U.S. Supreme Court's decision in Casa Inc. v. Trump [../../../../case/45965/], which held that federal courts lacked the power to grant relief to parties outside of those involved in the case before them. On July 17, 2025, the defendants also filed a motion to vacate the preliminary injunction, or in the alternative, to stay it pending appeal. The defendants pointed to the decision of the U.S. Supreme Court in New York v. McMahon [../../../../case/46217/], which allowed the government to proceed with a reduction-in-force at the Department of Education while litigation over the RIF continued. The defendants argued that \"[b]ecause the facts and legal issues in [McMahon]\u00a0are so similar to those presented here, the stays signal that a majority of the Supreme Court would likely reach the same conclusion if asked to consider this case.\" Therefore, the defendants asked the court to vacate its preliminary injunction or to stay it while they appealed.",
+    "target_paragraph_indices": [
+      2464,
+      3557
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            2464,
+            2805
+          ]
+        ],
+        "annotation": {
+          "explanation": "Casa Inc. v. Trump \u2014 related case code: 45965 (cited by defendants to argue overbreadth of the injunction).",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            2806,
+            2946
+          ],
+          [
+            2947,
+            3199
+          ]
+        ],
+        "annotation": {
+          "explanation": "New York v. McMahon \u2014 related case code: 46217 (cited by defendants to seek vacatur or a stay of the preliminary injunction).",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2464,
+            2805
+          ],
+          [
+            2806,
+            2946
+          ],
+          [
+            2947,
+            3199
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants sought clarification and argued overbreadth based on Casa Inc. v. Trump, and moved to vacate or stay the injunction citing New York v. McMahon as analogous authority allowing a similar RIF to proceed.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2464,
+            2805
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion to clarify the preliminary injunction filed on July 11, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2806,
+            2946
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion to vacate the preliminary injunction, or alternatively to stay it pending appeal, filed on July 17, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2464,
+            2805
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 11, 2025, defendants moved to clarify the preliminary injunction and argued it was overbroad in light of Casa Inc. v. Trump.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2806,
+            2946
+          ],
+          [
+            2947,
+            3199
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 17, 2025, defendants moved to vacate the preliminary injunction or, alternatively, to stay it pending appeal, relying on New York v. McMahon to argue a stay/vacatur was warranted.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2806,
+            2946
+          ],
+          [
+            3559,
+            3849
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion to vacate the preliminary injunction denied on July 18, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2806,
+            2946
+          ],
+          [
+            3559,
+            3849
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion to stay the preliminary injunction pending appeal denied on July 18, 2025.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2464,
+            2590
+          ],
+          [
+            4302,
+            4512
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion to clarify the preliminary injunction granted in part on August 12, 2025; the court issued a revised injunction naming specific sub-agencies and programs.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            4,
+            6
+          ]
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46557_p5",
+    "metadata": {
+      "case_id": "46557",
+      "paragraph_num": 5,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 18, 2025, the court denied all the defendants' motions except the motion to clarify, announc..."
+    },
+    "source": "",
+    "target": "This case challenged mass terminations and office shutdowns at the Department of Health and Human Services (HHS). On May 5, 2025, nineteen states and the District of Columbia filed this lawsuit in the United States District Court for the District of Rhode Island against the U.S. Department of Health and Human Services and numerous related federal agencies and their agency heads. The states challenged layoffs that took place due to a March 27, 2025, directive that ordered a reduction in force of about 10,000 full-time employees. The directive also ordered the restructuring of HHS, shrinking the previous twenty-eight divisions down to fifteen. The layoffs took place on April 1.\n\nRepresented by their attorneys general, the states alleged that the dismantling of HHS left it incapable of performing its statutory functions in violation of the Separation of Powers, the Appropriations Clause, and the Administrative Procedure Act (APA). The states also alleged that the defendants' actions were ultra vires in excess of their statutory authority. The states requested a declaration that the layoffs were unlawful, injunctive relief preventing the defendants from implementing the March 27 directive, and court costs.\n\nOn May 9, the plaintiffs moved for a preliminary injunction.\n\nThe case was assigned to District Judge Melissa R. DuBose, who held a hearing on the plaintiffs' motion for preliminary relief on May 22 and issued a preliminary injunction on July 1, 2025. 2025 WL 1803260. The court held that the states had standing to bring the lawsuit, that the claims were not subject to channeling pursuant to the Civil Service Reform Act, that the Tucker Act did not require the states to bring their claims in the Court of Federal Claims, that the March 27 directive constituted a final agency action subject to review under the APA, and that the states had demonstrated a likelihood of success on the merits of their claims that the challenged actions were arbitrary and capricious and contrary to law, had shown irreparable harm absent relief, and that the balance of equities and public interest weighed in their favor.\u00a0 Accordingly, the court issued a preliminary injunction enjoining the defendants from \"taking any actions to implement or enforce the planned RIFs or sub-agency restructuring announced\" in the directive. Finally, the court also \"preemptively\" denied the defendants' request for a stay pending any appeal they might decide to file.\n\nOn July 11, 2025, the defendants moved to clarify the preliminary injunction and also argued that the injunction was overbroad given the U.S. Supreme Court's decision in Casa Inc. v. Trump [../../../../case/45965/], which held that federal courts lacked the power to grant relief to parties outside of those involved in the case before them. On July 17, 2025, the defendants also filed a motion to vacate the preliminary injunction, or in the alternative, to stay it pending appeal. The defendants pointed to the decision of the U.S. Supreme Court in New York v. McMahon [../../../../case/46217/], which allowed the government to proceed with a reduction-in-force at the Department of Education while litigation over the RIF continued. The defendants argued that \"[b]ecause the facts and legal issues in [McMahon]\u00a0are so similar to those presented here, the stays signal that a majority of the Supreme Court would likely reach the same conclusion if asked to consider this case.\" Therefore, the defendants asked the court to vacate its preliminary injunction or to stay it while they appealed.\n\nOn July 18, 2025, the court denied all the defendants' motions except the motion to clarify, announcing that \"without any actual changes to governing case law or binding First Circuit or Supreme Court precedent, this Court declines the Defendants\u2019 invitation to short circuit that process.\" Rejecting the defendants' claims that the Supreme Court's stay in McMahon\u00a0meant that the district court should vacate its preliminary injunction, the court stated that it \"w[ould] not interpret the Supreme Court\u2019s shadow docket summary orders (issued without any reasoning or explanation) as definitive indications as to how either the Supreme Court or the First Circuit Court of Appeals might rule on a motion to stay or on the merits of this case.\"\n\nOn August 12, 2025, the court granted in part the defendants' motion to clarify the preliminary injunction and issued a revised injunction that named the specific sub-agencies and programs subject to the order. The next day, the defendants filed an appeal in the U.S. Court of Appeals for the First Circuit (USCA Case No. 25-1780) as well as an emergency motion in the appellate court to stay the injunction pending appeal.\n\nThe case is ongoing.",
+    "target_paragraph": "On July 18, 2025, the court denied all the defendants' motions except the motion to clarify, announcing that \"without any actual changes to governing case law or binding First Circuit or Supreme Court precedent, this Court declines the Defendants\u2019 invitation to short circuit that process.\" Rejecting the defendants' claims that the Supreme Court's stay in McMahon\u00a0meant that the district court should vacate its preliminary injunction, the court stated that it \"w[ould] not interpret the Supreme Court\u2019s shadow docket summary orders (issued without any reasoning or explanation) as definitive indications as to how either the Supreme Court or the First Circuit Court of Appeals might rule on a motion to stay or on the merits of this case.\"",
+    "target_paragraph_indices": [
+      3559,
+      4300
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3559,
+            3849
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 18, 2025: Court denied all defendants' motions except the motion to clarify.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3559,
+            3849
+          ]
+        ],
+        "annotation": {
+          "explanation": "The district court denied defendants\u2019 motions to vacate or stay (granting only clarification), declining to read Supreme Court shadow-docket stays as controlling and noting no change in binding precedent.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3559,
+            3849
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court denied defendants\u2019 motions (including to vacate and to stay) on July 18, 2025; the motion to clarify was not denied.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3559,
+            3849
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 18, 2025, the court denied all defense motions except to clarify; it refused to vacate or stay the preliminary injunction and declined to treat Supreme Court stay orders as controlling.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46557_p6",
+    "metadata": {
+      "case_id": "46557",
+      "paragraph_num": 6,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 12, 2025, the court granted in part the defendants' motion to clarify the preliminary inju..."
+    },
+    "source": "",
+    "target": "This case challenged mass terminations and office shutdowns at the Department of Health and Human Services (HHS). On May 5, 2025, nineteen states and the District of Columbia filed this lawsuit in the United States District Court for the District of Rhode Island against the U.S. Department of Health and Human Services and numerous related federal agencies and their agency heads. The states challenged layoffs that took place due to a March 27, 2025, directive that ordered a reduction in force of about 10,000 full-time employees. The directive also ordered the restructuring of HHS, shrinking the previous twenty-eight divisions down to fifteen. The layoffs took place on April 1.\n\nRepresented by their attorneys general, the states alleged that the dismantling of HHS left it incapable of performing its statutory functions in violation of the Separation of Powers, the Appropriations Clause, and the Administrative Procedure Act (APA). The states also alleged that the defendants' actions were ultra vires in excess of their statutory authority. The states requested a declaration that the layoffs were unlawful, injunctive relief preventing the defendants from implementing the March 27 directive, and court costs.\n\nOn May 9, the plaintiffs moved for a preliminary injunction.\n\nThe case was assigned to District Judge Melissa R. DuBose, who held a hearing on the plaintiffs' motion for preliminary relief on May 22 and issued a preliminary injunction on July 1, 2025. 2025 WL 1803260. The court held that the states had standing to bring the lawsuit, that the claims were not subject to channeling pursuant to the Civil Service Reform Act, that the Tucker Act did not require the states to bring their claims in the Court of Federal Claims, that the March 27 directive constituted a final agency action subject to review under the APA, and that the states had demonstrated a likelihood of success on the merits of their claims that the challenged actions were arbitrary and capricious and contrary to law, had shown irreparable harm absent relief, and that the balance of equities and public interest weighed in their favor.\u00a0 Accordingly, the court issued a preliminary injunction enjoining the defendants from \"taking any actions to implement or enforce the planned RIFs or sub-agency restructuring announced\" in the directive. Finally, the court also \"preemptively\" denied the defendants' request for a stay pending any appeal they might decide to file.\n\nOn July 11, 2025, the defendants moved to clarify the preliminary injunction and also argued that the injunction was overbroad given the U.S. Supreme Court's decision in Casa Inc. v. Trump [../../../../case/45965/], which held that federal courts lacked the power to grant relief to parties outside of those involved in the case before them. On July 17, 2025, the defendants also filed a motion to vacate the preliminary injunction, or in the alternative, to stay it pending appeal. The defendants pointed to the decision of the U.S. Supreme Court in New York v. McMahon [../../../../case/46217/], which allowed the government to proceed with a reduction-in-force at the Department of Education while litigation over the RIF continued. The defendants argued that \"[b]ecause the facts and legal issues in [McMahon]\u00a0are so similar to those presented here, the stays signal that a majority of the Supreme Court would likely reach the same conclusion if asked to consider this case.\" Therefore, the defendants asked the court to vacate its preliminary injunction or to stay it while they appealed.\n\nOn July 18, 2025, the court denied all the defendants' motions except the motion to clarify, announcing that \"without any actual changes to governing case law or binding First Circuit or Supreme Court precedent, this Court declines the Defendants\u2019 invitation to short circuit that process.\" Rejecting the defendants' claims that the Supreme Court's stay in McMahon\u00a0meant that the district court should vacate its preliminary injunction, the court stated that it \"w[ould] not interpret the Supreme Court\u2019s shadow docket summary orders (issued without any reasoning or explanation) as definitive indications as to how either the Supreme Court or the First Circuit Court of Appeals might rule on a motion to stay or on the merits of this case.\"\n\nOn August 12, 2025, the court granted in part the defendants' motion to clarify the preliminary injunction and issued a revised injunction that named the specific sub-agencies and programs subject to the order. The next day, the defendants filed an appeal in the U.S. Court of Appeals for the First Circuit (USCA Case No. 25-1780) as well as an emergency motion in the appellate court to stay the injunction pending appeal.\n\nThe case is ongoing.",
+    "target_paragraph": "On August 12, 2025, the court granted in part the defendants' motion to clarify the preliminary injunction and issued a revised injunction that named the specific sub-agencies and programs subject to the order. The next day, the defendants filed an appeal in the U.S. Court of Appeals for the First Circuit (USCA Case No. 25-1780) as well as an emergency motion in the appellate court to stay the injunction pending appeal.",
+    "target_paragraph_indices": [
+      4302,
+      4725
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            4513,
+            4725
+          ]
+        ],
+        "annotation": {
+          "explanation": "USCA Case No. 25-1780 \u2014 appeal in the First Circuit related to this case.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            4302,
+            4512
+          ]
+        ],
+        "annotation": {
+          "explanation": "Unspecified: revised injunction clarifying and naming the specific sub-agencies and programs subject to the order.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "appeals",
+        "output_idx": [
+          [
+            4513,
+            4725
+          ]
+        ],
+        "annotation": {
+          "explanation": "Appeal: Defendants appealed to the U.S. Court of Appeals for the First Circuit.",
+          "checklist_item": "Appeal",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4302,
+            4512
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 12, 2025: Court granted in part defendants' motion to clarify the preliminary injunction and issued a revised injunction naming the specific sub-agencies and programs subject to the order.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4302,
+            4512
+          ],
+          [
+            4513,
+            4725
+          ]
+        ],
+        "annotation": {
+          "explanation": "The court clarified and revised the injunction on August 12, 2025 to specify affected sub-agencies and programs; defendants appealed to the First Circuit (No. 25-1780) and sought an emergency stay.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4302,
+            4512
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court granted in part the motion to clarify on August 12, 2025, and issued a revised preliminary injunction specifying covered sub-agencies/programs.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4513,
+            4725
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants filed a notice of appeal on August 13, 2025 (1st Cir. No. 25-1780) and an emergency motion to stay the injunction pending appeal.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "decree_terms",
+        "output_idx": [
+          [
+            4302,
+            4512
+          ]
+        ],
+        "annotation": {
+          "explanation": "Revised injunction clarifies scope by naming the specific sub-agencies and programs subject to the injunction.",
+          "checklist_item": "Significant Terms of Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "settlement_terms",
+        "output_idx": [
+          [
+            4302,
+            4512
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 12, 2025 revised injunction (clarification): The court specified which sub-agencies and programs are covered by the injunction; defendants remain enjoined with respect to those named sub-agencies and programs.",
+          "checklist_item": "Significant Terms of Settlement",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4302,
+            4512
+          ]
+        ],
+        "annotation": {
+          "explanation": "On August 12, 2025, the court granted in part the motion to clarify and issued a revised injunction specifying the sub-agencies and programs covered.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4513,
+            4725
+          ]
+        ],
+        "annotation": {
+          "explanation": "On August 13, 2025, defendants noticed an appeal to the First Circuit (No. 25-1780) and filed an emergency motion to stay the injunction pending appeal.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "46557_p7",
+    "metadata": {
+      "case_id": "46557",
+      "paragraph_num": 7,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case is ongoing."
+    },
+    "source": "",
+    "target": "This case challenged mass terminations and office shutdowns at the Department of Health and Human Services (HHS). On May 5, 2025, nineteen states and the District of Columbia filed this lawsuit in the United States District Court for the District of Rhode Island against the U.S. Department of Health and Human Services and numerous related federal agencies and their agency heads. The states challenged layoffs that took place due to a March 27, 2025, directive that ordered a reduction in force of about 10,000 full-time employees. The directive also ordered the restructuring of HHS, shrinking the previous twenty-eight divisions down to fifteen. The layoffs took place on April 1.\n\nRepresented by their attorneys general, the states alleged that the dismantling of HHS left it incapable of performing its statutory functions in violation of the Separation of Powers, the Appropriations Clause, and the Administrative Procedure Act (APA). The states also alleged that the defendants' actions were ultra vires in excess of their statutory authority. The states requested a declaration that the layoffs were unlawful, injunctive relief preventing the defendants from implementing the March 27 directive, and court costs.\n\nOn May 9, the plaintiffs moved for a preliminary injunction.\n\nThe case was assigned to District Judge Melissa R. DuBose, who held a hearing on the plaintiffs' motion for preliminary relief on May 22 and issued a preliminary injunction on July 1, 2025. 2025 WL 1803260. The court held that the states had standing to bring the lawsuit, that the claims were not subject to channeling pursuant to the Civil Service Reform Act, that the Tucker Act did not require the states to bring their claims in the Court of Federal Claims, that the March 27 directive constituted a final agency action subject to review under the APA, and that the states had demonstrated a likelihood of success on the merits of their claims that the challenged actions were arbitrary and capricious and contrary to law, had shown irreparable harm absent relief, and that the balance of equities and public interest weighed in their favor.\u00a0 Accordingly, the court issued a preliminary injunction enjoining the defendants from \"taking any actions to implement or enforce the planned RIFs or sub-agency restructuring announced\" in the directive. Finally, the court also \"preemptively\" denied the defendants' request for a stay pending any appeal they might decide to file.\n\nOn July 11, 2025, the defendants moved to clarify the preliminary injunction and also argued that the injunction was overbroad given the U.S. Supreme Court's decision in Casa Inc. v. Trump [../../../../case/45965/], which held that federal courts lacked the power to grant relief to parties outside of those involved in the case before them. On July 17, 2025, the defendants also filed a motion to vacate the preliminary injunction, or in the alternative, to stay it pending appeal. The defendants pointed to the decision of the U.S. Supreme Court in New York v. McMahon [../../../../case/46217/], which allowed the government to proceed with a reduction-in-force at the Department of Education while litigation over the RIF continued. The defendants argued that \"[b]ecause the facts and legal issues in [McMahon]\u00a0are so similar to those presented here, the stays signal that a majority of the Supreme Court would likely reach the same conclusion if asked to consider this case.\" Therefore, the defendants asked the court to vacate its preliminary injunction or to stay it while they appealed.\n\nOn July 18, 2025, the court denied all the defendants' motions except the motion to clarify, announcing that \"without any actual changes to governing case law or binding First Circuit or Supreme Court precedent, this Court declines the Defendants\u2019 invitation to short circuit that process.\" Rejecting the defendants' claims that the Supreme Court's stay in McMahon\u00a0meant that the district court should vacate its preliminary injunction, the court stated that it \"w[ould] not interpret the Supreme Court\u2019s shadow docket summary orders (issued without any reasoning or explanation) as definitive indications as to how either the Supreme Court or the First Circuit Court of Appeals might rule on a motion to stay or on the merits of this case.\"\n\nOn August 12, 2025, the court granted in part the defendants' motion to clarify the preliminary injunction and issued a revised injunction that named the specific sub-agencies and programs subject to the order. The next day, the defendants filed an appeal in the U.S. Court of Appeals for the First Circuit (USCA Case No. 25-1780) as well as an emergency motion in the appellate court to stay the injunction pending appeal.\n\nThe case is ongoing.",
+    "target_paragraph": "The case is ongoing.",
+    "target_paragraph_indices": [
+      4727,
+      4747
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4727,
+            4747
+          ]
+        ],
+        "annotation": {
+          "explanation": "Current status: ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

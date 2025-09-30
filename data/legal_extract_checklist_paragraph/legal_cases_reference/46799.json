@@ -1,0 +1,1367 @@
+[
+  {
+    "id": "46799_p0",
+    "metadata": {
+      "case_id": "46799",
+      "paragraph_num": 0,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This class action lawsuit challenges conditions at a temporary immigration detention facility known ..."
+    },
+    "source": "",
+    "target": "This class action lawsuit challenges conditions at a temporary immigration detention facility known as \u201cAlligator Alcatraz\u201d in the Florida Everglades. Built in June 2025, the facility consists of tents, trailers, chain-link fencing, and barbed wire, with a capacity of at least 3,000 people. It is surrounded by wetlands populated with alligators and venomous snakes. President Trump publicly stated that detainees would \u201clearn how to run away from an alligator if they escape prison,\u201d adding that \u201cthe only way out, really, is deportation.\u201d\n\nThe plaintiffs are immigrants detained at \u201cAlligator Alcatraz,\u201d along with several organizations, including Florida Keys Immigration, the Law Offices of Catherine Perez PLLC, Sanctuary of the South, and U.S. Immigration Law Counsel. On July 16, 2025, in the U.S. District Court for the Southern District of Florida, they sued the Department of Homeland Security and its Secretary, the Acting Director of U.S. Immigration and Customs Enforcement (ICE), ICE\u2019s Miami Field Office Director, the Governor of Florida, the Director of Miami-Dade Corrections and Rehabilitation, the Florida Division of Emergency Management and its Executive Director, and the Executive Office for Immigration Review and its Acting Director. The case was assigned to District Judge Rodolfo A. Ruiz II.\n\nThe plaintiffs filed a motion for class certification on July 17, 2025, seeking to include \u201call persons who are currently, or in the future, held at the Alligator Alcatraz detention facility.\u201d That same day, they also filed an expedited motion for a temporary restraining order to ensure access to counsel and the ability to file court documents by July 21, 2025, and a preliminary injunction.\n\nThe plaintiffs alleged that the defendants restricted confidential attorney-client communication, violating detainees\u2019 First Amendment rights to legal counsel and Fifth Amendment due process rights. They claimed the facility lacked standard protocols for private communication, such as in-person visits or unmonitored calls, leaving detainees dependent on infrequent, monitored five-minute collect calls. Attorneys reported that ICE\u2019s detainee locator failed to show client locations, contact emails were invalid, phone calls were disconnected, and legal access was blocked at an armed checkpoint. Even when \u201cLegal Counsel Visitation Request Forms\u201d were provided, they often led to cancellations or no response. The plaintiffs also alleged that the government gave no guidance on which immigration courts handled bond motions, preventing detainees from contesting their detention.\n\nOn July 23, 2025, the court denied the plaintiffs\u2019 expedited motion for a temporary restraining order and preliminary injunction as an emergency motion, ruling it was not properly certified under Local Rule 7.1(d)(1). The court treated it instead as an expedited motion and stated it would not be considered until all defendants were served and expedited briefing was ordered. Plaintiffs were directed to file a service status report by July 28, 2025. The judge also required clarification on whether the motion sought relief only for the named plaintiffs or for the entire proposed class.\n\nOn July 29, 2025, the plaintiffs filed a renewed motion for a preliminary injunction and class certification. The renewed preliminary injunction motion clarified that relief was sought for both the main class (access to counsel) and a new \u201cbond subclass\u201d (access to immigration courts). Unlike the original filing, it was not framed as an emergency motion. The renewed motion also included more detailed allegations, such as attorneys being stopped at a military checkpoint and visitation request forms requiring pre-approval of legal documents. The renewed motion for class certification introduced a new subclass of detainees seeking bond, added several new plaintiffs, and expanded the background with claims that the facility, which opened in early July 2025, had extreme heat, flooding, mosquitoes, and inadequate shelter.\n\nOn August 12, 2025, the court issued an order dismissing, without prejudice, defendant Sherea Green, the Director of Miami-Dade Corrections and Rehabilitation.\n\nOn August 18, 2025, the court heard the plaintiffs\u2019 motion for a preliminary injunction. Later that day, the court transferred the case to the Middle District of Florida (2:25-cv-00747), where the \u201cAlligator Alcatraz\u201d facility is located, and dismissed the plaintiffs\u2019 Fifth Amendment claim against the EOIR as moot after the agency identified the Krome immigration court\u2019s jurisdiction. The court left the First Amendment access-to-counsel claims unresolved, but noted that venue for them was improper in the Southern District. The order also recorded the plaintiffs\u2019 voluntary dismissal of one defendant and criticized the shifting nature of the plaintiffs\u2019 filings and venue theories. The case was reassigned to Judge Sheri Chappell.\n\nThis case is ongoing.",
+    "target_paragraph": "This class action lawsuit challenges conditions at a temporary immigration detention facility known as \u201cAlligator Alcatraz\u201d in the Florida Everglades. Built in June 2025, the facility consists of tents, trailers, chain-link fencing, and barbed wire, with a capacity of at least 3,000 people. It is surrounded by wetlands populated with alligators and venomous snakes. President Trump publicly stated that detainees would \u201clearn how to run away from an alligator if they escape prison,\u201d adding that \u201cthe only way out, really, is deportation.\u201d",
+    "target_paragraph_indices": [
+      0,
+      541
+    ],
+    "edits": [
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            0,
+            93
+          ],
+          [
+            1321,
+            1513
+          ],
+          [
+            3189,
+            3298
+          ],
+          [
+            3299,
+            3475
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Class Action",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            2,
+            5
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            150
+          ],
+          [
+            151,
+            291
+          ],
+          [
+            292,
+            367
+          ],
+          [
+            368,
+            541
+          ]
+        ],
+        "annotation": {
+          "explanation": "A temporary detention facility called \u201cAlligator Alcatraz\u201d was built in June 2025 in the Florida Everglades, consisting of tents, trailers, and fencing/barbed wire, holding at least 3,000 people, surrounded by wildlife hazards; the President publicly framed escape risk in terms of alligators and deportation.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46799_p1",
+    "metadata": {
+      "case_id": "46799",
+      "paragraph_num": 1,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs are immigrants detained at \u201cAlligator Alcatraz,\u201d along with several organizations, in..."
+    },
+    "source": "",
+    "target": "This class action lawsuit challenges conditions at a temporary immigration detention facility known as \u201cAlligator Alcatraz\u201d in the Florida Everglades. Built in June 2025, the facility consists of tents, trailers, chain-link fencing, and barbed wire, with a capacity of at least 3,000 people. It is surrounded by wetlands populated with alligators and venomous snakes. President Trump publicly stated that detainees would \u201clearn how to run away from an alligator if they escape prison,\u201d adding that \u201cthe only way out, really, is deportation.\u201d\n\nThe plaintiffs are immigrants detained at \u201cAlligator Alcatraz,\u201d along with several organizations, including Florida Keys Immigration, the Law Offices of Catherine Perez PLLC, Sanctuary of the South, and U.S. Immigration Law Counsel. On July 16, 2025, in the U.S. District Court for the Southern District of Florida, they sued the Department of Homeland Security and its Secretary, the Acting Director of U.S. Immigration and Customs Enforcement (ICE), ICE\u2019s Miami Field Office Director, the Governor of Florida, the Director of Miami-Dade Corrections and Rehabilitation, the Florida Division of Emergency Management and its Executive Director, and the Executive Office for Immigration Review and its Acting Director. The case was assigned to District Judge Rodolfo A. Ruiz II.\n\nThe plaintiffs filed a motion for class certification on July 17, 2025, seeking to include \u201call persons who are currently, or in the future, held at the Alligator Alcatraz detention facility.\u201d That same day, they also filed an expedited motion for a temporary restraining order to ensure access to counsel and the ability to file court documents by July 21, 2025, and a preliminary injunction.\n\nThe plaintiffs alleged that the defendants restricted confidential attorney-client communication, violating detainees\u2019 First Amendment rights to legal counsel and Fifth Amendment due process rights. They claimed the facility lacked standard protocols for private communication, such as in-person visits or unmonitored calls, leaving detainees dependent on infrequent, monitored five-minute collect calls. Attorneys reported that ICE\u2019s detainee locator failed to show client locations, contact emails were invalid, phone calls were disconnected, and legal access was blocked at an armed checkpoint. Even when \u201cLegal Counsel Visitation Request Forms\u201d were provided, they often led to cancellations or no response. The plaintiffs also alleged that the government gave no guidance on which immigration courts handled bond motions, preventing detainees from contesting their detention.\n\nOn July 23, 2025, the court denied the plaintiffs\u2019 expedited motion for a temporary restraining order and preliminary injunction as an emergency motion, ruling it was not properly certified under Local Rule 7.1(d)(1). The court treated it instead as an expedited motion and stated it would not be considered until all defendants were served and expedited briefing was ordered. Plaintiffs were directed to file a service status report by July 28, 2025. The judge also required clarification on whether the motion sought relief only for the named plaintiffs or for the entire proposed class.\n\nOn July 29, 2025, the plaintiffs filed a renewed motion for a preliminary injunction and class certification. The renewed preliminary injunction motion clarified that relief was sought for both the main class (access to counsel) and a new \u201cbond subclass\u201d (access to immigration courts). Unlike the original filing, it was not framed as an emergency motion. The renewed motion also included more detailed allegations, such as attorneys being stopped at a military checkpoint and visitation request forms requiring pre-approval of legal documents. The renewed motion for class certification introduced a new subclass of detainees seeking bond, added several new plaintiffs, and expanded the background with claims that the facility, which opened in early July 2025, had extreme heat, flooding, mosquitoes, and inadequate shelter.\n\nOn August 12, 2025, the court issued an order dismissing, without prejudice, defendant Sherea Green, the Director of Miami-Dade Corrections and Rehabilitation.\n\nOn August 18, 2025, the court heard the plaintiffs\u2019 motion for a preliminary injunction. Later that day, the court transferred the case to the Middle District of Florida (2:25-cv-00747), where the \u201cAlligator Alcatraz\u201d facility is located, and dismissed the plaintiffs\u2019 Fifth Amendment claim against the EOIR as moot after the agency identified the Krome immigration court\u2019s jurisdiction. The court left the First Amendment access-to-counsel claims unresolved, but noted that venue for them was improper in the Southern District. The order also recorded the plaintiffs\u2019 voluntary dismissal of one defendant and criticized the shifting nature of the plaintiffs\u2019 filings and venue theories. The case was reassigned to Judge Sheri Chappell.\n\nThis case is ongoing.",
+    "target_paragraph": "The plaintiffs are immigrants detained at \u201cAlligator Alcatraz,\u201d along with several organizations, including Florida Keys Immigration, the Law Offices of Catherine Perez PLLC, Sanctuary of the South, and U.S. Immigration Law Counsel. On July 16, 2025, in the U.S. District Court for the Southern District of Florida, they sued the Department of Homeland Security and its Secretary, the Acting Director of U.S. Immigration and Customs Enforcement (ICE), ICE\u2019s Miami Field Office Director, the Governor of Florida, the Director of Miami-Dade Corrections and Rehabilitation, the Florida Division of Emergency Management and its Executive Director, and the Executive Office for Immigration Review and its Acting Director. The case was assigned to District Judge Rodolfo A. Ruiz II.",
+    "target_paragraph_indices": [
+      543,
+      1319
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            776,
+            1259
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 16, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            677,
+            716
+          ],
+          [
+            746,
+            774
+          ]
+        ],
+        "annotation": {
+          "explanation": "Private counsel (immigration law firms)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1260,
+            1319
+          ]
+        ],
+        "annotation": {
+          "explanation": "Rodolfo A. Ruiz II",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            543,
+            606
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Immigrants detained at \u201cAlligator Alcatraz\u201d",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            641,
+            675
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Florida Keys Immigration",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            677,
+            716
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Law Offices of Catherine Perez PLLC",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            718,
+            740
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Sanctuary of the South",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            742,
+            775
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: U.S. Immigration Law Counsel",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            859,
+            904
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Homeland Security",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            869,
+            922
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of the Department of Homeland Security",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            924,
+            993
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Director of U.S. Immigration and Customs Enforcement (ICE)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            995,
+            1028
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: ICE\u2019s Miami Field Office Director",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1030,
+            1053
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Governor of Florida",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1055,
+            1112
+          ],
+          [
+            4018,
+            4177
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Sherea Green, Director of Miami-Dade Corrections and Rehabilitation",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            6
+          ]
+        },
+        "id": 13
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1114,
+            1158
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Florida Division of Emergency Management",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1114,
+            1185
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Executive Director of the Florida Division of Emergency Management",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1187,
+            1234
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Executive Office for Immigration Review",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1191,
+            1258
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Director of the Executive Office for Immigration Review",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 17
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            543,
+            775
+          ],
+          [
+            776,
+            1259
+          ],
+          [
+            1260,
+            1319
+          ]
+        ],
+        "annotation": {
+          "explanation": "Detained immigrants and several advocacy and legal organizations filed suit on July 16, 2025, in the Southern District of Florida against DHS, ICE leadership, Florida officials/agencies, and EOIR; the case was assigned to Judge Rodolfo A. Ruiz II.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 18
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            776,
+            1259
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on July 16, 2025, in the Southern District of Florida initiating the class action.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 19
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            776,
+            1319
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed July 16, 2025 in S.D. Fla.; assigned to Judge Rodolfo A. Ruiz II.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 20
+      }
+    ]
+  },
+  {
+    "id": "46799_p2",
+    "metadata": {
+      "case_id": "46799",
+      "paragraph_num": 2,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs filed a motion for class certification on July 17, 2025, seeking to include \u201call pers..."
+    },
+    "source": "",
+    "target": "This class action lawsuit challenges conditions at a temporary immigration detention facility known as \u201cAlligator Alcatraz\u201d in the Florida Everglades. Built in June 2025, the facility consists of tents, trailers, chain-link fencing, and barbed wire, with a capacity of at least 3,000 people. It is surrounded by wetlands populated with alligators and venomous snakes. President Trump publicly stated that detainees would \u201clearn how to run away from an alligator if they escape prison,\u201d adding that \u201cthe only way out, really, is deportation.\u201d\n\nThe plaintiffs are immigrants detained at \u201cAlligator Alcatraz,\u201d along with several organizations, including Florida Keys Immigration, the Law Offices of Catherine Perez PLLC, Sanctuary of the South, and U.S. Immigration Law Counsel. On July 16, 2025, in the U.S. District Court for the Southern District of Florida, they sued the Department of Homeland Security and its Secretary, the Acting Director of U.S. Immigration and Customs Enforcement (ICE), ICE\u2019s Miami Field Office Director, the Governor of Florida, the Director of Miami-Dade Corrections and Rehabilitation, the Florida Division of Emergency Management and its Executive Director, and the Executive Office for Immigration Review and its Acting Director. The case was assigned to District Judge Rodolfo A. Ruiz II.\n\nThe plaintiffs filed a motion for class certification on July 17, 2025, seeking to include \u201call persons who are currently, or in the future, held at the Alligator Alcatraz detention facility.\u201d That same day, they also filed an expedited motion for a temporary restraining order to ensure access to counsel and the ability to file court documents by July 21, 2025, and a preliminary injunction.\n\nThe plaintiffs alleged that the defendants restricted confidential attorney-client communication, violating detainees\u2019 First Amendment rights to legal counsel and Fifth Amendment due process rights. They claimed the facility lacked standard protocols for private communication, such as in-person visits or unmonitored calls, leaving detainees dependent on infrequent, monitored five-minute collect calls. Attorneys reported that ICE\u2019s detainee locator failed to show client locations, contact emails were invalid, phone calls were disconnected, and legal access was blocked at an armed checkpoint. Even when \u201cLegal Counsel Visitation Request Forms\u201d were provided, they often led to cancellations or no response. The plaintiffs also alleged that the government gave no guidance on which immigration courts handled bond motions, preventing detainees from contesting their detention.\n\nOn July 23, 2025, the court denied the plaintiffs\u2019 expedited motion for a temporary restraining order and preliminary injunction as an emergency motion, ruling it was not properly certified under Local Rule 7.1(d)(1). The court treated it instead as an expedited motion and stated it would not be considered until all defendants were served and expedited briefing was ordered. Plaintiffs were directed to file a service status report by July 28, 2025. The judge also required clarification on whether the motion sought relief only for the named plaintiffs or for the entire proposed class.\n\nOn July 29, 2025, the plaintiffs filed a renewed motion for a preliminary injunction and class certification. The renewed preliminary injunction motion clarified that relief was sought for both the main class (access to counsel) and a new \u201cbond subclass\u201d (access to immigration courts). Unlike the original filing, it was not framed as an emergency motion. The renewed motion also included more detailed allegations, such as attorneys being stopped at a military checkpoint and visitation request forms requiring pre-approval of legal documents. The renewed motion for class certification introduced a new subclass of detainees seeking bond, added several new plaintiffs, and expanded the background with claims that the facility, which opened in early July 2025, had extreme heat, flooding, mosquitoes, and inadequate shelter.\n\nOn August 12, 2025, the court issued an order dismissing, without prejudice, defendant Sherea Green, the Director of Miami-Dade Corrections and Rehabilitation.\n\nOn August 18, 2025, the court heard the plaintiffs\u2019 motion for a preliminary injunction. Later that day, the court transferred the case to the Middle District of Florida (2:25-cv-00747), where the \u201cAlligator Alcatraz\u201d facility is located, and dismissed the plaintiffs\u2019 Fifth Amendment claim against the EOIR as moot after the agency identified the Krome immigration court\u2019s jurisdiction. The court left the First Amendment access-to-counsel claims unresolved, but noted that venue for them was improper in the Southern District. The order also recorded the plaintiffs\u2019 voluntary dismissal of one defendant and criticized the shifting nature of the plaintiffs\u2019 filings and venue theories. The case was reassigned to Judge Sheri Chappell.\n\nThis case is ongoing.",
+    "target_paragraph": "The plaintiffs filed a motion for class certification on July 17, 2025, seeking to include \u201call persons who are currently, or in the future, held at the Alligator Alcatraz detention facility.\u201d That same day, they also filed an expedited motion for a temporary restraining order to ensure access to counsel and the ability to file court documents by July 21, 2025, and a preliminary injunction.",
+    "target_paragraph_indices": [
+      1321,
+      1714
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1514,
+            1714
+          ]
+        ],
+        "annotation": {
+          "explanation": "Temporary restraining order to ensure access to counsel and the ability to file court documents by July 21, 2025.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1514,
+            1714
+          ],
+          [
+            3189,
+            3475
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction requiring access to counsel for the main class and access to immigration courts for a bond subclass.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            2,
+            5
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1321,
+            1513
+          ],
+          [
+            3189,
+            3475
+          ],
+          [
+            3735,
+            4016
+          ]
+        ],
+        "annotation": {
+          "explanation": "Class certification for a class of all persons held at the facility, including a bond subclass.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            2,
+            5
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1321,
+            1513
+          ],
+          [
+            1514,
+            1714
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 17, 2025, plaintiffs sought class certification for all current and future detainees at the facility and requested expedited TRO/PI relief to secure access to counsel and court filing capability by July 21, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1321,
+            1513
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for class certification filed July 17, 2025 (proposed class: all current and future detainees at Alligator Alcatraz).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1514,
+            1714
+          ]
+        ],
+        "annotation": {
+          "explanation": "Expedited motion for temporary restraining order and preliminary injunction filed July 17, 2025 (to ensure access to counsel and ability to file by July 21, 2025).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1321,
+            1513
+          ]
+        ],
+        "annotation": {
+          "explanation": "Initial motion for class certification filed July 17, 2025 for a facility-wide detainee class.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1514,
+            1714
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 17, 2025, plaintiffs filed an expedited TRO and preliminary injunction motion seeking relief by July 21, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46799_p3",
+    "metadata": {
+      "case_id": "46799",
+      "paragraph_num": 3,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs alleged that the defendants restricted confidential attorney-client communication, vi..."
+    },
+    "source": "",
+    "target": "This class action lawsuit challenges conditions at a temporary immigration detention facility known as \u201cAlligator Alcatraz\u201d in the Florida Everglades. Built in June 2025, the facility consists of tents, trailers, chain-link fencing, and barbed wire, with a capacity of at least 3,000 people. It is surrounded by wetlands populated with alligators and venomous snakes. President Trump publicly stated that detainees would \u201clearn how to run away from an alligator if they escape prison,\u201d adding that \u201cthe only way out, really, is deportation.\u201d\n\nThe plaintiffs are immigrants detained at \u201cAlligator Alcatraz,\u201d along with several organizations, including Florida Keys Immigration, the Law Offices of Catherine Perez PLLC, Sanctuary of the South, and U.S. Immigration Law Counsel. On July 16, 2025, in the U.S. District Court for the Southern District of Florida, they sued the Department of Homeland Security and its Secretary, the Acting Director of U.S. Immigration and Customs Enforcement (ICE), ICE\u2019s Miami Field Office Director, the Governor of Florida, the Director of Miami-Dade Corrections and Rehabilitation, the Florida Division of Emergency Management and its Executive Director, and the Executive Office for Immigration Review and its Acting Director. The case was assigned to District Judge Rodolfo A. Ruiz II.\n\nThe plaintiffs filed a motion for class certification on July 17, 2025, seeking to include \u201call persons who are currently, or in the future, held at the Alligator Alcatraz detention facility.\u201d That same day, they also filed an expedited motion for a temporary restraining order to ensure access to counsel and the ability to file court documents by July 21, 2025, and a preliminary injunction.\n\nThe plaintiffs alleged that the defendants restricted confidential attorney-client communication, violating detainees\u2019 First Amendment rights to legal counsel and Fifth Amendment due process rights. They claimed the facility lacked standard protocols for private communication, such as in-person visits or unmonitored calls, leaving detainees dependent on infrequent, monitored five-minute collect calls. Attorneys reported that ICE\u2019s detainee locator failed to show client locations, contact emails were invalid, phone calls were disconnected, and legal access was blocked at an armed checkpoint. Even when \u201cLegal Counsel Visitation Request Forms\u201d were provided, they often led to cancellations or no response. The plaintiffs also alleged that the government gave no guidance on which immigration courts handled bond motions, preventing detainees from contesting their detention.\n\nOn July 23, 2025, the court denied the plaintiffs\u2019 expedited motion for a temporary restraining order and preliminary injunction as an emergency motion, ruling it was not properly certified under Local Rule 7.1(d)(1). The court treated it instead as an expedited motion and stated it would not be considered until all defendants were served and expedited briefing was ordered. Plaintiffs were directed to file a service status report by July 28, 2025. The judge also required clarification on whether the motion sought relief only for the named plaintiffs or for the entire proposed class.\n\nOn July 29, 2025, the plaintiffs filed a renewed motion for a preliminary injunction and class certification. The renewed preliminary injunction motion clarified that relief was sought for both the main class (access to counsel) and a new \u201cbond subclass\u201d (access to immigration courts). Unlike the original filing, it was not framed as an emergency motion. The renewed motion also included more detailed allegations, such as attorneys being stopped at a military checkpoint and visitation request forms requiring pre-approval of legal documents. The renewed motion for class certification introduced a new subclass of detainees seeking bond, added several new plaintiffs, and expanded the background with claims that the facility, which opened in early July 2025, had extreme heat, flooding, mosquitoes, and inadequate shelter.\n\nOn August 12, 2025, the court issued an order dismissing, without prejudice, defendant Sherea Green, the Director of Miami-Dade Corrections and Rehabilitation.\n\nOn August 18, 2025, the court heard the plaintiffs\u2019 motion for a preliminary injunction. Later that day, the court transferred the case to the Middle District of Florida (2:25-cv-00747), where the \u201cAlligator Alcatraz\u201d facility is located, and dismissed the plaintiffs\u2019 Fifth Amendment claim against the EOIR as moot after the agency identified the Krome immigration court\u2019s jurisdiction. The court left the First Amendment access-to-counsel claims unresolved, but noted that venue for them was improper in the Southern District. The order also recorded the plaintiffs\u2019 voluntary dismissal of one defendant and criticized the shifting nature of the plaintiffs\u2019 filings and venue theories. The case was reassigned to Judge Sheri Chappell.\n\nThis case is ongoing.",
+    "target_paragraph": "The plaintiffs alleged that the defendants restricted confidential attorney-client communication, violating detainees\u2019 First Amendment rights to legal counsel and Fifth Amendment due process rights. They claimed the facility lacked standard protocols for private communication, such as in-person visits or unmonitored calls, leaving detainees dependent on infrequent, monitored five-minute collect calls. Attorneys reported that ICE\u2019s detainee locator failed to show client locations, contact emails were invalid, phone calls were disconnected, and legal access was blocked at an armed checkpoint. Even when \u201cLegal Counsel Visitation Request Forms\u201d were provided, they often led to cancellations or no response. The plaintiffs also alleged that the government gave no guidance on which immigration courts handled bond motions, preventing detainees from contesting their detention.",
+    "target_paragraph_indices": [
+      1716,
+      2596
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1716,
+            1914
+          ],
+          [
+            3299,
+            3475
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim under the First Amendment for access to counsel/confidential attorney-client communication; no specific statutory or case-based cause of action (e.g., 42 U.S.C. \u00a7 1983, Ex parte Young) is identified in the summary.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            3,
+            5
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1716,
+            1914
+          ],
+          [
+            3299,
+            3475
+          ],
+          [
+            4418,
+            4566
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim under the Fifth Amendment Due Process Clause regarding access to immigration courts/bond and the ability to contest detention; no specific statutory or case-based cause of action is identified in the summary.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            3,
+            5,
+            7
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1716,
+            1914
+          ],
+          [
+            4567,
+            4707
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment (access-to-counsel rights)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            3,
+            7
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1716,
+            1914
+          ],
+          [
+            4418,
+            4566
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment Due Process Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            3,
+            7
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1716,
+            1914
+          ],
+          [
+            1915,
+            2120
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs allege systemic restrictions on confidential attorney-client communication at the facility, lacking standard private communication protocols and limiting detainees to infrequent monitored five-minute collect calls, violating First Amendment and Fifth Amendment rights.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2121,
+            2313
+          ],
+          [
+            2314,
+            2427
+          ],
+          [
+            2428,
+            2596
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys faced practical barriers: ICE detainee locator did not display client locations, contact emails were invalid, calls were disconnected, access was blocked at an armed checkpoint, visitation request forms resulted in cancellations/no responses, and no guidance existed on which immigration court handled bond motions, impairing challenges to detention.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46799_p4",
+    "metadata": {
+      "case_id": "46799",
+      "paragraph_num": 4,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 23, 2025, the court denied the plaintiffs\u2019 expedited motion for a temporary restraining orde..."
+    },
+    "source": "",
+    "target": "This class action lawsuit challenges conditions at a temporary immigration detention facility known as \u201cAlligator Alcatraz\u201d in the Florida Everglades. Built in June 2025, the facility consists of tents, trailers, chain-link fencing, and barbed wire, with a capacity of at least 3,000 people. It is surrounded by wetlands populated with alligators and venomous snakes. President Trump publicly stated that detainees would \u201clearn how to run away from an alligator if they escape prison,\u201d adding that \u201cthe only way out, really, is deportation.\u201d\n\nThe plaintiffs are immigrants detained at \u201cAlligator Alcatraz,\u201d along with several organizations, including Florida Keys Immigration, the Law Offices of Catherine Perez PLLC, Sanctuary of the South, and U.S. Immigration Law Counsel. On July 16, 2025, in the U.S. District Court for the Southern District of Florida, they sued the Department of Homeland Security and its Secretary, the Acting Director of U.S. Immigration and Customs Enforcement (ICE), ICE\u2019s Miami Field Office Director, the Governor of Florida, the Director of Miami-Dade Corrections and Rehabilitation, the Florida Division of Emergency Management and its Executive Director, and the Executive Office for Immigration Review and its Acting Director. The case was assigned to District Judge Rodolfo A. Ruiz II.\n\nThe plaintiffs filed a motion for class certification on July 17, 2025, seeking to include \u201call persons who are currently, or in the future, held at the Alligator Alcatraz detention facility.\u201d That same day, they also filed an expedited motion for a temporary restraining order to ensure access to counsel and the ability to file court documents by July 21, 2025, and a preliminary injunction.\n\nThe plaintiffs alleged that the defendants restricted confidential attorney-client communication, violating detainees\u2019 First Amendment rights to legal counsel and Fifth Amendment due process rights. They claimed the facility lacked standard protocols for private communication, such as in-person visits or unmonitored calls, leaving detainees dependent on infrequent, monitored five-minute collect calls. Attorneys reported that ICE\u2019s detainee locator failed to show client locations, contact emails were invalid, phone calls were disconnected, and legal access was blocked at an armed checkpoint. Even when \u201cLegal Counsel Visitation Request Forms\u201d were provided, they often led to cancellations or no response. The plaintiffs also alleged that the government gave no guidance on which immigration courts handled bond motions, preventing detainees from contesting their detention.\n\nOn July 23, 2025, the court denied the plaintiffs\u2019 expedited motion for a temporary restraining order and preliminary injunction as an emergency motion, ruling it was not properly certified under Local Rule 7.1(d)(1). The court treated it instead as an expedited motion and stated it would not be considered until all defendants were served and expedited briefing was ordered. Plaintiffs were directed to file a service status report by July 28, 2025. The judge also required clarification on whether the motion sought relief only for the named plaintiffs or for the entire proposed class.\n\nOn July 29, 2025, the plaintiffs filed a renewed motion for a preliminary injunction and class certification. The renewed preliminary injunction motion clarified that relief was sought for both the main class (access to counsel) and a new \u201cbond subclass\u201d (access to immigration courts). Unlike the original filing, it was not framed as an emergency motion. The renewed motion also included more detailed allegations, such as attorneys being stopped at a military checkpoint and visitation request forms requiring pre-approval of legal documents. The renewed motion for class certification introduced a new subclass of detainees seeking bond, added several new plaintiffs, and expanded the background with claims that the facility, which opened in early July 2025, had extreme heat, flooding, mosquitoes, and inadequate shelter.\n\nOn August 12, 2025, the court issued an order dismissing, without prejudice, defendant Sherea Green, the Director of Miami-Dade Corrections and Rehabilitation.\n\nOn August 18, 2025, the court heard the plaintiffs\u2019 motion for a preliminary injunction. Later that day, the court transferred the case to the Middle District of Florida (2:25-cv-00747), where the \u201cAlligator Alcatraz\u201d facility is located, and dismissed the plaintiffs\u2019 Fifth Amendment claim against the EOIR as moot after the agency identified the Krome immigration court\u2019s jurisdiction. The court left the First Amendment access-to-counsel claims unresolved, but noted that venue for them was improper in the Southern District. The order also recorded the plaintiffs\u2019 voluntary dismissal of one defendant and criticized the shifting nature of the plaintiffs\u2019 filings and venue theories. The case was reassigned to Judge Sheri Chappell.\n\nThis case is ongoing.",
+    "target_paragraph": "On July 23, 2025, the court denied the plaintiffs\u2019 expedited motion for a temporary restraining order and preliminary injunction as an emergency motion, ruling it was not properly certified under Local Rule 7.1(d)(1). The court treated it instead as an expedited motion and stated it would not be considered until all defendants were served and expedited briefing was ordered. Plaintiffs were directed to file a service status report by July 28, 2025. The judge also required clarification on whether the motion sought relief only for the named plaintiffs or for the entire proposed class.",
+    "target_paragraph_indices": [
+      2598,
+      3187
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            2975,
+            3049
+          ]
+        ],
+        "annotation": {
+          "explanation": "by July 28, 2025: Plaintiffs were directed to file a service status report.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2598,
+            2815
+          ],
+          [
+            2816,
+            2974
+          ],
+          [
+            2975,
+            3049
+          ],
+          [
+            3050,
+            3187
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 23, 2025: The court denied the plaintiffs\u2019 expedited TRO/PI as an emergency motion for lack of proper certification, treated it as an expedited motion to be considered after service, directed plaintiffs to file a service status report by July 28, 2025, and required clarification on the scope of relief.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2598,
+            2815
+          ],
+          [
+            2816,
+            2974
+          ],
+          [
+            2975,
+            3049
+          ],
+          [
+            3050,
+            3187
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 23, 2025, the court rejected the emergency posture of the TRO/PI for certification defects, deferred consideration until service and briefing, directed a service status report, and sought clarification on the scope of requested relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2598,
+            3187
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order on July 23, 2025: denied emergency treatment of TRO/PI; reclassified as expedited; to be considered after service; directed service status report by July 28, 2025; required clarification on scope of relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2598,
+            2815
+          ],
+          [
+            2816,
+            2974
+          ],
+          [
+            2975,
+            3049
+          ],
+          [
+            3050,
+            3187
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 23, 2025, the court denied emergency treatment of the TRO/PI under Local Rule 7.1(d)(1), reclassified it as an expedited motion to be considered after service and expedited briefing; ordered a service status report by July 28, 2025; and required clarification on whether relief was for named plaintiffs or the proposed class.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2598,
+            2815
+          ],
+          [
+            2816,
+            2974
+          ],
+          [
+            2975,
+            3049
+          ],
+          [
+            3050,
+            3187
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 23, 2025: Denied plaintiffs\u2019 emergency TRO/PI motion as not properly certified under Local Rule 7.1(d)(1); reclassified as an expedited motion; deferred consideration until service and expedited briefing; ordered a service status report by July 28 and required clarification on the motion\u2019s scope.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46799_p5",
+    "metadata": {
+      "case_id": "46799",
+      "paragraph_num": 5,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 29, 2025, the plaintiffs filed a renewed motion for a preliminary injunction and class certi..."
+    },
+    "source": "",
+    "target": "This class action lawsuit challenges conditions at a temporary immigration detention facility known as \u201cAlligator Alcatraz\u201d in the Florida Everglades. Built in June 2025, the facility consists of tents, trailers, chain-link fencing, and barbed wire, with a capacity of at least 3,000 people. It is surrounded by wetlands populated with alligators and venomous snakes. President Trump publicly stated that detainees would \u201clearn how to run away from an alligator if they escape prison,\u201d adding that \u201cthe only way out, really, is deportation.\u201d\n\nThe plaintiffs are immigrants detained at \u201cAlligator Alcatraz,\u201d along with several organizations, including Florida Keys Immigration, the Law Offices of Catherine Perez PLLC, Sanctuary of the South, and U.S. Immigration Law Counsel. On July 16, 2025, in the U.S. District Court for the Southern District of Florida, they sued the Department of Homeland Security and its Secretary, the Acting Director of U.S. Immigration and Customs Enforcement (ICE), ICE\u2019s Miami Field Office Director, the Governor of Florida, the Director of Miami-Dade Corrections and Rehabilitation, the Florida Division of Emergency Management and its Executive Director, and the Executive Office for Immigration Review and its Acting Director. The case was assigned to District Judge Rodolfo A. Ruiz II.\n\nThe plaintiffs filed a motion for class certification on July 17, 2025, seeking to include \u201call persons who are currently, or in the future, held at the Alligator Alcatraz detention facility.\u201d That same day, they also filed an expedited motion for a temporary restraining order to ensure access to counsel and the ability to file court documents by July 21, 2025, and a preliminary injunction.\n\nThe plaintiffs alleged that the defendants restricted confidential attorney-client communication, violating detainees\u2019 First Amendment rights to legal counsel and Fifth Amendment due process rights. They claimed the facility lacked standard protocols for private communication, such as in-person visits or unmonitored calls, leaving detainees dependent on infrequent, monitored five-minute collect calls. Attorneys reported that ICE\u2019s detainee locator failed to show client locations, contact emails were invalid, phone calls were disconnected, and legal access was blocked at an armed checkpoint. Even when \u201cLegal Counsel Visitation Request Forms\u201d were provided, they often led to cancellations or no response. The plaintiffs also alleged that the government gave no guidance on which immigration courts handled bond motions, preventing detainees from contesting their detention.\n\nOn July 23, 2025, the court denied the plaintiffs\u2019 expedited motion for a temporary restraining order and preliminary injunction as an emergency motion, ruling it was not properly certified under Local Rule 7.1(d)(1). The court treated it instead as an expedited motion and stated it would not be considered until all defendants were served and expedited briefing was ordered. Plaintiffs were directed to file a service status report by July 28, 2025. The judge also required clarification on whether the motion sought relief only for the named plaintiffs or for the entire proposed class.\n\nOn July 29, 2025, the plaintiffs filed a renewed motion for a preliminary injunction and class certification. The renewed preliminary injunction motion clarified that relief was sought for both the main class (access to counsel) and a new \u201cbond subclass\u201d (access to immigration courts). Unlike the original filing, it was not framed as an emergency motion. The renewed motion also included more detailed allegations, such as attorneys being stopped at a military checkpoint and visitation request forms requiring pre-approval of legal documents. The renewed motion for class certification introduced a new subclass of detainees seeking bond, added several new plaintiffs, and expanded the background with claims that the facility, which opened in early July 2025, had extreme heat, flooding, mosquitoes, and inadequate shelter.\n\nOn August 12, 2025, the court issued an order dismissing, without prejudice, defendant Sherea Green, the Director of Miami-Dade Corrections and Rehabilitation.\n\nOn August 18, 2025, the court heard the plaintiffs\u2019 motion for a preliminary injunction. Later that day, the court transferred the case to the Middle District of Florida (2:25-cv-00747), where the \u201cAlligator Alcatraz\u201d facility is located, and dismissed the plaintiffs\u2019 Fifth Amendment claim against the EOIR as moot after the agency identified the Krome immigration court\u2019s jurisdiction. The court left the First Amendment access-to-counsel claims unresolved, but noted that venue for them was improper in the Southern District. The order also recorded the plaintiffs\u2019 voluntary dismissal of one defendant and criticized the shifting nature of the plaintiffs\u2019 filings and venue theories. The case was reassigned to Judge Sheri Chappell.\n\nThis case is ongoing.",
+    "target_paragraph": "On July 29, 2025, the plaintiffs filed a renewed motion for a preliminary injunction and class certification. The renewed preliminary injunction motion clarified that relief was sought for both the main class (access to counsel) and a new \u201cbond subclass\u201d (access to immigration courts). Unlike the original filing, it was not framed as an emergency motion. The renewed motion also included more detailed allegations, such as attorneys being stopped at a military checkpoint and visitation request forms requiring pre-approval of legal documents. The renewed motion for class certification introduced a new subclass of detainees seeking bond, added several new plaintiffs, and expanded the background with claims that the facility, which opened in early July 2025, had extreme heat, flooding, mosquitoes, and inadequate shelter.",
+    "target_paragraph_indices": [
+      3189,
+      4016
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3189,
+            3298
+          ],
+          [
+            3299,
+            3475
+          ],
+          [
+            3546,
+            3734
+          ],
+          [
+            3735,
+            4016
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 29, 2025, plaintiffs renewed their PI and class motions, seeking relief for a main access-to-counsel class and a bond subclass, adding allegations of a military checkpoint blocking attorneys, pre-approval requirements for legal documents, and harsh facility conditions (extreme heat, flooding, mosquitoes, inadequate shelter).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3189,
+            3298
+          ],
+          [
+            3299,
+            3545
+          ]
+        ],
+        "annotation": {
+          "explanation": "Renewed motion for preliminary injunction and renewed motion for class certification filed July 29, 2025; sought relief for main class and new 'bond subclass'; not filed as an emergency.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3189,
+            3298
+          ],
+          [
+            3299,
+            3475
+          ],
+          [
+            3476,
+            3545
+          ],
+          [
+            3546,
+            3734
+          ],
+          [
+            3735,
+            4016
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 29, 2025, plaintiffs filed renewed motions for preliminary injunction and class certification, clarifying relief for the main class and a new bond subclass; the motions were not filed as emergencies and included expanded factual allegations and additional plaintiffs.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46799_p6",
+    "metadata": {
+      "case_id": "46799",
+      "paragraph_num": 6,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 12, 2025, the court issued an order dismissing, without prejudice, defendant Sherea Green,..."
+    },
+    "source": "",
+    "target": "This class action lawsuit challenges conditions at a temporary immigration detention facility known as \u201cAlligator Alcatraz\u201d in the Florida Everglades. Built in June 2025, the facility consists of tents, trailers, chain-link fencing, and barbed wire, with a capacity of at least 3,000 people. It is surrounded by wetlands populated with alligators and venomous snakes. President Trump publicly stated that detainees would \u201clearn how to run away from an alligator if they escape prison,\u201d adding that \u201cthe only way out, really, is deportation.\u201d\n\nThe plaintiffs are immigrants detained at \u201cAlligator Alcatraz,\u201d along with several organizations, including Florida Keys Immigration, the Law Offices of Catherine Perez PLLC, Sanctuary of the South, and U.S. Immigration Law Counsel. On July 16, 2025, in the U.S. District Court for the Southern District of Florida, they sued the Department of Homeland Security and its Secretary, the Acting Director of U.S. Immigration and Customs Enforcement (ICE), ICE\u2019s Miami Field Office Director, the Governor of Florida, the Director of Miami-Dade Corrections and Rehabilitation, the Florida Division of Emergency Management and its Executive Director, and the Executive Office for Immigration Review and its Acting Director. The case was assigned to District Judge Rodolfo A. Ruiz II.\n\nThe plaintiffs filed a motion for class certification on July 17, 2025, seeking to include \u201call persons who are currently, or in the future, held at the Alligator Alcatraz detention facility.\u201d That same day, they also filed an expedited motion for a temporary restraining order to ensure access to counsel and the ability to file court documents by July 21, 2025, and a preliminary injunction.\n\nThe plaintiffs alleged that the defendants restricted confidential attorney-client communication, violating detainees\u2019 First Amendment rights to legal counsel and Fifth Amendment due process rights. They claimed the facility lacked standard protocols for private communication, such as in-person visits or unmonitored calls, leaving detainees dependent on infrequent, monitored five-minute collect calls. Attorneys reported that ICE\u2019s detainee locator failed to show client locations, contact emails were invalid, phone calls were disconnected, and legal access was blocked at an armed checkpoint. Even when \u201cLegal Counsel Visitation Request Forms\u201d were provided, they often led to cancellations or no response. The plaintiffs also alleged that the government gave no guidance on which immigration courts handled bond motions, preventing detainees from contesting their detention.\n\nOn July 23, 2025, the court denied the plaintiffs\u2019 expedited motion for a temporary restraining order and preliminary injunction as an emergency motion, ruling it was not properly certified under Local Rule 7.1(d)(1). The court treated it instead as an expedited motion and stated it would not be considered until all defendants were served and expedited briefing was ordered. Plaintiffs were directed to file a service status report by July 28, 2025. The judge also required clarification on whether the motion sought relief only for the named plaintiffs or for the entire proposed class.\n\nOn July 29, 2025, the plaintiffs filed a renewed motion for a preliminary injunction and class certification. The renewed preliminary injunction motion clarified that relief was sought for both the main class (access to counsel) and a new \u201cbond subclass\u201d (access to immigration courts). Unlike the original filing, it was not framed as an emergency motion. The renewed motion also included more detailed allegations, such as attorneys being stopped at a military checkpoint and visitation request forms requiring pre-approval of legal documents. The renewed motion for class certification introduced a new subclass of detainees seeking bond, added several new plaintiffs, and expanded the background with claims that the facility, which opened in early July 2025, had extreme heat, flooding, mosquitoes, and inadequate shelter.\n\nOn August 12, 2025, the court issued an order dismissing, without prejudice, defendant Sherea Green, the Director of Miami-Dade Corrections and Rehabilitation.\n\nOn August 18, 2025, the court heard the plaintiffs\u2019 motion for a preliminary injunction. Later that day, the court transferred the case to the Middle District of Florida (2:25-cv-00747), where the \u201cAlligator Alcatraz\u201d facility is located, and dismissed the plaintiffs\u2019 Fifth Amendment claim against the EOIR as moot after the agency identified the Krome immigration court\u2019s jurisdiction. The court left the First Amendment access-to-counsel claims unresolved, but noted that venue for them was improper in the Southern District. The order also recorded the plaintiffs\u2019 voluntary dismissal of one defendant and criticized the shifting nature of the plaintiffs\u2019 filings and venue theories. The case was reassigned to Judge Sheri Chappell.\n\nThis case is ongoing.",
+    "target_paragraph": "On August 12, 2025, the court issued an order dismissing, without prejudice, defendant Sherea Green, the Director of Miami-Dade Corrections and Rehabilitation.",
+    "target_paragraph_indices": [
+      4018,
+      4177
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4018,
+            4177
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 12, 2025: The court issued an order dismissing, without prejudice, defendant Sherea Green, the Director of Miami-Dade Corrections and Rehabilitation.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4018,
+            4177
+          ]
+        ],
+        "annotation": {
+          "explanation": "On August 12, 2025, the court dismissed defendant Sherea Green without prejudice.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4018,
+            4177
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order on August 12, 2025: dismissed defendant Sherea Green without prejudice.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4018,
+            4177
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 12, 2025: Court dismissed defendant Sherea Green without prejudice.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4018,
+            4177
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 12, 2025: Dismissed defendant Sherea Green without prejudice.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46799_p7",
+    "metadata": {
+      "case_id": "46799",
+      "paragraph_num": 7,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On August 18, 2025, the court heard the plaintiffs\u2019 motion for a preliminary injunction. Later that ..."
+    },
+    "source": "",
+    "target": "This class action lawsuit challenges conditions at a temporary immigration detention facility known as \u201cAlligator Alcatraz\u201d in the Florida Everglades. Built in June 2025, the facility consists of tents, trailers, chain-link fencing, and barbed wire, with a capacity of at least 3,000 people. It is surrounded by wetlands populated with alligators and venomous snakes. President Trump publicly stated that detainees would \u201clearn how to run away from an alligator if they escape prison,\u201d adding that \u201cthe only way out, really, is deportation.\u201d\n\nThe plaintiffs are immigrants detained at \u201cAlligator Alcatraz,\u201d along with several organizations, including Florida Keys Immigration, the Law Offices of Catherine Perez PLLC, Sanctuary of the South, and U.S. Immigration Law Counsel. On July 16, 2025, in the U.S. District Court for the Southern District of Florida, they sued the Department of Homeland Security and its Secretary, the Acting Director of U.S. Immigration and Customs Enforcement (ICE), ICE\u2019s Miami Field Office Director, the Governor of Florida, the Director of Miami-Dade Corrections and Rehabilitation, the Florida Division of Emergency Management and its Executive Director, and the Executive Office for Immigration Review and its Acting Director. The case was assigned to District Judge Rodolfo A. Ruiz II.\n\nThe plaintiffs filed a motion for class certification on July 17, 2025, seeking to include \u201call persons who are currently, or in the future, held at the Alligator Alcatraz detention facility.\u201d That same day, they also filed an expedited motion for a temporary restraining order to ensure access to counsel and the ability to file court documents by July 21, 2025, and a preliminary injunction.\n\nThe plaintiffs alleged that the defendants restricted confidential attorney-client communication, violating detainees\u2019 First Amendment rights to legal counsel and Fifth Amendment due process rights. They claimed the facility lacked standard protocols for private communication, such as in-person visits or unmonitored calls, leaving detainees dependent on infrequent, monitored five-minute collect calls. Attorneys reported that ICE\u2019s detainee locator failed to show client locations, contact emails were invalid, phone calls were disconnected, and legal access was blocked at an armed checkpoint. Even when \u201cLegal Counsel Visitation Request Forms\u201d were provided, they often led to cancellations or no response. The plaintiffs also alleged that the government gave no guidance on which immigration courts handled bond motions, preventing detainees from contesting their detention.\n\nOn July 23, 2025, the court denied the plaintiffs\u2019 expedited motion for a temporary restraining order and preliminary injunction as an emergency motion, ruling it was not properly certified under Local Rule 7.1(d)(1). The court treated it instead as an expedited motion and stated it would not be considered until all defendants were served and expedited briefing was ordered. Plaintiffs were directed to file a service status report by July 28, 2025. The judge also required clarification on whether the motion sought relief only for the named plaintiffs or for the entire proposed class.\n\nOn July 29, 2025, the plaintiffs filed a renewed motion for a preliminary injunction and class certification. The renewed preliminary injunction motion clarified that relief was sought for both the main class (access to counsel) and a new \u201cbond subclass\u201d (access to immigration courts). Unlike the original filing, it was not framed as an emergency motion. The renewed motion also included more detailed allegations, such as attorneys being stopped at a military checkpoint and visitation request forms requiring pre-approval of legal documents. The renewed motion for class certification introduced a new subclass of detainees seeking bond, added several new plaintiffs, and expanded the background with claims that the facility, which opened in early July 2025, had extreme heat, flooding, mosquitoes, and inadequate shelter.\n\nOn August 12, 2025, the court issued an order dismissing, without prejudice, defendant Sherea Green, the Director of Miami-Dade Corrections and Rehabilitation.\n\nOn August 18, 2025, the court heard the plaintiffs\u2019 motion for a preliminary injunction. Later that day, the court transferred the case to the Middle District of Florida (2:25-cv-00747), where the \u201cAlligator Alcatraz\u201d facility is located, and dismissed the plaintiffs\u2019 Fifth Amendment claim against the EOIR as moot after the agency identified the Krome immigration court\u2019s jurisdiction. The court left the First Amendment access-to-counsel claims unresolved, but noted that venue for them was improper in the Southern District. The order also recorded the plaintiffs\u2019 voluntary dismissal of one defendant and criticized the shifting nature of the plaintiffs\u2019 filings and venue theories. The case was reassigned to Judge Sheri Chappell.\n\nThis case is ongoing.",
+    "target_paragraph": "On August 18, 2025, the court heard the plaintiffs\u2019 motion for a preliminary injunction. Later that day, the court transferred the case to the Middle District of Florida (2:25-cv-00747), where the \u201cAlligator Alcatraz\u201d facility is located, and dismissed the plaintiffs\u2019 Fifth Amendment claim against the EOIR as moot after the agency identified the Krome immigration court\u2019s jurisdiction. The court left the First Amendment access-to-counsel claims unresolved, but noted that venue for them was improper in the Southern District. The order also recorded the plaintiffs\u2019 voluntary dismissal of one defendant and criticized the shifting nature of the plaintiffs\u2019 filings and venue theories. The case was reassigned to Judge Sheri Chappell.",
+    "target_paragraph_indices": [
+      4179,
+      4915
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            4867,
+            4915
+          ]
+        ],
+        "annotation": {
+          "explanation": "Sheri Chappell",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            4179,
+            4267
+          ],
+          [
+            4268,
+            4566
+          ],
+          [
+            4867,
+            4915
+          ]
+        ],
+        "annotation": {
+          "explanation": "Middle District of Florida Case No. 2:25-cv-00747 (transferred from the Southern District of Florida on Aug. 18, 2025); reassigned to Judge Sheri Chappell.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "court_enforced",
+        "output_idx": [
+          [
+            4567,
+            4707
+          ],
+          [
+            4917,
+            4938
+          ]
+        ],
+        "annotation": {
+          "explanation": "No.",
+          "checklist_item": "Whether the Settlement is Court-enforced or Not",
+          "spans_paragraphs": [
+            7,
+            8
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            4268,
+            4566
+          ],
+          [
+            4567,
+            4707
+          ],
+          [
+            4708,
+            4866
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 18, 2025: The court transferred the case to the Middle District of Florida (2:25-cv-00747), dismissed the plaintiffs\u2019 Fifth Amendment claim against the EOIR as moot, left the First Amendment access-to-counsel claims unresolved while noting improper venue, and recorded the plaintiffs\u2019 voluntary dismissal of one defendant.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4179,
+            4267
+          ],
+          [
+            4268,
+            4566
+          ],
+          [
+            4567,
+            4707
+          ],
+          [
+            4708,
+            4866
+          ],
+          [
+            4867,
+            4915
+          ]
+        ],
+        "annotation": {
+          "explanation": "On August 18, 2025, after a PI hearing, the court transferred venue to the Middle District of Florida, dismissed the EOIR Fifth Amendment claim as moot because EOIR identified Krome immigration court jurisdiction, noted venue issues for First Amendment claims (left unresolved), recorded a voluntary dismissal, criticized plaintiffs\u2019 shifting theories, and reassigned the case to Judge Sheri Chappell.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4179,
+            4267
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction hearing held on August 18, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4179,
+            4267
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 18, 2025: The court held a hearing on the plaintiffs\u2019 preliminary injunction motion.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4268,
+            4566
+          ],
+          [
+            4567,
+            4707
+          ],
+          [
+            4708,
+            4866
+          ],
+          [
+            4867,
+            4915
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 18, 2025: Following the PI hearing, the court transferred venue to the Middle District of Florida (2:25-cv-00747), dismissed the Fifth Amendment claim against EOIR as moot, left First Amendment access-to-counsel claims unresolved while noting improper venue in S.D. Fla., recorded plaintiffs\u2019 voluntary dismissal of one defendant, and reassigned the case to Judge Sheri Chappell.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4268,
+            4417
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 18, 2025: Transferred venue to the Middle District of Florida (2:25-cv-00747).",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4418,
+            4566
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 18, 2025: Dismissed plaintiffs\u2019 Fifth Amendment claim against EOIR as moot.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            4179,
+            4267
+          ],
+          [
+            4567,
+            4707
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 18, 2025: Heard the preliminary injunction motion but issued no merits ruling; First Amendment access-to-counsel claims left unresolved, with venue deemed improper in the Southern District.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      }
+    ]
+  },
+  {
+    "id": "46799_p8",
+    "metadata": {
+      "case_id": "46799",
+      "paragraph_num": 8,
+      "total_paragraphs": 9,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "This class action lawsuit challenges conditions at a temporary immigration detention facility known as \u201cAlligator Alcatraz\u201d in the Florida Everglades. Built in June 2025, the facility consists of tents, trailers, chain-link fencing, and barbed wire, with a capacity of at least 3,000 people. It is surrounded by wetlands populated with alligators and venomous snakes. President Trump publicly stated that detainees would \u201clearn how to run away from an alligator if they escape prison,\u201d adding that \u201cthe only way out, really, is deportation.\u201d\n\nThe plaintiffs are immigrants detained at \u201cAlligator Alcatraz,\u201d along with several organizations, including Florida Keys Immigration, the Law Offices of Catherine Perez PLLC, Sanctuary of the South, and U.S. Immigration Law Counsel. On July 16, 2025, in the U.S. District Court for the Southern District of Florida, they sued the Department of Homeland Security and its Secretary, the Acting Director of U.S. Immigration and Customs Enforcement (ICE), ICE\u2019s Miami Field Office Director, the Governor of Florida, the Director of Miami-Dade Corrections and Rehabilitation, the Florida Division of Emergency Management and its Executive Director, and the Executive Office for Immigration Review and its Acting Director. The case was assigned to District Judge Rodolfo A. Ruiz II.\n\nThe plaintiffs filed a motion for class certification on July 17, 2025, seeking to include \u201call persons who are currently, or in the future, held at the Alligator Alcatraz detention facility.\u201d That same day, they also filed an expedited motion for a temporary restraining order to ensure access to counsel and the ability to file court documents by July 21, 2025, and a preliminary injunction.\n\nThe plaintiffs alleged that the defendants restricted confidential attorney-client communication, violating detainees\u2019 First Amendment rights to legal counsel and Fifth Amendment due process rights. They claimed the facility lacked standard protocols for private communication, such as in-person visits or unmonitored calls, leaving detainees dependent on infrequent, monitored five-minute collect calls. Attorneys reported that ICE\u2019s detainee locator failed to show client locations, contact emails were invalid, phone calls were disconnected, and legal access was blocked at an armed checkpoint. Even when \u201cLegal Counsel Visitation Request Forms\u201d were provided, they often led to cancellations or no response. The plaintiffs also alleged that the government gave no guidance on which immigration courts handled bond motions, preventing detainees from contesting their detention.\n\nOn July 23, 2025, the court denied the plaintiffs\u2019 expedited motion for a temporary restraining order and preliminary injunction as an emergency motion, ruling it was not properly certified under Local Rule 7.1(d)(1). The court treated it instead as an expedited motion and stated it would not be considered until all defendants were served and expedited briefing was ordered. Plaintiffs were directed to file a service status report by July 28, 2025. The judge also required clarification on whether the motion sought relief only for the named plaintiffs or for the entire proposed class.\n\nOn July 29, 2025, the plaintiffs filed a renewed motion for a preliminary injunction and class certification. The renewed preliminary injunction motion clarified that relief was sought for both the main class (access to counsel) and a new \u201cbond subclass\u201d (access to immigration courts). Unlike the original filing, it was not framed as an emergency motion. The renewed motion also included more detailed allegations, such as attorneys being stopped at a military checkpoint and visitation request forms requiring pre-approval of legal documents. The renewed motion for class certification introduced a new subclass of detainees seeking bond, added several new plaintiffs, and expanded the background with claims that the facility, which opened in early July 2025, had extreme heat, flooding, mosquitoes, and inadequate shelter.\n\nOn August 12, 2025, the court issued an order dismissing, without prejudice, defendant Sherea Green, the Director of Miami-Dade Corrections and Rehabilitation.\n\nOn August 18, 2025, the court heard the plaintiffs\u2019 motion for a preliminary injunction. Later that day, the court transferred the case to the Middle District of Florida (2:25-cv-00747), where the \u201cAlligator Alcatraz\u201d facility is located, and dismissed the plaintiffs\u2019 Fifth Amendment claim against the EOIR as moot after the agency identified the Krome immigration court\u2019s jurisdiction. The court left the First Amendment access-to-counsel claims unresolved, but noted that venue for them was improper in the Southern District. The order also recorded the plaintiffs\u2019 voluntary dismissal of one defendant and criticized the shifting nature of the plaintiffs\u2019 filings and venue theories. The case was reassigned to Judge Sheri Chappell.\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      4917,
+      4938
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4917,
+            4938
+          ]
+        ],
+        "annotation": {
+          "explanation": "The litigation remains ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]

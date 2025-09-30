@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "46640_p0",
+    "metadata": {
+      "case_id": "46640",
+      "paragraph_num": 0,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenges two actions by the Trump Administration\u2019s National Science Foundation (NSF) tha..."
+    },
+    "source": "",
+    "target": "This case challenges two actions by the Trump Administration\u2019s National Science Foundation (NSF) that sixteen states argue will severely undermine the United States\u2019 leadership in STEM. First, in a policy issued on April 18, 2025, the NSF \u201cannounced that it would no longer abide by Congress\u2019s longstanding policy to promote a robust STEM workforce that draws in underrepresented populations.\u201d The Priority Directive stated that the NSF's efforts would not give preference to certain groups over others and that research projects with a narrow impact limited to subgroups based on protected characteristics did not align with its priorities. As a result, the NSF began issuing termination notices en masse to projects, including many in the plaintiff states, that sought to increase STEM participation by women, minorities, and people with disabilities.\n\nAdditionally, on May 2, 2025, the NSF issued its Indirect Cost Directive, which, in a break from prior policy, stated that it would not cover indirect costs at a rate higher than \"15% of modified total direct costs (MTDC), as defined in 2 CFR 200.1\" for grants and cooperative agreements awarded to Institutions of Higher Education (IHEs). Indirect costs fund vital research infrastructure, including facility costs like lab space, utilities, and custodial services, as well as administrative costs such as managing security requirements and preventing conflicts of interest.\n\nOn May 28, 2025, the states, represented by their respective attorneys general, filed this lawsuit against the National Science Foundation and its director in the U.S. District Court for the Southern District of New York. The plaintiffs brought claims under the Administrative Procedure Act, the Constitution\u2019s separation of powers and Take Care Clause, and alleged that the NSF had exceeded its statutory authority. The case was assigned to Judge John P. Cronan.\n\nAlongside the complaint, the plaintiffs filed a motion for a preliminary injunction, arguing that the NSF\u2019s Priority Directive was unlawful and caused irreparable harm. They contended that the directive was \u201carbitrary and capricious\u201d under the Administrative Procedure Act because it lacked a reasoned explanation for the change in priorities. They also argued that it was \u201ccontrary to law and beyond statutory authority\u201d because it ignored Congress\u2019s clear mandate to promote and fund projects aimed at increasing participation in STEM fields by women, minorities, and individuals with disabilities. The plaintiffs sought to enjoin the directive\u2019s implementation and reinstate the terminated grants, asserting that without such relief, they and their institutions would face serious non-monetary harm from the disruption of critical research and the undermining of congressional policy. They further sought to have the court vacate the directive under the APA, declare it unlawful, and issue both preliminary and permanent injunctions.\n\nOn June 20, 2025, the National Association of Scholars (NAS) moved to intervene in the case as a defendant, contending that \"NAS has an interest in ensuring that National Science Foundation research grants are awarded based on scientific merit rather than racial or gender preferences contrary to the Constitution\u2019s guarantee of Equal Protection.\" NAS further argued that its interests were not adequately represented by the current defendants, since \"there is no guarantee that the revised Policy Directive will remain unchanged. This administration or a new administration could resurrect policies for allocating National Science Foundation research funding based on DEI principles,\" potentially causing a divergence of positions among the defendants. On June 30, the court denied NAS\u2019s motion to intervene, concluding that NAS had not demonstrated that its interests were inadequately protected by the existing parties in the litigation.\n\nThe court denied the plaintiffs\u2019 motion for a preliminary injunction on August 1, 2025, finding that the plaintiffs failed to demonstrate a likelihood of success on the merits of their claims. 2025 WL 2180478. The court's primary reasoning was that it likely lacked subject matter jurisdiction over the case, as the plaintiffs' request to restore funding for the terminated grants was essentially a claim for monetary relief from the federal government exceeding $10,000. Such claims, under the Tucker Act, fall under the exclusive jurisdiction of the Court of Federal Claims, not the District Court. The court cited a recent Supreme Court case, Department of Education v. California, to support its conclusion that the plaintiffs' claims were likely contractual in nature and subject to the Tucker Act. It concluded that the plaintiffs' claims \"have traversed both sides of the jurisdictional boundary\" between the two courts, which weighed against granting the preliminary relief they sought.\n\nThe case is ongoing.",
+    "target_paragraph": "This case challenges two actions by the Trump Administration\u2019s National Science Foundation (NSF) that sixteen states argue will severely undermine the United States\u2019 leadership in STEM. First, in a policy issued on April 18, 2025, the NSF \u201cannounced that it would no longer abide by Congress\u2019s longstanding policy to promote a robust STEM workforce that draws in underrepresented populations.\u201d The Priority Directive stated that the NSF's efforts would not give preference to certain groups over others and that research projects with a narrow impact limited to subgroups based on protected characteristics did not align with its priorities. As a result, the NSF began issuing termination notices en masse to projects, including many in the plaintiff states, that sought to increase STEM participation by women, minorities, and people with disabilities.",
+    "target_paragraph_indices": [
+      0,
+      853
+    ],
+    "edits": [
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            97,
+            185
+          ],
+          [
+            1432,
+            1530
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as sixteen states, represented by their respective attorneys general",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            97,
+            185
+          ],
+          [
+            1432,
+            1653
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Sixteen states, represented by their respective attorneys general",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            96
+          ],
+          [
+            1512,
+            1587
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: National Science Foundation (NSF)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            186,
+            393
+          ],
+          [
+            394,
+            641
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 18, 2025: NSF issued the Priority Directive.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            185
+          ]
+        ],
+        "annotation": {
+          "explanation": "Sixteen states challenge two NSF actions they say will severely undermine U.S. leadership in STEM.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            193,
+            393
+          ],
+          [
+            394,
+            641
+          ]
+        ],
+        "annotation": {
+          "explanation": "On April 18, 2025, NSF issued a Priority Directive ending adherence to Congress\u2019s policy to promote a robust STEM workforce drawing from underrepresented populations, stating it would not give preference to certain groups and deeming subgroup-focused projects misaligned with NSF priorities.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            642,
+            853
+          ]
+        ],
+        "annotation": {
+          "explanation": "Following the Priority Directive, NSF issued mass termination notices to projects\u2014many in plaintiff states\u2014aimed at increasing STEM participation by women, minorities, and people with disabilities.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": "46640_p1",
+    "metadata": {
+      "case_id": "46640",
+      "paragraph_num": 1,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Additionally, on May 2, 2025, the NSF issued its Indirect Cost Directive, which, in a break from pri..."
+    },
+    "source": "",
+    "target": "This case challenges two actions by the Trump Administration\u2019s National Science Foundation (NSF) that sixteen states argue will severely undermine the United States\u2019 leadership in STEM. First, in a policy issued on April 18, 2025, the NSF \u201cannounced that it would no longer abide by Congress\u2019s longstanding policy to promote a robust STEM workforce that draws in underrepresented populations.\u201d The Priority Directive stated that the NSF's efforts would not give preference to certain groups over others and that research projects with a narrow impact limited to subgroups based on protected characteristics did not align with its priorities. As a result, the NSF began issuing termination notices en masse to projects, including many in the plaintiff states, that sought to increase STEM participation by women, minorities, and people with disabilities.\n\nAdditionally, on May 2, 2025, the NSF issued its Indirect Cost Directive, which, in a break from prior policy, stated that it would not cover indirect costs at a rate higher than \"15% of modified total direct costs (MTDC), as defined in 2 CFR 200.1\" for grants and cooperative agreements awarded to Institutions of Higher Education (IHEs). Indirect costs fund vital research infrastructure, including facility costs like lab space, utilities, and custodial services, as well as administrative costs such as managing security requirements and preventing conflicts of interest.\n\nOn May 28, 2025, the states, represented by their respective attorneys general, filed this lawsuit against the National Science Foundation and its director in the U.S. District Court for the Southern District of New York. The plaintiffs brought claims under the Administrative Procedure Act, the Constitution\u2019s separation of powers and Take Care Clause, and alleged that the NSF had exceeded its statutory authority. The case was assigned to Judge John P. Cronan.\n\nAlongside the complaint, the plaintiffs filed a motion for a preliminary injunction, arguing that the NSF\u2019s Priority Directive was unlawful and caused irreparable harm. They contended that the directive was \u201carbitrary and capricious\u201d under the Administrative Procedure Act because it lacked a reasoned explanation for the change in priorities. They also argued that it was \u201ccontrary to law and beyond statutory authority\u201d because it ignored Congress\u2019s clear mandate to promote and fund projects aimed at increasing participation in STEM fields by women, minorities, and individuals with disabilities. The plaintiffs sought to enjoin the directive\u2019s implementation and reinstate the terminated grants, asserting that without such relief, they and their institutions would face serious non-monetary harm from the disruption of critical research and the undermining of congressional policy. They further sought to have the court vacate the directive under the APA, declare it unlawful, and issue both preliminary and permanent injunctions.\n\nOn June 20, 2025, the National Association of Scholars (NAS) moved to intervene in the case as a defendant, contending that \"NAS has an interest in ensuring that National Science Foundation research grants are awarded based on scientific merit rather than racial or gender preferences contrary to the Constitution\u2019s guarantee of Equal Protection.\" NAS further argued that its interests were not adequately represented by the current defendants, since \"there is no guarantee that the revised Policy Directive will remain unchanged. This administration or a new administration could resurrect policies for allocating National Science Foundation research funding based on DEI principles,\" potentially causing a divergence of positions among the defendants. On June 30, the court denied NAS\u2019s motion to intervene, concluding that NAS had not demonstrated that its interests were inadequately protected by the existing parties in the litigation.\n\nThe court denied the plaintiffs\u2019 motion for a preliminary injunction on August 1, 2025, finding that the plaintiffs failed to demonstrate a likelihood of success on the merits of their claims. 2025 WL 2180478. The court's primary reasoning was that it likely lacked subject matter jurisdiction over the case, as the plaintiffs' request to restore funding for the terminated grants was essentially a claim for monetary relief from the federal government exceeding $10,000. Such claims, under the Tucker Act, fall under the exclusive jurisdiction of the Court of Federal Claims, not the District Court. The court cited a recent Supreme Court case, Department of Education v. California, to support its conclusion that the plaintiffs' claims were likely contractual in nature and subject to the Tucker Act. It concluded that the plaintiffs' claims \"have traversed both sides of the jurisdictional boundary\" between the two courts, which weighed against granting the preliminary relief they sought.\n\nThe case is ongoing.",
+    "target_paragraph": "Additionally, on May 2, 2025, the NSF issued its Indirect Cost Directive, which, in a break from prior policy, stated that it would not cover indirect costs at a rate higher than \"15% of modified total direct costs (MTDC), as defined in 2 CFR 200.1\" for grants and cooperative agreements awarded to Institutions of Higher Education (IHEs). Indirect costs fund vital research infrastructure, including facility costs like lab space, utilities, and custodial services, as well as administrative costs such as managing security requirements and preventing conflicts of interest.",
+    "target_paragraph_indices": [
+      855,
+      1430
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            855,
+            1194
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 2, 2025: NSF issued its Indirect Cost Directive.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            869,
+            1194
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 2, 2025, NSF issued an Indirect Cost Directive capping reimbursable indirect costs for IHE grants/cooperative agreements at 15% of MTDC, departing from prior policy.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1195,
+            1430
+          ]
+        ],
+        "annotation": {
+          "explanation": "Indirect costs finance essential research infrastructure and administration (labs, utilities, custodial services, security compliance, conflict-of-interest management).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46640_p2",
+    "metadata": {
+      "case_id": "46640",
+      "paragraph_num": 2,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 28, 2025, the states, represented by their respective attorneys general, filed this lawsuit a..."
+    },
+    "source": "",
+    "target": "This case challenges two actions by the Trump Administration\u2019s National Science Foundation (NSF) that sixteen states argue will severely undermine the United States\u2019 leadership in STEM. First, in a policy issued on April 18, 2025, the NSF \u201cannounced that it would no longer abide by Congress\u2019s longstanding policy to promote a robust STEM workforce that draws in underrepresented populations.\u201d The Priority Directive stated that the NSF's efforts would not give preference to certain groups over others and that research projects with a narrow impact limited to subgroups based on protected characteristics did not align with its priorities. As a result, the NSF began issuing termination notices en masse to projects, including many in the plaintiff states, that sought to increase STEM participation by women, minorities, and people with disabilities.\n\nAdditionally, on May 2, 2025, the NSF issued its Indirect Cost Directive, which, in a break from prior policy, stated that it would not cover indirect costs at a rate higher than \"15% of modified total direct costs (MTDC), as defined in 2 CFR 200.1\" for grants and cooperative agreements awarded to Institutions of Higher Education (IHEs). Indirect costs fund vital research infrastructure, including facility costs like lab space, utilities, and custodial services, as well as administrative costs such as managing security requirements and preventing conflicts of interest.\n\nOn May 28, 2025, the states, represented by their respective attorneys general, filed this lawsuit against the National Science Foundation and its director in the U.S. District Court for the Southern District of New York. The plaintiffs brought claims under the Administrative Procedure Act, the Constitution\u2019s separation of powers and Take Care Clause, and alleged that the NSF had exceeded its statutory authority. The case was assigned to Judge John P. Cronan.\n\nAlongside the complaint, the plaintiffs filed a motion for a preliminary injunction, arguing that the NSF\u2019s Priority Directive was unlawful and caused irreparable harm. They contended that the directive was \u201carbitrary and capricious\u201d under the Administrative Procedure Act because it lacked a reasoned explanation for the change in priorities. They also argued that it was \u201ccontrary to law and beyond statutory authority\u201d because it ignored Congress\u2019s clear mandate to promote and fund projects aimed at increasing participation in STEM fields by women, minorities, and individuals with disabilities. The plaintiffs sought to enjoin the directive\u2019s implementation and reinstate the terminated grants, asserting that without such relief, they and their institutions would face serious non-monetary harm from the disruption of critical research and the undermining of congressional policy. They further sought to have the court vacate the directive under the APA, declare it unlawful, and issue both preliminary and permanent injunctions.\n\nOn June 20, 2025, the National Association of Scholars (NAS) moved to intervene in the case as a defendant, contending that \"NAS has an interest in ensuring that National Science Foundation research grants are awarded based on scientific merit rather than racial or gender preferences contrary to the Constitution\u2019s guarantee of Equal Protection.\" NAS further argued that its interests were not adequately represented by the current defendants, since \"there is no guarantee that the revised Policy Directive will remain unchanged. This administration or a new administration could resurrect policies for allocating National Science Foundation research funding based on DEI principles,\" potentially causing a divergence of positions among the defendants. On June 30, the court denied NAS\u2019s motion to intervene, concluding that NAS had not demonstrated that its interests were inadequately protected by the existing parties in the litigation.\n\nThe court denied the plaintiffs\u2019 motion for a preliminary injunction on August 1, 2025, finding that the plaintiffs failed to demonstrate a likelihood of success on the merits of their claims. 2025 WL 2180478. The court's primary reasoning was that it likely lacked subject matter jurisdiction over the case, as the plaintiffs' request to restore funding for the terminated grants was essentially a claim for monetary relief from the federal government exceeding $10,000. Such claims, under the Tucker Act, fall under the exclusive jurisdiction of the Court of Federal Claims, not the District Court. The court cited a recent Supreme Court case, Department of Education v. California, to support its conclusion that the plaintiffs' claims were likely contractual in nature and subject to the Tucker Act. It concluded that the plaintiffs' claims \"have traversed both sides of the jurisdictional boundary\" between the two courts, which weighed against granting the preliminary relief they sought.\n\nThe case is ongoing.",
+    "target_paragraph": "On May 28, 2025, the states, represented by their respective attorneys general, filed this lawsuit against the National Science Foundation and its director in the U.S. District Court for the Southern District of New York. The plaintiffs brought claims under the Administrative Procedure Act, the Constitution\u2019s separation of powers and Take Care Clause, and alleged that the NSF had exceeded its statutory authority. The case was assigned to Judge John P. Cronan.",
+    "target_paragraph_indices": [
+      1432,
+      1895
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            1432,
+            1653
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 28, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1654,
+            1848
+          ],
+          [
+            2066,
+            2240
+          ],
+          [
+            2241,
+            2318
+          ],
+          [
+            2785,
+            2933
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) claims, including arbitrary and capricious and contrary to law/beyond statutory authority, seeking vacatur and injunctive relief.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1654,
+            1848
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claims under the Constitution\u2019s separation of powers and the Take Care Clause.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1654,
+            1848
+          ],
+          [
+            2241,
+            2318
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ultra vires/exceeded statutory authority claim against NSF.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1654,
+            1722
+          ],
+          [
+            1982,
+            2240
+          ],
+          [
+            2241,
+            2318
+          ],
+          [
+            2785,
+            2857
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) \u2014 claims that the directive was arbitrary and capricious, contrary to law, and beyond statutory authority; requested vacatur under the APA.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1654,
+            1848
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitution\u2019s separation of powers \u2014 alleged violation.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1654,
+            1848
+          ]
+        ],
+        "annotation": {
+          "explanation": "Take Care Clause \u2014 alleged violation.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1432,
+            1653
+          ]
+        ],
+        "annotation": {
+          "explanation": "State attorneys general (public/government counsel)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1849,
+            1895
+          ]
+        ],
+        "annotation": {
+          "explanation": "John P. Cronan",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1512,
+            1587
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Director of the National Science Foundation",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1432,
+            1653
+          ],
+          [
+            1849,
+            1895
+          ]
+        ],
+        "annotation": {
+          "explanation": "On May 28, 2025, the states (via their attorneys general) sued the NSF and its director in the Southern District of New York; Judge John P. Cronan was assigned.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1654,
+            1848
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs asserted APA claims, separation of powers and Take Care Clause violations, and that NSF exceeded its statutory authority.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1432,
+            1653
+          ],
+          [
+            1654,
+            1848
+          ],
+          [
+            1849,
+            1895
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed by plaintiff states on May 28, 2025, in the U.S. District Court for the Southern District of New York against the NSF and its director; claims under the APA, separation of powers/Take Care Clause, and exceeding statutory authority; assigned to Judge John P. Cronan.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1432,
+            1653
+          ],
+          [
+            1849,
+            1895
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed on May 28, 2025, in the U.S. District Court for the Southern District of New York; assigned to Judge John P. Cronan.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": "46640_p3",
+    "metadata": {
+      "case_id": "46640",
+      "paragraph_num": 3,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Alongside the complaint, the plaintiffs filed a motion for a preliminary injunction, arguing that th..."
+    },
+    "source": "",
+    "target": "This case challenges two actions by the Trump Administration\u2019s National Science Foundation (NSF) that sixteen states argue will severely undermine the United States\u2019 leadership in STEM. First, in a policy issued on April 18, 2025, the NSF \u201cannounced that it would no longer abide by Congress\u2019s longstanding policy to promote a robust STEM workforce that draws in underrepresented populations.\u201d The Priority Directive stated that the NSF's efforts would not give preference to certain groups over others and that research projects with a narrow impact limited to subgroups based on protected characteristics did not align with its priorities. As a result, the NSF began issuing termination notices en masse to projects, including many in the plaintiff states, that sought to increase STEM participation by women, minorities, and people with disabilities.\n\nAdditionally, on May 2, 2025, the NSF issued its Indirect Cost Directive, which, in a break from prior policy, stated that it would not cover indirect costs at a rate higher than \"15% of modified total direct costs (MTDC), as defined in 2 CFR 200.1\" for grants and cooperative agreements awarded to Institutions of Higher Education (IHEs). Indirect costs fund vital research infrastructure, including facility costs like lab space, utilities, and custodial services, as well as administrative costs such as managing security requirements and preventing conflicts of interest.\n\nOn May 28, 2025, the states, represented by their respective attorneys general, filed this lawsuit against the National Science Foundation and its director in the U.S. District Court for the Southern District of New York. The plaintiffs brought claims under the Administrative Procedure Act, the Constitution\u2019s separation of powers and Take Care Clause, and alleged that the NSF had exceeded its statutory authority. The case was assigned to Judge John P. Cronan.\n\nAlongside the complaint, the plaintiffs filed a motion for a preliminary injunction, arguing that the NSF\u2019s Priority Directive was unlawful and caused irreparable harm. They contended that the directive was \u201carbitrary and capricious\u201d under the Administrative Procedure Act because it lacked a reasoned explanation for the change in priorities. They also argued that it was \u201ccontrary to law and beyond statutory authority\u201d because it ignored Congress\u2019s clear mandate to promote and fund projects aimed at increasing participation in STEM fields by women, minorities, and individuals with disabilities. The plaintiffs sought to enjoin the directive\u2019s implementation and reinstate the terminated grants, asserting that without such relief, they and their institutions would face serious non-monetary harm from the disruption of critical research and the undermining of congressional policy. They further sought to have the court vacate the directive under the APA, declare it unlawful, and issue both preliminary and permanent injunctions.\n\nOn June 20, 2025, the National Association of Scholars (NAS) moved to intervene in the case as a defendant, contending that \"NAS has an interest in ensuring that National Science Foundation research grants are awarded based on scientific merit rather than racial or gender preferences contrary to the Constitution\u2019s guarantee of Equal Protection.\" NAS further argued that its interests were not adequately represented by the current defendants, since \"there is no guarantee that the revised Policy Directive will remain unchanged. This administration or a new administration could resurrect policies for allocating National Science Foundation research funding based on DEI principles,\" potentially causing a divergence of positions among the defendants. On June 30, the court denied NAS\u2019s motion to intervene, concluding that NAS had not demonstrated that its interests were inadequately protected by the existing parties in the litigation.\n\nThe court denied the plaintiffs\u2019 motion for a preliminary injunction on August 1, 2025, finding that the plaintiffs failed to demonstrate a likelihood of success on the merits of their claims. 2025 WL 2180478. The court's primary reasoning was that it likely lacked subject matter jurisdiction over the case, as the plaintiffs' request to restore funding for the terminated grants was essentially a claim for monetary relief from the federal government exceeding $10,000. Such claims, under the Tucker Act, fall under the exclusive jurisdiction of the Court of Federal Claims, not the District Court. The court cited a recent Supreme Court case, Department of Education v. California, to support its conclusion that the plaintiffs' claims were likely contractual in nature and subject to the Tucker Act. It concluded that the plaintiffs' claims \"have traversed both sides of the jurisdictional boundary\" between the two courts, which weighed against granting the preliminary relief they sought.\n\nThe case is ongoing.",
+    "target_paragraph": "Alongside the complaint, the plaintiffs filed a motion for a preliminary injunction, arguing that the NSF\u2019s Priority Directive was unlawful and caused irreparable harm. They contended that the directive was \u201carbitrary and capricious\u201d under the Administrative Procedure Act because it lacked a reasoned explanation for the change in priorities. They also argued that it was \u201ccontrary to law and beyond statutory authority\u201d because it ignored Congress\u2019s clear mandate to promote and fund projects aimed at increasing participation in STEM fields by women, minorities, and individuals with disabilities. The plaintiffs sought to enjoin the directive\u2019s implementation and reinstate the terminated grants, asserting that without such relief, they and their institutions would face serious non-monetary harm from the disruption of critical research and the undermining of congressional policy. They further sought to have the court vacate the directive under the APA, declare it unlawful, and issue both preliminary and permanent injunctions.",
+    "target_paragraph_indices": [
+      1897,
+      2933
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1897,
+            2065
+          ],
+          [
+            2498,
+            2784
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction to enjoin implementation of the Priority Directive.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2785,
+            2933
+          ]
+        ],
+        "annotation": {
+          "explanation": "Permanent injunction prohibiting implementation of the Priority Directive.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2785,
+            2933
+          ]
+        ],
+        "annotation": {
+          "explanation": "Vacatur of the Priority Directive under the APA.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2785,
+            2933
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment that the Priority Directive is unlawful.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2498,
+            2784
+          ],
+          [
+            4189,
+            4348
+          ]
+        ],
+        "annotation": {
+          "explanation": "Reinstatement/restoration of funding for the terminated grants.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            3,
+            5
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1897,
+            2065
+          ],
+          [
+            2066,
+            2240
+          ],
+          [
+            2241,
+            2497
+          ],
+          [
+            2498,
+            2784
+          ],
+          [
+            2785,
+            2933
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs moved for a preliminary injunction, arguing the Priority Directive is unlawful: arbitrary and capricious, contrary to law, beyond statutory authority, and ignoring Congress\u2019s mandate to increase STEM participation for women, minorities, and individuals with disabilities. They sought to enjoin the directive, reinstate terminated grants, vacate the directive, and obtained relief to prevent non-monetary harms (disruption of critical research, undermining congressional policy).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1897,
+            2065
+          ],
+          [
+            2066,
+            2240
+          ],
+          [
+            2241,
+            2497
+          ],
+          [
+            2498,
+            2784
+          ],
+          [
+            2785,
+            2933
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for preliminary injunction filed with the complaint (May 28, 2025), seeking to enjoin the Priority Directive and reinstate terminated grants; argued APA arbitrary and capricious and contrary to law/beyond statutory authority; sought vacatur, declaratory relief, and preliminary/permanent injunctions.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1897,
+            2065
+          ],
+          [
+            2066,
+            2240
+          ],
+          [
+            2241,
+            2497
+          ],
+          [
+            2498,
+            2784
+          ],
+          [
+            2785,
+            2933
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a motion for preliminary injunction with the complaint, seeking to enjoin the Priority Directive, reinstate terminated grants, vacate and declare the directive unlawful, and obtain preliminary and permanent injunctive relief, arguing APA violations and irreparable harm.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46640_p4",
+    "metadata": {
+      "case_id": "46640",
+      "paragraph_num": 4,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On June 20, 2025, the National Association of Scholars (NAS) moved to intervene in the case as a def..."
+    },
+    "source": "",
+    "target": "This case challenges two actions by the Trump Administration\u2019s National Science Foundation (NSF) that sixteen states argue will severely undermine the United States\u2019 leadership in STEM. First, in a policy issued on April 18, 2025, the NSF \u201cannounced that it would no longer abide by Congress\u2019s longstanding policy to promote a robust STEM workforce that draws in underrepresented populations.\u201d The Priority Directive stated that the NSF's efforts would not give preference to certain groups over others and that research projects with a narrow impact limited to subgroups based on protected characteristics did not align with its priorities. As a result, the NSF began issuing termination notices en masse to projects, including many in the plaintiff states, that sought to increase STEM participation by women, minorities, and people with disabilities.\n\nAdditionally, on May 2, 2025, the NSF issued its Indirect Cost Directive, which, in a break from prior policy, stated that it would not cover indirect costs at a rate higher than \"15% of modified total direct costs (MTDC), as defined in 2 CFR 200.1\" for grants and cooperative agreements awarded to Institutions of Higher Education (IHEs). Indirect costs fund vital research infrastructure, including facility costs like lab space, utilities, and custodial services, as well as administrative costs such as managing security requirements and preventing conflicts of interest.\n\nOn May 28, 2025, the states, represented by their respective attorneys general, filed this lawsuit against the National Science Foundation and its director in the U.S. District Court for the Southern District of New York. The plaintiffs brought claims under the Administrative Procedure Act, the Constitution\u2019s separation of powers and Take Care Clause, and alleged that the NSF had exceeded its statutory authority. The case was assigned to Judge John P. Cronan.\n\nAlongside the complaint, the plaintiffs filed a motion for a preliminary injunction, arguing that the NSF\u2019s Priority Directive was unlawful and caused irreparable harm. They contended that the directive was \u201carbitrary and capricious\u201d under the Administrative Procedure Act because it lacked a reasoned explanation for the change in priorities. They also argued that it was \u201ccontrary to law and beyond statutory authority\u201d because it ignored Congress\u2019s clear mandate to promote and fund projects aimed at increasing participation in STEM fields by women, minorities, and individuals with disabilities. The plaintiffs sought to enjoin the directive\u2019s implementation and reinstate the terminated grants, asserting that without such relief, they and their institutions would face serious non-monetary harm from the disruption of critical research and the undermining of congressional policy. They further sought to have the court vacate the directive under the APA, declare it unlawful, and issue both preliminary and permanent injunctions.\n\nOn June 20, 2025, the National Association of Scholars (NAS) moved to intervene in the case as a defendant, contending that \"NAS has an interest in ensuring that National Science Foundation research grants are awarded based on scientific merit rather than racial or gender preferences contrary to the Constitution\u2019s guarantee of Equal Protection.\" NAS further argued that its interests were not adequately represented by the current defendants, since \"there is no guarantee that the revised Policy Directive will remain unchanged. This administration or a new administration could resurrect policies for allocating National Science Foundation research funding based on DEI principles,\" potentially causing a divergence of positions among the defendants. On June 30, the court denied NAS\u2019s motion to intervene, concluding that NAS had not demonstrated that its interests were inadequately protected by the existing parties in the litigation.\n\nThe court denied the plaintiffs\u2019 motion for a preliminary injunction on August 1, 2025, finding that the plaintiffs failed to demonstrate a likelihood of success on the merits of their claims. 2025 WL 2180478. The court's primary reasoning was that it likely lacked subject matter jurisdiction over the case, as the plaintiffs' request to restore funding for the terminated grants was essentially a claim for monetary relief from the federal government exceeding $10,000. Such claims, under the Tucker Act, fall under the exclusive jurisdiction of the Court of Federal Claims, not the District Court. The court cited a recent Supreme Court case, Department of Education v. California, to support its conclusion that the plaintiffs' claims were likely contractual in nature and subject to the Tucker Act. It concluded that the plaintiffs' claims \"have traversed both sides of the jurisdictional boundary\" between the two courts, which weighed against granting the preliminary relief they sought.\n\nThe case is ongoing.",
+    "target_paragraph": "On June 20, 2025, the National Association of Scholars (NAS) moved to intervene in the case as a defendant, contending that \"NAS has an interest in ensuring that National Science Foundation research grants are awarded based on scientific merit rather than racial or gender preferences contrary to the Constitution\u2019s guarantee of Equal Protection.\" NAS further argued that its interests were not adequately represented by the current defendants, since \"there is no guarantee that the revised Policy Directive will remain unchanged. This administration or a new administration could resurrect policies for allocating National Science Foundation research funding based on DEI principles,\" potentially causing a divergence of positions among the defendants. On June 30, the court denied NAS\u2019s motion to intervene, concluding that NAS had not demonstrated that its interests were inadequately protected by the existing parties in the litigation.",
+    "target_paragraph_indices": [
+      2935,
+      3875
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3689,
+            3875
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 30: the court denied NAS\u2019s motion to intervene.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2935,
+            3282
+          ],
+          [
+            3283,
+            3688
+          ],
+          [
+            3689,
+            3875
+          ]
+        ],
+        "annotation": {
+          "explanation": "NAS moved to intervene on June 20, 2025, claiming an interest in merit-based grants and inadequate representation; the court denied intervention on June 30, finding NAS\u2019s interests adequately protected.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2935,
+            3282
+          ],
+          [
+            3283,
+            3688
+          ]
+        ],
+        "annotation": {
+          "explanation": "NAS motion to intervene as a defendant filed June 20, 2025, asserting interests in merit-based grant awards and inadequate representation by existing defendants.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3689,
+            3875
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court order denying NAS\u2019s motion to intervene on June 30, 2025.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2935,
+            3282
+          ],
+          [
+            3689,
+            3875
+          ]
+        ],
+        "annotation": {
+          "explanation": "NAS moved to intervene as a defendant on June 20, 2025; the court denied intervention on June 30, 2025, for failure to show inadequate representation by existing parties.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3689,
+            3875
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 30, 2025: Court denied the National Association of Scholars\u2019 motion to intervene, finding NAS had not shown its interests were inadequately protected by existing parties.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46640_p5",
+    "metadata": {
+      "case_id": "46640",
+      "paragraph_num": 5,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The court denied the plaintiffs\u2019 motion for a preliminary injunction on August 1, 2025, finding that..."
+    },
+    "source": "",
+    "target": "This case challenges two actions by the Trump Administration\u2019s National Science Foundation (NSF) that sixteen states argue will severely undermine the United States\u2019 leadership in STEM. First, in a policy issued on April 18, 2025, the NSF \u201cannounced that it would no longer abide by Congress\u2019s longstanding policy to promote a robust STEM workforce that draws in underrepresented populations.\u201d The Priority Directive stated that the NSF's efforts would not give preference to certain groups over others and that research projects with a narrow impact limited to subgroups based on protected characteristics did not align with its priorities. As a result, the NSF began issuing termination notices en masse to projects, including many in the plaintiff states, that sought to increase STEM participation by women, minorities, and people with disabilities.\n\nAdditionally, on May 2, 2025, the NSF issued its Indirect Cost Directive, which, in a break from prior policy, stated that it would not cover indirect costs at a rate higher than \"15% of modified total direct costs (MTDC), as defined in 2 CFR 200.1\" for grants and cooperative agreements awarded to Institutions of Higher Education (IHEs). Indirect costs fund vital research infrastructure, including facility costs like lab space, utilities, and custodial services, as well as administrative costs such as managing security requirements and preventing conflicts of interest.\n\nOn May 28, 2025, the states, represented by their respective attorneys general, filed this lawsuit against the National Science Foundation and its director in the U.S. District Court for the Southern District of New York. The plaintiffs brought claims under the Administrative Procedure Act, the Constitution\u2019s separation of powers and Take Care Clause, and alleged that the NSF had exceeded its statutory authority. The case was assigned to Judge John P. Cronan.\n\nAlongside the complaint, the plaintiffs filed a motion for a preliminary injunction, arguing that the NSF\u2019s Priority Directive was unlawful and caused irreparable harm. They contended that the directive was \u201carbitrary and capricious\u201d under the Administrative Procedure Act because it lacked a reasoned explanation for the change in priorities. They also argued that it was \u201ccontrary to law and beyond statutory authority\u201d because it ignored Congress\u2019s clear mandate to promote and fund projects aimed at increasing participation in STEM fields by women, minorities, and individuals with disabilities. The plaintiffs sought to enjoin the directive\u2019s implementation and reinstate the terminated grants, asserting that without such relief, they and their institutions would face serious non-monetary harm from the disruption of critical research and the undermining of congressional policy. They further sought to have the court vacate the directive under the APA, declare it unlawful, and issue both preliminary and permanent injunctions.\n\nOn June 20, 2025, the National Association of Scholars (NAS) moved to intervene in the case as a defendant, contending that \"NAS has an interest in ensuring that National Science Foundation research grants are awarded based on scientific merit rather than racial or gender preferences contrary to the Constitution\u2019s guarantee of Equal Protection.\" NAS further argued that its interests were not adequately represented by the current defendants, since \"there is no guarantee that the revised Policy Directive will remain unchanged. This administration or a new administration could resurrect policies for allocating National Science Foundation research funding based on DEI principles,\" potentially causing a divergence of positions among the defendants. On June 30, the court denied NAS\u2019s motion to intervene, concluding that NAS had not demonstrated that its interests were inadequately protected by the existing parties in the litigation.\n\nThe court denied the plaintiffs\u2019 motion for a preliminary injunction on August 1, 2025, finding that the plaintiffs failed to demonstrate a likelihood of success on the merits of their claims. 2025 WL 2180478. The court's primary reasoning was that it likely lacked subject matter jurisdiction over the case, as the plaintiffs' request to restore funding for the terminated grants was essentially a claim for monetary relief from the federal government exceeding $10,000. Such claims, under the Tucker Act, fall under the exclusive jurisdiction of the Court of Federal Claims, not the District Court. The court cited a recent Supreme Court case, Department of Education v. California, to support its conclusion that the plaintiffs' claims were likely contractual in nature and subject to the Tucker Act. It concluded that the plaintiffs' claims \"have traversed both sides of the jurisdictional boundary\" between the two courts, which weighed against granting the preliminary relief they sought.\n\nThe case is ongoing.",
+    "target_paragraph": "The court denied the plaintiffs\u2019 motion for a preliminary injunction on August 1, 2025, finding that the plaintiffs failed to demonstrate a likelihood of success on the merits of their claims. 2025 WL 2180478. The court's primary reasoning was that it likely lacked subject matter jurisdiction over the case, as the plaintiffs' request to restore funding for the terminated grants was essentially a claim for monetary relief from the federal government exceeding $10,000. Such claims, under the Tucker Act, fall under the exclusive jurisdiction of the Court of Federal Claims, not the District Court. The court cited a recent Supreme Court case, Department of Education v. California, to support its conclusion that the plaintiffs' claims were likely contractual in nature and subject to the Tucker Act. It concluded that the plaintiffs' claims \"have traversed both sides of the jurisdictional boundary\" between the two courts, which weighed against granting the preliminary relief they sought.",
+    "target_paragraph_indices": [
+      3877,
+      4871
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            3877,
+            4086
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025 WL 2180478",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3877,
+            4069
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 1, 2025: the court denied the plaintiffs\u2019 motion for a preliminary injunction.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3877,
+            4086
+          ],
+          [
+            4087,
+            4348
+          ],
+          [
+            4349,
+            4477
+          ],
+          [
+            4478,
+            4680
+          ],
+          [
+            4681,
+            4871
+          ]
+        ],
+        "annotation": {
+          "explanation": "On August 1, 2025, the court denied the preliminary injunction (2025 WL 2180478), primarily because it likely lacked subject-matter jurisdiction: the relief sought effectively sought monetary relief over $10,000, placing the claims under the Tucker Act in the Court of Federal Claims; the court cited Department of Education v. California and noted the claims crossed the jurisdictional boundary.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3877,
+            4086
+          ],
+          [
+            4087,
+            4348
+          ],
+          [
+            4349,
+            4477
+          ],
+          [
+            4478,
+            4680
+          ],
+          [
+            4681,
+            4871
+          ]
+        ],
+        "annotation": {
+          "explanation": "Court order denying plaintiffs\u2019 preliminary injunction on August 1, 2025 (2025 WL 2180478), based on likely lack of subject-matter jurisdiction under the Tucker Act and the claims\u2019 contractual nature.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3877,
+            4086
+          ],
+          [
+            4087,
+            4348
+          ],
+          [
+            4349,
+            4477
+          ],
+          [
+            4478,
+            4680
+          ],
+          [
+            4681,
+            4871
+          ]
+        ],
+        "annotation": {
+          "explanation": "On August 1, 2025, the court denied the preliminary injunction (2025 WL 2180478), primarily because it likely lacked subject matter jurisdiction under the Tucker Act; it viewed the relief as contractual/monetary and cited Department of Education v. California.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3877,
+            4086
+          ],
+          [
+            4087,
+            4348
+          ],
+          [
+            4349,
+            4477
+          ],
+          [
+            4478,
+            4680
+          ],
+          [
+            4681,
+            4871
+          ]
+        ],
+        "annotation": {
+          "explanation": "August 1, 2025: Court denied plaintiffs\u2019 motion for a preliminary injunction (2025 WL 2180478), holding plaintiffs failed to show likelihood of success, primarily because the court likely lacked subject-matter jurisdiction under the Tucker Act; cited Department of Education v. California.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46640_p6",
+    "metadata": {
+      "case_id": "46640",
+      "paragraph_num": 6,
+      "total_paragraphs": 7,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case is ongoing."
+    },
+    "source": "",
+    "target": "This case challenges two actions by the Trump Administration\u2019s National Science Foundation (NSF) that sixteen states argue will severely undermine the United States\u2019 leadership in STEM. First, in a policy issued on April 18, 2025, the NSF \u201cannounced that it would no longer abide by Congress\u2019s longstanding policy to promote a robust STEM workforce that draws in underrepresented populations.\u201d The Priority Directive stated that the NSF's efforts would not give preference to certain groups over others and that research projects with a narrow impact limited to subgroups based on protected characteristics did not align with its priorities. As a result, the NSF began issuing termination notices en masse to projects, including many in the plaintiff states, that sought to increase STEM participation by women, minorities, and people with disabilities.\n\nAdditionally, on May 2, 2025, the NSF issued its Indirect Cost Directive, which, in a break from prior policy, stated that it would not cover indirect costs at a rate higher than \"15% of modified total direct costs (MTDC), as defined in 2 CFR 200.1\" for grants and cooperative agreements awarded to Institutions of Higher Education (IHEs). Indirect costs fund vital research infrastructure, including facility costs like lab space, utilities, and custodial services, as well as administrative costs such as managing security requirements and preventing conflicts of interest.\n\nOn May 28, 2025, the states, represented by their respective attorneys general, filed this lawsuit against the National Science Foundation and its director in the U.S. District Court for the Southern District of New York. The plaintiffs brought claims under the Administrative Procedure Act, the Constitution\u2019s separation of powers and Take Care Clause, and alleged that the NSF had exceeded its statutory authority. The case was assigned to Judge John P. Cronan.\n\nAlongside the complaint, the plaintiffs filed a motion for a preliminary injunction, arguing that the NSF\u2019s Priority Directive was unlawful and caused irreparable harm. They contended that the directive was \u201carbitrary and capricious\u201d under the Administrative Procedure Act because it lacked a reasoned explanation for the change in priorities. They also argued that it was \u201ccontrary to law and beyond statutory authority\u201d because it ignored Congress\u2019s clear mandate to promote and fund projects aimed at increasing participation in STEM fields by women, minorities, and individuals with disabilities. The plaintiffs sought to enjoin the directive\u2019s implementation and reinstate the terminated grants, asserting that without such relief, they and their institutions would face serious non-monetary harm from the disruption of critical research and the undermining of congressional policy. They further sought to have the court vacate the directive under the APA, declare it unlawful, and issue both preliminary and permanent injunctions.\n\nOn June 20, 2025, the National Association of Scholars (NAS) moved to intervene in the case as a defendant, contending that \"NAS has an interest in ensuring that National Science Foundation research grants are awarded based on scientific merit rather than racial or gender preferences contrary to the Constitution\u2019s guarantee of Equal Protection.\" NAS further argued that its interests were not adequately represented by the current defendants, since \"there is no guarantee that the revised Policy Directive will remain unchanged. This administration or a new administration could resurrect policies for allocating National Science Foundation research funding based on DEI principles,\" potentially causing a divergence of positions among the defendants. On June 30, the court denied NAS\u2019s motion to intervene, concluding that NAS had not demonstrated that its interests were inadequately protected by the existing parties in the litigation.\n\nThe court denied the plaintiffs\u2019 motion for a preliminary injunction on August 1, 2025, finding that the plaintiffs failed to demonstrate a likelihood of success on the merits of their claims. 2025 WL 2180478. The court's primary reasoning was that it likely lacked subject matter jurisdiction over the case, as the plaintiffs' request to restore funding for the terminated grants was essentially a claim for monetary relief from the federal government exceeding $10,000. Such claims, under the Tucker Act, fall under the exclusive jurisdiction of the Court of Federal Claims, not the District Court. The court cited a recent Supreme Court case, Department of Education v. California, to support its conclusion that the plaintiffs' claims were likely contractual in nature and subject to the Tucker Act. It concluded that the plaintiffs' claims \"have traversed both sides of the jurisdictional boundary\" between the two courts, which weighed against granting the preliminary relief they sought.\n\nThe case is ongoing.",
+    "target_paragraph": "The case is ongoing.",
+    "target_paragraph_indices": [
+      4873,
+      4893
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4873,
+            4893
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4873,
+            4893
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing (no final resolution reported).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

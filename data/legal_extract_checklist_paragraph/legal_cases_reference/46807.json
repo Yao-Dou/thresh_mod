@@ -1,0 +1,1088 @@
+[
+  {
+    "id": "46807_p0",
+    "metadata": {
+      "case_id": "46807",
+      "paragraph_num": 0,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case challenges the imposition of a 50% tariff on Brazilian orange juice imports."
+    },
+    "source": "",
+    "target": "This case challenges the imposition of a 50% tariff on Brazilian orange juice imports.\n\nOn April 2, 2025, President Trump issued Executive Order 14257, establishing a 10% ad valorem duty on all imports. Subsequently, on April 9, 2025, Executive Order 14266 paused elevated tariffs for most countries for 90 days while maintaining the 10% global tariff. After extending certain tariff suspensions until August 1, 2025, President Trump issued a letter on July 9, 2025, imposing a 50% tariff on all Brazilian products entering the United States, effective August 1, 2025. The Trump administration justified the tariff based on concerns about Brazil\u2019s treatment of former President Bolsonaro, alleged attacks on free elections and free speech in the United States, and an allegedly unfair trade relationship.\n\nOn July 18, 2025, Johanan Foods, Inc. and Johanna Beverage Company, LLC filed this lawsuit in the U.S. Court of International Trade against the Executive Office of the President, the United States, the U.S. Customs and Border Protection Agency (CBP) and its Acting Commissioner, the Office of the U.S. Trade Representative, and the Secretary of Commerce, under the International Emergency Economic Powers Act (IEEPA) and the Trade Act of 1974. Judge Timothy M. Reif presides over the case.\n\nRepresented by private counsel, the plaintiffs sought a declaration that IEEPA does not grant the President statutory authority to impose the tariff, that President Trump failed to identify a national emergency or an \"unusual or extraordinary threat\" from outside the United States as required by IEEPA, and that Congress unconstitutionally delegated power to the President. They also sought injunctive relief to block enforcement of Executive Order 14257 and the Brazil letter, as well as damages for any collected tariffs and attorneys\u2019 fees.\n\nPlaintiffs argued that the tariff lacked a valid legal basis, was not issued through a proper executive order, and was unsupported by any declared national emergency or qualifying threat under IEEPA. They contended that IEEPA does not authorize tariffs aimed at political objectives or countries with which the U.S. maintains a trade surplus, such as Brazil. They also claimed the tariff exceeded the 15% cap and 150-day limit set by Section 122 of the Trade Act. They warned of severe economic harm, including at least $68 million in annual costs, the potential loss of nearly 700 American jobs, and a 20\u201325% increase in consumer orange juice prices due to their exclusive reliance on Brazilian imports and a sharp decline in domestic supply.\n\nOn July 22, 2025, the plaintiffs filed a motion for a temporary restraining order and a preliminary injunction to block enforcement of the tariff. Plaintiffs also sought summary judgment for a permanent injunction. They argued that the tariff would inflict immediate and irreparable harm, including tens of millions in added annual costs, sharp retail price increases, and potential layoffs, and that the balance of equities and public interest favored immediate injunctive relief.\n\nOn July 29, 2025, Judge Reif denied the plaintiffs\u2019 motion for a temporary restraining order, finding they had not clearly demonstrated a likelihood of immediate and irreparable harm before the threatened tariff. The court observed that the July 9 letter announcing the \u201cBrazil Tariff\u201d was not an executive order, proclamation, or other form of legally binding executive action. Accordingly, the court determined that neither the President nor any agency had taken \u201cfinal action that is subject to judicial review.\u201d The court further reasoned that the plaintiffs\u2019 alleged harm was \u201chypothetical or speculative\u201d because it rested on an action that \u201cmay or may not occur,\u201d citing legal precedent that speculative harm does not warrant judicial intervention. Finally, the court stayed the case pending a final, unappealable decision in two related matters: V.O.S. Selections, Inc. v. United States, Case No. 25-00066 (Ct. Int\u2019l Trade), and Oregon v. U.S. Dep\u2019t of Homeland Security, Case No. 25-00077 (Ct. Int\u2019l Trade).\n\nThis case is ongoing.",
+    "target_paragraph": "This case challenges the imposition of a 50% tariff on Brazilian orange juice imports.",
+    "target_paragraph_indices": [
+      0,
+      86
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            86
+          ],
+          [
+            467,
+            568
+          ]
+        ],
+        "annotation": {
+          "explanation": "The dispute centers on a 50% tariff on Brazilian imports, including orange juice, set to take effect on August 1, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46807_p1",
+    "metadata": {
+      "case_id": "46807",
+      "paragraph_num": 1,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 2, 2025, President Trump issued Executive Order 14257, establishing a 10% ad valorem duty o..."
+    },
+    "source": "",
+    "target": "This case challenges the imposition of a 50% tariff on Brazilian orange juice imports.\n\nOn April 2, 2025, President Trump issued Executive Order 14257, establishing a 10% ad valorem duty on all imports. Subsequently, on April 9, 2025, Executive Order 14266 paused elevated tariffs for most countries for 90 days while maintaining the 10% global tariff. After extending certain tariff suspensions until August 1, 2025, President Trump issued a letter on July 9, 2025, imposing a 50% tariff on all Brazilian products entering the United States, effective August 1, 2025. The Trump administration justified the tariff based on concerns about Brazil\u2019s treatment of former President Bolsonaro, alleged attacks on free elections and free speech in the United States, and an allegedly unfair trade relationship.\n\nOn July 18, 2025, Johanan Foods, Inc. and Johanna Beverage Company, LLC filed this lawsuit in the U.S. Court of International Trade against the Executive Office of the President, the United States, the U.S. Customs and Border Protection Agency (CBP) and its Acting Commissioner, the Office of the U.S. Trade Representative, and the Secretary of Commerce, under the International Emergency Economic Powers Act (IEEPA) and the Trade Act of 1974. Judge Timothy M. Reif presides over the case.\n\nRepresented by private counsel, the plaintiffs sought a declaration that IEEPA does not grant the President statutory authority to impose the tariff, that President Trump failed to identify a national emergency or an \"unusual or extraordinary threat\" from outside the United States as required by IEEPA, and that Congress unconstitutionally delegated power to the President. They also sought injunctive relief to block enforcement of Executive Order 14257 and the Brazil letter, as well as damages for any collected tariffs and attorneys\u2019 fees.\n\nPlaintiffs argued that the tariff lacked a valid legal basis, was not issued through a proper executive order, and was unsupported by any declared national emergency or qualifying threat under IEEPA. They contended that IEEPA does not authorize tariffs aimed at political objectives or countries with which the U.S. maintains a trade surplus, such as Brazil. They also claimed the tariff exceeded the 15% cap and 150-day limit set by Section 122 of the Trade Act. They warned of severe economic harm, including at least $68 million in annual costs, the potential loss of nearly 700 American jobs, and a 20\u201325% increase in consumer orange juice prices due to their exclusive reliance on Brazilian imports and a sharp decline in domestic supply.\n\nOn July 22, 2025, the plaintiffs filed a motion for a temporary restraining order and a preliminary injunction to block enforcement of the tariff. Plaintiffs also sought summary judgment for a permanent injunction. They argued that the tariff would inflict immediate and irreparable harm, including tens of millions in added annual costs, sharp retail price increases, and potential layoffs, and that the balance of equities and public interest favored immediate injunctive relief.\n\nOn July 29, 2025, Judge Reif denied the plaintiffs\u2019 motion for a temporary restraining order, finding they had not clearly demonstrated a likelihood of immediate and irreparable harm before the threatened tariff. The court observed that the July 9 letter announcing the \u201cBrazil Tariff\u201d was not an executive order, proclamation, or other form of legally binding executive action. Accordingly, the court determined that neither the President nor any agency had taken \u201cfinal action that is subject to judicial review.\u201d The court further reasoned that the plaintiffs\u2019 alleged harm was \u201chypothetical or speculative\u201d because it rested on an action that \u201cmay or may not occur,\u201d citing legal precedent that speculative harm does not warrant judicial intervention. Finally, the court stayed the case pending a final, unappealable decision in two related matters: V.O.S. Selections, Inc. v. United States, Case No. 25-00066 (Ct. Int\u2019l Trade), and Oregon v. U.S. Dep\u2019t of Homeland Security, Case No. 25-00077 (Ct. Int\u2019l Trade).\n\nThis case is ongoing.",
+    "target_paragraph": "On April 2, 2025, President Trump issued Executive Order 14257, establishing a 10% ad valorem duty on all imports. Subsequently, on April 9, 2025, Executive Order 14266 paused elevated tariffs for most countries for 90 days while maintaining the 10% global tariff. After extending certain tariff suspensions until August 1, 2025, President Trump issued a letter on July 9, 2025, imposing a 50% tariff on all Brazilian products entering the United States, effective August 1, 2025. The Trump administration justified the tariff based on concerns about Brazil\u2019s treatment of former President Bolsonaro, alleged attacks on free elections and free speech in the United States, and an allegedly unfair trade relationship.",
+    "target_paragraph_indices": [
+      88,
+      804
+    ],
+    "edits": [
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            203,
+            352
+          ]
+        ],
+        "annotation": {
+          "explanation": "90 days: Executive Order 14266 paused elevated tariffs for most countries.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            353,
+            568
+          ]
+        ],
+        "annotation": {
+          "explanation": "until August 1, 2025: extension of certain tariff suspensions.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            88,
+            202
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 2, 2025: Executive Order 14257, establishing a 10% ad valorem duty on all imports.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            203,
+            352
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 9, 2025: Executive Order 14266 paused elevated tariffs for most countries for 90 days while maintaining the 10% global tariff.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            353,
+            568
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 9, 2025: Presidential letter imposing a 50% tariff on all Brazilian products entering the United States, effective August 1, 2025.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            88,
+            202
+          ],
+          [
+            203,
+            352
+          ],
+          [
+            353,
+            568
+          ]
+        ],
+        "annotation": {
+          "explanation": "Executive actions: EO 14257 (Apr. 2, 2025) imposed a 10% global duty; EO 14266 (Apr. 9, 2025) paused elevated tariffs for most countries for 90 days while keeping the 10% tariff; a July 9, 2025 letter then announced a 50% tariff on Brazilian products effective Aug. 1, 2025.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            569,
+            804
+          ]
+        ],
+        "annotation": {
+          "explanation": "Government\u2019s stated justifications: Brazil\u2019s treatment of Bolsonaro, alleged attacks on U.S. free elections and free speech, and an allegedly unfair trade relationship.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            418,
+            568
+          ]
+        ],
+        "annotation": {
+          "explanation": "Key timing context for proceedings: the challenged 50% tariff on Brazilian products was set to take effect August 1, 2025.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46807_p2",
+    "metadata": {
+      "case_id": "46807",
+      "paragraph_num": 2,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 18, 2025, Johanan Foods, Inc. and Johanna Beverage Company, LLC filed this lawsuit in the U...."
+    },
+    "source": "",
+    "target": "This case challenges the imposition of a 50% tariff on Brazilian orange juice imports.\n\nOn April 2, 2025, President Trump issued Executive Order 14257, establishing a 10% ad valorem duty on all imports. Subsequently, on April 9, 2025, Executive Order 14266 paused elevated tariffs for most countries for 90 days while maintaining the 10% global tariff. After extending certain tariff suspensions until August 1, 2025, President Trump issued a letter on July 9, 2025, imposing a 50% tariff on all Brazilian products entering the United States, effective August 1, 2025. The Trump administration justified the tariff based on concerns about Brazil\u2019s treatment of former President Bolsonaro, alleged attacks on free elections and free speech in the United States, and an allegedly unfair trade relationship.\n\nOn July 18, 2025, Johanan Foods, Inc. and Johanna Beverage Company, LLC filed this lawsuit in the U.S. Court of International Trade against the Executive Office of the President, the United States, the U.S. Customs and Border Protection Agency (CBP) and its Acting Commissioner, the Office of the U.S. Trade Representative, and the Secretary of Commerce, under the International Emergency Economic Powers Act (IEEPA) and the Trade Act of 1974. Judge Timothy M. Reif presides over the case.\n\nRepresented by private counsel, the plaintiffs sought a declaration that IEEPA does not grant the President statutory authority to impose the tariff, that President Trump failed to identify a national emergency or an \"unusual or extraordinary threat\" from outside the United States as required by IEEPA, and that Congress unconstitutionally delegated power to the President. They also sought injunctive relief to block enforcement of Executive Order 14257 and the Brazil letter, as well as damages for any collected tariffs and attorneys\u2019 fees.\n\nPlaintiffs argued that the tariff lacked a valid legal basis, was not issued through a proper executive order, and was unsupported by any declared national emergency or qualifying threat under IEEPA. They contended that IEEPA does not authorize tariffs aimed at political objectives or countries with which the U.S. maintains a trade surplus, such as Brazil. They also claimed the tariff exceeded the 15% cap and 150-day limit set by Section 122 of the Trade Act. They warned of severe economic harm, including at least $68 million in annual costs, the potential loss of nearly 700 American jobs, and a 20\u201325% increase in consumer orange juice prices due to their exclusive reliance on Brazilian imports and a sharp decline in domestic supply.\n\nOn July 22, 2025, the plaintiffs filed a motion for a temporary restraining order and a preliminary injunction to block enforcement of the tariff. Plaintiffs also sought summary judgment for a permanent injunction. They argued that the tariff would inflict immediate and irreparable harm, including tens of millions in added annual costs, sharp retail price increases, and potential layoffs, and that the balance of equities and public interest favored immediate injunctive relief.\n\nOn July 29, 2025, Judge Reif denied the plaintiffs\u2019 motion for a temporary restraining order, finding they had not clearly demonstrated a likelihood of immediate and irreparable harm before the threatened tariff. The court observed that the July 9 letter announcing the \u201cBrazil Tariff\u201d was not an executive order, proclamation, or other form of legally binding executive action. Accordingly, the court determined that neither the President nor any agency had taken \u201cfinal action that is subject to judicial review.\u201d The court further reasoned that the plaintiffs\u2019 alleged harm was \u201chypothetical or speculative\u201d because it rested on an action that \u201cmay or may not occur,\u201d citing legal precedent that speculative harm does not warrant judicial intervention. Finally, the court stayed the case pending a final, unappealable decision in two related matters: V.O.S. Selections, Inc. v. United States, Case No. 25-00066 (Ct. Int\u2019l Trade), and Oregon v. U.S. Dep\u2019t of Homeland Security, Case No. 25-00077 (Ct. Int\u2019l Trade).\n\nThis case is ongoing.",
+    "target_paragraph": "On July 18, 2025, Johanan Foods, Inc. and Johanna Beverage Company, LLC filed this lawsuit in the U.S. Court of International Trade against the Executive Office of the President, the United States, the U.S. Customs and Border Protection Agency (CBP) and its Acting Commissioner, the Office of the U.S. Trade Representative, and the Secretary of Commerce, under the International Emergency Economic Powers Act (IEEPA) and the Trade Act of 1974. Judge Timothy M. Reif presides over the case.",
+    "target_paragraph_indices": [
+      806,
+      1295
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            806,
+            1249
+          ]
+        ],
+        "annotation": {
+          "explanation": "July 18, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            806,
+            1249
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory causes of action: International Emergency Economic Powers Act (IEEPA) and the Trade Act of 1974.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            878,
+            1249
+          ],
+          [
+            1329,
+            1599
+          ],
+          [
+            2043,
+            2201
+          ]
+        ],
+        "annotation": {
+          "explanation": "International Emergency Economic Powers Act (IEEPA) \u2014 statutory basis; plaintiffs allege the tariff lacks IEEPA authority and no qualifying national emergency or unusual or extraordinary threat was identified.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            2,
+            3,
+            4
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            878,
+            896
+          ],
+          [
+            1161,
+            1249
+          ],
+          [
+            2202,
+            2306
+          ]
+        ],
+        "annotation": {
+          "explanation": "Trade Act of 1974, Section 122 \u2014 statutory basis; plaintiffs allege the tariff exceeds the 15% cap and 150-day limit.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            2,
+            4
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            1250,
+            1295
+          ],
+          [
+            3071,
+            3163
+          ]
+        ],
+        "annotation": {
+          "explanation": "Timothy M. Reif",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": [
+            2,
+            6
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            806,
+            937
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as Johanan Foods, Inc. and Johanna Beverage Company, LLC",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            806,
+            937
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Johanan Foods, Inc.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            806,
+            937
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Johanna Beverage Company, LLC",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            938,
+            1159
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Executive Office of the President",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            938,
+            1159
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: The United States",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            938,
+            1159
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. Customs and Border Protection Agency (CBP)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            938,
+            1159
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Acting Commissioner of the U.S. Customs and Border Protection Agency (CBP)",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            938,
+            1159
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Office of the U.S. Trade Representative",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            938,
+            1159
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of Commerce",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            806,
+            1295
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs Johanan Foods, Inc. and Johanna Beverage Company, LLC filed in the U.S. Court of International Trade on July 18, 2025 against the Executive Office of the President, the United States, CBP and its Acting Commissioner, the USTR, and the Secretary of Commerce, asserting claims under IEEPA and the Trade Act; Judge Timothy M. Reif presides.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 14
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            806,
+            1249
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on July 18, 2025, in the U.S. Court of International Trade against EOP, the United States, CBP and its Acting Commissioner, USTR, and the Secretary of Commerce, under IEEPA and the Trade Act of 1974.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 15
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            806,
+            1249
+          ],
+          [
+            1250,
+            1295
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed July 18, 2025 in the U.S. Court of International Trade; Judge Timothy M. Reif presiding; defendants include EOP, United States, CBP and its Acting Commissioner, USTR, and Secretary of Commerce; claims under IEEPA and the Trade Act of 1974.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 16
+      }
+    ]
+  },
+  {
+    "id": "46807_p3",
+    "metadata": {
+      "case_id": "46807",
+      "paragraph_num": 3,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Represented by private counsel, the plaintiffs sought a declaration that IEEPA does not grant the Pr..."
+    },
+    "source": "",
+    "target": "This case challenges the imposition of a 50% tariff on Brazilian orange juice imports.\n\nOn April 2, 2025, President Trump issued Executive Order 14257, establishing a 10% ad valorem duty on all imports. Subsequently, on April 9, 2025, Executive Order 14266 paused elevated tariffs for most countries for 90 days while maintaining the 10% global tariff. After extending certain tariff suspensions until August 1, 2025, President Trump issued a letter on July 9, 2025, imposing a 50% tariff on all Brazilian products entering the United States, effective August 1, 2025. The Trump administration justified the tariff based on concerns about Brazil\u2019s treatment of former President Bolsonaro, alleged attacks on free elections and free speech in the United States, and an allegedly unfair trade relationship.\n\nOn July 18, 2025, Johanan Foods, Inc. and Johanna Beverage Company, LLC filed this lawsuit in the U.S. Court of International Trade against the Executive Office of the President, the United States, the U.S. Customs and Border Protection Agency (CBP) and its Acting Commissioner, the Office of the U.S. Trade Representative, and the Secretary of Commerce, under the International Emergency Economic Powers Act (IEEPA) and the Trade Act of 1974. Judge Timothy M. Reif presides over the case.\n\nRepresented by private counsel, the plaintiffs sought a declaration that IEEPA does not grant the President statutory authority to impose the tariff, that President Trump failed to identify a national emergency or an \"unusual or extraordinary threat\" from outside the United States as required by IEEPA, and that Congress unconstitutionally delegated power to the President. They also sought injunctive relief to block enforcement of Executive Order 14257 and the Brazil letter, as well as damages for any collected tariffs and attorneys\u2019 fees.\n\nPlaintiffs argued that the tariff lacked a valid legal basis, was not issued through a proper executive order, and was unsupported by any declared national emergency or qualifying threat under IEEPA. They contended that IEEPA does not authorize tariffs aimed at political objectives or countries with which the U.S. maintains a trade surplus, such as Brazil. They also claimed the tariff exceeded the 15% cap and 150-day limit set by Section 122 of the Trade Act. They warned of severe economic harm, including at least $68 million in annual costs, the potential loss of nearly 700 American jobs, and a 20\u201325% increase in consumer orange juice prices due to their exclusive reliance on Brazilian imports and a sharp decline in domestic supply.\n\nOn July 22, 2025, the plaintiffs filed a motion for a temporary restraining order and a preliminary injunction to block enforcement of the tariff. Plaintiffs also sought summary judgment for a permanent injunction. They argued that the tariff would inflict immediate and irreparable harm, including tens of millions in added annual costs, sharp retail price increases, and potential layoffs, and that the balance of equities and public interest favored immediate injunctive relief.\n\nOn July 29, 2025, Judge Reif denied the plaintiffs\u2019 motion for a temporary restraining order, finding they had not clearly demonstrated a likelihood of immediate and irreparable harm before the threatened tariff. The court observed that the July 9 letter announcing the \u201cBrazil Tariff\u201d was not an executive order, proclamation, or other form of legally binding executive action. Accordingly, the court determined that neither the President nor any agency had taken \u201cfinal action that is subject to judicial review.\u201d The court further reasoned that the plaintiffs\u2019 alleged harm was \u201chypothetical or speculative\u201d because it rested on an action that \u201cmay or may not occur,\u201d citing legal precedent that speculative harm does not warrant judicial intervention. Finally, the court stayed the case pending a final, unappealable decision in two related matters: V.O.S. Selections, Inc. v. United States, Case No. 25-00066 (Ct. Int\u2019l Trade), and Oregon v. U.S. Dep\u2019t of Homeland Security, Case No. 25-00077 (Ct. Int\u2019l Trade).\n\nThis case is ongoing.",
+    "target_paragraph": "Represented by private counsel, the plaintiffs sought a declaration that IEEPA does not grant the President statutory authority to impose the tariff, that President Trump failed to identify a national emergency or an \"unusual or extraordinary threat\" from outside the United States as required by IEEPA, and that Congress unconstitutionally delegated power to the President. They also sought injunctive relief to block enforcement of Executive Order 14257 and the Brazil letter, as well as damages for any collected tariffs and attorneys\u2019 fees.",
+    "target_paragraph_indices": [
+      1297,
+      1841
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1297,
+            1600
+          ]
+        ],
+        "annotation": {
+          "explanation": "IEEPA-based claim: lack of statutory authority and absence of a required national emergency or unusual or extraordinary threat.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1601,
+            1671
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claim: nondelegation doctrine (alleged unconstitutional delegation of legislative power to the President).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1605,
+            1671
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional nondelegation claim \u2014 plaintiffs assert Congress unconstitutionally delegated power to the President (no specific constitutional clause or amendment cited in the summary).",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1297,
+            1671
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment: (1) IEEPA does not grant the President authority to impose the tariff; (2) the President failed to identify a national emergency or an \"unusual or extraordinary threat\" from outside the U.S. as required by IEEPA; and (3) Congress unconstitutionally delegated power to the President.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1672,
+            1841
+          ],
+          [
+            2588,
+            2802
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief: temporary restraining order, preliminary injunction, and permanent injunction to block enforcement of Executive Order 14257 and the Brazil letter.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": [
+            3,
+            5
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1672,
+            1841
+          ]
+        ],
+        "annotation": {
+          "explanation": "Monetary relief: damages for any collected tariffs.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            1672,
+            1841
+          ]
+        ],
+        "annotation": {
+          "explanation": "Attorneys\u2019 fees.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            1297,
+            1445
+          ]
+        ],
+        "annotation": {
+          "explanation": "private counsel",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1297,
+            1671
+          ],
+          [
+            1672,
+            1841
+          ]
+        ],
+        "annotation": {
+          "explanation": "Requested relief: declaratory judgments on lack of IEEPA authority, lack of required national emergency or threat, and unconstitutional delegation; injunctive relief blocking EO 14257 and the Brazil letter; damages for collected tariffs and attorneys\u2019 fees.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46807_p4",
+    "metadata": {
+      "case_id": "46807",
+      "paragraph_num": 4,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs argued that the tariff lacked a valid legal basis, was not issued through a proper execut..."
+    },
+    "source": "",
+    "target": "This case challenges the imposition of a 50% tariff on Brazilian orange juice imports.\n\nOn April 2, 2025, President Trump issued Executive Order 14257, establishing a 10% ad valorem duty on all imports. Subsequently, on April 9, 2025, Executive Order 14266 paused elevated tariffs for most countries for 90 days while maintaining the 10% global tariff. After extending certain tariff suspensions until August 1, 2025, President Trump issued a letter on July 9, 2025, imposing a 50% tariff on all Brazilian products entering the United States, effective August 1, 2025. The Trump administration justified the tariff based on concerns about Brazil\u2019s treatment of former President Bolsonaro, alleged attacks on free elections and free speech in the United States, and an allegedly unfair trade relationship.\n\nOn July 18, 2025, Johanan Foods, Inc. and Johanna Beverage Company, LLC filed this lawsuit in the U.S. Court of International Trade against the Executive Office of the President, the United States, the U.S. Customs and Border Protection Agency (CBP) and its Acting Commissioner, the Office of the U.S. Trade Representative, and the Secretary of Commerce, under the International Emergency Economic Powers Act (IEEPA) and the Trade Act of 1974. Judge Timothy M. Reif presides over the case.\n\nRepresented by private counsel, the plaintiffs sought a declaration that IEEPA does not grant the President statutory authority to impose the tariff, that President Trump failed to identify a national emergency or an \"unusual or extraordinary threat\" from outside the United States as required by IEEPA, and that Congress unconstitutionally delegated power to the President. They also sought injunctive relief to block enforcement of Executive Order 14257 and the Brazil letter, as well as damages for any collected tariffs and attorneys\u2019 fees.\n\nPlaintiffs argued that the tariff lacked a valid legal basis, was not issued through a proper executive order, and was unsupported by any declared national emergency or qualifying threat under IEEPA. They contended that IEEPA does not authorize tariffs aimed at political objectives or countries with which the U.S. maintains a trade surplus, such as Brazil. They also claimed the tariff exceeded the 15% cap and 150-day limit set by Section 122 of the Trade Act. They warned of severe economic harm, including at least $68 million in annual costs, the potential loss of nearly 700 American jobs, and a 20\u201325% increase in consumer orange juice prices due to their exclusive reliance on Brazilian imports and a sharp decline in domestic supply.\n\nOn July 22, 2025, the plaintiffs filed a motion for a temporary restraining order and a preliminary injunction to block enforcement of the tariff. Plaintiffs also sought summary judgment for a permanent injunction. They argued that the tariff would inflict immediate and irreparable harm, including tens of millions in added annual costs, sharp retail price increases, and potential layoffs, and that the balance of equities and public interest favored immediate injunctive relief.\n\nOn July 29, 2025, Judge Reif denied the plaintiffs\u2019 motion for a temporary restraining order, finding they had not clearly demonstrated a likelihood of immediate and irreparable harm before the threatened tariff. The court observed that the July 9 letter announcing the \u201cBrazil Tariff\u201d was not an executive order, proclamation, or other form of legally binding executive action. Accordingly, the court determined that neither the President nor any agency had taken \u201cfinal action that is subject to judicial review.\u201d The court further reasoned that the plaintiffs\u2019 alleged harm was \u201chypothetical or speculative\u201d because it rested on an action that \u201cmay or may not occur,\u201d citing legal precedent that speculative harm does not warrant judicial intervention. Finally, the court stayed the case pending a final, unappealable decision in two related matters: V.O.S. Selections, Inc. v. United States, Case No. 25-00066 (Ct. Int\u2019l Trade), and Oregon v. U.S. Dep\u2019t of Homeland Security, Case No. 25-00077 (Ct. Int\u2019l Trade).\n\nThis case is ongoing.",
+    "target_paragraph": "Plaintiffs argued that the tariff lacked a valid legal basis, was not issued through a proper executive order, and was unsupported by any declared national emergency or qualifying threat under IEEPA. They contended that IEEPA does not authorize tariffs aimed at political objectives or countries with which the U.S. maintains a trade surplus, such as Brazil. They also claimed the tariff exceeded the 15% cap and 150-day limit set by Section 122 of the Trade Act. They warned of severe economic harm, including at least $68 million in annual costs, the potential loss of nearly 700 American jobs, and a 20\u201325% increase in consumer orange juice prices due to their exclusive reliance on Brazilian imports and a sharp decline in domestic supply.",
+    "target_paragraph_indices": [
+      1843,
+      2586
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2202,
+            2306
+          ]
+        ],
+        "annotation": {
+          "explanation": "Trade Act of 1974 Section 122 claim: tariff exceeds the 15% cap and 150\u2011day limit.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1843,
+            2042
+          ],
+          [
+            2043,
+            2201
+          ],
+          [
+            2202,
+            2306
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 legal arguments: no valid legal basis or proper executive order; no declared IEEPA emergency or qualifying threat; IEEPA doesn\u2019t authorize politically motivated tariffs or tariffs on trade-surplus countries; exceeds Section 122\u2019s 15% cap and 150-day limit.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2307,
+            2586
+          ]
+        ],
+        "annotation": {
+          "explanation": "Alleged harms: at least $68 million in annual costs, nearly 700 U.S. jobs at risk, and a 20\u201325% increase in consumer orange juice prices, tied to plaintiffs\u2019 exclusive reliance on Brazilian imports amid a sharp domestic supply decline.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46807_p5",
+    "metadata": {
+      "case_id": "46807",
+      "paragraph_num": 5,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 22, 2025, the plaintiffs filed a motion for a temporary restraining order and a preliminary ..."
+    },
+    "source": "",
+    "target": "This case challenges the imposition of a 50% tariff on Brazilian orange juice imports.\n\nOn April 2, 2025, President Trump issued Executive Order 14257, establishing a 10% ad valorem duty on all imports. Subsequently, on April 9, 2025, Executive Order 14266 paused elevated tariffs for most countries for 90 days while maintaining the 10% global tariff. After extending certain tariff suspensions until August 1, 2025, President Trump issued a letter on July 9, 2025, imposing a 50% tariff on all Brazilian products entering the United States, effective August 1, 2025. The Trump administration justified the tariff based on concerns about Brazil\u2019s treatment of former President Bolsonaro, alleged attacks on free elections and free speech in the United States, and an allegedly unfair trade relationship.\n\nOn July 18, 2025, Johanan Foods, Inc. and Johanna Beverage Company, LLC filed this lawsuit in the U.S. Court of International Trade against the Executive Office of the President, the United States, the U.S. Customs and Border Protection Agency (CBP) and its Acting Commissioner, the Office of the U.S. Trade Representative, and the Secretary of Commerce, under the International Emergency Economic Powers Act (IEEPA) and the Trade Act of 1974. Judge Timothy M. Reif presides over the case.\n\nRepresented by private counsel, the plaintiffs sought a declaration that IEEPA does not grant the President statutory authority to impose the tariff, that President Trump failed to identify a national emergency or an \"unusual or extraordinary threat\" from outside the United States as required by IEEPA, and that Congress unconstitutionally delegated power to the President. They also sought injunctive relief to block enforcement of Executive Order 14257 and the Brazil letter, as well as damages for any collected tariffs and attorneys\u2019 fees.\n\nPlaintiffs argued that the tariff lacked a valid legal basis, was not issued through a proper executive order, and was unsupported by any declared national emergency or qualifying threat under IEEPA. They contended that IEEPA does not authorize tariffs aimed at political objectives or countries with which the U.S. maintains a trade surplus, such as Brazil. They also claimed the tariff exceeded the 15% cap and 150-day limit set by Section 122 of the Trade Act. They warned of severe economic harm, including at least $68 million in annual costs, the potential loss of nearly 700 American jobs, and a 20\u201325% increase in consumer orange juice prices due to their exclusive reliance on Brazilian imports and a sharp decline in domestic supply.\n\nOn July 22, 2025, the plaintiffs filed a motion for a temporary restraining order and a preliminary injunction to block enforcement of the tariff. Plaintiffs also sought summary judgment for a permanent injunction. They argued that the tariff would inflict immediate and irreparable harm, including tens of millions in added annual costs, sharp retail price increases, and potential layoffs, and that the balance of equities and public interest favored immediate injunctive relief.\n\nOn July 29, 2025, Judge Reif denied the plaintiffs\u2019 motion for a temporary restraining order, finding they had not clearly demonstrated a likelihood of immediate and irreparable harm before the threatened tariff. The court observed that the July 9 letter announcing the \u201cBrazil Tariff\u201d was not an executive order, proclamation, or other form of legally binding executive action. Accordingly, the court determined that neither the President nor any agency had taken \u201cfinal action that is subject to judicial review.\u201d The court further reasoned that the plaintiffs\u2019 alleged harm was \u201chypothetical or speculative\u201d because it rested on an action that \u201cmay or may not occur,\u201d citing legal precedent that speculative harm does not warrant judicial intervention. Finally, the court stayed the case pending a final, unappealable decision in two related matters: V.O.S. Selections, Inc. v. United States, Case No. 25-00066 (Ct. Int\u2019l Trade), and Oregon v. U.S. Dep\u2019t of Homeland Security, Case No. 25-00077 (Ct. Int\u2019l Trade).\n\nThis case is ongoing.",
+    "target_paragraph": "On July 22, 2025, the plaintiffs filed a motion for a temporary restraining order and a preliminary injunction to block enforcement of the tariff. Plaintiffs also sought summary judgment for a permanent injunction. They argued that the tariff would inflict immediate and irreparable harm, including tens of millions in added annual costs, sharp retail price increases, and potential layoffs, and that the balance of equities and public interest favored immediate injunctive relief.",
+    "target_paragraph_indices": [
+      2588,
+      3069
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2588,
+            2734
+          ],
+          [
+            2735,
+            2802
+          ],
+          [
+            2803,
+            3069
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 22, 2025, plaintiffs moved for a TRO and preliminary injunction to block the tariff and sought summary judgment for a permanent injunction, asserting immediate irreparable harm and that equities and public interest favor relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2588,
+            2734
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for temporary restraining order (TRO) and preliminary injunction filed on July 22, 2025, to block enforcement of the tariff.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2735,
+            2802
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for summary judgment seeking a permanent injunction (date not specified).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2588,
+            2734
+          ],
+          [
+            2735,
+            2802
+          ],
+          [
+            2803,
+            3069
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motions filed on July 22, 2025: (1) temporary restraining order; (2) preliminary injunction; and a request for summary judgment for a permanent injunction, asserting immediate irreparable harm and favorable equities/public interest.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": "46807_p6",
+    "metadata": {
+      "case_id": "46807",
+      "paragraph_num": 6,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On July 29, 2025, Judge Reif denied the plaintiffs\u2019 motion for a temporary restraining order, findin..."
+    },
+    "source": "",
+    "target": "This case challenges the imposition of a 50% tariff on Brazilian orange juice imports.\n\nOn April 2, 2025, President Trump issued Executive Order 14257, establishing a 10% ad valorem duty on all imports. Subsequently, on April 9, 2025, Executive Order 14266 paused elevated tariffs for most countries for 90 days while maintaining the 10% global tariff. After extending certain tariff suspensions until August 1, 2025, President Trump issued a letter on July 9, 2025, imposing a 50% tariff on all Brazilian products entering the United States, effective August 1, 2025. The Trump administration justified the tariff based on concerns about Brazil\u2019s treatment of former President Bolsonaro, alleged attacks on free elections and free speech in the United States, and an allegedly unfair trade relationship.\n\nOn July 18, 2025, Johanan Foods, Inc. and Johanna Beverage Company, LLC filed this lawsuit in the U.S. Court of International Trade against the Executive Office of the President, the United States, the U.S. Customs and Border Protection Agency (CBP) and its Acting Commissioner, the Office of the U.S. Trade Representative, and the Secretary of Commerce, under the International Emergency Economic Powers Act (IEEPA) and the Trade Act of 1974. Judge Timothy M. Reif presides over the case.\n\nRepresented by private counsel, the plaintiffs sought a declaration that IEEPA does not grant the President statutory authority to impose the tariff, that President Trump failed to identify a national emergency or an \"unusual or extraordinary threat\" from outside the United States as required by IEEPA, and that Congress unconstitutionally delegated power to the President. They also sought injunctive relief to block enforcement of Executive Order 14257 and the Brazil letter, as well as damages for any collected tariffs and attorneys\u2019 fees.\n\nPlaintiffs argued that the tariff lacked a valid legal basis, was not issued through a proper executive order, and was unsupported by any declared national emergency or qualifying threat under IEEPA. They contended that IEEPA does not authorize tariffs aimed at political objectives or countries with which the U.S. maintains a trade surplus, such as Brazil. They also claimed the tariff exceeded the 15% cap and 150-day limit set by Section 122 of the Trade Act. They warned of severe economic harm, including at least $68 million in annual costs, the potential loss of nearly 700 American jobs, and a 20\u201325% increase in consumer orange juice prices due to their exclusive reliance on Brazilian imports and a sharp decline in domestic supply.\n\nOn July 22, 2025, the plaintiffs filed a motion for a temporary restraining order and a preliminary injunction to block enforcement of the tariff. Plaintiffs also sought summary judgment for a permanent injunction. They argued that the tariff would inflict immediate and irreparable harm, including tens of millions in added annual costs, sharp retail price increases, and potential layoffs, and that the balance of equities and public interest favored immediate injunctive relief.\n\nOn July 29, 2025, Judge Reif denied the plaintiffs\u2019 motion for a temporary restraining order, finding they had not clearly demonstrated a likelihood of immediate and irreparable harm before the threatened tariff. The court observed that the July 9 letter announcing the \u201cBrazil Tariff\u201d was not an executive order, proclamation, or other form of legally binding executive action. Accordingly, the court determined that neither the President nor any agency had taken \u201cfinal action that is subject to judicial review.\u201d The court further reasoned that the plaintiffs\u2019 alleged harm was \u201chypothetical or speculative\u201d because it rested on an action that \u201cmay or may not occur,\u201d citing legal precedent that speculative harm does not warrant judicial intervention. Finally, the court stayed the case pending a final, unappealable decision in two related matters: V.O.S. Selections, Inc. v. United States, Case No. 25-00066 (Ct. Int\u2019l Trade), and Oregon v. U.S. Dep\u2019t of Homeland Security, Case No. 25-00077 (Ct. Int\u2019l Trade).\n\nThis case is ongoing.",
+    "target_paragraph": "On July 29, 2025, Judge Reif denied the plaintiffs\u2019 motion for a temporary restraining order, finding they had not clearly demonstrated a likelihood of immediate and irreparable harm before the threatened tariff. The court observed that the July 9 letter announcing the \u201cBrazil Tariff\u201d was not an executive order, proclamation, or other form of legally binding executive action. Accordingly, the court determined that neither the President nor any agency had taken \u201cfinal action that is subject to judicial review.\u201d The court further reasoned that the plaintiffs\u2019 alleged harm was \u201chypothetical or speculative\u201d because it rested on an action that \u201cmay or may not occur,\u201d citing legal precedent that speculative harm does not warrant judicial intervention. Finally, the court stayed the case pending a final, unappealable decision in two related matters: V.O.S. Selections, Inc. v. United States, Case No. 25-00066 (Ct. Int\u2019l Trade), and Oregon v. U.S. Dep\u2019t of Homeland Security, Case No. 25-00077 (Ct. Int\u2019l Trade).",
+    "target_paragraph_indices": [
+      3071,
+      4087
+    ],
+    "edits": [
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            3836,
+            4087
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: V.O.S. Selections, Inc. v. United States \u2014 Case No. 25-00066 (Ct. Int\u2019l Trade); the present case is stayed pending a final, unappealable decision in this matter.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            3836,
+            4087
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: Oregon v. U.S. Dep\u2019t of Homeland Security \u2014 Case No. 25-00077 (Ct. Int\u2019l Trade); the present case is stayed pending a final, unappealable decision in this matter.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "decree_duration",
+        "output_idx": [
+          [
+            3827,
+            4087
+          ]
+        ],
+        "annotation": {
+          "explanation": "pending a final, unappealable decision in two related matters: the court stayed the case.",
+          "checklist_item": "How Long Decrees will Last",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3071,
+            3283
+          ],
+          [
+            3284,
+            3449
+          ],
+          [
+            3450,
+            3586
+          ],
+          [
+            3587,
+            3826
+          ]
+        ],
+        "annotation": {
+          "explanation": "On July 29, 2025, the court denied the TRO, holding plaintiffs failed to show immediate irreparable harm; the July 9 letter was not a legally binding executive action; there was no final, reviewable action; and alleged harms were speculative.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3827,
+            4087
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case was stayed pending final, unappealable decisions in V.O.S. Selections, Inc. v. United States (25-00066) and Oregon v. U.S. Dep\u2019t of Homeland Security (25-00077).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3071,
+            3283
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO denied on July 29, 2025, by Judge Reif.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3071,
+            3283
+          ],
+          [
+            3827,
+            4087
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case stayed pending final, unappealable decisions in V.O.S. Selections, Inc. v. United States (Ct. Int\u2019l Trade No. 25-00066) and Oregon v. U.S. Dep\u2019t of Homeland Security (Ct. Int\u2019l Trade No. 25-00077).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3071,
+            3283
+          ],
+          [
+            3284,
+            3449
+          ],
+          [
+            3450,
+            3586
+          ],
+          [
+            3587,
+            3826
+          ]
+        ],
+        "annotation": {
+          "explanation": "Ruling on July 29, 2025: TRO denied. Reasons: no clear showing of immediate irreparable harm; the July 9 Brazil Tariff letter was not a legally binding executive action; no final agency action subject to review; alleged harms deemed speculative.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3827,
+            4087
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case stayed pending final, unappealable decisions in related CIT cases: V.O.S. Selections, Inc. v. United States (No. 25-00066) and Oregon v. U.S. Dep\u2019t of Homeland Security (No. 25-00077).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3071,
+            3283
+          ],
+          [
+            3284,
+            3449
+          ],
+          [
+            3450,
+            3586
+          ],
+          [
+            3587,
+            3826
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for temporary restraining order: denied on July 29, 2025 by Judge Reif; court found no clear showing of immediate and irreparable harm, noted the July 9 letter was not legally binding executive action and there was no final action subject to review, and deemed the alleged harm speculative.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46807_p7",
+    "metadata": {
+      "case_id": "46807",
+      "paragraph_num": 7,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This case is ongoing."
+    },
+    "source": "",
+    "target": "This case challenges the imposition of a 50% tariff on Brazilian orange juice imports.\n\nOn April 2, 2025, President Trump issued Executive Order 14257, establishing a 10% ad valorem duty on all imports. Subsequently, on April 9, 2025, Executive Order 14266 paused elevated tariffs for most countries for 90 days while maintaining the 10% global tariff. After extending certain tariff suspensions until August 1, 2025, President Trump issued a letter on July 9, 2025, imposing a 50% tariff on all Brazilian products entering the United States, effective August 1, 2025. The Trump administration justified the tariff based on concerns about Brazil\u2019s treatment of former President Bolsonaro, alleged attacks on free elections and free speech in the United States, and an allegedly unfair trade relationship.\n\nOn July 18, 2025, Johanan Foods, Inc. and Johanna Beverage Company, LLC filed this lawsuit in the U.S. Court of International Trade against the Executive Office of the President, the United States, the U.S. Customs and Border Protection Agency (CBP) and its Acting Commissioner, the Office of the U.S. Trade Representative, and the Secretary of Commerce, under the International Emergency Economic Powers Act (IEEPA) and the Trade Act of 1974. Judge Timothy M. Reif presides over the case.\n\nRepresented by private counsel, the plaintiffs sought a declaration that IEEPA does not grant the President statutory authority to impose the tariff, that President Trump failed to identify a national emergency or an \"unusual or extraordinary threat\" from outside the United States as required by IEEPA, and that Congress unconstitutionally delegated power to the President. They also sought injunctive relief to block enforcement of Executive Order 14257 and the Brazil letter, as well as damages for any collected tariffs and attorneys\u2019 fees.\n\nPlaintiffs argued that the tariff lacked a valid legal basis, was not issued through a proper executive order, and was unsupported by any declared national emergency or qualifying threat under IEEPA. They contended that IEEPA does not authorize tariffs aimed at political objectives or countries with which the U.S. maintains a trade surplus, such as Brazil. They also claimed the tariff exceeded the 15% cap and 150-day limit set by Section 122 of the Trade Act. They warned of severe economic harm, including at least $68 million in annual costs, the potential loss of nearly 700 American jobs, and a 20\u201325% increase in consumer orange juice prices due to their exclusive reliance on Brazilian imports and a sharp decline in domestic supply.\n\nOn July 22, 2025, the plaintiffs filed a motion for a temporary restraining order and a preliminary injunction to block enforcement of the tariff. Plaintiffs also sought summary judgment for a permanent injunction. They argued that the tariff would inflict immediate and irreparable harm, including tens of millions in added annual costs, sharp retail price increases, and potential layoffs, and that the balance of equities and public interest favored immediate injunctive relief.\n\nOn July 29, 2025, Judge Reif denied the plaintiffs\u2019 motion for a temporary restraining order, finding they had not clearly demonstrated a likelihood of immediate and irreparable harm before the threatened tariff. The court observed that the July 9 letter announcing the \u201cBrazil Tariff\u201d was not an executive order, proclamation, or other form of legally binding executive action. Accordingly, the court determined that neither the President nor any agency had taken \u201cfinal action that is subject to judicial review.\u201d The court further reasoned that the plaintiffs\u2019 alleged harm was \u201chypothetical or speculative\u201d because it rested on an action that \u201cmay or may not occur,\u201d citing legal precedent that speculative harm does not warrant judicial intervention. Finally, the court stayed the case pending a final, unappealable decision in two related matters: V.O.S. Selections, Inc. v. United States, Case No. 25-00066 (Ct. Int\u2019l Trade), and Oregon v. U.S. Dep\u2019t of Homeland Security, Case No. 25-00077 (Ct. Int\u2019l Trade).\n\nThis case is ongoing.",
+    "target_paragraph": "This case is ongoing.",
+    "target_paragraph_indices": [
+      4089,
+      4110
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4089,
+            4110
+          ]
+        ],
+        "annotation": {
+          "explanation": "Current status: ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4089,
+            4110
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: ongoing.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

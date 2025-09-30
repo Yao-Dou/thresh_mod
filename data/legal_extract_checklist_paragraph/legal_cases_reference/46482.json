@@ -1,0 +1,1176 @@
+[
+  {
+    "id": "46482_p0",
+    "metadata": {
+      "case_id": "46482",
+      "paragraph_num": 0,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "In this case, two organizations involved in research about education policies, practices, and method..."
+    },
+    "source": "",
+    "target": "In this case, two organizations involved in research about education policies, practices, and methods sued the Department of Education and its Secretary. The plaintiffs challenged actions taken by the Department regarding the Institute for Education Sciences (IES) and its centers. Under the Education Sciences Reform Act (ESRA), the Department, through IES, is charged with conducting, assessing, collecting, and disseminating research about education practices and policies in the U.S. \"Through IES and its Centers, Congress sought to improve both the quantity and quality of educational data collection.\"\n\nOn March 20, 2025, President Trump signed Executive Order 14,242, titled \"Improving Education Outcomes by Empowering Parents, States, and Communities.\" In this order, President Trump instructed the Secretary \"to the maximum extent appropriate and permitted by law, [to] take all necessary steps to facilitate the closure of the Department of Education.\" In keeping with this directive, the Department canceled most of IES's contracts with independent contractors that it used to collect, analyze, and publish educational data. On March 11, the Department also announced a Reduction in Force of nearly 50% of its workforce.\n\nOn April 24, 2025, the plaintiffs filed suit in the District Court for the District of Columbia. The plaintiffs alleged that the Department's actions \"will limit the availability and access of significant datasets that are needed to identify, investigate, evaluate, and improve educational outcomes.\" Furthermore, the plaintiffs alleged that the Department's actions would prevent the IES from carrying out its instructions from Congress to collect and disseminate educational data. Therefore, the plaintiffs argued that the defendant's actions exceeded statutory authority, were not in accordance with law, and were arbitrary and capricious under the Administrative Procedure Act (APA). The plaintiffs also claimed the actions violated the Constitution's separation of powers principles and exceeded the agency's statutory authority under ERSA. The plaintiffs asked the court to declare that the defendants had violated the APA, to enjoin the defendants from refusing to fulfill contracts or destroying any datasets in existence, and to order the defendants to reinstate cancelled contracts and a sufficient workforce to carry out the IES's duties.\n\nThe case was assigned to District Judge Trevor N. McFadden. On May 2, the plaintiffs filed a motion for a preliminary injunction, telling the court that any delay in granting relief would cause them irreparable harm, given the President's directives to the Department. On May 5, the defendants moved for a stay. The defendants pointed to another related case that was also assigned to Judge McFadden, Association for Education Finance and Policy v. McMahon, [../../../../case/46342/] arguing that since the plaintiffs in both cases had moved for preliminary injunctions seeking identical relief, the court here should stay the proceedings until a decision was reached in the other case on the preliminary injunction. On May 6, Judge McFadden denied the defendants' motion for a stay. Judge McFadden said that the defendants had only argued that they would suffer hardship from having to litigate two similar cases at the same time, which does not warrant a stay. Furthermore, the judge said that comity concerns do not exist in this case, since both matters were before the same court, rather than before courts in different jurisdictions.\n\nOn May 19, the judge held a hearing on the plaintiffs' motion for a preliminary injunction. The court denied the plaintiffs' motion on June 3, finding that the plaintiffs were \"seeking wholesale correction of general agency operations and bundling together claims to pursue outsized relief.\" Rather than bringing a claim against a discrete agency action as required by the APA, the plaintiffs were challenging a programmatic decision, the reduction of workforce and services by the Department. Therefore, the court found that the plaintiffs were not bringing a justiciable claim under the APA, dooming their request for a preliminary injunction based on the APA.\n\nTurning to the plaintiffs' constitutional claims, the court also found them deficient, stating that \"if every statutory compliance issue triggered separation of powers concerns, virtually all APA cases would balloon into disputes of constitutional proportions.\" Instead, the plaintiffs' constitutional claims in this case were simply statutory violation claims in disguise. Therefore, the court found that the plaintiffs failed to state a plausible claim for relief under the Constitution. Given these deficiencies, the court said the plaintiffs were unlikely to prevail on the merits of their claims and denied their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs next filed an amended complaint on July 21. The amended compliant removed many of the general allegations of illegal activity by the defendants, instead focusing on ten specific studies and datasets used by the plaintiffs. The amended complaint focused on these ten datasets, their purposes, their use by the plaintiffs, and how their use had been hindered by the defendants' actions. The plaintiffs' claims for relief follow this updated structure, arguing that the defendants' actions in ceasing to provide access to these datasets were arbitrary and capricious under the APA. Finally, the amended complaint also restructures the relief sought, seeking specific injunctions for each of the datasets.\n\nThe case is ongoing.",
+    "target_paragraph": "In this case, two organizations involved in research about education policies, practices, and methods sued the Department of Education and its Secretary. The plaintiffs challenged actions taken by the Department regarding the Institute for Education Sciences (IES) and its centers. Under the Education Sciences Reform Act (ESRA), the Department, through IES, is charged with conducting, assessing, collecting, and disseminating research about education practices and policies in the U.S. \"Through IES and its Centers, Congress sought to improve both the quantity and quality of educational data collection.\"",
+    "target_paragraph_indices": [
+      0,
+      607
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            282,
+            487
+          ],
+          [
+            1921,
+            2078
+          ]
+        ],
+        "annotation": {
+          "explanation": "Statutory claim that the agency exceeded its authority under the Education Sciences Reform Act (ESRA).",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            282,
+            487
+          ],
+          [
+            1921,
+            2078
+          ]
+        ],
+        "annotation": {
+          "explanation": "Education Sciences Reform Act (ESRA) \u2014 claim that the agency exceeded its statutory authority under ESRA.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            0,
+            2
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            0,
+            153
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as two organizations involved in research about education policies, practices, and methods",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            153
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Organization involved in research about education policies, practices, and methods",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            153
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Organization involved in research about education policies, practices, and methods",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            153
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Department of Education",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            0,
+            153
+          ],
+          [
+            776,
+            962
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Secretary of the Department of Education",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            0,
+            1
+          ]
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            153
+          ]
+        ],
+        "annotation": {
+          "explanation": "Parties: Two education-research organizations (plaintiffs) sued the U.S. Department of Education and its Secretary (defendants).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            282,
+            487
+          ],
+          [
+            488,
+            607
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background statutory framework: ESRA tasks the Department, via IES and its Centers, with conducting, assessing, collecting, and disseminating education research to improve the quantity and quality of educational data.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            0,
+            153
+          ],
+          [
+            2384,
+            2443
+          ],
+          [
+            2444,
+            2652
+          ],
+          [
+            3525,
+            3616
+          ],
+          [
+            3617,
+            4187
+          ],
+          [
+            4189,
+            4861
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 motion for a preliminary injunction denied on June 3, 2025 (D.D.C., Judge Trevor N. McFadden; 2025 WL 1568301). Court held plaintiffs challenged programmatic decisions rather than discrete APA actions and their constitutional claims were deficient; thus unlikely to succeed on the merits.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            0,
+            3,
+            4,
+            5
+          ]
+        },
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": "46482_p1",
+    "metadata": {
+      "case_id": "46482",
+      "paragraph_num": 1,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On March 20, 2025, President Trump signed Executive Order 14,242, titled \"Improving Education Outcom..."
+    },
+    "source": "",
+    "target": "In this case, two organizations involved in research about education policies, practices, and methods sued the Department of Education and its Secretary. The plaintiffs challenged actions taken by the Department regarding the Institute for Education Sciences (IES) and its centers. Under the Education Sciences Reform Act (ESRA), the Department, through IES, is charged with conducting, assessing, collecting, and disseminating research about education practices and policies in the U.S. \"Through IES and its Centers, Congress sought to improve both the quantity and quality of educational data collection.\"\n\nOn March 20, 2025, President Trump signed Executive Order 14,242, titled \"Improving Education Outcomes by Empowering Parents, States, and Communities.\" In this order, President Trump instructed the Secretary \"to the maximum extent appropriate and permitted by law, [to] take all necessary steps to facilitate the closure of the Department of Education.\" In keeping with this directive, the Department canceled most of IES's contracts with independent contractors that it used to collect, analyze, and publish educational data. On March 11, the Department also announced a Reduction in Force of nearly 50% of its workforce.\n\nOn April 24, 2025, the plaintiffs filed suit in the District Court for the District of Columbia. The plaintiffs alleged that the Department's actions \"will limit the availability and access of significant datasets that are needed to identify, investigate, evaluate, and improve educational outcomes.\" Furthermore, the plaintiffs alleged that the Department's actions would prevent the IES from carrying out its instructions from Congress to collect and disseminate educational data. Therefore, the plaintiffs argued that the defendant's actions exceeded statutory authority, were not in accordance with law, and were arbitrary and capricious under the Administrative Procedure Act (APA). The plaintiffs also claimed the actions violated the Constitution's separation of powers principles and exceeded the agency's statutory authority under ERSA. The plaintiffs asked the court to declare that the defendants had violated the APA, to enjoin the defendants from refusing to fulfill contracts or destroying any datasets in existence, and to order the defendants to reinstate cancelled contracts and a sufficient workforce to carry out the IES's duties.\n\nThe case was assigned to District Judge Trevor N. McFadden. On May 2, the plaintiffs filed a motion for a preliminary injunction, telling the court that any delay in granting relief would cause them irreparable harm, given the President's directives to the Department. On May 5, the defendants moved for a stay. The defendants pointed to another related case that was also assigned to Judge McFadden, Association for Education Finance and Policy v. McMahon, [../../../../case/46342/] arguing that since the plaintiffs in both cases had moved for preliminary injunctions seeking identical relief, the court here should stay the proceedings until a decision was reached in the other case on the preliminary injunction. On May 6, Judge McFadden denied the defendants' motion for a stay. Judge McFadden said that the defendants had only argued that they would suffer hardship from having to litigate two similar cases at the same time, which does not warrant a stay. Furthermore, the judge said that comity concerns do not exist in this case, since both matters were before the same court, rather than before courts in different jurisdictions.\n\nOn May 19, the judge held a hearing on the plaintiffs' motion for a preliminary injunction. The court denied the plaintiffs' motion on June 3, finding that the plaintiffs were \"seeking wholesale correction of general agency operations and bundling together claims to pursue outsized relief.\" Rather than bringing a claim against a discrete agency action as required by the APA, the plaintiffs were challenging a programmatic decision, the reduction of workforce and services by the Department. Therefore, the court found that the plaintiffs were not bringing a justiciable claim under the APA, dooming their request for a preliminary injunction based on the APA.\n\nTurning to the plaintiffs' constitutional claims, the court also found them deficient, stating that \"if every statutory compliance issue triggered separation of powers concerns, virtually all APA cases would balloon into disputes of constitutional proportions.\" Instead, the plaintiffs' constitutional claims in this case were simply statutory violation claims in disguise. Therefore, the court found that the plaintiffs failed to state a plausible claim for relief under the Constitution. Given these deficiencies, the court said the plaintiffs were unlikely to prevail on the merits of their claims and denied their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs next filed an amended complaint on July 21. The amended compliant removed many of the general allegations of illegal activity by the defendants, instead focusing on ten specific studies and datasets used by the plaintiffs. The amended complaint focused on these ten datasets, their purposes, their use by the plaintiffs, and how their use had been hindered by the defendants' actions. The plaintiffs' claims for relief follow this updated structure, arguing that the defendants' actions in ceasing to provide access to these datasets were arbitrary and capricious under the APA. Finally, the amended complaint also restructures the relief sought, seeking specific injunctions for each of the datasets.\n\nThe case is ongoing.",
+    "target_paragraph": "On March 20, 2025, President Trump signed Executive Order 14,242, titled \"Improving Education Outcomes by Empowering Parents, States, and Communities.\" In this order, President Trump instructed the Secretary \"to the maximum extent appropriate and permitted by law, [to] take all necessary steps to facilitate the closure of the Department of Education.\" In keeping with this directive, the Department canceled most of IES's contracts with independent contractors that it used to collect, analyze, and publish educational data. On March 11, the Department also announced a Reduction in Force of nearly 50% of its workforce.",
+    "target_paragraph_indices": [
+      609,
+      1231
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            609,
+            760
+          ]
+        ],
+        "annotation": {
+          "explanation": "March 20, 2025: Executive Order 14,242 (\"Improving Education Outcomes by Empowering Parents, States, and Communities\").",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            609,
+            760
+          ],
+          [
+            761,
+            962
+          ]
+        ],
+        "annotation": {
+          "explanation": "Executive Order 14,242 (Mar. 20, 2025) directed the Secretary to take steps, to the extent permitted by law, to facilitate closure of the Department of Education.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            963,
+            1135
+          ],
+          [
+            1136,
+            1231
+          ]
+        ],
+        "annotation": {
+          "explanation": "Agency actions: The Department canceled most IES contracts used to collect/analyze/publish educational data and announced a nearly 50% Reduction in Force.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46482_p2",
+    "metadata": {
+      "case_id": "46482",
+      "paragraph_num": 2,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 24, 2025, the plaintiffs filed suit in the District Court for the District of Columbia. The..."
+    },
+    "source": "",
+    "target": "In this case, two organizations involved in research about education policies, practices, and methods sued the Department of Education and its Secretary. The plaintiffs challenged actions taken by the Department regarding the Institute for Education Sciences (IES) and its centers. Under the Education Sciences Reform Act (ESRA), the Department, through IES, is charged with conducting, assessing, collecting, and disseminating research about education practices and policies in the U.S. \"Through IES and its Centers, Congress sought to improve both the quantity and quality of educational data collection.\"\n\nOn March 20, 2025, President Trump signed Executive Order 14,242, titled \"Improving Education Outcomes by Empowering Parents, States, and Communities.\" In this order, President Trump instructed the Secretary \"to the maximum extent appropriate and permitted by law, [to] take all necessary steps to facilitate the closure of the Department of Education.\" In keeping with this directive, the Department canceled most of IES's contracts with independent contractors that it used to collect, analyze, and publish educational data. On March 11, the Department also announced a Reduction in Force of nearly 50% of its workforce.\n\nOn April 24, 2025, the plaintiffs filed suit in the District Court for the District of Columbia. The plaintiffs alleged that the Department's actions \"will limit the availability and access of significant datasets that are needed to identify, investigate, evaluate, and improve educational outcomes.\" Furthermore, the plaintiffs alleged that the Department's actions would prevent the IES from carrying out its instructions from Congress to collect and disseminate educational data. Therefore, the plaintiffs argued that the defendant's actions exceeded statutory authority, were not in accordance with law, and were arbitrary and capricious under the Administrative Procedure Act (APA). The plaintiffs also claimed the actions violated the Constitution's separation of powers principles and exceeded the agency's statutory authority under ERSA. The plaintiffs asked the court to declare that the defendants had violated the APA, to enjoin the defendants from refusing to fulfill contracts or destroying any datasets in existence, and to order the defendants to reinstate cancelled contracts and a sufficient workforce to carry out the IES's duties.\n\nThe case was assigned to District Judge Trevor N. McFadden. On May 2, the plaintiffs filed a motion for a preliminary injunction, telling the court that any delay in granting relief would cause them irreparable harm, given the President's directives to the Department. On May 5, the defendants moved for a stay. The defendants pointed to another related case that was also assigned to Judge McFadden, Association for Education Finance and Policy v. McMahon, [../../../../case/46342/] arguing that since the plaintiffs in both cases had moved for preliminary injunctions seeking identical relief, the court here should stay the proceedings until a decision was reached in the other case on the preliminary injunction. On May 6, Judge McFadden denied the defendants' motion for a stay. Judge McFadden said that the defendants had only argued that they would suffer hardship from having to litigate two similar cases at the same time, which does not warrant a stay. Furthermore, the judge said that comity concerns do not exist in this case, since both matters were before the same court, rather than before courts in different jurisdictions.\n\nOn May 19, the judge held a hearing on the plaintiffs' motion for a preliminary injunction. The court denied the plaintiffs' motion on June 3, finding that the plaintiffs were \"seeking wholesale correction of general agency operations and bundling together claims to pursue outsized relief.\" Rather than bringing a claim against a discrete agency action as required by the APA, the plaintiffs were challenging a programmatic decision, the reduction of workforce and services by the Department. Therefore, the court found that the plaintiffs were not bringing a justiciable claim under the APA, dooming their request for a preliminary injunction based on the APA.\n\nTurning to the plaintiffs' constitutional claims, the court also found them deficient, stating that \"if every statutory compliance issue triggered separation of powers concerns, virtually all APA cases would balloon into disputes of constitutional proportions.\" Instead, the plaintiffs' constitutional claims in this case were simply statutory violation claims in disguise. Therefore, the court found that the plaintiffs failed to state a plausible claim for relief under the Constitution. Given these deficiencies, the court said the plaintiffs were unlikely to prevail on the merits of their claims and denied their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs next filed an amended complaint on July 21. The amended compliant removed many of the general allegations of illegal activity by the defendants, instead focusing on ten specific studies and datasets used by the plaintiffs. The amended complaint focused on these ten datasets, their purposes, their use by the plaintiffs, and how their use had been hindered by the defendants' actions. The plaintiffs' claims for relief follow this updated structure, arguing that the defendants' actions in ceasing to provide access to these datasets were arbitrary and capricious under the APA. Finally, the amended complaint also restructures the relief sought, seeking specific injunctions for each of the datasets.\n\nThe case is ongoing.",
+    "target_paragraph": "On April 24, 2025, the plaintiffs filed suit in the District Court for the District of Columbia. The plaintiffs alleged that the Department's actions \"will limit the availability and access of significant datasets that are needed to identify, investigate, evaluate, and improve educational outcomes.\" Furthermore, the plaintiffs alleged that the Department's actions would prevent the IES from carrying out its instructions from Congress to collect and disseminate educational data. Therefore, the plaintiffs argued that the defendant's actions exceeded statutory authority, were not in accordance with law, and were arbitrary and capricious under the Administrative Procedure Act (APA). The plaintiffs also claimed the actions violated the Constitution's separation of powers principles and exceeded the agency's statutory authority under ERSA. The plaintiffs asked the court to declare that the defendants had violated the APA, to enjoin the defendants from refusing to fulfill contracts or destroying any datasets in existence, and to order the defendants to reinstate cancelled contracts and a sufficient workforce to carry out the IES's duties.",
+    "target_paragraph_indices": [
+      1233,
+      2382
+    ],
+    "edits": [
+      {
+        "category": "filing_date",
+        "output_idx": [
+          [
+            1233,
+            1329
+          ]
+        ],
+        "annotation": {
+          "explanation": "April 24, 2025",
+          "checklist_item": "Filing Date",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1716,
+            1920
+          ],
+          [
+            5101,
+            5456
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) cause of action: alleging actions exceeded statutory authority, were not in accordance with law, and were arbitrary and capricious; later narrowed to dataset-specific arbitrary and capricious APA claims.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            6
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            1921,
+            2020
+          ],
+          [
+            4189,
+            4450
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional cause of action: violation of the Constitution\u2019s separation of powers.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": [
+            2,
+            5
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1716,
+            1920
+          ],
+          [
+            5101,
+            5456
+          ]
+        ],
+        "annotation": {
+          "explanation": "Administrative Procedure Act (APA) \u2014 claims that actions exceeded statutory authority, were not in accordance with law, and were arbitrary and capricious.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": [
+            2,
+            6
+          ]
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            1921,
+            2020
+          ]
+        ],
+        "annotation": {
+          "explanation": "U.S. Constitution \u2014 separation of powers principles.",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2079,
+            2161
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory judgment that defendants violated the APA",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2163,
+            2262
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief to prevent refusal to fulfill contracts and to prohibit destruction of existing datasets",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2264,
+            2382
+          ]
+        ],
+        "annotation": {
+          "explanation": "Order (mandatory injunctive relief) to reinstate canceled contracts and restore a sufficient workforce",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1233,
+            1329
+          ]
+        ],
+        "annotation": {
+          "explanation": "Filing: Plaintiffs filed suit on April 24, 2025, in the U.S. District Court for the District of Columbia.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1330,
+            1533
+          ],
+          [
+            1534,
+            1715
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 alleged harm: Limitation of availability and access to significant education datasets and interference with IES\u2019s ability to fulfill its ESRA-mandated data collection and dissemination functions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1716,
+            1920
+          ],
+          [
+            1921,
+            2078
+          ]
+        ],
+        "annotation": {
+          "explanation": "Claims: APA violations (exceeded statutory authority, not in accordance with law, arbitrary and capricious) and constitutional separation-of-powers violations; also alleged actions exceeded authority under ESRA.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2079,
+            2382
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought: Declaratory judgment of APA violations; injunction preventing refusal to fulfill contracts or destruction of existing datasets; orders to reinstate canceled contracts and restore sufficient workforce to enable IES duties.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            1233,
+            1329
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025-04-24: Plaintiffs filed the complaint (D.D.C.).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            1233,
+            1329
+          ],
+          [
+            2384,
+            2443
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case filed April 24, 2025 in the District Court for the District of Columbia and assigned to District Judge Trevor N. McFadden.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            2,
+            3
+          ]
+        },
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": "46482_p3",
+    "metadata": {
+      "case_id": "46482",
+      "paragraph_num": 3,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case was assigned to District Judge Trevor N. McFadden. On May 2, the plaintiffs filed a motion ..."
+    },
+    "source": "",
+    "target": "In this case, two organizations involved in research about education policies, practices, and methods sued the Department of Education and its Secretary. The plaintiffs challenged actions taken by the Department regarding the Institute for Education Sciences (IES) and its centers. Under the Education Sciences Reform Act (ESRA), the Department, through IES, is charged with conducting, assessing, collecting, and disseminating research about education practices and policies in the U.S. \"Through IES and its Centers, Congress sought to improve both the quantity and quality of educational data collection.\"\n\nOn March 20, 2025, President Trump signed Executive Order 14,242, titled \"Improving Education Outcomes by Empowering Parents, States, and Communities.\" In this order, President Trump instructed the Secretary \"to the maximum extent appropriate and permitted by law, [to] take all necessary steps to facilitate the closure of the Department of Education.\" In keeping with this directive, the Department canceled most of IES's contracts with independent contractors that it used to collect, analyze, and publish educational data. On March 11, the Department also announced a Reduction in Force of nearly 50% of its workforce.\n\nOn April 24, 2025, the plaintiffs filed suit in the District Court for the District of Columbia. The plaintiffs alleged that the Department's actions \"will limit the availability and access of significant datasets that are needed to identify, investigate, evaluate, and improve educational outcomes.\" Furthermore, the plaintiffs alleged that the Department's actions would prevent the IES from carrying out its instructions from Congress to collect and disseminate educational data. Therefore, the plaintiffs argued that the defendant's actions exceeded statutory authority, were not in accordance with law, and were arbitrary and capricious under the Administrative Procedure Act (APA). The plaintiffs also claimed the actions violated the Constitution's separation of powers principles and exceeded the agency's statutory authority under ERSA. The plaintiffs asked the court to declare that the defendants had violated the APA, to enjoin the defendants from refusing to fulfill contracts or destroying any datasets in existence, and to order the defendants to reinstate cancelled contracts and a sufficient workforce to carry out the IES's duties.\n\nThe case was assigned to District Judge Trevor N. McFadden. On May 2, the plaintiffs filed a motion for a preliminary injunction, telling the court that any delay in granting relief would cause them irreparable harm, given the President's directives to the Department. On May 5, the defendants moved for a stay. The defendants pointed to another related case that was also assigned to Judge McFadden, Association for Education Finance and Policy v. McMahon, [../../../../case/46342/] arguing that since the plaintiffs in both cases had moved for preliminary injunctions seeking identical relief, the court here should stay the proceedings until a decision was reached in the other case on the preliminary injunction. On May 6, Judge McFadden denied the defendants' motion for a stay. Judge McFadden said that the defendants had only argued that they would suffer hardship from having to litigate two similar cases at the same time, which does not warrant a stay. Furthermore, the judge said that comity concerns do not exist in this case, since both matters were before the same court, rather than before courts in different jurisdictions.\n\nOn May 19, the judge held a hearing on the plaintiffs' motion for a preliminary injunction. The court denied the plaintiffs' motion on June 3, finding that the plaintiffs were \"seeking wholesale correction of general agency operations and bundling together claims to pursue outsized relief.\" Rather than bringing a claim against a discrete agency action as required by the APA, the plaintiffs were challenging a programmatic decision, the reduction of workforce and services by the Department. Therefore, the court found that the plaintiffs were not bringing a justiciable claim under the APA, dooming their request for a preliminary injunction based on the APA.\n\nTurning to the plaintiffs' constitutional claims, the court also found them deficient, stating that \"if every statutory compliance issue triggered separation of powers concerns, virtually all APA cases would balloon into disputes of constitutional proportions.\" Instead, the plaintiffs' constitutional claims in this case were simply statutory violation claims in disguise. Therefore, the court found that the plaintiffs failed to state a plausible claim for relief under the Constitution. Given these deficiencies, the court said the plaintiffs were unlikely to prevail on the merits of their claims and denied their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs next filed an amended complaint on July 21. The amended compliant removed many of the general allegations of illegal activity by the defendants, instead focusing on ten specific studies and datasets used by the plaintiffs. The amended complaint focused on these ten datasets, their purposes, their use by the plaintiffs, and how their use had been hindered by the defendants' actions. The plaintiffs' claims for relief follow this updated structure, arguing that the defendants' actions in ceasing to provide access to these datasets were arbitrary and capricious under the APA. Finally, the amended complaint also restructures the relief sought, seeking specific injunctions for each of the datasets.\n\nThe case is ongoing.",
+    "target_paragraph": "The case was assigned to District Judge Trevor N. McFadden. On May 2, the plaintiffs filed a motion for a preliminary injunction, telling the court that any delay in granting relief would cause them irreparable harm, given the President's directives to the Department. On May 5, the defendants moved for a stay. The defendants pointed to another related case that was also assigned to Judge McFadden, Association for Education Finance and Policy v. McMahon, [../../../../case/46342/] arguing that since the plaintiffs in both cases had moved for preliminary injunctions seeking identical relief, the court here should stay the proceedings until a decision was reached in the other case on the preliminary injunction. On May 6, Judge McFadden denied the defendants' motion for a stay. Judge McFadden said that the defendants had only argued that they would suffer hardship from having to litigate two similar cases at the same time, which does not warrant a stay. Furthermore, the judge said that comity concerns do not exist in this case, since both matters were before the same court, rather than before courts in different jurisdictions.",
+    "target_paragraph_indices": [
+      2384,
+      3523
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            2444,
+            2599
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            2384,
+            2443
+          ],
+          [
+            3101,
+            3167
+          ]
+        ],
+        "annotation": {
+          "explanation": "Trevor N. McFadden",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "related_cases",
+        "output_idx": [
+          [
+            2696,
+            3100
+          ],
+          [
+            3101,
+            3167
+          ],
+          [
+            3168,
+            3346
+          ],
+          [
+            3347,
+            3523
+          ]
+        ],
+        "annotation": {
+          "explanation": "Related case: Association for Education Finance and Policy v. McMahon (case code [../../../../case/46342/]); also assigned to Judge McFadden. Defendants sought a stay in this case pending a preliminary-injunction ruling in that related case because both sought identical preliminary-injunction relief; the stay was denied, with the court noting the hardship argument was insufficient and both matters were before the same court.",
+          "checklist_item": "Related Cases Listed by Their Case Code Number",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            3101,
+            3167
+          ]
+        ],
+        "annotation": {
+          "explanation": "May 6: Denial of defendants' motion for a stay.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            2444,
+            2652
+          ],
+          [
+            3617,
+            3816
+          ]
+        ],
+        "annotation": {
+          "explanation": "June 3: Denial of plaintiffs' motion for a preliminary injunction.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": [
+            3,
+            4
+          ]
+        },
+        "id": 4
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2384,
+            2443
+          ]
+        ],
+        "annotation": {
+          "explanation": "Assignment: The case was assigned to District Judge Trevor N. McFadden.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2444,
+            2652
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction request: Filed May 2; plaintiffs asserted irreparable harm tied to the President\u2019s directives.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2653,
+            2695
+          ],
+          [
+            2696,
+            3100
+          ],
+          [
+            3101,
+            3167
+          ],
+          [
+            3168,
+            3346
+          ],
+          [
+            3347,
+            3523
+          ]
+        ],
+        "annotation": {
+          "explanation": "Stay motion: Defendants sought a stay based on a related case; the court denied the stay (May 6), finding litigation hardship insufficient and no comity concerns since both matters were before the same court.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2444,
+            2652
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025-05-02: Plaintiffs filed a motion for preliminary injunction.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            2653,
+            2695
+          ],
+          [
+            2696,
+            3100
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025-05-05: Defendants moved for a stay pending resolution of a related case's PI motion.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 9
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3101,
+            3167
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025-05-06: Court denied defendants' motion for a stay.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 10
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2444,
+            2652
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs filed a motion for preliminary injunction on May 2, asserting irreparable harm if relief were delayed.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 11
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            2653,
+            2695
+          ],
+          [
+            2696,
+            3100
+          ],
+          [
+            3101,
+            3167
+          ],
+          [
+            3168,
+            3346
+          ],
+          [
+            3347,
+            3523
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants moved to stay on May 5 based on a related case seeking identical preliminary injunction relief; the court denied the stay on May 6, finding mere litigation hardship insufficient and comity concerns inapplicable because both matters were before the same court.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 12
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            2384,
+            2443
+          ],
+          [
+            2653,
+            2695
+          ],
+          [
+            3101,
+            3167
+          ],
+          [
+            3168,
+            3523
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendants\u2019 motion to stay proceedings denied on May 6, 2025, by Judge Trevor N. McFadden; court found claimed hardship insufficient and no comity concerns.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": null
+        },
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": "46482_p4",
+    "metadata": {
+      "case_id": "46482",
+      "paragraph_num": 4,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On May 19, the judge held a hearing on the plaintiffs' motion for a preliminary injunction. The cour..."
+    },
+    "source": "",
+    "target": "In this case, two organizations involved in research about education policies, practices, and methods sued the Department of Education and its Secretary. The plaintiffs challenged actions taken by the Department regarding the Institute for Education Sciences (IES) and its centers. Under the Education Sciences Reform Act (ESRA), the Department, through IES, is charged with conducting, assessing, collecting, and disseminating research about education practices and policies in the U.S. \"Through IES and its Centers, Congress sought to improve both the quantity and quality of educational data collection.\"\n\nOn March 20, 2025, President Trump signed Executive Order 14,242, titled \"Improving Education Outcomes by Empowering Parents, States, and Communities.\" In this order, President Trump instructed the Secretary \"to the maximum extent appropriate and permitted by law, [to] take all necessary steps to facilitate the closure of the Department of Education.\" In keeping with this directive, the Department canceled most of IES's contracts with independent contractors that it used to collect, analyze, and publish educational data. On March 11, the Department also announced a Reduction in Force of nearly 50% of its workforce.\n\nOn April 24, 2025, the plaintiffs filed suit in the District Court for the District of Columbia. The plaintiffs alleged that the Department's actions \"will limit the availability and access of significant datasets that are needed to identify, investigate, evaluate, and improve educational outcomes.\" Furthermore, the plaintiffs alleged that the Department's actions would prevent the IES from carrying out its instructions from Congress to collect and disseminate educational data. Therefore, the plaintiffs argued that the defendant's actions exceeded statutory authority, were not in accordance with law, and were arbitrary and capricious under the Administrative Procedure Act (APA). The plaintiffs also claimed the actions violated the Constitution's separation of powers principles and exceeded the agency's statutory authority under ERSA. The plaintiffs asked the court to declare that the defendants had violated the APA, to enjoin the defendants from refusing to fulfill contracts or destroying any datasets in existence, and to order the defendants to reinstate cancelled contracts and a sufficient workforce to carry out the IES's duties.\n\nThe case was assigned to District Judge Trevor N. McFadden. On May 2, the plaintiffs filed a motion for a preliminary injunction, telling the court that any delay in granting relief would cause them irreparable harm, given the President's directives to the Department. On May 5, the defendants moved for a stay. The defendants pointed to another related case that was also assigned to Judge McFadden, Association for Education Finance and Policy v. McMahon, [../../../../case/46342/] arguing that since the plaintiffs in both cases had moved for preliminary injunctions seeking identical relief, the court here should stay the proceedings until a decision was reached in the other case on the preliminary injunction. On May 6, Judge McFadden denied the defendants' motion for a stay. Judge McFadden said that the defendants had only argued that they would suffer hardship from having to litigate two similar cases at the same time, which does not warrant a stay. Furthermore, the judge said that comity concerns do not exist in this case, since both matters were before the same court, rather than before courts in different jurisdictions.\n\nOn May 19, the judge held a hearing on the plaintiffs' motion for a preliminary injunction. The court denied the plaintiffs' motion on June 3, finding that the plaintiffs were \"seeking wholesale correction of general agency operations and bundling together claims to pursue outsized relief.\" Rather than bringing a claim against a discrete agency action as required by the APA, the plaintiffs were challenging a programmatic decision, the reduction of workforce and services by the Department. Therefore, the court found that the plaintiffs were not bringing a justiciable claim under the APA, dooming their request for a preliminary injunction based on the APA.\n\nTurning to the plaintiffs' constitutional claims, the court also found them deficient, stating that \"if every statutory compliance issue triggered separation of powers concerns, virtually all APA cases would balloon into disputes of constitutional proportions.\" Instead, the plaintiffs' constitutional claims in this case were simply statutory violation claims in disguise. Therefore, the court found that the plaintiffs failed to state a plausible claim for relief under the Constitution. Given these deficiencies, the court said the plaintiffs were unlikely to prevail on the merits of their claims and denied their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs next filed an amended complaint on July 21. The amended compliant removed many of the general allegations of illegal activity by the defendants, instead focusing on ten specific studies and datasets used by the plaintiffs. The amended complaint focused on these ten datasets, their purposes, their use by the plaintiffs, and how their use had been hindered by the defendants' actions. The plaintiffs' claims for relief follow this updated structure, arguing that the defendants' actions in ceasing to provide access to these datasets were arbitrary and capricious under the APA. Finally, the amended complaint also restructures the relief sought, seeking specific injunctions for each of the datasets.\n\nThe case is ongoing.",
+    "target_paragraph": "On May 19, the judge held a hearing on the plaintiffs' motion for a preliminary injunction. The court denied the plaintiffs' motion on June 3, finding that the plaintiffs were \"seeking wholesale correction of general agency operations and bundling together claims to pursue outsized relief.\" Rather than bringing a claim against a discrete agency action as required by the APA, the plaintiffs were challenging a programmatic decision, the reduction of workforce and services by the Department. Therefore, the court found that the plaintiffs were not bringing a justiciable claim under the APA, dooming their request for a preliminary injunction based on the APA.",
+    "target_paragraph_indices": [
+      3525,
+      4187
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3525,
+            3616
+          ],
+          [
+            3617,
+            3816
+          ],
+          [
+            3817,
+            4018
+          ],
+          [
+            4019,
+            4187
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction ruling: After a May 19 hearing, the court denied the motion on June 3, holding the APA claims were non-justiciable because they challenged programmatic decisions rather than discrete actions.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3525,
+            3616
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025-05-19: Hearing held on plaintiffs' preliminary injunction motion.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3617,
+            3816
+          ],
+          [
+            4679,
+            4861
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025-06-03: Court denied plaintiffs' motion for a preliminary injunction (2025 WL 1568301).",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3525,
+            3616
+          ]
+        ],
+        "annotation": {
+          "explanation": "Hearing on the preliminary injunction motion held on May 19.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3617,
+            4187
+          ],
+          [
+            4189,
+            4861
+          ]
+        ],
+        "annotation": {
+          "explanation": "Preliminary injunction denied on June 3; court held APA claims were non-justiciable programmatic challenges and constitutional claims were deficient; plaintiffs unlikely to succeed on the merits. Citation: 2025 WL 1568301.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": [
+            4,
+            5
+          ]
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46482_p5",
+    "metadata": {
+      "case_id": "46482",
+      "paragraph_num": 5,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Turning to the plaintiffs' constitutional claims, the court also found them deficient, stating that ..."
+    },
+    "source": "",
+    "target": "In this case, two organizations involved in research about education policies, practices, and methods sued the Department of Education and its Secretary. The plaintiffs challenged actions taken by the Department regarding the Institute for Education Sciences (IES) and its centers. Under the Education Sciences Reform Act (ESRA), the Department, through IES, is charged with conducting, assessing, collecting, and disseminating research about education practices and policies in the U.S. \"Through IES and its Centers, Congress sought to improve both the quantity and quality of educational data collection.\"\n\nOn March 20, 2025, President Trump signed Executive Order 14,242, titled \"Improving Education Outcomes by Empowering Parents, States, and Communities.\" In this order, President Trump instructed the Secretary \"to the maximum extent appropriate and permitted by law, [to] take all necessary steps to facilitate the closure of the Department of Education.\" In keeping with this directive, the Department canceled most of IES's contracts with independent contractors that it used to collect, analyze, and publish educational data. On March 11, the Department also announced a Reduction in Force of nearly 50% of its workforce.\n\nOn April 24, 2025, the plaintiffs filed suit in the District Court for the District of Columbia. The plaintiffs alleged that the Department's actions \"will limit the availability and access of significant datasets that are needed to identify, investigate, evaluate, and improve educational outcomes.\" Furthermore, the plaintiffs alleged that the Department's actions would prevent the IES from carrying out its instructions from Congress to collect and disseminate educational data. Therefore, the plaintiffs argued that the defendant's actions exceeded statutory authority, were not in accordance with law, and were arbitrary and capricious under the Administrative Procedure Act (APA). The plaintiffs also claimed the actions violated the Constitution's separation of powers principles and exceeded the agency's statutory authority under ERSA. The plaintiffs asked the court to declare that the defendants had violated the APA, to enjoin the defendants from refusing to fulfill contracts or destroying any datasets in existence, and to order the defendants to reinstate cancelled contracts and a sufficient workforce to carry out the IES's duties.\n\nThe case was assigned to District Judge Trevor N. McFadden. On May 2, the plaintiffs filed a motion for a preliminary injunction, telling the court that any delay in granting relief would cause them irreparable harm, given the President's directives to the Department. On May 5, the defendants moved for a stay. The defendants pointed to another related case that was also assigned to Judge McFadden, Association for Education Finance and Policy v. McMahon, [../../../../case/46342/] arguing that since the plaintiffs in both cases had moved for preliminary injunctions seeking identical relief, the court here should stay the proceedings until a decision was reached in the other case on the preliminary injunction. On May 6, Judge McFadden denied the defendants' motion for a stay. Judge McFadden said that the defendants had only argued that they would suffer hardship from having to litigate two similar cases at the same time, which does not warrant a stay. Furthermore, the judge said that comity concerns do not exist in this case, since both matters were before the same court, rather than before courts in different jurisdictions.\n\nOn May 19, the judge held a hearing on the plaintiffs' motion for a preliminary injunction. The court denied the plaintiffs' motion on June 3, finding that the plaintiffs were \"seeking wholesale correction of general agency operations and bundling together claims to pursue outsized relief.\" Rather than bringing a claim against a discrete agency action as required by the APA, the plaintiffs were challenging a programmatic decision, the reduction of workforce and services by the Department. Therefore, the court found that the plaintiffs were not bringing a justiciable claim under the APA, dooming their request for a preliminary injunction based on the APA.\n\nTurning to the plaintiffs' constitutional claims, the court also found them deficient, stating that \"if every statutory compliance issue triggered separation of powers concerns, virtually all APA cases would balloon into disputes of constitutional proportions.\" Instead, the plaintiffs' constitutional claims in this case were simply statutory violation claims in disguise. Therefore, the court found that the plaintiffs failed to state a plausible claim for relief under the Constitution. Given these deficiencies, the court said the plaintiffs were unlikely to prevail on the merits of their claims and denied their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs next filed an amended complaint on July 21. The amended compliant removed many of the general allegations of illegal activity by the defendants, instead focusing on ten specific studies and datasets used by the plaintiffs. The amended complaint focused on these ten datasets, their purposes, their use by the plaintiffs, and how their use had been hindered by the defendants' actions. The plaintiffs' claims for relief follow this updated structure, arguing that the defendants' actions in ceasing to provide access to these datasets were arbitrary and capricious under the APA. Finally, the amended complaint also restructures the relief sought, seeking specific injunctions for each of the datasets.\n\nThe case is ongoing.",
+    "target_paragraph": "Turning to the plaintiffs' constitutional claims, the court also found them deficient, stating that \"if every statutory compliance issue triggered separation of powers concerns, virtually all APA cases would balloon into disputes of constitutional proportions.\" Instead, the plaintiffs' constitutional claims in this case were simply statutory violation claims in disguise. Therefore, the court found that the plaintiffs failed to state a plausible claim for relief under the Constitution. Given these deficiencies, the court said the plaintiffs were unlikely to prevail on the merits of their claims and denied their request for a preliminary injunction. 2025 WL 1568301.",
+    "target_paragraph_indices": [
+      4189,
+      4861
+    ],
+    "edits": [
+      {
+        "category": "reported_opinions",
+        "output_idx": [
+          [
+            4845,
+            4861
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025 WL 1568301",
+          "checklist_item": "All Reported Opinions Cited with Shortened Bluebook Citation",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4189,
+            4450
+          ],
+          [
+            4451,
+            4562
+          ],
+          [
+            4563,
+            4678
+          ],
+          [
+            4679,
+            4861
+          ]
+        ],
+        "annotation": {
+          "explanation": "Constitutional claims: The court found them deficient (statutory claims in disguise), concluded plaintiffs were unlikely to succeed on the merits, and denied the preliminary injunction.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46482_p6",
+    "metadata": {
+      "case_id": "46482",
+      "paragraph_num": 6,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The plaintiffs next filed an amended complaint on July 21. The amended compliant removed many of the..."
+    },
+    "source": "",
+    "target": "In this case, two organizations involved in research about education policies, practices, and methods sued the Department of Education and its Secretary. The plaintiffs challenged actions taken by the Department regarding the Institute for Education Sciences (IES) and its centers. Under the Education Sciences Reform Act (ESRA), the Department, through IES, is charged with conducting, assessing, collecting, and disseminating research about education practices and policies in the U.S. \"Through IES and its Centers, Congress sought to improve both the quantity and quality of educational data collection.\"\n\nOn March 20, 2025, President Trump signed Executive Order 14,242, titled \"Improving Education Outcomes by Empowering Parents, States, and Communities.\" In this order, President Trump instructed the Secretary \"to the maximum extent appropriate and permitted by law, [to] take all necessary steps to facilitate the closure of the Department of Education.\" In keeping with this directive, the Department canceled most of IES's contracts with independent contractors that it used to collect, analyze, and publish educational data. On March 11, the Department also announced a Reduction in Force of nearly 50% of its workforce.\n\nOn April 24, 2025, the plaintiffs filed suit in the District Court for the District of Columbia. The plaintiffs alleged that the Department's actions \"will limit the availability and access of significant datasets that are needed to identify, investigate, evaluate, and improve educational outcomes.\" Furthermore, the plaintiffs alleged that the Department's actions would prevent the IES from carrying out its instructions from Congress to collect and disseminate educational data. Therefore, the plaintiffs argued that the defendant's actions exceeded statutory authority, were not in accordance with law, and were arbitrary and capricious under the Administrative Procedure Act (APA). The plaintiffs also claimed the actions violated the Constitution's separation of powers principles and exceeded the agency's statutory authority under ERSA. The plaintiffs asked the court to declare that the defendants had violated the APA, to enjoin the defendants from refusing to fulfill contracts or destroying any datasets in existence, and to order the defendants to reinstate cancelled contracts and a sufficient workforce to carry out the IES's duties.\n\nThe case was assigned to District Judge Trevor N. McFadden. On May 2, the plaintiffs filed a motion for a preliminary injunction, telling the court that any delay in granting relief would cause them irreparable harm, given the President's directives to the Department. On May 5, the defendants moved for a stay. The defendants pointed to another related case that was also assigned to Judge McFadden, Association for Education Finance and Policy v. McMahon, [../../../../case/46342/] arguing that since the plaintiffs in both cases had moved for preliminary injunctions seeking identical relief, the court here should stay the proceedings until a decision was reached in the other case on the preliminary injunction. On May 6, Judge McFadden denied the defendants' motion for a stay. Judge McFadden said that the defendants had only argued that they would suffer hardship from having to litigate two similar cases at the same time, which does not warrant a stay. Furthermore, the judge said that comity concerns do not exist in this case, since both matters were before the same court, rather than before courts in different jurisdictions.\n\nOn May 19, the judge held a hearing on the plaintiffs' motion for a preliminary injunction. The court denied the plaintiffs' motion on June 3, finding that the plaintiffs were \"seeking wholesale correction of general agency operations and bundling together claims to pursue outsized relief.\" Rather than bringing a claim against a discrete agency action as required by the APA, the plaintiffs were challenging a programmatic decision, the reduction of workforce and services by the Department. Therefore, the court found that the plaintiffs were not bringing a justiciable claim under the APA, dooming their request for a preliminary injunction based on the APA.\n\nTurning to the plaintiffs' constitutional claims, the court also found them deficient, stating that \"if every statutory compliance issue triggered separation of powers concerns, virtually all APA cases would balloon into disputes of constitutional proportions.\" Instead, the plaintiffs' constitutional claims in this case were simply statutory violation claims in disguise. Therefore, the court found that the plaintiffs failed to state a plausible claim for relief under the Constitution. Given these deficiencies, the court said the plaintiffs were unlikely to prevail on the merits of their claims and denied their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs next filed an amended complaint on July 21. The amended compliant removed many of the general allegations of illegal activity by the defendants, instead focusing on ten specific studies and datasets used by the plaintiffs. The amended complaint focused on these ten datasets, their purposes, their use by the plaintiffs, and how their use had been hindered by the defendants' actions. The plaintiffs' claims for relief follow this updated structure, arguing that the defendants' actions in ceasing to provide access to these datasets were arbitrary and capricious under the APA. Finally, the amended complaint also restructures the relief sought, seeking specific injunctions for each of the datasets.\n\nThe case is ongoing.",
+    "target_paragraph": "The plaintiffs next filed an amended complaint on July 21. The amended compliant removed many of the general allegations of illegal activity by the defendants, instead focusing on ten specific studies and datasets used by the plaintiffs. The amended complaint focused on these ten datasets, their purposes, their use by the plaintiffs, and how their use had been hindered by the defendants' actions. The plaintiffs' claims for relief follow this updated structure, arguing that the defendants' actions in ceasing to provide access to these datasets were arbitrary and capricious under the APA. Finally, the amended complaint also restructures the relief sought, seeking specific injunctions for each of the datasets.",
+    "target_paragraph_indices": [
+      4863,
+      5579
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4863,
+            4921
+          ],
+          [
+            4922,
+            5100
+          ],
+          [
+            5101,
+            5262
+          ],
+          [
+            5263,
+            5456
+          ],
+          [
+            5457,
+            5579
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint (July 21): Narrowed to ten specific studies/datasets; alleges defendants\u2019 cessation of access hindered use and was arbitrary and capricious under the APA; seeks dataset-specific injunctive relief.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4863,
+            4921
+          ]
+        ],
+        "annotation": {
+          "explanation": "2025-07-21: Plaintiffs filed an amended complaint.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4863,
+            4921
+          ],
+          [
+            4922,
+            5100
+          ],
+          [
+            5457,
+            5579
+          ]
+        ],
+        "annotation": {
+          "explanation": "Amended complaint filed July 21, narrowing the case to ten specific datasets and restructuring the requested relief to seek dataset-specific injunctions.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46482_p7",
+    "metadata": {
+      "case_id": "46482",
+      "paragraph_num": 7,
+      "total_paragraphs": 8,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case is ongoing."
+    },
+    "source": "",
+    "target": "In this case, two organizations involved in research about education policies, practices, and methods sued the Department of Education and its Secretary. The plaintiffs challenged actions taken by the Department regarding the Institute for Education Sciences (IES) and its centers. Under the Education Sciences Reform Act (ESRA), the Department, through IES, is charged with conducting, assessing, collecting, and disseminating research about education practices and policies in the U.S. \"Through IES and its Centers, Congress sought to improve both the quantity and quality of educational data collection.\"\n\nOn March 20, 2025, President Trump signed Executive Order 14,242, titled \"Improving Education Outcomes by Empowering Parents, States, and Communities.\" In this order, President Trump instructed the Secretary \"to the maximum extent appropriate and permitted by law, [to] take all necessary steps to facilitate the closure of the Department of Education.\" In keeping with this directive, the Department canceled most of IES's contracts with independent contractors that it used to collect, analyze, and publish educational data. On March 11, the Department also announced a Reduction in Force of nearly 50% of its workforce.\n\nOn April 24, 2025, the plaintiffs filed suit in the District Court for the District of Columbia. The plaintiffs alleged that the Department's actions \"will limit the availability and access of significant datasets that are needed to identify, investigate, evaluate, and improve educational outcomes.\" Furthermore, the plaintiffs alleged that the Department's actions would prevent the IES from carrying out its instructions from Congress to collect and disseminate educational data. Therefore, the plaintiffs argued that the defendant's actions exceeded statutory authority, were not in accordance with law, and were arbitrary and capricious under the Administrative Procedure Act (APA). The plaintiffs also claimed the actions violated the Constitution's separation of powers principles and exceeded the agency's statutory authority under ERSA. The plaintiffs asked the court to declare that the defendants had violated the APA, to enjoin the defendants from refusing to fulfill contracts or destroying any datasets in existence, and to order the defendants to reinstate cancelled contracts and a sufficient workforce to carry out the IES's duties.\n\nThe case was assigned to District Judge Trevor N. McFadden. On May 2, the plaintiffs filed a motion for a preliminary injunction, telling the court that any delay in granting relief would cause them irreparable harm, given the President's directives to the Department. On May 5, the defendants moved for a stay. The defendants pointed to another related case that was also assigned to Judge McFadden, Association for Education Finance and Policy v. McMahon, [../../../../case/46342/] arguing that since the plaintiffs in both cases had moved for preliminary injunctions seeking identical relief, the court here should stay the proceedings until a decision was reached in the other case on the preliminary injunction. On May 6, Judge McFadden denied the defendants' motion for a stay. Judge McFadden said that the defendants had only argued that they would suffer hardship from having to litigate two similar cases at the same time, which does not warrant a stay. Furthermore, the judge said that comity concerns do not exist in this case, since both matters were before the same court, rather than before courts in different jurisdictions.\n\nOn May 19, the judge held a hearing on the plaintiffs' motion for a preliminary injunction. The court denied the plaintiffs' motion on June 3, finding that the plaintiffs were \"seeking wholesale correction of general agency operations and bundling together claims to pursue outsized relief.\" Rather than bringing a claim against a discrete agency action as required by the APA, the plaintiffs were challenging a programmatic decision, the reduction of workforce and services by the Department. Therefore, the court found that the plaintiffs were not bringing a justiciable claim under the APA, dooming their request for a preliminary injunction based on the APA.\n\nTurning to the plaintiffs' constitutional claims, the court also found them deficient, stating that \"if every statutory compliance issue triggered separation of powers concerns, virtually all APA cases would balloon into disputes of constitutional proportions.\" Instead, the plaintiffs' constitutional claims in this case were simply statutory violation claims in disguise. Therefore, the court found that the plaintiffs failed to state a plausible claim for relief under the Constitution. Given these deficiencies, the court said the plaintiffs were unlikely to prevail on the merits of their claims and denied their request for a preliminary injunction. 2025 WL 1568301.\n\nThe plaintiffs next filed an amended complaint on July 21. The amended compliant removed many of the general allegations of illegal activity by the defendants, instead focusing on ten specific studies and datasets used by the plaintiffs. The amended complaint focused on these ten datasets, their purposes, their use by the plaintiffs, and how their use had been hindered by the defendants' actions. The plaintiffs' claims for relief follow this updated structure, arguing that the defendants' actions in ceasing to provide access to these datasets were arbitrary and capricious under the APA. Finally, the amended complaint also restructures the relief sought, seeking specific injunctions for each of the datasets.\n\nThe case is ongoing.",
+    "target_paragraph": "The case is ongoing.",
+    "target_paragraph_indices": [
+      5581,
+      5601
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            5581,
+            5601
+          ]
+        ],
+        "annotation": {
+          "explanation": "Status: The case remains ongoing.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5581,
+            5601
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing; no trial on the merits has been held or scheduled in the summary.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  }
+]

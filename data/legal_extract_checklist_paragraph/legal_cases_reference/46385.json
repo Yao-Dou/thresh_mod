@@ -1,0 +1,1030 @@
+[
+  {
+    "id": "46385_p0",
+    "metadata": {
+      "case_id": "46385",
+      "paragraph_num": 0,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "This lawsuit challenges congressional action taken against Northwestern University."
+    },
+    "source": "",
+    "target": "This lawsuit challenges congressional action taken against Northwestern University.\n\nOn April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed suit against three government defendants \u2013 the \u00a0U.S. House of Representatives Committee on Education and Workforce, and two U.S. House Member in their capacity as Committee Chair and Subcommittee Chair respectively \u2013 and three nominal defendants \u2013 Northwestern University, the President of Northwestern University, and the Chair of the Board of Trustees of Northwestern University.\n\nThe Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services organization which houses twenty different clinical programs and provide pro bono legal services to clients on a range of matters, from appellate advocacy, housing and tenant issues, and environmental advocacy. Plaintiffs set forth the following facts in their complaint: Plaintiffs are clinical professors of law at the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice, respectively.\n\nPlaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University reached an agreement with student protestors, wherein students agreed to remove their protest encampment in exchange for the promise of the continuation of peaceful protests. In the same year, the Committee on Education and Workforce, a standing committee in the U.S. House of Representatives, made multiple requests for information from Northwestern relating to the protests.\n\nPlaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 2025, President Trump issued Executive Order 14188 on January 29, which directed executive agencies to identify authorities under their jurisdictions to combat antisemitism. Consistent with that Executive Order, the Department of Justice established a joint task force to combat \u201cantisemitic acts of terrorism and civil rights violations,\u201d and opened investigations into Northwestern and four other universities. The House Committee demanded more information from Northwestern in March 2025: Noting that Northwestern had provided free legal representation to the organizers of an anti-Israeli highway blockage protest, the Committee demanded several categories of documents relating to clinical work done at Northwestern Law, including all written policies and guidance relating to legal clinics; a detailed budget for the Bluhm Legal Clinic; and all hiring and performance reviews for one of the plaintiffs.\n\nPlaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated plaintiffs\u2019 First Amendment rights to advocate on behalf of clients, and constituted viewpoint-based discrimination with no legitimate legislative purpose. (2) Defendants violated plaintiffs\u2019 due process rights under the Fifth Amendment, by failing to provide adequate process before interfering with plaintiffs\u2019 right to represent their clients. (3) Defendants interfered with the Sixth Amendment\u2019s right to counsel requirement, a constitutional claim which plaintiffs had prudential, third-party standing to bring on behalf of their clients. (4) Defendants violated the Equal Protection Clause of the Fifth Amendment, as the investigation reflected a \u201cbare desire to harm Plaintiffs\u201d for their political affiliations.\n\nPlaintiffs requested declaratory and injunctive relief, to declare the demand for information unconstitutional and enjoin the nominal defendants from producing any documents responsive to the Committee request.\n\nThe case was assigned to the Honorable Elaine E. Bucklo.\n\nOn April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the Committee on Education and Workforce had issued a demand for information from Northwestern University, plaintiffs requested that the court issue an order to stay the Committee\u2019s demand and prevent the university from complying by April 10. Plaintiffs argued that the investigation was part of an ideological campaign by the White House to target non-ideologically aligned universities and institutions, and that the stated goal of combating antisemitism was merely pretextual for this politically-motivated attack. Plaintiffs further alleged that the clinical programs at Northwestern University would be harmed as a result of the Committee\u2019s inquiry. Plaintiffs therefore urged the court to issue a temporary restraining order.\n\nOn April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion for an emergency temporary restraining order had asked the court to act by April 10, but that did not allow time to provide notice to the Committee. Plaintiff\u2019s counsel submitted in their declaration that they provided notice to counsel for the Committee and to Northwestern University.\n\nThe committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraining order, on April 10, 2025, the court ruled that there was no longer a need for emergency relief, and denied the motion without prejudice.\n\nThe case is ongoing.",
+    "target_paragraph": "This lawsuit challenges congressional action taken against Northwestern University.",
+    "target_paragraph_indices": [
+      0,
+      83
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            0,
+            83
+          ]
+        ],
+        "annotation": {
+          "explanation": "The case challenges congressional action directed at Northwestern University.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  },
+  {
+    "id": "46385_p1",
+    "metadata": {
+      "case_id": "46385",
+      "paragraph_num": 1,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed..."
+    },
+    "source": "",
+    "target": "This lawsuit challenges congressional action taken against Northwestern University.\n\nOn April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed suit against three government defendants \u2013 the \u00a0U.S. House of Representatives Committee on Education and Workforce, and two U.S. House Member in their capacity as Committee Chair and Subcommittee Chair respectively \u2013 and three nominal defendants \u2013 Northwestern University, the President of Northwestern University, and the Chair of the Board of Trustees of Northwestern University.\n\nThe Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services organization which houses twenty different clinical programs and provide pro bono legal services to clients on a range of matters, from appellate advocacy, housing and tenant issues, and environmental advocacy. Plaintiffs set forth the following facts in their complaint: Plaintiffs are clinical professors of law at the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice, respectively.\n\nPlaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University reached an agreement with student protestors, wherein students agreed to remove their protest encampment in exchange for the promise of the continuation of peaceful protests. In the same year, the Committee on Education and Workforce, a standing committee in the U.S. House of Representatives, made multiple requests for information from Northwestern relating to the protests.\n\nPlaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 2025, President Trump issued Executive Order 14188 on January 29, which directed executive agencies to identify authorities under their jurisdictions to combat antisemitism. Consistent with that Executive Order, the Department of Justice established a joint task force to combat \u201cantisemitic acts of terrorism and civil rights violations,\u201d and opened investigations into Northwestern and four other universities. The House Committee demanded more information from Northwestern in March 2025: Noting that Northwestern had provided free legal representation to the organizers of an anti-Israeli highway blockage protest, the Committee demanded several categories of documents relating to clinical work done at Northwestern Law, including all written policies and guidance relating to legal clinics; a detailed budget for the Bluhm Legal Clinic; and all hiring and performance reviews for one of the plaintiffs.\n\nPlaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated plaintiffs\u2019 First Amendment rights to advocate on behalf of clients, and constituted viewpoint-based discrimination with no legitimate legislative purpose. (2) Defendants violated plaintiffs\u2019 due process rights under the Fifth Amendment, by failing to provide adequate process before interfering with plaintiffs\u2019 right to represent their clients. (3) Defendants interfered with the Sixth Amendment\u2019s right to counsel requirement, a constitutional claim which plaintiffs had prudential, third-party standing to bring on behalf of their clients. (4) Defendants violated the Equal Protection Clause of the Fifth Amendment, as the investigation reflected a \u201cbare desire to harm Plaintiffs\u201d for their political affiliations.\n\nPlaintiffs requested declaratory and injunctive relief, to declare the demand for information unconstitutional and enjoin the nominal defendants from producing any documents responsive to the Committee request.\n\nThe case was assigned to the Honorable Elaine E. Bucklo.\n\nOn April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the Committee on Education and Workforce had issued a demand for information from Northwestern University, plaintiffs requested that the court issue an order to stay the Committee\u2019s demand and prevent the university from complying by April 10. Plaintiffs argued that the investigation was part of an ideological campaign by the White House to target non-ideologically aligned universities and institutions, and that the stated goal of combating antisemitism was merely pretextual for this politically-motivated attack. Plaintiffs further alleged that the clinical programs at Northwestern University would be harmed as a result of the Committee\u2019s inquiry. Plaintiffs therefore urged the court to issue a temporary restraining order.\n\nOn April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion for an emergency temporary restraining order had asked the court to act by April 10, but that did not allow time to provide notice to the Committee. Plaintiff\u2019s counsel submitted in their declaration that they provided notice to counsel for the Committee and to Northwestern University.\n\nThe committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraining order, on April 10, 2025, the court ruled that there was no longer a need for emergency relief, and denied the motion without prejudice.\n\nThe case is ongoing.",
+    "target_paragraph": "On April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed suit against three government defendants \u2013 the \u00a0U.S. House of Representatives Committee on Education and Workforce, and two U.S. House Member in their capacity as Committee Chair and Subcommittee Chair respectively \u2013 and three nominal defendants \u2013 Northwestern University, the President of Northwestern University, and the Chair of the Board of Trustees of Northwestern University.",
+    "target_paragraph_indices": [
+      85,
+      567
+    ],
+    "edits": [
+      {
+        "category": "class_action",
+        "output_idx": [
+          [
+            85,
+            226
+          ],
+          [
+            938,
+            1109
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs: Individual, described as two clinical professors of law at Northwestern University",
+          "checklist_item": "Class Action or Individual Plaintiffs",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            85,
+            190
+          ],
+          [
+            938,
+            1109
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Clinical professor of law at Northwestern University, at the Community Justice and Civil Rights Clinic.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 1
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            85,
+            190
+          ],
+          [
+            938,
+            1109
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiff: Clinical professor of law at Northwestern University, at the Center on Negotiation, Mediation, and Restorative Justice.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": [
+            1,
+            2
+          ]
+        },
+        "id": 2
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            306,
+            400
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. House Member in their capacity as Committee Chair of the House Committee on Education and Workforce.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            306,
+            400
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. House Member in their capacity as Subcommittee Chair of the House Committee on Education and Workforce.",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            407,
+            567
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Northwestern University (nominal defendant).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            407,
+            567
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: President of Northwestern University (nominal defendant).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            407,
+            567
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: Chair of the Board of Trustees of Northwestern University (nominal defendant).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": "46385_p2",
+    "metadata": {
+      "case_id": "46385",
+      "paragraph_num": 2,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services org..."
+    },
+    "source": "",
+    "target": "This lawsuit challenges congressional action taken against Northwestern University.\n\nOn April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed suit against three government defendants \u2013 the \u00a0U.S. House of Representatives Committee on Education and Workforce, and two U.S. House Member in their capacity as Committee Chair and Subcommittee Chair respectively \u2013 and three nominal defendants \u2013 Northwestern University, the President of Northwestern University, and the Chair of the Board of Trustees of Northwestern University.\n\nThe Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services organization which houses twenty different clinical programs and provide pro bono legal services to clients on a range of matters, from appellate advocacy, housing and tenant issues, and environmental advocacy. Plaintiffs set forth the following facts in their complaint: Plaintiffs are clinical professors of law at the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice, respectively.\n\nPlaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University reached an agreement with student protestors, wherein students agreed to remove their protest encampment in exchange for the promise of the continuation of peaceful protests. In the same year, the Committee on Education and Workforce, a standing committee in the U.S. House of Representatives, made multiple requests for information from Northwestern relating to the protests.\n\nPlaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 2025, President Trump issued Executive Order 14188 on January 29, which directed executive agencies to identify authorities under their jurisdictions to combat antisemitism. Consistent with that Executive Order, the Department of Justice established a joint task force to combat \u201cantisemitic acts of terrorism and civil rights violations,\u201d and opened investigations into Northwestern and four other universities. The House Committee demanded more information from Northwestern in March 2025: Noting that Northwestern had provided free legal representation to the organizers of an anti-Israeli highway blockage protest, the Committee demanded several categories of documents relating to clinical work done at Northwestern Law, including all written policies and guidance relating to legal clinics; a detailed budget for the Bluhm Legal Clinic; and all hiring and performance reviews for one of the plaintiffs.\n\nPlaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated plaintiffs\u2019 First Amendment rights to advocate on behalf of clients, and constituted viewpoint-based discrimination with no legitimate legislative purpose. (2) Defendants violated plaintiffs\u2019 due process rights under the Fifth Amendment, by failing to provide adequate process before interfering with plaintiffs\u2019 right to represent their clients. (3) Defendants interfered with the Sixth Amendment\u2019s right to counsel requirement, a constitutional claim which plaintiffs had prudential, third-party standing to bring on behalf of their clients. (4) Defendants violated the Equal Protection Clause of the Fifth Amendment, as the investigation reflected a \u201cbare desire to harm Plaintiffs\u201d for their political affiliations.\n\nPlaintiffs requested declaratory and injunctive relief, to declare the demand for information unconstitutional and enjoin the nominal defendants from producing any documents responsive to the Committee request.\n\nThe case was assigned to the Honorable Elaine E. Bucklo.\n\nOn April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the Committee on Education and Workforce had issued a demand for information from Northwestern University, plaintiffs requested that the court issue an order to stay the Committee\u2019s demand and prevent the university from complying by April 10. Plaintiffs argued that the investigation was part of an ideological campaign by the White House to target non-ideologically aligned universities and institutions, and that the stated goal of combating antisemitism was merely pretextual for this politically-motivated attack. Plaintiffs further alleged that the clinical programs at Northwestern University would be harmed as a result of the Committee\u2019s inquiry. Plaintiffs therefore urged the court to issue a temporary restraining order.\n\nOn April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion for an emergency temporary restraining order had asked the court to act by April 10, but that did not allow time to provide notice to the Committee. Plaintiff\u2019s counsel submitted in their declaration that they provided notice to counsel for the Committee and to Northwestern University.\n\nThe committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraining order, on April 10, 2025, the court ruled that there was no longer a need for emergency relief, and denied the motion without prejudice.\n\nThe case is ongoing.",
+    "target_paragraph": "The Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services organization which houses twenty different clinical programs and provide pro bono legal services to clients on a range of matters, from appellate advocacy, housing and tenant issues, and environmental advocacy. Plaintiffs set forth the following facts in their complaint: Plaintiffs are clinical professors of law at the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice, respectively.",
+    "target_paragraph_indices": [
+      569,
+      1109
+    ],
+    "edits": [
+      {
+        "category": "type_of_counsel",
+        "output_idx": [
+          [
+            569,
+            876
+          ],
+          [
+            2179,
+            2305
+          ]
+        ],
+        "annotation": {
+          "explanation": "Legal services (law school clinic providing pro bono services)",
+          "checklist_item": "Type of Counsel",
+          "spans_paragraphs": [
+            2,
+            4
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            569,
+            876
+          ],
+          [
+            877,
+            1109
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background: Northwestern Law\u2019s Bluhm Legal Clinic provides pro bono legal services across 20 programs; the plaintiffs are clinical professors affiliated with the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46385_p3",
+    "metadata": {
+      "case_id": "46385",
+      "paragraph_num": 3,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University..."
+    },
+    "source": "",
+    "target": "This lawsuit challenges congressional action taken against Northwestern University.\n\nOn April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed suit against three government defendants \u2013 the \u00a0U.S. House of Representatives Committee on Education and Workforce, and two U.S. House Member in their capacity as Committee Chair and Subcommittee Chair respectively \u2013 and three nominal defendants \u2013 Northwestern University, the President of Northwestern University, and the Chair of the Board of Trustees of Northwestern University.\n\nThe Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services organization which houses twenty different clinical programs and provide pro bono legal services to clients on a range of matters, from appellate advocacy, housing and tenant issues, and environmental advocacy. Plaintiffs set forth the following facts in their complaint: Plaintiffs are clinical professors of law at the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice, respectively.\n\nPlaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University reached an agreement with student protestors, wherein students agreed to remove their protest encampment in exchange for the promise of the continuation of peaceful protests. In the same year, the Committee on Education and Workforce, a standing committee in the U.S. House of Representatives, made multiple requests for information from Northwestern relating to the protests.\n\nPlaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 2025, President Trump issued Executive Order 14188 on January 29, which directed executive agencies to identify authorities under their jurisdictions to combat antisemitism. Consistent with that Executive Order, the Department of Justice established a joint task force to combat \u201cantisemitic acts of terrorism and civil rights violations,\u201d and opened investigations into Northwestern and four other universities. The House Committee demanded more information from Northwestern in March 2025: Noting that Northwestern had provided free legal representation to the organizers of an anti-Israeli highway blockage protest, the Committee demanded several categories of documents relating to clinical work done at Northwestern Law, including all written policies and guidance relating to legal clinics; a detailed budget for the Bluhm Legal Clinic; and all hiring and performance reviews for one of the plaintiffs.\n\nPlaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated plaintiffs\u2019 First Amendment rights to advocate on behalf of clients, and constituted viewpoint-based discrimination with no legitimate legislative purpose. (2) Defendants violated plaintiffs\u2019 due process rights under the Fifth Amendment, by failing to provide adequate process before interfering with plaintiffs\u2019 right to represent their clients. (3) Defendants interfered with the Sixth Amendment\u2019s right to counsel requirement, a constitutional claim which plaintiffs had prudential, third-party standing to bring on behalf of their clients. (4) Defendants violated the Equal Protection Clause of the Fifth Amendment, as the investigation reflected a \u201cbare desire to harm Plaintiffs\u201d for their political affiliations.\n\nPlaintiffs requested declaratory and injunctive relief, to declare the demand for information unconstitutional and enjoin the nominal defendants from producing any documents responsive to the Committee request.\n\nThe case was assigned to the Honorable Elaine E. Bucklo.\n\nOn April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the Committee on Education and Workforce had issued a demand for information from Northwestern University, plaintiffs requested that the court issue an order to stay the Committee\u2019s demand and prevent the university from complying by April 10. Plaintiffs argued that the investigation was part of an ideological campaign by the White House to target non-ideologically aligned universities and institutions, and that the stated goal of combating antisemitism was merely pretextual for this politically-motivated attack. Plaintiffs further alleged that the clinical programs at Northwestern University would be harmed as a result of the Committee\u2019s inquiry. Plaintiffs therefore urged the court to issue a temporary restraining order.\n\nOn April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion for an emergency temporary restraining order had asked the court to act by April 10, but that did not allow time to provide notice to the Committee. Plaintiff\u2019s counsel submitted in their declaration that they provided notice to counsel for the Committee and to Northwestern University.\n\nThe committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraining order, on April 10, 2025, the court ruled that there was no longer a need for emergency relief, and denied the motion without prejudice.\n\nThe case is ongoing.",
+    "target_paragraph": "Plaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University reached an agreement with student protestors, wherein students agreed to remove their protest encampment in exchange for the promise of the continuation of peaceful protests. In the same year, the Committee on Education and Workforce, a standing committee in the U.S. House of Representatives, made multiple requests for information from Northwestern relating to the protests.",
+    "target_paragraph_indices": [
+      1111,
+      1588
+    ],
+    "edits": [
+      {
+        "category": "parties",
+        "output_idx": [
+          [
+            1405,
+            1505
+          ]
+        ],
+        "annotation": {
+          "explanation": "Defendant: U.S. House of Representatives Committee on Education and Workforce (standing committee).",
+          "checklist_item": "Who are the Parties",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1111,
+            1386
+          ],
+          [
+            1387,
+            1588
+          ]
+        ],
+        "annotation": {
+          "explanation": "Background events: In 2024, Northwestern reached an agreement with Gaza war protestors to remove an encampment in exchange for continued peaceful protests; that year, the House Committee made multiple information requests to Northwestern about the protests.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": "46385_p4",
+    "metadata": {
+      "case_id": "46385",
+      "paragraph_num": 4,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 202..."
+    },
+    "source": "",
+    "target": "This lawsuit challenges congressional action taken against Northwestern University.\n\nOn April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed suit against three government defendants \u2013 the \u00a0U.S. House of Representatives Committee on Education and Workforce, and two U.S. House Member in their capacity as Committee Chair and Subcommittee Chair respectively \u2013 and three nominal defendants \u2013 Northwestern University, the President of Northwestern University, and the Chair of the Board of Trustees of Northwestern University.\n\nThe Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services organization which houses twenty different clinical programs and provide pro bono legal services to clients on a range of matters, from appellate advocacy, housing and tenant issues, and environmental advocacy. Plaintiffs set forth the following facts in their complaint: Plaintiffs are clinical professors of law at the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice, respectively.\n\nPlaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University reached an agreement with student protestors, wherein students agreed to remove their protest encampment in exchange for the promise of the continuation of peaceful protests. In the same year, the Committee on Education and Workforce, a standing committee in the U.S. House of Representatives, made multiple requests for information from Northwestern relating to the protests.\n\nPlaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 2025, President Trump issued Executive Order 14188 on January 29, which directed executive agencies to identify authorities under their jurisdictions to combat antisemitism. Consistent with that Executive Order, the Department of Justice established a joint task force to combat \u201cantisemitic acts of terrorism and civil rights violations,\u201d and opened investigations into Northwestern and four other universities. The House Committee demanded more information from Northwestern in March 2025: Noting that Northwestern had provided free legal representation to the organizers of an anti-Israeli highway blockage protest, the Committee demanded several categories of documents relating to clinical work done at Northwestern Law, including all written policies and guidance relating to legal clinics; a detailed budget for the Bluhm Legal Clinic; and all hiring and performance reviews for one of the plaintiffs.\n\nPlaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated plaintiffs\u2019 First Amendment rights to advocate on behalf of clients, and constituted viewpoint-based discrimination with no legitimate legislative purpose. (2) Defendants violated plaintiffs\u2019 due process rights under the Fifth Amendment, by failing to provide adequate process before interfering with plaintiffs\u2019 right to represent their clients. (3) Defendants interfered with the Sixth Amendment\u2019s right to counsel requirement, a constitutional claim which plaintiffs had prudential, third-party standing to bring on behalf of their clients. (4) Defendants violated the Equal Protection Clause of the Fifth Amendment, as the investigation reflected a \u201cbare desire to harm Plaintiffs\u201d for their political affiliations.\n\nPlaintiffs requested declaratory and injunctive relief, to declare the demand for information unconstitutional and enjoin the nominal defendants from producing any documents responsive to the Committee request.\n\nThe case was assigned to the Honorable Elaine E. Bucklo.\n\nOn April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the Committee on Education and Workforce had issued a demand for information from Northwestern University, plaintiffs requested that the court issue an order to stay the Committee\u2019s demand and prevent the university from complying by April 10. Plaintiffs argued that the investigation was part of an ideological campaign by the White House to target non-ideologically aligned universities and institutions, and that the stated goal of combating antisemitism was merely pretextual for this politically-motivated attack. Plaintiffs further alleged that the clinical programs at Northwestern University would be harmed as a result of the Committee\u2019s inquiry. Plaintiffs therefore urged the court to issue a temporary restraining order.\n\nOn April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion for an emergency temporary restraining order had asked the court to act by April 10, but that did not allow time to provide notice to the Committee. Plaintiff\u2019s counsel submitted in their declaration that they provided notice to counsel for the Committee and to Northwestern University.\n\nThe committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraining order, on April 10, 2025, the court ruled that there was no longer a need for emergency relief, and denied the motion without prejudice.\n\nThe case is ongoing.",
+    "target_paragraph": "Plaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 2025, President Trump issued Executive Order 14188 on January 29, which directed executive agencies to identify authorities under their jurisdictions to combat antisemitism. Consistent with that Executive Order, the Department of Justice established a joint task force to combat \u201cantisemitic acts of terrorism and civil rights violations,\u201d and opened investigations into Northwestern and four other universities. The House Committee demanded more information from Northwestern in March 2025: Noting that Northwestern had provided free legal representation to the organizers of an anti-Israeli highway blockage protest, the Committee demanded several categories of documents relating to clinical work done at Northwestern Law, including all written policies and guidance relating to legal clinics; a detailed budget for the Bluhm Legal Clinic; and all hiring and performance reviews for one of the plaintiffs.",
+    "target_paragraph_indices": [
+      1590,
+      2595
+    ],
+    "edits": [
+      {
+        "category": "decree_dates",
+        "output_idx": [
+          [
+            1590,
+            1860
+          ]
+        ],
+        "annotation": {
+          "explanation": "January 29, 2025: Executive Order 14188 directing executive agencies to identify authorities under their jurisdictions to combat antisemitism.",
+          "checklist_item": "Dates of All Decrees",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            1590,
+            1860
+          ],
+          [
+            1861,
+            2099
+          ]
+        ],
+        "annotation": {
+          "explanation": "Context: Following Executive Order 14188 (Jan. 29, 2025) to combat antisemitism, DOJ formed a task force and opened investigations into Northwestern and four other universities.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2100,
+            2595
+          ]
+        ],
+        "annotation": {
+          "explanation": "Challenged congressional action: In March 2025, the House Committee demanded documents about Northwestern Law\u2019s clinics\u2014policies/guidance, Bluhm Legal Clinic budget, and hiring/performance reviews for one plaintiff\u2014citing Northwestern\u2019s free representation of anti-Israeli highway blockage organizers.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46385_p5",
+    "metadata": {
+      "case_id": "46385",
+      "paragraph_num": 5,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated ..."
+    },
+    "source": "",
+    "target": "This lawsuit challenges congressional action taken against Northwestern University.\n\nOn April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed suit against three government defendants \u2013 the \u00a0U.S. House of Representatives Committee on Education and Workforce, and two U.S. House Member in their capacity as Committee Chair and Subcommittee Chair respectively \u2013 and three nominal defendants \u2013 Northwestern University, the President of Northwestern University, and the Chair of the Board of Trustees of Northwestern University.\n\nThe Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services organization which houses twenty different clinical programs and provide pro bono legal services to clients on a range of matters, from appellate advocacy, housing and tenant issues, and environmental advocacy. Plaintiffs set forth the following facts in their complaint: Plaintiffs are clinical professors of law at the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice, respectively.\n\nPlaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University reached an agreement with student protestors, wherein students agreed to remove their protest encampment in exchange for the promise of the continuation of peaceful protests. In the same year, the Committee on Education and Workforce, a standing committee in the U.S. House of Representatives, made multiple requests for information from Northwestern relating to the protests.\n\nPlaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 2025, President Trump issued Executive Order 14188 on January 29, which directed executive agencies to identify authorities under their jurisdictions to combat antisemitism. Consistent with that Executive Order, the Department of Justice established a joint task force to combat \u201cantisemitic acts of terrorism and civil rights violations,\u201d and opened investigations into Northwestern and four other universities. The House Committee demanded more information from Northwestern in March 2025: Noting that Northwestern had provided free legal representation to the organizers of an anti-Israeli highway blockage protest, the Committee demanded several categories of documents relating to clinical work done at Northwestern Law, including all written policies and guidance relating to legal clinics; a detailed budget for the Bluhm Legal Clinic; and all hiring and performance reviews for one of the plaintiffs.\n\nPlaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated plaintiffs\u2019 First Amendment rights to advocate on behalf of clients, and constituted viewpoint-based discrimination with no legitimate legislative purpose. (2) Defendants violated plaintiffs\u2019 due process rights under the Fifth Amendment, by failing to provide adequate process before interfering with plaintiffs\u2019 right to represent their clients. (3) Defendants interfered with the Sixth Amendment\u2019s right to counsel requirement, a constitutional claim which plaintiffs had prudential, third-party standing to bring on behalf of their clients. (4) Defendants violated the Equal Protection Clause of the Fifth Amendment, as the investigation reflected a \u201cbare desire to harm Plaintiffs\u201d for their political affiliations.\n\nPlaintiffs requested declaratory and injunctive relief, to declare the demand for information unconstitutional and enjoin the nominal defendants from producing any documents responsive to the Committee request.\n\nThe case was assigned to the Honorable Elaine E. Bucklo.\n\nOn April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the Committee on Education and Workforce had issued a demand for information from Northwestern University, plaintiffs requested that the court issue an order to stay the Committee\u2019s demand and prevent the university from complying by April 10. Plaintiffs argued that the investigation was part of an ideological campaign by the White House to target non-ideologically aligned universities and institutions, and that the stated goal of combating antisemitism was merely pretextual for this politically-motivated attack. Plaintiffs further alleged that the clinical programs at Northwestern University would be harmed as a result of the Committee\u2019s inquiry. Plaintiffs therefore urged the court to issue a temporary restraining order.\n\nOn April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion for an emergency temporary restraining order had asked the court to act by April 10, but that did not allow time to provide notice to the Committee. Plaintiff\u2019s counsel submitted in their declaration that they provided notice to counsel for the Committee and to Northwestern University.\n\nThe committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraining order, on April 10, 2025, the court ruled that there was no longer a need for emergency relief, and denied the motion without prejudice.\n\nThe case is ongoing.",
+    "target_paragraph": "Plaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated plaintiffs\u2019 First Amendment rights to advocate on behalf of clients, and constituted viewpoint-based discrimination with no legitimate legislative purpose. (2) Defendants violated plaintiffs\u2019 due process rights under the Fifth Amendment, by failing to provide adequate process before interfering with plaintiffs\u2019 right to represent their clients. (3) Defendants interfered with the Sixth Amendment\u2019s right to counsel requirement, a constitutional claim which plaintiffs had prudential, third-party standing to bring on behalf of their clients. (4) Defendants violated the Equal Protection Clause of the Fifth Amendment, as the investigation reflected a \u201cbare desire to harm Plaintiffs\u201d for their political affiliations.",
+    "target_paragraph_indices": [
+      2597,
+      3416
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2597,
+            2852
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment claim: violation of speech/advocacy rights and viewpoint-based discrimination.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            2853,
+            3043
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment due process claim: inadequate process before interfering with plaintiffs\u2019 ability to represent clients.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            3044,
+            3240
+          ]
+        ],
+        "annotation": {
+          "explanation": "Sixth Amendment claim: interference with right to counsel; asserted via prudential third-party standing on behalf of clients.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            3241,
+            3416
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment Equal Protection claim: alleged animus-based targeting due to political affiliations.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2664,
+            2852
+          ]
+        ],
+        "annotation": {
+          "explanation": "First Amendment (free speech/advocacy; viewpoint-based discrimination)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            2853,
+            3043
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment Due Process Clause",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 5
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            3044,
+            3240
+          ]
+        ],
+        "annotation": {
+          "explanation": "Sixth Amendment Right to Counsel",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 6
+      },
+      {
+        "category": "statutory_basis",
+        "output_idx": [
+          [
+            3241,
+            3416
+          ]
+        ],
+        "annotation": {
+          "explanation": "Fifth Amendment Equal Protection (equal protection component via the Fifth Amendment)",
+          "checklist_item": "Statutory or Constitutional Basis for the Case",
+          "spans_paragraphs": null
+        },
+        "id": 7
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            2597,
+            3416
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 constitutional claims: First Amendment (viewpoint discrimination; interference with advocacy), Fifth Amendment due process, Sixth Amendment right to counsel (third-party standing), and Fifth Amendment equal protection (animus based on political affiliations).",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 8
+      }
+    ]
+  },
+  {
+    "id": "46385_p6",
+    "metadata": {
+      "case_id": "46385",
+      "paragraph_num": 6,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "Plaintiffs requested declaratory and injunctive relief, to declare the demand for information uncons..."
+    },
+    "source": "",
+    "target": "This lawsuit challenges congressional action taken against Northwestern University.\n\nOn April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed suit against three government defendants \u2013 the \u00a0U.S. House of Representatives Committee on Education and Workforce, and two U.S. House Member in their capacity as Committee Chair and Subcommittee Chair respectively \u2013 and three nominal defendants \u2013 Northwestern University, the President of Northwestern University, and the Chair of the Board of Trustees of Northwestern University.\n\nThe Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services organization which houses twenty different clinical programs and provide pro bono legal services to clients on a range of matters, from appellate advocacy, housing and tenant issues, and environmental advocacy. Plaintiffs set forth the following facts in their complaint: Plaintiffs are clinical professors of law at the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice, respectively.\n\nPlaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University reached an agreement with student protestors, wherein students agreed to remove their protest encampment in exchange for the promise of the continuation of peaceful protests. In the same year, the Committee on Education and Workforce, a standing committee in the U.S. House of Representatives, made multiple requests for information from Northwestern relating to the protests.\n\nPlaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 2025, President Trump issued Executive Order 14188 on January 29, which directed executive agencies to identify authorities under their jurisdictions to combat antisemitism. Consistent with that Executive Order, the Department of Justice established a joint task force to combat \u201cantisemitic acts of terrorism and civil rights violations,\u201d and opened investigations into Northwestern and four other universities. The House Committee demanded more information from Northwestern in March 2025: Noting that Northwestern had provided free legal representation to the organizers of an anti-Israeli highway blockage protest, the Committee demanded several categories of documents relating to clinical work done at Northwestern Law, including all written policies and guidance relating to legal clinics; a detailed budget for the Bluhm Legal Clinic; and all hiring and performance reviews for one of the plaintiffs.\n\nPlaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated plaintiffs\u2019 First Amendment rights to advocate on behalf of clients, and constituted viewpoint-based discrimination with no legitimate legislative purpose. (2) Defendants violated plaintiffs\u2019 due process rights under the Fifth Amendment, by failing to provide adequate process before interfering with plaintiffs\u2019 right to represent their clients. (3) Defendants interfered with the Sixth Amendment\u2019s right to counsel requirement, a constitutional claim which plaintiffs had prudential, third-party standing to bring on behalf of their clients. (4) Defendants violated the Equal Protection Clause of the Fifth Amendment, as the investigation reflected a \u201cbare desire to harm Plaintiffs\u201d for their political affiliations.\n\nPlaintiffs requested declaratory and injunctive relief, to declare the demand for information unconstitutional and enjoin the nominal defendants from producing any documents responsive to the Committee request.\n\nThe case was assigned to the Honorable Elaine E. Bucklo.\n\nOn April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the Committee on Education and Workforce had issued a demand for information from Northwestern University, plaintiffs requested that the court issue an order to stay the Committee\u2019s demand and prevent the university from complying by April 10. Plaintiffs argued that the investigation was part of an ideological campaign by the White House to target non-ideologically aligned universities and institutions, and that the stated goal of combating antisemitism was merely pretextual for this politically-motivated attack. Plaintiffs further alleged that the clinical programs at Northwestern University would be harmed as a result of the Committee\u2019s inquiry. Plaintiffs therefore urged the court to issue a temporary restraining order.\n\nOn April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion for an emergency temporary restraining order had asked the court to act by April 10, but that did not allow time to provide notice to the Committee. Plaintiff\u2019s counsel submitted in their declaration that they provided notice to counsel for the Committee and to Northwestern University.\n\nThe committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraining order, on April 10, 2025, the court ruled that there was no longer a need for emergency relief, and denied the motion without prejudice.\n\nThe case is ongoing.",
+    "target_paragraph": "Plaintiffs requested declaratory and injunctive relief, to declare the demand for information unconstitutional and enjoin the nominal defendants from producing any documents responsive to the Committee request.",
+    "target_paragraph_indices": [
+      3418,
+      3628
+    ],
+    "edits": [
+      {
+        "category": "cause_of_action",
+        "output_idx": [
+          [
+            3418,
+            3628
+          ]
+        ],
+        "annotation": {
+          "explanation": "Relief sought for constitutional claims: declaratory and injunctive relief to block compliance with the Committee\u2019s demand.",
+          "checklist_item": "Cause of Action",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3418,
+            3628
+          ]
+        ],
+        "annotation": {
+          "explanation": "Declaratory relief declaring the Committee\u2019s demand for information unconstitutional.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3418,
+            3628
+          ]
+        ],
+        "annotation": {
+          "explanation": "Injunctive relief enjoining the nominal defendants (Northwestern University, its President, and Board Chair) from producing documents responsive to the Committee\u2019s request.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3418,
+            3628
+          ]
+        ],
+        "annotation": {
+          "explanation": "Requested relief: Declaratory and injunctive relief to declare the Committee\u2019s demand unconstitutional and to bar Northwestern and its officials from producing responsive documents.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3418,
+            3628
+          ]
+        ],
+        "annotation": {
+          "explanation": "Complaint filed on April 9, 2025, initiating suit against the House Committee on Education and Workforce, two House Members (in Committee roles), and Northwestern-related nominal defendants; seeking declaratory and injunctive relief.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": "46385_p7",
+    "metadata": {
+      "case_id": "46385",
+      "paragraph_num": 7,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case was assigned to the Honorable Elaine E. Bucklo."
+    },
+    "source": "",
+    "target": "This lawsuit challenges congressional action taken against Northwestern University.\n\nOn April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed suit against three government defendants \u2013 the \u00a0U.S. House of Representatives Committee on Education and Workforce, and two U.S. House Member in their capacity as Committee Chair and Subcommittee Chair respectively \u2013 and three nominal defendants \u2013 Northwestern University, the President of Northwestern University, and the Chair of the Board of Trustees of Northwestern University.\n\nThe Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services organization which houses twenty different clinical programs and provide pro bono legal services to clients on a range of matters, from appellate advocacy, housing and tenant issues, and environmental advocacy. Plaintiffs set forth the following facts in their complaint: Plaintiffs are clinical professors of law at the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice, respectively.\n\nPlaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University reached an agreement with student protestors, wherein students agreed to remove their protest encampment in exchange for the promise of the continuation of peaceful protests. In the same year, the Committee on Education and Workforce, a standing committee in the U.S. House of Representatives, made multiple requests for information from Northwestern relating to the protests.\n\nPlaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 2025, President Trump issued Executive Order 14188 on January 29, which directed executive agencies to identify authorities under their jurisdictions to combat antisemitism. Consistent with that Executive Order, the Department of Justice established a joint task force to combat \u201cantisemitic acts of terrorism and civil rights violations,\u201d and opened investigations into Northwestern and four other universities. The House Committee demanded more information from Northwestern in March 2025: Noting that Northwestern had provided free legal representation to the organizers of an anti-Israeli highway blockage protest, the Committee demanded several categories of documents relating to clinical work done at Northwestern Law, including all written policies and guidance relating to legal clinics; a detailed budget for the Bluhm Legal Clinic; and all hiring and performance reviews for one of the plaintiffs.\n\nPlaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated plaintiffs\u2019 First Amendment rights to advocate on behalf of clients, and constituted viewpoint-based discrimination with no legitimate legislative purpose. (2) Defendants violated plaintiffs\u2019 due process rights under the Fifth Amendment, by failing to provide adequate process before interfering with plaintiffs\u2019 right to represent their clients. (3) Defendants interfered with the Sixth Amendment\u2019s right to counsel requirement, a constitutional claim which plaintiffs had prudential, third-party standing to bring on behalf of their clients. (4) Defendants violated the Equal Protection Clause of the Fifth Amendment, as the investigation reflected a \u201cbare desire to harm Plaintiffs\u201d for their political affiliations.\n\nPlaintiffs requested declaratory and injunctive relief, to declare the demand for information unconstitutional and enjoin the nominal defendants from producing any documents responsive to the Committee request.\n\nThe case was assigned to the Honorable Elaine E. Bucklo.\n\nOn April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the Committee on Education and Workforce had issued a demand for information from Northwestern University, plaintiffs requested that the court issue an order to stay the Committee\u2019s demand and prevent the university from complying by April 10. Plaintiffs argued that the investigation was part of an ideological campaign by the White House to target non-ideologically aligned universities and institutions, and that the stated goal of combating antisemitism was merely pretextual for this politically-motivated attack. Plaintiffs further alleged that the clinical programs at Northwestern University would be harmed as a result of the Committee\u2019s inquiry. Plaintiffs therefore urged the court to issue a temporary restraining order.\n\nOn April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion for an emergency temporary restraining order had asked the court to act by April 10, but that did not allow time to provide notice to the Committee. Plaintiff\u2019s counsel submitted in their declaration that they provided notice to counsel for the Committee and to Northwestern University.\n\nThe committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraining order, on April 10, 2025, the court ruled that there was no longer a need for emergency relief, and denied the motion without prejudice.\n\nThe case is ongoing.",
+    "target_paragraph": "The case was assigned to the Honorable Elaine E. Bucklo.",
+    "target_paragraph_indices": [
+      3630,
+      3686
+    ],
+    "edits": [
+      {
+        "category": "judge_name",
+        "output_idx": [
+          [
+            3630,
+            3686
+          ]
+        ],
+        "annotation": {
+          "explanation": "Elaine E. Bucklo",
+          "checklist_item": "First and Last name of Judge",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3630,
+            3686
+          ]
+        ],
+        "annotation": {
+          "explanation": "Assignment: The case is before Judge Elaine E. Bucklo.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3630,
+            3686
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case assigned to Judge Elaine E. Bucklo (trial judge).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46385_p8",
+    "metadata": {
+      "case_id": "46385",
+      "paragraph_num": 8,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the..."
+    },
+    "source": "",
+    "target": "This lawsuit challenges congressional action taken against Northwestern University.\n\nOn April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed suit against three government defendants \u2013 the \u00a0U.S. House of Representatives Committee on Education and Workforce, and two U.S. House Member in their capacity as Committee Chair and Subcommittee Chair respectively \u2013 and three nominal defendants \u2013 Northwestern University, the President of Northwestern University, and the Chair of the Board of Trustees of Northwestern University.\n\nThe Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services organization which houses twenty different clinical programs and provide pro bono legal services to clients on a range of matters, from appellate advocacy, housing and tenant issues, and environmental advocacy. Plaintiffs set forth the following facts in their complaint: Plaintiffs are clinical professors of law at the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice, respectively.\n\nPlaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University reached an agreement with student protestors, wherein students agreed to remove their protest encampment in exchange for the promise of the continuation of peaceful protests. In the same year, the Committee on Education and Workforce, a standing committee in the U.S. House of Representatives, made multiple requests for information from Northwestern relating to the protests.\n\nPlaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 2025, President Trump issued Executive Order 14188 on January 29, which directed executive agencies to identify authorities under their jurisdictions to combat antisemitism. Consistent with that Executive Order, the Department of Justice established a joint task force to combat \u201cantisemitic acts of terrorism and civil rights violations,\u201d and opened investigations into Northwestern and four other universities. The House Committee demanded more information from Northwestern in March 2025: Noting that Northwestern had provided free legal representation to the organizers of an anti-Israeli highway blockage protest, the Committee demanded several categories of documents relating to clinical work done at Northwestern Law, including all written policies and guidance relating to legal clinics; a detailed budget for the Bluhm Legal Clinic; and all hiring and performance reviews for one of the plaintiffs.\n\nPlaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated plaintiffs\u2019 First Amendment rights to advocate on behalf of clients, and constituted viewpoint-based discrimination with no legitimate legislative purpose. (2) Defendants violated plaintiffs\u2019 due process rights under the Fifth Amendment, by failing to provide adequate process before interfering with plaintiffs\u2019 right to represent their clients. (3) Defendants interfered with the Sixth Amendment\u2019s right to counsel requirement, a constitutional claim which plaintiffs had prudential, third-party standing to bring on behalf of their clients. (4) Defendants violated the Equal Protection Clause of the Fifth Amendment, as the investigation reflected a \u201cbare desire to harm Plaintiffs\u201d for their political affiliations.\n\nPlaintiffs requested declaratory and injunctive relief, to declare the demand for information unconstitutional and enjoin the nominal defendants from producing any documents responsive to the Committee request.\n\nThe case was assigned to the Honorable Elaine E. Bucklo.\n\nOn April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the Committee on Education and Workforce had issued a demand for information from Northwestern University, plaintiffs requested that the court issue an order to stay the Committee\u2019s demand and prevent the university from complying by April 10. Plaintiffs argued that the investigation was part of an ideological campaign by the White House to target non-ideologically aligned universities and institutions, and that the stated goal of combating antisemitism was merely pretextual for this politically-motivated attack. Plaintiffs further alleged that the clinical programs at Northwestern University would be harmed as a result of the Committee\u2019s inquiry. Plaintiffs therefore urged the court to issue a temporary restraining order.\n\nOn April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion for an emergency temporary restraining order had asked the court to act by April 10, but that did not allow time to provide notice to the Committee. Plaintiff\u2019s counsel submitted in their declaration that they provided notice to counsel for the Committee and to Northwestern University.\n\nThe committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraining order, on April 10, 2025, the court ruled that there was no longer a need for emergency relief, and denied the motion without prejudice.\n\nThe case is ongoing.",
+    "target_paragraph": "On April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the Committee on Education and Workforce had issued a demand for information from Northwestern University, plaintiffs requested that the court issue an order to stay the Committee\u2019s demand and prevent the university from complying by April 10. Plaintiffs argued that the investigation was part of an ideological campaign by the White House to target non-ideologically aligned universities and institutions, and that the stated goal of combating antisemitism was merely pretextual for this politically-motivated attack. Plaintiffs further alleged that the clinical programs at Northwestern University would be harmed as a result of the Committee\u2019s inquiry. Plaintiffs therefore urged the court to issue a temporary restraining order.",
+    "target_paragraph_indices": [
+      3688,
+      4517
+    ],
+    "edits": [
+      {
+        "category": "remedy_sought",
+        "output_idx": [
+          [
+            3688,
+            3781
+          ],
+          [
+            3892,
+            4028
+          ],
+          [
+            4441,
+            4517
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency temporary restraining order to stay the Committee\u2019s demand and prevent Northwestern from complying by April 10.",
+          "checklist_item": "Remedy Sought",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            3688,
+            3781
+          ],
+          [
+            3782,
+            4028
+          ],
+          [
+            4029,
+            4303
+          ],
+          [
+            4304,
+            4440
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency TRO request (Apr. 9, 2025): Plaintiffs sought to stay the Committee\u2019s demand to prevent compliance by Apr. 10, alleging a politically motivated, pretextual investigation and harm to Northwestern\u2019s clinical programs.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            3688,
+            3781
+          ],
+          [
+            3782,
+            4028
+          ]
+        ],
+        "annotation": {
+          "explanation": "Motion for emergency temporary restraining order filed on April 9, 2025, seeking to stay the Committee\u2019s document demand and prevent Northwestern from complying by April 10.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            3688,
+            3781
+          ],
+          [
+            3782,
+            4028
+          ]
+        ],
+        "annotation": {
+          "explanation": "Emergency TRO motion filed April 9, 2025; requested to stay the Committee\u2019s demand and prevent Northwestern from complying by April 10.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 3
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4029,
+            4303
+          ],
+          [
+            4304,
+            4440
+          ],
+          [
+            4441,
+            4517
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 TRO grounds: investigation was ideologically motivated and pretextual; harm to clinical programs; sought immediate TRO.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 4
+      },
+      {
+        "category": "court_rulings",
+        "output_idx": [
+          [
+            3688,
+            3781
+          ],
+          [
+            4905,
+            4945
+          ],
+          [
+            4947,
+            5144
+          ]
+        ],
+        "annotation": {
+          "explanation": "TRO: Denied without prejudice on April 10, 2025, because the Committee withdrew its request and the court found no longer a need for emergency relief.",
+          "checklist_item": "Court Rulings",
+          "spans_paragraphs": [
+            8,
+            10
+          ]
+        },
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": "46385_p9",
+    "metadata": {
+      "case_id": "46385",
+      "paragraph_num": 9,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "On April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion fo..."
+    },
+    "source": "",
+    "target": "This lawsuit challenges congressional action taken against Northwestern University.\n\nOn April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed suit against three government defendants \u2013 the \u00a0U.S. House of Representatives Committee on Education and Workforce, and two U.S. House Member in their capacity as Committee Chair and Subcommittee Chair respectively \u2013 and three nominal defendants \u2013 Northwestern University, the President of Northwestern University, and the Chair of the Board of Trustees of Northwestern University.\n\nThe Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services organization which houses twenty different clinical programs and provide pro bono legal services to clients on a range of matters, from appellate advocacy, housing and tenant issues, and environmental advocacy. Plaintiffs set forth the following facts in their complaint: Plaintiffs are clinical professors of law at the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice, respectively.\n\nPlaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University reached an agreement with student protestors, wherein students agreed to remove their protest encampment in exchange for the promise of the continuation of peaceful protests. In the same year, the Committee on Education and Workforce, a standing committee in the U.S. House of Representatives, made multiple requests for information from Northwestern relating to the protests.\n\nPlaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 2025, President Trump issued Executive Order 14188 on January 29, which directed executive agencies to identify authorities under their jurisdictions to combat antisemitism. Consistent with that Executive Order, the Department of Justice established a joint task force to combat \u201cantisemitic acts of terrorism and civil rights violations,\u201d and opened investigations into Northwestern and four other universities. The House Committee demanded more information from Northwestern in March 2025: Noting that Northwestern had provided free legal representation to the organizers of an anti-Israeli highway blockage protest, the Committee demanded several categories of documents relating to clinical work done at Northwestern Law, including all written policies and guidance relating to legal clinics; a detailed budget for the Bluhm Legal Clinic; and all hiring and performance reviews for one of the plaintiffs.\n\nPlaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated plaintiffs\u2019 First Amendment rights to advocate on behalf of clients, and constituted viewpoint-based discrimination with no legitimate legislative purpose. (2) Defendants violated plaintiffs\u2019 due process rights under the Fifth Amendment, by failing to provide adequate process before interfering with plaintiffs\u2019 right to represent their clients. (3) Defendants interfered with the Sixth Amendment\u2019s right to counsel requirement, a constitutional claim which plaintiffs had prudential, third-party standing to bring on behalf of their clients. (4) Defendants violated the Equal Protection Clause of the Fifth Amendment, as the investigation reflected a \u201cbare desire to harm Plaintiffs\u201d for their political affiliations.\n\nPlaintiffs requested declaratory and injunctive relief, to declare the demand for information unconstitutional and enjoin the nominal defendants from producing any documents responsive to the Committee request.\n\nThe case was assigned to the Honorable Elaine E. Bucklo.\n\nOn April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the Committee on Education and Workforce had issued a demand for information from Northwestern University, plaintiffs requested that the court issue an order to stay the Committee\u2019s demand and prevent the university from complying by April 10. Plaintiffs argued that the investigation was part of an ideological campaign by the White House to target non-ideologically aligned universities and institutions, and that the stated goal of combating antisemitism was merely pretextual for this politically-motivated attack. Plaintiffs further alleged that the clinical programs at Northwestern University would be harmed as a result of the Committee\u2019s inquiry. Plaintiffs therefore urged the court to issue a temporary restraining order.\n\nOn April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion for an emergency temporary restraining order had asked the court to act by April 10, but that did not allow time to provide notice to the Committee. Plaintiff\u2019s counsel submitted in their declaration that they provided notice to counsel for the Committee and to Northwestern University.\n\nThe committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraining order, on April 10, 2025, the court ruled that there was no longer a need for emergency relief, and denied the motion without prejudice.\n\nThe case is ongoing.",
+    "target_paragraph": "On April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion for an emergency temporary restraining order had asked the court to act by April 10, but that did not allow time to provide notice to the Committee. Plaintiff\u2019s counsel submitted in their declaration that they provided notice to counsel for the Committee and to Northwestern University.",
+    "target_paragraph_indices": [
+      4519,
+      4903
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4519,
+            4765
+          ],
+          [
+            4766,
+            4903
+          ]
+        ],
+        "annotation": {
+          "explanation": "Notice: Plaintiffs\u2019 counsel filed a declaration on Apr. 9 stating the tight schedule impeded notice but that notice was provided to Committee counsel and Northwestern.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      },
+      {
+        "category": "important_filings",
+        "output_idx": [
+          [
+            4519,
+            4765
+          ],
+          [
+            4766,
+            4903
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 counsel declaration filed on April 9, 2025 regarding expedited timing and notice; indicates notice provided to Committee counsel and Northwestern.",
+          "checklist_item": "Note Important Filings",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4519,
+            4765
+          ],
+          [
+            4766,
+            4903
+          ]
+        ],
+        "annotation": {
+          "explanation": "Plaintiffs\u2019 counsel filed a declaration on April 9, 2025 explaining the request for action by April 10 limited time for notice; counsel provided notice to the Committee and Northwestern.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46385_p10",
+    "metadata": {
+      "case_id": "46385",
+      "paragraph_num": 10,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraini..."
+    },
+    "source": "",
+    "target": "This lawsuit challenges congressional action taken against Northwestern University.\n\nOn April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed suit against three government defendants \u2013 the \u00a0U.S. House of Representatives Committee on Education and Workforce, and two U.S. House Member in their capacity as Committee Chair and Subcommittee Chair respectively \u2013 and three nominal defendants \u2013 Northwestern University, the President of Northwestern University, and the Chair of the Board of Trustees of Northwestern University.\n\nThe Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services organization which houses twenty different clinical programs and provide pro bono legal services to clients on a range of matters, from appellate advocacy, housing and tenant issues, and environmental advocacy. Plaintiffs set forth the following facts in their complaint: Plaintiffs are clinical professors of law at the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice, respectively.\n\nPlaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University reached an agreement with student protestors, wherein students agreed to remove their protest encampment in exchange for the promise of the continuation of peaceful protests. In the same year, the Committee on Education and Workforce, a standing committee in the U.S. House of Representatives, made multiple requests for information from Northwestern relating to the protests.\n\nPlaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 2025, President Trump issued Executive Order 14188 on January 29, which directed executive agencies to identify authorities under their jurisdictions to combat antisemitism. Consistent with that Executive Order, the Department of Justice established a joint task force to combat \u201cantisemitic acts of terrorism and civil rights violations,\u201d and opened investigations into Northwestern and four other universities. The House Committee demanded more information from Northwestern in March 2025: Noting that Northwestern had provided free legal representation to the organizers of an anti-Israeli highway blockage protest, the Committee demanded several categories of documents relating to clinical work done at Northwestern Law, including all written policies and guidance relating to legal clinics; a detailed budget for the Bluhm Legal Clinic; and all hiring and performance reviews for one of the plaintiffs.\n\nPlaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated plaintiffs\u2019 First Amendment rights to advocate on behalf of clients, and constituted viewpoint-based discrimination with no legitimate legislative purpose. (2) Defendants violated plaintiffs\u2019 due process rights under the Fifth Amendment, by failing to provide adequate process before interfering with plaintiffs\u2019 right to represent their clients. (3) Defendants interfered with the Sixth Amendment\u2019s right to counsel requirement, a constitutional claim which plaintiffs had prudential, third-party standing to bring on behalf of their clients. (4) Defendants violated the Equal Protection Clause of the Fifth Amendment, as the investigation reflected a \u201cbare desire to harm Plaintiffs\u201d for their political affiliations.\n\nPlaintiffs requested declaratory and injunctive relief, to declare the demand for information unconstitutional and enjoin the nominal defendants from producing any documents responsive to the Committee request.\n\nThe case was assigned to the Honorable Elaine E. Bucklo.\n\nOn April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the Committee on Education and Workforce had issued a demand for information from Northwestern University, plaintiffs requested that the court issue an order to stay the Committee\u2019s demand and prevent the university from complying by April 10. Plaintiffs argued that the investigation was part of an ideological campaign by the White House to target non-ideologically aligned universities and institutions, and that the stated goal of combating antisemitism was merely pretextual for this politically-motivated attack. Plaintiffs further alleged that the clinical programs at Northwestern University would be harmed as a result of the Committee\u2019s inquiry. Plaintiffs therefore urged the court to issue a temporary restraining order.\n\nOn April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion for an emergency temporary restraining order had asked the court to act by April 10, but that did not allow time to provide notice to the Committee. Plaintiff\u2019s counsel submitted in their declaration that they provided notice to counsel for the Committee and to Northwestern University.\n\nThe committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraining order, on April 10, 2025, the court ruled that there was no longer a need for emergency relief, and denied the motion without prejudice.\n\nThe case is ongoing.",
+    "target_paragraph": "The committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraining order, on April 10, 2025, the court ruled that there was no longer a need for emergency relief, and denied the motion without prejudice.",
+    "target_paragraph_indices": [
+      4905,
+      5144
+    ],
+    "edits": [
+      {
+        "category": "factual_basis",
+        "output_idx": [
+          [
+            4905,
+            4945
+          ],
+          [
+            4947,
+            5144
+          ],
+          [
+            5146,
+            5166
+          ]
+        ],
+        "annotation": {
+          "explanation": "Subsequent events: The Committee withdrew its request; on Apr. 10, 2025, the court denied the TRO without prejudice as moot; the case continues.",
+          "checklist_item": "Factual Basis of Case",
+          "spans_paragraphs": [
+            10,
+            11
+          ]
+        },
+        "id": 0
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4905,
+            4945
+          ]
+        ],
+        "annotation": {
+          "explanation": "The Committee withdrew its demand for information before/around the TRO hearing.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 1
+      },
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            4947,
+            5144
+          ]
+        ],
+        "annotation": {
+          "explanation": "After a hearing, on April 10, 2025 the court found no need for emergency relief and denied the TRO motion without prejudice.",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": "46385_p11",
+    "metadata": {
+      "case_id": "46385",
+      "paragraph_num": 11,
+      "total_paragraphs": 12,
+      "model": "gpt-5-2025-08-07",
+      "paragraph_text_preview": "The case is ongoing."
+    },
+    "source": "",
+    "target": "This lawsuit challenges congressional action taken against Northwestern University.\n\nOn April 9, 2025, the plaintiffs \u2013 two clinical professors of law at Northwestern University \u2013 filed suit against three government defendants \u2013 the \u00a0U.S. House of Representatives Committee on Education and Workforce, and two U.S. House Member in their capacity as Committee Chair and Subcommittee Chair respectively \u2013 and three nominal defendants \u2013 Northwestern University, the President of Northwestern University, and the Chair of the Board of Trustees of Northwestern University.\n\nThe Northwestern University Pritzker School of Law runs the Bluhm Legal Clinic, a legal services organization which houses twenty different clinical programs and provide pro bono legal services to clients on a range of matters, from appellate advocacy, housing and tenant issues, and environmental advocacy. Plaintiffs set forth the following facts in their complaint: Plaintiffs are clinical professors of law at the Community Justice and Civil Rights Clinic and the Center on Negotiation, Mediation, and Restorative Justice, respectively.\n\nPlaintiffs noted that in 2024, amidst student protests over the war in Gaza, Northwestern University reached an agreement with student protestors, wherein students agreed to remove their protest encampment in exchange for the promise of the continuation of peaceful protests. In the same year, the Committee on Education and Workforce, a standing committee in the U.S. House of Representatives, made multiple requests for information from Northwestern relating to the protests.\n\nPlaintiffs\u2019 complaint further alleged that after the Trump administration took office in January 2025, President Trump issued Executive Order 14188 on January 29, which directed executive agencies to identify authorities under their jurisdictions to combat antisemitism. Consistent with that Executive Order, the Department of Justice established a joint task force to combat \u201cantisemitic acts of terrorism and civil rights violations,\u201d and opened investigations into Northwestern and four other universities. The House Committee demanded more information from Northwestern in March 2025: Noting that Northwestern had provided free legal representation to the organizers of an anti-Israeli highway blockage protest, the Committee demanded several categories of documents relating to clinical work done at Northwestern Law, including all written policies and guidance relating to legal clinics; a detailed budget for the Bluhm Legal Clinic; and all hiring and performance reviews for one of the plaintiffs.\n\nPlaintiffs challenged the demands, by making the following claims: (1) Defendants\u2019 actions violated plaintiffs\u2019 First Amendment rights to advocate on behalf of clients, and constituted viewpoint-based discrimination with no legitimate legislative purpose. (2) Defendants violated plaintiffs\u2019 due process rights under the Fifth Amendment, by failing to provide adequate process before interfering with plaintiffs\u2019 right to represent their clients. (3) Defendants interfered with the Sixth Amendment\u2019s right to counsel requirement, a constitutional claim which plaintiffs had prudential, third-party standing to bring on behalf of their clients. (4) Defendants violated the Equal Protection Clause of the Fifth Amendment, as the investigation reflected a \u201cbare desire to harm Plaintiffs\u201d for their political affiliations.\n\nPlaintiffs requested declaratory and injunctive relief, to declare the demand for information unconstitutional and enjoin the nominal defendants from producing any documents responsive to the Committee request.\n\nThe case was assigned to the Honorable Elaine E. Bucklo.\n\nOn April 9, 2025, the plaintiffs filed a motion for an emergency temporary restraining order. As the Committee on Education and Workforce had issued a demand for information from Northwestern University, plaintiffs requested that the court issue an order to stay the Committee\u2019s demand and prevent the university from complying by April 10. Plaintiffs argued that the investigation was part of an ideological campaign by the White House to target non-ideologically aligned universities and institutions, and that the stated goal of combating antisemitism was merely pretextual for this politically-motivated attack. Plaintiffs further alleged that the clinical programs at Northwestern University would be harmed as a result of the Committee\u2019s inquiry. Plaintiffs therefore urged the court to issue a temporary restraining order.\n\nOn April 9, 2025, plaintiff\u2019s counsel submitted a declaration, noting that the plaintiffs\u2019 motion for an emergency temporary restraining order had asked the court to act by April 10, but that did not allow time to provide notice to the Committee. Plaintiff\u2019s counsel submitted in their declaration that they provided notice to counsel for the Committee and to Northwestern University.\n\nThe committee then withdrew its request.\u00a0 After the hearing on the request for a temporary restraining order, on April 10, 2025, the court ruled that there was no longer a need for emergency relief, and denied the motion without prejudice.\n\nThe case is ongoing.",
+    "target_paragraph": "The case is ongoing.",
+    "target_paragraph_indices": [
+      5146,
+      5166
+    ],
+    "edits": [
+      {
+        "category": "trials",
+        "output_idx": [
+          [
+            5146,
+            5166
+          ]
+        ],
+        "annotation": {
+          "explanation": "Case status: ongoing (no final judgment or trial scheduled).",
+          "checklist_item": "Trials",
+          "spans_paragraphs": null
+        },
+        "id": 0
+      }
+    ]
+  }
+]
